@@ -1,0 +1,65 @@
+# Progress Log
+
+## 2026-06-20
+
+### Starting Status
+
+- Workspace was empty except for Git metadata.
+- User wants an iterative SEO research project before choosing a parenting-related niche.
+- Monetization is not important right now.
+- Preferred output is a static SEO content library or simple local utility, not an AI chat app.
+
+### Completed In This Iteration
+
+- Created the research workspace structure.
+- Defined phases, score criteria, and decision gates.
+- Created templates for scorecards, SERP reviews, article briefs, and weekly reviews.
+- Generated initial long-tail query ideas for all 4 niches.
+- Seeded qualitative niche scores.
+- Created niche-specific research notes.
+- Created paid-tool export guidance.
+- Wrote the first weekly review note.
+- Wrote an initial recommendation.
+- Completed Phase 2 SERP validation for the top 2 niches:
+  - 25 building-with-kids queries.
+  - 25 JC/NYC kids activities queries.
+- Updated niche scores after SERP validation.
+- Updated the recommendation from medium-low to medium confidence.
+
+### Evidence Collected
+
+- Light free-source pass on parent content patterns:
+  - Preschool science, printable, gross-motor, craft, and development articles from Parents.com.
+  - Age-appropriate explanation topics from Verywell Family and Investopedia examples.
+  - Local activity patterns around Jersey City/Hoboken/NYC, including playgrounds, museums, and family events.
+  - Paid tool feature checks from Ahrefs, Semrush, LowFruits, KeySearch, and Screaming Frog pages or current reviews.
+
+### Assumptions
+
+- The user can personally test activities with a 4-year-old and add firsthand parent notes.
+- The user is likely based near Jersey City/NYC or can access that area enough to review local kids activities.
+- Early publishing capacity is roughly 20-30 pages.
+- The first site should prioritize usefulness and evidence over monetization.
+
+### Open Questions
+
+- Do you want the eventual site to be local-first, activity-first, or explanation-first?
+- Can you take original photos of activities/projects/places?
+- Are you comfortable maintaining time-sensitive local activity pages weekly?
+- Do you want content to include downloadable PDFs, or should the MVP avoid file generation?
+- What are your tolerance levels for mess, prep time, and safety complexity in project content?
+
+### Next Actions
+
+1. Review [data/serp_reviews.csv](data/serp_reviews.csv).
+2. Confirm whether to publish-test building-with-kids first.
+3. Test and photograph 3 initial projects:
+   - Cardboard box car ramp.
+   - Masking tape road.
+   - Toy-car bridge.
+4. Draft or review the first 10 building-with-kids briefs.
+5. Decide whether Phase 3 needs LowFruits/KeySearch after the briefs are accepted.
+
+### Current Confidence
+
+Medium. SERP validation found accessible small-site/local-site results in both top niches. Building-with-kids remains the lower-maintenance publish-first choice.

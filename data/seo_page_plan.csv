@@ -1,0 +1,12 @@
+page_type,url_pattern,index_rule,primary_query_pattern,example_title,purpose,min_content_threshold
+homepage,/,index,preschool activity cards,Preschool Build Lab,Brand/product entry point,Clear positioning plus links to cards collections and video ideas
+video_index,/video-ideas.html,index,preschool activity videos,Video Activity Ideas,Curated source library and discovery page,At least 12 curated sources with summaries
+source_cluster,/video-ideas/{topic}.html,index when 8+ sources exist,{topic} preschool activity videos,Best Toy Car Activity Videos For Preschoolers,Curated videos translated into safety and steps,8 sources plus unique intro filters and card links
+activity_card,/cards/{slug}.html,index when tested or high-confidence,{activity} preschool activity,Cardboard Car Ramp Activity Card,Child-facing one-screen activity,Unique steps safety materials and source attribution
+material_page,/materials/{material}.html,index when 8+ cards exist,{material} activities for preschoolers,Cardboard Activities For Preschoolers,Material hub for search and browsing,8 cards minimum plus material safety notes
+collection_page,/collections/{collection}.html,index when 8+ cards exist,{collection} preschool activities,No-Cut Preschool Activities,Intent hub by parent constraint,8 cards minimum plus filters and internal links
+age_page,/ages/{age}.html,index when 12+ cards exist,activities for {age},Activities For 4-Year-Olds,Age-specific browsing and SEO,12 cards minimum plus age-fit notes
+tag_page,/tags/{tag}.html,noindex until strong demand,{tag} activities for preschoolers,Toy Car Activities For Preschoolers,Internal browsing only at first,Noindex unless 8+ cards and unique copy
+creator_page,/creators/{creator}.html,noindex initially,{creator} activities,Creator Activity Sources,Attribution and source grouping,Only index later with permission/clear value
+article,/articles/{slug}.html,index selectively,{activity} parent guide,Cardboard Car Ramp Parent Notes,Long-form parent notes only when helpful,Must add value beyond the kid card
+

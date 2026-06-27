@@ -1,0 +1,14 @@
+url,page_type,index_status,strength_score,search_intent,why_this_score,next_action
+/cards.html,library,index,78,browse preschool activity cards,"Useful central library with many real card links; needs filters before it is truly strong.","Add filters for material time mess age and adult help."
+/video-ideas.html,video_index,index,72,preschool activity videos,"Useful curated video source page with embeds and translated steps; needs more sources and topic filters.","Expand to 20 visible sources or split into topic pages."
+/collections/no-cut-preschool-activities.html,collection,index,76,no cut preschool activities,"Has 8 real card links and clear parent constraint; needs stronger unique intro and grouping by time/material.","Add 150-250 words of unique guidance and sort cards by time/material."
+/cards/cardboard-car-ramp.html,activity_card,index,74,cardboard car ramp preschool,"Specific intent plus source attribution and steps; stronger after real photos/testing notes.","Add real tested note and optional printable/card screenshot."
+/cards/tape-road.html,activity_card,index,72,tape road activity toddlers,"Specific low-competition activity page with clear steps and safety; needs original image/testing.","Add real photo or generated simple image and parent-tested note."
+/cards/cup-tower.html,activity_card,index,70,cup tower preschool activity,"Simple activity with clear steps; likely lower search demand but useful internal card.","Keep indexed; add to no-cut and 2-minute collections."
+/cards/paper-roll-play.html,activity_card,index,69,paper roll activities preschool,"Specific material intent; needs more distinctive child-facing image/steps.","Improve title or merge with material page if impressions are weak."
+/cards/block-tower.html,activity_card,index,68,block tower activity preschool,"Very simple useful card; search intent may be broad/low value.","Keep as supporting page; add to 2-minute page."
+/collections/toy-car-activities.html,collection,noindex,58,toy car activities for preschoolers,"Useful for browsing but currently only 5 card links and thin unique copy.","Keep noindex until 8+ cards and better intro/filter copy."
+/materials/cardboard.html,material,noindex,56,cardboard activities for preschoolers,"Useful material hub but only 5 real card links; too thin for search right now.","Add 3+ more reviewed cardboard cards and material safety notes."
+/materials/painter-tape.html,material,noindex,48,painter tape activities toddlers,"Only 3 real card links; useful internally but too thin for Google.","Add at least 5 more tape cards before indexing."
+/articles/cardboard-box-car-ramp-preschoolers.html,article,index,52,cardboard car ramp parent guide,"Long article is less aligned with new product; keep as parent notes but do not prioritize.","Either improve with real test photos or noindex later."
+
