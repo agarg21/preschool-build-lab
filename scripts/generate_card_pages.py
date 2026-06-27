@@ -48,13 +48,7 @@ SLUGS = {
     "yt-block-play-benefits": "block-tower",
 }
 
-QUICK_CARD_SLUGS = [
-    "sock-ball-roll",
-    "spoon-transfer",
-    "paper-bridge",
-    "box-garage",
-    "blanket-river",
-]
+QUICK_CARD_SLUGS = [slug for slug in ACTIVITIES if slug not in set(SLUGS.values())]
 
 
 def esc(value):
@@ -240,6 +234,52 @@ def quick_page(slug):
 '''
 
 
+def cards_index():
+    cards = "\n".join(
+        f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(activity["time"])} · {esc(activity["materials"])}</span></a>'
+        for slug, activity in ACTIVITIES.items()
+    )
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Activity Cards | Kid Activity Lab</title>
+    <meta name="description" content="One-screen activity cards preschoolers can follow with parent help. Low-prep play using household materials.">
+    <link rel="stylesheet" href="styles.css?v=nav-stable-2">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="index.html">Kid Activity Lab</a>
+        <div class="nav-links">
+          <a href="index.html">Home</a>
+          <a href="cards.html">Cards</a>
+          <a href="video-ideas.html">Videos</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <p class="kicker">Activity cards</p>
+        <h1>Pick one small thing.</h1>
+        <p class="dek">Each card is meant to fit on one screen: materials, steps, parent check, and source video when one is available.</p>
+      </section>
+
+      <section class="library-grid" aria-label="Activity cards">
+{cards}
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>One-screen activity cards with parent safety checks.</p>
+    </footer>
+  </body>
+</html>
+'''
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     with DATA.open() as f:
@@ -250,7 +290,8 @@ def main():
         (OUT / f"{slug}.html").write_text(page(row, slug))
     for slug in QUICK_CARD_SLUGS:
         (OUT / f"{slug}.html").write_text(quick_page(slug))
-    print(f"generated {len(CARD_ROWS) + len(QUICK_CARD_SLUGS)} card pages")
+    (ROOT / "site" / "cards.html").write_text(cards_index())
+    print(f"generated {len(CARD_ROWS) + len(QUICK_CARD_SLUGS)} card pages and cards index")
 
 
 if __name__ == "__main__":
