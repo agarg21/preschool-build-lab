@@ -120,8 +120,8 @@ def page(row, slug):
         <a class="brand" href="../index.html">Kid Activity Lab</a>
         <div class="nav-links">
           <a href="../index.html">Home</a>
+          <a href="../original/">Original</a>
           <a href="../cards.html">Cards</a>
-          <a href="../video-ideas.html">Videos</a>
         </div>
       </nav>
     </header>
@@ -197,8 +197,8 @@ def quick_page(slug):
         <a class="brand" href="../index.html">Kid Activity Lab</a>
         <div class="nav-links">
           <a href="../index.html">Home</a>
+          <a href="../original/">Original</a>
           <a href="../cards.html">Cards</a>
-          <a href="../video-ideas.html">Videos</a>
         </div>
       </nav>
     </header>
@@ -254,8 +254,8 @@ def cards_index():
         <a class="brand" href="index.html">Kid Activity Lab</a>
         <div class="nav-links">
           <a href="index.html">Home</a>
+          <a href="original/">Original</a>
           <a href="cards.html">Cards</a>
-          <a href="video-ideas.html">Videos</a>
         </div>
       </nav>
     </header>

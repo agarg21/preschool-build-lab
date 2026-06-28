@@ -719,8 +719,8 @@ def page_html(page):
         <a class="brand" href="{root}index.html">Kid Activity Lab</a>
         <div class="nav-links">
           <a href="{root}index.html">Home</a>
+          <a href="{root}original/">Original</a>
           <a href="{root}cards.html">Cards</a>
-          <a href="{root}video-ideas.html">Videos</a>
         </div>
       </nav>
     </header>
