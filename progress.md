@@ -1,5 +1,48 @@
 # Progress Log
 
+## 2026-06-28
+
+### Current Status
+
+- Site is live at `https://kidactivitylab.com`.
+- GitHub Pages publishes from `site/` using `.github/workflows/pages.yml`.
+- Custom domain and HTTPS are configured and enforced.
+- The repo now contains the full working project: source docs, strategy, research data, generators, and generated site files.
+
+### Strategic Direction
+
+- Keep one domain for all kids activity content.
+- Make original/tested content the primary path.
+- Keep activity cards as the fast utility layer.
+- Keep YouTube/video curation as a supporting archive, not the main ranking bet.
+- Focus first on age-4 STEM activities because they can be tested directly and improved with real parent observations.
+
+### Completed Recently
+
+- Added the `/original/` hub.
+- Reworked global navigation to `Home / Original / Cards`.
+- Reframed `video-ideas.html` as `Video Idea Archive`.
+- Added `seo/content-model.md`.
+- Added `AGENTS.md` as the central start-here file for future agents.
+- Added the original age-4 STEM field-test pack:
+  - Ramp Detective
+  - Bridge Rescue
+  - Shadow Builder
+  - Windproof Tower
+  - Tiny Boat Cargo Test
+
+### Next Actions
+
+1. Test the 5 original STEM activities with a 4-year-old.
+2. Record exact observations, kid quotes, setup friction, engagement time, and repeatability.
+3. Add photos, short clips, or simple diagrams for the winners.
+4. Upgrade the best activities into stronger cards and SEO pages.
+5. Verify Google Search Console, submit the sitemap, and monitor indexing.
+
+### Current Confidence
+
+Medium. The technical publishing foundation is now stable. The next value unlock is original tested evidence, not more page volume.
+
 ## 2026-06-20
 
 ### Starting Status

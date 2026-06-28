@@ -4,6 +4,18 @@ Kid Activity Lab is a static SEO experiment for low-prep kids activities, age pa
 
 Live site: https://kidactivitylab.com
 
+For future Codex/agent work, start with [AGENTS.md](AGENTS.md).
+
+## Current Direction
+
+Kid Activity Lab should be one domain with multiple page types, but one clear promise: practical kids activities parents can run at home.
+
+- Original activity content is the core ranking asset.
+- Activity cards are the quick utility layer.
+- SEO collection pages organize demand by age, material, and intent.
+- Video curation stays as a supporting archive, not the main product.
+- The current focus is age-4 STEM activities that can be tested at home and improved with real observations.
+
 ## Repo Structure
 
 - `site/` contains the generated static website published to GitHub Pages.
@@ -31,3 +43,7 @@ Then commit and push the changed source files and generated files.
 1. Review and publish new pages.
 2. Monitor pages already live in Google Search Console.
 3. Review strategy weekly and decide which page cluster to expand next.
+
+## Current Priority
+
+Test the first original age-4 STEM pack, capture parent observations, and use those notes to improve the strongest cards/pages before expanding into more clusters.

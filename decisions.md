@@ -2,6 +2,30 @@
 
 ## Decisions Made
 
+### 2026-06-28: Keep One Domain With Multiple Page Types
+
+Decision: Use `kidactivitylab.com` for original activities, activity cards, SEO collections, age pages, material pages, and a video archive.
+
+Why: One domain can support multiple kids activity page types as long as the promise stays consistent: practical activities parents can run at home.
+
+### 2026-06-28: Original Content Leads
+
+Decision: Original/tested activity content is the primary content asset. Video curation is allowed only as support.
+
+Why: Thin curation is unlikely to build a durable SEO moat. Parent-tested notes, photos, safety observations, easier/harder modes, and kid-facing instructions create more defensible utility.
+
+### 2026-06-28: Age-4 STEM Is The First Original Testing Cluster
+
+Decision: Start original content testing with five age-4 STEM prompts.
+
+Why: The user can directly test activities with a 4-year-old, and STEM has clear search demand around science, engineering, building, and no-prep activities.
+
+### 2026-06-28: Use `AGENTS.md` As The Central Agent Entrypoint
+
+Decision: Future Codex/agent sessions should start from `AGENTS.md`.
+
+Why: The project now has enough docs and generated files that agents need a canonical orientation file to avoid reading stale strategy or making thin pages.
+
 ### 2026-06-20: Start With Free Research
 
 Decision: Do not buy paid SEO tools yet.
