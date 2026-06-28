@@ -424,6 +424,82 @@ th {
   font-weight: 800;
 }
 
+.test-pack {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 12px 20px 64px;
+}
+
+.test-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 10px;
+  margin: 22px 0;
+}
+
+.test-summary div,
+.script-box,
+.watch-box,
+.test-log {
+  border: 1px solid var(--line);
+  background: #fff;
+  padding: 14px;
+}
+
+.test-summary strong,
+.script-box strong,
+.watch-box strong,
+.test-log strong {
+  display: block;
+  color: var(--green);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
+.test-activity {
+  margin: 24px 0;
+  border: 1px solid var(--line);
+  background: #fff;
+  padding: 18px;
+}
+
+.test-activity h2 {
+  margin: 0;
+  font-size: clamp(1.7rem, 4vw, 2.4rem);
+  line-height: 1.08;
+}
+
+.activity-intent {
+  margin: 8px 0 16px;
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.test-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  gap: 14px;
+  margin: 16px 0;
+}
+
+.test-activity ol,
+.test-activity ul {
+  padding-left: 22px;
+}
+
+.test-activity li {
+  margin: 7px 0;
+}
+
+.test-log {
+  background: #fffaf0;
+}
+
+.test-log p {
+  margin: 8px 0 0;
+}
+
 .source-grid {
   max-width: var(--max);
   margin: 0 auto;
@@ -493,6 +569,10 @@ th {
   }
 
   .quick-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .test-grid {
     grid-template-columns: 1fr;
   }
 

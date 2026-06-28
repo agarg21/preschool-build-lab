@@ -1,0 +1,50 @@
+# Age 4 Original STEM Test Pack
+
+Use this while testing the first original Kid Activity Lab activities at home.
+
+## Test Rules
+
+- Try one activity at a time.
+- Stop after 5-10 minutes unless the child wants to continue.
+- Do not over-explain the science. Ask one question, test one thing, then let the object teach.
+- Capture exact kid language when something works or fails.
+- Mark setup friction honestly. A good activity that is annoying to set up is not a repeatable content winner.
+
+## Activities
+
+| Activity | Core question | Materials | Success signal |
+| --- | --- | --- | --- |
+| Ramp Detective | Which surface makes the car go farthest? | Ramp, car, towel, foil, paper | Child predicts and asks to change the surface. |
+| Bridge Rescue | How can the toy cross the river? | Books, paper/cardboard/straws, toy | Child redesigns after a bridge bends or falls. |
+| Shadow Builder | Can the same toy make a big and tiny shadow? | Flashlight, blocks/toys, wall | Child moves the object or light to change the shadow. |
+| Windproof Tower | How can the tower survive wind? | Blocks/cups/tiles, paper fan | Child widens or lowers the tower after a fall. |
+| Tiny Boat Cargo Test | How many passengers can the boat carry? | Foil, shallow tray, large cargo pieces | Child changes boat shape after sinking. |
+
+## Testing Log Template
+
+Copy this for each activity.
+
+```text
+Activity:
+Date:
+Setup time:
+Minutes engaged:
+Fastest yes / hesitation:
+Best kid quote:
+Where instructions broke:
+What the child changed:
+Mess / cleanup:
+Would repeat? Yes / No / Maybe
+Photo/video needed:
+Next version:
+```
+
+## Upgrade Criteria
+
+Promote an activity into a polished SEO/card page when it has:
+
+- 2+ successful home tests.
+- At least one real parent observation.
+- One original photo, short clip, or diagram.
+- Clear easier and harder versions.
+- A safety note based on the actual setup.
