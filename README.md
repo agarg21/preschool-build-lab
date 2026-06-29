@@ -22,6 +22,7 @@ Kid Activity Lab should be one domain with multiple page types, but one clear pr
 - `scripts/` contains generators for card pages, SEO pages, and the sitemap.
 - `data/` contains keyword research, activity source data, page plans, and scoring sheets.
 - `seo/` contains SERP validation and content opportunity notes.
+- `reviews/` contains review-agent prompts and review-cycle notes for improving content.
 - `briefs/`, `templates/`, `weekly/`, and the root markdown files contain strategy, operating notes, and publishing cadence.
 
 ## Publishing

@@ -476,6 +476,28 @@ th {
   font-size: 1.05rem;
 }
 
+.activity-primer {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin: 16px 0;
+}
+
+.activity-primer div {
+  min-height: 82px;
+  border: 1px solid var(--line);
+  background: var(--soft);
+  padding: 12px;
+}
+
+.activity-primer strong {
+  display: block;
+  color: var(--green);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
 .test-grid {
   display: grid;
   grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
@@ -573,6 +595,10 @@ th {
   }
 
   .test-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .activity-primer {
     grid-template-columns: 1fr;
   }
 

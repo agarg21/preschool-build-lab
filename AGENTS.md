@@ -27,6 +27,7 @@ The current strategic direction is:
 - `scripts/`: generators for card pages, SEO pages, and sitemap.
 - `data/`: keyword targets, activity source rows, SERP scoring, and planning CSVs.
 - `seo/`: SEO research, content model, opportunity notes, and strategy docs.
+- `reviews/`: review-agent prompts and content review cycles.
 - `briefs/`: content briefs and field-test packs.
 - `weekly/`: weekly operating reviews.
 - `templates/`: reusable research/content templates.
@@ -37,8 +38,9 @@ The current strategic direction is:
 2. Read `README.md`.
 3. Read `progress.md` for the latest state.
 4. Read `seo/content-model.md` before making new pages.
-5. Check `data/seo_keyword_targets.csv` before adding SEO pages.
-6. If editing generated pages, update the source generator first when possible.
+5. Read `reviews/activity-review-agent.md` before doing review-driven content upgrades.
+6. Check `data/seo_keyword_targets.csv` before adding SEO pages.
+7. If editing generated pages, update the source generator first when possible.
 
 ## Publishing Commands
 
