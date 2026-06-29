@@ -118,3 +118,4 @@ PY
 - Sitemap is at `https://kidactivitylab.com/sitemap.xml`.
 - The repo intentionally keeps source docs, strategy, data, scripts, and generated site together.
 - The site should remain static and simple until traffic justifies more complexity.
+- `agy` Antigravity CLI is available locally and can be used for independent read-only content review cycles.

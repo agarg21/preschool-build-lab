@@ -24,14 +24,14 @@
 - Reframed `video-ideas.html` as `Video Idea Archive`.
 - Added `seo/content-model.md`.
 - Added `AGENTS.md` as the central start-here file for future agents.
-- Added `reviews/` with an activity-review-agent rubric and two review cycles for the original age-4 STEM page.
+- Added `reviews/` with an activity-review-agent rubric, two Codex review cycles, and an `agy` review cycle for the original age-4 STEM page.
 - Added the original age-4 STEM field-test pack:
   - Ramp Detective
   - Bridge Rescue
   - Shadow Builder
   - Windproof Tower
   - Tiny Boat Cargo Test
-- Upgraded the original age-4 STEM pack with quick-start blocks, read-aloud kid steps, stop rules, and concrete safety/mess notes.
+- Upgraded the original age-4 STEM pack with quick-start blocks, read-aloud kid steps, stop rules, concrete safety/mess notes, and `agy`-reviewed mechanical fixes.
 
 ### Next Actions
 
