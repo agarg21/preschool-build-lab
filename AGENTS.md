@@ -95,6 +95,7 @@ PY
 - Every activity should have a clear parent safety note.
 - Every SEO page should have enough unique utility to deserve indexing.
 - Keep videos as references or inspiration unless the page adds substantial original value.
+- Original pages may include credited reference videos, but the Kid Activity Lab value must be the simplified setup, safety boundaries, kid-facing steps, test loop, and real observations.
 
 ## Current Priority Stack
 
