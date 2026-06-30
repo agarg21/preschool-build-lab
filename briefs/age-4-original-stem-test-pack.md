@@ -14,8 +14,8 @@ Use this while testing the first original Kid Activity Lab activities at home.
 
 | Activity | Core question | Materials | Success signal |
 | --- | --- | --- | --- |
-| Ramp Detective | Which surface makes the car go farthest? | Ramp, car, towel, foil, paper | Child predicts and asks to change the surface. |
-| Bridge Rescue | How can the toy cross the river? | Books, paper/cardboard/straws, toy | Child redesigns after a bridge bends or falls. |
+| Ramp Detective | Which surface makes the car go farthest? | Ramp, car, towel, paper, placemat | Child predicts and asks to change the surface. |
+| Bridge Rescue | How can the toy cross the river? | Books, paper/index cards/cardboard, toy | Child redesigns after a bridge bends or falls. |
 | Shadow Builder | Can the same toy make a big and tiny shadow? | Flashlight, blocks/toys, wall | Child moves the object or light to change the shadow. |
 | Windproof Tower | How can the tower survive wind? | Blocks/cups/tiles, paper fan | Child widens or lowers the tower after a fall. |
 | Tiny Boat Cargo Test | How many passengers can the boat carry? | Foil, shallow tray, large cargo pieces | Child changes boat shape after sinking. |
