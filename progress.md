@@ -1,5 +1,23 @@
 # Progress Log
 
+## 2026-07-01
+
+### Search Console Setup
+
+- Verified the `https://kidactivitylab.com/` Google Search Console property using the HTML file method.
+- Added `site/googled495b3fc6f0765f8.html`; keep this file in the site root to preserve verification.
+- Submitted `https://kidactivitylab.com/sitemap.xml` in Search Console.
+- Sitemap status resolved to `Success` after refresh, with 60 discovered pages.
+- Performance report is still processing and currently shows no query/page data.
+
+### URL Inspection Snapshot
+
+- `https://kidactivitylab.com/` is on Google and indexed.
+- `https://kidactivitylab.com/collections/no-cut-preschool-activities.html` is on Google and indexed.
+- `https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html` is not on Google yet.
+- Live test for the original age-4 STEM page says the URL is available to Google and the page can be indexed.
+- Next Search Console action: request indexing for the original age-4 STEM page once ready, then monitor whether it moves from unknown to crawled/indexed.
+
 ## 2026-06-28
 
 ### Current Status
