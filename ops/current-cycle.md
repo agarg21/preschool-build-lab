@@ -25,10 +25,16 @@ Improve the original age-4 STEM cluster before expanding into new topic clusters
 - Test at least two of the five original age-4 STEM activities.
 - Record setup time, engagement time, exact kid quotes, confusion points, mess, what changed, and repeatability.
 - If possible, request indexing in Search Console for `https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html` and `https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html` after publish.
+- After both pages have impressions, compare Search Console queries/positions to see whether the hub owns broad `stem activities for 4 year olds` queries and the pack earns original/test-pack or long-tail activity clicks.
 - Optional: create a Semrush Project for `kidactivitylab.com` if technical Site Audit or Position Tracking is desired through Semrush.
 
 ## Recently Completed
 
+- Implementation Agent metadata pass completed on 2026-07-02:
+  - Updated the generated age-4 STEM hub title and meta description to target broad at-home STEM chooser intent.
+  - Updated the original pack title/H1 to `Original Age-4 STEM Test Pack` and changed its meta description to emphasize parent jobs, read-aloud steps, safety notes, stop rules, and observation prompts.
+  - Ran card page, SEO page, and sitemap generation plus the AGENTS.md link checker; validation reported `missing links 0`.
+- Review Agent checked age-4 STEM page structure for parent clarity and SEO cannibalization risk on 2026-07-02. Recommendation: both pages can remain indexable; the parent distinction is clear enough after anchor-link fixes, but metadata should more explicitly split the hub as the broad chooser and the original pack as the runnable test pack.
 - Implementation Agent link-clarity pass completed on 2026-07-02:
   - Added anchors for Ramp Detective, Bridge Rescue, Shadow Builder, Windproof Tower, and Tiny Boat Cargo Test in `site/collections/original-stem-activities-for-4-year-olds.html`.
   - Updated the five original-pack preview links on `site/ages/stem-activities-for-4-year-olds.html` to point to those anchors with "Open in original test pack."

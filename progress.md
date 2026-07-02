@@ -2,6 +2,16 @@
 
 ## 2026-07-02
 
+### Implementation Pass - Age-4 STEM Metadata
+
+- Differentiated the age-4 STEM hub and original test pack metadata:
+  - hub title now targets broad at-home STEM chooser intent
+  - hub meta description now mentions ramps, bridges, shadows, towers, water tests, and the original test pack
+  - original pack title/H1 now uses `Original Age-4 STEM Test Pack`
+  - original pack meta description now frames it as five runnable activities with parent jobs, read-aloud steps, safety notes, stop rules, and observation prompts
+- Updated `scripts/generate_seo_pages.py` so the hub metadata survives regeneration.
+- Ran card page generation, SEO page generation, sitemap generation, and the AGENTS.md link checker; validation reported `missing links 0`.
+
 ### Implementation Pass - Age-4 STEM Link Clarity
 
 - Fixed the Review Agent link mismatch on the age-4 STEM hub:

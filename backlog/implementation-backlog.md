@@ -22,6 +22,7 @@
 
 ## Done
 
+- Differentiated age-4 STEM hub and original-pack metadata to reduce cannibalization risk while keeping both pages indexable.
 - Fixed the age-4 STEM hub's original-name/generic-card link mismatch by adding five original-pack activity anchors and changing the matching hub preview links to "Open in original test pack."
 - Tightened the repeated Tiny Boat Cargo Test rescue side box after adding its anchor.
 - Re-reviewed the age-4 STEM implementation; original pack block, chooser, foil de-emphasis, safety line, and rescue lines passed, but link clarity needs one implementation fix.

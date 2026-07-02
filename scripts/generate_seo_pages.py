@@ -567,10 +567,10 @@ PAGES = [
         "path": "ages/stem-activities-for-4-year-olds.html",
         "page_type": "age",
         "primary": "stem activities for 4 year olds",
-        "title": "STEM Activities for 4 Year Olds | Kid Activity Lab",
+        "title": "STEM Activities for 4 Year Olds at Home | Kid Activity Lab",
         "h1": "STEM activities for 4 year olds.",
         "kicker": "Age 4 STEM",
-        "description": "Simple STEM activities for 4 year olds at home: ramps, bridges, sink-or-float tests, magnets, patterns, towers, and low-prep experiments.",
+        "description": "Choose simple STEM activities for 4 year olds at home, including low-mess ramps, bridges, shadows, towers, water tests, and the original age-4 STEM test pack.",
         "intro": "Four year olds learn STEM best when the question is visible: Will it roll farther? Will it float? Will the bridge hold? These activities keep the setup small and give the child something real to test.",
         "tip": "Use one question per activity: What do you think will happen, and what changed when we tried again?",
         "start_block": {
