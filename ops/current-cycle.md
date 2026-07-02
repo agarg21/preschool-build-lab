@@ -6,25 +6,49 @@ Improve the original age-4 STEM cluster before expanding into new topic clusters
 
 ## Ready For SEO Research Agent
 
-- Review current keyword targets after the first Search Console impressions appear.
-- Use Semrush to identify only supporting opportunities for the age-4 STEM and preschool STEM cluster.
+- Monitor Search Console once query/page data is available; no local export or connector data is available yet.
+- Re-check Semrush after Google has had more time to test the indexed pages.
+- Do not propose new SEO pages until the age-4 STEM hub and original pack have stronger parent-tested evidence.
 
 ## Ready For Review Agent
 
-- Review `site/collections/original-stem-activities-for-4-year-olds.html` after any new parent testing notes are added.
-- Review `site/ages/stem-activities-for-4-year-olds.html` for whether it points clearly enough to the original/tested pack.
+- Review `site/collections/original-stem-activities-for-4-year-olds.html` again after any new parent testing notes are added.
+- Review `site/collections/stem-activities-for-preschoolers.html` after the age-4 STEM hub direction is settled; SEO triage found this is the strongest current Semrush opportunity but should function as a tested-activity hub, not a generic roundup.
 
 ## Ready For Implementation Agent
 
 - Decide whether manual hub pages should eventually move into generators.
+- Later/secondary: enrich or `noindex,follow` `site/collections/no-cut-preschool-activities.html`; SEO triage found it is indexed and canonical but still thin compared with the current SEO standard.
 
 ## Waiting On User
 
 - Test at least two of the five original age-4 STEM activities.
 - Record setup time, engagement time, exact kid quotes, confusion points, mess, what changed, and repeatability.
+- If possible, request indexing in Search Console for `https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html` and `https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html` after publish.
+- Optional: create a Semrush Project for `kidactivitylab.com` if technical Site Audit or Position Tracking is desired through Semrush.
 
 ## Recently Completed
 
+- Implementation Agent link-clarity pass completed on 2026-07-02:
+  - Added anchors for Ramp Detective, Bridge Rescue, Shadow Builder, Windproof Tower, and Tiny Boat Cargo Test in `site/collections/original-stem-activities-for-4-year-olds.html`.
+  - Updated the five original-pack preview links on `site/ages/stem-activities-for-4-year-olds.html` to point to those anchors with "Open in original test pack."
+  - Tightened the repeated Tiny Boat Cargo Test rescue side box.
+  - Ran card, SEO page, and sitemap generation plus the AGENTS.md link checker and an anchor-target check; validation reported `missing links 0`, `missing anchor links 0`, and `missing anchor ids 0`.
+- Master Operator independently re-ran generation, sitemap, link validation, and anchor validation after the link-clarity pass; validation reported `missing links 0` and `missing anchor links 0`.
+- Review Agent re-reviewed the updated age-4 STEM implementation on 2026-07-02 and wrote `reviews/age-4-stem-implementation-rereview-2026-07-02.md`; result: close, but needs one link-clarity fix before publish/indexing request.
+- Implementation Agent pass completed on 2026-07-02:
+  - Added the original age-4 STEM test pack block and tired-parent chooser to `site/ages/stem-activities-for-4-year-olds.html`.
+  - Aligned key age-4 STEM hub copy with Ramp Detective, Bridge Rescue, Shadow Builder, Windproof Tower, and Tiny Boat Cargo Test.
+  - De-emphasized foil in the age-4 STEM hub ramp texture row.
+  - Added a global "Before you start" safety line and short rescue lines to `site/collections/original-stem-activities-for-4-year-olds.html`.
+  - Ran card, SEO page, and sitemap generation plus the AGENTS.md link checker; validation reported `missing links 0`.
+- Master Operator re-ran card, SEO page, and sitemap generation plus link validation; validation again reported `missing links 0`.
+- SEO Research Agent first triage completed on 2026-07-02:
+  - Semrush still has no organic keyword rows for `kidactivitylab.com` in the US database.
+  - Semrush backlink baseline: Authority Score 0, 20 backlinks, 6 referring domains, 0 follow links, 18 nofollow links.
+  - Current keyword opportunity remains age-4 STEM and preschool STEM, especially `stem activities for preschoolers` (US volume 1300, KD 11) and `stem activities for 4 year olds` (US volume 30, KD 6).
+  - No new SEO pages recommended this cycle; improve existing hubs and wait for testing/Search Console signal.
+- Review Agent completed a pre-testing review of the age-4 STEM cluster and wrote `reviews/age-4-stem-cluster-review-2026-07-02.md`.
 - Cleaned public-facing internal strategy language from the home, original, video archive, and support pages.
 - Added canonical tags to manual hub pages.
 - Created and pushed a clean baseline commit for agent orchestration.
@@ -33,4 +57,4 @@ Improve the original age-4 STEM cluster before expanding into new topic clusters
 
 ## Recommended Next Agent
 
-SEO Research Agent, after the three role chats are created and bootstrapped.
+No agent is needed until new user testing notes, Search Console data, or Semrush data are available. Next manual action is to request indexing for the two age-4 STEM pages after publishing, then test at least two original activities.

@@ -2,6 +2,29 @@
 
 ## 2026-07-02
 
+### Implementation Pass - Age-4 STEM Link Clarity
+
+- Fixed the Review Agent link mismatch on the age-4 STEM hub:
+  - added activity anchors to the original age-4 STEM test pack for Ramp Detective, Bridge Rescue, Shadow Builder, Windproof Tower, and Tiny Boat Cargo Test
+  - updated the five original-pack preview links on the generated age-4 STEM hub to point to those anchors
+  - changed those links to read "Open in original test pack"
+- Updated `scripts/generate_seo_pages.py` so the anchor links and link text survive regeneration.
+- Tightened the repeated Tiny Boat Cargo Test rescue side box to the shorter Review Agent wording.
+- Ran the publishing generation commands, AGENTS.md link checker, and an anchor-target check; validation reported `missing links 0`, `missing anchor links 0`, and `missing anchor ids 0`.
+- Next review need: optional final Review Agent spot-check for link clarity; otherwise the cluster is ready for publish/indexing follow-up while parent testing remains the main content dependency.
+
+### Implementation Pass - Age-4 STEM Cluster
+
+- Strengthened the generated `site/ages/stem-activities-for-4-year-olds.html` hub:
+  - added a prominent original age-4 STEM test pack block
+  - added a tired-parent chooser by mess, story hook, movement, water tolerance, and calm/bedtime use
+  - aligned key hub labels with Ramp Detective, Bridge Rescue, Shadow Builder, Windproof Tower, and Tiny Boat Cargo Test
+  - de-emphasized foil in the ramp texture row by using towel, paper, or placemat language
+- Updated `scripts/generate_seo_pages.py` so the age-4 STEM hub changes are preserved by regeneration.
+- Polished `site/collections/original-stem-activities-for-4-year-olds.html` with a global "Before you start" safety line and short rescue lines for the activities.
+- Ran the publishing generation commands and local link checker; validation reported `missing links 0`.
+- Next review need: Review Agent should re-review the age-4 STEM hub and original pack for parent followability after this implementation pass.
+
 ### Agent Operating Setup
 
 - Cleaned public-facing copy that exposed internal strategy language on manual hub pages.

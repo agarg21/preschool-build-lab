@@ -573,7 +573,61 @@ PAGES = [
         "description": "Simple STEM activities for 4 year olds at home: ramps, bridges, sink-or-float tests, magnets, patterns, towers, and low-prep experiments.",
         "intro": "Four year olds learn STEM best when the question is visible: Will it roll farther? Will it float? Will the bridge hold? These activities keep the setup small and give the child something real to test.",
         "tip": "Use one question per activity: What do you think will happen, and what changed when we tried again?",
-        "activities": ["car-ramp-distance-test", "paper-bridge", "sink-or-float-tray", "magnet-hunt", "shadow-shape-match", "pattern-path", "wind-tower-test", "color-mixing-cups", "ramp-texture-test"],
+        "start_block": {
+            "title": "Start with the original age-4 STEM test pack",
+            "body": "Best first pick: start with the Kid Activity Lab original test pack. It has five 5-10 minute activities with parent jobs, read-aloud kid steps, stop rules, and notes to capture what actually worked.",
+            "link_text": "Open the original age-4 STEM test pack",
+            "url": "../collections/original-stem-activities-for-4-year-olds.html",
+        },
+        "chooser": [
+            ("I need low mess", "Ramp Detective or Shadow Builder", "Dry materials, fast reset, and easy to stop."),
+            ("My child likes stories", "Bridge Rescue", "The toy crossing the river gives the test a reason."),
+            ("I need movement but not chaos", "Windproof Tower", "Building and rebuilding gives energy a job."),
+            ("We can handle water", "Tiny Boat Cargo Test", "High engagement, but needs close supervision."),
+            ("It is almost bedtime", "Shadow Builder", "Calm, low mess, and easy to end after two shadows."),
+        ],
+        "activity_overrides": {
+            "car-ramp-distance-test": {
+                "title": "Ramp Detective car test",
+                "url": "../collections/original-stem-activities-for-4-year-olds.html#ramp-detective",
+                "link_text": "Open in original test pack",
+                "materials": "low ramp, towel or placemat, toy car",
+                "best_for": "ramps, prediction, measuring",
+                "steps": ["Roll on a plain ramp.", "Add one road surface.", "Guess what will happen.", "Mark where the car stops."],
+            },
+            "paper-bridge": {
+                "title": "Bridge Rescue paper bridge",
+                "url": "../collections/original-stem-activities-for-4-year-olds.html#bridge-rescue",
+                "link_text": "Open in original test pack",
+                "best_for": "engineering, story play, testing strength",
+            },
+            "shadow-shape-match": {
+                "title": "Shadow Builder",
+                "url": "../collections/original-stem-activities-for-4-year-olds.html#shadow-builder",
+                "link_text": "Open in original test pack",
+                "best_for": "light, shapes, calm cause and effect",
+            },
+            "wind-tower-test": {
+                "title": "Windproof Tower",
+                "url": "../collections/original-stem-activities-for-4-year-olds.html#windproof-tower",
+                "link_text": "Open in original test pack",
+                "best_for": "structure, stability, redesign",
+            },
+            "foil-boat-test": {
+                "title": "Tiny Boat Cargo Test",
+                "url": "../collections/original-stem-activities-for-4-year-olds.html#tiny-boat-cargo-test",
+                "link_text": "Open in original test pack",
+                "materials": "foil, shallow water tray, large cargo pieces",
+                "best_for": "buoyancy, water play, redesign",
+                "steps": ["Shape a foil boat.", "Float it.", "Add one large passenger.", "Pinch the sides higher."],
+                "parent": "Use one inch of water, large cargo only, and stay next to the tray.",
+            },
+            "ramp-texture-test": {
+                "materials": "ramp, towel or paper, toy car",
+                "steps": ["Roll on a plain ramp.", "Add a towel.", "Try paper or a placemat.", "Compare the rolls."],
+            },
+        },
+        "activities": ["car-ramp-distance-test", "paper-bridge", "foil-boat-test", "magnet-hunt", "shadow-shape-match", "pattern-path", "wind-tower-test", "color-mixing-cups", "ramp-texture-test"],
         "related": ["easy stem activities for 4 year olds", "stem activities for 4 year olds at home", "science activities for 4 year olds"],
     },
     {
@@ -666,11 +720,18 @@ def rel_root(path):
     return "../" * depth
 
 
+def page_activity(page, key):
+    activity = dict(ACTIVITIES[key])
+    activity.update(page.get("activity_overrides", {}).get(key, {}))
+    return activity
+
+
 def activity_card(activity):
     steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
     link = ""
     if activity["url"]:
-        link = f'<a class="small-link" href="{esc(activity["url"])}">Open card</a>'
+        link_text = activity.get("link_text", "Open card")
+        link = f'<a class="small-link" href="{esc(activity["url"])}">{esc(link_text)}</a>'
     return f'''        <article class="seo-activity">
           <div>
             <h2>{esc(activity["title"])}</h2>
@@ -691,16 +752,56 @@ def activity_card(activity):
 
 def page_html(page):
     root = rel_root(page["path"])
-    activity_html = "\n".join(activity_card(ACTIVITIES[key]) for key in page["activities"])
+    activity_html = "\n".join(activity_card(page_activity(page, key)) for key in page["activities"])
     rows = "\n".join(
         f'''            <tr>
-              <td>{esc(ACTIVITIES[key]["title"])}</td>
-              <td>{esc(ACTIVITIES[key]["time"])}</td>
-              <td>{esc(ACTIVITIES[key]["mess"])}</td>
-              <td>{esc(ACTIVITIES[key]["materials"])}</td>
+              <td>{esc(page_activity(page, key)["title"])}</td>
+              <td>{esc(page_activity(page, key)["time"])}</td>
+              <td>{esc(page_activity(page, key)["mess"])}</td>
+              <td>{esc(page_activity(page, key)["materials"])}</td>
             </tr>'''
         for key in page["activities"]
     )
+    start_block = ""
+    if page.get("start_block"):
+        block = page["start_block"]
+        start_block = f'''
+
+        <section class="callout start-block">
+          <h2>{esc(block["title"])}</h2>
+          <p>{esc(block["body"])}</p>
+          <p><a href="{esc(block["url"])}">{esc(block["link_text"])}</a></p>
+        </section>'''
+    chooser = ""
+    if page.get("chooser"):
+        chooser_rows = "\n".join(
+            f'''            <tr>
+              <td>{esc(situation)}</td>
+              <td>{esc(pick)}</td>
+              <td>{esc(reason)}</td>
+            </tr>'''
+            for situation, pick, reason in page["chooser"]
+        )
+        chooser = f'''
+
+        <section class="chooser">
+          <h2>Tired-parent chooser</h2>
+          <div class="table-wrap seo-table" aria-label="Tired-parent activity chooser">
+            <table>
+              <thead>
+                <tr>
+                  <th>Parent situation</th>
+                  <th>Best pick</th>
+                  <th>Why</th>
+                </tr>
+              </thead>
+              <tbody>
+{chooser_rows}
+              </tbody>
+            </table>
+          </div>
+        </section>'''
+    extra_sections = start_block + chooser
     related = "".join(f"<li>{esc(query)}</li>" for query in page["related"])
     canonical = f"{BASE_URL}/{page['path']}"
     return f'''<!doctype html>
@@ -735,7 +836,7 @@ def page_html(page):
       <section class="seo-page">
         <div class="callout">
           <strong>Quick pick:</strong> {esc(page["tip"])}
-        </div>
+        </div>{extra_sections}
 
         <div class="table-wrap seo-table" aria-label="Activity chooser">
           <table>
