@@ -18,6 +18,10 @@ Kid Activity Lab should be one domain with multiple page types, but one clear pr
 
 ## Repo Structure
 
+- `strategy/` contains the current strategic source of truth.
+- `agents/` contains role instructions for the manual Codex agent chats.
+- `ops/` contains the current-cycle baton, cadence notes, and user-input queue.
+- `backlog/` contains SEO, review, implementation, and icebox backlogs.
 - `site/` contains the generated static website published to GitHub Pages.
 - `scripts/` contains generators for card pages, SEO pages, and the sitemap.
 - `data/` contains keyword research, activity source data, page plans, and scoring sheets.
@@ -41,9 +45,14 @@ Then commit and push the changed source files and generated files.
 
 ## Operating Cadence
 
-1. Review and publish new pages.
-2. Monitor pages already live in Google Search Console.
-3. Review strategy weekly and decide which page cluster to expand next.
+Use the manual agent loop in `ops/cadence.md`:
+
+1. SEO Research Agent identifies opportunities or says there is no new signal.
+2. Review Agent turns selected pages or briefs into parent-usability fixes.
+3. Implementation Agent ships the highest-confidence changes.
+4. Master Operator checks alignment, blockers, and next steps.
+
+Agents coordinate through `ops/current-cycle.md` and the backlogs.
 
 ## Current Priority
 

@@ -23,6 +23,10 @@ The current strategic direction is:
 
 ## Where Things Live
 
+- `strategy/`: canonical current strategy, content principles, and monetization path.
+- `agents/`: role charters for the Master Operator, SEO Research Agent, Review Agent, and Implementation Agent.
+- `ops/`: current-cycle baton, cadence, daily logs, and user-input queue.
+- `backlog/`: SEO, review, implementation, and icebox backlogs.
 - `site/`: generated/static website served by GitHub Pages.
 - `scripts/`: generators for card pages, SEO pages, and sitemap.
 - `data/`: keyword targets, activity source rows, SERP scoring, and planning CSVs.
@@ -35,12 +39,24 @@ The current strategic direction is:
 ## Start Every Work Session
 
 1. Read this file.
-2. Read `README.md`.
-3. Read `progress.md` for the latest state.
-4. Read `seo/content-model.md` before making new pages.
-5. Read `reviews/activity-review-agent.md` before doing review-driven content upgrades.
-6. Check `data/seo_keyword_targets.csv` before adding SEO pages.
-7. If editing generated pages, update the source generator first when possible.
+2. Read `strategy/current-strategy.md`.
+3. Read `ops/current-cycle.md`.
+4. Read the relevant role file in `agents/` if this is a role-specific chat.
+5. Read `README.md`.
+6. Read `progress.md` for the latest state.
+7. Read `seo/content-model.md` before making new pages.
+8. Read `reviews/activity-review-agent.md` before doing review-driven content upgrades.
+9. Check `data/seo_keyword_targets.csv` before adding SEO pages.
+10. If editing generated pages, update the source generator first when possible.
+
+## Agent Roles
+
+- Master Operator: uses `agents/master-operator.md`; coordinates the loop and resolves strategy/process questions.
+- SEO Research Agent: uses `agents/seo-research-agent.md`; owns research, keyword targets, briefs, and SEO backlog.
+- Review Agent: uses `agents/review-agent.md`; owns parent-usability reviews and implementation-ready fixes.
+- Implementation Agent: uses `agents/implementation-agent.md`; owns website changes, generators, validation, and publishing notes.
+
+Agents coordinate through repo artifacts, especially `ops/current-cycle.md` and the files in `backlog/`. Each role-specific run should read the baton first and update it last.
 
 ## Publishing Commands
 
@@ -120,3 +136,4 @@ PY
 - The repo intentionally keeps source docs, strategy, data, scripts, and generated site together.
 - The site should remain static and simple until traffic justifies more complexity.
 - `agy` Antigravity CLI is available locally and can be used for independent read-only content review cycles.
+- `publish-notes.md` contains historical launch notes and may reference old GitHub Pages preview URLs or earlier domain ideas. Prefer `strategy/current-strategy.md`, `progress.md`, and `decisions.md` for current direction.

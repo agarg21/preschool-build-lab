@@ -1,5 +1,26 @@
 # Progress Log
 
+## 2026-07-02
+
+### Agent Operating Setup
+
+- Cleaned public-facing copy that exposed internal strategy language on manual hub pages.
+- Added canonical tags to manual public hubs and updated the card index generator to preserve the `cards.html` canonical.
+- Added `weekly/2026-07-02-master-audit.md` to record the pre-agent audit.
+- Reconnected the local checkout to `agarg21/preschool-build-lab`, realigned `main` with `origin/main`, committed the cleanup, and pushed it.
+- Added the operating layer for manual Codex agents:
+  - `strategy/`
+  - `agents/`
+  - `ops/`
+  - `backlog/`
+
+### Next Actions
+
+1. Create the three role chats: SEO Research Agent, Review Agent, and Implementation Agent.
+2. Paste each chat's bootstrap prompt and point it to the matching file in `agents/`.
+3. Run the first manual loop: SEO triage, Review triage, then Implementation.
+4. Keep this thread as the Master Operator chat.
+
 ## 2026-07-01
 
 ### Search Console Setup

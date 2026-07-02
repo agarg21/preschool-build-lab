@@ -1,5 +1,7 @@
 # Publish Notes
 
+> Historical note: this file includes early launch and domain notes from before the current `kidactivitylab.com` direction was finalized. For current strategy, use `strategy/current-strategy.md`, `AGENTS.md`, `progress.md`, and `decisions.md`.
+
 ## Current Status
 
 One article is publish-ready as a static HTML page:
