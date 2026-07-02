@@ -246,6 +246,7 @@ def cards_index():
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Activity Cards | Kid Activity Lab</title>
     <meta name="description" content="One-screen activity cards preschoolers can follow with parent help. Low-prep play using household materials.">
+    <link rel="canonical" href="https://kidactivitylab.com/cards.html">
     <link rel="stylesheet" href="styles.css?v=nav-stable-2">
   </head>
   <body>
