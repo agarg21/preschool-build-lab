@@ -6,7 +6,8 @@ Improve the original age-4 STEM cluster before expanding into new topic clusters
 
 ## Ready For SEO Research Agent
 
-- Monitor Search Console once query/page data is available; no local export or connector data is available yet.
+- Monitor Search Console now that the first query data is available. As of 2026-07-06, Search Console shows 0 clicks, 9 impressions, 0% CTR, and average position 11.9.
+- Visible queries as of 2026-07-06: `cardboard ramp` and `home activities for 4 year olds`, each with 1 impression.
 - Re-check Semrush after Google has had more time to test the indexed pages.
 - Do not propose new SEO pages until the age-4 STEM hub and original pack have stronger parent-tested evidence.
 
@@ -24,12 +25,18 @@ Improve the original age-4 STEM cluster before expanding into new topic clusters
 
 - Test at least two of the five original age-4 STEM activities.
 - Record setup time, engagement time, exact kid quotes, confusion points, mess, what changed, and repeatability.
-- If possible, request indexing in Search Console for `https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html` and `https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html` after publish.
+- If possible, request indexing in Search Console for `https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html`, `https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html`, and `https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html`.
 - After both pages have impressions, compare Search Console queries/positions to see whether the hub owns broad `stem activities for 4 year olds` queries and the pack earns original/test-pack or long-tail activity clicks.
 - Optional: create a Semrush Project for `kidactivitylab.com` if technical Site Audit or Position Tracking is desired through Semrush.
 
 ## Recently Completed
 
+- Weekly operating review completed on 2026-07-06:
+  - Domain, DNS, HTTPS, GitHub Pages, live key URLs, robots, sitemap, and local links are healthy.
+  - Search Console sitemap status is `Success`, last read 2026-07-04, with 61 discovered pages.
+  - Search Console Performance now shows initial data: 0 clicks, 9 impressions, 0% CTR, average position 11.9.
+  - URL Inspection still reports the original age-4 STEM pack, age-4 STEM hub, and preschool STEM hub as `URL is unknown to Google`.
+  - Recommendation: no new pages this cycle; request indexing and collect parent-tested evidence.
 - Implementation Agent metadata pass completed on 2026-07-02:
   - Updated the generated age-4 STEM hub title and meta description to target broad at-home STEM chooser intent.
   - Updated the original pack title/H1 to `Original Age-4 STEM Test Pack` and changed its meta description to emphasize parent jobs, read-aloud steps, safety notes, stop rules, and observation prompts.
