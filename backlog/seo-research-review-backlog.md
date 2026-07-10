@@ -15,7 +15,7 @@ Historical supporting files:
 
 ## Ready For SEO Research & Review Agent
 
-- Re-check GSC and Semrush several days after the next deployment.
+- Re-check GSC and Semrush several days after the 2026-07-10 deployment.
 - Review `site/collections/original-stem-activities-for-4-year-olds.html` again after parent testing notes are added.
 - Review `site/collections/stem-activities-for-preschoolers.html` after age-4 STEM and GSC-visible improvements are stable.
 
@@ -26,6 +26,9 @@ Historical supporting files:
 
 ## Monitor
 
+- `[monitor]` GSC Page indexing on 2026-07-10 shows 4 indexed pages and 4 not indexed pages; report last update is 2026-06-29.
+- `[monitor]` `https://kidactivitylab.com/index.html` is excluded as duplicate without user-selected canonical; local canonical points to `https://kidactivitylab.com/`, so this is expected.
+- `[monitor]` `cards/paper-chain-test.html`, `cards/paper-bridge.html`, and `cards/duplo-games.html` are crawled but currently not indexed; local self-canonicals and sitemap inclusion are present, so treat as low-priority card selection unless GSC shows broader hub/guide exclusions.
 - `[monitor]` GSC on 2026-07-09 shows 0 clicks, 13 impressions, 0% CTR, and average position 13.8 over the selected 3-month view.
 - `[monitor]` Visible GSC queries include `cardboard ramp`, `how to make a ramp with cardboard`, and `home activities for 4 year olds`.
 - `[monitor]` Visible GSC page rows include the homepage, cardboard ramp article, no-cut collection, and age-4 at-home hub.

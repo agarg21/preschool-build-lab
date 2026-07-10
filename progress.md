@@ -1,5 +1,27 @@
 # Progress Log
 
+## 2026-07-10
+
+### Publish And GSC Indexing Check
+
+- Committed and pushed `fe753f9` (`Improve GSC-visible pages and agent workflow`) to `main`.
+- GitHub Pages deploy completed successfully after the push.
+- Checked Google Search Console Page indexing report for `https://kidactivitylab.com/`.
+- GSC Page indexing report last update: 2026-06-29.
+- Current report shows 4 indexed pages and 4 not indexed pages.
+- Indexed examples:
+  - `https://kidactivitylab.com/`
+  - `https://kidactivitylab.com/collections/no-cut-preschool-activities.html`
+  - `https://kidactivitylab.com/cards/ball-maze-box.html`
+  - `https://kidactivitylab.com/cards/block-tower.html`
+- Not indexed examples:
+  - `https://kidactivitylab.com/index.html`: duplicate without user-selected canonical; this is expected because local canonical points to `https://kidactivitylab.com/`.
+  - `https://kidactivitylab.com/cards/paper-chain-test.html`: crawled, currently not indexed.
+  - `https://kidactivitylab.com/cards/paper-bridge.html`: crawled, currently not indexed.
+  - `https://kidactivitylab.com/cards/duplo-games.html`: crawled, currently not indexed.
+- Local check found the three card URLs have self-canonicals and are included in `site/sitemap.xml`; this looks like normal early-site Google selection of low-priority card pages, not a technical indexing bug.
+- Recommendation: do not chase individual card indexing yet. Keep prioritizing the parent-useful hubs, original tested STEM pack, and stronger guide pages.
+
 ## 2026-07-09
 
 ### Search Console Indexing Requests

@@ -14,8 +14,7 @@ Improve the pages Google is already testing while keeping the original age-4 STE
 
 ## Ready For SEO Research & Review Agent
 
-- Re-check GSC after the next implementation pass has been live for several days.
-- Re-check Semrush after Google has had more time to test the indexed pages.
+- Re-check GSC and Semrush after the 2026-07-10 deployment has been live for several days.
 - Do not propose new SEO pages until the GSC-visible pages and age-4 STEM cluster have stronger evidence.
 - Review `site/collections/original-stem-activities-for-4-year-olds.html` again after any new parent testing notes are added.
 - Review `site/collections/stem-activities-for-preschoolers.html` after the age-4 STEM hub direction is settled; SEO triage found this is the strongest current Semrush opportunity but should function as a tested-activity hub, not a generic roundup.
@@ -35,6 +34,13 @@ Improve the pages Google is already testing while keeping the original age-4 STE
 
 ## Recently Completed
 
+- Master committed and pushed `fe753f9` on 2026-07-10; the GitHub Pages deploy completed successfully.
+- Master checked Google Search Console Page indexing on 2026-07-10:
+  - Report last update: 2026-06-29.
+  - GSC shows 4 indexed pages and 4 not indexed pages.
+  - Indexed examples include the homepage, no-cut preschool collection, `cards/ball-maze-box.html`, and `cards/block-tower.html`.
+  - `https://kidactivitylab.com/index.html` is excluded as `Duplicate without user-selected canonical`; local canonical points to `https://kidactivitylab.com/`, so this is expected.
+  - `cards/paper-chain-test.html`, `cards/paper-bridge.html`, and `cards/duplo-games.html` are `Crawled - currently not indexed`; local self-canonicals and sitemap inclusion are present, so this is not currently a technical fix.
 - SEO Research & Review Agent rereviewed the completed GSC-visible implementation pass on 2026-07-09 in `reviews/gsc-visible-implementation-rereview-2026-07-09.md`:
   - Verdict: pass; ready for Master commit/publish review.
   - The cardboard ramp article, no-cut preschool collection, and age-4 at-home hub all remain indexable and parent-useful.
@@ -108,4 +114,4 @@ Improve the pages Google is already testing while keeping the original age-4 STE
 
 ## Recommended Next Agent
 
-Run Master / Operator next for commit/publish review. After deployment has had several days to settle, run SEO Research & Review Agent to re-check GSC and Semrush.
+Run SEO Research & Review Agent after the 2026-07-10 deployment has had several days to settle. Until then, collect structured parent-test notes for the two original age-4 STEM activities already tested.
