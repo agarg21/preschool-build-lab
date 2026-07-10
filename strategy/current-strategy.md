@@ -6,7 +6,15 @@ Build Kid Activity Lab into a practical kids activity site that can eventually e
 
 ## Current Focus
 
-Focus first on activities for 3-6 year old kids, with the strongest current push around original age-4 STEM activities.
+Focus first on activities for 3-6 year old kids.
+
+The strategic content bet remains original age-4 STEM, but the immediate operating priority is to improve the pages Google is already testing:
+
+- `site/articles/cardboard-box-car-ramp-preschoolers.html`
+- `site/collections/no-cut-preschool-activities.html`
+- `site/ages/activities-for-4-year-olds-at-home.html`
+
+This is not a pivot away from age-4 STEM. It is a near-term response to early Search Console signal.
 
 ## Strategic Bet
 
@@ -31,13 +39,16 @@ The highest-value input is real testing:
 - safety or mess surprises
 - whether the child asked to repeat it
 
+The site also needs to convert the first GSC impressions into stronger pages before expanding. As of the 2026-07-09 SEO pass, GSC shows early impressions but no clicks; Semrush sees the cardboard ramp article around positions 25-26 for `how to make a ramp with cardboard`.
+
 ## Do Now
 
-1. Test the five activities in `site/collections/original-stem-activities-for-4-year-olds.html`.
-2. Record observations in `briefs/age-4-original-stem-test-pack.md` or a dated weekly note.
-3. Upgrade the strongest activities with real notes and visuals.
-4. Improve the age-4 STEM hub and preschool STEM hub around tested winners.
-5. Monitor indexing and Search Console data before expanding.
+1. Apply the GSC-visible improvement pass from `reviews/gsc-visible-page-review-2026-07-09.md`.
+2. Test the five activities in `site/collections/original-stem-activities-for-4-year-olds.html`.
+3. Record observations in `briefs/age-4-original-stem-test-pack.md` or a dated weekly note.
+4. Upgrade the strongest activities with real notes and visuals.
+5. Improve the age-4 STEM hub and preschool STEM hub around tested winners.
+6. Monitor indexing and Search Console data before expanding.
 
 ## Do Not Do Yet
 
@@ -79,3 +90,12 @@ Ask the user before:
 - adding affiliate links, ads, or products
 - publishing safety-sensitive claims
 
+## Operating Model
+
+Kid Activity Lab now uses a three-agent operating model:
+
+- Master / Operator: strategy, orchestration, cleanup/refactor queue, user decisions.
+- Implementation Agent: site/code/generator changes and validation.
+- SEO Research & Review Agent: keyword/SERP/GSC/Semrush/DataForSEO research plus parent-usability and index-worthiness review.
+
+Agents coordinate through repo artifacts, especially `ops/current-cycle.md`, `backlog/seo-research-review-backlog.md`, and `backlog/implementation-backlog.md`.

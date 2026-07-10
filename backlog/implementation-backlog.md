@@ -6,7 +6,7 @@
 
 ## Ready For Review
 
-- Optional final spot-check of the age-4 STEM hub link clarity after the original-pack activity anchors were added.
+- Re-check GSC and Semrush several days after the next deployment.
 
 ## Next After User Testing
 
@@ -22,6 +22,13 @@
 
 ## Done
 
+- SEO Research & Review Agent rereviewed the three GSC-visible pages after the 2026-07-09 Implementation Agent pass; verdict: pass, no publish-blocking fixes.
+- Applied the 2026-07-09 GSC-visible improvement pass:
+  - strengthened the cardboard ramp article for `how to make a ramp with cardboard`
+  - updated `scripts/generate_seo_pages.py` and regenerated the age-4 at-home page so it routes to the ramp parent guide, original age-4 STEM pack, and age-4 STEM hub
+  - enriched the no-cut preschool collection with a constraint chooser, parent boundaries, grouped picks, and internal links while keeping it indexable
+  - regenerated card pages, SEO pages, and sitemap; validation reported `missing links 0` and `missing anchor links 0`
+- Review Agent completed the 2026-07-09 GSC-visible improvement pass for the cardboard ramp article, no-cut preschool collection, and age-4 at-home hub.
 - Differentiated age-4 STEM hub and original-pack metadata to reduce cannibalization risk while keeping both pages indexable.
 - Fixed the age-4 STEM hub's original-name/generic-card link mismatch by adding five original-pack activity anchors and changing the matching hub preview links to "Open in original test pack."
 - Tightened the repeated Tiny Boat Cargo Test rescue side box after adding its anchor.

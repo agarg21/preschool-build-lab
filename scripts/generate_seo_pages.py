@@ -468,7 +468,36 @@ PAGES = [
         "kicker": "Age 4",
         "description": "Easy activities for 4 year olds at home: building, pretend play, ramps, tape roads, blocks, magnetic tiles, and low-mess STEM prompts.",
         "intro": "Four year olds can handle a little more planning: make a road, test a ramp, build a bridge, or set up a tiny city. Keep the activity small enough that the child still owns the work.",
-        "tip": "A good 4-year-old page should mix pretend play with early problem solving.",
+        "tip": "If you need one activity now, choose the cardboard ramp. If your child wants a challenge, open the original age-4 STEM test pack. If you need quiet pretend play, choose Tape City or Magnetic Tile Builds.",
+        "chooser_title": "Start here by parent situation",
+        "chooser_label": "Age 4 at-home chooser",
+        "chooser": [
+            ("I need a proven low-prep activity", ("Cardboard ramp parent guide", "../articles/cardboard-box-car-ramp-preschoolers.html"), "Google is already finding this page, and the setup is fast: cardboard, books, toy cars."),
+            ("I want a 5-10 minute STEM challenge", ("Original age-4 STEM test pack", "../collections/original-stem-activities-for-4-year-olds.html"), "Five activities with parent jobs, kid steps, safety notes, and stop rules."),
+            ("I want more STEM choices", ("STEM activities for 4 year olds", "../ages/stem-activities-for-4-year-olds.html"), "A broader chooser for ramps, bridges, shadows, towers, and water tests."),
+            ("I need quiet pretend play", "Tape City or Magnetic Tile Builds", "Good for low-mess play when you can do one quick setup."),
+        ],
+        "activity_overrides": {
+            "car-ramp-distance-test": {
+                "title": "Cardboard ramp for toy cars",
+                "url": "../articles/cardboard-box-car-ramp-preschoolers.html",
+                "link_text": "Open ramp parent guide",
+                "materials": "cardboard, books, toy cars",
+                "steps": ["Lean cardboard on books.", "Roll one car.", "Change the ramp height.", "Mark where the car stops."],
+                "parent": "Keep the ramp low and do not let kids climb on the setup.",
+            },
+            "paper-bridge": {
+                "title": "Bridge Rescue paper bridge",
+                "url": "../collections/original-stem-activities-for-4-year-olds.html#bridge-rescue",
+                "link_text": "Open in original STEM test pack",
+            },
+        },
+        "after_activity_sections": [
+            {
+                "title": "When to choose the original STEM pack",
+                "body": "Use the original age-4 STEM pack when you want the activity to have a clear test: roll farther, build stronger, make a bigger shadow, survive wind, or carry more cargo. Use the quick cards when you just need one screen and a fast start.",
+            }
+        ],
         "activities": ["tape-city", "car-ramp-distance-test", "paper-bridge", "magnetic-tile-ideas", "tape-train-tracks", "lego-color-tower", "spoon-transfer", "box-garage"],
         "related": ["games for 4 year olds at home", "educational activities for 4 year olds at home", "indoor activities for 4 year olds at home"],
     },
@@ -726,6 +755,13 @@ def page_activity(page, key):
     return activity
 
 
+def chooser_pick_cell(pick):
+    if isinstance(pick, tuple):
+        text, url = pick
+        return f'<a href="{esc(url)}">{esc(text)}</a>'
+    return esc(pick)
+
+
 def activity_card(activity):
     steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
     link = ""
@@ -777,16 +813,18 @@ def page_html(page):
         chooser_rows = "\n".join(
             f'''            <tr>
               <td>{esc(situation)}</td>
-              <td>{esc(pick)}</td>
+              <td>{chooser_pick_cell(pick)}</td>
               <td>{esc(reason)}</td>
             </tr>'''
             for situation, pick, reason in page["chooser"]
         )
+        chooser_title = page.get("chooser_title", "Tired-parent chooser")
+        chooser_label = page.get("chooser_label", "Tired-parent activity chooser")
         chooser = f'''
 
         <section class="chooser">
-          <h2>Tired-parent chooser</h2>
-          <div class="table-wrap seo-table" aria-label="Tired-parent activity chooser">
+          <h2>{esc(chooser_title)}</h2>
+          <div class="table-wrap seo-table" aria-label="{esc(chooser_label)}">
             <table>
               <thead>
                 <tr>
@@ -802,6 +840,15 @@ def page_html(page):
           </div>
         </section>'''
     extra_sections = start_block + chooser
+    after_activity_sections = "".join(
+        f'''
+
+        <section class="related">
+          <h2>{esc(section["title"])}</h2>
+          <p>{esc(section["body"])}</p>
+        </section>'''
+        for section in page.get("after_activity_sections", [])
+    )
     related = "".join(f"<li>{esc(query)}</li>" for query in page["related"])
     canonical = f"{BASE_URL}/{page['path']}"
     return f'''<!doctype html>
@@ -856,7 +903,7 @@ def page_html(page):
 
         <section class="seo-activity-grid" aria-label="Activity ideas">
 {activity_html}
-        </section>
+        </section>{after_activity_sections}
 
         <section class="related">
           <h2>Searches this page is built for</h2>

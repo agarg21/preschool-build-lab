@@ -1,5 +1,30 @@
 # SEO Backlog
 
+## GSC Triage - 2026-07-09
+
+Source: `seo/gsc-seo-review-2026-07-09.md`
+
+### Ready For Review Agent
+
+- `[improve]` Review `site/articles/cardboard-box-car-ramp-preschoolers.html`. GSC shows impressions for `cardboard ramp` and `how to make a ramp with cardboard`; Semrush now sees the page ranking around positions 25-26 for `how to make a ramp with cardboard` (US volume 50, KD 17-18). The review should focus on making the page a stronger answer for "how to make a ramp with cardboard" without creating a duplicate ramp page.
+- `[improve/noindex decision]` Review `site/collections/no-cut-preschool-activities.html`. GSC shows impressions for the page, but earlier triage found it thin. Review should decide whether it deserves indexing after enrichment or should become `noindex,follow` until it has more unique parent utility.
+- `[improve]` Review `site/ages/activities-for-4-year-olds-at-home.html`. GSC shows a visible impression for `home activities for 4 year olds`; review should check whether the page routes clearly to original/tested content and the ramp/STEM cluster.
+
+### Ready For Implementation Agent
+
+- No direct implementation yet. Wait for Review Agent to turn the three GSC-visible page opportunities into implementation-ready copy/structure fixes.
+
+### Monitor
+
+- `[monitor]` GSC on 2026-07-09 shows 0 clicks, 13 impressions, 0% CTR, and average position 13.8 over the selected 3-month view.
+- `[monitor]` Visible GSC queries include `cardboard ramp`, `how to make a ramp with cardboard`, and `home activities for 4 year olds`; visible GSC page rows include the homepage, cardboard ramp article, no-cut collection, and age-4 at-home hub.
+- `[monitor]` The age-4 STEM hub, original age-4 STEM pack, and preschool STEM hub remain strategic targets, but they are not yet visible impression drivers in the current GSC query/page rows.
+
+### Do Not Do Yet
+
+- `[create]` Do not create a new ramp page. Improve the existing cardboard ramp article first because it is the validated ranking URL.
+- `[create]` Do not expand into new clusters from this tiny GSC sample. The best next move is to improve existing pages Google is already testing.
+
 ## First Triage - 2026-07-02
 
 ### Ready For Review Agent

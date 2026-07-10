@@ -45,15 +45,15 @@ Then commit and push the changed source files and generated files.
 
 ## Operating Cadence
 
-Use the manual agent loop in `ops/cadence.md`:
+Use the three-agent loop in `ops/current-cycle.md`:
 
-1. SEO Research Agent identifies opportunities or says there is no new signal.
-2. Review Agent turns selected pages or briefs into parent-usability fixes.
-3. Implementation Agent ships the highest-confidence changes.
-4. Master Operator checks alignment, blockers, and next steps.
+1. Master / Operator coordinates strategy, cleanup, child chats, and user decisions.
+2. SEO Research & Review Agent validates opportunities and reviews pages for search fit, parent usefulness, and index-worthiness.
+3. Implementation Agent ships approved changes and validates the static site.
+4. Master / Operator checks child outputs and advances or pauses the cycle.
 
-Agents coordinate through `ops/current-cycle.md` and the backlogs.
+Agents coordinate through `ops/current-cycle.md`, `backlog/seo-research-review-backlog.md`, and `backlog/implementation-backlog.md`.
 
 ## Current Priority
 
-Test the first original age-4 STEM pack, capture parent observations, and use those notes to improve the strongest cards/pages before expanding into more clusters.
+Improve the first GSC-visible pages while continuing to test the original age-4 STEM pack. The current implementation handoff is in `reviews/gsc-visible-page-review-2026-07-09.md`.

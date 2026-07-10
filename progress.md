@@ -1,5 +1,74 @@
 # Progress Log
 
+## 2026-07-09
+
+### Search Console Indexing Requests
+
+- Master requested indexing in Google Search Console for:
+  - `https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html`
+  - `https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html`
+  - `https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html`
+- Search Console showed `Indexing requested` confirmations for all three URLs.
+
+### Parent Testing Update
+
+- User reported testing two original age-4 STEM activities and said they looked good.
+- Still needed: structured test notes in `briefs/age-4-original-stem-test-pack.md`, including setup time, engagement time, kid quotes, confusion points, mess, what changed, and repeatability.
+
+### Implementation Pass - GSC-Visible Page Improvements
+
+- Applied `reviews/gsc-visible-page-review-2026-07-09.md` to the three early GSC-visible pages.
+- Strengthened `site/articles/cardboard-box-car-ramp-preschoolers.html` for `how to make a ramp with cardboard`:
+  - updated title, meta description, H1, and Article structured data
+  - added a direct-answer ramp setup block near the top
+  - added best-cardboard guidance
+  - expanded troubleshooting for slipping, stopping, flying off the side, and frustration
+  - replaced plain related-project text with internal links to the card, original STEM pack, age-4 STEM hub, and age-4 at-home hub
+- Updated `scripts/generate_seo_pages.py` so `site/ages/activities-for-4-year-olds-at-home.html` now routes parents to the cardboard ramp parent guide, original age-4 STEM test pack, and age-4 STEM hub.
+- Updated the generated age-4 at-home ramp and bridge activity routing:
+  - ramp card now links to the cardboard ramp parent guide
+  - bridge card now links to the Bridge Rescue section in the original STEM test pack
+  - added a short note on when to choose the original STEM pack
+- Enriched `site/collections/no-cut-preschool-activities.html` enough to keep indexable:
+  - updated title, meta description, and H1
+  - added a parent constraint chooser
+  - added no-cut boundaries, a stop rule, grouped picks, and internal links
+- Ran `python3 scripts/generate_card_pages.py`, `python3 scripts/generate_seo_pages.py`, and `python3 scripts/generate_sitemap.py`.
+- Ran the AGENTS.md local link checker: `missing links 0`.
+- Ran an extra anchor-target check for fragment links: `missing anchor links 0`.
+- Ready for SEO Research & Review Agent: re-review the three GSC-visible pages after deployment, then re-check GSC and Semrush after several days.
+- Still needs user input: real parent-tested observations and at least one original photo or simple diagram for the cardboard ramp or winning age-4 STEM activity.
+
+### Operating System Migration - Three-Agent SEO Loop
+
+- Migrated Kid Activity Lab from the earlier four-agent loop to the latest three-agent SEO operating system:
+  - Master / Operator
+  - Implementation Agent
+  - SEO Research & Review Agent
+- Kept this existing chat as the Master / Operator chat.
+- Added `agents/seo-research-review-agent.md`.
+- Added `backlog/seo-research-review-backlog.md`.
+- Updated `agents/master-operator.md`, `agents/implementation-agent.md`, `ops/chat-bootstrap-prompts.md`, `ops/current-cycle.md`, `strategy/current-strategy.md`, `strategy/content-principles.md`, `decisions.md`, `README.md`, and `ops/needs-user.md`.
+- Preserved older `agents/seo-research-agent.md`, `agents/review-agent.md`, `backlog/seo-backlog.md`, and `backlog/review-backlog.md` as historical/supporting artifacts.
+- First cycle under the new model: Implementation Agent should apply `reviews/gsc-visible-page-review-2026-07-09.md`, then SEO Research & Review Agent should re-review the shipped pages.
+
+### SEO Research Pass - First GSC Traffic
+
+- Reviewed Google Search Console Performance data for `https://kidactivitylab.com/` after initial impressions appeared.
+- GSC shows 0 clicks, 13 impressions, 0% CTR, and average position 13.8 over the selected 3-month view.
+- Visible GSC signals point to:
+  - `cardboard ramp`
+  - `how to make a ramp with cardboard`
+  - `home activities for 4 year olds`
+  - homepage impressions
+  - cardboard ramp article impressions
+  - no-cut preschool collection impressions
+  - age-4 at-home hub impression
+- Semrush now sees `site/articles/cardboard-box-car-ramp-preschoolers.html` ranking around positions 25-26 for `how to make a ramp with cardboard`.
+- Added `seo/gsc-seo-review-2026-07-09.md`.
+- Updated `backlog/seo-backlog.md` and `ops/current-cycle.md`.
+- Next agent: Review Agent should review the cardboard ramp article, no-cut preschool collection, and age-4 at-home hub before Implementation Agent changes site copy.
+
 ## 2026-07-02
 
 ### Implementation Pass - Age-4 STEM Metadata

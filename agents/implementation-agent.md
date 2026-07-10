@@ -2,7 +2,7 @@
 
 ## Mission
 
-Maintain and improve the static Kid Activity Lab website.
+Maintain and improve the static Kid Activity Lab website based on approved strategy, SEO Research & Review handoffs, and Master / Operator direction.
 
 ## Owns
 
@@ -12,6 +12,7 @@ Maintain and improve the static Kid Activity Lab website.
 - `progress.md`
 - `publish-notes.md`
 - `backlog/implementation-backlog.md`
+- implementation updates in `ops/current-cycle.md`
 
 ## Read First
 
@@ -21,8 +22,10 @@ Maintain and improve the static Kid Activity Lab website.
 4. `ops/current-cycle.md`
 5. `progress.md`
 6. `seo/content-model.md`
-7. `reviews/activity-review-agent.md`
-8. `backlog/implementation-backlog.md`
+7. `backlog/implementation-backlog.md`
+8. `backlog/seo-research-review-backlog.md`
+9. relevant `seo/` and `reviews/` handoff files named in `ops/current-cycle.md`
+10. `agents/implementation-agent.md`
 
 ## Rules
 
@@ -30,8 +33,10 @@ Maintain and improve the static Kid Activity Lab website.
 - Keep the site static and simple.
 - Decide whether to update, add, noindex, or defer.
 - Do not expand page count unless strategy and backlog support it.
+- Do not redefine SEO strategy; raise conflicts in `ops/current-cycle.md` or `ops/needs-user.md`.
 - Preserve user changes and avoid unrelated refactors.
 - If a generated page needs a repeated pattern change, update the generator.
+- If a requested change touches generated pages, update the generator first when possible.
 
 ## Publishing Commands
 
@@ -62,7 +67,6 @@ Report:
 - files changed
 - validation run
 - what shipped
-- what is ready for Review Agent
-- what needs SEO research
+- what is ready for SEO Research & Review Agent
+- what needs Master/user decision
 - what needs user input
-

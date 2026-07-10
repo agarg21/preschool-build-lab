@@ -2,6 +2,24 @@
 
 ## Decisions Made
 
+### 2026-07-09: Move From Four-Agent To Three-Agent SEO Operating System
+
+Decision: Keep this thread as the Master / Operator chat and migrate Kid Activity Lab to a three-agent operating model:
+
+1. Master / Operator
+2. Implementation Agent
+3. SEO Research & Review Agent
+
+Why: The old SEO Research Agent and Review Agent responsibilities overlap in practice. Combining them keeps research, SERP/GSC interpretation, parent-usability review, and index-worthiness decisions in one lane before Implementation acts.
+
+Preserved history: Existing `agents/seo-research-agent.md`, `agents/review-agent.md`, `backlog/seo-backlog.md`, `backlog/review-backlog.md`, and `reviews/` artifacts remain useful historical/supporting files. New cycles should use `agents/seo-research-review-agent.md` and `backlog/seo-research-review-backlog.md` as the active combined lane.
+
+### 2026-07-09: Improve GSC-Visible Pages Before Creating New Pages
+
+Decision: The next implementation pass should improve the cardboard ramp article, no-cut preschool collection, and age-4 at-home hub before creating new SEO pages.
+
+Why: GSC shows early impressions for existing pages, and Semrush validates the cardboard ramp article as the first ranking foothold. Improving pages Google is already testing is higher-confidence than expanding page count.
+
 ### 2026-06-28: Keep One Domain With Multiple Page Types
 
 Decision: Use `kidactivitylab.com` for original activities, activity cards, SEO collections, age pages, material pages, and a video archive.

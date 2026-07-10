@@ -42,6 +42,17 @@ Strong pages should have at least one of:
 - photos, diagrams, or other helpful visuals
 - specific parent rescue notes
 
+For early GSC-visible pages, prefer improving the ranking or impression-earning URL before creating a new page for the same intent.
+
+Separate evidence types:
+
+- Measured data: GSC, analytics, live index status, real parent testing.
+- Tool estimates: Semrush, DataForSEO, keyword tools, SERP estimates.
+- Assumptions: likely parent intent, expected search behavior, future monetization.
+- Opinions: editorial judgment, taste, and prioritization.
+
+If volume, CPC, difficulty, traffic, backlinks, revenue, rankings, or index status are unavailable, write `UNKNOWN` rather than guessing.
+
 ## Video Policy
 
 Reference videos may be used for inspiration or setup visualization. Always credit and link to the source.
@@ -49,4 +60,3 @@ Reference videos may be used for inspiration or setup visualization. Always cred
 Do not scrape, download, rehost, or imply creator endorsement.
 
 When a page includes a reference video, Kid Activity Lab still needs to add enough original instructions, safety notes, and parent guidance to stand on its own.
-
