@@ -1,0 +1,15 @@
+{
+  "site": "Kid Activity Lab",
+  "domain": "kidactivitylab.com",
+  "sitemap": "https://kidactivitylab.com/sitemap.xml",
+  "robots": "https://kidactivitylab.com/robots.txt",
+  "urls": [
+    "https://kidactivitylab.com/",
+    "https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html",
+    "https://kidactivitylab.com/collections/no-cut-preschool-activities.html",
+    "https://kidactivitylab.com/ages/activities-for-4-year-olds-at-home.html",
+    "https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html",
+    "https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html",
+    "https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html"
+  ]
+}

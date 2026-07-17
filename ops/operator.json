@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "slug": "kid-activity-lab",
+  "mission": "Build a practical kids activity site whose durable advantage is original, parent-useful, safely tested content.",
+  "lifecycle": "active",
+  "autonomy": "supervised-commit",
+  "control_room": "/Users/apoorvagarg/Documents/SEO Agent/seo-lab/operator",
+  "central_config": "config/sites/kid-activity-lab.json",
+  "scan_interval_hours": 2,
+  "maximum_substantive_actions_per_day": 1,
+  "pilot_review_on": "2026-07-19",
+  "release_policy": "During the proving period, reviewed exact-path commits are allowed; push and deployment require user approval.",
+  "cloud_readiness": {
+    "mode": "hybrid",
+    "cloud_capabilities": ["github", "public-web", "repository-qa", "static-site-generation"],
+    "local_dependencies": [
+      {
+        "name": "semrush",
+        "reason": "Authenticated Chrome session",
+        "fallback": "Continue without Semrush and label the evidence unavailable or stale."
+      },
+      {
+        "name": "parent-test-evidence",
+        "reason": "Requires real observations supplied by the user",
+        "fallback": "Improve intake and tooling, but never invent test results."
+      }
+    ]
+  }
+}
