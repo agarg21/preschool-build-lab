@@ -26,7 +26,9 @@ Improve the pages Google is already testing while keeping the original age-4 STE
 
 ## Waiting On User
 
-- Add structured notes for the two original age-4 STEM activities already tested: setup time, engagement time, exact kid quotes, confusion points, mess, what changed, and repeatability.
+- Complete one copy of `templates/parent-test-evidence-intake.md` for each of
+  the two original age-4 STEM activities already tried, then run
+  `python3 ops/validate_parent_test_evidence.py <path>`.
 - Share which two activities were tested so they can be marked in `briefs/age-4-original-stem-test-pack.md`.
 - If possible, provide one original photo or simple diagram for the cardboard ramp article or the strongest tested age-4 STEM activity.
 - After both pages have impressions, compare Search Console queries/positions to see whether the hub owns broad `stem activities for 4 year olds` queries and the pack earns original/test-pack or long-tail activity clicks.
@@ -34,6 +36,11 @@ Improve the pages Google is already testing while keeping the original age-4 STE
 
 ## Recently Completed
 
+- Control Room completed `KAL-OPS-001` on 2026-07-17: added a reusable
+  parent-test evidence intake and validator, and linked the existing field-test
+  pack to the workflow. Independent review cycle 3 returned `PASS` after two
+  validator bypasses were closed. No activity was marked tested and no live
+  content, observation, child quote, photo, or public claim changed.
 - Master committed and pushed `fe753f9` on 2026-07-10; the GitHub Pages deploy completed successfully.
 - Master checked Google Search Console Page indexing on 2026-07-10:
   - Report last update: 2026-06-29.
@@ -114,4 +121,6 @@ Improve the pages Google is already testing while keeping the original age-4 STE
 
 ## Recommended Next Agent
 
-Run SEO Research & Review Agent after the 2026-07-10 deployment has had several days to settle. Until then, collect structured parent-test notes for the two original age-4 STEM activities already tested.
+Collect validated parent-test evidence with the new intake. Run SEO Research &
+Review Agent after a real intake arrives or after a fresh GSC baseline supports
+one bounded existing-page improvement.

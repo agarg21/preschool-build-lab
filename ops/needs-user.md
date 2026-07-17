@@ -2,7 +2,9 @@
 
 ## Active Questions
 
-1. Which two original age-4 STEM activities were tested, and can you add short notes for each in `briefs/age-4-original-stem-test-pack.md`?
+1. Which two original age-4 STEM activities were tried? Complete one copy of
+   `templates/parent-test-evidence-intake.md` for each and validate it with
+   `python3 ops/validate_parent_test_evidence.py <path>`.
 2. Can you capture at least one photo or simple diagram for the winning activity?
 3. Should the first expansion after age-4 STEM stay STEM-focused, or move toward no-prep/rainy-day activities?
 4. Can you provide an original cardboard ramp photo or simple diagram for the currently ranking ramp article?

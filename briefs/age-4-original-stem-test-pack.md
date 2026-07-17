@@ -28,22 +28,15 @@ Use this while testing the first original Kid Activity Lab activities at home.
 
 ## Testing Log Template
 
-Copy this for each activity.
+For each real session, copy
+`templates/parent-test-evidence-intake.md`, complete every field, and validate
+the copy with `python3 ops/validate_parent_test_evidence.py <path>`. The intake
+captures setup time, engagement, exact quotes, confusion, child-led changes,
+mess/cleanup, repeatability, and supporting assets without requiring guesses.
 
-```text
-Activity:
-Date:
-Setup time:
-Minutes engaged:
-Fastest yes / hesitation:
-Best kid quote:
-Where instructions broke:
-What the child changed:
-Mess / cleanup:
-Would repeat? Yes / No / Maybe
-Photo/video needed:
-Next version:
-```
+Do not mark an activity tested in this pack from an empty or draft intake. A
+completed intake must say `OBSERVED`, include a real-session `YES` attestation,
+and pass validation before it can enter a separate content-review decision.
 
 ## Upgrade Criteria
 
