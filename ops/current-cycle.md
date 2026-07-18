@@ -10,11 +10,13 @@ This project now uses the three-agent SEO operating system.
 
 ## Active Priority
 
-Improve the pages Google is already testing while keeping the original age-4 STEM cluster as the core strategic bet.
+Release the reviewed parent-test evidence workflow, then improve the pages
+Google is already testing when fresh daily GSC evidence identifies one bounded
+opportunity. Keep the original age-4 STEM cluster as the core strategic bet.
 
 ## Ready For SEO Research & Review Agent
 
-- Re-check GSC and Semrush after the 2026-07-10 deployment has been live for several days.
+- Validate and compare each new GSC API snapshot with the prior snapshot and roadmap. Semrush remains optional enrichment.
 - Do not propose new SEO pages until the GSC-visible pages and age-4 STEM cluster have stronger evidence.
 - Review `site/collections/original-stem-activities-for-4-year-olds.html` again after any new parent testing notes are added.
 - Review `site/collections/stem-activities-for-preschoolers.html` after the age-4 STEM hub direction is settled; SEO triage found this is the strongest current Semrush opportunity but should function as a tested-activity hub, not a generic roundup.
@@ -36,6 +38,9 @@ Improve the pages Google is already testing while keeping the original age-4 STE
 
 ## Recently Completed
 
+- Released commit `e44954a` on 2026-07-17. GitHub Pages run `29627141434`
+  succeeded for the exact SHA; the live homepage byte-matches the committed
+  site, and no activity or public claim was marked tested.
 - Control Room completed `KAL-OPS-001` on 2026-07-17: added a reusable
   parent-test evidence intake and validator, and linked the existing field-test
   pack to the workflow. Independent review cycle 3 returned `PASS` after two
@@ -122,5 +127,6 @@ Improve the pages Google is already testing while keeping the original age-4 STE
 ## Recommended Next Agent
 
 Collect validated parent-test evidence with the new intake. Run SEO Research &
-Review Agent after a real intake arrives or after a fresh GSC baseline supports
-one bounded existing-page improvement.
+Review Agent after a real intake arrives or after a new validated GSC snapshot
+supports one bounded existing-page improvement. An unchanged snapshot is a
+healthy no-op.

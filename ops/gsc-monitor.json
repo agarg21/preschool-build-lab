@@ -1,5 +1,8 @@
 {
+  "slug": "kid-activity-lab",
   "site": "Kid Activity Lab",
+  "snapshot_title": "Kid Activity Lab GSC Snapshot",
+  "gsc_property": "https://kidactivitylab.com/",
   "domain": "kidactivitylab.com",
   "sitemap": "https://kidactivitylab.com/sitemap.xml",
   "robots": "https://kidactivitylab.com/robots.txt",

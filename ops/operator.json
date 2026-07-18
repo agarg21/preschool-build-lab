@@ -3,16 +3,16 @@
   "slug": "kid-activity-lab",
   "mission": "Build a practical kids activity site whose durable advantage is original, parent-useful, safely tested content.",
   "lifecycle": "active",
-  "autonomy": "supervised-commit",
+  "autonomy": "reviewed-release",
   "control_room": "/Users/apoorvagarg/Documents/SEO Agent/seo-lab/operator",
   "central_config": "config/sites/kid-activity-lab.json",
   "scan_interval_hours": 2,
   "maximum_substantive_actions_per_day": 1,
   "pilot_review_on": "2026-07-19",
-  "release_policy": "During the proving period, reviewed exact-path commits are allowed; push and deployment require user approval.",
+  "release_policy": "Standing authorization granted 2026-07-17 for exact-path, independently reviewed, QA-green pushes and GitHub Pages deployments. Verify the pushed SHA and action-specific production invariants; stop on divergence or ambiguous rollback scope.",
   "cloud_readiness": {
     "mode": "hybrid",
-    "cloud_capabilities": ["github", "public-web", "repository-qa", "static-site-generation"],
+    "cloud_capabilities": ["github", "public-web", "gsc-readonly-api", "repository-qa", "static-site-generation"],
     "local_dependencies": [
       {
         "name": "semrush",

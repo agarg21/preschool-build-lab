@@ -138,11 +138,13 @@ PY
 - `agy` Antigravity CLI is available locally and can be used for independent read-only content review cycles.
 - `publish-notes.md` contains historical launch notes and may reference old GitHub Pages preview URLs or earlier domain ideas. Prefer `strategy/current-strategy.md`, `progress.md`, and `decisions.md` for current direction.
 
-## Central Control Room Pilot
+## Central Control Room
 
 - This project is enrolled in the central Control Room at `/Users/apoorvagarg/Documents/SEO Agent/seo-lab/operator/`.
 - Read `ops/operator.json`, `ops/seo-roadmap.json`, `ops/seo-roadmap.md`, and `ops/portfolio-operator.md` before selecting operator work.
 - The rolling roadmap is the durable execution queue. Historical role chats and role-specific backlogs remain supporting evidence rather than independent priority setters.
-- During the proving period through 2026-07-19, the operator may create one exact-path, independently reviewed, QA-green commit per day. Push and deployment still require user approval.
+- The user granted standing reviewed-release authorization on 2026-07-17. The operator may create and push at most one exact-path, independently reviewed, QA-green substantive commit per day, then verify the native Pages run and action-specific production invariants. Stop on remote divergence or a production regression whose rollback scope is ambiguous.
+- GitHub Actions collects a normalized public-safe GSC snapshot daily. At run start, validate and compare every new snapshot with the prior snapshot and `ops/seo-roadmap.json`. New data may unlock or reprioritize an item, but an unchanged healthy snapshot is housekeeping and should produce a no-op rather than manufactured work.
+- Never commit GSC credentials, complete raw query exports, country/device rows, or user data. Treat Semrush as optional enrichment; GSC API evidence is the unattended first-party measurement source.
 - A two-hour scan is a sensing cadence, not a page-production quota. Healthy unchanged runs should stop as no-ops.
 - Never invent parent-test observations, child quotes, photos, engagement data, or tested status to unblock an autonomous run.
