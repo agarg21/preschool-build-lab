@@ -14,6 +14,13 @@ Compare validated daily GSC snapshots and improve one page Google is already
 testing when changed evidence identifies a bounded opportunity. Keep the
 original age-4 STEM cluster as the core strategic bet.
 
+The authenticated Page indexing review collected 2026-07-18 found no blanket
+technical fix. One noindex is intentional, `/index.html` has the correct live
+canonical despite the stale report, and the remaining exclusions are crawl
+priority or content-value candidates. `KAL-IDX-001` stays planned until a fresh
+changed report supports one bounded improvement or consolidation; do not
+bulk-request indexing. See `ops/gsc-indexing-review-2026-07-18.md`.
+
 ## Ready For SEO Research & Review Agent
 
 - Validate and compare each new GSC API snapshot with the prior snapshot and roadmap. Semrush remains optional enrichment.
@@ -24,6 +31,8 @@ original age-4 STEM cluster as the core strategic bet.
 ## Ready For Implementation Agent
 
 - No implementation fixes from the 2026-07-09 GSC-visible implementation rereview.
+- No blanket fix for the 2026-07-09 Page indexing exclusions. Wait for a fresh
+  changed report, then evaluate one priority URL under `KAL-IDX-001`.
 - Decide whether manual hub pages should eventually move into generators.
 
 ## Waiting On User

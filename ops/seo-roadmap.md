@@ -11,6 +11,12 @@ queue.
    testing.
 3. Improve one existing evidence-bearing page before considering expansion.
 
+The authenticated Page indexing review collected 2026-07-18 is normalized in
+`ops/gsc-indexing-review-2026-07-18.md`. Google's report was last updated
+2026-07-09, so its stale canonical group and broad discovery backlog do not
+override the newer API baseline where all 7 configured priority URLs are
+indexed.
+
 ## Completed on 2026-07-17
 
 - `KAL-REL-001`: released GSC/Pages infrastructure in `046d840`; workflow run
@@ -30,6 +36,10 @@ queue.
 `KAL-MON-001` may now compare the validated baseline with future snapshots and
 select one bounded existing-page improvement when the evidence supports it.
 Semrush remains optional enrichment.
+`KAL-IDX-001` is planned, not ready: after a changed indexing report, reconcile
+the intentional/stale exclusions and improve, consolidate, or intentionally
+exclude at most one strategically important page. Do not bulk-request indexing
+for the 23 reported URLs.
 `KAL-IMP-001` stays planned until real parent-test or fresh search evidence
 identifies one bounded existing-page improvement.
 

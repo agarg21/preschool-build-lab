@@ -92,9 +92,33 @@
       "requires_fresh_gsc": true,
       "required_evidence": ["fresh_gsc_snapshot", "changed_gsc_snapshot", "gsc_page_rows", "gsc_priority_inspection_rows"],
       "target_urls": [],
-      "target_paths": ["ops/gsc-snapshots/", "seo/", "ops/current-cycle.md"],
+      "target_paths": ["ops/gsc-snapshots/", "ops/gsc-indexing-review-2026-07-18.md", "seo/", "ops/current-cycle.md"],
       "success_signal": "A changed read-only snapshot identifies which existing page and query, if any, deserves the next bounded improvement.",
-      "notes": "The first snapshot is the baseline, not changed evidence. Semrush is optional enrichment. Do not create new pages or request indexing merely because a scheduled check is due."
+      "notes": "The first API snapshot is the baseline, not changed evidence. The authenticated browser report collected 2026-07-18 (report updated 2026-07-09) is normalized in ops/gsc-indexing-review-2026-07-18.md: one intentional noindex, one stale /index.html canonical exclusion, 18 discovered/not-crawled URLs, and three short cards crawled/not-indexed. Semrush is optional enrichment. Do not create new pages or request indexing merely because a scheduled check is due."
+    },
+    {
+      "id": "KAL-IDX-001",
+      "title": "Reconcile exclusion groups and improve only one priority page",
+      "kind": "technical-evaluation",
+      "lane": "indexing-quality",
+      "impact": 4,
+      "confidence": 3,
+      "learning_value": 4,
+      "effort": 2,
+      "risk": 1,
+      "status": "planned",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": ["fresh_gsc_snapshot", "changed_gsc_snapshot", "gsc_page_rows", "gsc_priority_inspection_rows"],
+      "target_urls": [
+        "https://kidactivitylab.com/original/",
+        "https://kidactivitylab.com/cards/color-mixing-cups.html",
+        "https://kidactivitylab.com/cards/sink-or-float-tray.html",
+        "https://kidactivitylab.com/cards/shadow-shape-match.html"
+      ],
+      "target_paths": ["ops/gsc-indexing-review-2026-07-18.md", "ops/current-cycle.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md", "scripts/", "site/"],
+      "success_signal": "A refreshed report confirms the material page remains intentionally excluded, checks whether the stale /index.html duplicate classification cleared, and supports improving, consolidating, or intentionally excluding one strategically important page based on evidence rather than indexing requests.",
+      "notes": "The 2026-07-09 report does not establish a sitewide technical defect. Do not bulk-request indexing. Promote this item only after changed evidence identifies one worthwhile target; prioritize original utility and the age-4 STEM strategy, and never manufacture parent-test evidence."
     },
     {
       "id": "KAL-IMP-001",
