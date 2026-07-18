@@ -4,7 +4,7 @@
   "property": "https://kidactivitylab.com/",
   "visibility": "public-summary",
   "collection_mode": "search-console-api-readonly",
-  "collected_at": "2026-07-18T02:52:18.719Z",
+  "collected_at": "2026-07-18T11:42:22.325Z",
   "data_through": "2026-07-16",
   "requested_period_end": "2026-07-16",
   "completeness": "finalized-conservative",
@@ -20,10 +20,10 @@
       "status": "finalized",
       "period_start": "2026-06-19",
       "period_end": "2026-07-16",
-      "latest_known_impressions": 29,
+      "latest_known_impressions": 30,
       "latest_known_clicks": 0,
       "latest_known_ctr_percent": 0,
-      "latest_known_average_position": 24.79,
+      "latest_known_average_position": 24,
       "snapshot_date": "2026-07-16",
       "page_rows": [
         {
@@ -50,9 +50,9 @@
         {
           "url": "https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html",
           "clicks": 0,
-          "impressions": 9,
+          "impressions": 10,
           "ctr_percent": 0,
-          "average_position": 20.78
+          "average_position": 18.8
         },
         {
           "url": "https://kidactivitylab.com/cards.html",
