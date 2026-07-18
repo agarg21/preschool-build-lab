@@ -16,7 +16,8 @@ queue.
 - `KAL-REL-001`: released GSC/Pages infrastructure in `046d840`; workflow run
   `29627800627` succeeded and snapshot commit `a782f62` established a baseline
   of 29 impressions, 0 clicks, 61 sitemap URLs discovered, and all 7 priority
-  URLs indexed. The snapshot-only commit did not trigger a Pages deployment.
+  URLs indexed. Pages run `29627796105` succeeded for the exact infrastructure
+  commit; the snapshot-only and later roadmap-only commits did not redeploy.
 - `KAL-OPS-001`: added `templates/parent-test-evidence-intake.md` and
   `ops/validate_parent_test_evidence.py`, then linked the field-test pack to the
   validation workflow. Independent review cycle 3 returned `PASS` after closing

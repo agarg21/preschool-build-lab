@@ -41,7 +41,8 @@ original age-4 STEM cluster as the core strategic bet.
 - Installed unattended read-only GSC collection in `046d840`; workflow run
   `29627800627` succeeded and snapshot commit `a782f62` established the first
   baseline: 29 impressions, 0 clicks, 61 sitemap URLs discovered, and all 7
-  priority URLs indexed. Snapshot-only commits no longer trigger Pages.
+  priority URLs indexed. Pages run `29627796105` succeeded for the exact
+  infrastructure commit; snapshot-only commits no longer trigger Pages.
 - Released commit `e44954a` on 2026-07-17. GitHub Pages run `29627141434`
   succeeded for the exact SHA; the live homepage byte-matches the committed
   site, and no activity or public claim was marked tested.
