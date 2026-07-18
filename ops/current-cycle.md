@@ -10,9 +10,9 @@ This project now uses the three-agent SEO operating system.
 
 ## Active Priority
 
-Release the reviewed parent-test evidence workflow, then improve the pages
-Google is already testing when fresh daily GSC evidence identifies one bounded
-opportunity. Keep the original age-4 STEM cluster as the core strategic bet.
+Compare validated daily GSC snapshots and improve one page Google is already
+testing when changed evidence identifies a bounded opportunity. Keep the
+original age-4 STEM cluster as the core strategic bet.
 
 ## Ready For SEO Research & Review Agent
 
@@ -38,6 +38,10 @@ opportunity. Keep the original age-4 STEM cluster as the core strategic bet.
 
 ## Recently Completed
 
+- Installed unattended read-only GSC collection in `046d840`; workflow run
+  `29627800627` succeeded and snapshot commit `a782f62` established the first
+  baseline: 29 impressions, 0 clicks, 61 sitemap URLs discovered, and all 7
+  priority URLs indexed. Snapshot-only commits no longer trigger Pages.
 - Released commit `e44954a` on 2026-07-17. GitHub Pages run `29627141434`
   succeeded for the exact SHA; the live homepage byte-matches the committed
   site, and no activity or public claim was marked tested.

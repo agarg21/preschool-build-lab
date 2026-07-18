@@ -6,13 +6,17 @@ queue.
 
 ## Current sequence
 
-1. Release the review-clean parent-test intake and cloud measurement setup.
-2. Refresh GSC and optional Semrush evidence for pages Google is already
+1. Compare each new validated GSC snapshot with the 2026-07-18 baseline.
+2. Use GSC and optional Semrush evidence for pages Google is already
    testing.
 3. Improve one existing evidence-bearing page before considering expansion.
 
 ## Completed on 2026-07-17
 
+- `KAL-REL-001`: released GSC/Pages infrastructure in `046d840`; workflow run
+  `29627800627` succeeded and snapshot commit `a782f62` established a baseline
+  of 29 impressions, 0 clicks, 61 sitemap URLs discovered, and all 7 priority
+  URLs indexed. The snapshot-only commit did not trigger a Pages deployment.
 - `KAL-OPS-001`: added `templates/parent-test-evidence-intake.md` and
   `ops/validate_parent_test_evidence.py`, then linked the field-test pack to the
   validation workflow. Independent review cycle 3 returned `PASS` after closing
@@ -22,10 +26,9 @@ queue.
 
 ## Next eligible action
 
-`KAL-REL-001` pushes the review-clean local intake plus the independently
-reviewed GSC/Pages infrastructure under the 2026-07-17 standing authorization.
-After release, `KAL-MON-001` requires a fresh read-only GSC baseline with page
-and priority URL Inspection rows. Semrush remains optional enrichment.
+`KAL-MON-001` may now compare the validated baseline with future snapshots and
+select one bounded existing-page improvement when the evidence supports it.
+Semrush remains optional enrichment.
 `KAL-IMP-001` stays planned until real parent-test or fresh search evidence
 identifies one bounded existing-page improvement.
 
