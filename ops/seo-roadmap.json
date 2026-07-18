@@ -75,7 +75,7 @@
       "released_on": "2026-07-17",
       "production_verification": "GitHub Pages run 29627141434 succeeded for the reviewed workflow release, and the live homepage byte-matched the committed site. Pages run 29627796105 then succeeded for the exact GSC/Pages infrastructure commit 046d840. The released commits contain no site or tested-status claim change. GSC workflow run 29627800627 succeeded with the restricted service account and committed the first validated snapshot in a782f62; the later snapshot and roadmap-only commits did not trigger Pages.",
       "result": "The reviewed parent-test workflow and unattended GSC infrastructure are on origin/main. The first real snapshot collected 29 impressions for the finalized 28-day window, confirmed a successful 61-page sitemap, and found all 7 priority URLs indexed.",
-      "notes": "Fresh GSC data now makes KAL-MON-001 eligible for evidence review, but no activity may be described as tested without real validated parent evidence."
+      "notes": "The fresh GSC snapshot establishes the KAL-MON-001 baseline; wait for a changed validated snapshot before evidence review. No activity may be described as tested without real validated parent evidence."
     },
     {
       "id": "KAL-MON-001",
@@ -90,11 +90,11 @@
       "status": "ready",
       "allowed_during_observation": true,
       "requires_fresh_gsc": true,
-      "required_evidence": ["fresh_gsc_snapshot", "gsc_page_rows", "gsc_priority_inspection_rows"],
+      "required_evidence": ["fresh_gsc_snapshot", "changed_gsc_snapshot", "gsc_page_rows", "gsc_priority_inspection_rows"],
       "target_urls": [],
       "target_paths": ["ops/gsc-snapshots/", "seo/", "ops/current-cycle.md"],
-      "success_signal": "A fresh read-only baseline identifies which existing page and query deserves the next bounded improvement.",
-      "notes": "Semrush is optional enrichment. Do not create new pages or request indexing merely because a scheduled check is due."
+      "success_signal": "A changed read-only snapshot identifies which existing page and query, if any, deserves the next bounded improvement.",
+      "notes": "The first snapshot is the baseline, not changed evidence. Semrush is optional enrichment. Do not create new pages or request indexing merely because a scheduled check is due."
     },
     {
       "id": "KAL-IMP-001",

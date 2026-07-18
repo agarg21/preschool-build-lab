@@ -20,6 +20,10 @@ or tested status.
 The daily read-only GSC Action is run-start housekeeping. Validate and compare a
 new snapshot with the prior snapshot and roadmap before choosing work. Act when
 the evidence changes a gate or decision; otherwise record a healthy no-op.
+The first dated snapshot establishes the baseline; it is not changed evidence.
+When the current sensor and release evidence remain fresh and their inputs are
+unchanged, use the fast no-op path without repeating deployment or production
+byte-match checks.
 
 ## Latest operator action
 

@@ -141,10 +141,10 @@ PY
 ## Central Control Room
 
 - This project is enrolled in the central Control Room at `/Users/apoorvagarg/Documents/SEO Agent/seo-lab/operator/`.
-- Read `ops/operator.json`, `ops/seo-roadmap.json`, `ops/seo-roadmap.md`, and `ops/portfolio-operator.md` before selecting operator work.
+- First read this repository's local `ops/operator.json`, `ops/seo-roadmap.json`, `ops/seo-roadmap.md`, and `ops/portfolio-operator.md`. Then read the central registry, site configuration, policy, and latest report under `/Users/apoorvagarg/Documents/SEO Agent/seo-lab/operator/`; central files are not under this repository's `ops/` path.
 - The rolling roadmap is the durable execution queue. Historical role chats and role-specific backlogs remain supporting evidence rather than independent priority setters.
 - The user granted standing reviewed-release authorization on 2026-07-17. The operator may create and push at most one exact-path, independently reviewed, QA-green substantive commit per day, then verify the native Pages run and action-specific production invariants. Stop on remote divergence or a production regression whose rollback scope is ambiguous.
-- GitHub Actions collects a normalized public-safe GSC snapshot daily. At run start, validate and compare every new snapshot with the prior snapshot and `ops/seo-roadmap.json`. New data may unlock or reprioritize an item, but an unchanged healthy snapshot is housekeeping and should produce a no-op rather than manufactured work.
+- GitHub Actions collects a normalized public-safe GSC snapshot daily. At run start, validate and compare every new snapshot with the prior snapshot and `ops/seo-roadmap.json`. The first snapshot establishes a baseline and cannot satisfy a changed-evidence gate. New data may unlock or reprioritize an item, but an unchanged healthy snapshot is housekeeping and should produce a no-op rather than manufactured work.
 - Never commit GSC credentials, complete raw query exports, country/device rows, or user data. Treat Semrush as optional enrichment; GSC API evidence is the unattended first-party measurement source.
 - A two-hour scan is a sensing cadence, not a page-production quota. Healthy unchanged runs should stop as no-ops.
 - Never invent parent-test observations, child quotes, photos, engagement data, or tested status to unblock an autonomous run.
