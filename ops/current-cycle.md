@@ -14,6 +14,14 @@ Compare validated daily GSC snapshots and improve one page Google is already
 testing when changed evidence identifies a bounded opportunity. Keep the
 original age-4 STEM cluster as the core strategic bet.
 
+The roadmap was rescored on 2026-07-27. The newest durable GSC snapshot
+collected 2026-07-26 has data through 2026-07-24 and shows 54 impressions, 0
+clicks, 61 discovered pages, and 7 of 7 configured priority URLs indexed. The
+cardboard ramp article remains the strongest visible page and was recrawled on
+2026-07-25, but public-safe snapshots omit complete query rows and the latest
+`KAL-MON-001` dispatch returned a no-op. Do not select implementation from page
+rows alone.
+
 The authenticated Page indexing review collected 2026-07-18 found no blanket
 technical fix. One noindex is intentional, `/index.html` has the correct live
 canonical despite the stale report, and the remaining exclusions are crawl
@@ -25,6 +33,9 @@ bulk-request indexing. See `ops/gsc-indexing-review-2026-07-18.md`.
 
 - Validate and compare each new GSC API snapshot with the prior snapshot and roadmap. Semrush remains optional enrichment.
 - Do not propose new SEO pages until the GSC-visible pages and age-4 STEM cluster have stronger evidence.
+- Treat the 2026-07-26 snapshot as healthy monitoring context, not an
+  implementation brief: impressions are up slowly, clicks remain 0, and query
+  intent is unavailable in public-safe snapshots.
 - Review `site/collections/original-stem-activities-for-4-year-olds.html` again after any new parent testing notes are added.
 - Review `site/collections/stem-activities-for-preschoolers.html` after the age-4 STEM hub direction is settled; SEO triage found this is the strongest current Semrush opportunity but should function as a tested-activity hub, not a generic roundup.
 
@@ -47,6 +58,11 @@ bulk-request indexing. See `ops/gsc-indexing-review-2026-07-18.md`.
 
 ## Recently Completed
 
+- Control Room completed the 2026-07-27 roadmap rescore as queue-level
+  maintenance: advanced the next rescore window, kept `KAL-MON-001` as
+  monitoring, kept `KAL-IDX-001` and `KAL-IMP-001` planned, and selected no
+  implementation because query rows, clicks, and parent-test evidence are still
+  missing.
 - Installed unattended read-only GSC collection in `046d840`; workflow run
   `29627800627` succeeded and snapshot commit `a782f62` established the first
   baseline: 29 impressions, 0 clicks, 61 sitemap URLs discovered, and all 7

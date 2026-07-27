@@ -6,9 +6,11 @@ queue.
 
 ## Current sequence
 
-1. Compare each new validated GSC snapshot with the 2026-07-18 baseline.
-2. Use GSC and optional Semrush evidence for pages Google is already
-   testing.
+1. Continue comparing each new validated GSC snapshot with the prior dated
+   snapshot and the 2026-07-18 baseline.
+2. Use GSC and optional Semrush evidence for pages Google is already testing,
+   but treat public-safe page rows as directional unless query rows or clicks
+   make one bounded improvement clear.
 3. Improve one existing evidence-bearing page before considering expansion.
 
 The authenticated Page indexing review collected 2026-07-18 is normalized in
@@ -31,11 +33,29 @@ indexed.
   observation or tested-status claim; the first real completed intake remains
   a user dependency.
 
+## Rescored on 2026-07-27
+
+- Updated `ops/seo-roadmap.json` review metadata:
+  - `last_rescored_on`: 2026-07-27
+  - `next_rescore_due`: 2026-08-03
+- Reviewed the newest durable GSC snapshot collected 2026-07-26, with data
+  through 2026-07-24:
+  - 54 impressions, 0 clicks, 0% CTR, average position 28.28
+  - 61 discovered sitemap pages
+  - 7 of 7 configured priority URLs indexed, 0 unknown
+  - cardboard ramp article remains the strongest visible page with 16
+    impressions and a 2026-07-25 recrawl
+- Decision: queue-level no-op. Current movement is healthy monitoring context,
+  but public-safe snapshots omit complete query rows and no page has clicks.
+  Do not infer query intent from page rows alone, and do not manufacture
+  implementation work.
+
 ## Next eligible action
 
-`KAL-MON-001` may now compare the validated baseline with future snapshots and
-select one bounded existing-page improvement when the evidence supports it.
-Semrush remains optional enrichment.
+`KAL-MON-001` may compare each new validated snapshot with the prior snapshot
+and select one bounded existing-page improvement only when evidence supports
+it. Semrush remains optional enrichment and the imported July 2 authority
+baseline is not fresh.
 `KAL-IDX-001` is planned, not ready: after a changed indexing report, reconcile
 the intentional/stale exclusions and improve, consolidate, or intentionally
 exclude at most one strategically important page. Do not bulk-request indexing
