@@ -1,5 +1,72 @@
 # Operator Review
 
+## Workflow
+
+1. The Master / Operator registers one action and exact paths before material
+   edits.
+2. A different independent read-only reviewer inspects the frozen
+   requirements, base/range, complete path-scoped diff, evidence, QA, and
+   resulting behavior.
+3. The reviewer records structured P0-P3 findings and `PASS`,
+   `PASS_WITH_P3`, `FAIL`, or `BLOCKED`.
+4. The Master fixes P0-P2 findings and requests re-review for at most three
+   cycles.
+5. Only `PASS` or `PASS_WITH_P3`, green native QA, and exact-path verification
+   may proceed to commit and authorized release.
+
+The independent reviewer cannot supply missing parent-test, child-safety,
+original-photo, observation, monetization, indexing, or external-account human
+evidence.
+
+## 2026-07-28 Activity-Cluster Operating Model
+
+Action: `KAL-OPS-002`
+
+State: review-clean; push pending
+
+Frozen base: `da8f3378f5c12968d4b1963f7df5d511cffb2a44`
+
+Scope: the exact 20 governance, strategy, role, protocol, roadmap, backlog, and
+historical-record paths declared in `ops/seo-roadmap.json`.
+
+Boundaries:
+
+- no `site/**`, generator, GSC snapshot, workflow, indexing, external account,
+  parent-test claim, child quote, photo, observation, or deployment change;
+- personas remain source-derived research hypotheses;
+- `KAL-RES-001` is planned separately and no content implementation is selected
+  here.
+
+Reviewer: Dewey (`019fa9a2-9c74-7043-a664-961f2e6889bb`)
+
+Read-only status: confirmed. The reviewer changed no file, stage, commit,
+remote, deployment, indexing state, or external account.
+
+Cycle 1: `FAIL`
+
+- `P2`: canonical evidence classes were inconsistent across active guidance.
+- `P2`: paid Semrush API/MCP and DataForSEO authorization was not enforced
+  consistently.
+- `P2`: SERP capture metadata and numeric overlap inputs were not reproducible.
+- `P3`: current strategy called three pages immediate implementation priorities.
+- `P3`: the untracked decision-pack template contained trailing whitespace.
+
+Cycle 2: `PASS`
+
+- Canonical evidence classes are consistent.
+- Paid API usage requires explicit project budget authorization.
+- SERP samples require provider, database date, timestamp, market,
+  locale/language, device, requested/retained depth, completeness, and ordered
+  result rows.
+- Exact URL/domain intersection, union, and Jaccard are allowed only for
+  complete comparable sets; otherwise numeric overlap is `UNKNOWN`.
+- The three pages are candidates, not selected implementations.
+- All-path whitespace, JSON, exact-scope, and prohibited-path checks passed.
+
+Final findings: none (`P0`-`P3`).
+
+Final result: `PASS`.
+
 ## 2026-07-27 Roadmap Rescore
 
 Action: `roadmap-rescore-2026-07-24`

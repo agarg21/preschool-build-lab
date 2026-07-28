@@ -2,6 +2,10 @@
 
 This is the active combined backlog for the three-agent operating system.
 
+The roadmap is authoritative. This file is supporting evidence, not an
+independent priority queue. The Control Room is the only scheduler and the
+Master / Operator is the single repository writer for a transaction.
+
 Historical supporting files:
 
 - `backlog/seo-backlog.md`
@@ -9,15 +13,25 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
-## Ready For Implementation Agent
+## No Ready Implementation
 
 - No implementation fixes from the 2026-07-09 GSC-visible implementation rereview.
 
-## Ready For SEO Research & Review Agent
+## Next Research Transaction
 
-- Re-check GSC and Semrush several days after the 2026-07-10 deployment.
-- Review `site/collections/original-stem-activities-for-4-year-olds.html` again after parent testing notes are added.
-- Review `site/collections/stem-activities-for-preschoolers.html` after age-4 STEM and GSC-visible improvements are stable.
+`KAL-RES-001` is planned after `KAL-OPS-002`:
+
+- use `seo/activity-cluster-research-protocol.md`;
+- refresh named keyword and representative SERP evidence for the age-4,
+  STEM/ramp, and parent-constraint query families;
+- derive four to six source-traced job-based persona hypotheses;
+- audit the ramp guide, age-4 at-home page, age-4 STEM hub, preschool STEM hub,
+  no-cut collection, original test pack, and related cards;
+- audit every visible section for any page considered for implementation;
+- promote at most one bounded existing-page action or record a no-op.
+
+The SEO Research & Review Agent may support this work read-only. It does not
+write the shared checkout or update roadmap/current-cycle state.
 
 ## Waiting On User / Real-World Evidence
 
@@ -33,8 +47,15 @@ Historical supporting files:
 - `[monitor]` Visible GSC queries include `cardboard ramp`, `how to make a ramp with cardboard`, and `home activities for 4 year olds`.
 - `[monitor]` Visible GSC page rows include the homepage, cardboard ramp article, no-cut collection, and age-4 at-home hub.
 - `[monitor]` Semrush sees `site/articles/cardboard-box-car-ramp-preschoolers.html` ranking around positions 25-26 for `how to make a ramp with cardboard` in the US database.
-- `[monitor]` DataForSEO env is present at `~/.config/seo-lab/dataforseo.env`; use only with small batches, saved raw responses, clear caps, and approximate cost reporting.
+- `[monitor]` DataForSEO env is present at
+  `~/.config/seo-lab/dataforseo.env`; use only after explicit project budget
+  authorization, with small batches, saved raw responses, clear caps, and
+  approximate cost reporting.
 - `[monitor]` `agy` is available at `/Users/apoorvagarg/.local/bin/agy` for advisory second-opinion reviews.
+- `[monitor]` The validated 2026-07-28 public-safe snapshot shows 72
+  impressions, 0 clicks, 61 discovered pages, and 7 of 7 priority URLs
+  indexed. The ramp article has 24 page-level impressions, but complete query
+  rows remain unavailable.
 
 ## Do Not Do Yet
 

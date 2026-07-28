@@ -2,25 +2,33 @@
 
 ## Operating Model
 
-This project now uses the three-agent SEO operating system.
+The central Control Room is the only scheduler. The registered permanent Master
+/ Operator executes a validated dispatch or direct manual user instruction and
+is the single project-repository writer for the transaction.
 
-- Master / Operator: this existing chat, `codex://threads/019f2313-c169-79c0-868c-1c22865234ef`
-- Implementation Agent: `codex://threads/019f483b-5f93-7d51-afda-152b6c51ac8f`
-- SEO Research & Review Agent: `codex://threads/019f483b-9a97-7783-b3eb-95b9882e670d`
+SEO Research & Review, Implementation, and Operator Review agents are bounded
+read-only supporting roles. Historical child-chat IDs remain archive evidence;
+they are not independent priority owners or repository writers.
 
 ## Active Priority
 
-Compare validated daily GSC snapshots and improve one page Google is already
-testing when changed evidence identifies a bounded opportunity. Keep the
-original age-4 STEM cluster as the core strategic bet.
+`KAL-OPS-002` completed its direct-manual governance implementation and
+independent review on 2026-07-28. Review cycle 1 found three P2
+consistency/reproducibility gaps and two P3 notes; cycle 2 verified every
+finding closed and returned `PASS` with no P0-P3 findings. The exact 20-path
+transaction is push-only and changes no `site/**`, generator, GSC snapshot,
+indexing, external account, parent-test claim, or deployment state.
 
-The roadmap was rescored on 2026-07-27. The newest durable GSC snapshot
-collected 2026-07-26 has data through 2026-07-24 and shows 54 impressions, 0
-clicks, 61 discovered pages, and 7 of 7 configured priority URLs indexed. The
-cardboard ramp article remains the strongest visible page and was recrawled on
-2026-07-25, but public-safe snapshots omit complete query rows and the latest
-`KAL-MON-001` dispatch returned a no-op. Do not select implementation from page
-rows alone.
+`KAL-RES-001` is now the ready research-only follow-up:
+build one age-4 activity cluster decision pack and promote at most one existing
+page implementation when the evidence supports it.
+
+The newest durable GSC snapshot collected 2026-07-28 has data through
+2026-07-26 and shows 72 impressions, 0 clicks, 61 discovered pages, and 7 of 7
+configured priority URLs indexed. The cardboard ramp article has 24
+page-level impressions and remains the strongest visible page, but public-safe
+snapshots omit complete query rows. This changed measurement is useful research
+context; it does not select a content implementation from page rows alone.
 
 The authenticated Page indexing review collected 2026-07-18 found no blanket
 technical fix. One noindex is intentional, `/index.html` has the correct live
@@ -29,22 +37,23 @@ priority or content-value candidates. `KAL-IDX-001` stays planned until a fresh
 changed report supports one bounded improvement or consolidation; do not
 bulk-request indexing. See `ops/gsc-indexing-review-2026-07-18.md`.
 
-## Ready For SEO Research & Review Agent
+## Next Bounded Research
 
-- Validate and compare each new GSC API snapshot with the prior snapshot and roadmap. Semrush remains optional enrichment.
-- Do not propose new SEO pages until the GSC-visible pages and age-4 STEM cluster have stronger evidence.
-- Treat the 2026-07-26 snapshot as healthy monitoring context, not an
-  implementation brief: impressions are up slowly, clicks remain 0, and query
-  intent is unavailable in public-safe snapshots.
-- Review `site/collections/original-stem-activities-for-4-year-olds.html` again after any new parent testing notes are added.
-- Review `site/collections/stem-activities-for-preschoolers.html` after the age-4 STEM hub direction is settled; SEO triage found this is the strongest current Semrush opportunity but should function as a tested-activity hub, not a generic roundup.
+Run `KAL-RES-001` as a separate
+research-only transaction:
 
-## Ready For Implementation Agent
+- apply `seo/activity-cluster-research-protocol.md`;
+- refresh exact age-4, STEM, ramp, no-prep/no-cut, low-mess, indoor, material,
+  execution, rescue, and extension query families;
+- retain reproducible SERP samples and source/date limitations;
+- derive four to six source-traced parent-job persona hypotheses;
+- audit every relevant current page and every visible section considered for
+  implementation;
+- promote at most one bounded existing-page action or record a no-op.
 
-- No implementation fixes from the 2026-07-09 GSC-visible implementation rereview.
-- No blanket fix for the 2026-07-09 Page indexing exclusions. Wait for a fresh
-  changed report, then evaluate one priority URL under `KAL-IDX-001`.
-- Decide whether manual hub pages should eventually move into generators.
+Do not edit `site/**` or generators during that research transaction. The
+cardboard-ramp article is a provisional research candidate, not a preselected
+implementation.
 
 ## Waiting On User
 
@@ -154,9 +163,9 @@ bulk-request indexing. See `ops/gsc-indexing-review-2026-07-18.md`.
 - Added strategy, agent, ops, and backlog files for the manual three-agent workflow.
 - Marked `publish-notes.md` as historical so old domain guidance is not treated as current strategy.
 
-## Recommended Next Agent
+## Next Transaction
 
-Collect validated parent-test evidence with the new intake. Run SEO Research &
-Review Agent after a real intake arrives or after a new validated GSC snapshot
-supports one bounded existing-page improvement. An unchanged snapshot is a
-healthy no-op.
+After `KAL-OPS-002` is review-clean and pushed, `KAL-RES-001` is the next
+planned substantive action. It is research-only and may use a bounded read-only
+SEO Research & Review supporting task, but the Master remains the sole
+repository writer. Parent-test intake remains a separate valid user dependency.

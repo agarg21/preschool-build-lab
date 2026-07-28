@@ -1,5 +1,41 @@
 # Progress Log
 
+## 2026-07-28
+
+### Activity-Cluster Research And Persona-Review Operating Model
+
+- Reconciled clean local `main` with `origin/main` at `da8f337`; the two
+  incoming commits contained only the July 27 and July 28 public-safe GSC
+  snapshots.
+- Validated all 11 public GSC JSON snapshots and passed the 13-test GSC snapshot
+  suite.
+- Compared the latest snapshots:
+  - impressions: 61 to 72
+  - clicks: 0 to 0
+  - ramp article impressions: 17 to 24
+  - priority indexing: 7 of 7 in both
+- Classified the movement as useful, query-thin research context rather than a
+  content implementation brief.
+- Selected `KAL-OPS-002` as one governance-only transaction with no `site/**`,
+  generator, GSC snapshot, indexing, external-account, tested-status, or
+  deployment path.
+- Added the KAL activity-cluster research protocol, persona/every-section review
+  protocol, reusable decision-pack template, and independent reviewer charter.
+- Reconciled active role guidance so the Control Room is the only scheduler,
+  the Master is the single repository writer, and supporting agents are
+  read-only.
+- Registered `KAL-RES-001` as the separate planned age-4 activity cluster
+  research transaction. It may promote at most one existing-page action.
+- Independent reviewer Dewey
+  (`019fa9a2-9c74-7043-a664-961f2e6889bb`) returned `FAIL` in cycle 1 with
+  three P2 protocol-consistency/reproducibility findings and two P3 notes.
+- The correction pass standardized the six evidence classes, enforced explicit
+  paid-tool authorization, made SERP samples and overlap math reproducible,
+  reframed the three current pages as candidates, and removed template
+  whitespace.
+- Cycle 2 returned `PASS` with no P0-P3 findings. `KAL-OPS-002` is review-clean
+  and push-only pending; `KAL-RES-001` is ready as a separate transaction.
+
 ## 2026-07-10
 
 ### Publish And GSC Indexing Check

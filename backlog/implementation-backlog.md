@@ -1,12 +1,23 @@
 # Implementation Backlog
 
+The roadmap is authoritative. This backlog supplies implementation context; it
+does not independently schedule work. The Master / Operator is the single
+repository writer for a validated transaction.
+
 ## Ready
 
-- Decide whether manual hub pages should move into generators after the current cleanup is stable.
+- No content implementation is ready from `KAL-OPS-002`.
+- Wait for the separate `KAL-RES-001` age-4 activity cluster decision pack to
+  promote at most one bounded existing-page action.
+- Generator QA and manual-hub migration remain possible future technical work,
+  but must be selected separately rather than bundled into research or content.
 
-## Ready For Review
+## Review Requirement
 
-- Re-check GSC and Semrush several days after the next deployment.
+Every material implementation must use the source-derived personas and
+every-section audit from its decision pack, pass native/focused/visual QA as
+applicable, and receive a different independent read-only review with no
+unresolved P0-P2 findings.
 
 ## Next After User Testing
 

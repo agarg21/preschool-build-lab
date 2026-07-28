@@ -6,12 +6,14 @@ queue.
 
 ## Current sequence
 
-1. Continue comparing each new validated GSC snapshot with the prior dated
-   snapshot and the 2026-07-18 baseline.
-2. Use GSC and optional Semrush evidence for pages Google is already testing,
-   but treat public-safe page rows as directional unless query rows or clicks
-   make one bounded improvement clear.
-3. Improve one existing evidence-bearing page before considering expansion.
+1. Complete `KAL-OPS-002`, the governance-only activity-cluster research and
+   persona-review operating-model installation.
+2. Run `KAL-RES-001` separately to produce one source-dated age-4 activity
+   cluster decision pack with at most one promoted existing-page action.
+3. Keep comparing validated GSC snapshots, but do not infer complete query
+   intent from public-safe page rows.
+4. Improve one evidence-bearing existing page only after the research pack,
+   evidence gates, native QA, and independent review support it.
 
 The authenticated Page indexing review collected 2026-07-18 is normalized in
 `ops/gsc-indexing-review-2026-07-18.md`. Google's report was last updated
@@ -50,11 +52,35 @@ indexed.
   Do not infer query intent from page rows alone, and do not manufacture
   implementation work.
 
+## Review-clean on 2026-07-28
+
+- `KAL-OPS-002`: install the KAL-specific activity-cluster research protocol,
+  persona/every-section review method, decision-pack template, and independent
+  reviewer contract.
+- This is a direct-manual, push-only governance transaction. It changes no
+  public page, generator, GSC snapshot, tested-status claim, indexing state,
+  external account, or deployment path.
+- The validated 2026-07-28 public-safe snapshot has finalized data through
+  2026-07-26: 72 impressions, 0 clicks, 61 discovered pages, and 7 of 7
+  priority URLs indexed. The ramp article has 24 page-level impressions.
+  Complete query rows remain unavailable, so this movement does not select a
+  content implementation.
+- `KAL-RES-001` is the separate planned follow-up. It must classify query
+  families by observed SERP overlap, derive source-traced persona hypotheses,
+  audit every relevant page and visible section, and promote at most one
+  bounded existing-page action.
+- Independent review cycle 1 found three P2 consistency/reproducibility gaps
+  and two P3 notes. Cycle 2 verified every finding closed and returned `PASS`
+  with no P0-P3 findings. `KAL-OPS-002` is complete and push-only pending.
+- `KAL-RES-001` is now ready for a separate future transaction.
+
 ## Next eligible action
 
-`KAL-MON-001` may compare each new validated snapshot with the prior snapshot
-and select one bounded existing-page improvement only when evidence supports
-it. Semrush remains optional enrichment and the imported July 2 authority
+After `KAL-OPS-002`, the next eligible substantive action is `KAL-RES-001`.
+It is research-only and may not edit site or generator paths.
+
+`KAL-MON-001` continues comparing each new validated snapshot with the prior
+snapshot. Semrush remains optional enrichment and the imported July 2 authority
 baseline is not fresh.
 `KAL-IDX-001` is planned, not ready: after a changed indexing report, reconcile
 the intentional/stale exclusions and improve, consolidate, or intentionally

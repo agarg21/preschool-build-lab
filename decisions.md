@@ -2,6 +2,32 @@
 
 ## Decisions Made
 
+### 2026-07-28: Adopt Activity-Cluster Research And Persona-Based Review
+
+Decision: Adapt the proven Family Tripwise research/review model for Kid
+Activity Lab without copying travel-specific content or weakening KAL's real
+parent-test gate.
+
+The durable workflow is:
+
+1. source-dated query universe and keyword evidence;
+2. observed SERP-overlap clustering and representative ranking-page review;
+3. four to six source-traced parent-job persona hypotheses;
+4. every-page and every-section audit;
+5. at most one bounded implementation recommendation;
+6. native QA and a different independent read-only reviewer;
+7. exact-path release and evidence-triggered measurement.
+
+Personas are `RESEARCH_HYPOTHESIS` evidence, not demographic truth,
+testimonials, or parent/child testing. The Control Room remains the only
+scheduler and the permanent Master / Operator remains the single repository
+writer for each transaction.
+
+Why: KAL already has strong tired-parent, safety-boundary, and parent-test
+principles, but its older child-chat model and research artifacts do not yet
+make persona provenance, SERP overlap, page architecture, and independent
+review reproducible.
+
 ### 2026-07-09: Move From Four-Agent To Three-Agent SEO Operating System
 
 Decision: Keep this thread as the Master / Operator chat and migrate Kid Activity Lab to a three-agent operating model:

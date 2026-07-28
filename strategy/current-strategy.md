@@ -8,7 +8,9 @@ Build Kid Activity Lab into a practical kids activity site that can eventually e
 
 Focus first on activities for 3-6 year old kids.
 
-The strategic content bet remains original age-4 STEM, but the immediate operating priority is to improve the pages Google is already testing:
+The strategic content bet remains original age-4 STEM. The following pages are
+the leading evidence-bearing candidates for the next decision pack, not
+preselected implementation targets:
 
 - `site/articles/cardboard-box-car-ramp-preschoolers.html`
 - `site/collections/no-cut-preschool-activities.html`
@@ -39,16 +41,23 @@ The highest-value input is real testing:
 - safety or mess surprises
 - whether the child asked to repeat it
 
-The site also needs to convert the first GSC impressions into stronger pages before expanding. As of the 2026-07-09 SEO pass, GSC shows early impressions but no clicks; Semrush sees the cardboard ramp article around positions 25-26 for `how to make a ramp with cardboard`.
+The validated 2026-07-28 public-safe GSC snapshot shows 72 impressions, no
+clicks, 61 discovered pages, and 7 of 7 priority URLs indexed. The cardboard
+ramp article has 24 page-level impressions, but complete query rows remain
+unavailable. The site therefore needs a current activity-cluster decision pack
+before selecting another content edit.
 
 ## Do Now
 
-1. Apply the GSC-visible improvement pass from `reviews/gsc-visible-page-review-2026-07-09.md`.
-2. Test the five activities in `site/collections/original-stem-activities-for-4-year-olds.html`.
-3. Record observations in `briefs/age-4-original-stem-test-pack.md` or a dated weekly note.
-4. Upgrade the strongest activities with real notes and visuals.
-5. Improve the age-4 STEM hub and preschool STEM hub around tested winners.
-6. Monitor indexing and Search Console data before expanding.
+1. Complete the `KAL-OPS-002` research/review operating-model transaction.
+2. Run `KAL-RES-001` as a separate research-only age-4 activity cluster
+   decision pack.
+3. Promote at most one existing-page implementation from current query/SERP,
+   persona, page-audit, and evidence findings.
+4. Test the five activities in
+   `site/collections/original-stem-activities-for-4-year-olds.html`.
+5. Record real observations through the validated parent-test intake.
+6. Upgrade a winning activity only after separate evidence and content review.
 
 ## Do Not Do Yet
 
@@ -59,6 +68,12 @@ The site also needs to convert the first GSC impressions into stronger pages bef
 - Do not make medical, therapeutic, developmental, or safety-sensitive claims beyond practical parent supervision notes.
 
 ## Page Decision Rules
+
+Before applying these rules, run the activity-cluster workflow in
+`seo/activity-cluster-research-protocol.md`. Page architecture should come from
+current query evidence, observed SERP overlap, ranking-page inspection,
+source-derived persona hypotheses, current page/section audits, and
+evidence/maintenance constraints.
 
 Update an existing page when:
 
@@ -90,12 +105,36 @@ Ask the user before:
 - adding affiliate links, ads, or products
 - publishing safety-sensitive claims
 
+## Persona Review
+
+Use four to six job-based persona hypotheses derived from current search
+modifiers, SERP patterns, recurring parent questions, product constraints, and
+validated parent-test evidence when available.
+
+Personas should help answer:
+
+- what useful default belongs in the first screen;
+- which secondary parent constraints deserve visible routes;
+- where instructions, stop rules, rescue lines, or variants are missing;
+- whether a section reduces or adds decision effort.
+
+They are `RESEARCH_HYPOTHESIS` evidence. They are not demographic truth,
+parent/child testing, or automatic reasons to create separate pages.
+
 ## Operating Model
 
-Kid Activity Lab now uses a three-agent operating model:
+The central Control Room is the only scheduler. The permanent Master / Operator
+executes one registered dispatch or direct manual user instruction and is the
+single repository writer for the transaction.
 
-- Master / Operator: strategy, orchestration, cleanup/refactor queue, user decisions.
-- Implementation Agent: site/code/generator changes and validation.
-- SEO Research & Review Agent: keyword/SERP/GSC/Semrush/DataForSEO research plus parent-usability and index-worthiness review.
+Bounded supporting roles are read-only:
 
-Agents coordinate through repo artifacts, especially `ops/current-cycle.md`, `backlog/seo-research-review-backlog.md`, and `backlog/implementation-backlog.md`.
+- SEO Research & Review Agent: query/SERP research, persona hypotheses,
+  page-architecture analysis, and every-section review.
+- Implementation Agent: source/generator, implementation, and QA analysis.
+- Operator Review Agent: independent severity-based review of the frozen
+  requirements, diff, evidence, and behavior.
+
+Every material change requires native QA and an independent review. P0-P2
+findings must be fixed and re-reviewed for at most three cycles. Only `PASS` or
+`PASS_WITH_P3` may proceed to an exact-path commit and authorized release.

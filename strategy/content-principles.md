@@ -44,14 +44,54 @@ Strong pages should have at least one of:
 
 For early GSC-visible pages, prefer improving the ranking or impression-earning URL before creating a new page for the same intent.
 
-Separate evidence types:
+Use the canonical evidence classes:
 
-- Measured data: GSC, analytics, live index status, real parent testing.
-- Tool estimates: Semrush, DataForSEO, keyword tools, SERP estimates.
-- Assumptions: likely parent intent, expected search behavior, future monetization.
-- Opinions: editorial judgment, taste, and prioritization.
+- `MEASURED`: GSC, analytics, live index state, or validated real parent-test
+  evidence.
+- `TOOL_ESTIMATE`: Semrush, DataForSEO, autocomplete, or another named
+  research-tool estimate.
+- `SOURCE_BACKED`: current official, primary, or clearly attributed external
+  facts within the source's limits.
+- `RESEARCH_HYPOTHESIS`: inferred parent jobs, personas, search behavior,
+  product opportunities, and assumptions that still need testing.
+- `EDITORIAL_JUDGMENT`: bounded KAL taste, recommendation, or prioritization
+  with an explicit rationale.
+- `UNKNOWN`: absent, unavailable, incomplete, or stale evidence.
 
-If volume, CPC, difficulty, traffic, backlinks, revenue, rankings, or index status are unavailable, write `UNKNOWN` rather than guessing.
+If volume, CPC, difficulty, traffic, backlinks, revenue, rankings, or index
+status are unavailable, write `UNKNOWN` rather than guessing.
+
+## Persona Standard
+
+Personas are small, job-based research hypotheses derived from queries, SERPs,
+recurring parent questions, product constraints, and measured evidence when
+available.
+
+Use them to check whether:
+
+- the primary parent job gets a useful default before filters or interaction;
+- secondary constraints are visible without clutter;
+- the parent knows what to gather, say, supervise, stop, rescue, and try next;
+- every section earns its scan cost.
+
+Do not invent demographic profiles, testimonials, parent behavior, child
+behavior, or testing evidence. A persona never satisfies the validated
+parent-test gate.
+
+## Research And Review Standard
+
+Before creating or materially changing an indexable page:
+
+- define the query universe;
+- preserve exact source, market, date, and unavailable fields;
+- cluster queries by observed SERP overlap and user job;
+- inspect ranking-page strengths and advantages KAL cannot copy;
+- audit every relevant current page and every visible section considered for
+  implementation;
+- promote at most one bounded implementation.
+
+Use `seo/activity-cluster-research-protocol.md` and
+`reviews/persona-review-protocol.md`.
 
 ## Video Policy
 

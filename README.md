@@ -43,17 +43,30 @@ python3 scripts/generate_sitemap.py
 
 Then commit and push the changed source files and generated files.
 
-## Operating Cadence
+## Operating Model
 
-Use the three-agent loop in `ops/current-cycle.md`:
+The central Control Room is the only scheduler. The permanent Master / Operator
+executes one validated dispatch or direct manual user instruction and is the
+single repository writer for that transaction.
 
-1. Master / Operator coordinates strategy, cleanup, child chats, and user decisions.
-2. SEO Research & Review Agent validates opportunities and reviews pages for search fit, parent usefulness, and index-worthiness.
-3. Implementation Agent ships approved changes and validates the static site.
-4. Master / Operator checks child outputs and advances or pauses the cycle.
+Supporting agents operate read-only:
 
-Agents coordinate through `ops/current-cycle.md`, `backlog/seo-research-review-backlog.md`, and `backlog/implementation-backlog.md`.
+1. SEO Research & Review supplies query/SERP evidence, source-derived persona
+   hypotheses, and every-section review.
+2. Implementation supplies bounded code and patch recommendations.
+3. A different Operator Review Agent independently reviews the frozen diff,
+   evidence, behavior, and QA before commit.
+
+Material work proceeds only after `PASS` or `PASS_WITH_P3`, green native QA,
+and exact-path verification. The durable queue is `ops/seo-roadmap.json`;
+historical child chats and backlogs do not independently set priority.
+
+Before adding or materially changing an indexable page, use
+`seo/activity-cluster-research-protocol.md`. Use
+`reviews/persona-review-protocol.md` for substantive research and page review.
 
 ## Current Priority
 
-Improve the first GSC-visible pages while continuing to test the original age-4 STEM pack. The current implementation handoff is in `reviews/gsc-visible-page-review-2026-07-09.md`.
+Install the activity-cluster research and persona-review operating model, then
+produce a research-only age-4 activity cluster decision pack. Do not select a
+content implementation from public-safe page rows alone.

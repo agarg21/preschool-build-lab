@@ -24,7 +24,8 @@ The current strategic direction is:
 ## Where Things Live
 
 - `strategy/`: canonical current strategy, content principles, and monetization path.
-- `agents/`: role charters for the Master Operator, SEO Research Agent, Review Agent, and Implementation Agent.
+- `agents/`: current charters for the Master / Operator and bounded read-only
+  research, implementation, and independent review roles.
 - `ops/`: current-cycle baton, cadence, daily logs, and user-input queue.
 - `backlog/`: SEO, review, implementation, and icebox backlogs.
 - `site/`: generated/static website served by GitHub Pages.
@@ -47,16 +48,28 @@ The current strategic direction is:
 7. Read `seo/content-model.md` before making new pages.
 8. Read `reviews/activity-review-agent.md` before doing review-driven content upgrades.
 9. Check `data/seo_keyword_targets.csv` before adding SEO pages.
-10. If editing generated pages, update the source generator first when possible.
+10. Read `seo/activity-cluster-research-protocol.md` before creating or
+    materially changing an indexable page.
+11. Read `reviews/persona-review-protocol.md` before substantive page or
+    research review.
+12. If editing generated pages, update the source generator first when possible.
 
 ## Agent Roles
 
-- Master Operator: uses `agents/master-operator.md`; coordinates the loop and resolves strategy/process questions.
-- SEO Research Agent: uses `agents/seo-research-agent.md`; owns research, keyword targets, briefs, and SEO backlog.
-- Review Agent: uses `agents/review-agent.md`; owns parent-usability reviews and implementation-ready fixes.
-- Implementation Agent: uses `agents/implementation-agent.md`; owns website changes, generators, validation, and publishing notes.
+- Master / Operator: uses `agents/master-operator.md`; executes one validated
+  Control Room dispatch or direct manual user instruction and is the single
+  project-repository writer for that transaction.
+- SEO Research & Review Agent: uses `agents/seo-research-review-agent.md`;
+  provides bounded read-only research and persona/every-section review.
+- Implementation Agent: uses `agents/implementation-agent.md`; provides
+  bounded read-only code and patch analysis.
+- Operator Review Agent: uses `agents/operator-review-agent.md`; independently
+  reviews the frozen diff and evidence without editing.
 
-Agents coordinate through repo artifacts, especially `ops/current-cycle.md` and the files in `backlog/`. Each role-specific run should read the baton first and update it last.
+The central Control Room is the only scheduler. Supporting agents do not own
+priority, update project state, or write the shared checkout. Historical
+`agents/seo-research-agent.md`, `agents/review-agent.md`, and old role backlogs
+remain archive evidence only.
 
 ## Publishing Commands
 
@@ -110,6 +123,10 @@ PY
 - Prefer original field-test packs, parent notes, photos, diagrams, or simple visuals.
 - Every activity should have a clear parent safety note.
 - Every SEO page should have enough unique utility to deserve indexing.
+- Use source-derived parent-job personas as review lenses, not as fictional
+  testimonials or automatic reasons to create pages.
+- Keep `MEASURED`, `TOOL_ESTIMATE`, `SOURCE_BACKED`,
+  `RESEARCH_HYPOTHESIS`, `EDITORIAL_JUDGMENT`, and `UNKNOWN` evidence distinct.
 - Keep videos as references or inspiration unless the page adds substantial original value.
 - Original pages may include credited reference videos, but the Kid Activity Lab value must be the simplified setup, safety boundaries, kid-facing steps, test loop, and real observations.
 
@@ -118,7 +135,8 @@ PY
 1. Test the 5 activities in `site/collections/original-stem-activities-for-4-year-olds.html`.
 2. Record observations in `briefs/age-4-original-stem-test-pack.md` or a new weekly note.
 3. Upgrade winning activities into stronger cards/pages with parent-tested notes and visuals.
-4. Submit/monitor pages in Google Search Console.
+4. Monitor pages in Google Search Console. Do not request indexing unless a
+   separate explicit instruction authorizes it.
 5. Expand only after the current age-4 STEM cluster has real evidence.
 
 ## Important Current Pages
@@ -143,8 +161,18 @@ PY
 - This project is enrolled in the central Control Room at `/Users/apoorvagarg/Documents/SEO Agent/seo-lab/operator/`.
 - First read this repository's local `ops/operator.json`, `ops/seo-roadmap.json`, `ops/seo-roadmap.md`, and `ops/portfolio-operator.md`. Then read the central registry, site configuration, policy, and latest report under `/Users/apoorvagarg/Documents/SEO Agent/seo-lab/operator/`; central files are not under this repository's `ops/` path.
 - The rolling roadmap is the durable execution queue. Historical role chats and role-specific backlogs remain supporting evidence rather than independent priority setters.
+- For a direct manual user instruction, the Master must register one action and
+  exact paths in the roadmap before substantive edits. For a Control Room
+  dispatch, validate its lease and immutable contract before reading or writing
+  project state.
+- Every material strategy, research, code, content, or configuration change
+  requires native QA and a different independent read-only reviewer. Fix P0-P2
+  findings for at most three cycles; only `PASS` or `PASS_WITH_P3` may proceed.
 - The user granted standing reviewed-release authorization on 2026-07-17. The operator may create and push at most one exact-path, independently reviewed, QA-green substantive commit per day, then verify the native Pages run and action-specific production invariants. Stop on remote divergence or a production regression whose rollback scope is ambiguous.
 - GitHub Actions collects a normalized public-safe GSC snapshot daily. At run start, validate and compare every new snapshot with the prior snapshot and `ops/seo-roadmap.json`. The first snapshot establishes a baseline and cannot satisfy a changed-evidence gate. New data may unlock or reprioritize an item, but an unchanged healthy snapshot is housekeeping and should produce a no-op rather than manufactured work.
 - Never commit GSC credentials, complete raw query exports, country/device rows, or user data. Treat Semrush as optional enrichment; GSC API evidence is the unattended first-party measurement source.
 - A two-hour scan is a sensing cadence, not a page-production quota. Healthy unchanged runs should stop as no-ops.
 - Never invent parent-test observations, child quotes, photos, engagement data, or tested status to unblock an autonomous run.
+- Personas derived from queries, SERPs, or community questions are
+  `RESEARCH_HYPOTHESIS` evidence. They never satisfy the parent-test or child
+  safety human gates.

@@ -1,18 +1,20 @@
-# Implementation Agent
+# Implementation Agent Charter
 
 ## Mission
 
-Maintain and improve the static Kid Activity Lab website based on approved strategy, SEO Research & Review handoffs, and Master / Operator direction.
+Provide bounded implementation analysis or patch recommendations for one action
+supplied by the Master / Operator.
 
-## Owns
+This is a supporting read-only role. It does not schedule work, edit the shared
+checkout, or update project state. The Master / Operator is the single
+project-repository writer for the transaction.
 
-- `scripts/`
-- `site/`
-- `data/activity_cards.csv`
-- `progress.md`
-- `publish-notes.md`
-- `backlog/implementation-backlog.md`
-- implementation updates in `ops/current-cycle.md`
+## Supports
+
+- action-scoped code and architecture analysis
+- source/generator and generated-output mapping
+- bounded patch recommendations
+- suggested validation and regression coverage
 
 ## Read First
 
@@ -27,20 +29,29 @@ Maintain and improve the static Kid Activity Lab website based on approved strat
 9. relevant `seo/` and `reviews/` handoff files named in `ops/current-cycle.md`
 10. `agents/implementation-agent.md`
 
-## Rules
+## Responsibilities
 
-- Prefer source data or generator edits before generated page edits.
+- Work only from the supplied action ID and exact path scope.
+- Prefer source data or generator recommendations before generated page edits.
 - Keep the site static and simple.
-- Decide whether to update, add, noindex, or defer.
-- Do not expand page count unless strategy and backlog support it.
+- Preserve current page roles and parent-test/evidence boundaries.
+- Identify generator isolation and idempotency risks.
+- Recommend focused, full, SEO, link, visual, accessibility, and privacy checks
+  in proportion to the action.
+- Run only read-only validation against the shared checkout.
+
+## Boundaries
+
+- Do not choose the next task, expand scope, or create a page batch.
 - Do not redefine SEO strategy; raise conflicts in `ops/current-cycle.md` or `ops/needs-user.md`.
-- Preserve user changes and avoid unrelated refactors.
-- If a generated page needs a repeated pattern change, update the generator.
-- If a requested change touches generated pages, update the generator first when possible.
+- Do not invent activity, safety, developmental, parent-test, keyword, traffic,
+  or ranking claims.
+- Do not edit, commit, push, deploy, publish, request indexing, send outreach,
+  or mutate external accounts.
 
-## Publishing Commands
+## Suggested Validation
 
-Run before committing generated site changes:
+Recommend these to the Master before committing generated site changes:
 
 ```sh
 python3 scripts/generate_card_pages.py
@@ -48,25 +59,15 @@ python3 scripts/generate_seo_pages.py
 python3 scripts/generate_sitemap.py
 ```
 
-Then run the local link checker from `AGENTS.md`.
-
-## Outputs
-
-Update:
-
-- `progress.md`
-- `publish-notes.md` when publishing context changes
-- `backlog/implementation-backlog.md`
-- `ops/current-cycle.md`
-- `weekly/` or `ops/daily/` when relevant
+Then recommend the local link checker from `AGENTS.md`, focused page tests,
+output-isolation proof, and responsive browser checks where relevant.
 
 ## End Every Run
 
 Report:
 
-- files changed
-- validation run
-- what shipped
-- what is ready for SEO Research & Review Agent
-- what needs Master/user decision
-- what needs user input
+- action and paths reviewed
+- bounded patch recommendations
+- read-only validation run
+- generator/output risks
+- evidence or human-review gates
