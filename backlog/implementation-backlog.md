@@ -4,18 +4,17 @@ The roadmap is authoritative. This backlog supplies implementation context; it
 does not independently schedule work. The Master / Operator is the single
 repository writer for a validated transaction.
 
-## Ready
+## Ready To Release
 
-- `KAL-IMP-001`: improve only
-  `site/articles/cardboard-box-car-ramp-preschoolers.html`.
-- Keep the immediate cardboard/books/cars answer and troubleshooting, add one
-  optional one-variable test, and remove or relabel unsupported tested,
-  duration, child-capability, engagement, cleanup, developmental, and
-  safety-outcome language.
-- Preserve the article as the ramp build/troubleshooting owner, the card as
-  one-screen utility, and Ramp Detective as the deeper test-pack route.
-- Do not create a new page, add invented evidence, or broaden other hubs in
-  this transaction.
+- `KAL-IMP-001` is implemented and QA-green on the exact nine frozen paths.
+- The existing ramp article now preserves the immediate build answer and
+  troubleshooting, adds one optional source-backed one-variable comparison,
+  and removes unsupported tested, timing, child-capability, engagement,
+  cleanup, developmental, and safety-outcome language.
+- The article remains the ramp build/troubleshooting owner, the card remains
+  one-screen utility, and Ramp Detective remains the deeper test-pack route.
+- Independent persona/every-section review returned `PASS` with no P0-P3
+  findings. Focused commit, Pages, and production verification remain.
 - Generator QA and manual-hub migration remain possible future technical work,
   but must be selected separately rather than bundled into research or content.
 

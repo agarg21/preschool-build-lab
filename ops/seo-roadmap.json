@@ -278,7 +278,10 @@
       "learning_value": 4,
       "effort": 3,
       "risk": 2,
-      "status": "ready",
+      "status": "completed",
+      "selected_on": "2026-07-28",
+      "completed_on": "2026-07-28",
+      "frozen_base": "3e0169e94684be18f4dd150a1dbf79b5bf3b6069",
       "allowed_during_observation": false,
       "requires_fresh_gsc": true,
       "required_evidence": [
@@ -292,18 +295,28 @@
       ],
       "target_paths": [
         "site/articles/cardboard-box-car-ramp-preschoolers.html",
-        "reviews/",
+        "site/sitemap.xml",
+        "reviews/cardboard-box-car-ramp-persona-review-2026-07-28.md",
+        "backlog/implementation-backlog.md",
         "ops/seo-roadmap.json",
         "ops/seo-roadmap.md",
         "ops/current-cycle.md",
         "ops/operator-review.md",
-        "decisions.md",
         "progress.md"
       ],
       "success_signal": "The existing cardboard ramp article gives an immediate build answer and one optional one-variable test, preserves troubleshooting and page ownership, and contains no unsupported parent-tested, duration, child-capability, engagement, cleanup, original-photo, developmental, or universal safety claim.",
       "decision_pack": "seo/age-4-activity-cluster-decision-pack-2026-07-28.md",
+      "implementation_state": "review-clean-push-pending",
+      "baseline": "The indexed article has the cluster's strongest measured foothold at 24 impressions and average position 16.58, but it contains unsupported parent-tested, exact-duration, universal child-capability, cleanup-time, and safety-outcome wording. Complete current query rows and clicks are unavailable.",
+      "hypothesis": "A clearer direct answer plus one optional source-backed test and stricter evidence language will improve parent utility and trust without changing the article's ramp build-and-troubleshooting ownership.",
+      "expected_effect": "Parents can start the ramp quickly, choose one visible comparison, recover from common failures, and stop or switch to free play. No parent/child outcome, tested-status, measured timing, original-photo, developmental, or universal safety evidence is created.",
+      "observation_window": "After release, wait for a post-release recrawl and at least two finalized public-safe comparison points before attributing page-level movement. The first click or complete query evidence is a new gate, not proof of parent usefulness.",
       "evidence_classification": "The latest page and indexing rows are MEASURED, current inspected sources are SOURCE_BACKED, and the five parent-job personas are RESEARCH_HYPOTHESIS. Current complete queries, clicks, parent-test observations, engagement, setup/play/cleanup duration, and original visuals are UNKNOWN.",
       "human_gate": "No human gate is required for evidence-integrity cleanup and source-backed instruction structure. Any parent-tested status, child outcome or quote, measured timing, safety outcome, or original-session visual remains prohibited until separately supplied and validated.",
+      "result": "Improved the existing cardboard ramp article without adding a page. Preserved the direct build answer, troubleshooting, canonical, and page ownership; added one optional source-backed one-variable comparison; removed unsupported tested, exact-time, universal child-capability, cleanup-duration, and safety-outcome language; and updated only the article's sitemap date. Native/focused/browser QA passed, and independent persona/every-section review returned PASS with no P0-P3 findings.",
+      "review_cycles": 1,
+      "review_outcome": "PASS",
+      "release_state": "review-clean-push-pending",
       "notes": "Promoted by KAL-RES-001 on 2026-07-28. Target the existing ramp article only; do not create another ramp page or expand broad hubs. Freeze exact implementation paths at transaction start, refresh GSC if a newer snapshot exists, run page/link/visual QA, obtain a different independent persona/every-section review, and release only PASS or PASS_WITH_P3."
     }
   ]

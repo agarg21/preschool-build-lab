@@ -7,10 +7,9 @@ automation.
 
 ## Current sequence
 
-1. Complete and release `KAL-RES-001`, the source-dated age-4 activity cluster
-   decision pack.
-2. Run `KAL-IMP-001` as a separate exact-path transaction on the existing
-   cardboard ramp article.
+1. Release the review-clean `KAL-IMP-001` exact-path commit and verify Pages
+   and live invariants.
+2. Run the deferred onboarding-state sync as a separate exact-path action.
 3. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
 4. Keep original/tested claims human-gated and broad hubs in observation.
@@ -95,13 +94,19 @@ indexed.
   `PASS_WITH_P3`; the onboarding sync is deferred to a separate exact-path
   action.
 
-## Next eligible action
+## KAL-IMP-001 Review-Clean On 2026-07-28
 
-`KAL-IMP-001` is ready as a separate exact-path implementation transaction.
-It must preserve the article's build/troubleshooting ownership, add at most one
-source-backed one-variable test route, and remove or relabel unsupported
-tested, timing, child-capability, engagement, cleanup, developmental, and
-safety-outcome language.
+- The exact nine-path transaction starts from `3e0169e`.
+- The existing article preserves its title, H1, canonical, immediate no-cut
+  build answer, troubleshooting, and ramp build/troubleshooting ownership.
+- It adds one optional source-backed height, car, or landing-surface
+  comparison and routes deeper observation to Ramp Detective.
+- Unsupported tested, exact-time, universal child-capability, cleanup-duration,
+  and safety-outcome wording is removed.
+- Desktop/mobile browser checks, metadata/JSON-LD parsing, XML, links,
+  fragments, source status, claim scans, and `git diff --check` pass.
+- Independent persona/every-section review returned `PASS` with no P0-P3
+  findings. Focused commit, Pages, and production verification remain.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 
@@ -128,7 +133,7 @@ baseline is not fresh.
 the intentional/stale exclusions and improve, consolidate, or intentionally
 exclude at most one strategically important page. Do not bulk-request indexing
 for the 23 reported URLs.
-`KAL-IMP-001` is ready from `KAL-RES-001`. It does not authorize tested-status,
+`KAL-IMP-001` is review-clean and push-pending. It does not authorize tested-status,
 measured-duration, engagement, child-outcome, original-photo, developmental,
 or universal-safety claims; those remain human-gated.
 

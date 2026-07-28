@@ -2,6 +2,27 @@
 
 ## 2026-07-28
 
+### Cardboard Ramp Article Improvement
+
+- Started `KAL-IMP-001` from clean, aligned frozen base `3e0169e`.
+- Limited the transaction to the existing article, its exact sitemap entry,
+  one review artifact, and six roadmap/backlog/progress paths.
+- Preserved the title, H1, canonical, immediate build answer,
+  troubleshooting, related architecture, and existing hero image.
+- Added one optional source-backed height, car, or landing-surface comparison,
+  with a one-comparison stop line and a Ramp Detective route.
+- Removed unsupported parent-tested, exact-duration, universal
+  child-capability, cleanup-time, and safety-outcome wording.
+- Kept all parent/child outcomes, quotes, measured timing, tested status,
+  original visuals, developmental results, and safety outcomes unavailable and
+  prohibited.
+- JSON, XML, HTML/JSON-LD, link, fragment, source-status, claim-scan,
+  desktop/mobile visual, console, and `git diff --check` checks pass.
+- Independent reviewer Rawls
+  (`019faa4c-79a3-71f0-a655-4a9949e498de`) returned `PASS` in cycle 1 with no
+  P0-P3 findings after auditing all five personas and every visible section.
+- Focused commit, Pages, and production release verification remain.
+
 ### Age-4 Activity Cluster Decision Pack
 
 - Registered and completed research-only action `KAL-RES-001` from frozen base

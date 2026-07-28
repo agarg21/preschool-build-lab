@@ -18,6 +18,55 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-07-28 Cardboard Ramp Article Improvement
+
+Action: `KAL-IMP-001`
+
+State: review-clean
+
+Frozen base: `3e0169e94684be18f4dd150a1dbf79b5bf3b6069`
+
+Scope: the exact nine article, sitemap, review, backlog, roadmap, cycle, and
+progress paths declared for `KAL-IMP-001` in `ops/seo-roadmap.json`.
+
+Boundaries:
+
+- improve the existing ramp article only; no new page or broad-hub change;
+- keep the article, support card, and Ramp Detective roles distinct;
+- create no parent/child observation, quote, measured timing, tested status,
+  original visual, developmental result, or safety outcome;
+- release only after green focused/visual QA and independent
+  persona/every-section review.
+
+QA before review:
+
+- JSON, XML, HTML, Article JSON-LD, canonical, sitemap entry, links, fragments,
+  source status, unsupported-claim scan, and `git diff --check` pass;
+- desktop 1440x900 and mobile 390x844 checks show no page/text overflow or
+  detected overlap, the hero image loads, and the console is clean;
+- the responsive comparison blocks stack without horizontal scrolling.
+
+Reviewer: Rawls (`019faa4c-79a3-71f0-a655-4a9949e498de`)
+
+Read-only status: confirmed. The reviewer changed no file, Git state, site,
+GSC, indexing state, external account, or deployment.
+
+Cycle 1: `PASS`
+
+- All five source-traced personas passed.
+- Every visible section, FAQ answer, metadata/schema field, source link,
+  internal route, footer, and sitemap entry passed.
+- Exact scope reports `outside=[]` and `missing=[]`.
+- Source fidelity, evidence classes, safety wording, responsive layout, and
+  the article/card/Ramp Detective architecture passed.
+- Independent QA confirmed 61 unique sitemap URLs, all referenced routes and
+  assets return 200, no page-level overflow at 1440x900 or 390x844, and no
+  page-origin console errors.
+
+Final findings: none (`P0`-`P3`).
+
+Final result: `PASS`.
+
 ## 2026-07-28 Age-4 Activity Cluster Decision Pack
 
 Action: `KAL-RES-001`

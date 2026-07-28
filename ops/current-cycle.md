@@ -18,10 +18,11 @@ and release verification.
 
 ## Active Priority
 
-`KAL-RES-001` completed the age-4 activity cluster research and selected one
-bounded next implementation: improve the existing cardboard ramp article.
-The transaction changed no `site/**`, generator, GSC snapshot, indexing,
-external account, parent-test claim, or deployment state.
+`KAL-IMP-001` is review-clean on its exact nine frozen paths. The
+existing cardboard ramp article now keeps the immediate no-cut build answer,
+adds one optional source-backed height/car/surface comparison, preserves
+troubleshooting and page ownership, and removes unsupported tested, timing,
+universal child-capability, cleanup-duration, and safety-outcome language.
 
 The newest durable GSC snapshot collected 2026-07-28 has data through
 2026-07-26 and shows 72 impressions, 0 clicks, 61 discovered pages, and 7 of 7
@@ -43,21 +44,20 @@ priority or content-value candidates. `KAL-IDX-001` stays planned until a fresh
 changed report supports one bounded improvement or consolidation; do not
 bulk-request indexing. See `ops/gsc-indexing-review-2026-07-18.md`.
 
-## Next Bounded Implementation
+Independent reviewer Rawls (`019faa4c-79a3-71f0-a655-4a9949e498de`) audited
+all five personas and every visible section. Cycle 1 returned `PASS` with no
+P0-P3 findings.
 
-Run `KAL-IMP-001` as a separate transaction:
+## Current Release Gate
 
-- target only `site/articles/cardboard-box-car-ramp-preschoolers.html` plus
-  the exact review and roadmap paths frozen before edits;
-- preserve the immediate cardboard/books/cars answer and troubleshooting;
-- add one optional source-backed test that changes height, car, or surface;
-- remove or relabel unsupported parent-tested, duration, child-capability,
-  engagement, cleanup, developmental, and safety-outcome language;
-- keep the support card and Ramp Detective roles distinct;
-- run focused page/link/visual QA and a different independent read-only
-  persona/every-section review before release.
+Commit and push only the exact reviewed nine paths. Verify local/origin
+alignment, the exact-SHA GitHub Pages run, and the live article's
+title/canonical/direct answer/one-change module/troubleshooting/footer. Confirm
+the old unsupported phrases remain absent.
 
-Do not create a new page or claim parent/child evidence.
+Do not create a new page or claim parent/child evidence. Parent-tested status,
+child outcomes or quotes, measured timing, safety outcomes, and original-session
+visuals remain prohibited.
 
 ## Waiting On User
 
@@ -169,11 +169,8 @@ Do not create a new page or claim parent/child evidence.
 
 ## Next Transaction
 
-After `KAL-RES-001` is review-clean and pushed, this Master chat should run
-`KAL-IMP-001` as the next substantive action. It is limited to the existing
-cardboard ramp article and exact review/roadmap paths frozen before edits. The
-Master remains the sole repository writer, and a different read-only reviewer
-must audit every section against the five source-traced persona hypotheses.
-Parent-tested status, child outcomes or quotes, measured timing, safety
-outcomes, and original-session visuals remain prohibited until separately
-supplied and validated.
+After `KAL-IMP-001` is review-clean, commit and push only the exact reviewed
+nine paths. Verify local/origin alignment, the GitHub Pages run for the exact
+SHA, the live article's title/canonical/direct answer/one-change
+module/troubleshooting/footer, and the absence of the old unsupported claims.
+Then begin the next registered action rather than adding scope here.
