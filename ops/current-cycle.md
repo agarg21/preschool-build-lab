@@ -36,10 +36,11 @@ The decision pack retains 17 exact query variants, five explicitly incomplete
 SERP samples, five source-traced parent-job hypotheses, an eight-page inventory,
 and every-section audits for the three implementation candidates. Numeric SERP
 overlap is `UNKNOWN`; persona hypotheses do not count as parent-test evidence.
-This is fresh cluster, SERP, source, persona, and page research. It is not a
-fresh paid keyword-metrics pull: complete current GSC query rows are unavailable
-and the retained July 9 Semrush volume/KD rows are stale `TOOL_ESTIMATE`
-evidence.
+The cluster, SERP, source, persona, and page research is current. `KAL-RES-002`
+also refreshed the same 17 queries in Semrush's US bulk interface: seven
+returned numeric volume, ten returned `n/a` volume, and all returned intent and
+KD. These values are `TOOL_ESTIMATE`, while complete current GSC query rows
+remain `UNKNOWN`.
 
 The authenticated Page indexing review collected 2026-07-18 found no blanket
 technical fix. One noindex is intentional, `/index.html` has the correct live
@@ -177,5 +178,6 @@ Do not create a new page or claim parent/child evidence.
 
 No implementation transaction is currently selected. Wait for the next
 finalized GSC snapshot and the `KAL-IMP-001` observation gate rather than
-manufacturing another page. A paid volume/KD refresh may run only as a separate
-registered action with explicit budget authorization.
+manufacturing another page. The current paid metric layer is
+`seo/age-4-keyword-metrics-refresh-2026-07-28.md`; it reinforces the existing
+architecture and does not promote an implementation.

@@ -82,6 +82,7 @@ Observe the article until Google recrawls the release and at least two
 finalized public-safe comparison points exist. Complete current GSC query rows
 remain unavailable. The July 28 decision pack used current query variants,
 SERP samples, ranking-page inspection, source-traced persona hypotheses, and
-page audits; its paid keyword volume and difficulty inputs remain stale July 9
-tool estimates. Refreshing paid keyword metrics requires a separate,
-budget-authorized research action.
+page audits. A separately authorized Semrush US bulk refresh then updated all
+17 exact queries: seven returned numeric volume and ten returned `n/a` volume,
+with intent and KD available for all. The estimates reinforce existing-page
+ownership and do not select another implementation.

@@ -14,9 +14,10 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
-## Ready Implementation
+## Current Evidence Decision
 
-`KAL-RES-001` promotes one bounded existing-page action:
+`KAL-RES-001` promoted one bounded existing-page action, and `KAL-IMP-001`
+released it:
 
 - improve `site/articles/cardboard-box-car-ramp-preschoolers.html`;
 - preserve its immediate build answer, troubleshooting, and primary ramp
@@ -28,6 +29,11 @@ Historical supporting files:
 
 The decision pack is
 `seo/age-4-activity-cluster-decision-pack-2026-07-28.md`.
+The current paid-metrics supplement is
+`seo/age-4-keyword-metrics-refresh-2026-07-28.md`.
+
+No additional implementation is ready. Observe the released ramp article until
+its post-release recrawl and two finalized public-safe comparison points.
 
 ## Waiting On User / Real-World Evidence
 
@@ -52,6 +58,10 @@ The decision pack is
   impressions, 0 clicks, 61 discovered pages, and 7 of 7 priority URLs
   indexed. The ramp article has 24 page-level impressions, but complete query
   rows remain unavailable.
+- `[monitor]` The 2026-07-28 Semrush US bulk refresh returned numeric volume
+  for 7 of 17 exact queries and `n/a` volume for 10. The largest estimates map
+  to existing preschool STEM, cardboard-ramp, and age-4 at-home URLs; no new
+  page is promoted.
 
 ## Do Not Do Yet
 
@@ -62,6 +72,10 @@ The decision pack is
 
 ## Done
 
+- 2026-07-28: `KAL-RES-002` refreshed intent, volume availability, KD, and CPC
+  availability for all 17 exact age-4 cluster queries in Semrush's US bulk
+  interface. Seven rows returned numeric volume and ten returned `n/a`.
+  Existing-page ownership and the ramp observation gate remain unchanged.
 - 2026-07-28: `KAL-RES-001` compared the latest two validated public-safe GSC
   snapshots, retained 17 query variants and five explicitly incomplete SERP
   samples, derived five source-traced parent-job hypotheses, inventoried eight

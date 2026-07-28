@@ -2,6 +2,23 @@
 
 ## 2026-07-28
 
+### Age-4 Paid Keyword Metrics Refresh
+
+- Registered `KAL-RES-002` from clean, aligned frozen base `b17c7a2`.
+- Used the user's logged-in Semrush session and the United States Bulk Analysis
+  view to refresh the frozen 17-query KAL-RES-001 universe.
+- Seven exact queries returned numeric volume and CPC; ten returned `n/a`; all
+  17 returned intent and KD with final update status `Now`.
+- The largest numeric estimates map to existing preschool STEM,
+  cardboard-ramp, and age-4 at-home URLs. The estimates promote no new page or
+  content edit.
+- Complete current GSC query rows remain `UNKNOWN`, and every Semrush value is
+  `TOOL_ESTIMATE`.
+- Independent reviewer Hume
+  (`019faa96-0e3d-7f42-b4ca-5a6a1d516271`) returned `PASS` with no P0-P3
+  findings after exact-query, source-value, evidence-class, scope, JSON, and
+  whitespace checks.
+
 ### Onboarding State Sync
 
 - Registered `KAL-OPS-004` from clean, aligned frozen base `78ef884e`.

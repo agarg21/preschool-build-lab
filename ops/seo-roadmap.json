@@ -363,6 +363,60 @@
       "review_outcome": "PASS",
       "release_state": "push-only",
       "notes": "Selected by direct manual user instruction after KAL-IMP-001. Documentation-only transaction; no deployment is applicable."
+    },
+    {
+      "id": "KAL-RES-002",
+      "title": "Refresh paid keyword metrics for the age-4 activity cluster",
+      "kind": "research",
+      "lane": "search-and-product-research",
+      "impact": 4,
+      "confidence": 4,
+      "learning_value": 4,
+      "effort": 2,
+      "risk": 1,
+      "status": "completed",
+      "selected_on": "2026-07-28",
+      "completed_on": "2026-07-28",
+      "frozen_base": "b17c7a221e350d35878628c737f7af311d1fe3fb",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": false,
+      "required_evidence": [
+        "KAL-RES-001_exact_query_universe",
+        "current_semrush_us_bulk_analysis"
+      ],
+      "target_urls": [],
+      "target_paths": [
+        "README.md",
+        "strategy/current-strategy.md",
+        "seo/age-4-keyword-metrics-refresh-2026-07-28.md",
+        "reviews/age-4-keyword-metrics-refresh-review-2026-07-28.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "progress.md"
+      ],
+      "success_signal": "One capped Semrush US bulk refresh records current volume availability, keyword difficulty, CPC availability, intent, and update status for all 17 exact KAL-RES-001 queries, preserves n/a and UNKNOWN distinctions, and states whether the estimates change the current observation-first architecture decision.",
+      "implementation_state": "review-clean",
+      "evidence_classification": "All Semrush values are dated US-database TOOL_ESTIMATE evidence. Public-safe GSC page and indexing rows remain MEASURED, complete current GSC query rows remain UNKNOWN, and no tool estimate may be presented as observed KAL demand or parent behavior.",
+      "human_gate": "The user explicitly authorized this paid keyword-metrics pull on 2026-07-28 and directed use of the logged-in Semrush browser session. No parent/child evidence, safety outcome, original visual, indexing request, external-account mutation, or implementation action is authorized.",
+      "observation_window": "Not applicable to the research pull. Use the refreshed estimates only for roadmap prioritization; preserve the released ramp article's post-release recrawl and two-finalized-comparison-point gate.",
+      "decision": "Refresh the frozen 17-query universe in Semrush's US bulk interface, then decide whether the estimates alter the existing page, section, or defer architecture. Do not add queries opportunistically or implement a page.",
+      "result": "Refreshed all 17 exact queries in Semrush's logged-in US Bulk Analysis view. Seven rows returned numeric volume and CPC, ten returned n/a, and all returned intent and KD with update status Now. The estimates reinforce the existing preschool STEM, age-4 at-home, age-4 STEM, and cardboard-ramp URLs; no page or implementation is promoted. Independent read-only review returned PASS with no P0-P3 findings.",
+      "source_capture": {
+        "source": "Semrush Keyword Overview Bulk Analysis",
+        "market": "United States",
+        "database_month": "202607",
+        "collected_at": "2026-07-28T21:13:25Z",
+        "query_count": 17,
+        "numeric_volume_count": 7,
+        "n_a_volume_count": 10
+      },
+      "review_cycles": 1,
+      "review_outcome": "PASS",
+      "release_state": "push-only",
+      "notes": "Selected by direct manual user instruction and explicit paid-tool authorization. Research-only, push-only transaction; no deployment is applicable."
     }
   ]
 }

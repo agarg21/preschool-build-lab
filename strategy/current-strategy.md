@@ -43,8 +43,11 @@ clicks, 61 discovered pages, and 7 of 7 priority URLs indexed. The cardboard
 ramp article has 24 page-level impressions, but complete query rows remain
 unavailable. The completed cluster decision pack used current query variants,
 SERP samples, ranking-page inspection, five source-traced persona hypotheses,
-and direct page audits. Paid volume and difficulty metrics were not refreshed;
-the retained July 9 Semrush rows are stale `TOOL_ESTIMATE` evidence.
+and direct page audits. A separately authorized 2026-07-28 Semrush US bulk
+refresh updated all 17 exact queries. Seven returned numeric volume, ten
+returned `n/a` volume, and all returned intent and KD. These remain
+`TOOL_ESTIMATE` evidence and reinforce existing-page ownership rather than a
+new URL.
 
 The selected ramp improvement is released. Wait for a post-release recrawl and
 at least two finalized public-safe comparison points before attributing
@@ -60,8 +63,9 @@ movement or selecting another content edit.
    `site/collections/original-stem-activities-for-4-year-olds.html`.
 4. Record real observations through the validated parent-test intake.
 5. Upgrade a winning activity only after separate evidence and content review.
-6. Refresh paid keyword volume and difficulty only as a separately registered,
-   budget-authorized research action.
+6. Use `seo/age-4-keyword-metrics-refresh-2026-07-28.md` as the current paid
+   metric layer; do not treat `n/a` as zero or tool estimates as observed KAL
+   demand.
 
 ## Do Not Do Yet
 

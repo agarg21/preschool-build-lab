@@ -12,9 +12,9 @@ automation.
 2. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
 3. Keep original/tested claims human-gated and broad hubs in observation.
-4. Treat a current paid volume/KD refresh as a separate budget-authorized
-   research action; the cluster/SERP/page research is current, but the retained
-   July 9 Semrush metrics are stale.
+4. Use the completed `KAL-RES-002` Semrush supplement as the current paid
+   metric layer. It reinforces existing-page ownership and promotes no
+   implementation.
 
 The authenticated Page indexing review collected 2026-07-18 is normalized in
 `ops/gsc-indexing-review-2026-07-18.md`. Google's report was last updated
@@ -126,6 +126,20 @@ indexed.
 - No site, generator, GSC snapshot, workflow, external account, parent/child
   evidence, keyword-tool pull, or deployment path is authorized.
 - Independent read-only review returned `PASS` with no P0-P3 findings.
+
+## KAL-RES-002 Completed On 2026-07-28
+
+- The exact ten-path research transaction starts from `b17c7a2`.
+- Semrush's logged-in US bulk interface refreshed all 17 frozen KAL-RES-001
+  queries. Seven returned numeric volume and CPC; ten returned `n/a`; all
+  returned intent and KD with update status `Now`.
+- The largest numeric estimates map to existing preschool STEM, cardboard-ramp,
+  and age-4 at-home URLs. No new page or content edit is promoted.
+- Complete current GSC query rows remain `UNKNOWN`; every Semrush value is
+  `TOOL_ESTIMATE`.
+- Independent read-only review returned `PASS` with no P0-P3 findings.
+- No site, generator, snapshot, external account, parent/child evidence, or
+  deployment path changed.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 

@@ -18,6 +18,54 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-07-28 Age-4 Keyword Metrics Refresh
+
+Action: `KAL-RES-002`
+
+State: review-clean
+
+Frozen base: `b17c7a221e350d35878628c737f7af311d1fe3fb`
+
+Scope: the exact ten research, onboarding, roadmap, cycle, backlog, review, and
+progress paths declared for `KAL-RES-002` in `ops/seo-roadmap.json`.
+
+Boundaries:
+
+- refresh only the 17 exact KAL-RES-001 queries in the Semrush US bulk view;
+- label every tool value `TOOL_ESTIMATE` and preserve `n/a`, zero, and
+  `UNKNOWN`;
+- keep current complete GSC query rows `UNKNOWN`;
+- promote no page or implementation unless the estimates change the
+  architecture decision;
+- change no site, generator, GSC snapshot, external account, parent/child
+  evidence, or deployment state.
+
+Reviewer: Hume (`019faa96-0e3d-7f42-b4ca-5a6a1d516271`)
+
+Read-only status: confirmed. The reviewer changed no file, Git state, browser
+account, site, search evidence, or deployment.
+
+Cycle 1: `PASS`
+
+- Exact scope is eight tracked modifications and two declared untracked
+  artifacts, with nothing staged or outside scope.
+- Both query registers contain the same 17 unique exact phrases.
+- Every intent, volume, KD, CPC, and `Now` value matches the frozen source
+  evidence.
+- Seven numeric-volume rows, ten `n/a` rows, and two numeric `0.00` CPC values
+  remain mechanically distinct.
+- Tool estimates, unavailable query evidence, existing URL ownership, and the
+  ramp observation gate are consistent across active guidance.
+- JSON, whitespace, path-reference, exact-scope, and prohibited-path checks
+  pass.
+
+Residual limitation: the reviewer did not reopen the authenticated Semrush
+account and reviewed the supplied frozen source evidence read-only.
+
+Final findings: none (`P0`-`P3`).
+
+Final result: `PASS`.
+
 ## 2026-07-28 Onboarding State Sync
 
 Action: `KAL-OPS-004`
