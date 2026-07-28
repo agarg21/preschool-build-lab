@@ -8,15 +8,19 @@ writers.
 
 ## Current Model
 
-- The central Control Room is the only scheduler and dispatch-ledger writer.
+- This permanent Master chat is the current scheduler and command center.
+- The central Control Room is retained for future automation, but Kid Activity
+  Lab scheduling is paused until the user explicitly re-enables it.
 - The permanent Kid Activity Lab Master / Operator is the single repository
-  writer for one validated dispatch or direct manual user instruction.
+  writer for one registered action per transaction.
 - SEO Research & Review, Implementation, and Operator Review agents may be
   invoked for bounded read-only tasks.
 - The durable queue is `ops/seo-roadmap.json`; private chat memory and old
   backlogs do not independently set priority.
 - Every material strategy, research, code, content, or configuration change
   requires native QA and a different independent read-only reviewer.
+- There is no fixed daily action or commit quota. Multiple transactions may run
+  sequentially, but independent actions keep independent scope and commits.
 
 Current rules live in:
 

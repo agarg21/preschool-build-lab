@@ -65,8 +65,9 @@ content review.
 
 ### 0. Open The Transaction
 
-- Confirm whether the action is a validated Control Room dispatch or a direct
-  manual user instruction.
+- Confirm that the action is a direct manual instruction registered by the
+  active Master chat. If the user later re-enables Control Room automation and
+  a dispatch arrives, validate that dispatch before project reads or writes.
 - Reconcile local `main` with `origin/main`, preserving unrelated dirty work.
 - Record one action ID, transaction type, exact paths, evidence classification,
   and human/observation gates before substantive edits.

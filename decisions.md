@@ -2,6 +2,26 @@
 
 ## Decisions Made
 
+### 2026-07-28: Use The Master Chat And Remove The Daily Commit Cap
+
+Decision: Operate Kid Activity Lab from this permanent Master chat during the
+current manual phase. Pause Control Room scheduling until the user explicitly
+re-enables automation. Remove the fixed one-substantive-action/commit-per-day
+limit.
+
+The replacement rule is risk-based sequential execution:
+
+1. one registered action per transaction;
+2. exact paths and evidence gates before substantive edits;
+3. one shared-checkout writer;
+4. native QA and independent read-only review for material changes;
+5. a focused commit for each independent action;
+6. release and production verification before overlapping work continues.
+
+Why: the daily quota is now the limiting factor. Scope, evidence, review, QA,
+and release gates provide the useful safety boundaries without forcing healthy
+work to wait for another calendar day.
+
 ### 2026-07-28: Adopt Activity-Cluster Research And Persona-Based Review
 
 Decision: Adapt the proven Family Tripwise research/review model for Kid
@@ -19,9 +39,8 @@ The durable workflow is:
 7. exact-path release and evidence-triggered measurement.
 
 Personas are `RESEARCH_HYPOTHESIS` evidence, not demographic truth,
-testimonials, or parent/child testing. The Control Room remains the only
-scheduler and the permanent Master / Operator remains the single repository
-writer for each transaction.
+testimonials, or parent/child testing. The permanent Master / Operator remains
+the single repository writer for each transaction.
 
 Why: KAL already has strong tired-parent, safety-boundary, and parent-test
 principles, but its older child-chat model and research artifacts do not yet

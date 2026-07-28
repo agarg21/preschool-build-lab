@@ -1,13 +1,14 @@
 # Kid Activity Lab Operator Roadmap
 
 The machine-readable queue is `ops/seo-roadmap.json`. It preserves the age-4
-STEM strategy while replacing manual chat sequencing with one durable operator
-queue.
+STEM strategy and gives the active Master chat one durable execution queue.
+Control Room scheduling is paused until the user explicitly re-enables
+automation.
 
 ## Current sequence
 
-1. Complete `KAL-OPS-002`, the governance-only activity-cluster research and
-   persona-review operating-model installation.
+1. Complete `KAL-OPS-003`, the governance-only switch to chat-led execution and
+   risk-based sequential transactions.
 2. Run `KAL-RES-001` separately to produce one source-dated age-4 activity
    cluster decision pack with at most one promoted existing-page action.
 3. Keep comparing validated GSC snapshots, but do not infer complete query
@@ -71,13 +72,31 @@ indexed.
   bounded existing-page action.
 - Independent review cycle 1 found three P2 consistency/reproducibility gaps
   and two P3 notes. Cycle 2 verified every finding closed and returned `PASS`
-  with no P0-P3 findings. `KAL-OPS-002` is complete and push-only pending.
+  with no P0-P3 findings. `KAL-OPS-002` was released push-only in `f9917a2`.
 - `KAL-RES-001` is now ready for a separate future transaction.
 
 ## Next eligible action
 
-After `KAL-OPS-002`, the next eligible substantive action is `KAL-RES-001`.
-It is research-only and may not edit site or generator paths.
+After `KAL-OPS-003`, the next eligible substantive action is `KAL-RES-001`. It
+is research-only and may not edit site or generator paths.
+
+## Review-clean on 2026-07-28: Chat-led execution
+
+- `KAL-OPS-003` makes this permanent Master chat the current command center,
+  pauses Control Room scheduling, and removes the fixed daily substantive
+  action and commit cap.
+- Central commit `ad14e59` changes only Kid Activity Lab lifecycle from
+  `active` to `paused`; the deterministic controller classifies the project as
+  paused with no scheduled work.
+- The first independent review found one P1 pause gap, one P2 stale-cadence
+  conflict, and two P3 history notes. Cycle 2 verified every finding closed and
+  returned `PASS` with no P0-P3 findings.
+- The replacement cadence allows multiple sequential transactions while
+  retaining one registered action per transaction, exact scope, single-writer
+  ownership, evidence gates, QA, independent material-change review, focused
+  commits, and release verification.
+- No site, generator, GSC snapshot, indexing, external-account, parent/child
+  evidence, workflow, or deployment path changed.
 
 `KAL-MON-001` continues comparing each new validated snapshot with the prior
 snapshot. Semrush remains optional enrichment and the imported July 2 authority
@@ -89,7 +108,8 @@ for the 23 reported URLs.
 `KAL-IMP-001` stays planned until real parent-test or fresh search evidence
 identifies one bounded existing-page improvement.
 
-The Control Room may scan every two hours, but it may run at most one
-substantive Kid Activity Lab action per day during the proving period. Missing
-parent observations are a valid human dependency, not permission to fabricate
-evidence or generate generic pages.
+There is no fixed daily substantive-action or commit limit. The Master chat may
+run multiple sequential transactions when each is independently registered,
+scoped, reviewed when material, QA-green, committed separately, and release
+verified. Missing parent observations remain a valid human dependency, not
+permission to fabricate evidence or generate generic pages.

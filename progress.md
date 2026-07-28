@@ -2,6 +2,26 @@
 
 ## 2026-07-28
 
+### Chat-Led Manual Operating Mode
+
+- Registered `KAL-OPS-003` as a governance-only direct-manual transaction.
+- User directed Kid Activity Lab to operate from this permanent Master chat
+  until automation is intentionally re-enabled.
+- Replaced the fixed one-substantive-action/commit-per-day limit with
+  risk-based sequential transactions.
+- Preserved one registered action per transaction, exact paths, one repository
+  writer, native QA, independent material-change review, focused commits, and
+  release verification.
+- Independent review cycle 1 found that the central scheduler was still active,
+  the historical cadence retained a multi-writer handoff, and two history notes
+  were stale.
+- Central commit `ad14e59` now changes only Kid Activity Lab lifecycle from
+  `active` to `paused`; the controller reports `No scheduled work.`
+- Archived the old cadence, corrected the history notes, and received `PASS`
+  with no P0-P3 findings in review cycle 2.
+- No site, generator, GSC snapshot, indexing, external account, parent/child
+  evidence, or deployment path is included.
+
 ### Activity-Cluster Research And Persona-Review Operating Model
 
 - Reconciled clean local `main` with `origin/main` at `da8f337`; the two
@@ -21,9 +41,10 @@
   deployment path.
 - Added the KAL activity-cluster research protocol, persona/every-section review
   protocol, reusable decision-pack template, and independent reviewer charter.
-- Reconciled active role guidance so the Control Room is the only scheduler,
-  the Master is the single repository writer, and supporting agents are
-  read-only.
+- Reconciled active role guidance so the Control Room was the only scheduler,
+  the Master was the single repository writer, and supporting agents were
+  read-only. The scheduler portion was superseded later that day by
+  `KAL-OPS-003`; the single-writer and read-only boundaries remain active.
 - Registered `KAL-RES-001` as the separate planned age-4 activity cluster
   research transaction. It may promote at most one existing-page action.
 - Independent reviewer Dewey
@@ -33,8 +54,8 @@
   paid-tool authorization, made SERP samples and overlap math reproducible,
   reframed the three current pages as candidates, and removed template
   whitespace.
-- Cycle 2 returned `PASS` with no P0-P3 findings. `KAL-OPS-002` is review-clean
-  and push-only pending; `KAL-RES-001` is ready as a separate transaction.
+- Cycle 2 returned `PASS` with no P0-P3 findings. `KAL-OPS-002` was released
+  push-only in `f9917a2`; `KAL-RES-001` is ready as a separate transaction.
 
 ## 2026-07-10
 

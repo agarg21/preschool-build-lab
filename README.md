@@ -45,9 +45,11 @@ Then commit and push the changed source files and generated files.
 
 ## Operating Model
 
-The central Control Room is the only scheduler. The permanent Master / Operator
-executes one validated dispatch or direct manual user instruction and is the
-single repository writer for that transaction.
+This Master chat is the current project command center. It selects and executes
+one registered action per transaction and is the single repository writer for
+that transaction. The central Control Room remains available for future
+automation, but its Kid Activity Lab scheduling role is paused during this
+manual phase.
 
 Supporting agents operate read-only:
 
@@ -60,6 +62,11 @@ Supporting agents operate read-only:
 Material work proceeds only after `PASS` or `PASS_WITH_P3`, green native QA,
 and exact-path verification. The durable queue is `ops/seo-roadmap.json`;
 historical child chats and backlogs do not independently set priority.
+
+There is no fixed daily action or commit quota. The Master may run multiple
+sequential transactions when each remains independently scoped, reviewed when
+material, QA-green, and releasable. Independent actions stay in independent
+commits.
 
 Before adding or materially changing an indexable page, use
 `seo/activity-cluster-research-protocol.md`. Use

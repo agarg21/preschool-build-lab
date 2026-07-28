@@ -18,11 +18,73 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-07-28 Chat-Led Operating Mode
+
+Action: `KAL-OPS-003`
+
+State: review-clean; central pause pushed; project push pending
+
+Frozen base: `f9917a298f5e4526f93e959844c8975c999e0f9c`
+
+Central frozen base:
+`9b8d248210a1acf26b870172073660987b81750c`
+
+Scope: the exact 17 local-governance and central-lifecycle paths declared in
+`ops/seo-roadmap.json`.
+
+Boundaries:
+
+- no `site/**`, generator, GSC snapshot, workflow, indexing, external account,
+  parent-test claim, child quote, photo, observation, or deployment change;
+- remove the fixed daily action and commit cap without weakening transaction,
+  evidence, review, QA, or release gates;
+- make this Master chat the current command center and preserve the Control
+  Room only as paused future automation.
+
+Reviewer: Nietzsche (`019fa9e1-3dc0-7470-bda4-44e925901153`)
+
+Read-only status: confirmed. The reviewer changed no file, Git state,
+deployment, indexing state, or external account.
+
+Cycle 1: `FAIL`
+
+- `P1`: the local pause field was not consumed by the central controller while
+  the central Kid Activity Lab lifecycle remained `active`.
+- `P2`: `ops/cadence.md` retained an active-looking old multi-writer handoff.
+- `P3`: the prior operating-model review still said push pending.
+- `P3`: a historical progress line did not identify its scheduler rule as
+  superseded.
+
+Correction:
+
+- Set the central Kid Activity Lab portfolio lifecycle to `paused`.
+- Archived the old cadence and replaced its handoff with the single-writer,
+  read-only-supporting-agent workflow.
+- Corrected the prior release state and historical supersession note.
+
+Cycle 2: `PASS`
+
+- Central commit `ad14e5946e832d77ee6d5844bcf5fe35fd697c25`
+  changes only Kid Activity Lab lifecycle from `active` to `paused`.
+- The controller classifies Kid Activity Lab as `paused` with
+  `No scheduled work.`
+- The 17 declared paths match the 16 project changes plus the one authorized
+  central lifecycle path.
+- The historical cadence is clearly archived and only the Master may write
+  repository or external state.
+- Both project JSON files and the central portfolio JSON parse.
+- Project and targeted central `git diff --check` passed.
+- Unrelated central dirty and untracked work remains preserved.
+
+Final findings: none (`P0`-`P3`).
+
+Final result: `PASS`.
+
 ## 2026-07-28 Activity-Cluster Operating Model
 
 Action: `KAL-OPS-002`
 
-State: review-clean; push pending
+State: released push-only in `f9917a2`
 
 Frozen base: `da8f3378f5c12968d4b1963f7df5d511cffb2a44`
 

@@ -2,22 +2,42 @@
 
 ## Operating Model
 
-The central Control Room is the only scheduler. The registered permanent Master
-/ Operator executes a validated dispatch or direct manual user instruction and
-is the single project-repository writer for the transaction.
+This permanent Master chat is the current scheduler and command center. The
+Master / Operator executes one registered action per transaction and is the
+single project-repository writer for that transaction. Control Room scheduling
+is paused until the user explicitly re-enables automation.
 
 SEO Research & Review, Implementation, and Operator Review agents are bounded
 read-only supporting roles. Historical child-chat IDs remain archive evidence;
 they are not independent priority owners or repository writers.
 
+There is no fixed daily substantive-action or commit cap. Multiple transactions
+may run sequentially when each has an action ID, exact paths, evidence and
+human gates, green native QA, required independent review, a focused commit,
+and release verification.
+
 ## Active Priority
+
+`KAL-OPS-003` completed implementation and independent review. Cycle 1 found
+one P1 operational-pause gap, one P2 stale-cadence conflict, and two P3
+historical-state notes. Cycle 2 verified every finding closed and returned
+`PASS` with no P0-P3 findings. Central commit `ad14e59` now classifies Kid
+Activity Lab as paused with no scheduled work. The project-side governance
+commit is push-only pending.
+
+The resulting model switches Kid Activity Lab to chat-led execution and
+replaces the one-substantive-commit-per-day cap with risk-based sequential
+transactions. It does not weaken the one-action-per-transaction rule, exact
+scope, single-writer boundary, evidence gates, QA, independent review, or
+release verification.
 
 `KAL-OPS-002` completed its direct-manual governance implementation and
 independent review on 2026-07-28. Review cycle 1 found three P2
 consistency/reproducibility gaps and two P3 notes; cycle 2 verified every
 finding closed and returned `PASS` with no P0-P3 findings. The exact 20-path
-transaction is push-only and changes no `site/**`, generator, GSC snapshot,
-indexing, external account, parent-test claim, or deployment state.
+transaction was released push-only in `f9917a2` and changed no `site/**`,
+generator, GSC snapshot, indexing, external account, parent-test claim, or
+deployment state.
 
 `KAL-RES-001` is now the ready research-only follow-up:
 build one age-4 activity cluster decision pack and promote at most one existing
@@ -165,7 +185,8 @@ implementation.
 
 ## Next Transaction
 
-After `KAL-OPS-002` is review-clean and pushed, `KAL-RES-001` is the next
-planned substantive action. It is research-only and may use a bounded read-only
-SEO Research & Review supporting task, but the Master remains the sole
-repository writer. Parent-test intake remains a separate valid user dependency.
+After `KAL-OPS-003` is review-clean and pushed, this Master chat should run
+`KAL-RES-001` as the next substantive action. It is research-only and may use a
+bounded read-only SEO Research & Review supporting task, but the Master remains
+the sole repository writer. Parent-test intake remains a separate valid user
+dependency.

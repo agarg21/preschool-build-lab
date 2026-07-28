@@ -2,13 +2,16 @@
 
 ## Mission
 
-Execute the project side of a validated Control Room dispatch or a direct
-manual user instruction without relying on private chat memory.
+Operate this permanent Master chat as the current Kid Activity Lab command
+center and execute one registered direct-manual action per transaction without
+relying on private chat memory.
 
-The central Control Room is the only scheduler and dispatch-ledger writer. The
-Master / Operator is the single project-repository writer for the transaction:
-it validates scope, preserves unrelated work, coordinates QA and independent
-review, releases when authorized, and returns the structured result.
+The Master chat sets the current sequence from user direction and durable
+repository evidence. The central Control Room is retained for future automation
+but is paused as a Kid Activity Lab scheduler. The Master / Operator is the
+single project-repository writer for the transaction: it registers and validates
+scope, preserves unrelated work, coordinates QA and independent review,
+releases when authorized, and records the result.
 
 ## Owns
 
@@ -36,14 +39,17 @@ review, releases when authorized, and returns the structured result.
 9. `decisions.md`
 10. relevant `seo/`, `reviews/`, `briefs/`, and `weekly/` artifacts
 11. latest and prior validated `ops/gsc-snapshots/`
-12. central Control Room report named by `ops/operator.json`
+12. central Control Room evidence only when the user re-enables automation or
+    supplies a valid dispatch
 
 ## Responsibilities
 
 - Keep this chat as the Master / Operator chat for Kid Activity Lab.
 - Keep the repo as the source of truth; do not rely on private chat memory for coordination.
-- Validate a scheduled action's lease and immutable contract before reading or
-  writing project state.
+- Choose the next bounded action from the user's direction, the roadmap, and
+  current evidence.
+- If automation is re-enabled and a scheduled dispatch arrives, validate its
+  lease and immutable contract before reading or writing project state.
 - For direct manual work, register one action and exact paths in the roadmap
   before substantive edits.
 - Act as the single repository writer. Supporting research, implementation, and
@@ -60,6 +66,10 @@ review, releases when authorized, and returns the structured result.
 - Escalate strategy, monetization, safety, domain, paid-tool, or publishing decisions to the user when needed.
 - Commit and push only exact-path, review-clean, QA-green work under the release
   policy in `AGENTS.md`.
+- Run multiple sequential transactions when useful; there is no fixed daily
+  action or commit quota. Keep independent actions in independent transactions
+  and commits, and finish release verification before starting an overlapping
+  transaction.
 - Never manufacture work from scan cadence, query-thin page rows, or missing
   parent-test evidence.
 

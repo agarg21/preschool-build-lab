@@ -56,9 +56,10 @@ The current strategic direction is:
 
 ## Agent Roles
 
-- Master / Operator: uses `agents/master-operator.md`; executes one validated
-  Control Room dispatch or direct manual user instruction and is the single
-  project-repository writer for that transaction.
+- Master / Operator: uses `agents/master-operator.md`; operates this chat as
+  the current project command center, executes one registered action per
+  transaction, and is the single project-repository writer for that
+  transaction.
 - SEO Research & Review Agent: uses `agents/seo-research-review-agent.md`;
   provides bounded read-only research and persona/every-section review.
 - Implementation Agent: uses `agents/implementation-agent.md`; provides
@@ -66,7 +67,9 @@ The current strategic direction is:
 - Operator Review Agent: uses `agents/operator-review-agent.md`; independently
   reviews the frozen diff and evidence without editing.
 
-The central Control Room is the only scheduler. Supporting agents do not own
+This Master chat is the current scheduler and command center. The central
+Control Room is retained for future automation but is not scheduling Kid
+Activity Lab while manual mode is active. Supporting agents do not own
 priority, update project state, or write the shared checkout. Historical
 `agents/seo-research-agent.md`, `agents/review-agent.md`, and old role backlogs
 remain archive evidence only.
@@ -156,22 +159,39 @@ PY
 - `agy` Antigravity CLI is available locally and can be used for independent read-only content review cycles.
 - `publish-notes.md` contains historical launch notes and may reference old GitHub Pages preview URLs or earlier domain ideas. Prefer `strategy/current-strategy.md`, `progress.md`, and `decisions.md` for current direction.
 
-## Central Control Room
+## Manual Master Chat And Future Automation
 
 - This project is enrolled in the central Control Room at `/Users/apoorvagarg/Documents/SEO Agent/seo-lab/operator/`.
-- First read this repository's local `ops/operator.json`, `ops/seo-roadmap.json`, `ops/seo-roadmap.md`, and `ops/portfolio-operator.md`. Then read the central registry, site configuration, policy, and latest report under `/Users/apoorvagarg/Documents/SEO Agent/seo-lab/operator/`; central files are not under this repository's `ops/` path.
+- Control Room scheduling is paused for Kid Activity Lab while this Master chat
+  operates the project manually. Do not write the central dispatch ledger or
+  treat a central report as current authority unless the user explicitly
+  re-enables automation or supplies a valid dispatch.
+- First read this repository's local `ops/operator.json`,
+  `ops/seo-roadmap.json`, `ops/seo-roadmap.md`, and
+  `ops/portfolio-operator.md`. The local roadmap is authoritative during
+  manual mode.
 - The rolling roadmap is the durable execution queue. Historical role chats and role-specific backlogs remain supporting evidence rather than independent priority setters.
 - For a direct manual user instruction, the Master must register one action and
-  exact paths in the roadmap before substantive edits. For a Control Room
-  dispatch, validate its lease and immutable contract before reading or writing
-  project state.
+  exact paths in the roadmap before substantive edits. If automation is later
+  re-enabled and a Control Room dispatch arrives, validate its lease and
+  immutable contract before reading or writing project state.
 - Every material strategy, research, code, content, or configuration change
   requires native QA and a different independent read-only reviewer. Fix P0-P2
   findings for at most three cycles; only `PASS` or `PASS_WITH_P3` may proceed.
-- The user granted standing reviewed-release authorization on 2026-07-17. The operator may create and push at most one exact-path, independently reviewed, QA-green substantive commit per day, then verify the native Pages run and action-specific production invariants. Stop on remote divergence or a production regression whose rollback scope is ambiguous.
+- The user granted standing reviewed-release authorization on 2026-07-17 and
+  removed the fixed daily substantive-action and commit cap on 2026-07-28. The
+  Master may run multiple sequential transactions when each has one registered
+  action, exact scope that does not overlap another active transaction or
+  unrelated dirty work, green native QA, required independent review, and a
+  focused commit. Do not combine unrelated actions merely to reduce commit
+  count. After each push, verify local/origin alignment and, when site or
+  workflow paths changed, the native Pages run and action-specific production
+  invariants. Stop on remote divergence or a production regression whose
+  rollback scope is ambiguous.
 - GitHub Actions collects a normalized public-safe GSC snapshot daily. At run start, validate and compare every new snapshot with the prior snapshot and `ops/seo-roadmap.json`. The first snapshot establishes a baseline and cannot satisfy a changed-evidence gate. New data may unlock or reprioritize an item, but an unchanged healthy snapshot is housekeeping and should produce a no-op rather than manufactured work.
 - Never commit GSC credentials, complete raw query exports, country/device rows, or user data. Treat Semrush as optional enrichment; GSC API evidence is the unattended first-party measurement source.
-- A two-hour scan is a sensing cadence, not a page-production quota. Healthy unchanged runs should stop as no-ops.
+- Sensor cadence is not a page-production quota. Healthy unchanged evidence
+  should still produce a no-op rather than manufactured work.
 - Never invent parent-test observations, child quotes, photos, engagement data, or tested status to unblock an autonomous run.
 - Personas derived from queries, SERPs, or community questions are
   `RESEARCH_HYPOTHESIS` evidence. They never satisfy the parent-test or child

@@ -3,8 +3,9 @@
 This is the active combined backlog for the three-agent operating system.
 
 The roadmap is authoritative. This file is supporting evidence, not an
-independent priority queue. The Control Room is the only scheduler and the
-Master / Operator is the single repository writer for a transaction.
+independent priority queue. This Master chat is the current command center and
+the Master / Operator is the single repository writer for a transaction.
+Control Room scheduling is paused until the user re-enables automation.
 
 Historical supporting files:
 

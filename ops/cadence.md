@@ -1,38 +1,28 @@
-# Manual Agent Cadence
+# Historical Manual Agent Cadence
 
-## First Operating Mode
+Archive status: this weekly multi-agent sequence is historical. Do not use it
+to schedule work or ask supporting agents to update repository state.
 
-Run the agents manually before adding automations.
+The current model lives in `AGENTS.md`, `agents/master-operator.md`, and
+`ops/current-cycle.md`.
 
-Recommended order:
+## Current Manual Mode
 
-1. Master Operator sets the current cycle.
-2. SEO Research Agent identifies opportunities or says there is no new signal.
-3. Review Agent turns selected pages or briefs into parent-usability fixes.
-4. Implementation Agent ships the highest-confidence changes.
-5. Master Operator reviews whether the loop worked.
+This permanent Master chat is the command center. It may run multiple
+transactions sequentially without a fixed daily quota.
 
-## Weekly Rhythm
+For each transaction:
 
-Monday: SEO Research Agent
-
-Tuesday: Review Agent
-
-Wednesday or Thursday: Implementation Agent
-
-Friday: Master Operator weekly review
-
-## Daily Triage Option
-
-If running all agents in one day, keep each run short:
-
-1. SEO Research Agent: new data or no new signal?
-2. Review Agent: ready page or brief to review?
-3. Implementation Agent: one clear fix to ship?
-
-Each agent is allowed to stop when there is no meaningful new work.
+1. Register one action and exact paths in `ops/seo-roadmap.json`.
+2. Keep the Master / Operator as the only shared-checkout writer.
+3. Use supporting research, implementation, and review agents read-only.
+4. Run native QA and obtain independent review for material changes.
+5. Commit and release the focused action, then verify its invariants.
+6. Start another action only after the prior transaction no longer overlaps
+   active work or unrelated dirty paths.
 
 ## Handoff Rule
 
-Each agent reads `ops/current-cycle.md` first and updates it last.
-
+Supporting agents read the frozen task context and return structured findings.
+Only the Master updates `ops/current-cycle.md`, roadmap state, files, commits,
+releases, or external accounts.

@@ -123,9 +123,11 @@ parent/child testing, or automatic reasons to create separate pages.
 
 ## Operating Model
 
-The central Control Room is the only scheduler. The permanent Master / Operator
-executes one registered dispatch or direct manual user instruction and is the
-single repository writer for the transaction.
+This Master chat is the current scheduler and command center. The permanent
+Master / Operator executes one registered action per transaction and is the
+single repository writer for that transaction. The central Control Room remains
+configured for future automation but does not schedule Kid Activity Lab while
+manual mode is active.
 
 Bounded supporting roles are read-only:
 
@@ -138,3 +140,8 @@ Bounded supporting roles are read-only:
 Every material change requires native QA and an independent review. P0-P2
 findings must be fixed and re-reviewed for at most three cycles. Only `PASS` or
 `PASS_WITH_P3` may proceed to an exact-path commit and authorized release.
+
+There is no fixed daily substantive-action or commit limit. Multiple
+transactions may run sequentially when each has an explicit action ID, exact
+scope, evidence decision, focused commit, and release verification. Separate
+actions must not be collapsed into an omnibus change.
