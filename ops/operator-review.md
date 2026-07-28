@@ -18,6 +18,57 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-07-28 Age-4 Activity Cluster Decision Pack
+
+Action: `KAL-RES-001`
+
+State: review-clean
+
+Frozen base: `f693cb02ac623d9c97ed5a371c9b8bfd8c650749`
+
+Scope: the exact ten research, review, backlog, roadmap, cycle, and history
+paths declared for `KAL-RES-001` in `ops/seo-roadmap.json`.
+
+Boundaries:
+
+- no `site/**`, generator, GSC snapshot, indexing, external account,
+  parent/child evidence, or deployment change;
+- personas remain source-traced research hypotheses;
+- promote at most one bounded existing-page implementation.
+
+Reviewer: Halley (`019faa06-2c63-7080-a1eb-a8cc76d92d02`)
+
+Read-only status: confirmed. The reviewer changed no repository, Git, site,
+GSC, indexing, external-account, or deployment state.
+
+Cycle 1: `FAIL`
+
+- `P2`: a legacy final block in `ops/current-cycle.md` still scheduled
+  `KAL-RES-001`, risking a duplicate research transaction.
+- `P3`: `strategy/current-strategy.md` and `README.md` retain pre-decision
+  onboarding language but are outside this action's exact paths.
+
+Correction:
+
+- Replaced the stale final block with the bounded `KAL-IMP-001` handoff and its
+  evidence and human gates.
+- Preserved the out-of-scope P3 files for a separately registered cleanup.
+
+Cycle 2: `PASS_WITH_P3`
+
+- The P2 duplicate-transaction blocker is closed.
+- Exact scope reports `outside=[]` and `missing=[]`.
+- JSON, whitespace, snapshot validation, evidence classes, SERP limitations,
+  persona provenance, inventory, section audits, and human gates pass.
+- `KAL-IMP-001` is legitimately ready for source-backed structure and
+  evidence-integrity cleanup without validated parent testing.
+- The two out-of-scope onboarding references remain one non-blocking P3 and
+  require a separately registered state-sync transaction.
+
+Final findings: one deferred P3; no P0-P2.
+
+Final result: `PASS_WITH_P3`.
+
 ## 2026-07-28 Chat-Led Operating Mode
 
 Action: `KAL-OPS-003`

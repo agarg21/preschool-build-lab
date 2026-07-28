@@ -18,37 +18,23 @@ and release verification.
 
 ## Active Priority
 
-`KAL-OPS-003` completed implementation and independent review. Cycle 1 found
-one P1 operational-pause gap, one P2 stale-cadence conflict, and two P3
-historical-state notes. Cycle 2 verified every finding closed and returned
-`PASS` with no P0-P3 findings. Central commit `ad14e59` now classifies Kid
-Activity Lab as paused with no scheduled work. The project-side governance
-commit is push-only pending.
-
-The resulting model switches Kid Activity Lab to chat-led execution and
-replaces the one-substantive-commit-per-day cap with risk-based sequential
-transactions. It does not weaken the one-action-per-transaction rule, exact
-scope, single-writer boundary, evidence gates, QA, independent review, or
-release verification.
-
-`KAL-OPS-002` completed its direct-manual governance implementation and
-independent review on 2026-07-28. Review cycle 1 found three P2
-consistency/reproducibility gaps and two P3 notes; cycle 2 verified every
-finding closed and returned `PASS` with no P0-P3 findings. The exact 20-path
-transaction was released push-only in `f9917a2` and changed no `site/**`,
-generator, GSC snapshot, indexing, external account, parent-test claim, or
-deployment state.
-
-`KAL-RES-001` is now the ready research-only follow-up:
-build one age-4 activity cluster decision pack and promote at most one existing
-page implementation when the evidence supports it.
+`KAL-RES-001` completed the age-4 activity cluster research and selected one
+bounded next implementation: improve the existing cardboard ramp article.
+The transaction changed no `site/**`, generator, GSC snapshot, indexing,
+external account, parent-test claim, or deployment state.
 
 The newest durable GSC snapshot collected 2026-07-28 has data through
 2026-07-26 and shows 72 impressions, 0 clicks, 61 discovered pages, and 7 of 7
-configured priority URLs indexed. The cardboard ramp article has 24
-page-level impressions and remains the strongest visible page, but public-safe
-snapshots omit complete query rows. This changed measurement is useful research
-context; it does not select a content implementation from page rows alone.
+configured priority URLs indexed. The cardboard ramp article has 24 page-level
+impressions at average position 16.58 and remains the strongest visible page.
+Complete current query rows remain unavailable, so the decision also relies on
+historical ramp how-to query evidence, current source and SERP patterns, and a
+direct audit of the page's unsupported claims.
+
+The decision pack retains 17 exact query variants, five explicitly incomplete
+SERP samples, five source-traced parent-job hypotheses, an eight-page inventory,
+and every-section audits for the three implementation candidates. Numeric SERP
+overlap is `UNKNOWN`; persona hypotheses do not count as parent-test evidence.
 
 The authenticated Page indexing review collected 2026-07-18 found no blanket
 technical fix. One noindex is intentional, `/index.html` has the correct live
@@ -57,23 +43,21 @@ priority or content-value candidates. `KAL-IDX-001` stays planned until a fresh
 changed report supports one bounded improvement or consolidation; do not
 bulk-request indexing. See `ops/gsc-indexing-review-2026-07-18.md`.
 
-## Next Bounded Research
+## Next Bounded Implementation
 
-Run `KAL-RES-001` as a separate
-research-only transaction:
+Run `KAL-IMP-001` as a separate transaction:
 
-- apply `seo/activity-cluster-research-protocol.md`;
-- refresh exact age-4, STEM, ramp, no-prep/no-cut, low-mess, indoor, material,
-  execution, rescue, and extension query families;
-- retain reproducible SERP samples and source/date limitations;
-- derive four to six source-traced parent-job persona hypotheses;
-- audit every relevant current page and every visible section considered for
-  implementation;
-- promote at most one bounded existing-page action or record a no-op.
+- target only `site/articles/cardboard-box-car-ramp-preschoolers.html` plus
+  the exact review and roadmap paths frozen before edits;
+- preserve the immediate cardboard/books/cars answer and troubleshooting;
+- add one optional source-backed test that changes height, car, or surface;
+- remove or relabel unsupported parent-tested, duration, child-capability,
+  engagement, cleanup, developmental, and safety-outcome language;
+- keep the support card and Ramp Detective roles distinct;
+- run focused page/link/visual QA and a different independent read-only
+  persona/every-section review before release.
 
-Do not edit `site/**` or generators during that research transaction. The
-cardboard-ramp article is a provisional research candidate, not a preselected
-implementation.
+Do not create a new page or claim parent/child evidence.
 
 ## Waiting On User
 
@@ -185,8 +169,11 @@ implementation.
 
 ## Next Transaction
 
-After `KAL-OPS-003` is review-clean and pushed, this Master chat should run
-`KAL-RES-001` as the next substantive action. It is research-only and may use a
-bounded read-only SEO Research & Review supporting task, but the Master remains
-the sole repository writer. Parent-test intake remains a separate valid user
-dependency.
+After `KAL-RES-001` is review-clean and pushed, this Master chat should run
+`KAL-IMP-001` as the next substantive action. It is limited to the existing
+cardboard ramp article and exact review/roadmap paths frozen before edits. The
+Master remains the sole repository writer, and a different read-only reviewer
+must audit every section against the five source-traced persona hypotheses.
+Parent-tested status, child outcomes or quotes, measured timing, safety
+outcomes, and original-session visuals remain prohibited until separately
+supplied and validated.

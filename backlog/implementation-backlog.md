@@ -6,9 +6,16 @@ repository writer for a validated transaction.
 
 ## Ready
 
-- No content implementation is ready from `KAL-OPS-002`.
-- Wait for the separate `KAL-RES-001` age-4 activity cluster decision pack to
-  promote at most one bounded existing-page action.
+- `KAL-IMP-001`: improve only
+  `site/articles/cardboard-box-car-ramp-preschoolers.html`.
+- Keep the immediate cardboard/books/cars answer and troubleshooting, add one
+  optional one-variable test, and remove or relabel unsupported tested,
+  duration, child-capability, engagement, cleanup, developmental, and
+  safety-outcome language.
+- Preserve the article as the ramp build/troubleshooting owner, the card as
+  one-screen utility, and Ramp Detective as the deeper test-pack route.
+- Do not create a new page, add invented evidence, or broaden other hubs in
+  this transaction.
 - Generator QA and manual-hub migration remain possible future technical work,
   but must be selected separately rather than bundled into research or content.
 

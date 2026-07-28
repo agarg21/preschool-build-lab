@@ -14,25 +14,20 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
-## No Ready Implementation
+## Ready Implementation
 
-- No implementation fixes from the 2026-07-09 GSC-visible implementation rereview.
+`KAL-RES-001` promotes one bounded existing-page action:
 
-## Next Research Transaction
+- improve `site/articles/cardboard-box-car-ramp-preschoolers.html`;
+- preserve its immediate build answer, troubleshooting, and primary ramp
+  how-to ownership;
+- add one optional source-backed test that changes only height, car, or surface;
+- remove or relabel unsupported parent-tested, duration, child-capability,
+  engagement, cleanup, developmental, and safety-outcome language;
+- do not create another ramp URL or claim new parent/child evidence.
 
-`KAL-RES-001` is planned after `KAL-OPS-002`:
-
-- use `seo/activity-cluster-research-protocol.md`;
-- refresh named keyword and representative SERP evidence for the age-4,
-  STEM/ramp, and parent-constraint query families;
-- derive four to six source-traced job-based persona hypotheses;
-- audit the ramp guide, age-4 at-home page, age-4 STEM hub, preschool STEM hub,
-  no-cut collection, original test pack, and related cards;
-- audit every visible section for any page considered for implementation;
-- promote at most one bounded existing-page action or record a no-op.
-
-The SEO Research & Review Agent may support this work read-only. It does not
-write the shared checkout or update roadmap/current-cycle state.
+The decision pack is
+`seo/age-4-activity-cluster-decision-pack-2026-07-28.md`.
 
 ## Waiting On User / Real-World Evidence
 
@@ -67,6 +62,14 @@ write the shared checkout or update roadmap/current-cycle state.
 
 ## Done
 
+- 2026-07-28: `KAL-RES-001` compared the latest two validated public-safe GSC
+  snapshots, retained 17 query variants and five explicitly incomplete SERP
+  samples, derived five source-traced parent-job hypotheses, inventoried eight
+  KAL pages, and audited every visible section of the three implementation
+  candidates. A different read-only research agent independently selected the
+  existing cardboard ramp article. Complete current query rows, clicks,
+  validated parent tests, measured timing, and original visuals remain
+  unavailable.
 - 2026-07-09: Master requested indexing in Search Console for the original age-4 STEM pack, age-4 STEM hub, and preschool STEM collection; Search Console showed `Indexing requested` confirmations for all three.
 - 2026-07-09: User reported testing two original age-4 STEM activities and said they looked good; structured notes are still needed before content upgrades.
 - 2026-07-09: SEO Research & Review Agent rereviewed the completed GSC-visible implementation pass in `reviews/gsc-visible-implementation-rereview-2026-07-09.md`; verdict: pass, no publish-blocking issues, no-cut page is now strong enough to keep indexable, and the pass is ready for Master commit/publish review.

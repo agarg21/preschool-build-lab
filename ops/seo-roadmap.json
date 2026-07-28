@@ -189,7 +189,10 @@
       "learning_value": 5,
       "effort": 4,
       "risk": 1,
-      "status": "ready",
+      "status": "completed",
+      "selected_on": "2026-07-28",
+      "completed_on": "2026-07-28",
+      "frozen_base": "f693cb02ac623d9c97ed5a371c9b8bfd8c650749",
       "allowed_during_observation": true,
       "requires_fresh_gsc": false,
       "required_evidence": [
@@ -201,18 +204,26 @@
       ],
       "target_urls": [],
       "target_paths": [
-        "seo/",
-        "reviews/",
-        "status/",
+        "seo/age-4-activity-cluster-decision-pack-2026-07-28.md",
+        "reviews/age-4-activity-cluster-decision-pack-review-2026-07-28.md",
         "backlog/seo-research-review-backlog.md",
         "backlog/implementation-backlog.md",
         "ops/seo-roadmap.json",
         "ops/seo-roadmap.md",
         "ops/current-cycle.md",
-        "ops/operator-review.md"
+        "ops/operator-review.md",
+        "decisions.md",
+        "progress.md"
       ],
       "success_signal": "One research-only decision pack classifies the age-4 and constraint-led query families by observed SERP overlap, derives four to six traceable persona hypotheses, audits every relevant page and visible section, and promotes at most one bounded existing-page implementation.",
-      "notes": "Ready after KAL-OPS-002 review-clean completion. Run as a separate future transaction. Do not edit site or generator paths, create pages, infer query intent from public-safe page rows, or treat persona hypotheses as parent-test evidence."
+      "implementation_state": "review-clean",
+      "evidence_classification": "Latest GSC aggregate, page, and priority-inspection rows are MEASURED. Public-safe query rows are UNKNOWN. Current public SERPs and ranking pages are SOURCE_BACKED research inputs; any personas or page-intent inferences are RESEARCH_HYPOTHESIS. Keyword volume, KD, and CPC remain UNKNOWN unless a current named tool source is available without unapproved spend.",
+      "human_gate": "No validated parent-test intake or original visual is in scope. The research may identify those as blockers but may not create or imply parent/child observations, quotes, safety outcomes, tested status, or original photography.",
+      "decision": "Promote one existing-page improvement for the cardboard ramp article. Preserve its build-and-troubleshoot ownership, add a compact source-backed one-variable test route, and remove or relabel unsupported tested, duration, child-capability, cleanup, and safety-outcome language. Do not create a new page.",
+      "result": "Built a source-dated decision pack covering 17 query variants, five incomplete but reproducibly limited SERP samples, representative ranking pages, five source-traced parent-job hypotheses, eight current KAL pages, and every visible section of the three implementation candidates. The strongest measured foothold is the existing cardboard ramp article at 24 impressions and average position 16.58; current complete query rows, clicks, validated parent tests, and original visuals remain unavailable. A different read-only research agent independently recommended the same existing-page evidence-integrity improvement.",
+      "review_cycles": 2,
+      "review_outcome": "PASS_WITH_P3",
+      "notes": "Selected by direct manual user instruction after KAL-OPS-003. Research-only transaction. Do not edit site or generator paths, create pages, infer query intent from public-safe page rows, use paid tools without explicit budget authorization, or treat persona hypotheses as parent-test evidence."
     },
     {
       "id": "KAL-MON-001",
@@ -267,14 +278,33 @@
       "learning_value": 4,
       "effort": 3,
       "risk": 2,
-      "status": "planned",
+      "status": "ready",
       "allowed_during_observation": false,
       "requires_fresh_gsc": true,
-      "required_evidence": ["fresh_gsc_snapshot", "gsc_page_rows"],
-      "target_urls": [],
-      "target_paths": ["scripts/", "site/", "reviews/", "ops/current-cycle.md"],
-      "success_signal": "One existing page becomes more useful and differentiated using real search or parent-test evidence, with generation and link validation green.",
-      "notes": "Rescored 2026-07-27: still blocked from substantive content improvement by missing real parent-test intake and missing query-level evidence. Never manufacture parent observations, child quotes, photos, or tested status."
+      "required_evidence": [
+        "fresh_gsc_snapshot",
+        "gsc_page_rows",
+        "KAL-RES-001_decision_pack",
+        "current_repository_page"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html"
+      ],
+      "target_paths": [
+        "site/articles/cardboard-box-car-ramp-preschoolers.html",
+        "reviews/",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "decisions.md",
+        "progress.md"
+      ],
+      "success_signal": "The existing cardboard ramp article gives an immediate build answer and one optional one-variable test, preserves troubleshooting and page ownership, and contains no unsupported parent-tested, duration, child-capability, engagement, cleanup, original-photo, developmental, or universal safety claim.",
+      "decision_pack": "seo/age-4-activity-cluster-decision-pack-2026-07-28.md",
+      "evidence_classification": "The latest page and indexing rows are MEASURED, current inspected sources are SOURCE_BACKED, and the five parent-job personas are RESEARCH_HYPOTHESIS. Current complete queries, clicks, parent-test observations, engagement, setup/play/cleanup duration, and original visuals are UNKNOWN.",
+      "human_gate": "No human gate is required for evidence-integrity cleanup and source-backed instruction structure. Any parent-tested status, child outcome or quote, measured timing, safety outcome, or original-session visual remains prohibited until separately supplied and validated.",
+      "notes": "Promoted by KAL-RES-001 on 2026-07-28. Target the existing ramp article only; do not create another ramp page or expand broad hubs. Freeze exact implementation paths at transaction start, refresh GSC if a newer snapshot exists, run page/link/visual QA, obtain a different independent persona/every-section review, and release only PASS or PASS_WITH_P3."
     }
   ]
 }

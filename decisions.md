@@ -2,6 +2,18 @@
 
 ## Decisions Made
 
+### 2026-07-28: Improve The Existing Cardboard Ramp Guide
+
+Decision: Promote `KAL-IMP-001` for the existing cardboard ramp article. Keep
+its build-and-troubleshoot ownership, add one optional one-variable test path,
+and remove or relabel unsupported tested, duration, child-capability,
+engagement, cleanup, developmental, and safety-outcome language.
+
+Do not create another ramp page. The current evidence supports a clearer,
+more honest existing guide, not query expansion or a CTR rewrite. Current
+complete query rows, clicks, validated parent tests, measured timing, and
+original visuals remain unavailable.
+
 ### 2026-07-28: Use The Master Chat And Remove The Daily Commit Cap
 
 Decision: Operate Kid Activity Lab from this permanent Master chat during the

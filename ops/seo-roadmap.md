@@ -7,14 +7,13 @@ automation.
 
 ## Current sequence
 
-1. Complete `KAL-OPS-003`, the governance-only switch to chat-led execution and
-   risk-based sequential transactions.
-2. Run `KAL-RES-001` separately to produce one source-dated age-4 activity
-   cluster decision pack with at most one promoted existing-page action.
+1. Complete and release `KAL-RES-001`, the source-dated age-4 activity cluster
+   decision pack.
+2. Run `KAL-IMP-001` as a separate exact-path transaction on the existing
+   cardboard ramp article.
 3. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
-4. Improve one evidence-bearing existing page only after the research pack,
-   evidence gates, native QA, and independent review support it.
+4. Keep original/tested claims human-gated and broad hubs in observation.
 
 The authenticated Page indexing review collected 2026-07-18 is normalized in
 `ops/gsc-indexing-review-2026-07-18.md`. Google's report was last updated
@@ -73,12 +72,36 @@ indexed.
 - Independent review cycle 1 found three P2 consistency/reproducibility gaps
   and two P3 notes. Cycle 2 verified every finding closed and returned `PASS`
   with no P0-P3 findings. `KAL-OPS-002` was released push-only in `f9917a2`.
-- `KAL-RES-001` is now ready for a separate future transaction.
+- `KAL-RES-001` was made ready as a separate transaction and completed later
+  on 2026-07-28; its decision is recorded below.
+
+## KAL-RES-001 Decision On 2026-07-28
+
+- The latest validated snapshot shows 72 impressions, 0 clicks, and 7 of 7
+  priority URLs indexed. The ramp article moved from 17 impressions at
+  position 19.76 to 24 impressions at position 16.58.
+- Current complete query rows, clicks, paid metrics, validated parent tests,
+  measured duration, engagement outcomes, and original visuals are
+  unavailable.
+- Five reproducibly limited SERP samples and inspected sources support a
+  direct build answer plus one simple compare-and-retest path. Numeric SERP
+  overlap remains `UNKNOWN` because complete comparable result sets were not
+  available.
+- Five source-traced parent-job personas are research hypotheses only.
+- Decision: improve the existing cardboard ramp article. Do not create a new
+  URL or expand the broad age/STEM/no-cut hubs.
+- Independent review cycle 1 found one P2 duplicate-transaction baton and one
+  out-of-scope P3 onboarding note. Cycle 2 confirmed the P2 closed and returned
+  `PASS_WITH_P3`; the onboarding sync is deferred to a separate exact-path
+  action.
 
 ## Next eligible action
 
-After `KAL-OPS-003`, the next eligible substantive action is `KAL-RES-001`. It
-is research-only and may not edit site or generator paths.
+`KAL-IMP-001` is ready as a separate exact-path implementation transaction.
+It must preserve the article's build/troubleshooting ownership, add at most one
+source-backed one-variable test route, and remove or relabel unsupported
+tested, timing, child-capability, engagement, cleanup, developmental, and
+safety-outcome language.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 
@@ -105,8 +128,9 @@ baseline is not fresh.
 the intentional/stale exclusions and improve, consolidate, or intentionally
 exclude at most one strategically important page. Do not bulk-request indexing
 for the 23 reported URLs.
-`KAL-IMP-001` stays planned until real parent-test or fresh search evidence
-identifies one bounded existing-page improvement.
+`KAL-IMP-001` is ready from `KAL-RES-001`. It does not authorize tested-status,
+measured-duration, engagement, child-outcome, original-photo, developmental,
+or universal-safety claims; those remain human-gated.
 
 There is no fixed daily substantive-action or commit limit. The Master chat may
 run multiple sequential transactions when each is independently registered,

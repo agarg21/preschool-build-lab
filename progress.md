@@ -2,6 +2,31 @@
 
 ## 2026-07-28
 
+### Age-4 Activity Cluster Decision Pack
+
+- Registered and completed research-only action `KAL-RES-001` from frozen base
+  `f693cb02ac623d9c97ed5a371c9b8bfd8c650749`.
+- Validated all 11 public-safe GSC snapshots and compared the latest two:
+  61 to 72 impressions, 0 clicks in both, and 7 of 7 priority URLs indexed.
+- The cardboard ramp article moved from 17 impressions at position 19.76 to 24
+  impressions at position 16.58. Current complete query rows remain
+  unavailable.
+- Retained 17 exact query variants, five explicitly incomplete SERP samples,
+  representative ranking-page evidence, five source-traced parent-job
+  hypotheses, an eight-page inventory, and every-section audits for the three
+  implementation candidates.
+- A separate read-only SEO Research & Review Agent independently selected the
+  existing cardboard ramp article as the one improvement candidate.
+- Independent Operator Review cycle 1 found one P2 stale final baton. After
+  correction, cycle 2 returned `PASS_WITH_P3`; the only P3 is an out-of-scope
+  onboarding sync for `README.md` and `strategy/current-strategy.md`.
+- Promoted `KAL-IMP-001`: preserve the immediate build answer and
+  troubleshooting, add one optional one-variable test, and remove or relabel
+  unsupported tested, timing, child-capability, engagement, cleanup,
+  developmental, and safety-outcome language.
+- No site, generator, GSC snapshot, indexing, external-account, parent/child
+  evidence, or deployment path changed.
+
 ### Chat-Led Manual Operating Mode
 
 - Registered `KAL-OPS-003` as a governance-only direct-manual transaction.
@@ -55,7 +80,8 @@
   reframed the three current pages as candidates, and removed template
   whitespace.
 - Cycle 2 returned `PASS` with no P0-P3 findings. `KAL-OPS-002` was released
-  push-only in `f9917a2`; `KAL-RES-001` is ready as a separate transaction.
+  push-only in `f9917a2`; `KAL-RES-001` was ready at that point and completed
+  later on 2026-07-28.
 
 ## 2026-07-10
 
