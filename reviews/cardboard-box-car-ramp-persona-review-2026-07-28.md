@@ -113,7 +113,23 @@ The independent reviewer must inspect:
   current sitemap generator would rewrite every unrelated `lastmod`. The
   existing article entry was updated exactly and XML-validated.
 
-Production QA is pending review-clean commit and push.
+## Production Verification
+
+- Reviewed content commit:
+  `a15dca7ceb4f3ead1b518fd0d8e4288a4e051e16`
+- GitHub Pages run:
+  `30394783721`
+- Pages result: success for the exact reviewed SHA.
+- Live article: HTTP 200 and byte-identical to the committed HTML.
+- Live title, canonical, Article JSON-LD date, direct answer,
+  `#one-change-test`, troubleshooting, footer, and removed-claim invariants:
+  pass.
+- Live desktop and mobile checks: no page-level overflow or text overflow;
+  comparison blocks stack correctly; the full-resolution hero image loads.
+- Local `main` and `origin/main` aligned at the reviewed content commit after
+  push.
+
+Release result: deployed and verified.
 
 ## Independent Review
 

@@ -4,17 +4,10 @@ The roadmap is authoritative. This backlog supplies implementation context; it
 does not independently schedule work. The Master / Operator is the single
 repository writer for a validated transaction.
 
-## Ready To Release
+## Ready
 
-- `KAL-IMP-001` is implemented and QA-green on the exact nine frozen paths.
-- The existing ramp article now preserves the immediate build answer and
-  troubleshooting, adds one optional source-backed one-variable comparison,
-  and removes unsupported tested, timing, child-capability, engagement,
-  cleanup, developmental, and safety-outcome language.
-- The article remains the ramp build/troubleshooting owner, the card remains
-  one-screen utility, and Ramp Detective remains the deeper test-pack route.
-- Independent persona/every-section review returned `PASS` with no P0-P3
-  findings. Focused commit, Pages, and production verification remain.
+- No content implementation is currently registered as ready. The next action
+  must be separately registered from the roadmap and fresh evidence.
 - Generator QA and manual-hub migration remain possible future technical work,
   but must be selected separately rather than bundled into research or content.
 
@@ -39,6 +32,11 @@ unresolved P0-P2 findings.
 
 ## Done
 
+- Released `KAL-IMP-001` in `a15dca7` with successful exact-SHA Pages run
+  `30394783721`. The live cardboard ramp article byte-matches the reviewed
+  source, preserves the build/troubleshooting role, adds one source-backed
+  comparison, and removes unsupported tested, timing, capability, cleanup, and
+  safety-outcome language.
 - SEO Research & Review Agent rereviewed the three GSC-visible pages after the 2026-07-09 Implementation Agent pass; verdict: pass, no publish-blocking fixes.
 - Applied the 2026-07-09 GSC-visible improvement pass:
   - strengthened the cardboard ramp article for `how to make a ramp with cardboard`

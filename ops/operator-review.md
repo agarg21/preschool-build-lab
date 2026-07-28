@@ -67,6 +67,17 @@ Final findings: none (`P0`-`P3`).
 
 Final result: `PASS`.
 
+Release:
+
+- Reviewed content commit:
+  `a15dca7ceb4f3ead1b518fd0d8e4288a4e051e16`
+- Exact-SHA GitHub Pages run `30394783721`: success.
+- Live article: HTTP 200 and byte-identical to the reviewed source.
+- Live metadata, direct answer, one-change module, troubleshooting, footer,
+  removed-claim, full-resolution hero image, and desktop/mobile layout
+  invariants: pass.
+- Release state: deployed and verified.
+
 ## 2026-07-28 Age-4 Activity Cluster Decision Pack
 
 Action: `KAL-RES-001`

@@ -7,9 +7,9 @@ automation.
 
 ## Current sequence
 
-1. Release the review-clean `KAL-IMP-001` exact-path commit and verify Pages
-   and live invariants.
-2. Run the deferred onboarding-state sync as a separate exact-path action.
+1. Register the deferred onboarding-state sync as a separate exact-path action.
+2. Observe `KAL-IMP-001` until a post-release recrawl and two finalized
+   comparison points exist.
 3. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
 4. Keep original/tested claims human-gated and broad hubs in observation.
@@ -94,7 +94,7 @@ indexed.
   `PASS_WITH_P3`; the onboarding sync is deferred to a separate exact-path
   action.
 
-## KAL-IMP-001 Review-Clean On 2026-07-28
+## KAL-IMP-001 Released On 2026-07-28
 
 - The exact nine-path transaction starts from `3e0169e`.
 - The existing article preserves its title, H1, canonical, immediate no-cut
@@ -106,7 +106,12 @@ indexed.
 - Desktop/mobile browser checks, metadata/JSON-LD parsing, XML, links,
   fragments, source status, claim scans, and `git diff --check` pass.
 - Independent persona/every-section review returned `PASS` with no P0-P3
-  findings. Focused commit, Pages, and production verification remain.
+  findings.
+- Content commit `a15dca7` was pushed to `main`; exact-SHA Pages run
+  `30394783721` succeeded.
+- The live article returns 200 and byte-matches the reviewed source. Live
+  metadata, direct answer, one-change module, troubleshooting, footer,
+  removed-claim, hero-image, and desktop/mobile layout checks pass.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 
@@ -133,7 +138,7 @@ baseline is not fresh.
 the intentional/stale exclusions and improve, consolidate, or intentionally
 exclude at most one strategically important page. Do not bulk-request indexing
 for the 23 reported URLs.
-`KAL-IMP-001` is review-clean and push-pending. It does not authorize tested-status,
+`KAL-IMP-001` is released and verified. It does not authorize tested-status,
 measured-duration, engagement, child-outcome, original-photo, developmental,
 or universal-safety claims; those remain human-gated.
 

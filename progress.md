@@ -21,7 +21,11 @@
 - Independent reviewer Rawls
   (`019faa4c-79a3-71f0-a655-4a9949e498de`) returned `PASS` in cycle 1 with no
   P0-P3 findings after auditing all five personas and every visible section.
-- Focused commit, Pages, and production release verification remain.
+- Released the exact reviewed content commit `a15dca7`; GitHub Pages run
+  `30394783721` succeeded for that SHA.
+- The live article returns 200 and byte-matches the committed HTML. Title,
+  canonical, JSON-LD date, direct answer, one-change module, troubleshooting,
+  footer, removed-claim, hero-image, and desktop/mobile checks pass.
 
 ### Age-4 Activity Cluster Decision Pack
 

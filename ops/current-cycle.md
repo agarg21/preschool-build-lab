@@ -18,7 +18,7 @@ and release verification.
 
 ## Active Priority
 
-`KAL-IMP-001` is review-clean on its exact nine frozen paths. The
+`KAL-IMP-001` is released and production-verified. The
 existing cardboard ramp article now keeps the immediate no-cut build answer,
 adds one optional source-backed height/car/surface comparison, preserves
 troubleshooting and page ownership, and removes unsupported tested, timing,
@@ -48,16 +48,18 @@ Independent reviewer Rawls (`019faa4c-79a3-71f0-a655-4a9949e498de`) audited
 all five personas and every visible section. Cycle 1 returned `PASS` with no
 P0-P3 findings.
 
-## Current Release Gate
+Content commit `a15dca7` is on `main`. GitHub Pages run `30394783721` succeeded
+for that exact SHA. The live article returns 200, byte-matches the reviewed
+HTML, and passes title, canonical, JSON-LD date, direct-answer,
+one-change-module, troubleshooting, footer, removed-claim, hero-image, and
+desktop/mobile overflow checks.
 
-Commit and push only the exact reviewed nine paths. Verify local/origin
-alignment, the exact-SHA GitHub Pages run, and the live article's
-title/canonical/direct answer/one-change module/troubleshooting/footer. Confirm
-the old unsupported phrases remain absent.
+## Current Observation Gate
 
-Do not create a new page or claim parent/child evidence. Parent-tested status,
-child outcomes or quotes, measured timing, safety outcomes, and original-session
-visuals remain prohibited.
+Wait for a post-release recrawl and at least two finalized public-safe
+comparison points before attributing page-level movement. A first click or
+complete query evidence is a new decision gate, not proof of parent usefulness.
+Do not create a new page or claim parent/child evidence.
 
 ## Waiting On User
 
@@ -169,8 +171,7 @@ visuals remain prohibited.
 
 ## Next Transaction
 
-After `KAL-IMP-001` is review-clean, commit and push only the exact reviewed
-nine paths. Verify local/origin alignment, the GitHub Pages run for the exact
-SHA, the live article's title/canonical/direct answer/one-change
-module/troubleshooting/footer, and the absence of the old unsupported claims.
-Then begin the next registered action rather than adding scope here.
+Register the deferred onboarding-state sync as a separate exact-path action for
+`README.md` and `strategy/current-strategy.md`; do not fold it into the released
+content transaction. After that state sync, rescore the roadmap against the
+next finalized GSC snapshot rather than manufacturing another page.
