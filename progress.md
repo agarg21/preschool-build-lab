@@ -2,6 +2,20 @@
 
 ## 2026-07-28
 
+### Onboarding State Sync
+
+- Registered `KAL-OPS-004` from clean, aligned frozen base `78ef884e`.
+- Limited the transaction to eight active onboarding and durable operator-state
+  paths; no site, generator, GSC snapshot, workflow, external account,
+  parent/child evidence, paid keyword pull, or deployment path is included.
+- Updated active guidance to record `KAL-RES-001` as completed,
+  `KAL-IMP-001` as released and under observation, and a current paid
+  volume/KD refresh as a separate budget-authorized research action.
+- Independent reviewer Aristotle
+  (`019faa6b-e13a-7210-b7ee-a5cefc6878cf`) returned `PASS` with no P0-P3
+  findings after exact-scope, state-consistency, evidence-label, JSON, and
+  whitespace checks.
+
 ### Cardboard Ramp Article Improvement
 
 - Started `KAL-IMP-001` from clean, aligned frozen base `3e0169e`.

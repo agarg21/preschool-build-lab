@@ -18,6 +18,47 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-07-28 Onboarding State Sync
+
+Action: `KAL-OPS-004`
+
+State: review-clean
+
+Frozen base: `78ef884e4240dbaa91b0b919b86fc18213baadf0`
+
+Scope: the exact eight onboarding, roadmap, cycle, review, and progress paths
+declared for `KAL-OPS-004` in `ops/seo-roadmap.json`.
+
+Boundaries:
+
+- synchronize active guidance with completed `KAL-RES-001` and released
+  `KAL-IMP-001`;
+- distinguish fresh cluster/SERP/page research from stale paid keyword
+  metrics;
+- preserve the post-release observation gate and paid-tool budget gate;
+- change no site, generator, GSC snapshot, workflow, external account,
+  parent/child evidence, keyword metrics, or deployment state.
+
+Reviewer: Aristotle (`019faa6b-e13a-7210-b7ee-a5cefc6878cf`)
+
+Read-only status: confirmed. The reviewer changed no file, Git state, site,
+search evidence, external account, keyword data, or deployment.
+
+Cycle 1: `PASS`
+
+- Exact scope is seven tracked files plus the declared review artifact, with no
+  out-of-scope path and no staged change.
+- Completed/released states, observation gate, unavailable query data, stale
+  `TOOL_ESTIMATE` labeling, and separate budget authorization are consistent.
+- No stale active scheduling language remains; historical planned-state
+  references are followed by explicit completion records.
+- `git diff --check`, JSON parsing, semantic roadmap assertions, scope checks,
+  and review-artifact whitespace checks pass.
+
+Final findings: none (`P0`-`P3`).
+
+Final result: `PASS`.
+
 ## 2026-07-28 Cardboard Ramp Article Improvement
 
 Action: `KAL-IMP-001`

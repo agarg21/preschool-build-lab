@@ -74,6 +74,14 @@ Before adding or materially changing an indexable page, use
 
 ## Current Priority
 
-Install the activity-cluster research and persona-review operating model, then
-produce a research-only age-4 activity cluster decision pack. Do not select a
-content implementation from public-safe page rows alone.
+The age-4 activity cluster decision pack is complete. It selected one bounded
+improvement to the existing cardboard ramp article, and that reviewed change is
+now released.
+
+Observe the article until Google recrawls the release and at least two
+finalized public-safe comparison points exist. Complete current GSC query rows
+remain unavailable. The July 28 decision pack used current query variants,
+SERP samples, ranking-page inspection, source-traced persona hypotheses, and
+page audits; its paid keyword volume and difficulty inputs remain stale July 9
+tool estimates. Refreshing paid keyword metrics requires a separate,
+budget-authorized research action.

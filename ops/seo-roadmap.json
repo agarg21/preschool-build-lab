@@ -323,6 +323,46 @@
       "released_on": "2026-07-28",
       "production_verification": "GitHub Pages run 30394783721 succeeded for the exact reviewed content commit a15dca7ceb4f3ead1b518fd0d8e4288a4e051e16. The live article returned HTTP 200 and byte-matched the committed HTML. Live title, canonical, Article JSON-LD date, direct answer, one-change module, troubleshooting, footer, removed-claim invariants, full-resolution hero image, and desktop/mobile overflow checks passed.",
       "notes": "Promoted by KAL-RES-001 on 2026-07-28. Target the existing ramp article only; do not create another ramp page or expand broad hubs. Freeze exact implementation paths at transaction start, refresh GSC if a newer snapshot exists, run page/link/visual QA, obtain a different independent persona/every-section review, and release only PASS or PASS_WITH_P3."
+    },
+    {
+      "id": "KAL-OPS-004",
+      "title": "Synchronize active onboarding after the age-4 decision and ramp release",
+      "kind": "operator-infrastructure",
+      "lane": "governance",
+      "impact": 3,
+      "confidence": 5,
+      "learning_value": 2,
+      "effort": 1,
+      "risk": 1,
+      "status": "completed",
+      "selected_on": "2026-07-28",
+      "completed_on": "2026-07-28",
+      "frozen_base": "78ef884e4240dbaa91b0b919b86fc18213baadf0",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": false,
+      "target_urls": [],
+      "target_paths": [
+        "README.md",
+        "strategy/current-strategy.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "progress.md",
+        "reviews/onboarding-state-sync-review-2026-07-28.md"
+      ],
+      "success_signal": "Active onboarding consistently records KAL-RES-001 as completed, KAL-IMP-001 as released and under observation, and current paid keyword metrics as unavailable unless a separate budget-authorized research action refreshes them.",
+      "implementation_state": "review-clean",
+      "baseline": "README.md still schedules the completed decision pack, and strategy/current-strategy.md still presents three pre-decision candidates and says a decision pack is required before the already released article edit.",
+      "hypothesis": "Synchronizing the active onboarding layer will prevent duplicate research or implementation while preserving the observation gate and the distinction between fresh cluster research and stale paid keyword metrics.",
+      "expected_effect": "A new operator can identify the released ramp experiment, its observation window, the next evidence gate, and the separate authorization needed for a paid volume/KD refresh without changing any public page or search evidence.",
+      "observation_window": "Not applicable to documentation state. Verify cross-file consistency immediately after the edit.",
+      "decision": "Update only active onboarding and durable operator state. Do not change site content, generators, GSC snapshots, workflows, external accounts, parent/child evidence, or keyword metrics.",
+      "result": "Synchronized README.md and strategy/current-strategy.md with the completed decision pack and released ramp improvement. Active guidance now preserves the post-release observation gate and distinguishes fresh July 28 cluster, SERP, source, persona, and page research from stale July 9 paid keyword estimates. Independent read-only review returned PASS with no P0-P3 findings.",
+      "review_cycles": 1,
+      "review_outcome": "PASS",
+      "release_state": "push-only",
+      "notes": "Selected by direct manual user instruction after KAL-IMP-001. Documentation-only transaction; no deployment is applicable."
     }
   ]
 }

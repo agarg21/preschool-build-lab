@@ -7,12 +7,14 @@ automation.
 
 ## Current sequence
 
-1. Register the deferred onboarding-state sync as a separate exact-path action.
-2. Observe `KAL-IMP-001` until a post-release recrawl and two finalized
+1. Observe `KAL-IMP-001` until a post-release recrawl and two finalized
    comparison points exist.
-3. Keep comparing validated GSC snapshots, but do not infer complete query
+2. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
-4. Keep original/tested claims human-gated and broad hubs in observation.
+3. Keep original/tested claims human-gated and broad hubs in observation.
+4. Treat a current paid volume/KD refresh as a separate budget-authorized
+   research action; the cluster/SERP/page research is current, but the retained
+   July 9 Semrush metrics are stale.
 
 The authenticated Page indexing review collected 2026-07-18 is normalized in
 `ops/gsc-indexing-review-2026-07-18.md`. Google's report was last updated
@@ -112,6 +114,18 @@ indexed.
 - The live article returns 200 and byte-matches the reviewed source. Live
   metadata, direct answer, one-change module, troubleshooting, footer,
   removed-claim, hero-image, and desktop/mobile layout checks pass.
+
+## KAL-OPS-004 Completed On 2026-07-28
+
+- The exact eight-path documentation transaction starts from `78ef884e`.
+- It closes the deferred P3 by synchronizing `README.md` and
+  `strategy/current-strategy.md` with the completed decision pack and released
+  ramp improvement.
+- It preserves the post-release observation gate and explicitly separates the
+  fresh cluster/SERP/page research from stale July 9 paid keyword metrics.
+- No site, generator, GSC snapshot, workflow, external account, parent/child
+  evidence, keyword-tool pull, or deployment path is authorized.
+- Independent read-only review returned `PASS` with no P0-P3 findings.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 

@@ -8,13 +8,10 @@ Build Kid Activity Lab into a practical kids activity site that can eventually e
 
 Focus first on activities for 3-6 year old kids.
 
-The strategic content bet remains original age-4 STEM. The following pages are
-the leading evidence-bearing candidates for the next decision pack, not
-preselected implementation targets:
-
-- `site/articles/cardboard-box-car-ramp-preschoolers.html`
-- `site/collections/no-cut-preschool-activities.html`
-- `site/ages/activities-for-4-year-olds-at-home.html`
+The strategic content bet remains original age-4 STEM. The completed
+2026-07-28 decision pack selected the existing cardboard ramp article for one
+bounded improvement. The no-cut preschool and age-4 at-home pages remain
+observation context, not queued implementation targets.
 
 This is not a pivot away from age-4 STEM. It is a near-term response to early Search Console signal.
 
@@ -44,20 +41,27 @@ The highest-value input is real testing:
 The validated 2026-07-28 public-safe GSC snapshot shows 72 impressions, no
 clicks, 61 discovered pages, and 7 of 7 priority URLs indexed. The cardboard
 ramp article has 24 page-level impressions, but complete query rows remain
-unavailable. The site therefore needs a current activity-cluster decision pack
-before selecting another content edit.
+unavailable. The completed cluster decision pack used current query variants,
+SERP samples, ranking-page inspection, five source-traced persona hypotheses,
+and direct page audits. Paid volume and difficulty metrics were not refreshed;
+the retained July 9 Semrush rows are stale `TOOL_ESTIMATE` evidence.
+
+The selected ramp improvement is released. Wait for a post-release recrawl and
+at least two finalized public-safe comparison points before attributing
+movement or selecting another content edit.
 
 ## Do Now
 
-1. Complete the `KAL-OPS-002` research/review operating-model transaction.
-2. Run `KAL-RES-001` as a separate research-only age-4 activity cluster
-   decision pack.
-3. Promote at most one existing-page implementation from current query/SERP,
-   persona, page-audit, and evidence findings.
-4. Test the five activities in
+1. Observe `KAL-IMP-001` until its post-release recrawl and two finalized
+   public-safe comparison points exist.
+2. Keep comparing validated GSC snapshots without inferring query intent from
+   page rows alone.
+3. Test the five activities in
    `site/collections/original-stem-activities-for-4-year-olds.html`.
-5. Record real observations through the validated parent-test intake.
-6. Upgrade a winning activity only after separate evidence and content review.
+4. Record real observations through the validated parent-test intake.
+5. Upgrade a winning activity only after separate evidence and content review.
+6. Refresh paid keyword volume and difficulty only as a separately registered,
+   budget-authorized research action.
 
 ## Do Not Do Yet
 
