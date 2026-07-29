@@ -18,6 +18,80 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-07-29 At-Home Kids Demand And Competition Map
+
+Action: `KAL-RES-003`
+
+State: review-clean
+
+Frozen base: `f452d658e0b1a36bcaab9d3b77d6b538ff3c5dac`
+
+Scope: the exact ten data, research, review, backlog, roadmap, cycle,
+user-input, and progress paths declared for `KAL-RES-003` in
+`ops/seo-roadmap.json`.
+
+Boundaries:
+
+- refresh 60 frozen core queries and retain at most 20 bounded discovery terms
+  in the logged-in Semrush US interface;
+- preserve zero, `n/a`, complete-query `UNKNOWN`, and evidence classes;
+- sample at least eight current representative SERPs and inspect at least
+  twelve ranking pages;
+- do not sum close variants into a market-size claim;
+- promote no site implementation, generic board-game roundup, firsthand use
+  claim, parent/child evidence, affiliate change, or external-account mutation;
+- preserve `KAL-IMP-001`'s observation gate.
+
+QA before review:
+
+- CSV parses with 80 unique query rows: 60 core and 20 discovery;
+- 75 numeric-volume rows, 5 unavailable rows, and 6 explicit zero rows remain
+  distinct;
+- roadmap JSON parses with unique action IDs and a separately planned
+  `KAL-RES-004`;
+- `git diff --check` passes;
+- exact-scope and prohibited-path checks are pending the final review record.
+
+Reviewer: Linnaeus
+(`019fad68-1c94-7552-b5c1-3c68beec0219`)
+
+Read-only status: confirmed. The reviewer changed no file, index, commit,
+remote, logged-in browser, external account, site, or deployment.
+
+Cycle 1: `FAIL`
+
+- `P2`: duplicate `implementation_state` keys made the roadmap ambiguous.
+- `P2`: the SERP, ranking-page, persona-source, and current KAL architecture
+  trail was not reproducible to the repository protocol.
+- `P2`: the proposed 12 to 15 card-query bound exceeded the 9 true card-game
+  phrases in the current register.
+- `P2`: family access conflicted between research-start evidence and the later
+  implementation gate.
+- `P3`: 18 inspected ranking pages and 22 listed sources were not
+  distinguished.
+
+Correction:
+
+- removed the duplicate key and added strict duplicate-key QA;
+- recorded five ordered retained results and full limitation metadata for
+  each of the eight incomplete SERP samples;
+- expanded all 18 page records, linked all six persona hypotheses directly to
+  evidence, and added a ten-page KAL ownership/overlap audit;
+- bound `KAL-RES-004` to 9 current card-game queries plus at most 3 bounded
+  discovery terms;
+- made family access a pre-implementation gate, not a research-start gate;
+- labeled the 4 sources beyond the 18 inspected pages as supplementary.
+
+Cycle 2: `PASS`
+
+- Every cycle-1 P2 finding is closed.
+- The cycle-1 P3 source-count ambiguity is closed.
+- Read-only status is reconfirmed.
+
+Final findings: none (`P0`-`P3`).
+
+Final result: `PASS`.
+
 ## 2026-07-28 Age-4 Keyword Metrics Refresh
 
 Action: `KAL-RES-002`

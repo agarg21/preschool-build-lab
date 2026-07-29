@@ -1,5 +1,47 @@
 # Progress Log
 
+## 2026-07-29
+
+### Broader At-Home Kids Demand And Competition Map
+
+- Registered `KAL-RES-003` from clean, aligned frozen base `f452d65`.
+- Froze 60 core queries across at-home activities, constraints, play-now family
+  games, broad board games, age/household board games, and card/short play.
+- Used the user's logged-in Semrush session to refresh all 60 in the United
+  States Keyword Overview bulk interface; every row showed `Now`.
+- Retained exactly 20 criteria-matched, nonduplicate Keyword Magic discovery
+  terms across five seeds, then refreshed all 20 in the same bulk interface.
+- The 80-row register preserves 75 numeric-volume rows, 5 unavailable rows, and
+  6 explicit zero rows. It contains 54 rows at 100 or more estimated US volume
+  and 24 at 1,000 or more; close variants are not summed.
+- Sampled eight incomplete representative SERPs and inspected 18 ranking pages
+  across public institutions, parenting specialists, major publishers,
+  product-review publishers, rules specialists, and BoardGameGeek.
+- Found four related but distinct parent jobs: free activities, play-now family
+  games, board-game buying, and standard-deck card games. The parent problem is
+  materially larger than the prior age-4 STEM wording.
+- Selected no implementation. Commercial board-game guides require firsthand
+  product access, original visuals, current comparison facts, test criteria,
+  and disclosure. Standard-deck card games are the strongest adjacent
+  validation lane.
+- Planned `KAL-RES-004` as a separate research-only decision pack using the 9
+  true card-game queries in the current register, plus at most 3 bounded
+  discovery terms, for 5 to 7 standard-deck games. It may promote at most one
+  candidate and cannot invent play evidence. Family access is an
+  implementation gate, not a research-start requirement.
+- Preserved `KAL-IMP-001`'s observation gate and changed no site, generator,
+  GSC snapshot, indexing, external account, affiliate, parent/child evidence,
+  or deployment path.
+- Independent reviewer Linnaeus
+  (`019fad68-1c94-7552-b5c1-3c68beec0219`) returned `FAIL` in cycle 1 with
+  four P2 reproducibility/state findings and one P3 source-count ambiguity.
+- The correction pass removed the duplicate roadmap key, added complete
+  limitation-aware records for all eight SERP samples, expanded all 18
+  ranking-page records, linked all persona evidence, added a ten-page current
+  KAL ownership audit, corrected the card-query bound, and separated the
+  research-start and implementation gates.
+- Cycle 2 returned `PASS` with no P0-P3 findings.
+
 ## 2026-07-28
 
 ### Age-4 Paid Keyword Metrics Refresh

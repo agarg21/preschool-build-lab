@@ -417,6 +417,86 @@
       "review_outcome": "PASS",
       "release_state": "push-only",
       "notes": "Selected by direct manual user instruction and explicit paid-tool authorization. Research-only, push-only transaction; no deployment is applicable."
+    },
+    {
+      "id": "KAL-RES-003",
+      "title": "Map broader at-home kids activity and family-game demand",
+      "kind": "research",
+      "lane": "search-and-product-research",
+      "impact": 5,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 5,
+      "risk": 2,
+      "status": "completed",
+      "selected_on": "2026-07-29",
+      "completed_on": "2026-07-29",
+      "frozen_base": "f452d658e0b1a36bcaab9d3b77d6b538ff3c5dac",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": false,
+      "required_evidence": [
+        "current_semrush_us_demand_and_kd",
+        "current_representative_serp_samples",
+        "representative_ranking_page_inspection",
+        "source_traced_parent_job_hypotheses",
+        "current_repository_architecture"
+      ],
+      "target_urls": [],
+      "target_paths": [
+        "data/at-home-kids-demand-2026-07-29.csv",
+        "seo/at-home-kids-demand-competition-map-2026-07-29.md",
+        "reviews/at-home-kids-demand-competition-review-2026-07-29.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/needs-user.md",
+        "progress.md"
+      ],
+      "success_signal": "A research-only demand map tests whether the prior age-4 STEM universe understated the broader parent job using 60 frozen exact queries, up to 20 criteria-matched discovery terms, at least eight current representative SERP samples, at least twelve inspected ranking pages, and one explicit architecture recommendation for activities and family games.",
+      "evidence_classification": "Semrush volume, KD, CPC, and intent are dated US-database TOOL_ESTIMATE evidence. Current public SERPs and inspected pages are SOURCE_BACKED research inputs. Personas and architecture conclusions are RESEARCH_HYPOTHESIS or EDITORIAL_JUDGMENT. Public-safe GSC page/indexing rows remain MEASURED; complete current GSC query rows remain UNKNOWN.",
+      "human_gate": "The user explicitly authorized thorough demand and competition research on 2026-07-29 in the context of the logged-in Semrush browser workflow. The user's statement that activities and board games have been helpful is directional user-supplied context, not validated public parent/child evidence. No product review, affiliate claim, firsthand board-game claim, parent/child outcome, purchase, external-account mutation, or implementation is authorized.",
+      "observation_window": "Research only. Do not alter KAL-IMP-001's post-release recrawl and two-finalized-comparison-point gate or implement a broader cluster until the user reviews the architecture recommendation in a separate transaction.",
+      "decision": "Compare broad at-home activity, constraint, games-at-home, board-game, age-specific board-game, and card/short-play demand and competition. Determine whether the apparent low volume came from narrow phrasing, whether activities and games share one parent job, and what evidence would be required before a strategic expansion.",
+      "research_cap": {
+        "frozen_core_queries": 60,
+        "maximum_retained_discovery_terms": 20,
+        "minimum_representative_serps": 8,
+        "minimum_inspected_ranking_pages": 12
+      },
+      "result": "Refreshed 60 frozen core queries and 20 bounded discovery terms in Semrush's logged-in US interface. The retained set contains 75 numeric-volume rows, 5 unavailable rows, 6 explicit zero rows, 54 rows at 100 or more, and 24 rows at 1,000 or more; close variants are not summed. Eight incomplete representative SERP samples and 18 ranking-page inspections show four distinct jobs: free activities, play-now family games, board-game buying, and standard-deck card games. The broad problem is materially larger than age-4 STEM wording, but commercial board-game pages require firsthand product evidence. Standard-deck card games are the strongest adjacent validation lane. No site implementation is promoted.",
+      "implementation_state": "research-complete",
+      "review_cycles": 2,
+      "review_outcome": "PASS",
+      "release_state": "push-only",
+      "next_eligible_action": "KAL-RES-004",
+      "notes": "Direct manual research authorization. Exact ten-path, research-only, push-only transaction. Do not edit strategy/current-strategy.md, README.md, site/**, generators, workflows, snapshots, external accounts, affiliate settings, or product pages."
+    },
+    {
+      "id": "KAL-RES-004",
+      "title": "Validate a standard-deck card-game utility cluster",
+      "kind": "research",
+      "lane": "search-and-product-research",
+      "impact": 4,
+      "confidence": 3,
+      "learning_value": 5,
+      "effort": 3,
+      "risk": 2,
+      "status": "planned",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": false,
+      "required_evidence": [
+        "KAL-RES-003_demand_map",
+        "current_card_game_serps",
+        "authoritative_rules_sources",
+        "current_repository_architecture"
+      ],
+      "target_urls": [],
+      "target_paths": [],
+      "success_signal": "A research-only decision pack reconciles rules and page ownership for 5 to 7 standard-deck games, audits parent followability and age/reading/player constraints, and promotes at most one implementation candidate without inventing play results.",
+      "human_gate": "Family access is not required to start the research-only decision pack. Before any implementation is promoted, confirm the frozen candidate games can be run and that original diagrams or photos can be produced. Research may reconcile public rules sources but may not claim a parent or child used, understood, enjoyed, or benefited from any game.",
+      "notes": "Planned by KAL-RES-003. Freeze exact paths, candidate games, and query set in a separate transaction before substantive work. Do not create a generic roundup or merge this action into KAL-RES-003."
     }
   ]
 }

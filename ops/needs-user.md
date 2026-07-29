@@ -6,12 +6,22 @@
    `templates/parent-test-evidence-intake.md` for each and validate it with
    `python3 ops/validate_parent_test_evidence.py <path>`.
 2. Can you capture at least one photo or simple diagram for the winning activity?
-3. Should the first expansion after age-4 STEM stay STEM-focused, or move toward no-prep/rainy-day activities?
-4. Can you provide an original cardboard ramp photo or simple diagram for the currently ranking ramp article?
+3. Before any card-game page is implemented, can the family run a frozen set
+   of 5 to 7 standard-deck card games and create original card-layout diagrams
+   or photos for the strongest ones? This does not block the research-only
+   decision pack.
+4. Which board games are already owned and available for firsthand use if the
+   site later validates an age-specific buying-guide lane?
+5. Can you provide an original cardboard ramp photo or simple diagram for the
+   currently ranking ramp article?
 
 ## Recently Resolved
 
 - 2026-07-09: User reported testing two activities and said they looked good. Structured notes are still needed.
+- 2026-07-29: Broad demand research resolved the binary STEM-versus-rainy-day
+  question. The next validation candidate is standard-deck card games; broad
+  indoor/rainy-day expansion requires a consolidation audit, and commercial
+  board-game guides remain firsthand-evidence-gated.
 - 2026-07-09: Master requested indexing in Search Console for:
   - `https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html`
   - `https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html`

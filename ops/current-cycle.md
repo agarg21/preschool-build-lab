@@ -42,6 +42,27 @@ returned numeric volume, ten returned `n/a` volume, and all returned intent and
 KD. These values are `TOOL_ESTIMATE`, while complete current GSC query rows
 remain `UNKNOWN`.
 
+`KAL-RES-003` broadened the demand universe on 2026-07-29 without changing the
+site. Semrush refreshed 60 frozen core queries and 20 bounded discovery terms
+in the US database. The retained set has 75 numeric-volume rows, 5 unavailable
+rows, and 6 explicit zero rows; 54 rows are estimated at 100 or more and 24 at
+1,000 or more. Close variants are not summed.
+
+Eight incomplete representative SERP samples and 18 ranking-page inspections
+show four distinct jobs under the same practical at-home promise: free
+activities, play-now family games, board-game buying, and standard-deck card
+games. Broad demand is real, but commercial board-game recommendations require
+firsthand product use and original evidence. Standard-deck card games are the
+strongest adjacent validation lane. Complete current GSC query rows and numeric
+SERP overlap remain `UNKNOWN`.
+
+Independent reviewer Linnaeus
+(`019fad68-1c94-7552-b5c1-3c68beec0219`) returned `PASS` in cycle 2 after a
+correction pass made all eight SERP samples reproducible, expanded all 18
+ranking-page records, linked persona evidence, added the current KAL ownership
+audit, corrected the card-query bound, and separated the research-start and
+implementation human gates.
+
 The authenticated Page indexing review collected 2026-07-18 found no blanket
 technical fix. One noindex is intentional, `/index.html` has the correct live
 canonical despite the stale report, and the remaining exclusions are crawl
@@ -66,6 +87,9 @@ comparison points before attributing page-level movement. A first click or
 complete query evidence is a new decision gate, not proof of parent usefulness.
 Do not create a new page or claim parent/child evidence.
 
+The broader demand findings do not override this gate. They support a separate
+research transaction, not immediate implementation or a strategic pivot.
+
 ## Waiting On User
 
 - Complete one copy of `templates/parent-test-evidence-intake.md` for each of
@@ -75,6 +99,11 @@ Do not create a new page or claim parent/child evidence.
 - If possible, provide one original photo or simple diagram for the cardboard ramp article or the strongest tested age-4 STEM activity.
 - After both pages have impressions, compare Search Console queries/positions to see whether the hub owns broad `stem activities for 4 year olds` queries and the pack earns original/test-pack or long-tail activity clicks.
 - Optional: create a Semrush Project for `kidactivitylab.com` if technical Site Audit or Position Tracking is desired through Semrush.
+- For a future standard-deck card-game pack, confirm whether the family can run
+  a frozen set of 5 to 7 games and create original card-layout diagrams or
+  photos.
+- For any later board-game buying guide, identify games already owned and
+  available for real use. Secondary research alone is not enough.
 
 ## Recently Completed
 
@@ -83,6 +112,11 @@ Do not create a new page or claim parent/child evidence.
   monitoring, kept `KAL-IDX-001` and `KAL-IMP-001` planned, and selected no
   implementation because query rows, clicks, and parent-test evidence are still
   missing.
+- `KAL-RES-003` mapped broader at-home activity and family-game demand using 80
+  current Semrush rows, eight representative SERP samples, and 18 inspected
+  ranking pages. It found material demand but distinct page/evidence models,
+  promoted no implementation, and made a standard-deck card-game decision
+  pack the next research candidate.
 - Installed unattended read-only GSC collection in `046d840`; workflow run
   `29627800627` succeeded and snapshot commit `a782f62` established the first
   baseline: 29 impressions, 0 clicks, 61 sitemap URLs discovered, and all 7
@@ -176,8 +210,15 @@ Do not create a new page or claim parent/child evidence.
 
 ## Next Transaction
 
-No implementation transaction is currently selected. Wait for the next
-finalized GSC snapshot and the `KAL-IMP-001` observation gate rather than
-manufacturing another page. The current paid metric layer is
-`seo/age-4-keyword-metrics-refresh-2026-07-28.md`; it reinforces the existing
-architecture and does not promote an implementation.
+No implementation transaction is selected. `KAL-RES-004` is the next eligible
+research candidate after `KAL-RES-003` is review-clean: use the 9 true
+card-game queries in the current register, optionally discover at most 3
+nonduplicate terms, reconcile authoritative rules and parent followability for
+5 to 7 standard-deck card games, then promote at most one candidate in a
+separate transaction. Family access is not required to start research, but no
+page may be implemented until the family-access and original-diagram gate is
+satisfied.
+
+Continue waiting for the next finalized GSC snapshot and the `KAL-IMP-001`
+observation gate. The broad demand map does not authorize another roundup,
+board-game affiliate content, or a claim that any game was tried.

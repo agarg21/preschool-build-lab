@@ -32,13 +32,26 @@ The decision pack is
 The current paid-metrics supplement is
 `seo/age-4-keyword-metrics-refresh-2026-07-28.md`.
 
+The broader demand map is
+`seo/at-home-kids-demand-competition-map-2026-07-29.md`. It shows material
+demand beyond age-4 STEM but separates the market into four page types:
+free activities, play-now family games, board-game buying, and standard-deck
+card games.
+
 No additional implementation is ready. Observe the released ramp article until
 its post-release recrawl and two finalized public-safe comparison points.
+`KAL-RES-004` is the next research candidate, not a page brief. It starts with
+the 9 true card-game phrases in the current register and may add at most 3
+bounded, nonduplicate discovery terms.
 
 ## Waiting On User / Real-World Evidence
 
 - Share which two original age-4 STEM activities were tested and capture setup time, engagement time, kid quotes, confusion points, mess, what changed, and repeatability.
 - Capture at least one original photo or simple diagram for the winning activity or cardboard ramp article.
+- Confirm whether the family can run a frozen set of 5 to 7 standard-deck card
+  games and create original card-layout diagrams or photos.
+- Inventory board games already owned before considering an age-specific
+  buying guide. Product recommendations require real access and use.
 
 ## Monitor
 
@@ -62,16 +75,37 @@ its post-release recrawl and two finalized public-safe comparison points.
   for 7 of 17 exact queries and `n/a` volume for 10. The largest estimates map
   to existing preschool STEM, cardboard-ramp, and age-4 at-home URLs; no new
   page is promoted.
+- `[monitor]` The 2026-07-29 broader Semrush register contains 80 unique
+  queries: 75 numeric-volume rows, 5 unavailable rows, and 6 explicit zero
+  rows. Close variants are not summed.
+- `[monitor]` Broad parent demand is materially larger than the original
+  age-4 STEM phrase set. High-signal estimates include `rainy day activities
+  for kids` at 60,500/KD 22, `best family board games` at 49,500/KD 46,
+  `card games for kids` at 4,400/KD 14, and `board games for 4 year olds` at
+  1,900/KD 26.
 
 ## Do Not Do Yet
 
 - `[create]` Do not create a new ramp page. Improve the existing validated ramp article first.
 - `[create]` Do not expand into fine motor, rainy day, printable/PDF, local, or broad video clusters from this tiny GSC sample.
+- `[create]` Do not interpret the broad demand map as permission to add another
+  indoor/rainy-day roundup. Audit current overlapping pages first.
+- `[create]` Do not publish generic "best board games" content from secondary
+  research. Firsthand use, original visuals, current product facts, testing
+  criteria, and disclosure are mandatory.
+- `[create]` Do not publish a card-game pack until rule variants are reconciled
+  and family access plus original diagrams are confirmed.
 - `[create]` Do not create standalone pages for the individual original age-4 STEM activities until at least two have parent-tested evidence and one original visual or diagram.
 - `[monetization]` Do not add ads, affiliate links, or products until the site has stronger useful content and trust.
 
 ## Done
 
+- 2026-07-29: `KAL-RES-003` refreshed 60 frozen core queries and 20 bounded
+  discovery terms in Semrush's US interface, sampled eight incomplete current
+  SERPs, and inspected 18 ranking pages. It found four related but distinct
+  jobs and promoted no implementation. Standard-deck card games are the next
+  bounded research candidate; commercial board-game guides remain
+  firsthand-evidence-gated.
 - 2026-07-28: `KAL-RES-002` refreshed intent, volume availability, KD, and CPC
   availability for all 17 exact age-4 cluster queries in Semrush's US bulk
   interface. Seven rows returned numeric volume and ten returned `n/a`.

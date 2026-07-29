@@ -15,6 +15,14 @@ automation.
 4. Use the completed `KAL-RES-002` Semrush supplement as the current paid
    metric layer. It reinforces existing-page ownership and promotes no
    implementation.
+5. Treat `KAL-RES-003` as the broader demand layer: the parent problem is
+   materially larger than age-4 STEM wording, but it separates into free
+   activities, play-now family games, board-game buying, and standard-deck
+   card games.
+6. Keep `KAL-RES-004` planned as the next research candidate. It starts from
+   the 9 true card-game queries in the current register, may add at most 3
+   bounded discovery terms, and may validate 5 to 7 standard-deck games but
+   may not create a page or invent play evidence.
 
 The authenticated Page indexing review collected 2026-07-18 is normalized in
 `ops/gsc-indexing-review-2026-07-18.md`. Google's report was last updated
@@ -140,6 +148,34 @@ indexed.
 - Independent read-only review returned `PASS` with no P0-P3 findings.
 - No site, generator, snapshot, external account, parent/child evidence, or
   deployment path changed.
+
+## KAL-RES-003 Research Complete On 2026-07-29
+
+- The exact ten-path research transaction starts from `f452d65`.
+- The logged-in Semrush US interface refreshed 60 frozen core queries and 20
+  bounded discovery terms. The register preserves 75 numeric-volume rows, 5
+  unavailable rows, and 6 explicit zero rows without summing close variants.
+- The retained set includes 54 rows at 100 or more estimated US volume and 24
+  at 1,000 or more. Median numeric volume is 320 and median KD is 21.
+- Eight incomplete representative SERP samples and 18 inspected ranking pages
+  show that the broader pain point is real but contains four distinct jobs:
+  free activities, play-now family games, board-game buying, and standard-deck
+  card games. Numeric SERP overlap remains `UNKNOWN`.
+- Commercial board-game guides have large demand but require firsthand product
+  use, original photos, current comparison facts, testing criteria, and
+  affiliate disclosure when applicable. No generic "best" list is promoted.
+- Standard-deck card games are the strongest adjacent validation lane:
+  `card games for kids` is estimated at 4,400 US volume and KD 14, while
+  `easy card games for kids` is estimated at 1,000 and KD 21.
+- `KAL-RES-004` is planned as a separate research-only decision pack for 5 to
+  7 standard-deck games. It must reconcile rules and parent followability and
+  may promote at most one implementation candidate.
+- `KAL-IMP-001` remains in its observation window. No site, generator,
+  snapshot, indexing, external-account, parent/child evidence, affiliate, or
+  deployment path changed.
+- Independent review cycle 1 found four P2 reproducibility/state issues and one
+  P3 source-count ambiguity. After correction, cycle 2 returned `PASS` with no
+  P0-P3 findings.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 
