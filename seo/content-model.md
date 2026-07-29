@@ -1,10 +1,22 @@
 # Kid Activity Lab Content Model
 
-One domain can hold multiple page types as long as the promise stays consistent: practical kids activities parents can run at home.
+One domain can hold multiple page types as long as the promise stays
+consistent: help a parent choose something interesting that fits the child and
+the moment, then make it easy to start.
+
+At-home, free, low-prep, screen-free, and age-specific are useful constraints
+and filters. They are not the mission. The content model can serve five
+engagement lanes:
+
+1. Make and experiment.
+2. Play.
+3. Create and imagine.
+4. Explore and discover.
+5. Go deeper through substantial projects or carefully evidenced resources.
 
 ## Primary Content
 
-Original pages are the core asset.
+Original pages and honestly labeled firsthand evidence are the core assets.
 
 Examples:
 
@@ -20,7 +32,7 @@ Original does not mean every idea appears from nowhere. It means Kid Activity La
 
 ## Utility Content
 
-Activity cards are the reusable action layer.
+Activity and game cards are the reusable action layer.
 
 They should stay short enough to run from one screen, but improve over time with:
 
@@ -46,4 +58,24 @@ Reference videos may also appear inside original activity pages when they solve 
 
 ## Publishing Rule
 
-Use curation to find ideas and help parents visualize setup. Use simplified instructions, safety notes, testing, and real observations to make pages worth ranking.
+Use curation to find ideas and help parents visualize setup. Use simplified
+instructions, safety notes, testing, and real observations to make pages worth
+ranking.
+
+Publish or materially expand an indexable page only when it serves a distinct
+engagement job and adds enough selection or execution utility to deserve
+indexing. Show the interest hook and meaningful parent constraints without
+promising that every child will engage, enjoy, learn from, or repeat the idea.
+
+Product-recommendation content has a higher evidence bar. Before
+implementation, the project needs:
+
+- access to the products being compared;
+- firsthand use relevant to the recommendation;
+- current, appropriately dated checks for every published product fact,
+  including any price claim;
+- original notes or visuals that help a parent choose;
+- clear affiliate or sponsorship disclosure when applicable.
+
+Keyword estimates or ranking-page inspection can justify more research. They
+cannot substitute for firsthand product evidence.

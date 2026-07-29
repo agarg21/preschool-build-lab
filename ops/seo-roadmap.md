@@ -1,7 +1,8 @@
 # Kid Activity Lab Operator Roadmap
 
-The machine-readable queue is `ops/seo-roadmap.json`. It preserves the age-4
-STEM strategy and gives the active Master chat one durable execution queue.
+The machine-readable queue is `ops/seo-roadmap.json`. It preserves age-4 STEM
+as the current firsthand-evidence wedge inside the broader interesting-kid-
+engagement strategy and gives the active Master chat one durable execution queue.
 Control Room scheduling is paused until the user explicitly re-enables
 automation.
 
@@ -15,11 +16,12 @@ automation.
 4. Use the completed `KAL-RES-002` Semrush supplement as the current paid
    metric layer. It reinforces existing-page ownership and promotes no
    implementation.
-5. Treat `KAL-RES-003` as the broader demand layer: the parent problem is
-   materially larger than age-4 STEM wording, but it separates into free
-   activities, play-now family games, board-game buying, and standard-deck
-   card games.
-6. Keep `KAL-RES-004` planned as the next research candidate. It starts from
+5. Treat `KAL-RES-003` as the current broader demand layer, not the whole KAL
+   universe. It found free activities, play-now family games, board-game
+   buying, and standard-deck card games; it did not research the full Create,
+   Explore, or Go Deeper lanes.
+6. Keep `KAL-RES-004` planned as the first adjacent validation of the Play
+   lane, not a change in site identity. It starts from
    the 9 true card-game queries in the current register, may add at most 3
    bounded discovery terms, and may validate 5 to 7 standard-deck games but
    may not create a page or invent play evidence.
@@ -176,6 +178,36 @@ indexed.
 - Independent review cycle 1 found four P2 reproducibility/state issues and one
   P3 source-count ambiguity. After correction, cycle 2 returned `PASS` with no
   P0-P3 findings.
+
+## KAL-STR-001 Strategy Reframe On 2026-07-29
+
+- The direct user decision broadens the mission from practical at-home
+  activities to helping a parent find something interesting that fits the
+  child and the moment, then making it easy to start.
+- At-home, free, low-prep, screen-free, age-specific, and similar modifiers
+  remain useful constraints and filters. They do not define the site.
+- The five strategic lanes are Make and Experiment, Play, Create and Imagine,
+  Explore and Discover, and Go Deeper.
+- “Interesting” is a selection goal, not a guarantee. Future work must label
+  evidence honestly and must not invent engagement, enjoyment, learning,
+  safety, or repeat-play outcomes.
+- The relative opportunity rescore is `EDITORIAL_JUDGMENT`:
+
+| Candidate | Strategic fit | Evidence readiness | Distinctiveness | Maintenance fit | Queue decision |
+| --- | ---: | ---: | ---: | ---: | --- |
+| Age-4 STEM make/experiment | 5 | 4 | 4 | 4 | Preserve as the current evidence wedge. |
+| Standard-deck card-game utility | 5 | 3 | 4 | 4 | First adjacent research validation. |
+| Household/no-equipment family games | 5 | 3 | 3 | 4 | Hold behind the card-game validation. |
+| Broad indoor/rainy-day chooser | 4 | 3 | 2 | 4 | Audit/consolidate current overlap; no new page. |
+| Board-game buying guidance | 5 | 1 | 3 | 2 | Hold for product access and firsthand evidence. |
+| Create/Explore/Go Deeper expansion | 4 | 1 | 3 | 3 | Defined lanes, but current demand evidence is unavailable. |
+
+- `KAL-RES-004` remains the next eligible research transaction. It must test
+  interest hook, age fit, agency, challenge, replayability, parent feasibility,
+  rules, reading load, players, and current page ownership for 5 to 7 games.
+- No site, navigation, generator, page, product recommendation, affiliate,
+  external-account, indexing, parent/child evidence, or deployment path is
+  authorized by this strategy transaction.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 

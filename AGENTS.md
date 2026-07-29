@@ -4,15 +4,28 @@ This repo is the central workspace for Kid Activity Lab. Use this file first whe
 
 ## Current Goal
 
-Build Kid Activity Lab into a practical kids activity site that can eventually earn revenue through search traffic, display ads, affiliate links, and/or small digital products.
+Build Kid Activity Lab into a trusted decision and utility site that helps
+parents find interesting things children can genuinely engage with. The site
+can eventually earn revenue through search traffic, display ads, affiliate
+links, and/or small digital products without making monetization the reason to
+recommend an idea.
 
 The current strategic direction is:
 
 - One domain: `kidactivitylab.com`.
-- Original/useful content is the core asset.
-- Activity cards are the utility layer.
+- One promise: help a parent choose something that fits the child and the
+  moment, then make it easy to start.
+- Original, useful content and honestly labeled firsthand evidence are the core
+  assets.
+- The main engagement lanes are making and experimenting, playing, creating
+  and imagining, exploring and discovering, and going deeper through
+  substantial projects or carefully evidenced resources.
+- At-home, free, low-prep, screen-free, and age-specific are useful constraints
+  and filters, not the site's mission.
+- Activity and game cards are the utility layer.
 - Video curation is a supporting archive, not the main ranking bet.
-- Focus first on activities for 3-6 year old kids, with the strongest current push around age-4 STEM.
+- Focus first on children ages 3-6. Age-4 STEM is the current firsthand-evidence
+  wedge, not a permanent boundary for the site.
 
 ## Live Site
 
@@ -132,15 +145,23 @@ PY
   `RESEARCH_HYPOTHESIS`, `EDITORIAL_JUDGMENT`, and `UNKNOWN` evidence distinct.
 - Keep videos as references or inspiration unless the page adds substantial original value.
 - Original pages may include credited reference videos, but the Kid Activity Lab value must be the simplified setup, safety boundaries, kid-facing steps, test loop, and real observations.
+- Make the interest hook and important parent constraints visible without
+  promising that every child will engage, enjoy, learn from, or repeat an idea.
+- Product recommendations require access to the product, firsthand use,
+  current factual checks, original evidence, and clear disclosure before they
+  can become an implementation lane.
 
 ## Current Priority Stack
 
 1. Test the 5 activities in `site/collections/original-stem-activities-for-4-year-olds.html`.
 2. Record observations in `briefs/age-4-original-stem-test-pack.md` or a new weekly note.
 3. Upgrade winning activities into stronger cards/pages with parent-tested notes and visuals.
-4. Monitor pages in Google Search Console. Do not request indexing unless a
+4. Run `KAL-RES-004` as a research-only test of the adjacent standard-deck
+   card-game lane. It is a validation lane, not the site's identity.
+5. Monitor pages in Google Search Console. Do not request indexing unless a
    separate explicit instruction authorizes it.
-5. Expand only after the current age-4 STEM cluster has real evidence.
+6. Expand only when a candidate serves a distinct engagement job and satisfies
+   its research and firsthand-evidence gates.
 
 ## Important Current Pages
 

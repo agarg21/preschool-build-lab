@@ -18,6 +18,12 @@ and release verification.
 
 ## Active Priority
 
+Kid Activity Lab's core promise is now to help a parent find something
+interesting that fits the child and the moment, then make it easy to start.
+At-home, free, low-prep, screen-free, and age-specific are constraints and
+filters rather than the mission. Age-4 STEM remains the current
+firsthand-evidence wedge.
+
 `KAL-IMP-001` is released and production-verified. The
 existing cardboard ramp article now keeps the immediate no-cut build answer,
 adds one optional source-backed height/car/surface comparison, preserves
@@ -49,12 +55,20 @@ rows, and 6 explicit zero rows; 54 rows are estimated at 100 or more and 24 at
 1,000 or more. Close variants are not summed.
 
 Eight incomplete representative SERP samples and 18 ranking-page inspections
-show four distinct jobs under the same practical at-home promise: free
-activities, play-now family games, board-game buying, and standard-deck card
-games. Broad demand is real, but commercial board-game recommendations require
-firsthand product use and original evidence. Standard-deck card games are the
-strongest adjacent validation lane. Complete current GSC query rows and numeric
-SERP overlap remain `UNKNOWN`.
+show four distinct jobs within the demand map: free activities, play-now family
+games, board-game buying, and standard-deck card games. Broad demand is real,
+but commercial board-game recommendations require firsthand product use and
+original evidence. Standard-deck card games are the strongest adjacent
+validation of the broader Play lane. The demand map did not research the full
+Create, Explore, or Go Deeper lanes. Complete current GSC query rows and
+numeric SERP overlap remain `UNKNOWN`.
+
+The `KAL-STR-001` relative rescore preserves age-4 STEM as the current evidence
+wedge, keeps standard-deck card games as the next research candidate, holds
+household/no-equipment games behind that validation, requires an ownership
+audit before another indoor/rainy-day page, and holds board-game buying until
+product access and firsthand evidence exist. These scores are
+`EDITORIAL_JUDGMENT`, not measured engagement or market size.
 
 Independent reviewer Linnaeus
 (`019fad68-1c94-7552-b5c1-3c68beec0219`) returned `PASS` in cycle 2 after a
@@ -87,8 +101,8 @@ comparison points before attributing page-level movement. A first click or
 complete query evidence is a new decision gate, not proof of parent usefulness.
 Do not create a new page or claim parent/child evidence.
 
-The broader demand findings do not override this gate. They support a separate
-research transaction, not immediate implementation or a strategic pivot.
+The broader strategy does not override this gate. It supports separate,
+evidence-bounded lane research, not immediate implementation.
 
 ## Waiting On User
 
@@ -211,14 +225,16 @@ research transaction, not immediate implementation or a strategic pivot.
 ## Next Transaction
 
 No implementation transaction is selected. `KAL-RES-004` is the next eligible
-research candidate after `KAL-RES-003` is review-clean: use the 9 true
-card-game queries in the current register, optionally discover at most 3
-nonduplicate terms, reconcile authoritative rules and parent followability for
-5 to 7 standard-deck card games, then promote at most one candidate in a
-separate transaction. Family access is not required to start research, but no
-page may be implemented until the family-access and original-diagram gate is
-satisfied.
+research candidate and the first adjacent validation of the Play lane: use the
+9 true card-game queries in the current register, optionally discover at most
+3 nonduplicate terms, reconcile authoritative rules and page ownership for 5
+to 7 standard-deck card games, and audit interest hook, age fit, agency,
+challenge, replayability, parent feasibility, reading load, and player
+constraints. It may promote at most one candidate in a separate transaction.
+Family access is not required to start research, but no page may be implemented
+until the family-access and original-diagram gate is satisfied.
 
 Continue waiting for the next finalized GSC snapshot and the `KAL-IMP-001`
 observation gate. The broad demand map does not authorize another roundup,
-board-game affiliate content, or a claim that any game was tried.
+board-game affiliate content, a claim that any game was tried, or an automatic
+expansion into Create, Explore, or Go Deeper.

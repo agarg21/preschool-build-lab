@@ -18,6 +18,69 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-07-29 Interesting Kid Engagement Strategy
+
+Action: `KAL-STR-001`
+
+State: review-clean
+
+Frozen base: `a0b4efe1e773960ae291bc448663a41c9ce9414c`
+
+Scope: the exact thirteen canonical strategy, content-model, decision, review,
+backlog, roadmap, cycle, user-input, and progress paths declared for
+`KAL-STR-001` in `ops/seo-roadmap.json`.
+
+Boundaries:
+
+- broaden the mission from practical at-home activities to interesting things
+  that fit the child and the moment;
+- keep at-home, free, low-prep, and similar modifiers as constraints;
+- preserve age-4 STEM as the current firsthand-evidence wedge;
+- define Make, Play, Create, Explore, and Go Deeper lanes without pretending
+  current research covers every lane;
+- keep `KAL-RES-004` as the next research candidate and first Play-lane
+  validation, not a site identity or implementation brief;
+- make no site, navigation, generator, page, product recommendation,
+  affiliate, external-account, indexing, parent/child evidence, or deployment
+  change.
+
+QA before review:
+
+- strict roadmap JSON and duplicate-key checks: pass;
+- exact-scope and prohibited-path checks: pass;
+- canonical promise and evidence-language checks: pass;
+- `git diff --check`: pass.
+
+Reviewer: Mendel
+(`019fadcb-2b5e-75f0-8da8-5cff9b9999d8`)
+
+Read-only status: confirmed. The reviewer changed no file, Git state, site,
+deployment, browser, external account, or parent/child evidence.
+
+Cycle 1: `PASS_WITH_P3`
+
+- `P0`-`P2`: none.
+- `P3`: the product gate checked “price-independent product details” without
+  making current, dated verification of price claims explicit.
+
+Correction:
+
+- required current, appropriately dated checks for every published product
+  fact, including price claims.
+
+Cycle 2: `PASS`
+
+- The P3 is closed.
+- Final findings: none (`P0`-`P3`).
+- `git diff --check`: pass.
+- Read-only status: reconfirmed.
+
+Residual risk: Go Deeper may partly be a depth dimension across other lanes;
+establish canonical ownership in future architecture research before
+implementation.
+
+Final result: `PASS`
+
 ## 2026-07-29 At-Home Kids Demand And Competition Map
 
 Action: `KAL-RES-003`

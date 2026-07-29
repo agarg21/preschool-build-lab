@@ -2,6 +2,29 @@
 
 ## Decisions Made
 
+### 2026-07-29: Make Interesting Kid Engagement The Core Promise
+
+Decision: Define Kid Activity Lab by the parent job of finding something
+interesting that fits the child and the moment, then making it easy to start.
+At-home, free, low-prep, screen-free, and age-specific remain useful
+constraints and filters rather than the site's mission.
+
+The durable engagement lanes are making and experimenting, playing, creating
+and imagining, exploring and discovering, and going deeper through substantial
+projects or carefully evidenced resources. Age-4 STEM remains the current
+firsthand-evidence wedge. Standard-deck card games are the first adjacent
+research lane, not the site's new identity.
+
+Why: The user's problem is broader than finding free activities at home.
+Parents also need help choosing games, creative work, explorations, and deeper
+projects that a child might find interesting. This broader promise retains a
+coherent selection job while avoiding unsupported claims that any particular
+idea will guarantee engagement.
+
+Board-game buying content remains gated on product access, firsthand use,
+current factual checks, original evidence, and disclosure. Demand estimates
+alone do not authorize recommendation pages.
+
 ### 2026-07-28: Improve The Existing Cardboard Ramp Guide
 
 Decision: Promote `KAL-IMP-001` for the existing cardboard ramp article. Keep

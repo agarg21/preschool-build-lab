@@ -2,32 +2,101 @@
 
 ## Goal
 
-Build Kid Activity Lab into a practical kids activity site that can eventually earn revenue through search traffic, display ads, affiliate links, and/or small digital products.
+Build Kid Activity Lab into a trusted decision and utility site that helps
+parents find interesting things children can genuinely engage with.
+
+The working promise is:
+
+> Find something that fits this child and this moment, then make it easy to
+> start.
+
+The site can eventually earn revenue through search traffic, display ads,
+affiliate links, and/or small digital products without making monetization the
+reason to recommend an idea.
 
 ## Current Focus
 
-Focus first on activities for 3-6 year old kids.
+Focus first on children ages 3-6.
 
-The strategic content bet remains original age-4 STEM. The completed
+Original age-4 STEM remains the current firsthand-evidence wedge. The completed
 2026-07-28 decision pack selected the existing cardboard ramp article for one
 bounded improvement. The no-cut preschool and age-4 at-home pages remain
 observation context, not queued implementation targets.
 
-This is not a pivot away from age-4 STEM. It is a near-term response to early Search Console signal.
+The 2026-07-29 broader demand map established four distinct parent jobs:
+
+1. find a free activity now;
+2. find a household or no-equipment family game;
+3. choose a board game worth buying;
+4. find a game for a standard deck of cards.
+
+The standard-deck card-game lane is the first adjacent research candidate
+because it can add useful selection and execution guidance without requiring a
+product purchase. It is not the site's identity or an automatic publishing
+decision.
 
 ## Strategic Bet
 
-The core asset is original, useful activity content: field-tested setup notes, clear parent safety boundaries, kid-facing steps, simple test loops, observations, photos, diagrams, and practical variants.
+The core asset is trustworthy engagement guidance: useful original content,
+honestly labeled firsthand evidence, and selection help that reduces a
+parent's decision effort.
 
-Activity cards are the utility layer. They should help a parent and child start quickly from one screen.
+The site can serve five engagement lanes:
+
+1. **Make and experiment:** builds, science, engineering, tinkering, and
+   cause-and-effect play.
+2. **Play:** card games, household games, movement games, cooperative games,
+   and other repeatable play structures.
+3. **Create and imagine:** art, storytelling, pretend play, music, and
+   open-ended making.
+4. **Explore and discover:** nature, neighborhoods, museums, scavenger hunts,
+   observation, and curiosity-led outings.
+5. **Go deeper:** substantial projects and carefully evidenced kits, books,
+   toys, or resources that support sustained engagement.
+
+At-home, free, low-prep, screen-free, age-specific, and similar modifiers are
+constraints and filters. They are not the site's mission.
+
+Activity and game cards are the utility layer. They should help a parent and
+child start quickly from one screen.
 
 Video curation is a supporting archive. It can help discover ideas or help parents visualize setup, but it is not the main ranking bet.
 
+## Engagement Model
+
+“Interesting” is a selection goal, not a universal outcome claim. A page can
+explain why an idea may fit a particular child or moment, but it cannot promise
+engagement, learning, enjoyment, or repetition without real evidence.
+
+Candidate ideas and page sections should make the following useful dimensions
+visible when relevant:
+
+- age and readiness;
+- interest hook or theme;
+- energy level and pace;
+- available time;
+- parent involvement or independent-play potential;
+- number of players and mixed-age fit;
+- reading, counting, memory, or rule load;
+- setup, materials, space, location, mess, and cost;
+- cooperative or competitive structure;
+- agency, surprise, challenge, creativity, and replayability;
+- a rescue path when the child loses interest or the setup does not work.
+
+The most useful page architecture normally answers five questions:
+
+1. **Hook:** Why might this be interesting to this child right now?
+2. **Start:** What does the parent need to begin?
+3. **Fit:** Which constraints or readiness signals matter?
+4. **Depth:** How can the child vary, repeat, or extend it?
+5. **Evidence:** What is sourced, estimated, observed, or still unknown?
+
 ## Current Bottleneck
 
-The site does not need many more generic pages right now. It needs stronger evidence and parent usefulness in the current age-4 STEM cluster.
+The site does not need many more generic pages. It needs stronger selection
+utility and honest evidence in each lane it chooses to enter.
 
-The highest-value input is real testing:
+For the current age-4 STEM wedge, the highest-value input is real testing:
 
 - setup time
 - minutes engaged
@@ -53,6 +122,10 @@ The selected ramp improvement is released. Wait for a post-release recrawl and
 at least two finalized public-safe comparison points before attributing
 movement or selecting another content edit.
 
+For commercial board-game or product guidance, the bottleneck is access,
+firsthand use, current factual checks, original evidence, and disclosure.
+Keyword demand alone is not enough.
+
 ## Do Now
 
 1. Observe `KAL-IMP-001` until its post-release recrawl and two finalized
@@ -66,13 +139,20 @@ movement or selecting another content edit.
 6. Use `seo/age-4-keyword-metrics-refresh-2026-07-28.md` as the current paid
    metric layer; do not treat `n/a` as zero or tool estimates as observed KAL
    demand.
+7. Use `seo/at-home-kids-demand-competition-map-2026-07-29.md` as the broader
+   demand layer. Run `KAL-RES-004` as a research-only test of the adjacent
+   standard-deck card-game lane.
 
 ## Do Not Do Yet
 
 - Do not publish many thin roundup pages.
 - Do not make YouTube or video curation the main product.
-- Do not expand into unrelated clusters until the current age-4 STEM cluster has real evidence.
+- Do not treat the broader promise as an unbounded license to publish generic
+  kids content. A new lane needs a distinct engagement job and its own evidence
+  gate.
 - Do not add affiliate or monetization pages before there is enough trust and useful content.
+- Do not publish generic “best” product lists without access, firsthand use,
+  current factual checks, original evidence, and disclosure.
 - Do not make medical, therapeutic, developmental, or safety-sensitive claims beyond practical parent supervision notes.
 
 ## Page Decision Rules
@@ -95,7 +175,7 @@ Create a new page only when:
 
 - the intent is distinct
 - the page adds real utility beyond a list
-- it supports the age-4 STEM or broader 3-6 activity strategy
+- it supports one of the defined engagement lanes for the current age focus
 - there is enough original setup, safety, testing, or observation value
 
 Keep or set a page `noindex,follow` when:
@@ -108,7 +188,7 @@ Keep or set a page `noindex,follow` when:
 Ask the user before:
 
 - changing domain, brand, navigation, or core positioning
-- starting a new content cluster
+- starting a new engagement lane or content cluster
 - spending money on tools, assets, or contractors
 - adding affiliate links, ads, or products
 - publishing safety-sensitive claims

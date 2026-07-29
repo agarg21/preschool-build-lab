@@ -1,6 +1,7 @@
 # Kid Activity Lab
 
-Kid Activity Lab is a static SEO experiment for low-prep kids activities, age pages, and curated activity cards.
+Kid Activity Lab is a static decision and utility site for finding interesting
+things children can genuinely engage with.
 
 Live site: https://kidactivitylab.com
 
@@ -8,13 +9,22 @@ For future Codex/agent work, start with [AGENTS.md](AGENTS.md).
 
 ## Current Direction
 
-Kid Activity Lab should be one domain with multiple page types, but one clear promise: practical kids activities parents can run at home.
+Kid Activity Lab should be one domain with multiple page types, but one clear
+promise: help a parent choose something interesting that fits the child and
+the moment, then make it easy to start.
 
-- Original activity content is the core ranking asset.
-- Activity cards are the quick utility layer.
-- SEO collection pages organize demand by age, material, and intent.
+- The engagement lanes are making and experimenting, playing, creating and
+  imagining, exploring and discovering, and going deeper.
+- At-home, free, low-prep, screen-free, age-specific, and similar modifiers are
+  constraints and filters, not the site's mission.
+- Original content and honestly labeled firsthand evidence are the core
+  ranking assets.
+- Activity and game cards are the quick utility layer.
+- SEO collection pages can organize demand by age, interest, energy, time,
+  people, setup, location, and cost when the intent is distinct.
 - Video curation stays as a supporting archive, not the main product.
-- The current focus is age-4 STEM activities that can be tested at home and improved with real observations.
+- Age-4 STEM remains the current firsthand-evidence wedge. Standard-deck card
+  games are the first adjacent research lane, not a site-wide pivot.
 
 ## Repo Structure
 
@@ -86,3 +96,10 @@ page audits. A separately authorized Semrush US bulk refresh then updated all
 17 exact queries: seven returned numeric volume and ten returned `n/a` volume,
 with intent and KD available for all. The estimates reinforce existing-page
 ownership and do not select another implementation.
+
+The broader 2026-07-29 demand map established four distinct parent jobs:
+finding a free activity now, finding a household/no-equipment family game,
+choosing a board game worth buying, and finding a game for a standard deck of
+cards. The next research transaction, `KAL-RES-004`, validates the
+standard-deck card-game utility cluster against the broader engagement promise.
+No game page or product recommendation is authorized by that research alone.

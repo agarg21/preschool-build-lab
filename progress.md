@@ -2,6 +2,33 @@
 
 ## 2026-07-29
 
+### Interesting Kid Engagement Strategy
+
+- Registered `KAL-STR-001` from clean, aligned frozen base `a0b4efe`.
+- Reframed the canonical promise as helping a parent find something
+  interesting that fits the child and the moment, then making it easy to start.
+- Made at-home, free, low-prep, screen-free, age-specific, and similar
+  modifiers constraints and filters rather than the site's mission.
+- Defined five engagement lanes: Make and Experiment, Play, Create and
+  Imagine, Explore and Discover, and Go Deeper.
+- Preserved age-4 STEM as the current firsthand-evidence wedge and
+  `KAL-IMP-001`'s observation gate.
+- Rescored current opportunities as `EDITORIAL_JUDGMENT`: standard-deck card
+  games remain the first adjacent Play-lane validation; household/no-equipment
+  games follow; broad indoor/rainy-day needs a consolidation audit; board-game
+  buying remains blocked on firsthand product evidence.
+- Kept Create, Explore, and Go Deeper as strategic lanes without pretending
+  that `KAL-RES-003` researched their demand or competition.
+- Independent reviewer Mendel
+  (`019fadcb-2b5e-75f0-8da8-5cff9b9999d8`) returned `PASS_WITH_P3` in cycle
+  1 with one minor ambiguity about freshness checks for price claims.
+- The correction requires current, appropriately dated checks for every
+  published product fact, including price. Cycle 2 returned `PASS` with no
+  P0-P3 findings.
+- Changed no site, navigation, generator, page, product recommendation,
+  affiliate, external-account, indexing, parent/child evidence, or deployment
+  path.
+
 ### Broader At-Home Kids Demand And Competition Map
 
 - Registered `KAL-RES-003` from clean, aligned frozen base `f452d65`.

@@ -36,13 +36,35 @@ The broader demand map is
 `seo/at-home-kids-demand-competition-map-2026-07-29.md`. It shows material
 demand beyond age-4 STEM but separates the market into four page types:
 free activities, play-now family games, board-game buying, and standard-deck
-card games.
+card games. It does not represent the full KAL mission or supply current demand
+evidence for the Create, Explore, or Go Deeper lanes.
+
+The canonical promise is now to help a parent find something interesting that
+fits the child and the moment, then make it easy to start. At-home, free,
+low-prep, screen-free, and age-specific are constraints and filters. Age-4
+STEM remains the current firsthand-evidence wedge.
 
 No additional implementation is ready. Observe the released ramp article until
 its post-release recrawl and two finalized public-safe comparison points.
-`KAL-RES-004` is the next research candidate, not a page brief. It starts with
-the 9 true card-game phrases in the current register and may add at most 3
-bounded, nonduplicate discovery terms.
+`KAL-RES-004` is the next research candidate and the first adjacent validation
+of the Play lane, not a page brief or new site identity. It starts with the 9
+true card-game phrases in the current register and may add at most 3 bounded,
+nonduplicate discovery terms.
+
+## Engagement-Lane Rescore
+
+The scores below are `EDITORIAL_JUDGMENT`, not measured engagement or market
+size:
+
+- **Age-4 STEM make/experiment:** preserve as the current evidence wedge.
+- **Standard-deck card games:** run the next bounded research validation.
+- **Household/no-equipment games:** hold behind card-game validation.
+- **Broad indoor/rainy-day:** audit current overlap before any new page.
+- **Board-game buying:** hold for product access, firsthand use, current facts,
+  original evidence, and disclosure.
+- **Create, Explore, and Go Deeper:** retain as strategic lanes, but do not
+  prioritize from KAL-RES-003 because current demand/competition evidence is
+  unavailable.
 
 ## Waiting On User / Real-World Evidence
 
@@ -90,6 +112,8 @@ bounded, nonduplicate discovery terms.
 - `[create]` Do not expand into fine motor, rainy day, printable/PDF, local, or broad video clusters from this tiny GSC sample.
 - `[create]` Do not interpret the broad demand map as permission to add another
   indoor/rainy-day roundup. Audit current overlapping pages first.
+- `[create]` Do not interpret the broader engagement promise as permission to
+  publish generic ideas in an unresearched lane.
 - `[create]` Do not publish generic "best board games" content from secondary
   research. Firsthand use, original visuals, current product facts, testing
   criteria, and disclosure are mandatory.

@@ -17,6 +17,11 @@
 
 ## Recently Resolved
 
+- 2026-07-29: The user set the core positioning: Kid Activity Lab should help
+  parents find interesting things children can engage with. At-home, free, and
+  low-prep are constraints rather than the mission. Age-4 STEM remains the
+  evidence wedge, and standard-deck card games are the first adjacent research
+  lane.
 - 2026-07-09: User reported testing two activities and said they looked good. Structured notes are still needed.
 - 2026-07-29: Broad demand research resolved the binary STEM-versus-rainy-day
   question. The next validation candidate is standard-deck card games; broad

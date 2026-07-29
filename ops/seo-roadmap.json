@@ -475,7 +475,7 @@
     },
     {
       "id": "KAL-RES-004",
-      "title": "Validate a standard-deck card-game utility cluster",
+      "title": "Validate the Play lane through standard-deck card games",
       "kind": "research",
       "lane": "search-and-product-research",
       "impact": 4,
@@ -494,9 +494,111 @@
       ],
       "target_urls": [],
       "target_paths": [],
-      "success_signal": "A research-only decision pack reconciles rules and page ownership for 5 to 7 standard-deck games, audits parent followability and age/reading/player constraints, and promotes at most one implementation candidate without inventing play results.",
+      "success_signal": "A research-only decision pack reconciles rules and page ownership for 5 to 7 standard-deck games, audits the interest hook, age fit, agency, challenge, replayability, parent feasibility, reading load, and player constraints, and promotes at most one implementation candidate without inventing play results.",
       "human_gate": "Family access is not required to start the research-only decision pack. Before any implementation is promoted, confirm the frozen candidate games can be run and that original diagrams or photos can be produced. Research may reconcile public rules sources but may not claim a parent or child used, understood, enjoyed, or benefited from any game.",
-      "notes": "Planned by KAL-RES-003. Freeze exact paths, candidate games, and query set in a separate transaction before substantive work. Do not create a generic roundup or merge this action into KAL-RES-003."
+      "strategic_role": "This is the first adjacent validation of the broader Play lane. It tests whether KAL can reduce choice and setup effort for an interesting repeatable activity; it is not the site's identity or evidence for every game or engagement lane.",
+      "notes": "Planned by KAL-RES-003 and rescored by KAL-STR-001. Freeze exact paths, candidate games, and query set in a separate transaction before substantive work. Do not create a generic roundup or merge this action into another transaction."
+    },
+    {
+      "id": "KAL-STR-001",
+      "title": "Reframe KAL around interesting kid engagement",
+      "kind": "strategy",
+      "lane": "positioning-and-architecture",
+      "impact": 5,
+      "confidence": 5,
+      "learning_value": 4,
+      "effort": 2,
+      "risk": 2,
+      "status": "completed",
+      "selected_on": "2026-07-29",
+      "completed_on": "2026-07-29",
+      "frozen_base": "a0b4efe1e773960ae291bc448663a41c9ce9414c",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": false,
+      "required_evidence": [
+        "direct_user_positioning_decision",
+        "KAL-RES-003_demand_map",
+        "current_repository_strategy",
+        "current_content_model",
+        "current_roadmap"
+      ],
+      "target_urls": [],
+      "target_paths": [
+        "AGENTS.md",
+        "README.md",
+        "strategy/current-strategy.md",
+        "seo/content-model.md",
+        "decisions.md",
+        "reviews/kid-engagement-strategy-review-2026-07-29.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/needs-user.md",
+        "progress.md"
+      ],
+      "success_signal": "Canonical guidance defines KAL as a system for helping parents find interesting things children can engage with, makes at-home/free/low-prep constraints rather than the mission, establishes coherent content lanes and selection filters, rescores the KAL-RES-003 opportunities against the broader promise, and keeps KAL-RES-004 as one validation lane rather than the site's identity.",
+      "evidence_classification": "The user's positioning decision is direct human authority for strategy. KAL-RES-003 Semrush values remain TOOL_ESTIMATE, inspected pages remain SOURCE_BACKED, personas remain RESEARCH_HYPOTHESIS, and lane scoring remains EDITORIAL_JUDGMENT. Public-safe GSC rows remain MEASURED and complete current query rows remain UNKNOWN.",
+      "human_gate": "The user explicitly authorized the core-positioning change on 2026-07-29. This transaction does not authorize a brand/domain rename, navigation or site change, new page, affiliate link, product recommendation, external-account mutation, or any parent/child engagement claim.",
+      "decision": "Replace the overly narrow practical-at-home mission with an interesting-engagement promise. Preserve age-4 STEM as the current evidence-building wedge, treat home/free/prep as parent constraints, define make/play/create/explore/deeper-project lanes, and evaluate future work by interest hook, age fit, agency, challenge, replayability, and parent feasibility.",
+      "opportunity_rescore": [
+        {
+          "candidate": "age-4 STEM make-and-experiment wedge",
+          "strategic_fit": 5,
+          "evidence_readiness": 4,
+          "distinctiveness": 4,
+          "maintenance_fit": 4,
+          "decision": "Preserve as the current firsthand-evidence wedge and continue the existing observation and parent-test gates."
+        },
+        {
+          "candidate": "standard-deck card-game utility",
+          "strategic_fit": 5,
+          "evidence_readiness": 3,
+          "distinctiveness": 4,
+          "maintenance_fit": 4,
+          "decision": "Keep KAL-RES-004 as the first adjacent research validation; do not implement from demand evidence alone."
+        },
+        {
+          "candidate": "household or no-equipment family games",
+          "strategic_fit": 5,
+          "evidence_readiness": 3,
+          "distinctiveness": 3,
+          "maintenance_fit": 4,
+          "decision": "Retain behind KAL-RES-004 until the Play lane's rules, page ownership, and evidence model are validated."
+        },
+        {
+          "candidate": "broad indoor or rainy-day chooser",
+          "strategic_fit": 4,
+          "evidence_readiness": 3,
+          "distinctiveness": 2,
+          "maintenance_fit": 4,
+          "decision": "Do not add a page; audit and consolidate current overlapping ownership before any implementation."
+        },
+        {
+          "candidate": "board-game buying guidance",
+          "strategic_fit": 5,
+          "evidence_readiness": 1,
+          "distinctiveness": 3,
+          "maintenance_fit": 2,
+          "decision": "Hold until product access, firsthand use, current factual checks, original evidence, and disclosure are available."
+        },
+        {
+          "candidate": "create, explore, and deeper-project expansion",
+          "strategic_fit": 4,
+          "evidence_readiness": 1,
+          "distinctiveness": 3,
+          "maintenance_fit": 3,
+          "decision": "Keep as defined strategic lanes but do not prioritize or publish from KAL-RES-003, which did not research their demand or competition."
+        }
+      ],
+      "score_evidence_classification": "All opportunity scores are EDITORIAL_JUDGMENT from the direct user strategy decision and current KAL-RES-003 evidence. They are relative queue signals, not measured engagement, market size, or parent/child evidence.",
+      "implementation_state": "review-clean",
+      "result": "Reframed KAL around helping a parent find something interesting that fits the child and the moment, then making it easy to start. Defined five engagement lanes and a reusable selection model, made at-home/free/low-prep constraints rather than the mission, preserved age-4 STEM as the current evidence wedge, and rescored six current opportunity groups without changing the site. KAL-RES-004 remains the first adjacent Play-lane research validation. Independent review cycle 1 found one P3 product-fact freshness ambiguity; the correction required dated checks for every product fact, and cycle 2 returned PASS with no P0-P3 findings.",
+      "review_cycles": 2,
+      "review_outcome": "PASS",
+      "release_state": "push-only",
+      "notes": "Direct manual strategy transaction. Exact thirteen-path, push-only scope. Historical research artifacts remain unchanged evidence; no live-site or implementation work is included."
     }
   ]
 }
