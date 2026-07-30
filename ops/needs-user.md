@@ -14,6 +14,9 @@
    site later validates an age-specific buying-guide lane?
 5. Can you provide an original cardboard ramp photo or simple diagram for the
    currently ranking ramp article?
+6. Before a separate strategy or navigation transaction, does this
+   demand-backed parent-facing model match your mental model: Activities,
+   Games, Arts & Crafts, Science & Building, and Outdoor & Nature?
 
 ## Recently Resolved
 
@@ -27,6 +30,11 @@
   question. The next validation candidate is standard-deck card games; broad
   indoor/rainy-day expansion requires a consolidation audit, and commercial
   board-game guides remain firsthand-evidence-gated.
+- 2026-07-29: Bounded taxonomy research found no evidence that `Make`,
+  `Create`, `Explore`, or `Go Deeper` are established parent-facing standards.
+  It supports a more concrete editorial candidate, with age and moment handled
+  as routes or filters. Actual parent comprehension remains `UNKNOWN`, and
+  adoption remains a separate strategy/navigation decision.
 - 2026-07-09: Master requested indexing in Search Console for:
   - `https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html`
   - `https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html`

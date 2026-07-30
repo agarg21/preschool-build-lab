@@ -16,11 +16,13 @@ automation.
 4. Use the completed `KAL-RES-002` Semrush supplement as the current paid
    metric layer. It reinforces existing-page ownership and promotes no
    implementation.
-5. Treat `KAL-RES-003` as the current broader demand layer, not the whole KAL
-   universe. It found free activities, play-now family games, board-game
-   buying, and standard-deck card games; it did not research the full Create,
-   Explore, or Go Deeper lanes.
-6. Keep `KAL-RES-004` planned as the first adjacent validation of the Play
+5. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
+   an Activities umbrella with Games, Arts & Crafts, Science & Building, and
+   Outdoor & Nature as concrete browse categories. Actual parent comprehension
+   remains `UNKNOWN`. Age and moment constraints remain routes or filters;
+   pretend/story/music remain activity types; local outings and product
+   guidance remain separate systems.
+6. Keep `KAL-RES-004` planned as the first adjacent validation of the Games
    lane, not a change in site identity. It starts from
    the 9 true card-game queries in the current register, may add at most 3
    bounded discovery terms, and may validate 5 to 7 standard-deck games but
@@ -208,6 +210,39 @@ indexed.
 - No site, navigation, generator, page, product recommendation, affiliate,
   external-account, indexing, parent/child evidence, or deployment path is
   authorized by this strategy transaction.
+
+## KAL-RES-005 Demand-Led Taxonomy On 2026-07-29
+
+- The exact ten-path research transaction starts from `6bccf76`.
+- The logged-in Semrush US bulk interface refreshed 96 frozen exact queries
+  across eight taxonomy hypotheses; 95 have numeric volume, 1 is unavailable,
+  and 7 are explicit zero estimates.
+- The register has 72 rows estimated at 100 or more and 44 at 1,000 or more.
+  Close variants are not summed, and the balanced query set is not a market
+  share model.
+- Twelve explicitly incomplete public SERP samples and 23 inspected pages
+  separate broad activities, digital-ambiguous games, arts/crafts,
+  science/building, nature/scavenger hunts, local outings, and commercial
+  product guidance. Numeric overlap remains `UNKNOWN`.
+- Editorial candidate: Activities as the umbrella, with Games, Arts & Crafts,
+  Science & Building, and Outdoor & Nature as browse categories. Parent
+  comprehension remains `UNKNOWN`.
+- Age, location, time, setup, cost, mess, energy, player count, adult role,
+  and screen-free status remain routes or filters. Pretend/story/music/sensory
+  remain activity types; depth remains a format.
+- `Make`, `Create`, `Explore`, and `Go Deeper` are retained only as optional
+  internal dimensions, not recommended navigation labels.
+- `KAL-RES-004` remains the next eligible research action. Arts & Crafts is
+  the strongest later taxonomy candidate.
+- No canonical strategy, navigation, site, generator, page, product,
+  affiliate, indexing, external account, parent/child evidence, or deployment
+  path changed.
+- Independent reviewer Euclid
+  (`019fb09a-18ff-7e41-a3cc-eefd46e56841`) found two P2 evidence-boundary and
+  ownership-traceability issues in cycle 1. The correction bounded the
+  standardness conclusion, retained parent comprehension as `UNKNOWN`, and
+  added exact repository inventory evidence. Cycle 2 returned `PASS` with no
+  P0-P3 findings.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 

@@ -18,6 +18,72 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-07-29 Demand-Led Kid Engagement Taxonomy
+
+Action: `KAL-RES-005`
+
+State: review-clean
+
+Frozen base: `6bccf7635980e4200fbdc5655c7f7cb2ce36dd40`
+
+Scope: the exact ten data, research, review, backlog, roadmap, cycle,
+user-input, and progress paths declared for `KAL-RES-005` in
+`ops/seo-roadmap.json`.
+
+Boundaries:
+
+- refresh 96 frozen exact queries in the logged-in Semrush US interface;
+- preserve zero, `n/a`, complete-query `UNKNOWN`, and evidence classes;
+- sample at least 10 current representative SERPs and inspect at least 20
+  ranking pages;
+- test parent-facing taxonomy against current KAL ownership;
+- do not sum close variants into a market-size claim;
+- make no strategy, navigation, site, generator, page, product, affiliate,
+  external-account, indexing, parent/child evidence, or deployment change.
+
+Reviewer: Euclid
+(`019fb09a-18ff-7e41-a3cc-eefd46e56841`)
+
+Read-only status: confirmed. The reviewer changed no file, Git state, browser,
+external account, site, or deployment.
+
+Cycle 1: `FAIL`
+
+- `P2`: the pack overstated parent comprehension and category standardness
+  despite correctly retaining actual comprehension as `UNKNOWN`.
+- `P2`: the KAL ownership table lacked exact local-path and inventory evidence.
+- `P0`, `P1`, and `P3`: none.
+
+Checks passed for the 96-row register and every aggregate/median, 12 limited
+SERP samples, 23 unique inspected pages, seven persona hypotheses, exact scope,
+JSON, evidence boundaries, prohibited paths, no implementation, and
+`git diff --check`.
+
+Correction:
+
+- limited the standardness conclusion to the bounded review;
+- kept actual parent comprehension `UNKNOWN`;
+- reframed the result as one concrete editorial candidate rather than a
+  measured clear taxonomy;
+- added the inventory method, file and target counts, exact representative
+  local paths, and a boundary on negative ownership statements.
+
+Cycle 2: `PASS`
+
+- Both cycle-1 P2 findings are closed.
+- The bounded standardness conclusion, parent-comprehension `UNKNOWN`,
+  umbrella/category hierarchy, repository inventory method, counts, exact
+  paths, and negative-claim boundary are consistent.
+- All ten declared paths were reviewed against the frozen base.
+- The 96-row register, all medians, 12 limited SERP samples, 23 inspected
+  pages, seven persona hypotheses, exact scope, JSON, prohibited paths,
+  `git diff --check`, and untracked-file whitespace checks pass.
+- Read-only status is reconfirmed.
+
+Final findings: none (`P0`-`P3`).
+
+Final result: `PASS`
+
 ## 2026-07-29 Interesting Kid Engagement Strategy
 
 Action: `KAL-STR-001`

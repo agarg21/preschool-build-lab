@@ -2,6 +2,42 @@
 
 ## 2026-07-29
 
+### Demand-Led Kid Engagement Taxonomy
+
+- Registered `KAL-RES-005` from clean, aligned frozen base `6bccf76`.
+- Used the user's logged-in Semrush US Keyword Overview bulk interface to
+  refresh 96 exact queries across eight frozen taxonomy hypotheses; all rows
+  showed `Now`.
+- Preserved 95 numeric-volume rows, 1 `n/a` row, and 7 explicit zero rows. The
+  register contains 72 rows estimated at 100 or more and 44 at 1,000 or more;
+  close variants were not summed.
+- Sampled 12 explicitly incomplete representative SERPs and inspected 23
+  ranking pages. The provider did not expose complete Google result sets,
+  country, device, or fixed depth, so numeric overlap remains `UNKNOWN`.
+- Audited current KAL ownership and traced seven parent-job hypotheses to
+  query and page evidence.
+- Found no evidence in the bounded query/SERP review that `Make`, `Create`,
+  `Explore`, and `Go Deeper` are established parent-facing standards. Actual
+  parent comprehension remains `UNKNOWN`; the terms can remain internal
+  engagement lenses.
+- Recommended one concrete editorial candidate: Activities as the umbrella,
+  with Games, Arts & Crafts, Science & Building, and Outdoor & Nature as browse
+  categories.
+- Kept age, location, time, setup, cost, mess, energy, players, adult role, and
+  screen-free status as routes or filters. Kept local outings and product
+  guidance as separate future systems.
+- Preserved `KAL-RES-004` as the next research action and changed no canonical
+  strategy, navigation, site, generator, page, external account, indexing,
+  affiliate state, parent/child evidence, or deployment path.
+- Independent reviewer Euclid
+  (`019fb09a-18ff-7e41-a3cc-eefd46e56841`) returned `FAIL` in cycle 1 because
+  the pack overstated parent comprehension/standardness and did not trace the
+  KAL ownership audit to exact local inventory evidence.
+- The correction bounded the conclusion, retained comprehension as `UNKNOWN`,
+  clarified the umbrella/category hierarchy, and added inventory method,
+  counts, exact paths, and negative-claim boundaries.
+- Cycle 2 returned `PASS` with no P0-P3 findings.
+
 ### Interesting Kid Engagement Strategy
 
 - Registered `KAL-STR-001` from clean, aligned frozen base `a0b4efe`.

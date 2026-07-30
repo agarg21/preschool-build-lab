@@ -36,8 +36,18 @@ The broader demand map is
 `seo/at-home-kids-demand-competition-map-2026-07-29.md`. It shows material
 demand beyond age-4 STEM but separates the market into four page types:
 free activities, play-now family games, board-game buying, and standard-deck
-card games. It does not represent the full KAL mission or supply current demand
-evidence for the Create, Explore, or Go Deeper lanes.
+card games.
+
+The demand-led taxonomy pack is
+`seo/kid-engagement-demand-taxonomy-2026-07-29.md`. Its 96 refreshed Semrush
+rows, 12 limited representative SERP samples, 23 inspected pages, current KAL
+ownership audit, and seven source-traced parent-job hypotheses show that
+`Make`, `Create`, `Explore`, and `Go Deeper` are useful internal dimensions,
+while the bounded review found no evidence that they are established
+parent-facing standards. The smallest concrete editorial candidate is an
+Activities umbrella with Games, Arts & Crafts, Science & Building, and Outdoor
+& Nature as browse categories. Actual parent comprehension remains `UNKNOWN`.
+This is research only; canonical strategy and live navigation are unchanged.
 
 The canonical promise is now to help a parent find something interesting that
 fits the child and the moment, then make it easy to start. At-home, free,
@@ -47,24 +57,31 @@ STEM remains the current firsthand-evidence wedge.
 No additional implementation is ready. Observe the released ramp article until
 its post-release recrawl and two finalized public-safe comparison points.
 `KAL-RES-004` is the next research candidate and the first adjacent validation
-of the Play lane, not a page brief or new site identity. It starts with the 9
-true card-game phrases in the current register and may add at most 3 bounded,
-nonduplicate discovery terms.
+of the parent-facing Games lane, not a page brief or new site identity. It
+starts with the 9 true card-game phrases in the current register and may add at
+most 3 bounded, nonduplicate discovery terms. Arts & Crafts is the strongest
+future taxonomy-research candidate after Games.
 
-## Engagement-Lane Rescore
+## Demand-Led Taxonomy Rescore
 
 The scores below are `EDITORIAL_JUDGMENT`, not measured engagement or market
 size:
 
-- **Age-4 STEM make/experiment:** preserve as the current evidence wedge.
-- **Standard-deck card games:** run the next bounded research validation.
+- **Activities:** keep as the umbrella and age-led chooser, not another broad
+  page without an ownership audit.
+- **Science & Building:** preserve age-4 STEM as the current evidence wedge.
+- **Games:** run the standard-deck card-game validation next; qualify the
+  physical/family/card job because broad `games for kids` is digital-heavy.
+- **Arts & Crafts:** retain as the strongest later research candidate.
+- **Outdoor & Nature:** retain as a future research lane, separate from local
+  outings.
+- **Pretend, story, music, and sensory:** use as activity types or interest
+  lenses until a coherent parent-facing cluster is supported.
+- **Projects:** use depth as a format; do not use `Go Deeper` as navigation.
 - **Household/no-equipment games:** hold behind card-game validation.
 - **Broad indoor/rainy-day:** audit current overlap before any new page.
 - **Board-game buying:** hold for product access, firsthand use, current facts,
   original evidence, and disclosure.
-- **Create, Explore, and Go Deeper:** retain as strategic lanes, but do not
-  prioritize from KAL-RES-003 because current demand/competition evidence is
-  unavailable.
 
 ## Waiting On User / Real-World Evidence
 
@@ -114,6 +131,10 @@ size:
   indoor/rainy-day roundup. Audit current overlapping pages first.
 - `[create]` Do not interpret the broader engagement promise as permission to
   publish generic ideas in an unresearched lane.
+- `[architecture]` Do not implement the recommended taxonomy or change
+  navigation in `KAL-RES-005`; adoption requires a separate registered action.
+- `[architecture]` Do not create pages named `Make`, `Create`, `Explore`, or
+  `Go Deeper` from the old internal lanes.
 - `[create]` Do not publish generic "best board games" content from secondary
   research. Firsthand use, original visuals, current product facts, testing
   criteria, and disclosure are mandatory.
@@ -124,6 +145,16 @@ size:
 
 ## Done
 
+- 2026-07-29: `KAL-RES-005` refreshed 96 exact US queries across eight
+  taxonomy hypotheses, sampled 12 explicitly incomplete SERPs, inspected 23
+  pages, and audited current KAL ownership. Its concrete editorial candidate is
+  an Activities umbrella with Games, Arts & Crafts, Science & Building, and
+  Outdoor & Nature as browse categories. Actual parent comprehension remains
+  `UNKNOWN`. Age and moment constraints remain routes/filters;
+  pretend/story/music remain activity types; local outings and product guidance
+  remain separate evidence-heavy systems. No site or strategy implementation
+  occurred. Independent review cycle 2 returned `PASS` after closing two P2
+  evidence-boundary and ownership-traceability findings.
 - 2026-07-29: `KAL-RES-003` refreshed 60 frozen core queries and 20 bounded
   discovery terms in Semrush's US interface, sampled eight incomplete current
   SERPs, and inspected 18 ranking pages. It found four related but distinct

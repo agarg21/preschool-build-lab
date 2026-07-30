@@ -30,11 +30,12 @@ adds one optional source-backed height/car/surface comparison, preserves
 troubleshooting and page ownership, and removes unsupported tested, timing,
 universal child-capability, cleanup-duration, and safety-outcome language.
 
-The newest durable GSC snapshot collected 2026-07-28 has data through
-2026-07-26 and shows 72 impressions, 0 clicks, 61 discovered pages, and 7 of 7
+The newest durable GSC snapshot collected 2026-07-29 has data through
+2026-07-27 and shows 72 impressions, 0 clicks, 61 discovered pages, and 7 of 7
 configured priority URLs indexed. The cardboard ramp article has 24 page-level
 impressions at average position 16.58 and remains the strongest visible page.
-Complete current query rows remain unavailable, so the decision also relies on
+It is performance-identical to the prior snapshot. Complete current query rows
+remain unavailable, so the ramp decision also relies on
 historical ramp how-to query evidence, current source and SERP patterns, and a
 direct audit of the page's unsupported claims.
 
@@ -63,12 +64,29 @@ validation of the broader Play lane. The demand map did not research the full
 Create, Explore, or Go Deeper lanes. Complete current GSC query rows and
 numeric SERP overlap remain `UNKNOWN`.
 
-The `KAL-STR-001` relative rescore preserves age-4 STEM as the current evidence
-wedge, keeps standard-deck card games as the next research candidate, holds
-household/no-equipment games behind that validation, requires an ownership
-audit before another indoor/rainy-day page, and holds board-game buying until
-product access and firsthand evidence exist. These scores are
-`EDITORIAL_JUDGMENT`, not measured engagement or market size.
+`KAL-RES-005` tested the abstract engagement lanes against 96 current Semrush
+rows, 12 limited representative SERP samples, 23 inspected pages, and current
+KAL ownership. Its concrete editorial candidate is an Activities umbrella with
+Games, Arts & Crafts, Science & Building, and Outdoor & Nature as browse
+categories. The bounded review found no evidence that the old labels are
+established standards; actual parent comprehension remains `UNKNOWN`. Age and
+moment constraints remain routes/filters; pretend, story, music, and sensory
+play remain activity types; local outings and product guidance remain separate
+systems. The recommendation is `EDITORIAL_JUDGMENT`; canonical strategy and
+live navigation are unchanged.
+
+Standard-deck card games remain the next research candidate. Household and
+no-equipment games stay behind that validation; broad indoor/rainy-day needs
+an ownership audit; Arts & Crafts is the next taxonomy candidate after Games;
+board-game and kit guidance remain blocked on firsthand product evidence.
+
+Independent reviewer Euclid
+(`019fb09a-18ff-7e41-a3cc-eefd46e56841`) returned `FAIL` in cycle 1 with two
+P2 findings: parent comprehension/standardness was overstated, and the KAL
+ownership audit lacked exact repository evidence. The correction bounded the
+claim, retained comprehension as `UNKNOWN`, and added inventory counts,
+methods, exact paths, and negative-claim limits. Cycle 2 returned `PASS` with
+no P0-P3 findings.
 
 Independent reviewer Linnaeus
 (`019fad68-1c94-7552-b5c1-3c68beec0219`) returned `PASS` in cycle 2 after a
@@ -121,6 +139,12 @@ evidence-bounded lane research, not immediate implementation.
 
 ## Recently Completed
 
+- `KAL-RES-005` built a demand-led taxonomy decision pack from 96 exact
+  refreshed US queries, 12 explicitly incomplete SERP samples, 23 inspected
+  pages, seven source-traced parent-job hypotheses, and current KAL ownership.
+  It recommends concrete parent labels instead of `Make`, `Create`, `Explore`,
+  and `Go Deeper`, but changed no canonical strategy, navigation, site, or
+  generator.
 - Control Room completed the 2026-07-27 roadmap rescore as queue-level
   maintenance: advanced the next rescore window, kept `KAL-MON-001` as
   monitoring, kept `KAL-IDX-001` and `KAL-IMP-001` planned, and selected no

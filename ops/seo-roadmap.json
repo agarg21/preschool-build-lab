@@ -599,6 +599,61 @@
       "review_outcome": "PASS",
       "release_state": "push-only",
       "notes": "Direct manual strategy transaction. Exact thirteen-path, push-only scope. Historical research artifacts remain unchanged evidence; no live-site or implementation work is included."
+    },
+    {
+      "id": "KAL-RES-005",
+      "title": "Build a demand-led kid engagement taxonomy",
+      "kind": "research",
+      "lane": "search-and-product-research",
+      "impact": 5,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 5,
+      "risk": 2,
+      "status": "completed",
+      "selected_on": "2026-07-29",
+      "completed_on": "2026-07-29",
+      "frozen_base": "6bccf7635980e4200fbdc5655c7f7cb2ce36dd40",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": false,
+      "required_evidence": [
+        "direct_user_taxonomy_question",
+        "current_semrush_us_keyword_demand",
+        "KAL-RES-003_fresh_same_day_metrics",
+        "current_representative_serp_samples",
+        "representative_ranking_page_inspection",
+        "current_repository_architecture"
+      ],
+      "target_urls": [],
+      "target_paths": [
+        "data/kid-engagement-taxonomy-keywords-2026-07-29.csv",
+        "seo/kid-engagement-demand-taxonomy-2026-07-29.md",
+        "reviews/kid-engagement-demand-taxonomy-review-2026-07-29.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/needs-user.md",
+        "progress.md"
+      ],
+      "success_signal": "A research-only decision pack tests concrete parent-facing category language across 96 frozen exact queries, at least 10 current representative SERP samples, at least 20 inspected ranking pages, modifier demand, current KAL ownership, and evidence/maintenance fit, then recommends the smallest concrete editorial taxonomy candidate supported by current evidence without claiming measured parent comprehension.",
+      "evidence_classification": "Semrush US volume, KD, CPC, and intent are dated TOOL_ESTIMATE evidence. Reused exact KAL-RES-003 rows are same-day TOOL_ESTIMATE evidence and must retain source provenance. Current public SERPs and inspected pages are SOURCE_BACKED. Parent-job hypotheses are RESEARCH_HYPOTHESIS. Taxonomy, overlap, and architecture conclusions are EDITORIAL_JUDGMENT unless numeric overlap is directly observed. Public-safe GSC rows are MEASURED; complete current GSC queries remain UNKNOWN.",
+      "human_gate": "The user explicitly authorized demand-backed taxonomy research on 2026-07-29. This action may recommend parent-facing labels but may not change strategy, navigation, site pages, generators, external accounts, affiliate state, or indexing. It may not invent parent/child use, engagement, enjoyment, safety, learning, or product evidence.",
+      "observation_window": "Research only. Preserve KAL-IMP-001's observation gate. Any taxonomy adoption, navigation change, page creation, consolidation, or KAL-RES-004 implementation requires a separate registered transaction.",
+      "decision": "Test whether parents search by umbrella activities, concrete content types, situations, constraints, interests, or outcomes; distinguish Activities, Games, Arts and Crafts, Science and Building, Pretend and Story, Outdoor and Outings, and Projects or Kits; and decide which labels belong in navigation, SEO clusters, filters, or internal editorial guidance.",
+      "research_cap": {
+        "frozen_exact_queries": 96,
+        "minimum_representative_serps": 10,
+        "minimum_inspected_ranking_pages": 20,
+        "minimum_parent_job_hypotheses": 5
+      },
+      "implementation_state": "review-clean",
+      "result": "Refreshed 96 exact US queries, sampled 12 explicitly incomplete public SERPs, inspected 23 ranking pages, traced seven parent-job hypotheses, and audited current KAL ownership. The bounded research found no evidence that Make, Create, Explore, and Go Deeper are established parent-facing standards; actual parent comprehension remains UNKNOWN. The concrete editorial candidate is Activities as an umbrella with Games, Arts & Crafts, Science & Building, and Outdoor & Nature as browse categories. Age and moment constraints remain routes or filters; local outings and product guidance remain separate systems. No strategy, navigation, site, generator, page, external-account, indexing, affiliate, parent/child evidence, or deployment path changed. Independent review cycle 1 found two P2 evidence-boundary and ownership-traceability issues; the correction closed both and cycle 2 returned PASS with no P0-P3 findings.",
+      "review_cycles": 2,
+      "review_outcome": "PASS",
+      "release_state": "push-only",
+      "notes": "Direct manual research authorization. Exact ten-path, research-only, push-only transaction. Reused current exact KAL-RES-003 metrics where applicable and refreshed all new queries in the user's logged-in Semrush US interface. AGENTS.md, README.md, strategy/current-strategy.md, seo/content-model.md, decisions.md, site/**, scripts/**, workflows, snapshots, and external accounts were not edited."
     }
   ]
 }
