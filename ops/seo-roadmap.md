@@ -22,11 +22,10 @@ automation.
    remains `UNKNOWN`. Age and moment constraints remain routes or filters;
    pretend/story/music remain activity types; local outings and product
    guidance remain separate systems.
-6. Keep `KAL-RES-004` planned as the first adjacent validation of the Games
-   lane, not a change in site identity. It starts from
-   the 9 true card-game queries in the current register, may add at most 3
-   bounded discovery terms, and may validate 5 to 7 standard-deck games but
-   may not create a page or invent play evidence.
+6. Use completed `KAL-RES-004` as the first adjacent validation of the Games
+   lane. It supports one five-game chooser but no public implementation until
+   family access, structured observations, and original diagrams/photos exist.
+   Snap and Slapjack remain deferred.
 
 The authenticated Page indexing review collected 2026-07-18 is normalized in
 `ops/gsc-indexing-review-2026-07-18.md`. Google's report was last updated
@@ -243,6 +242,35 @@ indexed.
   standardness conclusion, retained parent comprehension as `UNKNOWN`, and
   added exact repository inventory evidence. Cycle 2 returned `PASS` with no
   P0-P3 findings.
+
+## KAL-RES-004 Standard-Deck Decision On 2026-07-31
+
+- The exact eleven-path research transaction starts from `167efac`.
+- The logged-in Semrush US bulk interface refreshed 12 frozen exact queries;
+  all showed `Now`. Eleven have numeric volume and one is unavailable.
+- `family card games` is estimated at 5,400/KD 21, `card games for kids` at
+  4,400/KD 19, and `easy card games for kids` at 1,000/KD 18. The exact
+  `standard deck card games for kids` volume is `n/a`, not zero.
+- Eight limited representative SERP samples, 11 ranking-page inspections, and
+  14 Bicycle/Pagat rule-page inspections expose a parent-choice gap around
+  readiness, player count, pace, conflict, setup, variant selection, and
+  rescue options. Numeric SERP overlap remains `UNKNOWN`.
+- Seven games were reconciled. Go Fish, Concentration, finite short-form War,
+  Old Maid, and simple Crazy Eights form the only future page candidate. Snap
+  and Slapjack are deferred pending direct pace, dispute, and contact evidence.
+- One chooser should own the broad informational job; no individual game or
+  age pages are promoted.
+- Public implementation is blocked until the family runs all five setups,
+  records structured observations, and produces original card-layout diagrams
+  or photos.
+- `KAL-IMP-001` keeps its separate observation gate. No site, canonical
+  strategy, navigation, generator, sitemap, indexing, product, affiliate,
+  external-account, parent/child evidence, or deployment path changed.
+- Independent reviewer Peirce
+  (`019fb787-826c-7290-a311-dd90bb05d823`) returned `FAIL` in cycle 1 because
+  the planned page model lacked an explicit parent boundary/stop-reset section
+  and the Go Fish note mislabeled Pagat's Authors variant. Both were corrected;
+  cycle 2 returned `PASS` with no P0-P3 findings.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 

@@ -75,10 +75,27 @@ play remain activity types; local outings and product guidance remain separate
 systems. The recommendation is `EDITORIAL_JUDGMENT`; canonical strategy and
 live navigation are unchanged.
 
-Standard-deck card games remain the next research candidate. Household and
-no-equipment games stay behind that validation; broad indoor/rainy-day needs
-an ownership audit; Arts & Crafts is the next taxonomy candidate after Games;
-board-game and kit guidance remain blocked on firsthand product evidence.
+`KAL-RES-004` completed the standard-deck card-game validation with 12 exact
+current Semrush rows, eight limited representative SERP samples, 11 inspected
+ranking pages, 14 reconciled Bicycle/Pagat rules pages, seven game audits, and
+seven source-traced parent-job hypotheses. It supports one future five-game
+chooser for Go Fish, Concentration, finite short-form War, Old Maid, and simple
+Crazy Eights. Snap and Slapjack are deferred because pace, disputes, and
+contact require direct observation. The candidate remains blocked on family
+access, structured observations, and original diagrams/photos; no site or
+canonical strategy changed.
+
+Household and no-equipment games stay behind that evidence gate; broad
+indoor/rainy-day needs an ownership audit; Arts & Crafts is the next taxonomy
+research candidate after Games; board-game and kit guidance remain blocked on
+firsthand product evidence.
+
+Independent reviewer Peirce
+(`019fb787-826c-7290-a311-dd90bb05d823`) returned `FAIL` in cycle 1 with one
+P2 missing parent-boundary/stop-reset section and one P3 imprecise Go Fish
+variant label. The correction added direct-observation and human-review gates
+without a safety guarantee and accurately named Pagat's Authors variant.
+Cycle 2 returned `PASS` with no P0-P3 findings.
 
 Independent reviewer Euclid
 (`019fb09a-18ff-7e41-a3cc-eefd46e56841`) returned `FAIL` in cycle 1 with two
@@ -131,14 +148,22 @@ evidence-bounded lane research, not immediate implementation.
 - If possible, provide one original photo or simple diagram for the cardboard ramp article or the strongest tested age-4 STEM activity.
 - After both pages have impressions, compare Search Console queries/positions to see whether the hub owns broad `stem activities for 4 year olds` queries and the pack earns original/test-pack or long-tail activity clicks.
 - Optional: create a Semrush Project for `kidactivitylab.com` if technical Site Audit or Position Tracking is desired through Semrush.
-- For a future standard-deck card-game pack, confirm whether the family can run
-  a frozen set of 5 to 7 games and create original card-layout diagrams or
-  photos.
+- For the future standard-deck card-game chooser, confirm whether the family
+  can run Go Fish, Concentration, finite short-form War, Old Maid, and simple
+  Crazy Eights, record structured observations, and create original
+  card-layout diagrams or photos.
 - For any later board-game buying guide, identify games already owned and
   available for real use. Secondary research alone is not enough.
 
 ## Recently Completed
 
+- `KAL-RES-004` refreshed 12 exact card-game queries, sampled eight limited
+  representative SERPs, inspected 25 ranking/rules pages, reconciled seven
+  standard-deck games, and promoted one five-game chooser behind family-use
+  and original-visual gates. It changed no site, strategy, navigation,
+  generator, page, product, indexing, external account, or parent/child
+  evidence. Independent review cycle 2 returned `PASS` after closing one P2
+  and one P3.
 - `KAL-RES-005` built a demand-led taxonomy decision pack from 96 exact
   refreshed US queries, 12 explicitly incomplete SERP samples, 23 inspected
   pages, seven source-traced parent-job hypotheses, and current KAL ownership.
@@ -248,15 +273,13 @@ evidence-bounded lane research, not immediate implementation.
 
 ## Next Transaction
 
-No implementation transaction is selected. `KAL-RES-004` is the next eligible
-research candidate and the first adjacent validation of the Play lane: use the
-9 true card-game queries in the current register, optionally discover at most
-3 nonduplicate terms, reconcile authoritative rules and page ownership for 5
-to 7 standard-deck card games, and audit interest hook, age fit, agency,
-challenge, replayability, parent feasibility, reading load, and player
-constraints. It may promote at most one candidate in a separate transaction.
-Family access is not required to start research, but no page may be implemented
-until the family-access and original-diagram gate is satisfied.
+No implementation transaction is selected. The next gate is the user's direct
+confirmation that the family can run the five frozen games and produce
+original diagrams or photos. After confirmation, register one exact-path
+field-test preparation transaction; only completed structured observations
+may unlock the public chooser. If that gate stays unresolved, Arts & Crafts is
+the next separate research candidate. Do not convert sensor cadence into a
+page quota.
 
 Continue waiting for the next finalized GSC snapshot and the `KAL-IMP-001`
 observation gate. The broad demand map does not authorize another roundup,

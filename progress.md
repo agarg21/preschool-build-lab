@@ -1,5 +1,39 @@
 # Progress Log
 
+## 2026-07-31
+
+### Standard-Deck Card-Game Decision Pack
+
+- Registered `KAL-RES-004` from clean, aligned frozen base `167efac`.
+- Validated the incoming 2026-07-30 public-safe GSC snapshot and its 13-test
+  suite before research. It shows 91 impressions, 0 clicks, 61 discovered
+  pages, and 7 of 7 priority URLs indexed; complete queries remain unavailable.
+- Used the user's logged-in Semrush US bulk interface to refresh 12 frozen
+  exact card-game queries; all rows showed `Now`.
+- Preserved 11 numeric-volume rows and one unavailable row without summing
+  close variants. High-signal estimates are `family card games` at 5,400/KD
+  21, `card games for kids` at 4,400/KD 19, and `easy card games for kids` at
+  1,000/KD 18.
+- Sampled eight explicitly limited representative SERPs and inspected 11
+  ranking pages plus 14 Bicycle/Pagat rule pages.
+- Reconciled Go Fish, Old Maid, Crazy Eights, War, Snap, Concentration, and
+  Slapjack across setup, players, publisher age labels, reading, rank/suit
+  load, pace/contact, variants, rescue options, and unknown KAL outcomes.
+- Promoted one future five-game chooser for Go Fish, Concentration, finite
+  short-form War, Old Maid, and simple Crazy Eights. Snap and Slapjack are
+  deferred pending direct evidence about pace, disputes, and contact.
+- Kept implementation blocked until the family runs all five setups, records
+  structured observations, and creates original card-layout diagrams or
+  photos.
+- Independent reviewer Peirce
+  (`019fb787-826c-7290-a311-dd90bb05d823`) returned `FAIL` in cycle 1 with one
+  P2 missing parent-boundary/stop-reset section and one P3 imprecise Authors
+  variant label. The correction closed both; cycle 2 returned `PASS` with no
+  P0-P3 findings.
+- Changed no site, canonical strategy, navigation, generator, sitemap,
+  indexing, product, affiliate, external account, parent/child evidence, or
+  deployment path.
+
 ## 2026-07-29
 
 ### Demand-Led Kid Engagement Taxonomy

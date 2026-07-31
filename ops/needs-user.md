@@ -6,10 +6,11 @@
    `templates/parent-test-evidence-intake.md` for each and validate it with
    `python3 ops/validate_parent_test_evidence.py <path>`.
 2. Can you capture at least one photo or simple diagram for the winning activity?
-3. Before any card-game page is implemented, can the family run a frozen set
-   of 5 to 7 standard-deck card games and create original card-layout diagrams
-   or photos for the strongest ones? This does not block the research-only
-   decision pack.
+3. Before the five-game card chooser is implemented, can the family run Go
+   Fish, Concentration, finite short-form War, Old Maid, and simple Crazy
+   Eights, record structured observations for each, and create original
+   card-layout diagrams or photos? `KAL-RES-004` is complete; this is now the
+   implementation gate.
 4. Which board games are already owned and available for firsthand use if the
    site later validates an age-specific buying-guide lane?
 5. Can you provide an original cardboard ramp photo or simple diagram for the
@@ -20,6 +21,10 @@
 
 ## Recently Resolved
 
+- 2026-07-31: Standard-deck card-game research supports one future five-game
+  chooser and no seven-game roundup or individual game-page expansion. Snap
+  and Slapjack are deferred pending direct evidence about pace, disputes, and
+  contact. No public implementation is eligible yet.
 - 2026-07-29: The user set the core positioning: Kid Activity Lab should help
   parents find interesting things children can engage with. At-home, free, and
   low-prep are constraints rather than the mission. Age-4 STEM remains the

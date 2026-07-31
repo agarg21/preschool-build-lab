@@ -1,0 +1,13 @@
+source_set,query,intent,us_volume,kd_percent,cpc_usd,updated,source,database,metric_month,collected_on,evidence_class
+retained,card games for kids,Informational,4400,19,0.12,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE
+retained,family card games,Informational,5400,21,0.16,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE
+retained,best card games for kids,Commercial,390,8,0.00,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE
+retained,card games for 4 year olds,Informational,320,6,0.25,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE
+retained,card games for 5 year olds,Informational;Commercial,390,7,0.24,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE
+retained,easy card games for kids,Informational,1000,18,0.00,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE
+retained,2 player card games for kids,Informational,320,24,0.00,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE
+retained,fun card games for kids,Informational;Commercial,320,19,0.00,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE
+retained,card games for kids with a deck of cards,Informational,260,14,0.00,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE
+bounded-discovery,standard deck card games for kids,Informational,n/a,23,n/a,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE
+bounded-discovery,card games for 3 year olds,Informational,210,7,0.21,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE
+bounded-discovery,card games for 6 year olds,Informational,170,18,0.15,Now,Semrush Keyword Overview bulk refresh,United States,July 2026,2026-07-31,TOOL_ESTIMATE

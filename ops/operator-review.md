@@ -18,6 +18,78 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-07-31 Standard-Deck Card-Game Decision Pack
+
+Action: `KAL-RES-004`
+
+State: review-clean
+
+Frozen base: `167efacbaad4db9fc36071abced39458b9fd3857`
+
+Scope: the exact eleven data, research, review, backlog, roadmap, cycle,
+user-input, and progress paths declared for `KAL-RES-004` in
+`ops/seo-roadmap.json`.
+
+Boundaries:
+
+- refresh the 12 frozen exact queries in the logged-in Semrush US interface;
+- preserve numeric, `n/a`, complete-query `UNKNOWN`, and evidence classes;
+- sample at least eight current representative SERPs and inspect at least 18
+  ranking and rules pages;
+- reconcile seven standard-deck games and source-trace at least five
+  parent-job hypotheses;
+- promote at most one separately gated candidate;
+- make no strategy, navigation, site, generator, page, product, affiliate,
+  external-account, indexing, parent/child evidence, or deployment change.
+
+Preliminary QA:
+
+- keyword CSV parses with 12 unique rows, 11 numeric volumes, 1 unavailable
+  volume, and all rows updated `Now`;
+- candidate CSV parses with 7 unique games and all KAL play evidence
+  `UNKNOWN`;
+- median numeric volume 320 and median KD 18;
+- strict roadmap JSON, duplicate-key, unique-action-ID, and registered
+  eleven-path checks pass;
+- independent review, exact-scope diff, prohibited-path, claim scan, and
+  `git diff --check` are pending final evidence.
+
+Reviewer: Peirce
+(`019fb787-826c-7290-a311-dd90bb05d823`)
+
+Read-only status: confirmed. The reviewer changed no file, Git state, browser,
+external account, site, or deployment.
+
+Cycle 1: `FAIL`
+
+- `P0`-`P1`: none.
+- `P2`: the planned page model lacked an explicit parent safety, supervision,
+  adult-role, and stop/reset section.
+- `P3`: the Go Fish reconciliation mislabeled Pagat's fully dealt Authors
+  variant as a general multi-player version.
+
+Checks for exact scope, keyword and candidate CSVs, medians, SERP/ranking/rule
+records, personas, architecture, human gate, and `git diff --check` passed.
+
+Correction:
+
+- added a planned parent-boundary and stop/reset section gated on direct
+  observation and human review, with no safety or frustration guarantee;
+- named Pagat's fully dealt Go Fish variant accurately as Authors.
+
+Cycle 2: `PASS`
+
+- The parent-boundary P2 and Authors-variant P3 are closed.
+- Exact eleven-path scope, frozen-base alignment, strict roadmap JSON,
+  keyword/candidate CSV integrity, medians, source fields, SERP/ranking/rule
+  records, personas, ownership, architecture, human gate, claim scan,
+  `git diff --check`, and untracked whitespace pass.
+- Read-only status is reconfirmed.
+
+Final findings: none (`P0`-`P3`).
+
+Final result: `PASS`
+
 ## 2026-07-29 Demand-Led Kid Engagement Taxonomy
 
 Action: `KAL-RES-005`

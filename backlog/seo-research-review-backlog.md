@@ -49,6 +49,16 @@ Activities umbrella with Games, Arts & Crafts, Science & Building, and Outdoor
 & Nature as browse categories. Actual parent comprehension remains `UNKNOWN`.
 This is research only; canonical strategy and live navigation are unchanged.
 
+The standard-deck decision pack is
+`seo/standard-deck-card-game-decision-pack-2026-07-31.md`. Its 12 exact
+Semrush rows, eight limited representative SERP samples, 11 ranking-page
+inspections, 14 reconciled Bicycle/Pagat rule pages, seven game audits, and
+seven source-traced parent-job hypotheses support one bounded future
+candidate: a five-game chooser for Go Fish, Concentration, finite short-form
+War, Old Maid, and simple Crazy Eights. Snap and Slapjack are deferred because
+pace, disputes, and contact require direct observation. This is research only;
+no page, navigation, or strategy implementation occurred.
+
 The canonical promise is now to help a parent find something interesting that
 fits the child and the moment, then make it easy to start. At-home, free,
 low-prep, screen-free, and age-specific are constraints and filters. Age-4
@@ -56,11 +66,12 @@ STEM remains the current firsthand-evidence wedge.
 
 No additional implementation is ready. Observe the released ramp article until
 its post-release recrawl and two finalized public-safe comparison points.
-`KAL-RES-004` is the next research candidate and the first adjacent validation
-of the parent-facing Games lane, not a page brief or new site identity. It
-starts with the 9 true card-game phrases in the current register and may add at
-most 3 bounded, nonduplicate discovery terms. Arts & Crafts is the strongest
-future taxonomy-research candidate after Games.
+`KAL-RES-004` completed the first adjacent validation of the parent-facing
+Games lane. The five-game chooser is the only promoted implementation
+candidate, but it is not eligible until the family-access, structured
+observation, and original-visual gates are satisfied. Arts & Crafts is the
+strongest future taxonomy-research candidate after the user resolves that
+gate.
 
 ## Demand-Led Taxonomy Rescore
 
@@ -70,8 +81,9 @@ size:
 - **Activities:** keep as the umbrella and age-led chooser, not another broad
   page without an ownership audit.
 - **Science & Building:** preserve age-4 STEM as the current evidence wedge.
-- **Games:** run the standard-deck card-game validation next; qualify the
-  physical/family/card job because broad `games for kids` is digital-heavy.
+- **Games:** the standard-deck decision pack supports one five-game chooser
+  behind direct-use and original-visual gates; broad `games for kids` remains
+  digital-heavy.
 - **Arts & Crafts:** retain as the strongest later research candidate.
 - **Outdoor & Nature:** retain as a future research lane, separate from local
   outings.
@@ -87,8 +99,9 @@ size:
 
 - Share which two original age-4 STEM activities were tested and capture setup time, engagement time, kid quotes, confusion points, mess, what changed, and repeatability.
 - Capture at least one original photo or simple diagram for the winning activity or cardboard ramp article.
-- Confirm whether the family can run a frozen set of 5 to 7 standard-deck card
-  games and create original card-layout diagrams or photos.
+- Confirm whether the family can run Go Fish, Concentration, short-form War,
+  Old Maid, and simple Crazy Eights, then create original card-layout diagrams
+  or photos and structured notes for each.
 - Inventory board games already owned before considering an age-specific
   buying guide. Product recommendations require real access and use.
 
@@ -117,6 +130,10 @@ size:
 - `[monitor]` The 2026-07-29 broader Semrush register contains 80 unique
   queries: 75 numeric-volume rows, 5 unavailable rows, and 6 explicit zero
   rows. Close variants are not summed.
+- `[monitor]` The 2026-07-31 standard-deck register contains 12 unique
+  queries: 11 numeric-volume rows and 1 unavailable row. `family card games`
+  is estimated at 5,400/KD 21, `card games for kids` at 4,400/KD 19, and
+  `easy card games for kids` at 1,000/KD 18.
 - `[monitor]` Broad parent demand is materially larger than the original
   age-4 STEM phrase set. High-signal estimates include `rainy day activities
   for kids` at 60,500/KD 22, `best family board games` at 49,500/KD 46,
@@ -138,13 +155,23 @@ size:
 - `[create]` Do not publish generic "best board games" content from secondary
   research. Firsthand use, original visuals, current product facts, testing
   criteria, and disclosure are mandatory.
-- `[create]` Do not publish a card-game pack until rule variants are reconciled
-  and family access plus original diagrams are confirmed.
+- `[create]` Do not publish the five-game card-game chooser until all five
+  frozen setups are run, structured observations exist, and original diagrams
+  or photos are available.
 - `[create]` Do not create standalone pages for the individual original age-4 STEM activities until at least two have parent-tested evidence and one original visual or diagram.
 - `[monetization]` Do not add ads, affiliate links, or products until the site has stronger useful content and trust.
 
 ## Done
 
+- 2026-07-31: `KAL-RES-004` refreshed 12 exact US card-game queries, sampled
+  eight limited representative SERPs, inspected 11 ranking pages and 14
+  Bicycle/Pagat rules pages, reconciled seven games, and traced seven
+  parent-job hypotheses. It promoted one future five-game chooser behind
+  family-access, structured-observation, and original-visual gates. Snap and
+  Slapjack are deferred. No site, strategy, navigation, generator, page,
+  product, external-account, indexing, or parent/child evidence changed.
+  Independent review cycle 2 returned `PASS` after closing one P2
+  parent-boundary gap and one P3 rules-label issue.
 - 2026-07-29: `KAL-RES-005` refreshed 96 exact US queries across eight
   taxonomy hypotheses, sampled 12 explicitly incomplete SERPs, inspected 23
   pages, and audited current KAL ownership. Its concrete editorial candidate is
