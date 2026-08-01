@@ -2,7 +2,7 @@
 
 State: reusable operating protocol
 
-Last updated: 2026-07-28
+Last updated: 2026-08-01
 
 Use this protocol before creating or materially changing an indexable activity,
 age, collection, material, card, or parent-guide page. Search research is
@@ -18,12 +18,18 @@ durable edge is a calm activity-running product:
 - fast parent setup and read-aloud kid steps;
 - concrete mess, supervision, stop, and rescue boundaries;
 - useful default routes for common parent constraints;
-- validated parent-test observations and original visuals when they exist;
+- original KAL synthesis or diagrams and validated observations when they
+  genuinely exist;
 - explicit unknowns when they do not.
 
 Desk research may improve structure, instructions, sourcing, and decision
 support. It may not create a parent-tested claim, child quote, engagement
 result, safety finding, photo, or firsthand observation.
+
+Family testing is not an assumed project input. A non-product activity or game
+page may be promoted from research alone when its factual guidance is
+source-backed, its KAL contribution is original, its untested status is clear,
+and every parent/child outcome remains `UNKNOWN`.
 
 ## Required Inputs
 
@@ -40,7 +46,7 @@ Optional:
   the project's explicit budget authorization.
 - Protected GSC query evidence through its approved private workflow.
 - Parent/community discussions as qualitative question discovery only.
-- Validated parent-test intake supplied by the user.
+- Validated parent-test intake, only if it independently becomes available.
 
 Mark unavailable evidence `UNKNOWN`. Do not infer query intent from public-safe
 page rows alone, treat unavailable metrics as zero, or sum overlapping keyword
@@ -59,7 +65,8 @@ variants as unique demand.
 
 `VALIDATED_PARENT_TEST` is a subtype of `MEASURED`. It exists only after a real
 intake passes `ops/validate_parent_test_evidence.py` and receives separate
-content review.
+content review. Its absence does not block a research-backed non-product page;
+it blocks only tested-status and outcome claims.
 
 ## Workflow
 
@@ -206,7 +213,9 @@ compress, merge, move, replace, or remove.
 - **Section/module:** useful constraint with blended SERPs or modest demand.
 - **Filter/helper:** valuable refinement without evidence of standalone intent.
 - **Noindex/support:** useful browsing surface that lacks unique search value.
-- **Defer:** evidence, trust, testing, visual, or freshness burden is unresolved.
+- **Defer:** evidence, trust, visual, originality, or freshness burden is
+  unresolved. Missing family testing alone is not a defer reason for a
+  research-backed non-product page.
 
 A query modifier and a persona do not automatically deserve an indexable URL.
 
@@ -224,6 +233,29 @@ Prefer one existing evidence-bearing page. Define:
 - release invariant and measurement plan.
 
 Research-only transactions do not edit `site/**` or generator paths.
+
+### Research-Backed Publication Gate
+
+Before promoting a non-product page without firsthand testing, verify all of
+the following:
+
+- factual rules, materials, and setup statements trace to current named
+  sources within their limits;
+- KAL adds original synthesis, a chooser, troubleshooting, read-aloud flow, or
+  diagrams rather than paraphrasing one source;
+- source facts and editorial variant/fit choices are visibly distinguishable;
+- the page states that it is research-backed and not family-tested by KAL when
+  a reasonable reader could infer firsthand use;
+- timing, comprehension, engagement, enjoyment, learning, repeatability,
+  frustration, mess, and safety outcomes remain `UNKNOWN`;
+- supervision, choking, contact, and stop guidance is conservative and does
+  not claim that the setup is safe in practice;
+- persona/every-section review, source checks, accessibility checks, and native
+  QA pass.
+
+Product reviews, comparative buying recommendations, tested-status claims, and
+outcome claims do not use this gate. They still require appropriate firsthand
+evidence.
 
 ## Required Decision-Pack Output
 

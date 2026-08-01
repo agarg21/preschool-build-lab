@@ -21,149 +21,73 @@ and release verification.
 Kid Activity Lab's core promise is now to help a parent find something
 interesting that fits the child and the moment, then make it easy to start.
 At-home, free, low-prep, screen-free, and age-specific are constraints and
-filters rather than the mission. Age-4 STEM remains the current
-firsthand-evidence wedge.
+filters rather than the mission. Age-4 STEM remains the strongest existing
+cluster.
 
-`KAL-IMP-001` is released and production-verified. The
-existing cardboard ramp article now keeps the immediate no-cut build answer,
-adds one optional source-backed height/car/surface comparison, preserves
-troubleshooting and page ownership, and removes unsupported tested, timing,
-universal child-capability, cleanup-duration, and safety-outcome language.
+The user stated on 2026-08-01 that ongoing family testing is unavailable. The
+project will rely on research without claiming that a parent or child used,
+understood, enjoyed, learned from, safely completed, or repeated an activity.
+Research-backed non-product pages may proceed when they reconcile current
+sources, add original KAL synthesis or diagrams, disclose untested status when
+it could be ambiguous, preserve outcome fields as `UNKNOWN`, and pass native QA
+plus independent persona/every-section review. Product reviews and tested
+status remain blocked without actual firsthand evidence.
 
-The newest durable GSC snapshot collected 2026-07-29 has data through
-2026-07-27 and shows 72 impressions, 0 clicks, 61 discovered pages, and 7 of 7
-configured priority URLs indexed. The cardboard ramp article has 24 page-level
-impressions at average position 16.58 and remains the strongest visible page.
-It is performance-identical to the prior snapshot. Complete current query rows
-remain unavailable, so the ramp decision also relies on
-historical ramp how-to query evidence, current source and SERP patterns, and a
-direct audit of the page's unsupported claims.
+`KAL-RES-004` is complete. Its 12 current Semrush rows, eight limited SERP
+samples, 11 ranking-page inspections, 14 Bicycle/Pagat rules inspections,
+seven game audits, and seven persona hypotheses support one future chooser for
+Go Fish, Concentration, finite short-form War, Old Maid, and simple Crazy
+Eights. `KAL-IMP-002` is the next eligible separate transaction. Snap and
+Slapjack remain out of scope because the completed research did not resolve
+their pace, dispute, and contact risks.
 
-The decision pack retains 17 exact query variants, five explicitly incomplete
-SERP samples, five source-traced parent-job hypotheses, an eight-page inventory,
-and every-section audits for the three implementation candidates. Numeric SERP
-overlap is `UNKNOWN`; persona hypotheses do not count as parent-test evidence.
-The cluster, SERP, source, persona, and page research is current. `KAL-RES-002`
-also refreshed the same 17 queries in Semrush's US bulk interface: seven
-returned numeric volume, ten returned `n/a` volume, and all returned intent and
-KD. These values are `TOOL_ESTIMATE`, while complete current GSC query rows
-remain `UNKNOWN`.
+The newest durable GSC snapshot was collected 2026-07-31 with finalized data
+through 2026-07-29. It and the prior point both show 91 impressions and 0
+clicks; average position moved from 32.23 to 33.24. The cardboard ramp article
+moved from 30 impressions at position 16.93 to 31 at 17.32. Sitemap discovery
+remains 61 pages and priority indexing remains 7 of 7. Complete query rows are
+unavailable, so the snapshot is healthy monitoring context and does not select
+another content edit.
 
-`KAL-RES-003` broadened the demand universe on 2026-07-29 without changing the
-site. Semrush refreshed 60 frozen core queries and 20 bounded discovery terms
-in the US database. The retained set has 75 numeric-volume rows, 5 unavailable
-rows, and 6 explicit zero rows; 54 rows are estimated at 100 or more and 24 at
-1,000 or more. Close variants are not summed.
-
-Eight incomplete representative SERP samples and 18 ranking-page inspections
-show four distinct jobs within the demand map: free activities, play-now family
-games, board-game buying, and standard-deck card games. Broad demand is real,
-but commercial board-game recommendations require firsthand product use and
-original evidence. Standard-deck card games are the strongest adjacent
-validation of the broader Play lane. The demand map did not research the full
-Create, Explore, or Go Deeper lanes. Complete current GSC query rows and
-numeric SERP overlap remain `UNKNOWN`.
-
-`KAL-RES-005` tested the abstract engagement lanes against 96 current Semrush
-rows, 12 limited representative SERP samples, 23 inspected pages, and current
-KAL ownership. Its concrete editorial candidate is an Activities umbrella with
-Games, Arts & Crafts, Science & Building, and Outdoor & Nature as browse
-categories. The bounded review found no evidence that the old labels are
-established standards; actual parent comprehension remains `UNKNOWN`. Age and
-moment constraints remain routes/filters; pretend, story, music, and sensory
-play remain activity types; local outings and product guidance remain separate
-systems. The recommendation is `EDITORIAL_JUDGMENT`; canonical strategy and
-live navigation are unchanged.
-
-`KAL-RES-004` completed the standard-deck card-game validation with 12 exact
-current Semrush rows, eight limited representative SERP samples, 11 inspected
-ranking pages, 14 reconciled Bicycle/Pagat rules pages, seven game audits, and
-seven source-traced parent-job hypotheses. It supports one future five-game
-chooser for Go Fish, Concentration, finite short-form War, Old Maid, and simple
-Crazy Eights. Snap and Slapjack are deferred because pace, disputes, and
-contact require direct observation. The candidate remains blocked on family
-access, structured observations, and original diagrams/photos; no site or
-canonical strategy changed.
-
-Household and no-equipment games stay behind that evidence gate; broad
-indoor/rainy-day needs an ownership audit; Arts & Crafts is the next taxonomy
-research candidate after Games; board-game and kit guidance remain blocked on
-firsthand product evidence.
-
-Independent reviewer Peirce
-(`019fb787-826c-7290-a311-dd90bb05d823`) returned `FAIL` in cycle 1 with one
-P2 missing parent-boundary/stop-reset section and one P3 imprecise Go Fish
-variant label. The correction added direct-observation and human-review gates
-without a safety guarantee and accurately named Pagat's Authors variant.
-Cycle 2 returned `PASS` with no P0-P3 findings.
-
-Independent reviewer Euclid
-(`019fb09a-18ff-7e41-a3cc-eefd46e56841`) returned `FAIL` in cycle 1 with two
-P2 findings: parent comprehension/standardness was overstated, and the KAL
-ownership audit lacked exact repository evidence. The correction bounded the
-claim, retained comprehension as `UNKNOWN`, and added inventory counts,
-methods, exact paths, and negative-claim limits. Cycle 2 returned `PASS` with
-no P0-P3 findings.
-
-Independent reviewer Linnaeus
-(`019fad68-1c94-7552-b5c1-3c68beec0219`) returned `PASS` in cycle 2 after a
-correction pass made all eight SERP samples reproducible, expanded all 18
-ranking-page records, linked persona evidence, added the current KAL ownership
-audit, corrected the card-query bound, and separated the research-start and
-implementation human gates.
-
-The authenticated Page indexing review collected 2026-07-18 found no blanket
-technical fix. One noindex is intentional, `/index.html` has the correct live
-canonical despite the stale report, and the remaining exclusions are crawl
-priority or content-value candidates. `KAL-IDX-001` stays planned until a fresh
-changed report supports one bounded improvement or consolidation; do not
-bulk-request indexing. See `ops/gsc-indexing-review-2026-07-18.md`.
-
-Independent reviewer Rawls (`019faa4c-79a3-71f0-a655-4a9949e498de`) audited
-all five personas and every visible section. Cycle 1 returned `PASS` with no
-P0-P3 findings.
-
-Content commit `a15dca7` is on `main`. GitHub Pages run `30394783721` succeeded
-for that exact SHA. The live article returns 200, byte-matches the reviewed
-HTML, and passes title, canonical, JSON-LD date, direct-answer,
-one-change-module, troubleshooting, footer, removed-claim, hero-image, and
-desktop/mobile overflow checks.
+`KAL-IMP-001` remains released and production-verified. Continue its separate
+observation window. `KAL-IDX-001` stays planned until a changed indexing report
+supports one bounded action. Do not request indexing or infer query intent from
+public-safe page rows.
 
 ## Current Observation Gate
 
-Wait for a post-release recrawl and at least two finalized public-safe
-comparison points before attributing page-level movement. A first click or
-complete query evidence is a new decision gate, not proof of parent usefulness.
-Do not create a new page or claim parent/child evidence.
+Wait for sufficient post-release evidence before attributing page-level
+movement to `KAL-IMP-001`. A first click or complete query evidence is a new
+decision gate, not proof of parent usefulness. Do not claim parent/child
+evidence.
 
-The broader strategy does not override this gate. It supports separate,
-evidence-bounded lane research, not immediate implementation.
+This gate does not block a separately registered, research-backed
+`KAL-IMP-002` transaction because that action relies on completed card-game
+research and will make no attribution to the ramp release.
 
 ## Waiting On User
 
-- Complete one copy of `templates/parent-test-evidence-intake.md` for each of
-  the two original age-4 STEM activities already tried, then run
-  `python3 ops/validate_parent_test_evidence.py <path>`.
-- Share which two activities were tested so they can be marked in `briefs/age-4-original-stem-test-pack.md`.
-- If possible, provide one original photo or simple diagram for the cardboard ramp article or the strongest tested age-4 STEM activity.
-- After both pages have impressions, compare Search Console queries/positions to see whether the hub owns broad `stem activities for 4 year olds` queries and the pack earns original/test-pack or long-tail activity clicks.
-- Optional: create a Semrush Project for `kidactivitylab.com` if technical Site Audit or Position Tracking is desired through Semrush.
-- For the future standard-deck card-game chooser, confirm whether the family
-  can run Go Fish, Concentration, finite short-form War, Old Maid, and simple
-  Crazy Eights, record structured observations, and create original
-  card-layout diagrams or photos.
-- For any later board-game buying guide, identify games already owned and
-  available for real use. Secondary research alone is not enough.
+No active family-testing request. Do not ask the user to run activities,
+collect observations, or create photos/diagrams. New strategic pivots,
+monetization, external spending, brand/domain/navigation changes, and
+product-review access still require direct user authority.
 
 ## Recently Completed
 
+- `KAL-STR-002` adopted the research-backed, explicitly untested publication
+  model for non-product pages, removed family testing from the active user
+  queue, retained the higher firsthand bar for tested/outcome/product claims,
+  and made `KAL-IMP-002` the next separately registered action. Independent
+  review cycle 1 found one P2 chronology conflict; cycle 2 returned `PASS`
+  after all three affected statements were clarified.
 - `KAL-RES-004` refreshed 12 exact card-game queries, sampled eight limited
   representative SERPs, inspected 25 ranking/rules pages, reconciled seven
-  standard-deck games, and promoted one five-game chooser behind family-use
-  and original-visual gates. It changed no site, strategy, navigation,
-  generator, page, product, indexing, external account, or parent/child
-  evidence. Independent review cycle 2 returned `PASS` after closing one P2
-  and one P3.
+  standard-deck games, and at research completion promoted one five-game
+  chooser behind family-use and original-visual gates. `KAL-STR-002` later
+  superseded that workflow gate only for an explicitly untested research-backed
+  page. It changed no site, strategy, navigation, generator, page, product,
+  indexing, external account, or parent/child evidence. Independent review
+  cycle 2 returned `PASS` after closing one P2 and one P3.
 - `KAL-RES-005` built a demand-led taxonomy decision pack from 96 exact
   refreshed US queries, 12 explicitly incomplete SERP samples, 23 inspected
   pages, seven source-traced parent-job hypotheses, and current KAL ownership.
@@ -273,15 +197,11 @@ evidence-bounded lane research, not immediate implementation.
 
 ## Next Transaction
 
-No implementation transaction is selected. The next gate is the user's direct
-confirmation that the family can run the five frozen games and produce
-original diagrams or photos. After confirmation, register one exact-path
-field-test preparation transaction; only completed structured observations
-may unlock the public chooser. If that gate stays unresolved, Arts & Crafts is
-the next separate research candidate. Do not convert sensor cadence into a
-page quota.
-
-Continue waiting for the next finalized GSC snapshot and the `KAL-IMP-001`
-observation gate. The broad demand map does not authorize another roundup,
-board-game affiliate content, a claim that any game was tried, or an automatic
-expansion into Create, Explore, or Go Deeper.
+After `KAL-STR-002` is review-clean and released, register `KAL-IMP-002` as one
+exact-path implementation for the five-game standard-deck chooser. Scope the
+page architecture and generator boundary from the current repository before
+editing. Use original diagrams, current rule citations, a clear research-
+backed/untested disclosure, conservative supervision and stop guidance, and
+persona/every-section review. Do not include Snap, Slapjack, product commerce,
+tested-status, measured timing, engagement, learning, repeatability,
+frustration, mess, or safety-outcome claims.

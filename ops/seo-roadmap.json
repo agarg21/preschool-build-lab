@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "owner": "Kid Activity Lab Operator",
-  "last_rescored_on": "2026-07-27",
-  "next_rescore_due": "2026-08-03",
+  "last_rescored_on": "2026-08-01",
+  "next_rescore_due": "2026-08-08",
   "planning_horizon_days": 28,
   "items": [
     {
@@ -513,7 +513,7 @@
       ],
       "success_signal": "A research-only decision pack refreshes 12 frozen exact card-game queries, samples at least 8 current representative SERPs, inspects at least 18 ranking and rules pages, reconciles rules and page ownership for 7 standard-deck games, audits interest hook, age/readiness fit, agency, challenge, replayability, parent feasibility, reading load, player count, conflict/frustration risk, setup, and rescue options, then promotes at most one separately gated implementation candidate or records a verified no-op without inventing play results.",
       "evidence_classification": "Semrush US volume, KD, CPC, and intent are dated TOOL_ESTIMATE evidence. Current public SERPs and named official, institutional, or specialist rules sources are SOURCE_BACKED within each source's limits. Parent-job personas are RESEARCH_HYPOTHESIS. Game-fit scoring, rule-variant selection, architecture, and sequencing are EDITORIAL_JUDGMENT. Public-safe GSC rows are MEASURED; complete current GSC queries, KAL play results, parent comprehension, child comprehension, engagement, replay, learning, safety outcomes, and frustration outcomes remain UNKNOWN.",
-      "human_gate": "The user explicitly authorized KAL-RES-004 research on 2026-07-31. Family access is not required to complete the research-only decision pack. Before any implementation can start, the user must confirm the frozen candidate games can be run and that original card-layout diagrams or photos can be produced. Research may reconcile public rules sources and identify practical supervision questions but may not claim a parent or child used, understood, enjoyed, learned from, safely completed, repeated, or benefited from any game.",
+      "human_gate": "The user explicitly authorized KAL-RES-004 research on 2026-07-31. At completion, implementation was gated on family use and original visuals. The user's 2026-08-01 no-testing constraint and KAL-STR-002 supersede that workflow gate for an explicitly untested research-backed non-product page. Actual evidence is still required before any tested-status, product-review, parent/child outcome, or safety-outcome claim.",
       "observation_window": "Research only. Preserve KAL-IMP-001's post-release recrawl and two-finalized-comparison-point gate. Do not create or change a page, navigation, strategy, generator, sitemap, indexing request, external account, affiliate state, or deployment in this transaction.",
       "strategic_role": "This is the first adjacent validation of the recommended parent-facing Games category while the broader Play concept remains an internal lens. It tests whether KAL can reduce choice and setup effort for an interesting repeatable activity; it is not the site's identity or evidence for every game or engagement lane.",
       "frozen_query_set": [
@@ -546,13 +546,13 @@
         "minimum_inspected_ranking_and_rules_pages": 18,
         "minimum_parent_job_hypotheses": 5
       },
-      "decision": "Promote one future parent-facing chooser for Go Fish, Concentration, finite short-form War, Old Maid, and simple Crazy Eights. Keep age, easy, two-player, and with-a-deck wording as routes on one page. Defer Snap and Slapjack because pace, disputes, and hand contact require direct observation. Do not create a page until family access, structured observations, and original diagrams or photos satisfy the human gate.",
-      "result": "Refreshed all 12 frozen exact queries in Semrush's logged-in US bulk interface; 11 have numeric volume and one is unavailable, with every row showing Now. Eight limited representative SERP samples, 11 ranking-page inspections, and 14 Bicycle/Pagat rule-page inspections show material demand and a parent-choice gap around readiness, players, pace, conflict, setup, variants, and rescue options. Reconciled all seven games and traced seven parent-job hypotheses. One five-game chooser is the only promoted future implementation candidate, but no repository implementation is eligible yet. No site, strategy, navigation, generator, sitemap, indexing, external-account, affiliate, product, parent/child evidence, or deployment path changed.",
-      "implementation_state": "research-complete-human-gated",
+      "decision": "Promote one future parent-facing chooser for Go Fish, Concentration, finite short-form War, Old Maid, and simple Crazy Eights. Keep age, easy, two-player, and with-a-deck wording as routes on one page. Under KAL-STR-002, it may proceed as a separately registered research-backed implementation with original KAL diagrams, explicit untested status, conservative boundaries, and UNKNOWN outcomes. Defer Snap and Slapjack because current research does not resolve pace, disputes, and hand contact.",
+      "result": "Refreshed all 12 frozen exact queries in Semrush's logged-in US bulk interface; 11 have numeric volume and one is unavailable, with every row showing Now. Eight limited representative SERP samples, 11 ranking-page inspections, and 14 Bicycle/Pagat rule-page inspections show material demand and a parent-choice gap around readiness, players, pace, conflict, setup, variants, and rescue options. Reconciled all seven games and traced seven parent-job hypotheses. One five-game chooser was the only promoted future implementation candidate, but no repository implementation was eligible at research completion; KAL-STR-002 later made an explicitly untested research-backed KAL-IMP-002 eligible. No site, strategy, navigation, generator, sitemap, indexing, external-account, affiliate, product, parent/child evidence, or deployment path changed in KAL-RES-004.",
+      "implementation_state": "research-complete-eligible-under-KAL-STR-002",
       "review_cycles": 2,
       "review_outcome": "PASS",
       "release_state": "push-only",
-      "next_eligible_action": "user-confirm-card-game-field-test-access-and-original-visuals",
+      "next_eligible_action": "KAL-IMP-002",
       "notes": "Direct manual research authorization. Exact eleven-path, research-only, push-only transaction. Do not edit AGENTS.md, README.md, strategy/current-strategy.md, seo/content-model.md, decisions.md, site/**, scripts/**, workflows, snapshots, external accounts, affiliate settings, or product pages. Do not create a generic roundup or merge this action into another transaction."
     },
     {
@@ -655,6 +655,60 @@
       "review_outcome": "PASS",
       "release_state": "push-only",
       "notes": "Direct manual strategy transaction. Exact thirteen-path, push-only scope. Historical research artifacts remain unchanged evidence; no live-site or implementation work is included."
+    },
+    {
+      "id": "KAL-STR-002",
+      "title": "Adopt a research-backed publishing model without firsthand testing",
+      "kind": "strategy",
+      "lane": "evidence-and-publishing-policy",
+      "impact": 5,
+      "confidence": 5,
+      "learning_value": 4,
+      "effort": 3,
+      "risk": 3,
+      "status": "completed",
+      "selected_on": "2026-08-01",
+      "completed_on": "2026-08-01",
+      "frozen_base": "4bbb9ca7866ccc3047477f5b0c406b4212b518d2",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "direct_user_no_testing_constraint",
+        "KAL-RES-004_standard_deck_decision_pack",
+        "current_canonical_strategy_and_content_rules",
+        "validated_2026-07-31_GSC_snapshot"
+      ],
+      "target_urls": [],
+      "target_paths": [
+        "AGENTS.md",
+        "README.md",
+        "strategy/current-strategy.md",
+        "strategy/content-principles.md",
+        "seo/content-model.md",
+        "seo/activity-cluster-research-protocol.md",
+        "reviews/persona-review-protocol.md",
+        "reviews/research-backed-publishing-model-review-2026-08-01.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/needs-user.md",
+        "progress.md",
+        "decisions.md"
+      ],
+      "success_signal": "Canonical guidance treats firsthand family testing as unavailable, defines an honest research-backed and explicitly untested publication state, preserves UNKNOWN outcomes and source limits, keeps hands-on product reviews blocked, removes family testing from the active queue, and identifies at most one separately registered next implementation without changing the public site.",
+      "evidence_classification": "The user's operating constraint is direct human authority for project workflow. The July 31 public-safe GSC snapshot is MEASURED monitoring evidence. KAL-RES-004 Semrush values remain TOOL_ESTIMATE, inspected rules and ranking pages remain SOURCE_BACKED within their limits, personas remain RESEARCH_HYPOTHESIS, and publication architecture remains EDITORIAL_JUDGMENT. Parent/child use, comprehension, engagement, enjoyment, learning, repeatability, frustration, mess, setup duration, and safety outcomes remain UNKNOWN.",
+      "human_gate": "The user explicitly stated on 2026-08-01 that they cannot run or test activities and that the project must rely on research. This authorizes the strategy and workflow change only. It does not authorize invented firsthand evidence, product-review claims, safety outcomes, site implementation, navigation changes, indexing, external-account mutation, affiliate links, or deployment.",
+      "observation_window": "The newest snapshot remains query-thin and healthy: 91 impressions, 0 clicks, and 7 of 7 priority URLs indexed. It does not independently trigger implementation. KAL-IMP-001 attribution remains gated on post-release evidence, while a separately scoped research-backed page may proceed from completed KAL-RES-004 evidence after this policy transaction is review-clean.",
+      "decision": "Replace the default requirement for family testing on non-product activity and game pages with a research-backed publication standard: current authoritative source reconciliation, original KAL synthesis or diagrams, explicit untested status where ambiguity is likely, conservative supervision and stop guidance, UNKNOWN outcome fields, persona/every-section review, and no claims that an activity worked for a child. Keep product reviews, tested-status claims, and outcome claims behind actual firsthand evidence.",
+      "implementation_state": "review-clean",
+      "result": "Adopted a research-backed publishing model for non-product activity and game pages when family testing is unavailable. Canonical guidance now requires current source reconciliation, original KAL synthesis or diagrams, explicit untested status when firsthand use could be inferred, conservative supervision and stop boundaries, preserved UNKNOWN outcomes, native QA, and independent persona/every-section review. Removed family testing and user-created visuals from the active user queue, kept tested-status, outcome, safety-performance, and product-review claims behind actual firsthand evidence, and made KAL-IMP-002 the next separately registered action. The July 31 GSC snapshot remained healthy and query-thin and selected no existing-page edit. Independent review cycle 1 found one P2 chronology conflict across three historical/current state statements; the correction closed all three, and cycle 2 returned PASS with no P0-P3 findings.",
+      "review_cycles": 2,
+      "review_outcome": "PASS",
+      "reviewer_task_id": "019fbd03-73e3-7010-ab7a-a5ecb4a51751",
+      "release_state": "push-only",
+      "next_eligible_action": "KAL-IMP-002",
+      "notes": "Direct manual strategy transaction. Exact fifteen-path, documentation-only, push-only scope. Historical research and review artifacts remain unchanged evidence. No site/**, scripts/**, data/**, snapshot, workflow, external account, product, affiliate, indexing, or deployment path is authorized."
     },
     {
       "id": "KAL-RES-005",

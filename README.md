@@ -17,14 +17,21 @@ the moment, then make it easy to start.
   imagining, exploring and discovering, and going deeper.
 - At-home, free, low-prep, screen-free, age-specific, and similar modifiers are
   constraints and filters, not the site's mission.
-- Original content and honestly labeled firsthand evidence are the core
-  ranking assets.
+- Original research synthesis, decision support, diagrams, and honestly
+  labeled evidence are the core ranking assets.
 - Activity and game cards are the quick utility layer.
 - SEO collection pages can organize demand by age, interest, energy, time,
   people, setup, location, and cost when the intent is distinct.
 - Video curation stays as a supporting archive, not the main product.
-- Age-4 STEM remains the current firsthand-evidence wedge. Standard-deck card
-  games are the first adjacent research lane, not a site-wide pivot.
+- Age-4 STEM remains the strongest existing cluster. The completed
+  standard-deck card-game research supports the next bounded implementation,
+  not a site-wide pivot.
+
+The user cannot supply ongoing family tests. Non-product pages may therefore
+publish from current source reconciliation, original KAL synthesis or diagrams,
+and independent review when they are explicit about untested status and keep
+all parent/child outcomes unknown. Product reviews and tested-status claims
+still require real firsthand evidence.
 
 ## Repo Structure
 
@@ -100,6 +107,8 @@ ownership and do not select another implementation.
 The broader 2026-07-29 demand map established four distinct parent jobs:
 finding a free activity now, finding a household/no-equipment family game,
 choosing a board game worth buying, and finding a game for a standard deck of
-cards. The next research transaction, `KAL-RES-004`, validates the
-standard-deck card-game utility cluster against the broader engagement promise.
-No game page or product recommendation is authorized by that research alone.
+cards. `KAL-RES-004` then reconciled current demand, representative SERPs, and
+authoritative rules for seven standard-deck games. It supports one future
+chooser for Go Fish, Concentration, finite short-form War, Old Maid, and simple
+Crazy Eights. That page must be separately scoped, explicitly untested, and
+review-clean; no product recommendation is authorized.

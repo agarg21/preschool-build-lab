@@ -1,31 +1,38 @@
 # Kid Activity Lab Operator Roadmap
 
 The machine-readable queue is `ops/seo-roadmap.json`. It preserves age-4 STEM
-as the current firsthand-evidence wedge inside the broader interesting-kid-
+as the strongest existing cluster inside the broader interesting-kid-
 engagement strategy and gives the active Master chat one durable execution queue.
 Control Room scheduling is paused until the user explicitly re-enables
 automation.
 
 ## Current sequence
 
-1. Observe `KAL-IMP-001` until a post-release recrawl and two finalized
-   comparison points exist.
-2. Keep comparing validated GSC snapshots, but do not infer complete query
+1. Complete and release `KAL-STR-002`, which makes research-backed and
+   explicitly untested non-product publishing the durable default while
+   preserving evidence limits.
+2. Register `KAL-IMP-002` as one five-game standard-deck chooser using current
+   source reconciliation, original KAL diagrams, and persona/every-section
+   review.
+3. Observe `KAL-IMP-001` without attributing small page-row movement to the
+   release.
+4. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
-3. Keep original/tested claims human-gated and broad hubs in observation.
-4. Use the completed `KAL-RES-002` Semrush supplement as the current paid
+5. Keep tested-status, parent/child outcomes, and product reviews evidence-
+   gated; do not ask the user for unavailable family testing.
+6. Use the completed `KAL-RES-002` Semrush supplement as the current paid
    metric layer. It reinforces existing-page ownership and promotes no
    implementation.
-5. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
+7. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
    an Activities umbrella with Games, Arts & Crafts, Science & Building, and
    Outdoor & Nature as concrete browse categories. Actual parent comprehension
    remains `UNKNOWN`. Age and moment constraints remain routes or filters;
    pretend/story/music remain activity types; local outings and product
    guidance remain separate systems.
-6. Use completed `KAL-RES-004` as the first adjacent validation of the Games
-   lane. It supports one five-game chooser but no public implementation until
-   family access, structured observations, and original diagrams/photos exist.
-   Snap and Slapjack remain deferred.
+8. Use completed `KAL-RES-004` as the first adjacent validation of the Games
+   lane. It supports one research-backed five-game chooser. Snap and Slapjack
+   remain deferred because current research does not resolve their pace,
+   dispute, and contact risks.
 
 The authenticated Page indexing review collected 2026-07-18 is normalized in
 `ops/gsc-indexing-review-2026-07-18.md`. Google's report was last updated
@@ -260,9 +267,10 @@ indexed.
   and Slapjack are deferred pending direct pace, dispute, and contact evidence.
 - One chooser should own the broad informational job; no individual game or
   age pages are promoted.
-- Public implementation is blocked until the family runs all five setups,
-  records structured observations, and produces original card-layout diagrams
-  or photos.
+- At research completion, public implementation was blocked until the family
+  ran all five setups and supplied original visuals. The later `KAL-STR-002`
+  policy decision supersedes that workflow gate for an explicitly untested,
+  research-backed non-product page; it does not create any firsthand evidence.
 - `KAL-IMP-001` keeps its separate observation gate. No site, canonical
   strategy, navigation, generator, sitemap, indexing, product, affiliate,
   external-account, parent/child evidence, or deployment path changed.
@@ -271,6 +279,32 @@ indexed.
   the planned page model lacked an explicit parent boundary/stop-reset section
   and the Go Fish note mislabeled Pagat's Authors variant. Both were corrected;
   cycle 2 returned `PASS` with no P0-P3 findings.
+
+## KAL-STR-002 Research-Backed Publishing Model On 2026-08-01
+
+- The user cannot run or test activities and asked the project to rely on its
+  research. Family testing is no longer an active dependency for non-product
+  publishing.
+- Research-backed pages must reconcile current sources, add original KAL
+  synthesis or diagrams, disclose untested status when firsthand use could be
+  inferred, and preserve parent/child outcomes as `UNKNOWN`.
+- Firsthand testing remains required before tested-status, parent/child
+  outcome, safety-outcome, product-review, or comparative buying claims.
+- The newest snapshot collected 2026-07-31 and its prior comparison both show
+  91 impressions and 0 clicks; priority indexing remains 7 of 7. This healthy,
+  query-thin evidence does not select another existing-page edit.
+- `KAL-RES-004` now makes `KAL-IMP-002` eligible as a separately registered
+  five-game chooser. It does not authorize Snap, Slapjack, a generic roundup,
+  product commerce, or any claim that KAL ran a game.
+- This exact fifteen-path strategy transaction changes no site, generator,
+  sitemap, data register, snapshot, indexing state, external account, or
+  deployment path.
+- Independent reviewer Curie
+  (`019fbd03-73e3-7010-ab7a-a5ecb4a51751`) returned `FAIL` in cycle 1 for one
+  P2 chronology conflict across the old KAL-RES-004 gate, the roadmap footer,
+  and the JSON result. The correction made every old statement explicitly
+  temporal and limited missing observations to claims that actually require
+  them. Cycle 2 returned `PASS` with no P0-P3 findings.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 
@@ -304,5 +338,7 @@ or universal-safety claims; those remain human-gated.
 There is no fixed daily substantive-action or commit limit. The Master chat may
 run multiple sequential transactions when each is independently registered,
 scoped, reviewed when material, QA-green, committed separately, and release
-verified. Missing parent observations remain a valid human dependency, not
-permission to fabricate evidence or generate generic pages.
+verified. Missing parent observations remain a valid dependency only for
+tested-status, parent/child outcome, safety-performance, and product-review
+claims. They do not block an explicitly untested research-backed non-product
+page and never permit fabricated evidence or generic pages.

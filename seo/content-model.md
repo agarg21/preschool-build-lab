@@ -16,19 +16,25 @@ engagement lanes:
 
 ## Primary Content
 
-Original pages and honestly labeled firsthand evidence are the core assets.
+Original research-backed pages and honestly labeled evidence are the core
+assets. Firsthand evidence is valuable when it genuinely exists, but current
+publishing cannot depend on family testing.
 
 Examples:
 
-- Field-test packs.
-- Parent-tested activity notes.
-- Original photos, clips, or diagrams.
-- Activity pages improved with real observations.
+- Source-reconciled activity and game guides.
+- Constraint-led choosers and decision tables.
+- Original diagrams or other explanatory visuals.
+- Activity pages improved with current sources and explicit evidence limits.
+- Validated firsthand notes only when they actually become available.
 - Optional credited reference videos when they help a parent visualize setup.
 
 These pages should lead navigation, homepage modules, and internal links.
 
-Original does not mean every idea appears from nowhere. It means Kid Activity Lab adds the parent-friendly workflow: quick setup, clear safety boundaries, read-aloud kid steps, a simple test loop, and eventually real observations from testing.
+Original does not mean every idea appears from nowhere or that KAL used it
+firsthand. It means Kid Activity Lab adds a parent-friendly workflow: quick
+setup, conservative supervision and stop boundaries, read-aloud kid steps,
+selection help, troubleshooting, and original explanation or diagrams.
 
 ## Utility Content
 
@@ -59,13 +65,27 @@ Reference videos may also appear inside original activity pages when they solve 
 ## Publishing Rule
 
 Use curation to find ideas and help parents visualize setup. Use simplified
-instructions, safety notes, testing, and real observations to make pages worth
-ranking.
+instructions, source reconciliation, original decision utility, diagrams, and
+honest evidence limits to make pages worth ranking.
 
 Publish or materially expand an indexable page only when it serves a distinct
 engagement job and adds enough selection or execution utility to deserve
 indexing. Show the interest hook and meaningful parent constraints without
 promising that every child will engage, enjoy, learn from, or repeat the idea.
+
+For a non-product research-backed page:
+
+- cite current authoritative or specialist sources for factual rules, setup,
+  and material guidance;
+- distinguish `SOURCE_BACKED` facts from `EDITORIAL_JUDGMENT` about sequence,
+  variants, or fit;
+- state that KAL has not family-tested the guidance when the page could imply
+  otherwise;
+- keep child/parent comprehension, setup time, engagement, enjoyment,
+  learning, repeatability, frustration, mess, and safety outcomes `UNKNOWN`;
+- add original KAL utility such as a chooser, troubleshooting model, compact
+  read-aloud flow, or diagram;
+- pass persona/every-section review and native QA.
 
 Product-recommendation content has a higher evidence bar. Before
 implementation, the project needs:

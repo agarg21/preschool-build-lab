@@ -2,7 +2,7 @@
 
 State: reusable review protocol
 
-Last updated: 2026-07-28
+Last updated: 2026-08-01
 
 ## Purpose
 
@@ -21,6 +21,8 @@ from evidence, not fictional testimonials or proof of parent/child use.
 - current page and every-section audit;
 - claim/evidence register;
 - validated parent-test intake when one is actually in scope;
+- explicit research-backed/untested disclosure when firsthand evidence is not
+  in scope;
 - focused QA and responsive evidence for implementations.
 
 ## Persona Review
@@ -80,8 +82,16 @@ Require validated user evidence before claiming:
 - a safety outcome from actual use;
 - developmental, therapeutic, medical, or guaranteed learning benefit.
 
-Desk research may support practical supervision boundaries, but any new or
-material child-safety guidance remains a human gate under project policy.
+Desk research may support conservative, source-backed supervision and stop
+boundaries. A new safety-sensitive claim or a claim that a setup is safe in
+practice remains a direct user gate under project policy.
+
+A research-backed non-product page does not fail merely because family testing
+is unavailable. Review it for source traceability, original KAL utility,
+explicit untested status, proportional supervision/stop wording, and preserved
+`UNKNOWN` outcomes. It fails if it implies use or effectiveness that the
+evidence does not establish. Product reviews and comparative buying claims
+remain firsthand-evidence-gated.
 
 ## Review Findings
 

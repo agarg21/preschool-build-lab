@@ -18,10 +18,10 @@ reason to recommend an idea.
 
 Focus first on children ages 3-6.
 
-Original age-4 STEM remains the current firsthand-evidence wedge. The completed
-2026-07-28 decision pack selected the existing cardboard ramp article for one
-bounded improvement. The no-cut preschool and age-4 at-home pages remain
-observation context, not queued implementation targets.
+Age-4 STEM remains the strongest existing cluster. The completed 2026-07-28
+decision pack selected the existing cardboard ramp article for one bounded
+improvement. The no-cut preschool and age-4 at-home pages remain observation
+context, not queued implementation targets.
 
 The 2026-07-29 broader demand map established four distinct parent jobs:
 
@@ -30,16 +30,17 @@ The 2026-07-29 broader demand map established four distinct parent jobs:
 3. choose a board game worth buying;
 4. find a game for a standard deck of cards.
 
-The standard-deck card-game lane is the first adjacent research candidate
-because it can add useful selection and execution guidance without requiring a
-product purchase. It is not the site's identity or an automatic publishing
-decision.
+The standard-deck card-game lane is the first adjacent implementation
+candidate because completed `KAL-RES-004` research found current demand, a
+parent-choice gap, and reconcilable public rules without requiring a product
+purchase. It is not the site's identity or permission for a generic roundup.
 
 ## Strategic Bet
 
-The core asset is trustworthy engagement guidance: useful original content,
-honestly labeled firsthand evidence, and selection help that reduces a
-parent's decision effort.
+The core asset is trustworthy engagement guidance: useful original research
+synthesis, honest evidence labels, and selection help that reduces a parent's
+decision effort. Firsthand evidence can strengthen a page if it genuinely
+exists, but the project does not assume that the user can supply it.
 
 The site can serve five engagement lanes:
 
@@ -96,27 +97,20 @@ The most useful page architecture normally answers five questions:
 The site does not need many more generic pages. It needs stronger selection
 utility and honest evidence in each lane it chooses to enter.
 
-For the current age-4 STEM wedge, the highest-value input is real testing:
+The user cannot run ongoing family tests. The current bottleneck is therefore
+producing enough original utility from desk research without laundering
+editorial judgment into observed experience. A research-backed page must
+reconcile current sources, add a useful KAL chooser or explanatory visual,
+state that it is untested when ambiguity is likely, and preserve every
+parent/child outcome as `UNKNOWN`.
 
-- setup time
-- minutes engaged
-- exact kid quotes
-- what confused the child
-- what failed
-- what the child changed
-- safety or mess surprises
-- whether the child asked to repeat it
-
-The validated 2026-07-28 public-safe GSC snapshot shows 72 impressions, no
-clicks, 61 discovered pages, and 7 of 7 priority URLs indexed. The cardboard
-ramp article has 24 page-level impressions, but complete query rows remain
-unavailable. The completed cluster decision pack used current query variants,
-SERP samples, ranking-page inspection, five source-traced persona hypotheses,
-and direct page audits. A separately authorized 2026-07-28 Semrush US bulk
-refresh updated all 17 exact queries. Seven returned numeric volume, ten
-returned `n/a` volume, and all returned intent and KD. These remain
-`TOOL_ESTIMATE` evidence and reinforce existing-page ownership rather than a
-new URL.
+The validated 2026-07-31 public-safe GSC snapshot has finalized data through
+2026-07-29 and shows 91 impressions, no clicks, 61 discovered pages, and 7 of
+7 priority URLs indexed. The prior snapshot also has 91 impressions and no
+clicks. Average position moved from 32.23 to 33.24, while the cardboard ramp
+article moved from 30 impressions at 16.93 to 31 at 17.32. Complete query rows
+remain unavailable, so this small movement is monitoring context rather than
+a new implementation trigger.
 
 The selected ramp improvement is released. Wait for a post-release recrawl and
 at least two finalized public-safe comparison points before attributing
@@ -128,20 +122,21 @@ Keyword demand alone is not enough.
 
 ## Do Now
 
-1. Observe `KAL-IMP-001` until its post-release recrawl and two finalized
-   public-safe comparison points exist.
-2. Keep comparing validated GSC snapshots without inferring query intent from
-   page rows alone.
-3. Test the five activities in
-   `site/collections/original-stem-activities-for-4-year-olds.html`.
-4. Record real observations through the validated parent-test intake.
-5. Upgrade a winning activity only after separate evidence and content review.
-6. Use `seo/age-4-keyword-metrics-refresh-2026-07-28.md` as the current paid
+1. Register and scope `KAL-IMP-002` as one research-backed, explicitly untested
+   chooser for Go Fish, Concentration, finite short-form War, Old Maid, and
+   simple Crazy Eights.
+2. Create original card-layout diagrams and a constraint-led chooser from the
+   completed `KAL-RES-004` source reconciliation.
+3. Keep every parent/child outcome unknown and make no claim that KAL ran any
+   game.
+4. Observe `KAL-IMP-001` without attributing small page-row movement to the
+   release or inferring query intent from public-safe rows.
+5. Use `seo/age-4-keyword-metrics-refresh-2026-07-28.md` as the current paid
    metric layer; do not treat `n/a` as zero or tool estimates as observed KAL
    demand.
-7. Use `seo/at-home-kids-demand-competition-map-2026-07-29.md` as the broader
-   demand layer. Run `KAL-RES-004` as a research-only test of the adjacent
-   standard-deck card-game lane.
+6. Use `seo/at-home-kids-demand-competition-map-2026-07-29.md` and
+   `seo/standard-deck-card-game-decision-pack-2026-07-31.md` as the broader
+   demand and completed game-decision layers.
 
 ## Do Not Do Yet
 
@@ -153,6 +148,9 @@ Keyword demand alone is not enough.
 - Do not add affiliate or monetization pages before there is enough trust and useful content.
 - Do not publish generic “best” product lists without access, firsthand use,
   current factual checks, original evidence, and disclosure.
+- Do not use research-backed activity publishing as a loophole for product
+  reviews, tested-status, setup-duration, engagement, learning, repeatability,
+  frustration, mess, or safety-outcome claims.
 - Do not make medical, therapeutic, developmental, or safety-sensitive claims beyond practical parent supervision notes.
 
 ## Page Decision Rules
@@ -176,14 +174,19 @@ Create a new page only when:
 - the intent is distinct
 - the page adds real utility beyond a list
 - it supports one of the defined engagement lanes for the current age focus
-- there is enough original setup, safety, testing, or observation value
+- there is enough original KAL synthesis, decision support, troubleshooting,
+  or visual value
+- source-backed facts and editorial judgments are distinguishable
+- untested status is explicit when a reasonable reader could infer firsthand
+  use
 
 Keep or set a page `noindex,follow` when:
 
 - it is useful for browsing but thin for search
 - it has too few cards or weak original notes
 - it is mainly a material/tag support page
-- it lacks parent-tested evidence
+- it lacks current source support, original utility, or a maintainable evidence
+  boundary
 
 Ask the user before:
 

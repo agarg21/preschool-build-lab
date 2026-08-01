@@ -1,5 +1,32 @@
 # Progress Log
 
+## 2026-08-01
+
+### Research-Backed Publishing Model
+
+- Registered `KAL-STR-002` from clean, aligned frozen base `4bbb9ca` after
+  fast-forwarding the July 31 GSC snapshot.
+- Confirmed the July 31 and July 30 public-safe snapshots both show 91
+  impressions, 0 clicks, 61 discovered pages, and 7 of 7 priority URLs
+  indexed. Complete query rows remain unavailable.
+- Recorded the user's durable constraint that ongoing family testing is not
+  available and must not remain an active dependency.
+- Replaced the default family-test gate for non-product pages with a research-
+  backed publication standard: current source reconciliation, original KAL
+  synthesis or diagrams, explicit untested status when needed, preserved
+  `UNKNOWN` outcomes, conservative supervision/stop wording, native QA, and
+  independent persona/every-section review.
+- Kept tested-status, parent/child outcomes, safety outcomes, product reviews,
+  and comparative buying claims behind actual firsthand evidence.
+- Made `KAL-IMP-002` the next eligible separate transaction for the completed
+  five-game standard-deck chooser; Snap and Slapjack remain deferred.
+- Independent reviewer Curie
+  (`019fbd03-73e3-7010-ab7a-a5ecb4a51751`) returned `FAIL` in cycle 1 for one
+  P2 historical-versus-current gate conflict. Three chronology clarifications
+  closed it, and cycle 2 returned `PASS` with no P0-P3 findings.
+- Changed no public page, generator, sitemap, data register, snapshot,
+  indexing state, external account, product, affiliate state, or deployment.
+
 ## 2026-07-31
 
 ### Standard-Deck Card-Game Decision Pack

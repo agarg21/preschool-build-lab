@@ -15,8 +15,9 @@ The current strategic direction is:
 - One domain: `kidactivitylab.com`.
 - One promise: help a parent choose something that fits the child and the
   moment, then make it easy to start.
-- Original, useful content and honestly labeled firsthand evidence are the core
-  assets.
+- Original, useful research synthesis and honestly labeled evidence are the
+  core assets. Firsthand evidence is additive when it genuinely exists, not a
+  prerequisite the project may pretend to satisfy.
 - The main engagement lanes are making and experimenting, playing, creating
   and imagining, exploring and discovering, and going deeper through
   substantial projects or carefully evidenced resources.
@@ -24,8 +25,9 @@ The current strategic direction is:
   and filters, not the site's mission.
 - Activity and game cards are the utility layer.
 - Video curation is a supporting archive, not the main ranking bet.
-- Focus first on children ages 3-6. Age-4 STEM is the current firsthand-evidence
-  wedge, not a permanent boundary for the site.
+- Focus first on children ages 3-6. Age-4 STEM is the strongest existing
+  cluster, and the completed standard-deck research is the next adjacent
+  implementation candidate.
 
 ## Live Site
 
@@ -136,7 +138,9 @@ PY
 
 - Do not create many thin roundup pages.
 - Do not make YouTube curation the main product.
-- Prefer original field-test packs, parent notes, photos, diagrams, or simple visuals.
+- Prefer source-reconciled instructions, useful choosers, original diagrams,
+  and clearly labeled editorial guidance. Add firsthand notes only when valid
+  evidence actually exists.
 - Every activity should have a clear parent safety note.
 - Every SEO page should have enough unique utility to deserve indexing.
 - Use source-derived parent-job personas as review lenses, not as fictional
@@ -144,7 +148,14 @@ PY
 - Keep `MEASURED`, `TOOL_ESTIMATE`, `SOURCE_BACKED`,
   `RESEARCH_HYPOTHESIS`, `EDITORIAL_JUDGMENT`, and `UNKNOWN` evidence distinct.
 - Keep videos as references or inspiration unless the page adds substantial original value.
-- Original pages may include credited reference videos, but the Kid Activity Lab value must be the simplified setup, safety boundaries, kid-facing steps, test loop, and real observations.
+- Original pages may include credited references, but the Kid Activity Lab
+  value must come from its own synthesis: simplified setup, conservative
+  supervision and stop boundaries, kid-facing steps, decision support,
+  troubleshooting, or original diagrams.
+- When a reasonable reader could infer firsthand use, label a research-backed
+  page as not family-tested by Kid Activity Lab. Keep parent/child outcomes,
+  timing, comprehension, enjoyment, learning, repeatability, mess, and safety
+  outcomes `UNKNOWN` unless valid measured evidence exists.
 - Make the interest hook and important parent constraints visible without
   promising that every child will engage, enjoy, learn from, or repeat an idea.
 - Product recommendations require access to the product, firsthand use,
@@ -153,15 +164,18 @@ PY
 
 ## Current Priority Stack
 
-1. Test the 5 activities in `site/collections/original-stem-activities-for-4-year-olds.html`.
-2. Record observations in `briefs/age-4-original-stem-test-pack.md` or a new weekly note.
-3. Upgrade winning activities into stronger cards/pages with parent-tested notes and visuals.
-4. Run `KAL-RES-004` as a research-only test of the adjacent standard-deck
-   card-game lane. It is a validation lane, not the site's identity.
-5. Monitor pages in Google Search Console. Do not request indexing unless a
+1. Use the completed `KAL-RES-004` evidence to scope one research-backed,
+   explicitly untested standard-deck card-game chooser.
+2. Create original card-layout diagrams and KAL decision utility without
+   claiming that a family ran, understood, enjoyed, or benefited from a game.
+3. Keep age-4 STEM pages honest and useful; do not wait for unavailable family
+   testing or upgrade any page to tested status.
+4. Monitor pages in Google Search Console. Do not request indexing unless a
    separate explicit instruction authorizes it.
-6. Expand only when a candidate serves a distinct engagement job and satisfies
-   its research and firsthand-evidence gates.
+5. Expand only when a candidate serves a distinct engagement job and satisfies
+   the research-backed publication standard.
+6. Keep product reviews and outcome claims blocked until actual firsthand
+   evidence exists.
 
 ## Important Current Pages
 
@@ -215,5 +229,5 @@ PY
   should still produce a no-op rather than manufactured work.
 - Never invent parent-test observations, child quotes, photos, engagement data, or tested status to unblock an autonomous run.
 - Personas derived from queries, SERPs, or community questions are
-  `RESEARCH_HYPOTHESIS` evidence. They never satisfy the parent-test or child
-  safety human gates.
+  `RESEARCH_HYPOTHESIS` evidence. They never become parent-test evidence or
+  support a claim that a setup was safe in practice.

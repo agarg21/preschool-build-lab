@@ -2,29 +2,22 @@
 
 ## Active Questions
 
-1. Which two original age-4 STEM activities were tried? Complete one copy of
-   `templates/parent-test-evidence-intake.md` for each and validate it with
-   `python3 ops/validate_parent_test_evidence.py <path>`.
-2. Can you capture at least one photo or simple diagram for the winning activity?
-3. Before the five-game card chooser is implemented, can the family run Go
-   Fish, Concentration, finite short-form War, Old Maid, and simple Crazy
-   Eights, record structured observations for each, and create original
-   card-layout diagrams or photos? `KAL-RES-004` is complete; this is now the
-   implementation gate.
-4. Which board games are already owned and available for firsthand use if the
-   site later validates an age-specific buying-guide lane?
-5. Can you provide an original cardboard ramp photo or simple diagram for the
-   currently ranking ramp article?
-6. Before a separate strategy or navigation transaction, does this
+1. Before a separate strategy or navigation transaction, does this
    demand-backed parent-facing model match your mental model: Activities,
    Games, Arts & Crafts, Science & Building, and Outdoor & Nature?
 
 ## Recently Resolved
 
+- 2026-08-01: The user cannot run or test activities and asked the project to
+  rely on its research. Family testing, observations, photos, and user-created
+  diagrams are no longer active dependencies for research-backed non-product
+  publishing. Tested-status, outcome claims, and product reviews still require
+  evidence the project does not have.
 - 2026-07-31: Standard-deck card-game research supports one future five-game
   chooser and no seven-game roundup or individual game-page expansion. Snap
-  and Slapjack are deferred pending direct evidence about pace, disputes, and
-  contact. No public implementation is eligible yet.
+  and Slapjack remain deferred because current research does not resolve pace,
+  disputes, and contact. The five-game chooser may proceed only as a separately
+  scoped, explicitly untested, research-backed implementation.
 - 2026-07-29: The user set the core positioning: Kid Activity Lab should help
   parents find interesting things children can engage with. At-home, free, and
   low-prep are constraints rather than the mission. Age-4 STEM remains the

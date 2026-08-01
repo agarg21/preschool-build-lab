@@ -16,18 +16,19 @@ Every activity should have:
 - an easier version
 - a harder version when useful
 - notes from real testing when available
+- an explicit untested label when the page format could imply firsthand use
 
 ## Originality Standard
 
 Original does not mean every idea is invented from nothing. It means Kid Activity Lab adds useful parent value:
 
 - simplified setup
-- safer boundaries
+- conservative supervision and stop boundaries
 - kid-facing wording
-- a test or build loop
-- real observations
+- a compare, build, play, or variation loop
+- source reconciliation and clear evidence labels
 - visuals or diagrams when possible
-- honest notes about what failed
+- honest unknowns and editorial options that are not described as proven fixes
 
 ## SEO Standard
 
@@ -41,6 +42,12 @@ Strong pages should have at least one of:
 - a strong set of relevant activity cards
 - photos, diagrams, or other helpful visuals
 - specific parent rescue notes
+
+For non-product activities and games, valid indexable utility may be entirely
+research-backed. It requires current sources for factual rules or setup,
+original KAL synthesis or diagrams, proportional claims, and independent
+review. It must not imply that KAL observed a parent or child. Firsthand testing
+is optional enrichment, not a default publishing gate.
 
 For early GSC-visible pages, prefer improving the ranking or impression-earning URL before creating a new page for the same intent.
 
@@ -75,8 +82,8 @@ Use them to check whether:
 - every section earns its scan cost.
 
 Do not invent demographic profiles, testimonials, parent behavior, child
-behavior, or testing evidence. A persona never satisfies the validated
-parent-test gate.
+behavior, or testing evidence. A persona can test whether research-backed
+guidance is complete; it never turns an unknown outcome into observed evidence.
 
 ## Research And Review Standard
 

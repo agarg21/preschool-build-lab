@@ -18,6 +18,63 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-08-01 Research-Backed Publishing Model
+
+Action: `KAL-STR-002`
+
+State: review-clean
+
+Frozen base: `4bbb9ca7866ccc3047477f5b0c406b4212b518d2`
+
+Scope: the exact fifteen canonical strategy, content-model, research protocol,
+review protocol, roadmap, cycle, user-input, review, progress, and decision
+paths declared for `KAL-STR-002` in `ops/seo-roadmap.json`.
+
+Boundaries:
+
+- treat ongoing family testing as unavailable;
+- define an explicit research-backed publishing gate for non-product pages;
+- preserve all unmeasured parent/child and safety outcomes as `UNKNOWN`;
+- keep product reviews and tested-status claims firsthand-evidence-gated;
+- promote at most one separately registered five-game chooser;
+- make no site, generator, data, snapshot, workflow, external-account,
+  indexing, affiliate, product, or deployment change.
+
+Reviewer: Curie
+(`019fbd03-73e3-7010-ab7a-a5ecb4a51751`)
+
+Read-only status: confirmed. The reviewer changed no file, Git state, browser,
+external account, deployment, or evidence.
+
+Cycle 1: `FAIL`
+
+- `P0`, `P1`, and `P3`: none.
+- `P2`: three historical/current statements contradicted the new publication
+  gate by leaving family observations as a general dependency or saying no
+  implementation was currently eligible.
+
+Correction:
+
+- made the KAL-RES-004 gate explicitly temporal;
+- limited missing observations to tested-status, parent/child outcome,
+  safety-performance, and product-review claims;
+- distinguished research-completion ineligibility from the later
+  `KAL-STR-002` eligibility of an explicitly untested `KAL-IMP-002`.
+
+Cycle 2: `PASS`
+
+- The P2 is closed and no P0-P3 findings remain.
+- All fifteen declared paths were reread from the frozen base.
+- Strict JSON, unique action IDs, exact-scope, prohibited-path, and
+  `git diff --check` checks pass.
+- No site, generator, data, snapshot, workflow, external-account, indexing,
+  product, affiliate, or deployment state changed.
+
+Final result: `PASS`
+
+Residual risk: future `KAL-IMP-002` page content requires its own source,
+visual, accessibility, QA, and persona/every-section review.
+
 ## 2026-07-31 Standard-Deck Card-Game Decision Pack
 
 Action: `KAL-RES-004`

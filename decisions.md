@@ -2,6 +2,30 @@
 
 ## Decisions Made
 
+### 2026-08-01: Publish Research-Backed, Explicitly Untested Guidance
+
+Decision: Treat ongoing family testing as unavailable. A non-product activity
+or game page may be indexable without firsthand testing when it reconciles
+current authoritative or specialist sources, adds original KAL synthesis or
+diagrams, clearly says it is not family-tested by KAL when ambiguity is
+likely, and keeps every parent/child outcome `UNKNOWN`.
+
+This does not lower the truthfulness bar. The site may not claim observed
+setup time, comprehension, engagement, enjoyment, learning, repeatability,
+frustration, mess, safety performance, or a parent/child test without valid
+evidence. Conservative supervision and stop guidance must be framed as
+practical boundaries, not as a demonstrated safety result.
+
+Product reviews, comparative buying recommendations, and tested-status claims
+still require appropriate firsthand access and evidence. Personas remain
+research hypotheses, not substitutes for use.
+
+Why: The user cannot run or test activities. Keeping testing as the default
+publication gate would stall the project or repeatedly ask for an unavailable
+input. Research-backed utility can still be honest and index-worthy when KAL's
+original contribution is the decision model, synthesis, instructions,
+troubleshooting, or diagrams rather than invented experience.
+
 ### 2026-07-29: Make Interesting Kid Engagement The Core Promise
 
 Decision: Define Kid Activity Lab by the parent job of finding something
