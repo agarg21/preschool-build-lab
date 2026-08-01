@@ -164,10 +164,10 @@ PY
 
 ## Current Priority Stack
 
-1. Use the completed `KAL-RES-004` evidence to scope one research-backed,
-   explicitly untested standard-deck card-game chooser.
-2. Create original card-layout diagrams and KAL decision utility without
-   claiming that a family ran, understood, enjoyed, or benefited from a game.
+1. Release the review-clean `KAL-IMP-002`, the one research-backed, explicitly
+   untested standard-deck card-game chooser, and verify production.
+2. After release, observe the chooser without creating individual game, age,
+   Snap, Slapjack, product, or affiliate pages from the same evidence.
 3. Keep age-4 STEM pages honest and useful; do not wait for unavailable family
    testing or upgrade any page to tested status.
 4. Monitor pages in Google Search Console. Do not request indexing unless a
@@ -179,6 +179,7 @@ PY
 
 ## Important Current Pages
 
+- Standard-deck card-game chooser: `site/collections/card-games-for-kids.html`
 - Original hub: `site/original/index.html`
 - Original age-4 STEM test pack: `site/collections/original-stem-activities-for-4-year-olds.html`
 - Age-4 STEM page: `site/ages/stem-activities-for-4-year-olds.html`

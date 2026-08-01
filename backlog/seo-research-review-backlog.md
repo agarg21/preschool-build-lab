@@ -53,25 +53,24 @@ The standard-deck decision pack is
 `seo/standard-deck-card-game-decision-pack-2026-07-31.md`. Its 12 exact
 Semrush rows, eight limited representative SERP samples, 11 ranking-page
 inspections, 14 reconciled Bicycle/Pagat rule pages, seven game audits, and
-seven source-traced parent-job hypotheses support one bounded future
-candidate: a five-game chooser for Go Fish, Concentration, finite short-form
-War, Old Maid, and simple Crazy Eights. Snap and Slapjack are deferred because
-pace, disputes, and contact require direct observation. This is research only;
-no page, navigation, or strategy implementation occurred.
+seven source-traced parent-job hypotheses supported one bounded candidate: a
+five-game chooser for Go Fish, Concentration, finite short-form War, Old Maid,
+and simple Crazy Eights. `KAL-STR-002` later removed unavailable family testing
+as a prerequisite for honestly labeled, research-backed non-product pages.
+`KAL-IMP-002` is now implementing that chooser with original diagrams and all
+family outcomes preserved as `UNKNOWN`. Snap and Slapjack remain outside this
+first scope.
 
 The canonical promise is now to help a parent find something interesting that
 fits the child and the moment, then make it easy to start. At-home, free,
 low-prep, screen-free, and age-specific are constraints and filters. Age-4
 STEM remains the current firsthand-evidence wedge.
 
-No additional implementation is ready. Observe the released ramp article until
-its post-release recrawl and two finalized public-safe comparison points.
-`KAL-RES-004` completed the first adjacent validation of the parent-facing
-Games lane. The five-game chooser is the only promoted implementation
-candidate, but it is not eligible until the family-access, structured
-observation, and original-visual gates are satisfied. Arts & Crafts is the
-strongest future taxonomy-research candidate after the user resolves that
-gate.
+`KAL-IMP-002` is the only active implementation. Observe the released ramp
+article until its post-release recrawl and two finalized public-safe comparison
+points. Do not promote another Games URL while the chooser is being built or
+observed. Arts & Crafts remains a possible future research candidate, not a
+queued page.
 
 ## Demand-Led Taxonomy Rescore
 
@@ -81,9 +80,9 @@ size:
 - **Activities:** keep as the umbrella and age-led chooser, not another broad
   page without an ownership audit.
 - **Science & Building:** preserve age-4 STEM as the current evidence wedge.
-- **Games:** the standard-deck decision pack supports one five-game chooser
-  behind direct-use and original-visual gates; broad `games for kids` remains
-  digital-heavy.
+- **Games:** `KAL-IMP-002` applies the adopted research-backed, explicitly
+  untested publication gate to one five-game chooser with original diagrams;
+  broad `games for kids` remains digital-heavy.
 - **Arts & Crafts:** retain as the strongest later research candidate.
 - **Outdoor & Nature:** retain as a future research lane, separate from local
   outings.
@@ -99,9 +98,9 @@ size:
 
 - Share which two original age-4 STEM activities were tested and capture setup time, engagement time, kid quotes, confusion points, mess, what changed, and repeatability.
 - Capture at least one original photo or simple diagram for the winning activity or cardboard ramp article.
-- Confirm whether the family can run Go Fish, Concentration, short-form War,
-  Old Maid, and simple Crazy Eights, then create original card-layout diagrams
-  or photos and structured notes for each.
+- Family use of Go Fish, Concentration, short-form War, Old Maid, and simple
+  Crazy Eights could later support tested-status notes, but it is not required
+  for the explicitly untested KAL-IMP-002 chooser.
 - Inventory board games already owned before considering an age-specific
   buying guide. Product recommendations require real access and use.
 
@@ -155,9 +154,9 @@ size:
 - `[create]` Do not publish generic "best board games" content from secondary
   research. Firsthand use, original visuals, current product facts, testing
   criteria, and disclosure are mandatory.
-- `[create]` Do not publish the five-game card-game chooser until all five
-  frozen setups are run, structured observations exist, and original diagrams
-  or photos are available.
+- `[create]` Do not expand the five-game chooser into individual game pages,
+  Snap, Slapjack, products, or performance claims without a separately
+  researched and registered action.
 - `[create]` Do not create standalone pages for the individual original age-4 STEM activities until at least two have parent-tested evidence and one original visual or diagram.
 - `[monetization]` Do not add ads, affiliate links, or products until the site has stronger useful content and trust.
 

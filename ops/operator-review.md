@@ -18,6 +18,102 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-08-01 Five-Game Standard-Deck Chooser
+
+Action: `KAL-IMP-002`
+
+State: awaiting independent read-only review
+
+Frozen base: `af9c762b9f47a0ca689de36cba5f96fa8af7ee27`
+
+Scope: the exact 25 strategy, generator, data, page, SVG, style, entry-point,
+sitemap, review, backlog, roadmap, cycle, and progress paths declared for
+`KAL-IMP-002` in `ops/seo-roadmap.json`.
+
+Boundaries:
+
+- one canonical chooser and exactly five included games;
+- no individual game pages, Snap, Slapjack, navigation, products, affiliates,
+  indexing requests, external accounts, or deployment before review;
+- no parent/child use, outcome, timing, developmental, or safety-performance
+  evidence may be inferred or created;
+- Bicycle/Pagat/DREME source statements and KAL editorial variants must remain
+  visibly distinct.
+
+Pre-review QA:
+
+- Python compilation, 13 repository tests, and 14 public-safe snapshot
+  validations pass;
+- card and SEO generators are byte-idempotent; the existing sitemap generator
+  was run, then unchanged-page dates were restored to prevent false `lastmod`
+  churn;
+- all 65 HTML files parse with zero missing links or fragments;
+- chooser canonical, metadata, three-part JSON-LD, five section IDs, six SVG
+  accessibility contracts, 62 unique sitemap URLs, and keyword target pass;
+- all 11 live Bicycle, Pagat, and DREME source URLs return 200;
+- unsupported-claim scan and `git diff --check` pass;
+- desktop 1440x900 and mobile 390x844 browser checks show no body overflow or
+  console errors, all six diagrams load, mobile tables are contained, anchors
+  clear the sticky header, and homepage/card-library entry links navigate.
+
+Reviewer: Mendel (`019fbd2e-018b-7822-bddb-f965bce3e747`)
+
+Read-only status: confirmed. The reviewer changed no file, staging, commit,
+deployment, indexing, browser state, or external account.
+
+Review cycle 1: `FAIL`
+
+- `P0` and `P1`: none.
+- `P2`: War's face-up-only tie change was not classified as editorial.
+- `P2`: Go Fish omitted empty-hand and empty-stock terminal branches.
+- `P2`: Old Maid hid its 11/12-card two-player starting-hand load and omitted
+  the empty-player rotation rule.
+- `P2`: one active backlog sentence retained the superseded direct-use gate.
+- `P3`: mobile SVG labels were too small at their rendered width.
+- `P3`: the homepage phrase "sourced starting setups" blurred source-backed
+  games and KAL editorial setups.
+
+Cycle 1 corrections:
+
+- labeled War's face-up-only tie rule in the variant and frozen-rules table;
+- froze Go Fish's empty-hand, empty-stock, turn-pass, and out-of-round flow;
+- surfaced Old Maid's maximum two-player starting hand, added an editorial
+  no-product holding rescue, and made empty players leave the rotation;
+- replaced the stale backlog gate with the current research-backed model;
+- made mobile diagrams locally scrollable at a legible minimum width;
+- clarified the homepage evidence wording.
+
+Review cycle 2: `FAIL`
+
+- Five of six prior findings are closed.
+- `P0`, `P1`, and `P3`: none.
+- `P2`: Go Fish described an up-to-five empty-hand refill inside a
+  Bicycle-backed flow, but Bicycle uses a one-card draw and Pagat documents the
+  five-card refill as a variation.
+
+Cycle 2 correction:
+
+- replaced the up-to-five refill with Bicycle's one-card empty-hand draw and
+  made the next request use the drawn rank.
+
+Review cycle 3: `PASS`
+
+- The cycle 2 Go Fish P2 is closed: the source-backed explanation and runnable
+  step both use Bicycle's one-card empty-hand draw.
+- All cycle 1 and 2 findings remain closed.
+- All seven personas and every affected section pass.
+- Exact 25-path scope, `git diff --check`, JSON, Python parsing, HTML,
+  JSON-LD, XML, links, fragments, IDs, five-game count, six accessible SVGs,
+  62-URL sitemap, generator consistency, 13 repository tests, and 14 snapshot
+  validations pass independently.
+- Final findings: none (`P0`-`P3`).
+
+Final result: `PASS`
+
+Residual risk: family outcomes and search performance remain unknown; upstream
+rules sources can change; mobile diagram scrolling remains platform-dependent
+but has text alternatives and adjacent instructions.
+
 ## 2026-08-01 Research-Backed Publishing Model
 
 Action: `KAL-STR-002`

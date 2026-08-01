@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-labelledby="title desc">
+  <title id="title">Reduced-deck Go Fish layout</title>
+  <desc id="desc">Two five-card hands, a center stock, and a four-card book area.</desc>
+  <rect width="800" height="420" fill="#d9efe3"/>
+  <text x="40" y="50" fill="#1f2522" font-family="system-ui, sans-serif" font-size="28" font-weight="800">Go Fish: ask, collect, make a book</text>
+  <g stroke="#1f2522" stroke-width="2">
+    <g fill="#fff">
+      <rect x="50" y="115" width="70" height="100" rx="8"/><rect x="90" y="105" width="70" height="100" rx="8"/><rect x="130" y="115" width="70" height="100" rx="8"/>
+      <rect x="600" y="115" width="70" height="100" rx="8"/><rect x="640" y="105" width="70" height="100" rx="8"/><rect x="680" y="115" width="70" height="100" rx="8"/>
+    </g>
+    <rect x="345" y="105" width="90" height="128" rx="8" fill="#246b8f"/>
+  </g>
+  <g font-family="system-ui, sans-serif" font-size="28" font-weight="800" text-anchor="middle">
+    <text x="85" y="175" fill="#b5473f">3</text><text x="125" y="165" fill="#1f2522">5</text><text x="165" y="175" fill="#b5473f">2</text>
+    <text x="635" y="175" fill="#1f2522">4</text><text x="675" y="165" fill="#b5473f">5</text><text x="715" y="175" fill="#1f2522">6</text>
+  </g>
+  <text x="390" y="260" text-anchor="middle" fill="#1f2522" font-family="system-ui, sans-serif" font-size="18" font-weight="800">STOCK</text>
+  <path d="M235 155h80m170 0h80" stroke="#2f7a55" stroke-width="5"/>
+  <g fill="#fff" stroke="#b5473f" stroke-width="2">
+    <rect x="278" y="292" width="50" height="72" rx="6"/><rect x="338" y="292" width="50" height="72" rx="6"/><rect x="398" y="292" width="50" height="72" rx="6"/><rect x="458" y="292" width="50" height="72" rx="6"/>
+  </g>
+  <text x="393" y="338" text-anchor="middle" fill="#b5473f" font-family="system-ui, sans-serif" font-size="23" font-weight="800">5  5  5  5</text>
+  <text x="393" y="395" text-anchor="middle" fill="#1f2522" font-family="system-ui, sans-serif" font-size="18" font-weight="700">Use A-6 in all four suits; four matching ranks make one book.</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-labelledby="title desc">
+  <title id="title">Reverse-ending Old Maid layout</title>
+  <desc id="desc">Two hands, a pair discard area, and one unpaired queen marked as the winning odd card.</desc>
+  <rect width="800" height="420" fill="#f7e6e4"/>
+  <text x="40" y="50" fill="#1f2522" font-family="system-ui, sans-serif" font-size="28" font-weight="800">Old Maid: use the reverse ending</text>
+  <g fill="#fff" stroke="#1f2522" stroke-width="2">
+    <rect x="70" y="115" width="78" height="112" rx="8" transform="rotate(-10 109 171)"/>
+    <rect x="130" y="105" width="78" height="112" rx="8"/>
+    <rect x="190" y="115" width="78" height="112" rx="8" transform="rotate(10 229 171)"/>
+    <rect x="532" y="115" width="78" height="112" rx="8" transform="rotate(-10 571 171)"/>
+    <rect x="592" y="105" width="78" height="112" rx="8"/>
+    <rect x="652" y="115" width="78" height="112" rx="8" transform="rotate(10 691 171)"/>
+  </g>
+  <g font-family="system-ui, sans-serif" font-size="30" font-weight="800" text-anchor="middle">
+    <text x="109" y="180" fill="#b5473f">2</text><text x="169" y="170" fill="#1f2522">Q</text><text x="229" y="180" fill="#b5473f">5</text>
+    <text x="571" y="180" fill="#1f2522">2</text><text x="631" y="170" fill="#b5473f">4</text><text x="691" y="180" fill="#1f2522">5</text>
+  </g>
+  <g fill="#fff" stroke="#246b8f" stroke-width="2">
+    <rect x="305" y="265" width="70" height="100" rx="8"/><rect x="390" y="265" width="70" height="100" rx="8"/>
+  </g>
+  <text x="340" y="326" text-anchor="middle" fill="#b5473f" font-family="system-ui, sans-serif" font-size="28" font-weight="800">5</text>
+  <text x="425" y="326" text-anchor="middle" fill="#1f2522" font-family="system-ui, sans-serif" font-size="28" font-weight="800">5</text>
+  <rect x="343" y="82" width="114" height="142" rx="8" fill="#fffaf0" stroke="#d49a00" stroke-width="4"/>
+  <text x="400" y="155" text-anchor="middle" fill="#b5473f" font-family="system-ui, sans-serif" font-size="48" font-weight="900">Q</text>
+  <text x="400" y="195" text-anchor="middle" fill="#1f2522" font-family="system-ui, sans-serif" font-size="16" font-weight="800">ODD CARD WINS</text>
+  <text x="400" y="400" text-anchor="middle" fill="#1f2522" font-family="system-ui, sans-serif" font-size="18" font-weight="700">Use A-5 in all suits plus three queens. Discard equal-rank pairs.</text>
+</svg>

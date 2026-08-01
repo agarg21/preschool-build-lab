@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-labelledby="title desc">
+  <title id="title">Simple Crazy Eights layout</title>
+  <desc id="desc">A stock, a discard pile showing a four of hearts, and playable cards that match rank, suit, or use a wild eight.</desc>
+  <rect width="800" height="420" fill="#e9e4f4"/>
+  <text x="40" y="50" fill="#1f2522" font-family="system-ui, sans-serif" font-size="28" font-weight="800">Crazy Eights: match rank, match suit, or play an 8</text>
+  <rect x="105" y="105" width="105" height="150" rx="8" fill="#246b8f" stroke="#194b65" stroke-width="3"/>
+  <text x="157" y="285" text-anchor="middle" fill="#1f2522" font-family="system-ui, sans-serif" font-size="18" font-weight="800">STOCK</text>
+  <rect x="270" y="105" width="105" height="150" rx="8" fill="#fff" stroke="#1f2522" stroke-width="3"/>
+  <text x="322" y="185" text-anchor="middle" fill="#b5473f" font-family="system-ui, sans-serif" font-size="48" font-weight="900">4</text>
+  <text x="322" y="225" text-anchor="middle" fill="#b5473f" font-family="system-ui, sans-serif" font-size="36">&#9829;</text>
+  <text x="322" y="285" text-anchor="middle" fill="#1f2522" font-family="system-ui, sans-serif" font-size="18" font-weight="800">DISCARD</text>
+  <g fill="#fff" stroke="#1f2522" stroke-width="2">
+    <rect x="455" y="112" width="82" height="118" rx="8"/><rect x="550" y="112" width="82" height="118" rx="8"/><rect x="645" y="112" width="82" height="118" rx="8"/>
+  </g>
+  <g font-family="system-ui, sans-serif" font-size="34" font-weight="900" text-anchor="middle">
+    <text x="496" y="170" fill="#1f2522">4</text><text x="591" y="170" fill="#b5473f">6</text><text x="686" y="170" fill="#b5473f">8</text>
+    <text x="496" y="205" fill="#1f2522">&#9824;</text><text x="591" y="205" fill="#b5473f">&#9829;</text><text x="686" y="205" fill="#b5473f">&#9830;</text>
+  </g>
+  <path d="M430 258h305" stroke="#68538d" stroke-width="4"/>
+  <text x="582" y="290" text-anchor="middle" fill="#1f2522" font-family="system-ui, sans-serif" font-size="17" font-weight="800">SAME RANK</text>
+  <text x="582" y="315" text-anchor="middle" fill="#b5473f" font-family="system-ui, sans-serif" font-size="17" font-weight="800">SAME SUIT</text>
+  <text x="582" y="340" text-anchor="middle" fill="#68538d" font-family="system-ui, sans-serif" font-size="17" font-weight="800">WILD EIGHT</text>
+  <text x="40" y="390" fill="#1f2522" font-family="system-ui, sans-serif" font-size="18" font-weight="700">KAL short rule: draw one card if stuck, then pass. No scoring or extra action cards.</text>
+</svg>

@@ -110,5 +110,10 @@ choosing a board game worth buying, and finding a game for a standard deck of
 cards. `KAL-RES-004` then reconciled current demand, representative SERPs, and
 authoritative rules for seven standard-deck games. It supports one future
 chooser for Go Fish, Concentration, finite short-form War, Old Maid, and simple
-Crazy Eights. That page must be separately scoped, explicitly untested, and
-review-clean; no product recommendation is authorized.
+Crazy Eights. `KAL-IMP-002` is now registered and implemented as one
+explicitly untested chooser with six original diagrams, frozen starting rules,
+and source-versus-editorial labels. Native, structural, link, source, and
+responsive browser QA are green. Independent persona/every-section review
+closed two bounded correction cycles and returned `PASS` in cycle 3 with no
+P0-P3 findings; reviewed release is pending. No product recommendation is
+authorized.

@@ -6,8 +6,11 @@ repository writer for a validated transaction.
 
 ## Ready
 
-- No content implementation is currently registered as ready. The next action
-  must be separately registered from the roadmap and fresh evidence.
+- `KAL-IMP-002` is the active exact-path implementation for one explicitly
+  untested five-game standard-deck chooser. It uses current Bicycle/Pagat rule
+  reconciliation, original KAL diagrams, a constraint-led chooser, and visible
+  source-versus-editorial labels. Native/browser QA and independent cycle 3
+  persona/every-section review pass; reviewed release is pending.
 - Generator QA and manual-hub migration remain possible future technical work,
   but must be selected separately rather than bundled into research or content.
 
@@ -18,11 +21,14 @@ every-section audit from its decision pack, pass native/focused/visual QA as
 applicable, and receive a different independent read-only review with no
 unresolved P0-P2 findings.
 
-## Next After User Testing
+## Firsthand-Evidence-Gated Later Work
 
 - Add real observations to the age-4 STEM test pack.
 - Upgrade the strongest activity card/page with tested notes and visuals.
 - Strengthen internal links from age-4 STEM and preschool STEM pages to the tested winner.
+- Do not delay explicitly untested, research-backed non-product pages solely
+  because the user cannot supply family testing. Keep all real-world outcomes
+  unknown and label the page honestly instead.
 
 ## Technical
 

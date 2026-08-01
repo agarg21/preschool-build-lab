@@ -34,6 +34,9 @@ The standard-deck card-game lane is the first adjacent implementation
 candidate because completed `KAL-RES-004` research found current demand, a
 parent-choice gap, and reconcilable public rules without requiring a product
 purchase. It is not the site's identity or permission for a generic roundup.
+`KAL-IMP-002` is the registered implementation of that candidate. It is
+review-clean after green native/responsive QA and independent cycle 3 `PASS`;
+reviewed release is pending.
 
 ## Strategic Bet
 
@@ -104,13 +107,13 @@ reconcile current sources, add a useful KAL chooser or explanatory visual,
 state that it is untested when ambiguity is likely, and preserve every
 parent/child outcome as `UNKNOWN`.
 
-The validated 2026-07-31 public-safe GSC snapshot has finalized data through
-2026-07-29 and shows 91 impressions, no clicks, 61 discovered pages, and 7 of
-7 priority URLs indexed. The prior snapshot also has 91 impressions and no
-clicks. Average position moved from 32.23 to 33.24, while the cardboard ramp
-article moved from 30 impressions at 16.93 to 31 at 17.32. Complete query rows
-remain unavailable, so this small movement is monitoring context rather than
-a new implementation trigger.
+The validated 2026-08-01 public-safe GSC snapshot has finalized data through
+2026-07-30 and shows 90 impressions, no clicks, 61 discovered pages, and 7 of
+7 priority URLs indexed. The prior snapshot has 91 impressions and no clicks.
+Average position moved from 33.24 to 33.56, while the cardboard ramp article
+is unchanged at 31 impressions and 17.32. Complete query rows remain
+unavailable, so this small rolling-window movement is monitoring context and
+does not alter `KAL-IMP-002` or trigger another implementation.
 
 The selected ramp improvement is released. Wait for a post-release recrawl and
 at least two finalized public-safe comparison points before attributing
@@ -122,19 +125,20 @@ Keyword demand alone is not enough.
 
 ## Do Now
 
-1. Register and scope `KAL-IMP-002` as one research-backed, explicitly untested
-   chooser for Go Fish, Concentration, finite short-form War, Old Maid, and
-   simple Crazy Eights.
-2. Create original card-layout diagrams and a constraint-led chooser from the
-   completed `KAL-RES-004` source reconciliation.
-3. Keep every parent/child outcome unknown and make no claim that KAL ran any
+1. Release the review-clean `KAL-IMP-002` chooser and verify its exact Pages
+   run and production invariants.
+2. Preserve its five-game boundary, six original diagrams, frozen starting
+   versions, and visible source-versus-editorial labels.
+3. After release, observe discovery and search evidence; do not immediately
+   create individual game or age pages from the same research.
+4. Keep every parent/child outcome unknown and make no claim that KAL ran any
    game.
-4. Observe `KAL-IMP-001` without attributing small page-row movement to the
+5. Observe `KAL-IMP-001` without attributing small page-row movement to the
    release or inferring query intent from public-safe rows.
-5. Use `seo/age-4-keyword-metrics-refresh-2026-07-28.md` as the current paid
+6. Use `seo/age-4-keyword-metrics-refresh-2026-07-28.md` as the current paid
    metric layer; do not treat `n/a` as zero or tool estimates as observed KAL
    demand.
-6. Use `seo/at-home-kids-demand-competition-map-2026-07-29.md` and
+7. Use `seo/at-home-kids-demand-competition-map-2026-07-29.md` and
    `seo/standard-deck-card-game-decision-pack-2026-07-31.md` as the broader
    demand and completed game-decision layers.
 

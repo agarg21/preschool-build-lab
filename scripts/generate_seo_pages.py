@@ -740,6 +740,24 @@ PAGES = [
 ]
 
 
+MANUAL_SEO_TARGETS = [
+    {
+        "path": "collections/card-games-for-kids.html",
+        "page_type": "collection",
+        "primary": "card games for kids",
+        "related": [
+            "family card games",
+            "easy card games for kids",
+            "card games for kids with a deck of cards",
+            "2 player card games for kids",
+        ],
+        "evidence": "KAL-RES-004 refreshed 12 Semrush US queries on 2026-07-31, sampled 8 limited SERPs, and inspected 25 ranking/rules pages; one chooser owns the broad informational job.",
+        "index_status": "index",
+        "first_2_month_impression_expectation": "UNKNOWN; new cluster with no KAL GSC baseline.",
+    }
+]
+
+
 def esc(value):
     return html.escape(value or "", quote=True)
 
@@ -934,6 +952,7 @@ def update_keyword_targets():
     with out.open("w", newline="") as f:
         writer = csv.DictWriter(
             f,
+            lineterminator="\n",
             fieldnames=[
                 "url",
                 "page_type",
@@ -945,16 +964,22 @@ def update_keyword_targets():
             ],
         )
         writer.writeheader()
-        for page in PAGES:
+        for page in PAGES + MANUAL_SEO_TARGETS:
             writer.writerow(
                 {
                     "url": "/" + page["path"],
                     "page_type": page["page_type"],
                     "primary_keyword": page["primary"],
                     "related_keywords": "; ".join(page["related"]),
-                    "evidence": "Google autocomplete variant observed 2026-06-26; SERP has broad roundup competitors.",
-                    "index_status": "index",
-                    "first_2_month_impression_expectation": "20-150 if indexed; higher only if Google trusts the new domain quickly.",
+                    "evidence": page.get(
+                        "evidence",
+                        "Google autocomplete variant observed 2026-06-26; SERP has broad roundup competitors.",
+                    ),
+                    "index_status": page.get("index_status", "index"),
+                    "first_2_month_impression_expectation": page.get(
+                        "first_2_month_impression_expectation",
+                        "20-150 if indexed; higher only if Google trusts the new domain quickly.",
+                    ),
                 }
             )
 

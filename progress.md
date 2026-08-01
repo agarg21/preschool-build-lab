@@ -2,6 +2,57 @@
 
 ## 2026-08-01
 
+### Five-Game Standard-Deck Chooser Review Candidate
+
+- Registered `KAL-IMP-002` from clean aligned base `af9c762` with an exact
+  25-path implementation and release scope.
+- Built one canonical `card games for kids` chooser with exactly five frozen
+  starting versions: Concentration, finite short-form War, Go Fish,
+  reverse-ending Old Maid, and simple Crazy Eights.
+- Added six original accessible card-layout SVGs, one constraint-led chooser,
+  parent supervision and stop boundaries, exact steps, short scripts, reset
+  routes, a frozen-rules register, source notes, and related KAL routes.
+- Rechecked Bicycle, Pagat, and DREME sources on 2026-08-01. Base rule claims,
+  named variants, and general adaptation guidance remain separate from KAL
+  editorial reduced decks and simplifications.
+- Stated prominently that KAL has not run the setups with a family and that
+  comprehension, timing, engagement, enjoyment, learning, repeat play,
+  frustration, and safety outcomes remain unknown.
+- Added the chooser to the homepage, generated card library, keyword target
+  register, and sitemap without creating navigation, individual game pages,
+  products, affiliates, or indexing requests.
+- Python compilation, 13 repository tests, 14-snapshot validation, generator
+  idempotence, HTML/JSON-LD/XML parsing, links, fragments, SVG accessibility,
+  claim scans, 11 live source checks, exact-scope checks, and
+  `git diff --check` pass.
+- Desktop 1440x900 and mobile 390x844 browser QA show no body overflow or
+  console errors; all diagrams render, mobile tables are contained, anchors
+  clear the sticky header, and both entry points navigate correctly.
+- Independent reviewer Mendel
+  (`019fbd2e-018b-7822-bddb-f965bce3e747`) returned `FAIL` in cycle 1 with four
+  P2 findings: an under-labeled War tie change, incomplete Go Fish terminal
+  flow, undisclosed Old Maid hand/rotation load, and one stale direct-use gate.
+  Two P3 notes covered mobile diagram legibility and homepage evidence wording.
+- Corrections labeled the War tie variant, froze Go Fish empty-hand/stock
+  branches, surfaced Old Maid's 11/12-card two-player hand with an editorial
+  handling rescue and empty-player skip rule, replaced the stale gate, made
+  mobile diagrams locally scrollable at legible minimum widths, and clarified
+  the homepage copy. Those corrections proceeded to cycle 2.
+- Cycle 2 closed five prior findings but returned `FAIL` for one remaining P2:
+  a Pagat-style five-card Go Fish refill was described inside a Bicycle-backed
+  block. The writer switched the empty-hand branch to Bicycle's one-card draw
+  and made the next request use that rank.
+- Cycle 3 returned `PASS` with no P0-P3 findings. All seven personas, every
+  affected section, exact scope, and independent focused QA pass. The
+  transaction is review-clean and release is pending.
+- During release reconciliation, origin advanced by the automated 2026-08-01
+  GSC snapshot only. The snapshot validates and shows 90 impressions, 0
+  clicks, 61 discovered pages, 7 of 7 priority URLs indexed, and an unchanged
+  ramp row. It does not alter the chooser decision. Local `HEAD` was
+  fast-forwarded without changing any reviewed path.
+- No commit, push, deployment, indexing request, or external-account change
+  has occurred.
+
 ### Research-Backed Publishing Model
 
 - Registered `KAL-STR-002` from clean, aligned frozen base `4bbb9ca` after

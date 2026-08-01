@@ -8,12 +8,10 @@ automation.
 
 ## Current sequence
 
-1. Complete and release `KAL-STR-002`, which makes research-backed and
-   explicitly untested non-product publishing the durable default while
-   preserving evidence limits.
-2. Register `KAL-IMP-002` as one five-game standard-deck chooser using current
-   source reconciliation, original KAL diagrams, and persona/every-section
-   review.
+1. Release the review-clean `KAL-IMP-002`, the one five-game standard-deck
+   chooser supported by current source reconciliation, and verify production.
+2. Observe the chooser after release; do not create individual game or age
+   pages, Snap, Slapjack, products, or affiliates from the same evidence.
 3. Observe `KAL-IMP-001` without attributing small page-row movement to the
    release.
 4. Keep comparing validated GSC snapshots, but do not infer complete query
@@ -305,6 +303,49 @@ indexed.
   and the JSON result. The correction made every old statement explicitly
   temporal and limited missing observations to claims that actually require
   them. Cycle 2 returned `PASS` with no P0-P3 findings.
+
+## KAL-IMP-002 Review Candidate On 2026-08-01
+
+- The exact 25-path implementation starts from aligned base `af9c762`.
+- One canonical chooser owns `card games for kids` and contains exactly five
+  frozen starting versions: Concentration, finite short-form War, Go Fish,
+  reverse-ending Old Maid, and simple Crazy Eights.
+- Six original accessible SVGs show the overall decision model and one layout
+  per game. They are desk-research diagrams, not family-session evidence.
+- Bicycle supplies the base rules, Pagat supplies named variant or ambiguity
+  context, and DREME supports only the general adaptation practice. Reduced
+  decks, one-pass War scoring, chooser order, scripts, and rescues are visibly
+  labeled KAL editorial judgment.
+- The page prominently says KAL has not run the setups with a family and keeps
+  comprehension, timing, engagement, enjoyment, learning, repeat play,
+  frustration, and safety outcomes unknown.
+- Python compilation, 13 repository tests, 14-snapshot validation, generator
+  idempotence, strict HTML/JSON-LD/XML parsing, links, fragments, SVG
+  accessibility, claim scans, all 11 live source statuses, and
+  `git diff --check` pass.
+- Desktop 1440x900 and mobile 390x844 browser QA show no body overflow or
+  console errors. Mobile tables remain contained, anchors clear the sticky
+  header, all diagrams render, and both internal entry points navigate.
+- Independent persona/every-section review remains the release gate. No
+  indexing request or deployment has occurred.
+- Independent reviewer Mendel
+  (`019fbd2e-018b-7822-bddb-f965bce3e747`) returned `FAIL` in cycle 1 with four
+  P2 rule/state findings and two P3 wording/mobile findings. The writer labeled
+  War's tie variant, completed Go Fish terminal branches, surfaced Old Maid's
+  hand and rotation load with an editorial holding rescue, replaced the stale
+  direct-use gate, made mobile diagrams locally scrollable at legible minimum
+  widths, and clarified the homepage evidence wording. Those corrections
+  proceeded to cycle 2.
+- Cycle 2 closed five prior findings but returned `FAIL` for one P2 Go Fish
+  source-classification mismatch. The empty-hand branch now uses Bicycle's
+  one-card draw instead of a Pagat-style five-card refill.
+- Cycle 3 returned `PASS` with no P0-P3 findings. All seven personas, every
+  affected section, exact 25-path scope, and independent focused QA pass. The
+  transaction is review-clean and its authorized focused release is pending.
+- Release reconciliation fast-forwarded the disjoint automated 2026-08-01 GSC
+  snapshot. It validates at 90 impressions, 0 clicks, 61 discovered pages, and
+  7 of 7 priority URLs indexed; the ramp row is unchanged. This healthy,
+  query-thin movement does not alter the action or any reviewed path.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 

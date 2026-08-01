@@ -33,21 +33,32 @@ it could be ambiguous, preserve outcome fields as `UNKNOWN`, and pass native QA
 plus independent persona/every-section review. Product reviews and tested
 status remain blocked without actual firsthand evidence.
 
-`KAL-RES-004` is complete. Its 12 current Semrush rows, eight limited SERP
-samples, 11 ranking-page inspections, 14 Bicycle/Pagat rules inspections,
-seven game audits, and seven persona hypotheses support one future chooser for
-Go Fish, Concentration, finite short-form War, Old Maid, and simple Crazy
-Eights. `KAL-IMP-002` is the next eligible separate transaction. Snap and
-Slapjack remain out of scope because the completed research did not resolve
-their pace, dispute, and contact risks.
+`KAL-IMP-002` is the active registered transaction from frozen aligned base
+`af9c762`. It implements one explicitly untested chooser for Concentration,
+finite short-form War, Go Fish, reverse-ending Old Maid, and simple Crazy
+Eights, with six original diagrams and visible source-versus-editorial labels.
+Native, parser, link, source, claim, idempotence, and desktop/mobile browser QA
+were green before review. Independent review cycle 1 returned `FAIL` with four
+P2 rule/state gaps and two P3 wording/mobile notes. The writer classified War's
+tie simplification, completed Go Fish and Old Maid terminal flow, surfaced Old
+Maid's hand load and handling rescue, fixed the stale backlog gate, enlarged
+mobile diagrams through contained scrolling, and clarified homepage evidence
+wording. Those corrections proceeded to cycle 2. Snap and Slapjack remain
+outside scope.
+Cycle 2 closed five prior findings but returned `FAIL` for one P2: the Go Fish
+empty-hand step used a Pagat-style five-card refill inside a Bicycle-backed
+flow. The writer replaced it with Bicycle's one-card draw and next-rank
+request. Cycle 3 returned `PASS` with no P0-P3 findings. The exact transaction
+is review-clean and ready for its authorized focused commit, push, Pages run,
+and production verification.
 
-The newest durable GSC snapshot was collected 2026-07-31 with finalized data
-through 2026-07-29. It and the prior point both show 91 impressions and 0
-clicks; average position moved from 32.23 to 33.24. The cardboard ramp article
-moved from 30 impressions at position 16.93 to 31 at 17.32. Sitemap discovery
-remains 61 pages and priority indexing remains 7 of 7. Complete query rows are
-unavailable, so the snapshot is healthy monitoring context and does not select
-another content edit.
+The newest durable GSC snapshot was collected 2026-08-01 with finalized data
+through 2026-07-30. Impressions moved from 91 to 90, clicks remain 0, and
+average position moved from 33.24 to 33.56. The cardboard ramp article is
+unchanged at 31 impressions and position 17.32. Sitemap discovery remains 61
+pages and priority indexing remains 7 of 7. Complete query rows are
+unavailable, so the snapshot is healthy monitoring context and does not alter
+`KAL-IMP-002` or select another content edit.
 
 `KAL-IMP-001` remains released and production-verified. Continue its separate
 observation window. `KAL-IDX-001` stays planned until a changed indexing report
@@ -197,11 +208,8 @@ product-review access still require direct user authority.
 
 ## Next Transaction
 
-After `KAL-STR-002` is review-clean and released, register `KAL-IMP-002` as one
-exact-path implementation for the five-game standard-deck chooser. Scope the
-page architecture and generator boundary from the current repository before
-editing. Use original diagrams, current rule citations, a clear research-
-backed/untested disclosure, conservative supervision and stop guidance, and
-persona/every-section review. Do not include Snap, Slapjack, product commerce,
-tested-status, measured timing, engagement, learning, repeatability,
-frustration, mess, or safety-outcome claims.
+Release the review-clean `KAL-IMP-002` and verify its exact Pages run and
+production invariants. Then observe discovery and finalized public-safe GSC
+evidence. Do not immediately add an individual game, age, Snap, Slapjack,
+product, affiliate, or indexing action from this transaction. The next
+substantive action must come from changed evidence or the next roadmap rescore.
