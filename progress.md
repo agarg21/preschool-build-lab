@@ -44,14 +44,21 @@
   and made the next request use that rank.
 - Cycle 3 returned `PASS` with no P0-P3 findings. All seven personas, every
   affected section, exact scope, and independent focused QA pass. The
-  transaction is review-clean and release is pending.
+  review-clean transaction proceeded to reviewed release.
 - During release reconciliation, origin advanced by the automated 2026-08-01
   GSC snapshot only. The snapshot validates and shows 90 impressions, 0
   clicks, 61 discovered pages, 7 of 7 priority URLs indexed, and an unchanged
   ramp row. It does not alter the chooser decision. Local `HEAD` was
   fast-forwarded without changing any reviewed path.
-- No commit, push, deployment, indexing request, or external-account change
-  has occurred.
+- Committed the exact 25 reviewed paths as
+  `379057024d0c988d881397147abfeab7034d2fff` and pushed `main`.
+- Exact-SHA GitHub Pages run `30699530311` succeeded. The live chooser returns
+  200 and byte-matches the reviewed HTML; all six SVGs return 200.
+- Live metadata, canonical, H1, five-game count, JSON-LD, disclosure, corrected
+  War/Go Fish/Old Maid rules, and desktop/mobile overflow, image, local-scroll,
+  and console invariants pass.
+- No indexing request, product, affiliate, parent/child evidence, or external-
+  account change occurred. The chooser now enters observation.
 
 ### Research-Backed Publishing Model
 

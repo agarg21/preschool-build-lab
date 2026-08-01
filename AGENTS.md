@@ -164,9 +164,9 @@ PY
 
 ## Current Priority Stack
 
-1. Release the review-clean `KAL-IMP-002`, the one research-backed, explicitly
-   untested standard-deck card-game chooser, and verify production.
-2. After release, observe the chooser without creating individual game, age,
+1. Observe the released `KAL-IMP-002` standard-deck card-game chooser for
+   discovery and search evidence without inferring family outcomes.
+2. Do not create individual game, age,
    Snap, Slapjack, product, or affiliate pages from the same evidence.
 3. Keep age-4 STEM pages honest and useful; do not wait for unavailable family
    testing or upgrade any page to tested status.

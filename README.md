@@ -115,5 +115,6 @@ explicitly untested chooser with six original diagrams, frozen starting rules,
 and source-versus-editorial labels. Native, structural, link, source, and
 responsive browser QA are green. Independent persona/every-section review
 closed two bounded correction cycles and returned `PASS` in cycle 3 with no
-P0-P3 findings; reviewed release is pending. No product recommendation is
-authorized.
+P0-P3 findings. Commit `3790570` is released through successful exact-SHA
+Pages run `30699530311`, and the live chooser byte-matches the reviewed HTML.
+No product recommendation is authorized.

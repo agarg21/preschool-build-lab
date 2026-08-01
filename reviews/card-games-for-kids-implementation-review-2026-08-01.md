@@ -1,6 +1,6 @@
 # KAL-IMP-002 Independent Implementation Review
 
-State: review-clean
+State: review-clean and released
 
 Review date: 2026-08-01
 
@@ -176,3 +176,13 @@ findings: none (`P0`-`P3`). Final verdict: `PASS`.
 Residual risks are limited to unknown family outcomes, future search
 performance, possible upstream source changes, and platform-dependent mobile
 scroll behavior with equivalent text alternatives and adjacent instructions.
+
+## Release
+
+- Reviewed content commit: `379057024d0c988d881397147abfeab7034d2fff`
+- GitHub Pages run: `30699530311` (`success`)
+- Live chooser: HTTP 200 and byte-identical to the reviewed HTML
+- Six live diagrams: HTTP 200
+- Live metadata, canonical, H1, five-game count, JSON-LD, disclosure, corrected
+  War/Go Fish/Old Maid rules, desktop/mobile overflow, image, local-scroll, and
+  console invariants: pass

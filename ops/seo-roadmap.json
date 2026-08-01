@@ -334,8 +334,9 @@
       "learning_value": 5,
       "effort": 4,
       "risk": 3,
-      "status": "in_progress",
+      "status": "completed",
       "selected_on": "2026-08-01",
+      "completed_on": "2026-08-01",
       "frozen_base": "af9c762b9f47a0ca689de36cba5f96fa8af7ee27",
       "allowed_during_observation": true,
       "requires_fresh_gsc": true,
@@ -378,7 +379,7 @@
       ],
       "success_signal": "One index-worthy chooser helps a parent select and start exactly five standard-deck games by readiness, players, pace, and rule load; reconciles one frozen version per game; includes six original accessible diagrams; clearly states that KAL has not family-tested the guidance; preserves all parent/child outcomes as UNKNOWN; and creates no individual game, product, affiliate, indexing, or external-account action.",
       "decision_pack": "seo/standard-deck-card-game-decision-pack-2026-07-31.md",
-      "implementation_state": "review-clean-release-pending",
+      "implementation_state": "released-and-verified",
       "baseline": "KAL has no page owning the standard-deck card-game job. KAL-RES-004 found current TOOL_ESTIMATE demand and a parent-choice gap across limited SERPs, while complete GSC query rows and all KAL family-use outcomes remain UNKNOWN. The July 31 public-safe GSC snapshot is healthy and query-thin and does not select a competing existing-page edit.",
       "hypothesis": "A single source-reconciled chooser with original diagrams and explicit evidence limits can reduce decision and setup effort more usefully than another generic rules roundup, without claiming that KAL observed a child or parent use any game.",
       "expected_effect": "A parent can choose among Concentration, finite short-form War, Go Fish, reverse-ending Old Maid, and simple Crazy Eights; see an exact starting layout; follow one frozen rule loop; and stop or simplify without consulting multiple rule pages. Search performance and real-world usefulness remain unproven until measured separately.",
@@ -397,7 +398,7 @@
         "generator output isolation, strict metadata/JSON-LD/XML, links, accessibility, responsive layout, and no console errors",
         "independent read-only persona/every-section review with PASS or PASS_WITH_P3"
       ],
-      "release_state": "review-clean-push-pending",
+      "release_state": "released-and-verified",
       "qa_summary": "Python compilation, 13 repository tests, 15-snapshot validation after release reconciliation, card/SEO generator idempotence, strict HTML/JSON-LD/XML parsing, zero missing links/fragments, six accessible SVG contracts, 62 unique sitemap URLs, claim scans, 11 live source statuses, desktop/mobile browser invariants, entry-point navigation, and git diff --check pass. The existing sitemap generator's all-page lastmod churn was normalized to actual changed pages without modifying the out-of-scope generator.",
       "latest_evidence_reconciliation": "During release reconciliation, origin advanced only by the validated automated 2026-08-01 GSC snapshot with data through 2026-07-30: 90 impressions versus 91, 0 clicks in both, average position 33.56 versus 33.24, 61 discovered pages, 7 of 7 priority URLs indexed, and an unchanged cardboard-ramp row. Complete query rows remain unavailable. The healthy rolling-window movement does not alter KAL-IMP-002 or select another action.",
       "review_cycles": 3,
@@ -407,7 +408,13 @@
         "thread_id": "019fbd2e-018b-7822-bddb-f965bce3e747",
         "read_only": true
       },
-      "next_eligible_action": "verify-KAL-IMP-002-release-and-observe",
+      "result": "Published one canonical, explicitly untested five-game standard-deck chooser with a constraint-led comparison, six original accessible diagrams, source-versus-editorial rule labels, complete finite/rescue flow, conservative parent boundaries, and no fabricated family outcomes. Independent review required three cycles and finished PASS with no P0-P3 findings. Native, structural, link, source, generator, claim, and responsive QA pass. No individual game page, Snap, Slapjack, navigation, product, affiliate, indexing request, parent/child evidence, or external-account action was created.",
+      "release_commit": "379057024d0c988d881397147abfeab7034d2fff",
+      "pages_run_id": 30699530311,
+      "pages_run_url": "https://github.com/agarg21/preschool-build-lab/actions/runs/30699530311",
+      "released_on": "2026-08-01",
+      "production_verification": "Exact-SHA Pages run 30699530311 succeeded. The live chooser returned HTTP 200 and byte-matched committed HTML SHA-1 67706a9b11848a92101afad7bdd58325602797e0. All six SVGs returned 200. Live title, canonical, H1, five-game count, three JSON-LD entities, prominent untested disclosure, corrected War/Go Fish/Old Maid rule invariants, and desktop 1440x900/mobile 390x844 overflow, local-scroll, image, and console checks passed.",
+      "next_eligible_action": "observe-KAL-IMP-002-when-evidence-changes",
       "notes": "Direct manual implementation transaction. Exact twenty-five-path scope. Do not change navigation, create individual game pages, add Snap or Slapjack, request indexing, add products or affiliates, modify external accounts, or claim firsthand use."
     },
     {

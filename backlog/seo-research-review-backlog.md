@@ -57,20 +57,19 @@ seven source-traced parent-job hypotheses supported one bounded candidate: a
 five-game chooser for Go Fish, Concentration, finite short-form War, Old Maid,
 and simple Crazy Eights. `KAL-STR-002` later removed unavailable family testing
 as a prerequisite for honestly labeled, research-backed non-product pages.
-`KAL-IMP-002` is now implementing that chooser with original diagrams and all
-family outcomes preserved as `UNKNOWN`. Snap and Slapjack remain outside this
-first scope.
+`KAL-IMP-002` released that chooser with original diagrams and all family
+outcomes preserved as `UNKNOWN`. Snap and Slapjack remain outside this first
+scope.
 
 The canonical promise is now to help a parent find something interesting that
 fits the child and the moment, then make it easy to start. At-home, free,
 low-prep, screen-free, and age-specific are constraints and filters. Age-4
 STEM remains the current firsthand-evidence wedge.
 
-`KAL-IMP-002` is the only active implementation. Observe the released ramp
-article until its post-release recrawl and two finalized public-safe comparison
-points. Do not promote another Games URL while the chooser is being built or
-observed. Arts & Crafts remains a possible future research candidate, not a
-queued page.
+`KAL-IMP-002` is released and enters observation alongside the ramp article.
+Wait for discovery and finalized public-safe comparison points. Do not promote
+another Games URL from the same evidence. Arts & Crafts remains a possible
+future research candidate, not a queued page.
 
 ## Demand-Led Taxonomy Rescore
 

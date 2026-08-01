@@ -35,8 +35,8 @@ candidate because completed `KAL-RES-004` research found current demand, a
 parent-choice gap, and reconcilable public rules without requiring a product
 purchase. It is not the site's identity or permission for a generic roundup.
 `KAL-IMP-002` is the registered implementation of that candidate. It is
-review-clean after green native/responsive QA and independent cycle 3 `PASS`;
-reviewed release is pending.
+released and production-verified after green native/responsive QA and
+independent cycle 3 `PASS`.
 
 ## Strategic Bet
 
@@ -125,12 +125,11 @@ Keyword demand alone is not enough.
 
 ## Do Now
 
-1. Release the review-clean `KAL-IMP-002` chooser and verify its exact Pages
-   run and production invariants.
+1. Observe `KAL-IMP-002` for discovery and finalized public-safe search
+   evidence without attributing movement to parent usefulness.
 2. Preserve its five-game boundary, six original diagrams, frozen starting
    versions, and visible source-versus-editorial labels.
-3. After release, observe discovery and search evidence; do not immediately
-   create individual game or age pages from the same research.
+3. Do not create individual game or age pages from the same research.
 4. Keep every parent/child outcome unknown and make no claim that KAL ran any
    game.
 5. Observe `KAL-IMP-001` without attributing small page-row movement to the

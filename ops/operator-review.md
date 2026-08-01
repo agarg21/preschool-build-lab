@@ -114,6 +114,18 @@ Residual risk: family outcomes and search performance remain unknown; upstream
 rules sources can change; mobile diagram scrolling remains platform-dependent
 but has text alternatives and adjacent instructions.
 
+Release:
+
+- Reviewed content commit:
+  `379057024d0c988d881397147abfeab7034d2fff`
+- Exact-SHA GitHub Pages run `30699530311`: success.
+- Live chooser: HTTP 200 and byte-identical to the reviewed HTML.
+- Six live diagrams: HTTP 200.
+- Live metadata, canonical, H1, five-game count, JSON-LD, disclosure, corrected
+  rule branches, and desktop/mobile overflow, image, local-scroll, and console
+  invariants: pass.
+- Release state: released and production-verified.
+
 ## 2026-08-01 Research-Backed Publishing Model
 
 Action: `KAL-STR-002`

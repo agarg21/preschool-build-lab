@@ -8,9 +8,9 @@ automation.
 
 ## Current sequence
 
-1. Release the review-clean `KAL-IMP-002`, the one five-game standard-deck
-   chooser supported by current source reconciliation, and verify production.
-2. Observe the chooser after release; do not create individual game or age
+1. Observe the released `KAL-IMP-002` chooser for discovery and finalized
+   public-safe search evidence.
+2. Do not create individual game or age
    pages, Snap, Slapjack, products, or affiliates from the same evidence.
 3. Observe `KAL-IMP-001` without attributing small page-row movement to the
    release.
@@ -341,11 +341,19 @@ indexed.
   one-card draw instead of a Pagat-style five-card refill.
 - Cycle 3 returned `PASS` with no P0-P3 findings. All seven personas, every
   affected section, exact 25-path scope, and independent focused QA pass. The
-  transaction is review-clean and its authorized focused release is pending.
+  review-clean transaction proceeded to its authorized focused release.
 - Release reconciliation fast-forwarded the disjoint automated 2026-08-01 GSC
   snapshot. It validates at 90 impressions, 0 clicks, 61 discovered pages, and
   7 of 7 priority URLs indexed; the ramp row is unchanged. This healthy,
   query-thin movement does not alter the action or any reviewed path.
+- Reviewed content commit `3790570` was pushed to `main`; exact-SHA GitHub
+  Pages run `30699530311` succeeded.
+- The live chooser returns 200 and byte-matches the reviewed HTML. All six SVGs
+  return 200. Live metadata, canonical, H1, five-game count, JSON-LD,
+  disclosure, corrected rule branches, and desktop/mobile overflow, image,
+  local-scroll, and console invariants pass.
+- Release state: released and production-verified. The next eligible action is
+  observation when discovery or finalized evidence changes.
 
 ## Review-clean on 2026-07-28: Chat-led execution
 

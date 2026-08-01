@@ -33,7 +33,7 @@ it could be ambiguous, preserve outcome fields as `UNKNOWN`, and pass native QA
 plus independent persona/every-section review. Product reviews and tested
 status remain blocked without actual firsthand evidence.
 
-`KAL-IMP-002` is the active registered transaction from frozen aligned base
+`KAL-IMP-002` is the completed transaction from frozen aligned base
 `af9c762`. It implements one explicitly untested chooser for Concentration,
 finite short-form War, Go Fish, reverse-ending Old Maid, and simple Crazy
 Eights, with six original diagrams and visible source-versus-editorial labels.
@@ -49,8 +49,9 @@ Cycle 2 closed five prior findings but returned `FAIL` for one P2: the Go Fish
 empty-hand step used a Pagat-style five-card refill inside a Bicycle-backed
 flow. The writer replaced it with Bicycle's one-card draw and next-rank
 request. Cycle 3 returned `PASS` with no P0-P3 findings. The exact transaction
-is review-clean and ready for its authorized focused commit, push, Pages run,
-and production verification.
+was released in commit `3790570`. Exact-SHA Pages run `30699530311` succeeded;
+the live chooser byte-matches the reviewed HTML, all six diagrams return 200,
+and desktop/mobile production invariants pass.
 
 The newest durable GSC snapshot was collected 2026-08-01 with finalized data
 through 2026-07-30. Impressions moved from 91 to 90, clicks remain 0, and
@@ -72,9 +73,9 @@ movement to `KAL-IMP-001`. A first click or complete query evidence is a new
 decision gate, not proof of parent usefulness. Do not claim parent/child
 evidence.
 
-This gate does not block a separately registered, research-backed
-`KAL-IMP-002` transaction because that action relies on completed card-game
-research and will make no attribution to the ramp release.
+`KAL-IMP-002` has its own observation gate. Wait for discovery and finalized
+public-safe comparison points without treating search movement as proof of
+parent or child usefulness.
 
 ## Waiting On User
 
@@ -85,6 +86,12 @@ product-review access still require direct user authority.
 
 ## Recently Completed
 
+- `KAL-IMP-002` released one explicitly untested, research-backed five-game
+  standard-deck chooser with six original diagrams and frozen rule loops.
+  Independent cycle 3 review returned `PASS`; commit `3790570`, Pages run
+  `30699530311`, byte match, live assets, and responsive production checks all
+  pass. No indexing request, product, affiliate, external account, or
+  parent/child evidence was created.
 - `KAL-STR-002` adopted the research-backed, explicitly untested publication
   model for non-product pages, removed family testing from the active user
   queue, retained the higher firsthand bar for tested/outcome/product claims,
@@ -208,8 +215,7 @@ product-review access still require direct user authority.
 
 ## Next Transaction
 
-Release the review-clean `KAL-IMP-002` and verify its exact Pages run and
-production invariants. Then observe discovery and finalized public-safe GSC
-evidence. Do not immediately add an individual game, age, Snap, Slapjack,
+Observe discovery and finalized public-safe GSC evidence for `KAL-IMP-002`.
+Do not immediately add an individual game, age, Snap, Slapjack,
 product, affiliate, or indexing action from this transaction. The next
 substantive action must come from changed evidence or the next roadmap rescore.

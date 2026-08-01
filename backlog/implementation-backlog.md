@@ -6,11 +6,9 @@ repository writer for a validated transaction.
 
 ## Ready
 
-- `KAL-IMP-002` is the active exact-path implementation for one explicitly
-  untested five-game standard-deck chooser. It uses current Bicycle/Pagat rule
-  reconciliation, original KAL diagrams, a constraint-led chooser, and visible
-  source-versus-editorial labels. Native/browser QA and independent cycle 3
-  persona/every-section review pass; reviewed release is pending.
+- No content implementation is currently ready. `KAL-IMP-002` is released and
+  enters observation; do not create individual card-game or age pages from the
+  same evidence.
 - Generator QA and manual-hub migration remain possible future technical work,
   but must be selected separately rather than bundled into research or content.
 
@@ -38,6 +36,10 @@ unresolved P0-P2 findings.
 
 ## Done
 
+- Released `KAL-IMP-002` in `3790570` with successful exact-SHA Pages run
+  `30699530311`. The live five-game chooser byte-matches the reviewed HTML,
+  all six diagrams return 200, and desktop/mobile production invariants pass.
+  Independent cycle 3 review returned `PASS` with no P0-P3 findings.
 - Released `KAL-IMP-001` in `a15dca7` with successful exact-SHA Pages run
   `30394783721`. The live cardboard ramp article byte-matches the reviewed
   source, preserves the build/troubleshooting role, adds one source-backed
