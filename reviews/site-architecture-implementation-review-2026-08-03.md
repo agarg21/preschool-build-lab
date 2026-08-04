@@ -82,3 +82,18 @@ Final verdict: `PASS`
 Residual risk: crawl, rank, and click changes remain unknown until later
 measurement. The implementation creates no evidence of parent or child
 usefulness.
+
+## Release Evidence
+
+- Exact reviewed commit:
+  `51a91d86c1cf0fc7d89ccdb255f5320dcad4942e`.
+- Exact-SHA GitHub Pages run `30868565105` succeeded:
+  https://github.com/agarg21/preschool-build-lab/actions/runs/30868565105
+- The live sitemap byte-matches the committed 61-URL sitemap and excludes the
+  preserved verification URL; the verification file remains publicly
+  available with HTTP 200.
+- The live Paper Bridge card byte-matches committed HTML. Production
+  desktop/mobile checks pass without overflow or console warnings/errors, and
+  all 10 monitored URLs return 200 and remain in the live sitemap.
+- Release state: released and production-verified. No indexing request or
+  external-account action occurred.

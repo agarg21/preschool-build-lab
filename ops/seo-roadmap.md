@@ -8,11 +8,10 @@ automation.
 
 ## Current sequence
 
-1. Complete registered `KAL-SEO-001` as a structural rank-foundation action:
-   remove the verification file from the sitemap, normalize internal homepage
-   links to the root canonical, add restrained reciprocal card-to-hub routes,
-   and expand read-only priority inspection. Do not create URLs, rewrite page
-   intent, change navigation labels, or request indexing.
+1. Observe the released `KAL-SEO-001` rank foundation for at least two
+   finalized snapshot comparisons and a refreshed sitemap read. Do not infer
+   ranking causality, request indexing, or manufacture follow-on work from
+   unchanged evidence.
 2. Observe the released `KAL-IMP-002` chooser for discovery and finalized
    public-safe search evidence.
 3. Do not create individual game or age
@@ -71,7 +70,18 @@ automation.
   reran the 17 tests, 17-snapshot validation, corrected content-link counter,
   exact-scope comparison, and `git diff --check`, and returned `PASS` with no
   P0-P3 findings.
-- State: review-clean and pending authorized release.
+- Released exact reviewed commit
+  `51a91d86c1cf0fc7d89ccdb255f5320dcad4942e`. Exact-SHA Pages run
+  `30868565105` succeeded.
+- The live sitemap byte-matches the committed 61-URL sitemap and excludes the
+  preserved verification file, whose public URL still returns 200. The live
+  Paper Bridge card also byte-matches its committed HTML.
+- Production desktop/mobile checks pass without overflow or console
+  warnings/errors. The three card routes fit, the engineering hub exposes nine
+  card links, and all 10 monitored URLs return 200 and remain in the sitemap.
+- State: released and production-verified. The next eligible action is
+  observation after two finalized snapshot comparisons and a refreshed
+  sitemap read; no indexing request was made.
 
 The authenticated Page indexing review collected 2026-07-18 is normalized in
 `ops/gsc-indexing-review-2026-07-18.md`. Google's report was last updated

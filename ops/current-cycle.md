@@ -93,7 +93,7 @@ activity cards, and add the card-game, engineering, and math URLs to read-only
 priority inspection. It creates no URL, content-intent rewrite, navigation
 label, indexing request, external-account action, or parent/child evidence.
 Native QA, responsive browser QA, and a different independent read-only review
-remain release gates.
+were release gates.
 
 Implementation and pre-review QA are complete. The 61-URL sitemap contract,
 root-canonical internal links, 36 restrained card route blocks, 10-URL
@@ -107,8 +107,14 @@ tag and overstated every total by one. The claims are corrected. The reviewer
 also noted one P3 test gap; the regression test now independently enforces
 source ownership and the sole unrouted `paper-roll-play` card. The transaction
 completed cycle 2 read-only review with `PASS` and no P0-P3 findings. The
-transaction is review-clean and pending authorized release; it has not yet
-been committed, pushed, deployed, or submitted for indexing.
+transaction released as exact reviewed commit
+`51a91d86c1cf0fc7d89ccdb255f5320dcad4942e`; exact-SHA Pages run
+`30868565105` succeeded. The live sitemap and Paper Bridge card byte-match the
+committed files, the sitemap contains 61 content URLs while the preserved
+verification file still returns 200, and production desktop/mobile plus
+10-URL public preflight checks pass. No indexing request was made. Observe at
+least two finalized snapshot comparisons and a refreshed sitemap read before
+considering another action or attributing ranking movement.
 
 ## Waiting On User
 

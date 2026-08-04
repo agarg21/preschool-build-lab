@@ -427,8 +427,9 @@
       "learning_value": 4,
       "effort": 3,
       "risk": 2,
-      "status": "in_progress",
+      "status": "completed",
       "selected_on": "2026-08-03",
+      "completed_on": "2026-08-03",
       "frozen_base": "b31ac9599817082c1c954e83b9e3843f46330059",
       "allowed_during_observation": true,
       "requires_fresh_gsc": true,
@@ -524,7 +525,7 @@
         "progress.md"
       ],
       "success_signal": "The sitemap contains only canonical indexable content URLs, every internal homepage link resolves directly to the root canonical, activity cards provide a small set of relevant reciprocal routes into existing age and collection hubs, and read-only monitoring includes the newly released and currently visible priority pages without changing page ownership or requesting indexing.",
-      "implementation_state": "review-clean-release-pending",
+      "implementation_state": "released-and-verified",
       "baseline": "The validated 2026-08-03 snapshot has finalized data through 2026-08-01: 116 impressions, 0 clicks, 61 discovered pages, and 7 of 7 configured priority URLs indexed. Engineering holds 9 impressions at average position 15.33 and math has 24 impressions at 41.13. Complete query rows remain unavailable. Repository inspection found that the 62-URL sitemap includes the Google verification file, internal navigation points to /index.html instead of the root canonical, and most collection hubs receive only one internal content link.",
       "hypothesis": "Removing a non-content sitemap URL, consolidating internal homepage signals, and adding restrained reciprocal card-to-hub links will make the current site architecture easier for parents and crawlers to traverse without manufacturing new pages or rewriting content from incomplete query evidence.",
       "expected_effect": "The 61 intended indexable content URLs remain unchanged, cluster hubs receive relevant internal links from the cards they contain, and future snapshots directly inspect the card-game chooser plus the engineering and math pages. Ranking, clicks, and usefulness remain unproven until later measurement.",
@@ -549,7 +550,14 @@
         "thread_id": "019fc813-fd5b-7453-870e-d995e39847fd",
         "read_only": true
       },
-      "release_state": "pending-release",
+      "release_state": "released-and-verified",
+      "release_commit": "51a91d86c1cf0fc7d89ccdb255f5320dcad4942e",
+      "pages_run_id": 30868565105,
+      "pages_run_url": "https://github.com/agarg21/preschool-build-lab/actions/runs/30868565105",
+      "released_on": "2026-08-03",
+      "production_verification": "Exact-SHA Pages run 30868565105 succeeded. The live sitemap byte-matched the committed 61-URL sitemap, excluded the Google verification URL, and the preserved verification file returned HTTP 200. The live Paper Bridge card byte-matched committed HTML. Production desktop and mobile checks found no overflow or console warnings/errors, all three card routes fit, the engineering hub exposed nine card links, and all 10 monitored URLs returned HTTP 200 and remained in the live sitemap.",
+      "result": "Released a structural rank foundation without adding or removing content URLs: the sitemap now owns 61 canonical indexable content URLs, internal homepage links point to the root canonical, 36 generated cards provide one to three source-owned existing-hub routes, and read-only GSC inspection covers 10 priority URLs. Engineering, math, and preschool STEM receive 10, 9, and 9 internal content links. Independent review cycle 2 returned PASS with no P0-P3 findings; native QA, exact-SHA deployment, byte matches, responsive production checks, and public preflight pass. No indexing request, content-intent rewrite, external-account action, or parent/child evidence was created.",
+      "next_eligible_action": "observe-KAL-SEO-001-after-two-finalized-snapshots-and-refreshed-sitemap-read",
       "notes": "Direct manual technical implementation. Exact paths are frozen above. Do not change titles, H1s, body claims, parent-facing navigation labels, page indexability, content ownership, GSC credentials, snapshots, external accounts, or request indexing."
     },
     {

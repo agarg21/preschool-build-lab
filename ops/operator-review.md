@@ -102,6 +102,20 @@ Final result: `PASS`
 Residual risk: crawl, ranking, and click effects remain unknown until later
 measurement. No parent/child or usefulness outcome is inferred.
 
+Release:
+
+- Exact reviewed commit:
+  `51a91d86c1cf0fc7d89ccdb255f5320dcad4942e`.
+- Exact-SHA GitHub Pages run `30868565105` succeeded:
+  https://github.com/agarg21/preschool-build-lab/actions/runs/30868565105
+- The production sitemap byte-matches the committed 61-URL sitemap, excludes
+  the preserved Google verification URL, and the verification file still
+  returns HTTP 200. The live Paper Bridge card byte-matches committed HTML.
+- Production desktop/mobile layout and console checks pass, and all 10
+  monitored URLs return 200 and remain in the live sitemap.
+- Release state: released and production-verified. No indexing request or
+  external-account action occurred.
+
 ## 2026-08-01 Five-Game Standard-Deck Chooser
 
 Action: `KAL-IMP-002`

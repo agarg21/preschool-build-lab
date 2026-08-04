@@ -1,6 +1,6 @@
 # Progress Log
 
-## 2026-08-03 - KAL-SEO-001 Review Candidate
+## 2026-08-03 - KAL-SEO-001 Released
 
 - Registered one structural rank-foundation transaction from clean aligned
   base `b31ac9599817082c1c954e83b9e3843f46330059` after validating all 17
@@ -34,9 +34,15 @@
 - Independent review cycle 2 verified both findings closed and returned
   `PASS` with no P0-P3 findings after independently rerunning tests, snapshot
   validation, the corrected counter, exact scope, and `git diff --check`.
-- State: review-clean and pending authorized release. No commit, push,
-  deployment, indexing request, external-account change, or new URL has
-  occurred.
+- Released exact reviewed commit
+  `51a91d86c1cf0fc7d89ccdb255f5320dcad4942e`; exact-SHA GitHub Pages run
+  `30868565105` succeeded. The live sitemap and Paper Bridge card byte-match
+  the committed files, the sitemap exposes 61 content URLs while the preserved
+  verification file still returns 200, and production desktop/mobile plus
+  10-URL public preflight checks pass.
+- No indexing request, external-account change, content-intent rewrite,
+  parent/child evidence, or new URL occurred. Observe at least two finalized
+  snapshots and a refreshed sitemap read before selecting a follow-on action.
 
 ## 2026-08-01
 
