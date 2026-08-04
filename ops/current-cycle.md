@@ -33,7 +33,7 @@ it could be ambiguous, preserve outcome fields as `UNKNOWN`, and pass native QA
 plus independent persona/every-section review. Product reviews and tested
 status remain blocked without actual firsthand evidence.
 
-`KAL-IMP-004` is the review-clean implementation transaction from clean aligned
+`KAL-IMP-004` is released and production-verified from clean aligned
 base `f11d53777aa1d051dfc5e40c088ab790077aebd7`. Its exact twelve-path scope
 preserves the existing building URL and upgrades it as one research-backed
 preschool-building chooser with age four retained as a route. It may add one
@@ -45,8 +45,11 @@ construction-theme curriculum, request indexing, or change an external
 account. Native and responsive QA pass. Independent reviewer Kuhn
 (`019fce45-5870-7350-94ce-d40eee59da3d`) required three cycles: the Master
 closed two P2 safety-boundary findings and two P3 wording ambiguities, then the
-reviewer returned `PASS` with no P0-P3 findings. The exact review-clean change
-is ready for its focused push and exact-SHA production verification.
+reviewer returned `PASS` with no P0-P3 findings. Exact reviewed commit
+`1c0c2271ca7d2be7025c99f3e5c01648680ae5d1` was released by successful Pages
+run `30945353738`. The live HTML, WebP, CSS, and sitemap byte-match; desktop and
+mobile title, canonical, H1, first-start, disclosure, readiness, chooser,
+build, source, anchor, image, overflow, console, and request invariants pass.
 
 `KAL-RES-007` is review-clean from frozen aligned base
 `21ebd4c6281453f356f80f3434e7793f0338be7e`. It refreshed 36 exact Semrush US
@@ -103,6 +106,10 @@ evidence.
 `KAL-IMP-002` has its own observation gate. Wait for discovery and finalized
 public-safe comparison points without treating search movement as proof of
 parent or child usefulness.
+
+`KAL-IMP-004` has its own observation gate. Wait for a post-release crawl or
+changed finalized GSC evidence without inferring query intent, release
+causality, or family outcomes. Do not request indexing.
 
 ## Released Transaction
 

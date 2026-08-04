@@ -8,9 +8,9 @@ automation.
 
 ## Current sequence
 
-1. Release review-clean `KAL-IMP-004`: improve the existing building URL as
-   the preschool-building owner while preserving age four as a route and
-   keeping engineering and classroom construction themes separate.
+1. Observe released `KAL-IMP-004` until a post-release crawl or changed
+   finalized GSC evidence. Do not infer query intent, ranking causality, or
+   family outcomes, and do not request indexing.
 2. Keep indoor and rainy-day pages unchanged until a separate action resolves
    their overlapping preschool SERPs and eight-of-nine shared cards. Do not
    chase broad indoor's venue intent or broad rainy's all-age breadth with a
@@ -46,7 +46,7 @@ automation.
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
 
-## KAL-IMP-004 Review-Clean On 2026-08-04
+## KAL-IMP-004 Released On 2026-08-04
 
 - Frozen clean aligned base:
   `f11d53777aa1d051dfc5e40c088ab790077aebd7`.
@@ -78,8 +78,15 @@ automation.
   (`019fce45-5870-7350-94ce-d40eee59da3d`) required three cycles to close two
   P2 safety-language gaps and two P3 wording ambiguities, then returned `PASS`
   with no P0-P3 findings.
-- State: review-clean and ready for one focused push. Search and all family
-  outcomes remain unproven; no indexing request is authorized.
+- Released as exact reviewed commit
+  `1c0c2271ca7d2be7025c99f3e5c01648680ae5d1`. Exact-SHA Pages run
+  `30945353738` succeeded. The live HTML, 1672x941 WebP, CSS, and sitemap
+  byte-match the commit; title, canonical, H1, first-start default, disclosure,
+  readiness note, seven chooser links, nine builds, six sources, image load,
+  anchor clearance, and 1440x1000/390x844 zero-overflow invariants pass in a
+  clean production browser context.
+- State: released and production-verified. Search and all family outcomes
+  remain unproven; no indexing request is authorized.
 
 ## KAL-RES-007 Completed On 2026-08-04
 

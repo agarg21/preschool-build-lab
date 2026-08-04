@@ -22,7 +22,7 @@ evidence.
 
 Action: `KAL-IMP-004`
 
-State: review-clean; focused push pending
+State: released and verified
 
 Frozen base: `f11d53777aa1d051dfc5e40c088ab790077aebd7`
 
@@ -53,8 +53,16 @@ confirmed all six personas, every visible section, canonical and query
 ownership, age-four route label, generator isolation, sitemap, evidence and
 human gates, accessibility semantics, 28 passing tests, complete HTML checks,
 card byte stability, exact scope, and `git diff --check`. Search and every
-family outcome remain unknown. Exact-SHA Pages and production verification are
-the remaining release gates.
+family outcome remain unknown.
+
+Exact reviewed commit `1c0c2271ca7d2be7025c99f3e5c01648680ae5d1`
+released through successful Pages run `30945353738`. The live HTML, 1672x941
+WebP, CSS, and sitemap byte-match the commit. Production title, canonical,
+single H1, first-start default, disclosure, readiness note, seven chooser
+links, nine builds, six sources, image load, anchor clearance, and desktop/
+mobile zero-overflow invariants pass. A fresh browser context reports no
+console, page, or HTTP errors. Observe until a post-release crawl or changed
+finalized GSC evidence; do not request indexing or infer family outcomes.
 
 ## 2026-08-04 Indoor, Rainy-Day, And Building Research
 

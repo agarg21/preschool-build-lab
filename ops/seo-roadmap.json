@@ -1226,8 +1226,9 @@
       "learning_value": 4,
       "effort": 4,
       "risk": 3,
-      "status": "in_progress",
+      "status": "completed",
       "selected_on": "2026-08-04",
+      "completed_on": "2026-08-04",
       "frozen_base": "f11d53777aa1d051dfc5e40c088ab790077aebd7",
       "allowed_during_observation": true,
       "requires_fresh_gsc": true,
@@ -1277,7 +1278,7 @@
         "focused, repository, HTML, link, sitemap, source, accessibility, responsive, overflow, and console QA pass",
         "independent read-only persona/every-section review returns PASS or PASS_WITH_P3"
       ],
-      "implementation_state": "review-clean",
+      "implementation_state": "released-and-verified",
       "qa_summary": "All three publishing generators ran and only the authorized building page differs among generated content pages; every activity-card page and the cards index remain byte-identical to the frozen base. Python compilation, 28 repository tests, valid roadmap JSON, strict sitemap ownership with target-only lastmod, 64-page H1/link/anchor/ID checks, six source URL checks, exact-path scope, and git diff --check pass. Local Chrome/Playwright checks at 1440x1000 and 390x844 confirm the 1672x941 illustration, readiness note, seven chooser destinations, nine builds, and six sources render without page, chooser, or card overflow, overlap, console errors, page errors, or action-scoped HTTP failures. Chooser anchors clear the sticky header.",
       "review_cycles": 3,
       "review_outcome": "PASS",
@@ -1287,7 +1288,13 @@
         "read_only": true
       },
       "result": "Upgraded the existing building URL into one research-backed preschool building chooser while retaining age four as a visible route. The page now leads with an immediate low-block-home default, a prominent not-family-tested disclosure, a mixed-age readiness note, an honestly labeled illustration, a material/build-job chooser with seven exact destinations, four adult-support steps, explicit engineering and classroom-theme boundaries, and nine build sections with mission, setup, rescue, stop, and parent checks. Independent review required three cycles and finished PASS with no P0-P3 findings. No new URL, activity-card byte, indexing request, product, affiliate, external account, tested status, construction curriculum, or parent/child outcome was created.",
-      "release_state": "review-clean-push-pending",
+      "release_state": "released-and-verified",
+      "release_commit": "1c0c2271ca7d2be7025c99f3e5c01648680ae5d1",
+      "pages_run_id": 30945353738,
+      "pages_run_url": "https://github.com/agarg21/preschool-build-lab/actions/runs/30945353738",
+      "released_on": "2026-08-04",
+      "production_verification": "Exact-SHA Pages run 30945353738 succeeded for reviewed implementation commit 1c0c2271ca7d2be7025c99f3e5c01648680ae5d1. The live page, 1672x941 WebP, CSS, and sitemap byte-match the commit. Production returns HTTP 200 with the intended title, canonical, single H1, first-start default, prominent not-family-tested disclosure, mixed-age readiness note, seven exact chooser links, nine complete builds, six sources, and loaded illustration. Fresh Playwright contexts at 1440x1000 and 390x844 show zero page or card overflow, no missing anchors, no console errors, no page errors, and no HTTP failures. The mobile first-start default is fully visible at y=489-623, and chooser anchors clear the sticky header.",
+      "next_eligible_action": "observe-KAL-IMP-004-after-post-release-crawl-or-changed-finalized-GSC-evidence",
       "notes": "Direct manual implementation transaction from clean aligned base f11d537. Exact twelve-path scope. No new page, other SEO page, card page, navigation, workflow, GSC snapshot, indexing request, external account, product, affiliate, construction-theme curriculum, tested status, or family-evidence mutation is authorized."
     }
   ]
