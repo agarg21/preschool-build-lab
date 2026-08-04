@@ -77,6 +77,39 @@ evidence.
 public-safe comparison points without treating search movement as proof of
 parent or child usefulness.
 
+## Active Transaction
+
+`KAL-SEO-001` was directly authorized and registered on 2026-08-03 from clean
+aligned base `b31ac9599817082c1c954e83b9e3843f46330059`. The newest validated
+snapshot has finalized data through 2026-08-01 and shows 116 impressions, no
+clicks, 61 discovered pages, and 7 of 7 configured priority URLs indexed.
+Engineering holds 9 impressions at average position 15.33 and math has 24 at
+41.13; complete query rows remain unavailable.
+
+The exact-path action is structural only: exclude the preserved Google
+verification file from the sitemap, normalize internal homepage links to the
+root canonical, add at most three relevant existing-hub routes to generated
+activity cards, and add the card-game, engineering, and math URLs to read-only
+priority inspection. It creates no URL, content-intent rewrite, navigation
+label, indexing request, external-account action, or parent/child evidence.
+Native QA, responsive browser QA, and a different independent read-only review
+remain release gates.
+
+Implementation and pre-review QA are complete. The 61-URL sitemap contract,
+root-canonical internal links, 36 restrained card route blocks, 10-URL
+read-only monitor, generator idempotence, 17 repository tests, snapshot
+validation, strict XML, links, fragments, unchanged metadata/headings,
+exact-path scope, desktop/mobile layout, and `git diff --check` all pass.
+Engineering, math, and preschool STEM now receive 10, 9, and 9 internal
+content links instead of one each. Independent review cycle 1 found one P2 in
+the recorded counts: the first counter included each destination's canonical
+tag and overstated every total by one. The claims are corrected. The reviewer
+also noted one P3 test gap; the regression test now independently enforces
+source ownership and the sole unrouted `paper-roll-play` card. The transaction
+completed cycle 2 read-only review with `PASS` and no P0-P3 findings. The
+transaction is review-clean and pending authorized release; it has not yet
+been committed, pushed, deployed, or submitted for indexing.
+
 ## Waiting On User
 
 No active family-testing request. Do not ask the user to run activities,

@@ -8,29 +8,70 @@ automation.
 
 ## Current sequence
 
-1. Observe the released `KAL-IMP-002` chooser for discovery and finalized
+1. Complete registered `KAL-SEO-001` as a structural rank-foundation action:
+   remove the verification file from the sitemap, normalize internal homepage
+   links to the root canonical, add restrained reciprocal card-to-hub routes,
+   and expand read-only priority inspection. Do not create URLs, rewrite page
+   intent, change navigation labels, or request indexing.
+2. Observe the released `KAL-IMP-002` chooser for discovery and finalized
    public-safe search evidence.
-2. Do not create individual game or age
+3. Do not create individual game or age
    pages, Snap, Slapjack, products, or affiliates from the same evidence.
-3. Observe `KAL-IMP-001` without attributing small page-row movement to the
+4. Observe `KAL-IMP-001` without attributing small page-row movement to the
    release.
-4. Keep comparing validated GSC snapshots, but do not infer complete query
+5. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
-5. Keep tested-status, parent/child outcomes, and product reviews evidence-
+6. Keep tested-status, parent/child outcomes, and product reviews evidence-
    gated; do not ask the user for unavailable family testing.
-6. Use the completed `KAL-RES-002` Semrush supplement as the current paid
+7. Use the completed `KAL-RES-002` Semrush supplement as the current paid
    metric layer. It reinforces existing-page ownership and promotes no
    implementation.
-7. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
+8. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
    an Activities umbrella with Games, Arts & Crafts, Science & Building, and
    Outdoor & Nature as concrete browse categories. Actual parent comprehension
    remains `UNKNOWN`. Age and moment constraints remain routes or filters;
    pretend/story/music remain activity types; local outings and product
    guidance remain separate systems.
-8. Use completed `KAL-RES-004` as the first adjacent validation of the Games
+9. Use completed `KAL-RES-004` as the first adjacent validation of the Games
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
    remain deferred because current research does not resolve their pace,
    dispute, and contact risks.
+
+## KAL-SEO-001 Registered On 2026-08-03
+
+- Frozen clean aligned base: `b31ac9599817082c1c954e83b9e3843f46330059`.
+- The validated August 3 snapshot has finalized data through August 1: 116
+  impressions, 0 clicks, 61 discovered pages, and 7 of 7 current priority URLs
+  indexed. Engineering holds 9 impressions at position 15.33; math has 24 at
+  41.13. Complete query rows remain unavailable.
+- Scope is structural only: sitemap ownership, internal root-canonical links,
+  reciprocal routes from generated cards to existing hubs, three additional
+  read-only URL inspections, regression tests, and exact state/review records.
+- The action changes no title, H1, body claim, page URL, indexability,
+  parent-facing navigation label, indexing request, GSC credential, external
+  account, product, affiliate state, or parent/child evidence.
+- Release requires green native and responsive QA plus a different independent
+  read-only reviewer returning `PASS` or `PASS_WITH_P3`.
+- Pre-review QA is green: 17 snapshots, Python compilation, generator byte
+  idempotence, 17 repository tests, strict sitemap XML, 65-file link and
+  fragment checks, metadata/heading preservation, exact-path scope, and
+  `git diff --check` pass. The sitemap has exactly 61 canonical indexable
+  content URLs; 36 generated cards expose one to three existing-hub routes.
+- Internal content-link counts rise from one each to 10 for engineering, 9 for
+  math, and 9 for preschool STEM. Local desktop/mobile checks show no
+  overflow or console warnings/errors, and all 10 monitored live URLs return
+  200 in public preflight.
+- Independent review cycle 1 found one P2: the first QA counter included each
+  destination's self-canonical as an inbound link and overstated all three
+  totals by one. It also noted one P3 because the test did not enforce source
+  ownership. Every claim now uses the correct `10/9/9` content-link totals,
+  and the test independently loads the SEO source map, verifies every route's
+  ownership, and asserts `paper-roll-play` as the only unrouted card.
+- Independent review cycle 2 verified both findings closed, independently
+  reran the 17 tests, 17-snapshot validation, corrected content-link counter,
+  exact-scope comparison, and `git diff --check`, and returned `PASS` with no
+  P0-P3 findings.
+- State: review-clean and pending authorized release.
 
 The authenticated Page indexing review collected 2026-07-18 is normalized in
 `ops/gsc-indexing-review-2026-07-18.md`. Google's report was last updated

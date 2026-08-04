@@ -1,5 +1,43 @@
 # Progress Log
 
+## 2026-08-03 - KAL-SEO-001 Review Candidate
+
+- Registered one structural rank-foundation transaction from clean aligned
+  base `b31ac9599817082c1c954e83b9e3843f46330059` after validating all 17
+  public-safe snapshots.
+- The newest finalized snapshot has 116 impressions, no clicks, 61 discovered
+  pages, and 7 of 7 configured priority URLs indexed. Engineering holds 9
+  impressions at position 15.33 and math has 24 at 41.13; complete query rows
+  remain unavailable.
+- Preserved all 61 intended indexable URLs and the deployed Google verification
+  file while excluding that non-content file from the generated sitemap.
+- Replaced internal `/index.html` homepage targets with the root canonical on
+  all 64 content/support pages without changing titles, H1s, descriptions,
+  canonicals, body claims, navigation labels, or indexability.
+- Added one to three generator-derived age/collection routes to 36 activity
+  cards. Each route points only to a current page whose source definition
+  already contains the card. `paper-roll-play` has no current hub owner and
+  remains unchanged beyond its canonical home links.
+- Engineering, math, and preschool STEM internal content-link counts rose from
+  one each to 10, 9, and 9. Added the card-game chooser plus engineering and math
+  to read-only GSC priority inspection, bringing the configured set to 10.
+- Added architecture regression tests. All 17 repository tests, generator
+  idempotence, Python compilation, 17-snapshot validation, strict XML, local
+  links/fragments, unchanged metadata/headings, exact-path scope, live public
+  preflight, desktop/mobile layout, console, and `git diff --check` pass.
+- Independent review cycle 1 returned `FAIL` for one P2 in the recorded link
+  totals: the first counter included each destination's self-canonical and
+  overstated all three by one. It also noted one P3 test gap. Every claim now
+  uses the correct `10/9/9` content-link totals, and the regression test now
+  independently enforces source ownership plus `paper-roll-play` as the only
+  unrouted card.
+- Independent review cycle 2 verified both findings closed and returned
+  `PASS` with no P0-P3 findings after independently rerunning tests, snapshot
+  validation, the corrected counter, exact scope, and `git diff --check`.
+- State: review-clean and pending authorized release. No commit, push,
+  deployment, indexing request, external-account change, or new URL has
+  occurred.
+
 ## 2026-08-01
 
 ### Five-Game Standard-Deck Chooser Review Candidate

@@ -18,6 +18,90 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-08-03 Site Architecture And Internal Links
+
+Action: `KAL-SEO-001`
+
+State: awaiting independent read-only review
+
+Frozen base: `b31ac9599817082c1c954e83b9e3843f46330059`
+
+Scope: the exact generator, monitor, regression-test, sitemap, 64 existing
+HTML, roadmap, cycle, review, and progress paths declared for `KAL-SEO-001` in
+`ops/seo-roadmap.json`. No path outside that declaration is changed.
+
+Boundaries:
+
+- no new or removed content URL, title, H1, description, canonical, body
+  claim, navigation label, or indexability change;
+- the Google verification file remains deployed but leaves the sitemap;
+- a generated card may link only to an existing age or collection page whose
+  source definition already contains that card, capped at three routes;
+- GSC changes are read-only inspection targets only, with no credential,
+  snapshot, external-account, or indexing-request mutation.
+
+Pre-review QA:
+
+- all 17 public-safe snapshots validate;
+- Python compilation and generator byte idempotence pass;
+- `node --test tools/*.test.mjs`: 17 of 17 pass;
+- strict sitemap XML passes with exactly 61 unique canonical indexable content
+  URLs and no verification URL;
+- all 65 HTML files have zero missing local links or fragments;
+- all 64 changed HTML files preserve title, H1, description, and canonical;
+- 36 of 37 cards have one to three valid current-hub links; `paper-roll-play`
+  has no existing hub ownership and intentionally receives none;
+- engineering, math, and preschool STEM receive 10, 9, and 9 internal
+  sources, up from one each;
+- live public preflight returns 200 for sitemap, robots, and all 10 monitored
+  URLs;
+- local desktop 1440x900 and mobile 390x844 checks show no body overflow or
+  console warning/error, route text fits, and the engineering destination
+  renders correctly;
+- exact-path scope and `git diff --check` pass.
+
+Reviewer: Hypatia (`019fc813-fd5b-7453-870e-d995e39847fd`)
+
+Read-only status: confirmed. The reviewer changed no file, Git state, browser
+state, deployment, indexing state, or external account.
+
+Review cycle 1: `FAIL`
+
+- `P0` and `P1`: none.
+- `P2`: the recorded `11/10/10` internal-source totals included each
+  destination's self-canonical and overstated actual content-link totals by
+  one. Correct totals are `10/9/9` from a baseline of one each.
+- `P3`: the regression test checked route count, destination existence, and
+  path type but did not independently prove source ownership or explicitly
+  name `paper-roll-play` as the only unrouted card.
+- No implementation, safety, evidence, indexing, external-action, persona, or
+  functional defect was found.
+
+Cycle 1 corrections:
+
+- corrected every internal-link claim to `10/9/9` and labeled it as content
+  links rather than sources;
+- strengthened the test to load the independent SEO source ownership map,
+  verify every generated route against it, and assert `paper-roll-play` as the
+  only unrouted card.
+
+Review cycle 2: `PASS`
+
+- The P2 evidence-count finding is closed: every current claim uses the
+  corrected `10/9/9` content-link totals. Remaining `11/10/10` references are
+  explicitly historical descriptions of the closed finding.
+- The P3 test finding is closed: the test loads the independent `PAGES` source
+  map, verifies each generated destination owns the card, and explicitly
+  asserts `paper-roll-play` as the sole unrouted card.
+- Independent 17-test, 17-snapshot, corrected-counter, exact-scope, and
+  `git diff --check` reruns pass.
+- Final findings: none (`P0`-`P3`).
+
+Final result: `PASS`
+
+Residual risk: crawl, ranking, and click effects remain unknown until later
+measurement. No parent/child or usefulness outcome is inferred.
+
 ## 2026-08-01 Five-Game Standard-Deck Chooser
 
 Action: `KAL-IMP-002`

@@ -882,9 +882,9 @@ def page_html(page):
   <body>
     <header class="site-header">
       <nav class="nav" aria-label="Main navigation">
-        <a class="brand" href="{root}index.html">Kid Activity Lab</a>
+        <a class="brand" href="/">Kid Activity Lab</a>
         <div class="nav-links">
-          <a href="{root}index.html">Home</a>
+          <a href="/">Home</a>
           <a href="{root}original/">Original</a>
           <a href="{root}cards.html">Cards</a>
         </div>

@@ -5,6 +5,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "site"
 BASE_URL = "https://kidactivitylab.com"
+NON_CONTENT_HTML = {"googled495b3fc6f0765f8.html"}
 
 
 def url_for(path):
@@ -19,6 +20,8 @@ def main():
     urls = sorted(SITE.rglob("*.html"), key=lambda p: p.relative_to(SITE).as_posix())
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for path in urls:
+        if path.relative_to(SITE).as_posix() in NON_CONTENT_HTML:
+            continue
         html = path.read_text()
         if 'name="robots" content="noindex' in html:
             continue

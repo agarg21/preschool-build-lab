@@ -3,7 +3,7 @@ import html
 import re
 from pathlib import Path
 
-from generate_seo_pages import ACTIVITIES
+from generate_seo_pages import ACTIVITIES, PAGES
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -50,6 +50,27 @@ SLUGS = {
 
 QUICK_CARD_SLUGS = [slug for slug in ACTIVITIES if slug not in set(SLUGS.values())]
 
+ROUTE_PRIORITY = [
+    "ages/stem-activities-for-4-year-olds.html",
+    "collections/engineering-activities-for-4-year-olds.html",
+    "collections/math-activities-for-4-year-olds-at-home.html",
+    "collections/stem-activities-for-preschoolers.html",
+    "ages/activities-for-4-year-olds-at-home.html",
+    "collections/science-experiments-for-4-year-olds.html",
+    "collections/building-activities-for-4-year-olds.html",
+    "collections/no-prep-stem-activities-for-4-year-olds.html",
+    "collections/no-prep-activities-for-preschoolers.html",
+    "collections/indoor-activities-for-preschoolers.html",
+    "collections/independent-activities-for-preschoolers.html",
+    "collections/fine-motor-activities-for-preschoolers.html",
+    "collections/rainy-day-activities-for-preschoolers.html",
+    "ages/activities-for-3-year-olds-at-home.html",
+    "ages/activities-for-5-year-olds-at-home.html",
+    "ages/activities-for-6-year-olds-at-home.html",
+]
+ROUTE_RANK = {path: index for index, path in enumerate(ROUTE_PRIORITY)}
+MAX_RELATED_ROUTES = 3
+
 
 def esc(value):
     return html.escape(value or "", quote=True)
@@ -75,6 +96,26 @@ def clean_step(step):
 def quick_material_tiles(materials, time):
     parts = [p.strip() for p in materials.split(",") if p.strip()]
     return [("Need", part) for part in parts[:3]] + [("Time", time)]
+
+
+def related_routes(slug):
+    routes = [page for page in PAGES if slug in page["activities"]]
+    routes.sort(key=lambda page: (ROUTE_RANK.get(page["path"], len(ROUTE_RANK)), page["path"]))
+    return routes[:MAX_RELATED_ROUTES]
+
+
+def related_routes_html(slug):
+    links = [
+        f'<a href="../{esc(route["path"])}">{esc(route["h1"].rstrip("."))}</a>'
+        for route in related_routes(slug)
+    ]
+    if not links:
+        return ""
+    return f'''
+
+        <section class="parent-strip" aria-label="Related activity pages">
+          <strong>More ways to use this idea:</strong> {" · ".join(links)}
+        </section>'''
 
 
 def page(row, slug):
@@ -104,6 +145,7 @@ def page(row, slug):
         f"{row['activity_title']} activity card for preschoolers: "
         f"{description_steps}."
     )
+    routes = related_routes_html(slug)
     return f'''<!doctype html>
 <html lang="en">
   <head>
@@ -117,9 +159,9 @@ def page(row, slug):
   <body>
     <header class="site-header">
       <nav class="nav" aria-label="Main navigation">
-        <a class="brand" href="../index.html">Kid Activity Lab</a>
+        <a class="brand" href="/">Kid Activity Lab</a>
         <div class="nav-links">
-          <a href="../index.html">Home</a>
+          <a href="/">Home</a>
           <a href="../original/">Original</a>
           <a href="../cards.html">Cards</a>
         </div>
@@ -147,7 +189,7 @@ def page(row, slug):
 
         <section class="parent-strip" aria-label="Source">
           <strong>Source idea:</strong> adapted from a creator video and simplified into a kid card. <a href="{esc(row['source_url'])}">Watch the source video</a>.
-        </section>
+        </section>{routes}
       </article>
     </main>
 
@@ -181,6 +223,7 @@ def quick_page(slug):
         f"{activity['title']} activity card for kids age {activity['ages']}: "
         f"{description_steps}."
     )
+    routes = related_routes_html(slug)
     return f'''<!doctype html>
 <html lang="en">
   <head>
@@ -194,9 +237,9 @@ def quick_page(slug):
   <body>
     <header class="site-header">
       <nav class="nav" aria-label="Main navigation">
-        <a class="brand" href="../index.html">Kid Activity Lab</a>
+        <a class="brand" href="/">Kid Activity Lab</a>
         <div class="nav-links">
-          <a href="../index.html">Home</a>
+          <a href="/">Home</a>
           <a href="../original/">Original</a>
           <a href="../cards.html">Cards</a>
         </div>
@@ -222,7 +265,7 @@ def quick_page(slug):
 
         <section class="parent-strip" aria-label="Best for">
           <strong>Best for:</strong> {esc(activity['best_for'])}.
-        </section>
+        </section>{routes}
       </article>
     </main>
 
@@ -252,9 +295,9 @@ def cards_index():
   <body>
     <header class="site-header">
       <nav class="nav" aria-label="Main navigation">
-        <a class="brand" href="index.html">Kid Activity Lab</a>
+        <a class="brand" href="/">Kid Activity Lab</a>
         <div class="nav-links">
-          <a href="index.html">Home</a>
+          <a href="/">Home</a>
           <a href="original/">Original</a>
           <a href="cards.html">Cards</a>
         </div>
