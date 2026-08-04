@@ -1150,6 +1150,71 @@
       "review_outcome": "PASS",
       "release_state": "push-only",
       "notes": "Direct manual research authorization. Exact ten-path, research-only, push-only transaction. Reused current exact KAL-RES-003 metrics where applicable and refreshed all new queries in the user's logged-in Semrush US interface. AGENTS.md, README.md, strategy/current-strategy.md, seo/content-model.md, decisions.md, site/**, scripts/**, workflows, snapshots, and external accounts were not edited."
+    },
+    {
+      "id": "KAL-RES-007",
+      "title": "Choose the next existing-page acquisition surface",
+      "kind": "research",
+      "lane": "search-and-product-research",
+      "impact": 5,
+      "confidence": 3,
+      "learning_value": 5,
+      "effort": 4,
+      "risk": 2,
+      "status": "completed",
+      "selected_on": "2026-08-04",
+      "completed_on": "2026-08-04",
+      "frozen_base": "21ebd4c6281453f356f80f3434e7793f0338be7e",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "validated_2026-08-04_GSC_snapshot",
+        "prior_2026-08-03_GSC_snapshot",
+        "fresh_2026-08-04_Semrush_US_metrics",
+        "current_representative_indoor_rainy_building_SERPs",
+        "representative_ranking_page_inspection",
+        "current_indoor_rainy_building_page_and_section_audit"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/collections/indoor-activities-for-preschoolers.html",
+        "https://kidactivitylab.com/collections/rainy-day-activities-for-preschoolers.html",
+        "https://kidactivitylab.com/collections/building-activities-for-4-year-olds.html"
+      ],
+      "target_paths": [
+        "data/indoor-rainy-building-keywords-2026-08-04.csv",
+        "seo/indoor-rainy-building-decision-pack-2026-08-04.md",
+        "reviews/indoor-rainy-building-research-review-2026-08-04.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "A research-only decision pack distinguishes broad indoor, rainy-day, preschool-specific, and preschool-building jobs using current demand, representative SERPs, ranking-page inspection, current KAL ownership, source-derived personas, and every-section audits, then promotes at most one existing-page improvement without adding a URL or inventing query or family evidence.",
+      "evidence_classification": "August 3 and August 4 public-safe GSC snapshots are MEASURED page and indexing context; complete GSC query rows remain UNKNOWN. Semrush US volume, KD, CPC, intent, and retained SERP rows collected through the user's logged-in Chrome session on 2026-08-04 are TOOL_ESTIMATE. Directly inspected current ranking pages are SOURCE_BACKED within their limits. Persona, ownership, overlap, and implementation recommendations are RESEARCH_HYPOTHESIS or EDITORIAL_JUDGMENT as labeled. Parent/child outcomes remain UNKNOWN.",
+      "human_gate": "The user directly authorized this research and the evidence-supported existing-page follow-up on 2026-08-04. This transaction may recommend one bounded existing-page upgrade but may not edit site or generator paths, create a URL, request indexing, change navigation, modify external accounts, recommend products, claim family testing, or create parent/child, safety-outcome, learning, engagement, timing, or repeatability evidence.",
+      "observation_window": "Research may proceed while released pages remain under observation. The August 4 snapshot is healthy monitoring context: 119 impressions, no clicks, 61 discovered pages, and 10 of 10 priority URLs indexed. Complete query rows are unavailable, so page rows do not establish query ownership or release causality.",
+      "decision": "Improve the existing building URL as the preschool-building owner while preserving its URL and age-four route. Keep open-ended building distinct from engineering's mission-test-redesign loop and from classroom construction-theme curricula. Defer broad indoor/rainy implementation because broad indoor has local/venue intent, broad rainy is an all-age weather job, the preschool SERPs visibly recur, and the KAL pages share eight of nine cards.",
+      "research_cap": {
+        "maximum_exact_queries": 36,
+        "minimum_representative_serps": 5,
+        "minimum_inspected_ranking_pages": 10,
+        "minimum_parent_job_hypotheses": 5
+      },
+      "decision_pack": "seo/indoor-rainy-building-decision-pack-2026-08-04.md",
+      "recommended_next_action": "KAL-IMP-004",
+      "implementation_state": "review-clean",
+      "result": "Refreshed 36 exact Semrush US desktop queries, preserved 78 ranked rows across seven explicitly incomplete SERP samples with exact URL, normalized domain, and result type, inspected 14 ranking/community pages and six education sources, traced six parent-job hypotheses, and audited every visible section of the three current KAL pages. The evidence supports one existing-page improvement on the building URL. Broad indoor and rainy-day work remains deferred pending a separate consolidation/differentiation decision. Complete GSC queries, candidate page rows and inspections, numeric SERP overlap, family use, and all parent/child outcomes remain UNKNOWN. Independent review required three cycles and finished PASS with no P0-P3 findings.",
+      "qa_summary": "Thirty-six unique keyword rows across 12 indoor, 10 rainy, 12 building, and two boundary queries; one zero-volume row and four unavailable-volume rows remain distinct. Seven SERP metadata rows and 78 exact ranked rows pass annotation and normalized-domain checks; incomplete-sample intersection, union, Jaccard, and domain counts remain UNKNOWN. Eighteen GSC snapshots parse, August 3 and 4 values reconcile with the 7/7 to 10/10 monitored-cohort expansion, six source URLs pass spot checks, roadmap JSON parses, exact seven-path scope holds, and git diff --check passes.",
+      "review_cycles": 3,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Averroes",
+        "agent_id": "019fce24-dbea-7c20-8277-a9ce9ec90623",
+        "read_only": true
+      },
+      "release_state": "push-only",
+      "next_eligible_action": "KAL-IMP-004",
+      "notes": "Direct manual research transaction. Exact seven-path research-only scope. No site, generator, sitemap, monitoring, GSC snapshot, indexing, navigation, external account, product, affiliate, or family-evidence mutation is authorized."
     }
   ]
 }

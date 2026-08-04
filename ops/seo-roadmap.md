@@ -8,36 +8,72 @@ automation.
 
 ## Current sequence
 
-1. Observe released `KAL-IMP-003` until a post-release crawl or changed
+1. Run separately registered `KAL-IMP-004`: improve the existing building URL
+   as the preschool-building owner while preserving age four as a route and
+   keeping engineering and classroom construction themes separate.
+2. Keep indoor and rainy-day pages unchanged until a separate action resolves
+   their overlapping preschool SERPs and eight-of-nine shared cards. Do not
+   chase broad indoor's venue intent or broad rainy's all-age breadth with a
+   thin page.
+3. Observe released `KAL-IMP-003` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent or family outcomes from
    page-level movement, and do not request indexing.
-2. Observe the released `KAL-SEO-001` rank foundation for at least two
+4. Observe the released `KAL-SEO-001` rank foundation for at least two
    finalized snapshot comparisons and a refreshed sitemap read. Do not infer
    ranking causality, request indexing, or manufacture follow-on work from
    unchanged evidence.
-3. Observe the released `KAL-IMP-002` chooser for discovery and finalized
+5. Observe the released `KAL-IMP-002` chooser for discovery and finalized
    public-safe search evidence.
-4. Do not create individual game or age
+6. Do not create individual game or age
    pages, Snap, Slapjack, products, or affiliates from the same evidence.
-5. Observe `KAL-IMP-001` without attributing small page-row movement to the
+7. Observe `KAL-IMP-001` without attributing small page-row movement to the
    release.
-6. Keep comparing validated GSC snapshots, but do not infer complete query
+8. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
-7. Keep tested-status, parent/child outcomes, and product reviews evidence-
+9. Keep tested-status, parent/child outcomes, and product reviews evidence-
    gated; do not ask the user for unavailable family testing.
-8. Use the completed `KAL-RES-002` Semrush supplement as the current paid
+10. Use the completed `KAL-RES-002` Semrush supplement as the current paid
    metric layer. It reinforces existing-page ownership and promotes no
    implementation.
-9. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
+11. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
    an Activities umbrella with Games, Arts & Crafts, Science & Building, and
    Outdoor & Nature as concrete browse categories. Actual parent comprehension
    remains `UNKNOWN`. Age and moment constraints remain routes or filters;
    pretend/story/music remain activity types; local outings and product
    guidance remain separate systems.
-10. Use completed `KAL-RES-004` as the first adjacent validation of the Games
+12. Use completed `KAL-RES-004` as the first adjacent validation of the Games
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-RES-007 Completed On 2026-08-04
+
+- Frozen clean aligned base:
+  `21ebd4c6281453f356f80f3434e7793f0338be7e`.
+- Exact seven-path, research-only scope: one current Semrush keyword register,
+  one indoor/rainy/building decision pack, one independent research-review
+  record, and four operator mirrors.
+- Compare broad indoor, rainy-day, preschool-specific, and preschool-building
+  demand; preserve one owner per intent; audit every visible section of the
+  three current KAL candidate pages; and promote at most one separately
+  registered existing-page improvement.
+- The validated August 4 snapshot has finalized data through August 2: 119
+  impressions, no clicks, 61 discovered pages, and 10 of 10 monitored URLs
+  indexed. Complete query rows remain unavailable, so page rows are context,
+  not query-ownership evidence.
+- No site, generator, sitemap, GSC snapshot, navigation, indexing request,
+  external account, product, affiliate, new URL, or family evidence may change.
+- Result: 36 exact Semrush rows, seven explicitly incomplete SERP samples with
+  78 fully annotated retained rows, 14 inspected ranking/community pages, six
+  education sources, six personas, and three every-section audits support one
+  existing-page improvement: `KAL-IMP-004` on the building URL. Numeric SERP
+  overlap and complete GSC queries remain `UNKNOWN`.
+- Indoor and rainy-day work remains deferred. Broad indoor mixes local/venue
+  intent, broad rainy is an all-age weather job, and the current preschool
+  pages share eight of nine cards.
+- Independent review required three cycles and finished `PASS` with no P0-P3
+  findings. The first two cycles corrected the expanded GSC cohort, incomplete-
+  sample overlap language, row metadata, and one normalized subdomain.
 
 ## KAL-IMP-003 Registered On 2026-08-04
 

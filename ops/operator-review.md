@@ -18,6 +18,40 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-08-04 Indoor, Rainy-Day, And Building Research
+
+Action: `KAL-RES-007`
+
+State: review-clean; push-only research release
+
+Frozen base: `21ebd4c6281453f356f80f3434e7793f0338be7e`
+
+Scope: exactly the seven research and operator paths declared for
+`KAL-RES-007` in `ops/seo-roadmap.json`. No public page, generator, sitemap,
+snapshot, indexing, navigation, external-account, product, affiliate, new-URL,
+or family-evidence path may change.
+
+Reviewer: Averroes (`019fce24-dbea-7c20-8277-a9ce9ec90623`), read-only.
+
+Cycle 1 returned `FAIL` for three P2 evidence-record issues: the August 3 GSC
+cohort was misstated as 10/10 rather than 7/7; incomplete SERP samples used
+numeric URL/domain recurrence; and retained rows omitted normalized domain and
+result type. The writer corrected the expanded cohort, changed overlap fields
+to `UNKNOWN` with named recurrence only, and annotated all 78 rows.
+
+Cycle 2 returned `FAIL` for two remaining P2s: an earlier paragraph and one
+table phrase still contained incomplete-sample counts, and one annotation
+dropped the `blog.` subdomain. The writer removed the residual counts and
+corrected the normalized domain.
+
+Cycle 3 returned `PASS` with no P0-P3 findings. The reviewer independently
+confirmed the 36-row keyword register, 78 exact row annotations, zero/n-a
+boundaries, seven incomplete-sample boundaries, GSC cohort expansion, 14
+ranking/community rows, six education sources, six personas, every-section
+audits, roadmap JSON, exact paths, and `git diff --check`. `KAL-IMP-004` is the
+single promoted existing-page action. Parent/child outcomes, numeric SERP
+overlap, and complete GSC queries remain `UNKNOWN`.
+
 ## 2026-08-04 Preschool Engineering Implementation
 
 Action: `KAL-IMP-003`

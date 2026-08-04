@@ -33,6 +33,18 @@ it could be ambiguous, preserve outcome fields as `UNKNOWN`, and pass native QA
 plus independent persona/every-section review. Product reviews and tested
 status remain blocked without actual firsthand evidence.
 
+`KAL-RES-007` is review-clean from frozen aligned base
+`21ebd4c6281453f356f80f3434e7793f0338be7e`. It refreshed 36 exact Semrush US
+queries, preserved 78 annotated rows across seven explicitly incomplete SERP
+samples, inspected 14 ranking/community pages and six education sources,
+traced six parent-job hypotheses, and audited every section of the current
+indoor, rainy-day, and building pages. It promotes one separate action,
+`KAL-IMP-004`, on the existing building URL. Broad indoor/rainy work remains
+deferred because of mixed broad intent and material preschool-page overlap.
+Independent review required three cycles and finished `PASS` with no P0-P3
+findings. No public page, URL, indexing state, external account, product, or
+family evidence changed in the research transaction.
+
 `KAL-IMP-002` is the completed transaction from frozen aligned base
 `af9c762`. It implements one explicitly untested chooser for Concentration,
 finite short-form War, Go Fish, reverse-ending Old Maid, and simple Crazy
@@ -53,13 +65,13 @@ was released in commit `3790570`. Exact-SHA Pages run `30699530311` succeeded;
 the live chooser byte-matches the reviewed HTML, all six diagrams return 200,
 and desktop/mobile production invariants pass.
 
-The newest durable GSC snapshot was collected 2026-08-01 with finalized data
-through 2026-07-30. Impressions moved from 91 to 90, clicks remain 0, and
-average position moved from 33.24 to 33.56. The cardboard ramp article is
-unchanged at 31 impressions and position 17.32. Sitemap discovery remains 61
-pages and priority indexing remains 7 of 7. Complete query rows are
-unavailable, so the snapshot is healthy monitoring context and does not alter
-`KAL-IMP-002` or select another content edit.
+The newest durable GSC snapshot was collected 2026-08-04 with finalized data
+through 2026-08-02. Impressions moved from 116 to 119, clicks remain 0, and
+average position moved from 35.47 to 34.77. The engineering page moved from 9
+impressions at 15.33 to 10 at 14.4; the cardboard ramp article moved from 36
+at 17.25 to 38 at 16.84. Sitemap discovery remains 61 pages and priority
+indexing is 10 of 10. Complete query rows are unavailable, so this is healthy
+monitoring context and does not establish query ownership or release causality.
 
 `KAL-IMP-001` remains released and production-verified. Continue its separate
 observation window. `KAL-IDX-001` stays planned until a changed indexing report
