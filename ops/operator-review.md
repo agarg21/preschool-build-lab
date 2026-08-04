@@ -18,6 +18,39 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-08-04 Preschool Engineering Implementation
+
+Action: `KAL-IMP-003`
+
+State: review-clean; push and production verification pending
+
+Frozen base: `de50a4e786d50a746ca2f918f4d8bb0a8fac08d4`
+
+Scope: exactly the thirteen implementation and operator paths declared in
+`ops/seo-roadmap.json`. The current canonical URL must remain. No other page,
+card page, navigation, workflow, GSC snapshot, indexing, external-account,
+product, affiliate, or family-evidence path may change. The card generator may
+only add explicit route-label support, and all generated card bytes must remain
+stable.
+
+Reviewer: Pasteur (`019fccbd-0a4e-7691-8c33-c5d460eae9df`), independent and
+read-only.
+
+Cycle one returned `FAIL` with two P2 usability findings: the illustration
+preceded the first-start default and evidence note, and three paired chooser
+labels linked only their first named activity. The Master placed `Start here`
+immediately after the hero, moved the evidence note next and illustration
+after both, added individual destinations for all eight named chooser choices,
+and added regression assertions for opening order and exact anchors.
+
+Cycle two returned `PASS`. Both P2 findings are closed and no P0-P3 finding
+remains. The reviewer independently confirmed canonical and source ownership,
+sitemap uniqueness, challenge completeness, evidence limits, adjacent routes,
+legacy card labels, five-persona coverage, human gates, 22 passing focused
+tests, `git diff --check`, and no activity-card diff from the frozen base.
+Residual risk is limited to intentionally unknown family outcomes and unproven
+search effects plus the pending exact-SHA Pages and production gate.
+
 ## 2026-08-04 Preschool Engineering Research
 
 Action: `KAL-RES-006`

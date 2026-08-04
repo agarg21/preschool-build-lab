@@ -662,15 +662,169 @@ PAGES = [
     {
         "path": "collections/engineering-activities-for-4-year-olds.html",
         "page_type": "collection",
-        "primary": "engineering activities for 4 year olds",
-        "title": "Engineering Activities for 4 Year Olds | Kid Activity Lab",
-        "h1": "Engineering activities for 4 year olds.",
-        "kicker": "Engineering",
-        "description": "Age-4 engineering activities with paper bridges, straw bridges, foil boats, towers, ramps, box garages, and simple redesign prompts.",
-        "intro": "Engineering for a 4 year old is build, test, change one thing, and test again. These ideas use simple materials and avoid projects that depend on perfect cutting or adult-only construction.",
-        "tip": "After the first try, ask for one redesign: wider, taller, stronger, flatter, or slower.",
+        "primary": "engineering activities for preschoolers",
+        "title": "Engineering Activities for Preschoolers | Kid Activity Lab",
+        "h1": "Engineering activities for preschoolers ages 4-6.",
+        "route_label": "Engineering activities for 4 year olds",
+        "kicker": "Preschool engineering | Ages 4-6",
+        "description": "Choose preschool engineering activities with paper, foil, blocks, cups, straws, and toy cars. Each challenge includes a test and one redesign.",
+        "intro": "Pick a small problem, give the child a clear mission, test the build, and change one thing. These research-backed challenges use household materials and show the adult job without taking over the design.",
+        "tip": "Start with Paper Bridge: two low books, one sheet of paper, and one toy car. If the paper bends, fold it once and test again.",
+        "engineering_layout": True,
+        "evidence_note": "Kid Activity Lab created this chooser from current source and search research. We have not family-tested these setups. The age range, adult roles, rescue steps, and first changes are editorial guidance; timing, mess, engagement, learning, repeatability, and safety outcomes are unknown.",
+        "image": {
+            "src": "../assets/preschool-engineering/engineering-challenge-materials.webp",
+            "alt": "Paper bridge, foil boat, cup tower, box-lid maze, straws, and painter tape arranged as engineering challenge materials.",
+            "width": "1672",
+            "height": "941",
+            "caption": "Illustration of possible setups. This is not a Kid Activity Lab family-test photo.",
+        },
+        "chooser_title": "Choose by what is already out",
+        "chooser_label": "Preschool engineering activity chooser",
+        "chooser": [
+            ("Paper and a toy car", ("Paper Bridge", "#paper-bridge"), "Set two low books in place, then let the child own the bridge."),
+            ("A tray can get wet", ("Foil Boat", "#foil-boat-test"), "Stay beside the shallow tray and add large cargo one piece at a time."),
+            ("Blocks or cups are ready", [("Wind Tower", "#wind-tower-test"), ("Cup Doorway", "#cup-tower")], "Keep the build low and run one gentle test."),
+            ("Toy cars are the hook", [("Target Ramp", "#car-ramp-distance-test"), ("Box Garage", "#box-garage")], "Set the boundary or target; let the child decide the change."),
+            ("The child wants more building", [("Straw Bridge", "#straw-bridge"), ("Ball Maze", "#ball-maze-box")], "Handle cutting or tape and leave the layout decisions to the child."),
+        ],
+        "process_steps": [
+            ("Ask", "What must the build do?"),
+            ("Imagine", "Name or draw more than one possible idea."),
+            ("Plan", "Choose materials and one idea to try first."),
+            ("Create and test", "Build it, then run the visible test."),
+            ("Improve", "Change one part using what the test showed."),
+        ],
+        "activity_overrides": {
+            "paper-bridge": {
+                "slug": "paper-bridge",
+                "title": "Paper Bridge",
+                "materials": "one sheet of paper, two low books, one toy car",
+                "mission": "Build a paper road that carries the car across the gap.",
+                "adult_role": "Place two low, stable books on the floor and keep them from sliding.",
+                "steps": ["Lay the paper across the books.", "Send the car across once.", "Look at where the paper bends."],
+                "test": "Can the car cross without the paper dropping into the gap?",
+                "redesign": "Fold the paper lengthwise once, then test the same car again.",
+                "rescue": "Move the books closer together and keep the first sheet flat.",
+                "stop": "Stop if the books slide, the child climbs on them, or the paper test is no longer welcome.",
+                "parent": "Keep the bridge on the floor and use books the child can lift only with help.",
+            },
+            "straw-bridge": {
+                "slug": "straw-bridge",
+                "title": "Straw Bridge",
+                "materials": "drinking straws, painter tape, two paper cups, one lightweight toy",
+                "mission": "Join straws into a bridge that holds one toy between the cups.",
+                "adult_role": "Handle any cutting and tear short pieces of tape before the build begins.",
+                "steps": ["Put the cups a short distance apart.", "Join straws into one bridge deck.", "Set the toy in the middle."],
+                "test": "Does the bridge stay across the cups while the toy rests on it?",
+                "redesign": "Tape one more straw under the middle and test the same toy.",
+                "rescue": "Move the cups closer or test without the toy first.",
+                "stop": "Stop if straws or tape go in a mouth, a cup will not stay put, or the child wants to leave the build.",
+                "parent": "Use paper or silicone straws when possible and keep all cut pieces accounted for.",
+            },
+            "foil-boat-test": {
+                "slug": "foil-boat-test",
+                "title": "Foil Boat",
+                "materials": "foil, shallow tray, water, two large wooden blocks",
+                "mission": "Shape a boat that floats while carrying two large cargo blocks.",
+                "adult_role": "Add a shallow layer of water, place the tray on a wipeable surface, and stay beside it.",
+                "steps": ["Pinch the foil into an open boat.", "Float the empty boat.", "Add the blocks one at a time."],
+                "test": "Does the boat stay above the water with both blocks inside?",
+                "redesign": "Pinch the sides higher or make the bottom wider, then test again.",
+                "rescue": "Remove one block and widen the boat before the next try.",
+                "stop": "Stop if foil or cargo goes in a mouth, water leaves the tray area, or the child moves away from the setup.",
+                "parent": "Use large cargo only, keep water shallow, and empty the tray as soon as the activity ends.",
+            },
+            "paper-chain-test": {
+                "slug": "paper-chain-test",
+                "title": "Paper Chain Reach Test",
+                "materials": "pre-cut paper strips, painter tape, one book",
+                "mission": "Build a paper chain long enough to wrap around the book and meet at the top.",
+                "adult_role": "Pre-cut wide strips and hold the book still while the child joins loops.",
+                "steps": ["Make and tape one paper loop.", "Thread each new strip through the last loop.", "Wrap the chain around the book."],
+                "test": "Do the two ends meet without pulling a loop apart?",
+                "redesign": "Add one loop or replace the narrowest loop with a wider strip.",
+                "rescue": "Use a smaller book or start with three large loops already joined.",
+                "stop": "Stop if tape or strips go in a mouth, the book tips, or joining loops has become an adult-only job.",
+                "parent": "Keep scissors out of the play area and use a light book with rounded corners.",
+            },
+            "wind-tower-test": {
+                "slug": "wind-tower-test",
+                "title": "Wind Tower",
+                "materials": "six blocks, one folded-paper fan",
+                "mission": "Build a six-block tower that stays up through three gentle fan waves.",
+                "adult_role": "Keep the tower low and do the same three gentle fan waves for each test.",
+                "steps": ["Build with all six blocks.", "Move hands away.", "Ask the adult to fan three times."],
+                "test": "Is the tower still standing after the third fan wave?",
+                "redesign": "Move the widest blocks to the bottom and test again.",
+                "rescue": "Begin with four blocks and a base two blocks wide.",
+                "stop": "Stop if blocks are thrown, stacked for climbing, or the child does not want another wind test.",
+                "parent": "Use lightweight blocks and keep the tower below the child's shoulders.",
+            },
+            "car-ramp-distance-test": {
+                "slug": "car-ramp-distance-test",
+                "title": "Target Ramp",
+                "materials": "low ramp, one toy car, painter tape target",
+                "mission": "Change the ramp so the car stops as close as possible to the tape target.",
+                "adult_role": "Set a low ramp on the floor, test the tape first, and keep the rolling lane clear.",
+                "steps": ["Roll the car from the same starting spot.", "Put the target near where it stopped.", "Change one part of the ramp."],
+                "test": "After the change, does the car stop closer to the target?",
+                "redesign": "Raise or lower the ramp by one book and roll the same car again.",
+                "rescue": "Move the target closer and use a shorter rolling lane.",
+                "stop": "Stop if the ramp or books slide, cars leave the clear lane, or rolling becomes throwing.",
+                "parent": "Keep the ramp away from stairs, feet, pets, and breakable objects.",
+            },
+            "ball-maze-box": {
+                "slug": "ball-maze-box",
+                "title": "Box-Lid Ball Maze",
+                "materials": "shallow box lid, chunky blocks, one ping-pong ball",
+                "mission": "Make a path that lets the ball travel from one corner to the opposite corner.",
+                "adult_role": "Choose a shallow lid, confirm the ball is too large to swallow, and keep the lid on the floor or table.",
+                "steps": ["Build walls inside the lid.", "Place the ball in one corner.", "Tilt the lid gently toward the goal."],
+                "test": "Can the ball reach the opposite corner without getting trapped?",
+                "redesign": "Move one wall to open the place where the ball stopped.",
+                "rescue": "Use only three walls and make a wide path first.",
+                "stop": "Stop if the ball goes in a mouth, blocks leave the lid, or tilting becomes shaking.",
+                "parent": "Use one large lightweight ball, not a marble, bead, or other small sphere.",
+            },
+            "box-garage": {
+                "slug": "box-garage",
+                "title": "Two-Car Box Garage",
+                "materials": "open small box, two toy cars, painter tape",
+                "mission": "Design two parking bays and an exit wide enough for one car to roll out.",
+                "adult_role": "Provide an already-open box, handle any cutting, and test tape on the box first.",
+                "steps": ["Park both cars inside the box.", "Mark two bays with tape.", "Roll one car through the exit."],
+                "test": "Do both cars fit, and can one leave without hitting the other?",
+                "redesign": "Move one tape line or widen the exit, then park both cars again.",
+                "rescue": "Use one car first and remove the bay lines.",
+                "stop": "Stop if the box tears into sharp edges, tape goes in a mouth, or cutting would be needed during play.",
+                "parent": "Adult handles all cutting and removes loose tape or torn cardboard immediately.",
+            },
+            "cup-tower": {
+                "slug": "cup-tower",
+                "title": "Cup Doorway",
+                "materials": "six lightweight paper cups, one toy car",
+                "mission": "Build a cup doorway that stands while the toy car drives through it.",
+                "adult_role": "Choose light cups, set the build on the floor, and keep the car lane short.",
+                "steps": ["Build two short cup walls.", "Place one cup across the top.", "Drive the car through the opening."],
+                "test": "Can the car pass through without touching the cup walls?",
+                "redesign": "Move the two walls farther apart and rebuild the top.",
+                "rescue": "Remove the top cup and make a wide gate first.",
+                "stop": "Stop if cups are thrown, crushed into sharp edges, or used as steps.",
+                "parent": "Use empty lightweight cups only and keep the structure below the child's shoulders.",
+            },
+        },
         "activities": ["paper-bridge", "straw-bridge", "foil-boat-test", "paper-chain-test", "wind-tower-test", "car-ramp-distance-test", "ball-maze-box", "box-garage", "cup-tower"],
-        "related": ["preschool engineering activities", "engineering activities for preschoolers", "stem engineering activities for preschoolers"],
+        "related": ["preschool engineering activities", "engineering activities for 4 year olds", "stem engineering activities for preschoolers"],
+        "related_routes": [
+            ("Building activities for 4 year olds", "Blocks, structures, and open-ended building play.", "../collections/building-activities-for-4-year-olds.html"),
+            ("STEM activities for preschoolers", "A broader mix of science, math, engineering, and discovery.", "../collections/stem-activities-for-preschoolers.html"),
+            ("STEM activities for 4 year olds", "Age-four routes across ramps, light, water, patterns, and structures.", "../ages/stem-activities-for-4-year-olds.html"),
+        ],
+        "sources": [
+            ("TERC Head Start on Engineering: Everyday Engineering", "https://www.terc.edu/hse/everyday-engineering/"),
+            ("HeadStart.gov: Exploring Engineering with Preschoolers", "https://www.headstart.gov/school-readiness/teacher-time-series/exploring-engineering-preschoolers"),
+        ],
     },
     {
         "path": "collections/science-experiments-for-4-year-olds.html",
@@ -774,6 +928,11 @@ def page_activity(page, key):
 
 
 def chooser_pick_cell(pick):
+    if isinstance(pick, list):
+        return " or ".join(
+            f'<a href="{esc(url)}">{esc(text)}</a>'
+            for text, url in pick
+        )
     if isinstance(pick, tuple):
         text, url = pick
         return f'<a href="{esc(url)}">{esc(text)}</a>'
@@ -804,7 +963,177 @@ def activity_card(activity):
         </article>'''
 
 
+def engineering_activity_card(activity):
+    steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
+    link = ""
+    if activity["url"]:
+        link = f'<a class="small-link" href="{esc(activity["url"])}">Open the base activity card</a>'
+    return f'''        <article class="seo-activity engineering-challenge" id="{esc(activity["slug"])}">
+          <div>
+            <p class="challenge-label">Challenge</p>
+            <h2>{esc(activity["title"])}</h2>
+            <p class="challenge-mission"><strong>Kid mission:</strong> {esc(activity["mission"])}</p>
+            <div class="source-tags">
+              <span class="tag">Editorial range: ages 4-6</span>
+            </div>
+          </div>
+          <div class="activity-materials"><strong>Need</strong>{esc(activity["materials"])}</div>
+          <p><strong>Adult setup:</strong> {esc(activity["adult_role"])}</p>
+          <ol class="card-steps">{steps}</ol>
+          <div class="challenge-details">
+            <p><strong>Test</strong>{esc(activity["test"])}</p>
+            <p><strong>First change</strong>{esc(activity["redesign"])}</p>
+            <p><strong>If the build stalls</strong>{esc(activity["rescue"])}</p>
+          </div>
+          <div class="challenge-stop">
+            <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
+            <p><strong>Parent check:</strong> {esc(activity["parent"])}</p>
+          </div>
+          {link}
+        </article>'''
+
+
+def engineering_page_html(page):
+    root = rel_root(page["path"])
+    activity_html = "\n".join(
+        engineering_activity_card(page_activity(page, key))
+        for key in page["activities"]
+    )
+    chooser_rows = "\n".join(
+        f'''            <tr>
+              <td data-label="What is ready">{esc(situation)}</td>
+              <td data-label="Start with">{chooser_pick_cell(pick)}</td>
+              <td data-label="Adult role">{esc(adult_role)}</td>
+            </tr>'''
+        for situation, pick, adult_role in page["chooser"]
+    )
+    process_steps = "\n".join(
+        f'<li><strong>{esc(label)}</strong><span>{esc(body)}</span></li>'
+        for label, body in page["process_steps"]
+    )
+    related_routes = "\n".join(
+        f'''          <a href="{esc(url)}">
+            <strong>{esc(title)}</strong>
+            <span>{esc(body)}</span>
+          </a>'''
+        for title, body, url in page["related_routes"]
+    )
+    source_links = "\n".join(
+        f'<li><a href="{esc(url)}">{esc(title)}</a></li>'
+        for title, url in page["sources"]
+    )
+    image = page["image"]
+    canonical = f"{BASE_URL}/{page['path']}"
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{esc(page["title"])}</title>
+    <meta name="description" content="{esc(page["description"])}">
+    <link rel="canonical" href="{esc(canonical)}">
+    <link rel="stylesheet" href="{root}styles.css?v={CSS_VERSION}">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="/">Kid Activity Lab</a>
+        <div class="nav-links">
+          <a href="/">Home</a>
+          <a href="{root}original/">Original</a>
+          <a href="{root}cards.html">Cards</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero engineering-hero">
+        <p class="kicker">{esc(page["kicker"])}</p>
+        <h1>{esc(page["h1"])}</h1>
+        <p class="dek">{esc(page["intro"])}</p>
+      </section>
+
+      <section class="seo-page engineering-page">
+        <div class="callout">
+          <strong>Start here:</strong> {esc(page["tip"])}
+        </div>
+
+        <div class="engineering-disclosure" role="note">
+          <strong>Evidence note</strong>
+          <p>{esc(page["evidence_note"])}</p>
+        </div>
+
+        <figure class="engineering-visual">
+          <img src="{esc(image["src"])}" alt="{esc(image["alt"])}" width="{esc(image["width"])}" height="{esc(image["height"])}">
+          <figcaption>{esc(image["caption"])}</figcaption>
+        </figure>
+
+        <section class="chooser" aria-labelledby="engineering-chooser-title">
+          <h2 id="engineering-chooser-title">{esc(page["chooser_title"])}</h2>
+          <div class="table-wrap seo-table" aria-label="{esc(page["chooser_label"])}">
+            <table>
+              <thead>
+                <tr>
+                  <th>What is ready</th>
+                  <th>Start with</th>
+                  <th>Adult role</th>
+                </tr>
+              </thead>
+              <tbody>
+{chooser_rows}
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="engineering-process related" aria-labelledby="engineering-process-title">
+          <h2 id="engineering-process-title">A preschool engineering loop</h2>
+          <p>Use the same loop for every challenge. The five-part structure is adapted from TERC Head Start on Engineering and HeadStart.gov; the short prompts are Kid Activity Lab editorial wording.</p>
+          <ol>
+{process_steps}
+          </ol>
+        </section>
+
+        <section class="engineering-challenges" aria-labelledby="engineering-challenges-title">
+          <div class="section-heading">
+            <p class="kicker">Nine challenges</p>
+            <h2 id="engineering-challenges-title">Choose one problem to solve</h2>
+            <p>Run one test and one first change. The rescue is a smaller version, not a promise that the activity will fit every child.</p>
+          </div>
+          <div class="seo-activity-grid" aria-label="Preschool engineering challenges">
+{activity_html}
+          </div>
+        </section>
+
+        <section class="related" aria-labelledby="engineering-routes-title">
+          <h2 id="engineering-routes-title">Choose another route</h2>
+          <p>Building play and broad STEM are useful neighboring jobs, but they are not the same search or parent decision as an engineering challenge.</p>
+          <div class="related-routes">
+{related_routes}
+          </div>
+        </section>
+
+        <section class="related engineering-sources" aria-labelledby="engineering-sources-title">
+          <h2 id="engineering-sources-title">Research sources and limits</h2>
+          <p>These sources support an iterative problem-solving model for young children. They do not establish that Kid Activity Lab ran these exact setups or measured their fit, safety, engagement, or learning outcomes.</p>
+          <ul class="source-list">
+{source_links}
+          </ul>
+        </section>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p><a href="{root}cards.html">Browse all activity cards</a></p>
+    </footer>
+  </body>
+</html>
+'''
+
+
 def page_html(page):
+    if page.get("engineering_layout"):
+        return engineering_page_html(page)
     root = rel_root(page["path"])
     activity_html = "\n".join(activity_card(page_activity(page, key)) for key in page["activities"])
     rows = "\n".join(

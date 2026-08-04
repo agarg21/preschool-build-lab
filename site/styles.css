@@ -931,6 +931,139 @@ th {
   white-space: nowrap;
 }
 
+.engineering-visual {
+  max-width: var(--max);
+  margin: 18px auto 0;
+  padding: 0 20px;
+}
+
+.engineering-visual img {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border: 1px solid var(--line);
+}
+
+.engineering-visual figcaption {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.engineering-page .engineering-visual {
+  margin: 26px 0 0;
+  padding: 0;
+}
+
+.engineering-disclosure {
+  margin: 18px 0 26px;
+  padding: 16px 18px;
+  border-left: 5px solid var(--blue);
+  background: #eef7fb;
+}
+
+.engineering-disclosure strong {
+  display: block;
+}
+
+.engineering-disclosure p {
+  margin: 6px 0 0;
+}
+
+.engineering-process ol {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  margin: 18px 0 0;
+  padding: 0;
+  border-top: 4px solid var(--yellow);
+  border-bottom: 1px solid var(--line);
+  list-style: none;
+}
+
+.engineering-process li {
+  min-height: 138px;
+  padding: 16px;
+  border-right: 1px solid var(--line);
+}
+
+.engineering-process li:last-child {
+  border-right: 0;
+}
+
+.engineering-process strong,
+.engineering-process span {
+  display: block;
+}
+
+.engineering-process strong {
+  color: var(--green);
+}
+
+.engineering-process span {
+  margin-top: 8px;
+}
+
+.engineering-challenges {
+  margin-top: 52px;
+}
+
+.section-heading {
+  max-width: 720px;
+  margin-bottom: 20px;
+}
+
+.section-heading h2 {
+  margin: 0;
+  font-size: 2rem;
+  line-height: 1.1;
+}
+
+.section-heading > p:last-child {
+  margin: 10px 0 0;
+  color: var(--muted);
+}
+
+.challenge-label {
+  color: var(--green);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.challenge-mission {
+  min-height: 76px;
+}
+
+.challenge-details {
+  display: grid;
+  gap: 10px;
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+}
+
+.challenge-details p {
+  padding-left: 12px;
+  border-left: 3px solid var(--yellow);
+}
+
+.challenge-details strong {
+  display: block;
+  color: var(--muted);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+}
+
+.challenge-stop {
+  display: grid;
+  gap: 8px;
+  padding: 12px;
+  border-left: 4px solid #b84a32;
+  background: #fff3ed;
+}
+
+.engineering-page .related-routes {
+  margin-top: 18px;
+}
+
 @media (max-width: 640px) {
   .nav {
     grid-template-columns: 1fr;
@@ -1032,6 +1165,74 @@ th {
 
   .related-routes a:last-child {
     border-bottom: 0;
+  }
+
+  .engineering-page .chooser .table-wrap {
+    overflow-x: visible;
+  }
+
+  .engineering-page .chooser table,
+  .engineering-page .chooser tbody,
+  .engineering-page .chooser tr,
+  .engineering-page .chooser td {
+    display: block;
+    width: 100%;
+  }
+
+  .engineering-page .chooser table {
+    min-width: 0;
+  }
+
+  .engineering-page .chooser thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .engineering-page .chooser tr {
+    padding: 10px 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .engineering-page .chooser tr:last-child {
+    border-bottom: 0;
+  }
+
+  .engineering-page .chooser td {
+    padding: 4px 12px;
+    border: 0;
+  }
+
+  .engineering-page .chooser td::before {
+    content: attr(data-label);
+    display: block;
+    margin-bottom: 2px;
+    color: var(--muted);
+    font-size: 0.72rem;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  .engineering-process ol {
+    grid-template-columns: 1fr;
+  }
+
+  .engineering-process li {
+    min-height: 0;
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .engineering-process li:last-child {
+    border-bottom: 0;
+  }
+
+  .challenge-mission {
+    min-height: 0;
   }
 
   h1 {

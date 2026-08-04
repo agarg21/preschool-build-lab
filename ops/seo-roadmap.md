@@ -8,10 +8,9 @@ automation.
 
 ## Current sequence
 
-1. Complete registered research action `KAL-RES-006`: distinguish preschool
-   engineering, age-four engineering, preschool STEM, and building intent,
-   then promote at most one existing-page improvement. Do not edit a public
-   page or infer complete queries from GSC page rows in this transaction.
+1. Release and verify review-clean `KAL-IMP-003`: preserve the current
+   engineering URL as one research-backed preschool engineering chooser for
+   ages 4-6. Create no new URL and preserve generated card routes.
 2. Observe the released `KAL-SEO-001` rank foundation for at least two
    finalized snapshot comparisons and a refreshed sitemap read. Do not infer
    ranking causality, request indexing, or manufacture follow-on work from
@@ -37,8 +36,43 @@ automation.
    guidance remain separate systems.
 10. Use completed `KAL-RES-004` as the first adjacent validation of the Games
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
-   remain deferred because current research does not resolve their pace,
-   dispute, and contact risks.
+    remain deferred because current research does not resolve their pace,
+    dispute, and contact risks.
+
+## KAL-IMP-003 Registered On 2026-08-04
+
+- Frozen clean aligned base:
+  `de50a4e786d50a746ca2f918f4d8bb0a8fac08d4`.
+- Exact thirteen-path scope: the card and SEO generators; existing engineering HTML;
+  keyword-target and sitemap outputs; one illustrative WebP; scoped CSS; one
+  page-specific test; one review record; and four operator mirrors.
+- Preserve the current canonical URL. Lead with preschool engineering and an
+  explicit ages 4-6 editorial range; keep age four visible on the same page.
+- Add a first-screen default, parent-situation chooser, source-backed iterative
+  engineering loop, and nine problem-test-redesign challenges with adult,
+  rescue, stop, and local supervision boundaries.
+- Remove measured-looking time and mess labels from this page. State that the
+  guidance is research-backed and not family-tested by Kid Activity Lab; label
+  the visual as an illustration, not a family-test photo.
+- Keep building and broad STEM separate and route to their existing pages. No
+  new URL, other page, card-page change, navigation, indexing request, product,
+  affiliate, external account, or family evidence is authorized.
+- Run all three publishing generators and prove every card page remains byte-
+  stable. The card generator may only support an explicit stable route label;
+  it may not otherwise change card behavior. Complete native, source, link,
+  sitemap, responsive, accessibility, and console QA before independent read-
+  only persona/every-section review.
+- Result: the existing URL now has an immediate Paper Bridge default, prominent
+  not-family-tested evidence note, labeled illustration, source-backed five-step
+  engineering loop, eight exact chooser destinations, and nine complete
+  mission/test/redesign/rescue/stop challenge routes. The broader H1 is
+  decoupled from the existing age-four card-route label, and every generated
+  activity-card byte remains stable.
+- Native QA passes 22 focused tests, zero missing links, target-only sitemap
+  lastmod, source, image, desktop/mobile, overflow, console, exact-path, and
+  diff checks. Independent review required two cycles, closed two P2 usability
+  findings, and finished `PASS` with no P0-P3 findings.
+- State: review-clean; push and exact-SHA Pages/production verification pending.
 
 ## KAL-RES-006 Registered On 2026-08-04
 
@@ -70,8 +104,8 @@ automation.
 - Independent review required three cycles and finished `PASS_WITH_P3`; no
   P0-P2 findings remain. The implementation must isolate all generated card
   routes when it changes the visible engineering H1.
-- State: research complete and review-clean for one push-only commit. The next
-  eligible action is the separately registered `KAL-IMP-003`.
+- State: research complete, review-clean, and released in `de50a4e`. The
+  separately registered `KAL-IMP-003` is now in progress.
 
 ## KAL-SEO-001 Registered On 2026-08-03
 

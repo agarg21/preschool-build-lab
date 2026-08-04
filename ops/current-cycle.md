@@ -77,7 +77,35 @@ evidence.
 public-safe comparison points without treating search movement as proof of
 parent or child usefulness.
 
-## Active Transaction
+## Review-Clean Transaction
+
+### KAL-IMP-003 Preschool Engineering Upgrade
+
+`KAL-IMP-003` was directly authorized and registered on 2026-08-04 from clean
+aligned base `de50a4e786d50a746ca2f918f4d8bb0a8fac08d4`. Its exact thirteen-path
+scope preserves the existing engineering URL and may change only the card and
+SEO generators, that HTML output, keyword-target and sitemap outputs, one
+WebP, scoped CSS, one page test, one implementation-review record, and four
+operator mirrors. The card-generator change may only support an explicit
+stable route label; every generated card page must remain byte-identical.
+
+The existing URL now leads with preschool engineering for an editorial ages
+4-6 range while retaining age four on the same page. It provides an immediate
+Paper Bridge default, a prominent not-family-tested evidence note, one labeled
+illustration, a five-step source-backed design loop, eight exact chooser
+destinations, and nine runnable challenges. Each challenge separates child
+mission, adult role, test, first redesign, rescue, stop, and conservative local
+parent guidance; measured-looking duration and mess labels are gone.
+
+All three publishing generators ran. Every activity-card byte remains stable,
+the sitemap updates only this page, 22 focused tests and complete link checks
+pass, and desktop/mobile checks show zero overflow. Independent review required
+two cycles: the Master moved the default/evidence before the illustration and
+gave every paired chooser option its own destination, then Pasteur
+(`019fccbd-0a4e-7691-8c33-c5d460eae9df`) returned `PASS` with no P0-P3
+findings. Push and exact-SHA Pages/production verification remain. No new URL,
+other page, navigation, indexing request, product, affiliate, external account,
+or parent/child evidence was created.
 
 ### KAL-RES-006 Preschool Engineering Research
 

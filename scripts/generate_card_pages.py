@@ -106,7 +106,7 @@ def related_routes(slug):
 
 def related_routes_html(slug):
     links = [
-        f'<a href="../{esc(route["path"])}">{esc(route["h1"].rstrip("."))}</a>'
+        f'<a href="../{esc(route["path"])}">{esc(route.get("route_label", route["h1"]).rstrip("."))}</a>'
         for route in related_routes(slug)
     ]
     if not links:
