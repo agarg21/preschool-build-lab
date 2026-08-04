@@ -79,6 +79,35 @@ parent or child usefulness.
 
 ## Active Transaction
 
+### KAL-RES-006 Preschool Engineering Research
+
+`KAL-RES-006` was directly authorized and registered on 2026-08-04 from clean
+aligned base `fe24140fbcd4948cd2cabc05932ecb1f64e2a5ee`. Its exact seven-path
+scope is research-only: a current Semrush keyword register, a preschool-
+engineering decision pack, a research-review record, and four operator
+mirrors. It may promote at most one separately registered existing-page
+improvement. It may not edit a public page or generator, create a URL, request
+indexing, modify an external account, or claim family testing or any parent/
+child outcome.
+
+The latest public-safe GSC context remains the validated August 3 snapshot,
+with finalized data through August 1: 116 impressions, no clicks, 61 discovered
+pages, and 7 of 7 then-configured priority URLs indexed. Engineering has 9
+page-level impressions at average position 15.33, but complete queries remain
+unavailable. Fresh logged-in Semrush US evidence collected August 4 estimates
+90 monthly searches and KD 18 for `engineering activities for preschoolers`.
+The research will distinguish that broader job from age-four engineering,
+preschool STEM, and building intent before recommending any page change.
+
+Evidence collection is complete. The pack keeps one canonical engineering URL,
+routes age four within the broader preschool job, and leaves building and broad
+STEM separate. Independent review required three cycles and finished
+`PASS_WITH_P3` with no P0-P2 findings. It promotes `KAL-IMP-003`, an existing-
+page improvement whose generator isolation must preserve all engineering card
+routes. No public page has changed in this transaction.
+
+### KAL-SEO-001 Release Context
+
 `KAL-SEO-001` was directly authorized and registered on 2026-08-03 from clean
 aligned base `b31ac9599817082c1c954e83b9e3843f46330059`. The newest validated
 snapshot has finalized data through 2026-08-01 and shows 116 impressions, no

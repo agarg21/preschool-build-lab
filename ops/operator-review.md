@@ -18,6 +18,92 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-08-04 Preschool Engineering Research
+
+Action: `KAL-RES-006`
+
+State: research complete; independent review pending
+
+Frozen base: `fe24140fbcd4948cd2cabc05932ecb1f64e2a5ee`
+
+Scope: exactly the seven research and operator paths declared for
+`KAL-RES-006` in `ops/seo-roadmap.json`. No public page, generator, sitemap,
+monitoring, GSC snapshot, indexing, external-account, product, affiliate, or
+family-evidence path may change.
+
+Review gate: after the decision pack and keyword register are complete, a
+different independent read-only reviewer must evaluate the complete frozen
+diff, query and SERP boundaries, representative ranking-page inspection,
+source-derived personas, every-section audit, recommendation, and exact-path
+scope. Only `PASS` or `PASS_WITH_P3` may proceed to a push-only research
+commit.
+
+Prepared evidence: a 24-query fresh Semrush US register, four explicitly
+incomplete representative SERP samples with 32 exact retained row URLs, ten
+ranking-page/result-type inspections, five
+source-traced persona hypotheses, four-page inventory, one every-section audit,
+one architecture decision, and one promoted existing-page candidate. Numeric
+SERP overlap remains `UNKNOWN`; complete GSC queries and every parent/child
+outcome remain `UNKNOWN`.
+
+Review cycle 1: `FAIL`
+
+Reviewer: Lagrange (`019fcc90-7a78-70a2-96ad-e34eff15ff45`), independent and
+read-only.
+
+- `P2`: the four SERP summaries named results but did not preserve the exact
+  row-level URLs required to reproduce exact-URL recurrence, and the roadmap
+  described Semrush SERP rows as public `SOURCE_BACKED` evidence rather than
+  `TOOL_ESTIMATE`.
+- `P2`: the ranking-page table did not inspect the exposed community/visual
+  board and video result types or record per-page freshness limitations.
+- `P2`: the proposed `KAL-IMP-003` scope used an unnamed test placeholder and
+  omitted exact asset/style and deterministic generated-output boundaries.
+- `P3`: adjacent-page persona and internal-link roles were implicit rather
+  than explicit in the page inventory.
+
+Corrections: added all 32 exact retained SERP row URLs with rank, domain, and
+result type; corrected the roadmap evidence class; directly inspected the
+Pinterest board and YouTube result; added a ten-row freshness/inspection-limit
+register; named all eleven proposed implementation paths and two expected
+generated outputs; and made each adjacent page's persona and link role
+explicit. Re-review is pending.
+
+Review cycle 2: `FAIL`
+
+- Closed: exact-row recurrence arithmetic, evidence classification,
+  community/video inspection, freshness limits, persona/link mapping, and
+  named implementation files.
+- `P2`: the SERP register still omitted locale/language, collection time,
+  requested depth, and explicit omitted/unretained-row handling.
+- `P2`: removing Box Garage from engineering would change its generated card
+  routes, and required sitemap regeneration was outside the proposed scope.
+
+Corrections: added a four-query metadata table that preserves every exposed
+provider, snapshot, market, device, depth, retained-count, feature, and
+completeness boundary and marks unexposed locale/time/depth fields `UNKNOWN`.
+The candidate now retains Box Garage as a fit-and-exit engineering challenge,
+requires byte-stable card routes, adds `site/sitemap.xml`, names twelve exact
+implementation paths, and requires all three publishing generators. Review
+cycle 3 is pending.
+
+Review cycle 3: `PASS_WITH_P3`
+
+- Closed: all four SERP sample metadata rows now preserve provider, snapshot,
+  market, locale/language boundary, device, collection-date/time boundary,
+  requested-depth boundary, retained count, completeness, features, and
+  omitted/unretained handling.
+- Closed: Box Garage remains an engineering-owned fit-and-exit challenge; the
+  proposed exact twelve-path implementation includes the sitemap and requires
+  all three publishing generators plus byte-stable card routes.
+- No P0-P2 findings remain.
+- Residual `P3`: the current card generator derives related-route labels from
+  the engineering H1. `KAL-IMP-003` must decouple that label or prove all nine
+  engineering-owned card pages remain byte-stable.
+
+Final reviewer: Lagrange (`019fcc90-7a78-70a2-96ad-e34eff15ff45`), independent
+and read-only. Final verdict: `PASS_WITH_P3`.
+
 ## 2026-08-03 Site Architecture And Internal Links
 
 Action: `KAL-SEO-001`

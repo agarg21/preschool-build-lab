@@ -8,33 +8,70 @@ automation.
 
 ## Current sequence
 
-1. Observe the released `KAL-SEO-001` rank foundation for at least two
+1. Complete registered research action `KAL-RES-006`: distinguish preschool
+   engineering, age-four engineering, preschool STEM, and building intent,
+   then promote at most one existing-page improvement. Do not edit a public
+   page or infer complete queries from GSC page rows in this transaction.
+2. Observe the released `KAL-SEO-001` rank foundation for at least two
    finalized snapshot comparisons and a refreshed sitemap read. Do not infer
    ranking causality, request indexing, or manufacture follow-on work from
    unchanged evidence.
-2. Observe the released `KAL-IMP-002` chooser for discovery and finalized
+3. Observe the released `KAL-IMP-002` chooser for discovery and finalized
    public-safe search evidence.
-3. Do not create individual game or age
+4. Do not create individual game or age
    pages, Snap, Slapjack, products, or affiliates from the same evidence.
-4. Observe `KAL-IMP-001` without attributing small page-row movement to the
+5. Observe `KAL-IMP-001` without attributing small page-row movement to the
    release.
-5. Keep comparing validated GSC snapshots, but do not infer complete query
+6. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
-6. Keep tested-status, parent/child outcomes, and product reviews evidence-
+7. Keep tested-status, parent/child outcomes, and product reviews evidence-
    gated; do not ask the user for unavailable family testing.
-7. Use the completed `KAL-RES-002` Semrush supplement as the current paid
+8. Use the completed `KAL-RES-002` Semrush supplement as the current paid
    metric layer. It reinforces existing-page ownership and promotes no
    implementation.
-8. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
+9. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
    an Activities umbrella with Games, Arts & Crafts, Science & Building, and
    Outdoor & Nature as concrete browse categories. Actual parent comprehension
    remains `UNKNOWN`. Age and moment constraints remain routes or filters;
    pretend/story/music remain activity types; local outings and product
    guidance remain separate systems.
-9. Use completed `KAL-RES-004` as the first adjacent validation of the Games
+10. Use completed `KAL-RES-004` as the first adjacent validation of the Games
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
    remain deferred because current research does not resolve their pace,
    dispute, and contact risks.
+
+## KAL-RES-006 Registered On 2026-08-04
+
+- Frozen clean aligned base:
+  `fe24140fbcd4948cd2cabc05932ecb1f64e2a5ee`.
+- Research-only exact seven-path scope: one current Semrush keyword register,
+  one engineering decision pack, one research-review record, and four operator
+  mirrors. No site, generator, sitemap, monitoring, indexing, external-account,
+  product, affiliate, or family-evidence mutation is authorized.
+- The latest validated public-safe GSC snapshot has finalized data through
+  August 1: 116 impressions, no clicks, 61 discovered pages, and 7 of 7 then-
+  configured priority URLs indexed. Engineering has 9 impressions at page-
+  level average position 15.33. Complete query rows remain unavailable.
+- Fresh logged-in Semrush US evidence collected August 4 shows 90 estimated
+  monthly searches and KD 18 for `engineering activities for preschoolers`.
+  That is directional tool evidence, not observed KAL query demand.
+- The action will compare preschool engineering, age-four engineering,
+  preschool STEM, and building intent, inspect at least eight current ranking
+  pages, derive at least four source-traced parent-job hypotheses, audit every
+  section of the relevant KAL pages, and promote at most one separate existing-
+  page implementation.
+- Decision: preserve the evidence-bearing age-four engineering URL and improve
+  it as one preschool-engineering chooser for ages 4-6. Keep building and
+  broad preschool STEM as separate jobs; create no new URL.
+- Result: 24 fresh queries, four explicitly incomplete Semrush SERP samples
+  with 32 exact retained URLs, ten inspected page/result types, five personas,
+  and a four-page ownership audit support only `KAL-IMP-003` on the existing
+  engineering URL.
+- Independent review required three cycles and finished `PASS_WITH_P3`; no
+  P0-P2 findings remain. The implementation must isolate all generated card
+  routes when it changes the visible engineering H1.
+- State: research complete and review-clean for one push-only commit. The next
+  eligible action is the separately registered `KAL-IMP-003`.
 
 ## KAL-SEO-001 Registered On 2026-08-03
 

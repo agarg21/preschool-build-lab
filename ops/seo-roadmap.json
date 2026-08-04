@@ -418,6 +418,72 @@
       "notes": "Direct manual implementation transaction. Exact twenty-five-path scope. Do not change navigation, create individual game pages, add Snap or Slapjack, request indexing, add products or affiliates, modify external accounts, or claim firsthand use."
     },
     {
+      "id": "KAL-RES-006",
+      "title": "Decide preschool engineering query ownership and page upgrade",
+      "kind": "research",
+      "lane": "search-and-product-research",
+      "impact": 4,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 3,
+      "risk": 2,
+      "status": "completed",
+      "selected_on": "2026-08-04",
+      "completed_on": "2026-08-04",
+      "frozen_base": "fe24140fbcd4948cd2cabc05932ecb1f64e2a5ee",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "validated_2026-08-03_GSC_snapshot",
+        "prior_2026-08-02_GSC_snapshot",
+        "fresh_2026-08-04_Semrush_US_metrics",
+        "current_representative_engineering_SERPs",
+        "representative_ranking_page_inspection",
+        "current_engineering_and_adjacent_page_audit"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/collections/engineering-activities-for-4-year-olds.html",
+        "https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html",
+        "https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html",
+        "https://kidactivitylab.com/collections/building-activities-for-4-year-olds.html"
+      ],
+      "target_paths": [
+        "data/preschool-engineering-keywords-2026-08-04.csv",
+        "seo/preschool-engineering-decision-pack-2026-08-04.md",
+        "reviews/preschool-engineering-research-review-2026-08-04.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "A research-only decision pack distinguishes preschool engineering, age-four engineering, preschool STEM, and building intents using current demand, representative SERPs, ranking-page inspection, current KAL ownership, source-derived personas, and an every-section audit, then promotes at most one existing-page improvement with no invented query or family evidence.",
+      "evidence_classification": "August 2 and August 3 public-safe GSC snapshots are MEASURED page and indexing context; complete GSC query rows remain UNKNOWN. Semrush US volume, KD, CPC, intent, organic rankings, and retained SERP rows collected through the user's logged-in Chrome session on 2026-08-04 are TOOL_ESTIMATE. Directly inspected public ranking and official pages are SOURCE_BACKED within their limits. Persona, ownership, overlap, and implementation recommendations are RESEARCH_HYPOTHESIS or EDITORIAL_JUDGMENT as labeled. Parent/child outcomes remain UNKNOWN.",
+      "human_gate": "The user directly authorized the preschool-engineering research sequence on 2026-08-04. This transaction may recommend one bounded existing-page upgrade but may not edit site or generator paths, create a URL, request indexing, change navigation, modify external accounts, claim family testing, or create parent/child, safety-outcome, learning, engagement, timing, or repeatability evidence.",
+      "observation_window": "Research may proceed while KAL-SEO-001, KAL-IMP-001, and KAL-IMP-002 remain under observation. Any public page change requires a separate registered implementation transaction and must not attribute later movement to the preceding architecture release without sufficient evidence.",
+      "decision": "Preserve the evidence-bearing age-four engineering URL and improve it as one preschool-engineering chooser for ages 4-6. Keep building and broad preschool STEM as separate jobs, preserve age four as a route, and create no new URL.",
+      "research_cap": {
+        "maximum_exact_queries": 24,
+        "minimum_representative_serps": 4,
+        "minimum_inspected_ranking_pages": 8,
+        "minimum_parent_job_hypotheses": 4
+      },
+      "decision_pack": "seo/preschool-engineering-decision-pack-2026-08-04.md",
+      "recommended_next_action": "KAL-IMP-003",
+      "implementation_state": "review-clean",
+      "result": "Refreshed 24 exact Semrush US desktop queries, preserved 32 exact retained rows across four explicitly incomplete SERP samples, inspected ten ranking page/result types, traced five parent-job hypotheses, and audited four current KAL pages plus every section of the engineering candidate. The evidence supports one existing-page improvement on the current engineering URL, not a new page or a merger with building or broad preschool STEM. Complete GSC queries, numeric SERP overlap, family use, and all parent/child outcomes remain UNKNOWN. Independent review required three cycles and finished PASS_WITH_P3 with no P0-P2 findings.",
+      "qa_summary": "Twenty-four unique refreshed keyword rows; 16 positive numeric volumes, one zero, seven unavailable, and median numeric volume 20. Four SERP metadata-boundary rows, 32 exact ranked URLs, qualitative intersections independently verified as 7/0/2, ten inspected page/result types, 17 parseable GSC snapshots, valid roadmap JSON, exact seven-path scope, ten reference accessibility checks, and git diff --check pass.",
+      "review_cycles": 3,
+      "review_outcome": "PASS_WITH_P3",
+      "reviewer": {
+        "name": "Lagrange",
+        "agent_id": "019fcc90-7a78-70a2-96ad-e34eff15ff45",
+        "read_only": true
+      },
+      "release_state": "push-only",
+      "next_eligible_action": "KAL-IMP-003",
+      "notes": "Direct manual research transaction. Exact seven-path research-only scope. No site, generator, sitemap, monitoring, GSC snapshot, indexing, external account, product, affiliate, or family-evidence mutation is authorized."
+    },
+    {
       "id": "KAL-SEO-001",
       "title": "Strengthen crawl ownership and internal topic links",
       "kind": "technical-implementation",
