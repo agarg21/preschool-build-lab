@@ -77,7 +77,7 @@ evidence.
 public-safe comparison points without treating search movement as proof of
 parent or child usefulness.
 
-## Review-Clean Transaction
+## Released Transaction
 
 ### KAL-IMP-003 Preschool Engineering Upgrade
 
@@ -103,9 +103,16 @@ pass, and desktop/mobile checks show zero overflow. Independent review required
 two cycles: the Master moved the default/evidence before the illustration and
 gave every paired chooser option its own destination, then Pasteur
 (`019fccbd-0a4e-7691-8c33-c5d460eae9df`) returned `PASS` with no P0-P3
-findings. Push and exact-SHA Pages/production verification remain. No new URL,
-other page, navigation, indexing request, product, affiliate, external account,
-or parent/child evidence was created.
+findings. Implementation commit
+`f75d414d8871dd244d14c503a92edda8834dbae2` was pushed, and exact-SHA Pages
+run `30909916581` succeeded. The live HTML, WebP, CSS, and sitemap byte-match;
+title, canonical, H1, disclosure, eight chooser destinations, nine challenges,
+image load, and desktop/mobile overflow checks pass. The desktop console exposes
+only the pre-existing site-wide missing `/favicon.ico` 404; no action-scoped
+request fails. No new URL, other page, navigation, indexing request, product,
+affiliate, external account, or parent/child evidence was created. Observe
+until a post-release crawl or changed finalized GSC evidence; do not request
+indexing or infer family outcomes.
 
 ### KAL-RES-006 Preschool Engineering Research
 

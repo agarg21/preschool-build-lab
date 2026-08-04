@@ -22,7 +22,7 @@ evidence.
 
 Action: `KAL-IMP-003`
 
-State: review-clean; push and production verification pending
+State: released and verified
 
 Frozen base: `de50a4e786d50a746ca2f918f4d8bb0a8fac08d4`
 
@@ -48,8 +48,16 @@ remains. The reviewer independently confirmed canonical and source ownership,
 sitemap uniqueness, challenge completeness, evidence limits, adjacent routes,
 legacy card labels, five-persona coverage, human gates, 22 passing focused
 tests, `git diff --check`, and no activity-card diff from the frozen base.
-Residual risk is limited to intentionally unknown family outcomes and unproven
-search effects plus the pending exact-SHA Pages and production gate.
+Exact-SHA Pages run `30909916581` succeeded for implementation commit
+`f75d414d8871dd244d14c503a92edda8834dbae2`. The live HTML, WebP, CSS, and
+sitemap byte-match. Production title, canonical, H1, evidence note, eight
+chooser links, nine challenges, image load, and 1440x1000/390x844 zero-overflow
+invariants pass. The only console error is the pre-existing site-wide missing
+`/favicon.ico` 404; no action-scoped request fails.
+
+Residual risk is limited to intentionally unknown family outcomes, unproven
+search effects, and that unrelated favicon debt. Observe until a post-release
+crawl or changed finalized GSC evidence; do not request indexing.
 
 ## 2026-08-04 Preschool Engineering Research
 

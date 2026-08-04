@@ -8,9 +8,9 @@ automation.
 
 ## Current sequence
 
-1. Release and verify review-clean `KAL-IMP-003`: preserve the current
-   engineering URL as one research-backed preschool engineering chooser for
-   ages 4-6. Create no new URL and preserve generated card routes.
+1. Observe released `KAL-IMP-003` until a post-release crawl or changed
+   finalized GSC evidence. Do not infer query intent or family outcomes from
+   page-level movement, and do not request indexing.
 2. Observe the released `KAL-SEO-001` rank foundation for at least two
    finalized snapshot comparisons and a refreshed sitemap read. Do not infer
    ranking causality, request indexing, or manufacture follow-on work from
@@ -72,7 +72,16 @@ automation.
   lastmod, source, image, desktop/mobile, overflow, console, exact-path, and
   diff checks. Independent review required two cycles, closed two P2 usability
   findings, and finished `PASS` with no P0-P3 findings.
-- State: review-clean; push and exact-SHA Pages/production verification pending.
+- Release: implementation commit
+  `f75d414d8871dd244d14c503a92edda8834dbae2`; exact-SHA Pages run
+  [30909916581](https://github.com/agarg21/preschool-build-lab/actions/runs/30909916581)
+  succeeded. The live HTML, WebP, CSS, and 61-URL sitemap byte-match; intended
+  title/canonical/H1, eight chooser links, nine challenges, evidence note,
+  loaded image, and zero desktop/mobile overflow pass. The only browser-console
+  error is the pre-existing site-wide missing `/favicon.ico` 404; no scoped
+  resource fails.
+- State: released and verified; observe until a post-release crawl or changed
+  finalized GSC evidence.
 
 ## KAL-RES-006 Registered On 2026-08-04
 
