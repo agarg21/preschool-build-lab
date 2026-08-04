@@ -868,15 +868,167 @@ PAGES = [
     {
         "path": "collections/building-activities-for-4-year-olds.html",
         "page_type": "collection",
-        "primary": "building activities for 4 year olds",
-        "title": "Building Activities for 4 Year Olds | Kid Activity Lab",
-        "h1": "Building activities for 4 year olds.",
-        "kicker": "Building",
-        "description": "Building activities for 4 year olds with blocks, cups, magnetic tiles, paper bridges, straw bridges, towers, tubes, boxes, and blanket rivers.",
-        "intro": "Building activities are a natural STEM entry point for 4 year olds because the result is right in front of them. The goal is not a perfect craft; it is a structure they can change and test.",
-        "tip": "Give one constraint: build across a gap, build taller than a hand, build a home for one toy, or build something that stays up in wind.",
+        "primary": "building activities for preschoolers",
+        "title": "Building Activities for Preschoolers | Kid Activity Lab",
+        "h1": "Building activities for preschoolers.",
+        "route_label": "Building activities for 4 year olds",
+        "kicker": "Preschool building | Age 4 route included",
+        "description": "Choose preschool building activities with blocks, cups, magnetic tiles, paper, straws, tubes, and blankets. Start by material and the kind of structure a child wants to make.",
+        "intro": "Choose what is already out, then give the child one structure job: make a place, build up, span a gap, shape a sculpture, or build big on the floor. These research-backed routes keep the design with the child and make the adult setup visible.",
+        "tip": "Start with a low block home for one favorite toy. Put out six to ten large blocks, set the toy beside them, and ask: Where could the toy go?",
+        "building_layout": True,
+        "evidence_note": "Kid Activity Lab created this chooser from current source and search research. We have not family-tested these setups. The age-four route, material choices, adult roles, rescue steps, and stop boundaries are editorial guidance; timing, mess, engagement, learning, repeatability, and safety outcomes are unknown.",
+        "readiness_note": "Choose materials that are appropriate for the youngest child who can reach the build. Remove cracked or damaged materials and any piece with an exposed magnet. If any child may mouth materials, stay within reach and watch continuously; skip straws, loose tape, and other loose pieces and use larger solid blocks instead.",
+        "image": {
+            "src": "../assets/preschool-building/building-material-chooser.webp",
+            "alt": "Illustration of large blocks, paper cups, a paper bridge, a cardboard-tube sculpture, and a blanket path as preschool building material choices.",
+            "width": "1672",
+            "height": "941",
+            "caption": "Illustrated material routes, not a Kid Activity Lab family-test photo or a product recommendation.",
+        },
+        "chooser_title": "Choose by what is ready and what to build",
+        "chooser_label": "Preschool building activity chooser",
+        "chooser": [
+            ("Large blocks or tiles", [("Toy Home", "#magnetic-tile-house"), ("Wide-Base Tower", "#block-tower")], "Put out a small set and let the child decide the shape."),
+            ("Paper cups", ("Cup Doorway", "#cup-tower"), "Keep the build on the floor and the toy lane short."),
+            ("Paper, straws, or two low books", [("Paper Path", "#paper-bridge"), ("Straw Span", "#straw-bridge")], "Set the supports; handle cutting or tape."),
+            ("Cardboard tubes and painter tape", ("Tube Sculpture", "#tube-sculpture"), "Prepare short tape pieces and leave the arrangement to the child."),
+            ("Blanket and large blocks", ("Blanket Crossing", "#blanket-river"), "Clear the floor and keep the build for toys, not climbing."),
+        ],
+        "support_steps": [
+            ("Name the job", "Ask what the structure is for: a home, wall, tower, path, bridge, or sculpture."),
+            ("Offer a small set", "Put out enough material to start without filling the whole play area."),
+            ("Ask about space", "Try prompts such as: What could go inside, under, beside, or across?"),
+            ("Protect the child's design", "Handle setup or material checks, then let the child place and change the pieces."),
+        ],
+        "activity_overrides": {
+            "magnetic-tile-house": {
+                "slug": "magnetic-tile-house",
+                "title": "Toy Home",
+                "job": "Make a place",
+                "materials": "six to ten intact large magnetic tiles or blocks, one large toy",
+                "mission": "Make a place with an opening where the toy can go inside and come back out.",
+                "adult_role": "Choose intact pieces, place the toy beside them, and keep the build on the floor.",
+                "steps": ["Make two side walls.", "Leave an opening for the toy.", "Add a back wall or roof if wanted."],
+                "rescue": "Use three walls and leave the roof off.",
+                "stop": "Stop if a tile is cracked, a magnet is exposed, or pieces are thrown or mouthed.",
+                "parent": "Follow the toy maker's age guidance and remove damaged magnetic pieces immediately.",
+            },
+            "magnetic-tile-ideas": {
+                "slug": "magnetic-tile-ideas",
+                "title": "Connected Rooms",
+                "job": "Enclose a space",
+                "materials": "intact large magnetic tiles or blocks, two large toys",
+                "mission": "Make two connected spaces so each toy has a place.",
+                "adult_role": "Offer a small set of intact pieces and ask where an opening should go.",
+                "steps": ["Make one open shape.", "Build a second shape beside it.", "Join them with a wall or doorway."],
+                "rescue": "Make two flat outlines instead of standing walls.",
+                "stop": "Stop if a piece breaks, magnets become visible, or the material no longer stays in the build area.",
+                "parent": "Use pieces appropriate for the child and check edges and enclosed magnets before play.",
+            },
+            "block-tower": {
+                "slug": "block-tower",
+                "title": "Wide-Base Tower",
+                "job": "Build up",
+                "materials": "six to ten lightweight blocks",
+                "mission": "Build upward from a base that is wider than the top.",
+                "adult_role": "Set the blocks on the floor and keep the finished build below the child's shoulders.",
+                "steps": ["Make a wide first level.", "Add a smaller level.", "Choose one block for the top."],
+                "rescue": "Use two levels and call the wide base the finished build.",
+                "stop": "Stop if blocks are thrown, used as steps, or stacked near a face, pet, or breakable object.",
+                "parent": "Choose lightweight blocks. Keep the tower low and away from faces, overhead areas, walkways, pets, and breakable objects.",
+            },
+            "cup-tower": {
+                "slug": "cup-tower",
+                "title": "Cup Doorway",
+                "job": "Make an opening",
+                "materials": "six lightweight paper cups, one large toy car or figure",
+                "mission": "Make a doorway wide enough for the toy to pass through.",
+                "adult_role": "Use empty lightweight cups and place the toy on a short floor lane.",
+                "steps": ["Make two short cup walls.", "Place one cup across the top.", "Move the toy through the opening."],
+                "rescue": "Remove the top cup and make a wide gate first.",
+                "stop": "Stop if cups are thrown, crushed into sharp edges, or used as steps.",
+                "parent": "Discard torn cups and keep the structure below the child's shoulders.",
+            },
+            "paper-bridge": {
+                "slug": "paper-bridge",
+                "title": "Paper Path",
+                "job": "Span a gap",
+                "materials": "one sheet of paper, two low stable books, one lightweight toy",
+                "mission": "Make a paper path that connects the two books for the toy.",
+                "adult_role": "Place two low books on the floor and keep them from sliding.",
+                "steps": ["Lay the paper across the books.", "Move the toy along the path.", "Fold or curve the edges if wanted."],
+                "rescue": "Move the books closer until the paper reaches easily.",
+                "stop": "Stop if books slide, the child climbs on them, or the paper is torn into sharp strips.",
+                "parent": "Keep the supports low and use books the child moves only with adult help.",
+            },
+            "straw-bridge": {
+                "slug": "straw-bridge",
+                "title": "Straw Span",
+                "job": "Join materials",
+                "materials": "drinking straws, painter tape, two paper cups, one lightweight toy",
+                "mission": "Join several straws into a path between the two cups.",
+                "adult_role": "Handle any cutting and prepare short pieces of painter tape before the build.",
+                "steps": ["Lay straws side by side.", "Join them with short tape pieces.", "Rest the span across the cups."],
+                "rescue": "Use fewer straws and move the cups closer.",
+                "stop": "Stop if straws splinter or bend into sharp ends, tape goes in a mouth, or cups slide.",
+                "parent": "Use wide straws when possible and remove loose tape and damaged pieces promptly.",
+            },
+            "tube-sculpture": {
+                "slug": "tube-sculpture",
+                "title": "Tube Sculpture",
+                "job": "Make a sculpture",
+                "materials": "whole cardboard tubes, cardboard base, painter tape",
+                "mission": "Arrange tubes into a shape that can stand on the cardboard base.",
+                "adult_role": "Provide whole tubes and short tape pieces; handle all cutting.",
+                "steps": ["Stand two tubes on the base.", "Add a tube beside or across them.", "Turn the sculpture and add one more piece."],
+                "rescue": "Start with tubes lying flat in a connected shape.",
+                "stop": "Stop if cardboard tears into sharp edges, tape is mouthed, or tubes are used as launchers or steps.",
+                "parent": "Remove staples, rough edges, and loose tape before and during the build.",
+            },
+            "wind-tower-test": {
+                "slug": "wind-tower-test",
+                "title": "Low Block Wall",
+                "job": "Build a boundary",
+                "materials": "six to ten lightweight blocks, one large toy",
+                "mission": "Make a low wall that marks a space for the toy.",
+                "adult_role": "Set a short floor boundary and keep the blocks away from walkways.",
+                "steps": ["Place two blocks end to end.", "Continue the wall in a line or curve.", "Choose where to leave an opening."],
+                "rescue": "Make a flat three-block line and stop there.",
+                "stop": "Stop if blocks enter a walkway, are thrown, or become a climbing setup.",
+                "parent": "Keep the wall low and clear it from paths as soon as the building session ends.",
+                "link_text": "Open the test-and-redesign version",
+            },
+            "blanket-river": {
+                "slug": "blanket-river",
+                "title": "Blanket Crossing",
+                "job": "Build big on the floor",
+                "materials": "one blanket, large blocks or cushions, one large toy",
+                "mission": "Make a crossing that lets the toy travel from one side of the blanket to the other.",
+                "adult_role": "Spread the blanket flat in a clear area and keep the route for toys rather than feet.",
+                "steps": ["Place supports near each blanket edge.", "Join them with large blocks or a firm cushion.", "Move the toy across the route."],
+                "rescue": "Make a stepping path for the toy instead of one raised crossing.",
+                "stop": "Stop if anyone runs on the blanket, climbs on the build, or the setup blocks a doorway or walkway.",
+                "parent": "Keep the blanket flat, use only stable floor-level supports, and take the route down after play.",
+            },
+        },
         "activities": ["magnetic-tile-house", "magnetic-tile-ideas", "block-tower", "cup-tower", "paper-bridge", "straw-bridge", "tube-sculpture", "wind-tower-test", "blanket-river"],
-        "related": ["preschool building activities", "construction activities for preschoolers", "building stem activities for preschoolers"],
+        "related": ["preschool building activities", "building activities for 4 year olds", "block activities for preschoolers"],
+        "related_routes": [
+            ("Engineering activities for preschoolers", "Choose this when the child wants a problem, a visible test, and one redesign.", "../collections/engineering-activities-for-4-year-olds.html"),
+            ("STEM activities for preschoolers", "Browse a broader mix of science, math, engineering, and discovery.", "../collections/stem-activities-for-preschoolers.html"),
+            ("Indoor activities for preschoolers", "Choose a different small-room activity job, including roads, ramps, and quieter play.", "../collections/indoor-activities-for-preschoolers.html"),
+        ],
+        "sources": [
+            ("Mississippi State Extension: Block Play", "https://extension.msstate.edu/publications/block-play"),
+            ("Smithsonian Science in Pre-K: Getting Ready, Building Structures", "https://scienceinprek.si.edu/getting-ready-building-structures"),
+            ("Smithsonian Science in Pre-K: Focused Exploration, Building Structures", "https://scienceinprek.si.edu/focused-exploration-building-structures"),
+            ("DREME/Stanford: Draw Your Building", "https://preschoolmath.stanford.edu/resource/draw-your-building/"),
+            ("Penn State Better Kid Care: Blocks, Great Toys for All Ages", "https://extension.psu.edu/programs/betterkidcare/early-care/tip-pages/all/blocks-great-toys-for-all-ages"),
+            ("South Dakota State Extension: Playing With Blocks", "https://extension.sdstate.edu/playing-blocks"),
+        ],
+        "evidence": "KAL-RES-007 refreshed 36 Semrush US queries on 2026-08-04, retained seven explicitly incomplete SERP samples, inspected 14 ranking/community pages and six education sources, and promoted one existing-page preschool-building owner.",
+        "first_2_month_impression_expectation": "UNKNOWN; the existing URL has no public-safe GSC page baseline.",
     },
     {
         "path": "collections/rainy-day-activities-for-preschoolers.html",
@@ -983,6 +1135,35 @@ def engineering_activity_card(activity):
           <div class="challenge-details">
             <p><strong>Test</strong>{esc(activity["test"])}</p>
             <p><strong>First change</strong>{esc(activity["redesign"])}</p>
+            <p><strong>If the build stalls</strong>{esc(activity["rescue"])}</p>
+          </div>
+          <div class="challenge-stop">
+            <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
+            <p><strong>Parent check:</strong> {esc(activity["parent"])}</p>
+          </div>
+          {link}
+        </article>'''
+
+
+def building_activity_card(activity):
+    steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
+    link = ""
+    if activity["url"]:
+        link_text = activity.get("link_text", "Open the base activity card")
+        link = f'<a class="small-link" href="{esc(activity["url"])}">{esc(link_text)}</a>'
+    return f'''        <article class="seo-activity building-build" id="{esc(activity["slug"])}">
+          <div>
+            <p class="challenge-label">{esc(activity["job"])}</p>
+            <h2>{esc(activity["title"])}</h2>
+            <p class="challenge-mission"><strong>Kid mission:</strong> {esc(activity["mission"])}</p>
+            <div class="source-tags">
+              <span class="tag">Editorial preschool route; age 4 included</span>
+            </div>
+          </div>
+          <div class="activity-materials"><strong>Need</strong>{esc(activity["materials"])}</div>
+          <p><strong>Adult setup:</strong> {esc(activity["adult_role"])}</p>
+          <ol class="card-steps">{steps}</ol>
+          <div class="challenge-details build-rescue">
             <p><strong>If the build stalls</strong>{esc(activity["rescue"])}</p>
           </div>
           <div class="challenge-stop">
@@ -1131,9 +1312,161 @@ def engineering_page_html(page):
 '''
 
 
+def building_page_html(page):
+    root = rel_root(page["path"])
+    activity_html = "\n".join(
+        building_activity_card(page_activity(page, key))
+        for key in page["activities"]
+    )
+    chooser_rows = "\n".join(
+        f'''            <tr>
+              <td data-label="What is ready">{esc(material)}</td>
+              <td data-label="Build job">{chooser_pick_cell(pick)}</td>
+              <td data-label="Adult role">{esc(adult_role)}</td>
+            </tr>'''
+        for material, pick, adult_role in page["chooser"]
+    )
+    support_steps = "\n".join(
+        f'<li><strong>{esc(label)}</strong><span>{esc(body)}</span></li>'
+        for label, body in page["support_steps"]
+    )
+    related_routes = "\n".join(
+        f'''          <a href="{esc(url)}">
+            <strong>{esc(title)}</strong>
+            <span>{esc(body)}</span>
+          </a>'''
+        for title, body, url in page["related_routes"]
+    )
+    source_links = "\n".join(
+        f'<li><a href="{esc(url)}">{esc(title)}</a></li>'
+        for title, url in page["sources"]
+    )
+    image = page["image"]
+    canonical = f"{BASE_URL}/{page['path']}"
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{esc(page["title"])}</title>
+    <meta name="description" content="{esc(page["description"])}">
+    <link rel="canonical" href="{esc(canonical)}">
+    <link rel="stylesheet" href="{root}styles.css?v={CSS_VERSION}">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="/">Kid Activity Lab</a>
+        <div class="nav-links">
+          <a href="/">Home</a>
+          <a href="{root}original/">Original</a>
+          <a href="{root}cards.html">Cards</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero building-hero">
+        <p class="kicker">{esc(page["kicker"])}</p>
+        <h1>{esc(page["h1"])}</h1>
+        <p class="dek">{esc(page["intro"])}</p>
+      </section>
+
+      <section class="seo-page building-page">
+        <div class="callout">
+          <strong>Start here:</strong> {esc(page["tip"])}
+        </div>
+
+        <div class="building-disclosure" role="note">
+          <strong>Evidence note</strong>
+          <p>{esc(page["evidence_note"])}</p>
+        </div>
+
+        <div class="building-readiness" role="note">
+          <strong>Choose for every child who can reach the build</strong>
+          <p>{esc(page["readiness_note"])}</p>
+        </div>
+
+        <figure class="building-visual">
+          <img src="{esc(image["src"])}" alt="{esc(image["alt"])}" width="{esc(image["width"])}" height="{esc(image["height"])}">
+          <figcaption>{esc(image["caption"])}</figcaption>
+        </figure>
+
+        <section class="chooser" aria-labelledby="building-chooser-title">
+          <h2 id="building-chooser-title">{esc(page["chooser_title"])}</h2>
+          <div class="table-wrap seo-table" aria-label="{esc(page["chooser_label"])}">
+            <table>
+              <thead>
+                <tr>
+                  <th>What is ready</th>
+                  <th>Build job</th>
+                  <th>Adult role</th>
+                </tr>
+              </thead>
+              <tbody>
+{chooser_rows}
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="building-support related" aria-labelledby="building-support-title">
+          <h2 id="building-support-title">Support the build without supplying the design</h2>
+          <p>The structure and spatial prompts below are Kid Activity Lab editorial wording informed by the named education and extension sources.</p>
+          <ol>
+{support_steps}
+          </ol>
+        </section>
+
+        <section class="building-boundary related" aria-labelledby="building-boundary-title">
+          <h2 id="building-boundary-title">Use the right route</h2>
+          <p><strong>This page:</strong> open-ended structures and spaces made with materials already available.</p>
+          <p><strong>Engineering:</strong> a problem, visible test, and one redesign. <a href="../collections/engineering-activities-for-4-year-olds.html">Open the preschool engineering chooser</a>.</p>
+          <p><strong>Construction themes:</strong> classroom units about vehicles, tools, dramatic play, literacy, crafts, and printables. This page does not promise that curriculum.</p>
+        </section>
+
+        <section class="building-collection" aria-labelledby="building-collection-title">
+          <div class="section-heading">
+            <p class="kicker">Nine builds</p>
+            <h2 id="building-collection-title">Choose one structure job</h2>
+            <p>Use the rescue as a smaller finish, not as a promise that the activity will fit every child.</p>
+          </div>
+          <div class="seo-activity-grid" aria-label="Preschool building activities">
+{activity_html}
+          </div>
+        </section>
+
+        <section class="related" aria-labelledby="building-routes-title">
+          <h2 id="building-routes-title">Choose another activity route</h2>
+          <p>These neighboring pages support different activity goals: testing and redesigning, broader preschool STEM, or choosing something for an indoor moment.</p>
+          <div class="related-routes">
+{related_routes}
+          </div>
+        </section>
+
+        <section class="related building-sources" aria-labelledby="building-sources-title">
+          <h2 id="building-sources-title">Research sources and limits</h2>
+          <p>These sources support open exploration, varied structures and materials, spatial questions, and a bounded adult role. They do not establish that Kid Activity Lab ran these setups or measured their fit, safety, engagement, or learning outcomes.</p>
+          <ul class="source-list">
+{source_links}
+          </ul>
+        </section>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p><a href="{root}cards.html">Browse all activity cards</a></p>
+    </footer>
+  </body>
+</html>
+'''
+
+
 def page_html(page):
     if page.get("engineering_layout"):
         return engineering_page_html(page)
+    if page.get("building_layout"):
+        return building_page_html(page)
     root = rel_root(page["path"])
     activity_html = "\n".join(activity_card(page_activity(page, key)) for key in page["activities"])
     rows = "\n".join(

@@ -18,6 +18,44 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-08-04 Preschool Building Implementation
+
+Action: `KAL-IMP-004`
+
+State: review-clean; focused push pending
+
+Frozen base: `f11d53777aa1d051dfc5e40c088ab790077aebd7`
+
+Scope: exactly the twelve implementation and operator paths declared for
+`KAL-IMP-004` in `ops/seo-roadmap.json`. No new page, other SEO output, card
+page, navigation, workflow, GSC snapshot, indexing, external-account, product,
+affiliate, construction-curriculum, tested-status, or family-evidence path may
+change.
+
+Reviewer: Kuhn (`019fce45-5870-7350-94ce-d40eee59da3d`), independent and
+read-only.
+
+Cycle one returned `FAIL` with two P2 findings and one P3. The opening decision
+surface lacked a mixed-age readiness/direct-supervision boundary; the tower
+parent check implied one height rule could remove a hazard; and related-route
+copy exposed internal canonical terminology. The Master added a pre-chooser
+readiness note, replaced the tower wording with observable precautions,
+rewrote the route explanation for parents, and added regression assertions.
+
+Cycle two returned `PASS_WITH_P3`. Both P2 findings were closed, but the
+readiness note could read as an unconditional ban on straws. The Master split
+unconditional damaged-material and exposed-magnet removal from the conditional
+mouthing rule, which now substitutes larger solid blocks for straws, loose
+tape, and other loose pieces.
+
+Cycle three returned `PASS` with no P0-P3 findings. The reviewer independently
+confirmed all six personas, every visible section, canonical and query
+ownership, age-four route label, generator isolation, sitemap, evidence and
+human gates, accessibility semantics, 28 passing tests, complete HTML checks,
+card byte stability, exact scope, and `git diff --check`. Search and every
+family outcome remain unknown. Exact-SHA Pages and production verification are
+the remaining release gates.
+
 ## 2026-08-04 Indoor, Rainy-Day, And Building Research
 
 Action: `KAL-RES-007`

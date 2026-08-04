@@ -1215,6 +1215,80 @@
       "release_state": "push-only",
       "next_eligible_action": "KAL-IMP-004",
       "notes": "Direct manual research transaction. Exact seven-path research-only scope. No site, generator, sitemap, monitoring, GSC snapshot, indexing, navigation, external account, product, affiliate, or family-evidence mutation is authorized."
+    },
+    {
+      "id": "KAL-IMP-004",
+      "title": "Upgrade the existing preschool building chooser",
+      "kind": "content-implementation",
+      "lane": "existing-page-quality",
+      "impact": 5,
+      "confidence": 4,
+      "learning_value": 4,
+      "effort": 4,
+      "risk": 3,
+      "status": "in_progress",
+      "selected_on": "2026-08-04",
+      "frozen_base": "f11d53777aa1d051dfc5e40c088ab790077aebd7",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "KAL-RES-007_review-clean_decision_pack",
+        "validated_2026-08-04_GSC_snapshot",
+        "fresh_2026-08-04_Semrush_US_metrics",
+        "six_current_building_education_sources"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/collections/building-activities-for-4-year-olds.html"
+      ],
+      "target_paths": [
+        "scripts/generate_seo_pages.py",
+        "site/collections/building-activities-for-4-year-olds.html",
+        "data/seo_keyword_targets.csv",
+        "site/assets/preschool-building/building-material-chooser.webp",
+        "site/styles.css",
+        "site/sitemap.xml",
+        "tools/preschool-building.test.mjs",
+        "reviews/preschool-building-implementation-review-2026-08-04.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "The existing canonical building URL becomes one research-backed preschool building chooser with age four retained as a route, a useful material-first default, distinct structure jobs, nine child-owned builds with local adult, rescue, stop, and parent-check boundaries, one honestly labeled illustration, and explicit routes away from engineering and classroom construction-theme intent. No new URL or family outcome is created.",
+      "decision_pack": "seo/indoor-rainy-building-decision-pack-2026-08-04.md",
+      "baseline": "The current building URL targets building activities for 4 year olds, a fresh Semrush estimate of 20 US monthly searches at KD 14. It has no public-safe GSC page row or configured priority inspection. Its generic generated layout has nine cards, measured-looking time and mess labels, no material/job chooser, no source trail, no explicit untested disclosure, and no per-build rescue or stop route.",
+      "hypothesis": "Preserving the existing URL while matching the clearer preschool-building job (390/KD 4) and reducing material/setup ambiguity can improve search ownership and parent usefulness without adding a competing page. Close variants overlap and are not summed.",
+      "expected_effect": "A parent can select a build from materials already available, give the child a bounded structure mission, understand the adult role, simplify a stalled build, and stop proportionately. Search effects and all family-use outcomes remain unproven.",
+      "evidence_classification": "KAL-RES-007 GSC aggregate/page/inspection rows are MEASURED context; candidate page and complete query rows remain UNKNOWN. Semrush metrics and retained SERP rows are TOOL_ESTIMATE, with numeric overlap UNKNOWN. The six named education/extension sources are SOURCE_BACKED within their limits. Personas remain RESEARCH_HYPOTHESIS. The chooser, page ownership, age-four route, exact builds, illustration, rescue/stop wording, and links are EDITORIAL_JUDGMENT. All parent/child outcomes remain UNKNOWN.",
+      "human_gate": "The user directly authorized implementation after reviewed research. The research-backed non-product publication gate applies, so family testing is not required. The page must prominently state that Kid Activity Lab has not family-tested the setups. Tested status, family outcomes, safety-performance claims, product recommendations, affiliates, construction-theme curriculum claims, indexing requests, external-account changes, and new URLs remain prohibited.",
+      "observation_window": "After release, require exact-SHA Pages success and production invariants, then observe a post-release crawl or changed finalized GSC evidence without attributing movement to the release or inferring query intent. Do not request indexing.",
+      "acceptance_criteria": [
+        "preserve the current canonical URL and create no page",
+        "lead with building activities for preschoolers and keep age four as a visible route",
+        "show a useful first-screen default and a chooser by material and structure job",
+        "state prominently that the page is research-backed and not family-tested by Kid Activity Lab",
+        "cite six current education and extension sources within their limits",
+        "retain nine linked builds with a child mission, adult setup, short steps, rescue, stop, and conservative local parent check",
+        "remove measured-looking duration and mess labels from this page",
+        "label the generated visual as an illustration and not a family-test photo",
+        "keep open-ended building separate from engineering test-redesign and classroom construction-theme curricula",
+        "preserve every generated activity-card byte and stable age-four route label",
+        "all three publishing generators are idempotent and output only declared generated files",
+        "focused, repository, HTML, link, sitemap, source, accessibility, responsive, overflow, and console QA pass",
+        "independent read-only persona/every-section review returns PASS or PASS_WITH_P3"
+      ],
+      "implementation_state": "review-clean",
+      "qa_summary": "All three publishing generators ran and only the authorized building page differs among generated content pages; every activity-card page and the cards index remain byte-identical to the frozen base. Python compilation, 28 repository tests, valid roadmap JSON, strict sitemap ownership with target-only lastmod, 64-page H1/link/anchor/ID checks, six source URL checks, exact-path scope, and git diff --check pass. Local Chrome/Playwright checks at 1440x1000 and 390x844 confirm the 1672x941 illustration, readiness note, seven chooser destinations, nine builds, and six sources render without page, chooser, or card overflow, overlap, console errors, page errors, or action-scoped HTTP failures. Chooser anchors clear the sticky header.",
+      "review_cycles": 3,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Kuhn",
+        "thread_id": "019fce45-5870-7350-94ce-d40eee59da3d",
+        "read_only": true
+      },
+      "result": "Upgraded the existing building URL into one research-backed preschool building chooser while retaining age four as a visible route. The page now leads with an immediate low-block-home default, a prominent not-family-tested disclosure, a mixed-age readiness note, an honestly labeled illustration, a material/build-job chooser with seven exact destinations, four adult-support steps, explicit engineering and classroom-theme boundaries, and nine build sections with mission, setup, rescue, stop, and parent checks. Independent review required three cycles and finished PASS with no P0-P3 findings. No new URL, activity-card byte, indexing request, product, affiliate, external account, tested status, construction curriculum, or parent/child outcome was created.",
+      "release_state": "review-clean-push-pending",
+      "notes": "Direct manual implementation transaction from clean aligned base f11d537. Exact twelve-path scope. No new page, other SEO page, card page, navigation, workflow, GSC snapshot, indexing request, external account, product, affiliate, construction-theme curriculum, tested status, or family-evidence mutation is authorized."
     }
   ]
 }

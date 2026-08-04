@@ -8,8 +8,8 @@ automation.
 
 ## Current sequence
 
-1. Run separately registered `KAL-IMP-004`: improve the existing building URL
-   as the preschool-building owner while preserving age four as a route and
+1. Release review-clean `KAL-IMP-004`: improve the existing building URL as
+   the preschool-building owner while preserving age four as a route and
    keeping engineering and classroom construction themes separate.
 2. Keep indoor and rainy-day pages unchanged until a separate action resolves
    their overlapping preschool SERPs and eight-of-nine shared cards. Do not
@@ -45,6 +45,41 @@ automation.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-IMP-004 Review-Clean On 2026-08-04
+
+- Frozen clean aligned base:
+  `f11d53777aa1d051dfc5e40c088ab790077aebd7`.
+- Exact twelve-path scope: the SEO generator and existing building output;
+  keyword target; one preschool-building WebP; scoped CSS; sitemap; focused
+  test; implementation-review record; and four operator mirrors.
+- Preserve `/collections/building-activities-for-4-year-olds.html`. Lead with
+  building activities for preschoolers and keep age four visible on the same
+  page; create no new URL.
+- Add a material-first default, chooser by material/build job, nine child-owned
+  builds with adult setup, rescue, stop, and local parent checks, one clearly
+  labeled illustration, and six bounded education/extension sources.
+- Remove measured-looking time and mess labels. State prominently that the page
+  is research-backed and not family-tested by Kid Activity Lab. All family and
+  activity outcomes remain `UNKNOWN`.
+- Keep open-ended building distinct from engineering's mission-test-redesign
+  loop and from classroom construction themes, printables, product advice, or
+  curriculum promises.
+- Run all three publishing generators and prove every card-page byte remains
+  stable. Require complete native, source, link, sitemap, responsive,
+  accessibility, and console QA plus a different independent read-only
+  persona/every-section reviewer before push.
+- Result: the existing page now provides an immediate low-block-home default,
+  prominent untested disclosure, mixed-age readiness note, labeled material
+  illustration, seven exact chooser destinations, four adult-support steps,
+  explicit route boundaries, nine complete builds, and six bounded sources.
+- Native and browser QA pass. Every activity-card byte remains stable, and the
+  sitemap advances only the target page. Independent reviewer Kuhn
+  (`019fce45-5870-7350-94ce-d40eee59da3d`) required three cycles to close two
+  P2 safety-language gaps and two P3 wording ambiguities, then returned `PASS`
+  with no P0-P3 findings.
+- State: review-clean and ready for one focused push. Search and all family
+  outcomes remain unproven; no indexing request is authorized.
 
 ## KAL-RES-007 Completed On 2026-08-04
 

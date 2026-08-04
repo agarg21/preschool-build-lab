@@ -931,41 +931,63 @@ th {
   white-space: nowrap;
 }
 
-.engineering-visual {
+.engineering-visual,
+.building-visual {
   max-width: var(--max);
   margin: 18px auto 0;
   padding: 0 20px;
 }
 
-.engineering-visual img {
+.engineering-visual img,
+.building-visual img {
   aspect-ratio: 16 / 9;
   object-fit: cover;
   border: 1px solid var(--line);
 }
 
-.engineering-visual figcaption {
+.engineering-visual figcaption,
+.building-visual figcaption {
   margin-top: 8px;
   color: var(--muted);
   font-size: 0.86rem;
 }
 
-.engineering-page .engineering-visual {
+.engineering-page .engineering-visual,
+.building-page .building-visual {
   margin: 26px 0 0;
   padding: 0;
 }
 
-.engineering-disclosure {
+.engineering-disclosure,
+.building-disclosure {
   margin: 18px 0 26px;
   padding: 16px 18px;
   border-left: 5px solid var(--blue);
   background: #eef7fb;
 }
 
-.engineering-disclosure strong {
+.engineering-disclosure strong,
+.building-disclosure strong {
   display: block;
 }
 
-.engineering-disclosure p {
+.engineering-disclosure p,
+.building-disclosure p {
+  margin: 6px 0 0;
+}
+
+.building-readiness {
+  margin: 0 0 26px;
+  padding: 16px 18px;
+  border-left: 5px solid var(--yellow);
+  background: #fff8e8;
+}
+
+.building-readiness strong {
+  display: block;
+}
+
+.building-readiness p {
   margin: 6px 0 0;
 }
 
@@ -1061,6 +1083,59 @@ th {
 }
 
 .engineering-page .related-routes {
+  margin-top: 18px;
+}
+
+.building-support ol {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin: 18px 0 0;
+  padding: 0;
+  border-top: 4px solid var(--green);
+  border-bottom: 1px solid var(--line);
+  list-style: none;
+}
+
+.building-support li {
+  min-height: 148px;
+  padding: 16px;
+  border-right: 1px solid var(--line);
+}
+
+.building-support li:last-child {
+  border-right: 0;
+}
+
+.building-support strong,
+.building-support span {
+  display: block;
+}
+
+.building-support strong {
+  color: var(--green);
+}
+
+.building-support span {
+  margin-top: 8px;
+}
+
+.building-boundary {
+  border-left: 5px solid var(--yellow);
+}
+
+.building-boundary p + p {
+  margin-top: 10px;
+}
+
+.building-collection {
+  margin-top: 52px;
+}
+
+.building-build {
+  scroll-margin-top: 112px;
+}
+
+.building-page .related-routes {
   margin-top: 18px;
 }
 
@@ -1167,23 +1242,30 @@ th {
     border-bottom: 0;
   }
 
-  .engineering-page .chooser .table-wrap {
+  .engineering-page .chooser .table-wrap,
+  .building-page .chooser .table-wrap {
     overflow-x: visible;
   }
 
   .engineering-page .chooser table,
   .engineering-page .chooser tbody,
   .engineering-page .chooser tr,
-  .engineering-page .chooser td {
+  .engineering-page .chooser td,
+  .building-page .chooser table,
+  .building-page .chooser tbody,
+  .building-page .chooser tr,
+  .building-page .chooser td {
     display: block;
     width: 100%;
   }
 
-  .engineering-page .chooser table {
+  .engineering-page .chooser table,
+  .building-page .chooser table {
     min-width: 0;
   }
 
-  .engineering-page .chooser thead {
+  .engineering-page .chooser thead,
+  .building-page .chooser thead {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -1193,21 +1275,25 @@ th {
     white-space: nowrap;
   }
 
-  .engineering-page .chooser tr {
+  .engineering-page .chooser tr,
+  .building-page .chooser tr {
     padding: 10px 0;
     border-bottom: 1px solid var(--line);
   }
 
-  .engineering-page .chooser tr:last-child {
+  .engineering-page .chooser tr:last-child,
+  .building-page .chooser tr:last-child {
     border-bottom: 0;
   }
 
-  .engineering-page .chooser td {
+  .engineering-page .chooser td,
+  .building-page .chooser td {
     padding: 4px 12px;
     border: 0;
   }
 
-  .engineering-page .chooser td::before {
+  .engineering-page .chooser td::before,
+  .building-page .chooser td::before {
     content: attr(data-label);
     display: block;
     margin-bottom: 2px;
@@ -1233,6 +1319,20 @@ th {
 
   .challenge-mission {
     min-height: 0;
+  }
+
+  .building-support ol {
+    grid-template-columns: 1fr;
+  }
+
+  .building-support li {
+    min-height: 0;
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .building-support li:last-child {
+    border-bottom: 0;
   }
 
   h1 {

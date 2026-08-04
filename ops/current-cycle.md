@@ -33,6 +33,21 @@ it could be ambiguous, preserve outcome fields as `UNKNOWN`, and pass native QA
 plus independent persona/every-section review. Product reviews and tested
 status remain blocked without actual firsthand evidence.
 
+`KAL-IMP-004` is the review-clean implementation transaction from clean aligned
+base `f11d53777aa1d051dfc5e40c088ab790077aebd7`. Its exact twelve-path scope
+preserves the existing building URL and upgrades it as one research-backed
+preschool-building chooser with age four retained as a route. It may add one
+labeled illustration, a material/job chooser, nine bounded build sections,
+six current education sources, scoped CSS, a focused test, and generated
+keyword/sitemap output. It may not create a URL, alter a card page or
+navigation, claim family use or outcomes, recommend a product, own classroom
+construction-theme curriculum, request indexing, or change an external
+account. Native and responsive QA pass. Independent reviewer Kuhn
+(`019fce45-5870-7350-94ce-d40eee59da3d`) required three cycles: the Master
+closed two P2 safety-boundary findings and two P3 wording ambiguities, then the
+reviewer returned `PASS` with no P0-P3 findings. The exact review-clean change
+is ready for its focused push and exact-SHA production verification.
+
 `KAL-RES-007` is review-clean from frozen aligned base
 `21ebd4c6281453f356f80f3434e7793f0338be7e`. It refreshed 36 exact Semrush US
 queries, preserved 78 annotated rows across seven explicitly incomplete SERP
