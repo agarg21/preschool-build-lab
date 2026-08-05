@@ -8,13 +8,12 @@ automation.
 
 ## Current sequence
 
-1. Observe released `KAL-IMP-004` until a post-release crawl or changed
+1. Complete registered `KAL-IMP-005`: consolidate preschool indoor and rainy-
+   day ownership on the existing indoor URL, preserve the rainy URL only as an
+   accessible legacy redirect, and create no new URL or family evidence.
+2. Observe released `KAL-IMP-004` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, ranking causality, or
    family outcomes, and do not request indexing.
-2. Use completed `KAL-RES-008` to register `KAL-IMP-005` separately: improve
-   the existing preschool indoor owner, retire the duplicate rainy URL through
-   an accessible permanent-redirect fallback, and create no new URL. Rain-
-   themed craft research remains deferred.
 3. Observe released `KAL-IMP-003` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent or family outcomes from
    page-level movement, and do not request indexing.
@@ -45,6 +44,47 @@ automation.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-IMP-005 Registered On 2026-08-05
+
+- Frozen clean aligned base:
+  `8751893088e3de56695b92fad513bd2a71559650`.
+- Exact twenty-path scope: three generators; homepage; one canonical indoor
+  output; one rainy legacy redirect; the three card pages that currently route
+  to rainy; keyword and sitemap outputs; one labeled WebP; scoped CSS; one
+  focused test; the shared sitemap-ownership test; one implementation-review
+  record; and four operator mirrors. The shared test was added to scope before
+  editing after its previous every-HTML-is-indexable assumption rejected the
+  registered legacy redirect.
+- Preserve the existing indoor URL as the only indexable preschool indoor
+  owner. Rainy day becomes a context within its moment chooser; no new URL or
+  rain-themed craft owner is authorized.
+- Replace the current duplicate rainy page with an accessible instant meta-
+  refresh fallback that has the indoor canonical, a visible manual link, no
+  `noindex`, no sitemap entry, and no internal route.
+- Lead the indoor page with an immediate start and a parent-moment chooser;
+  provide bounded movement, making, building, pretend, and game routes with
+  adult setup, rescue, stop, and local parent checks.
+- State prominently that the page is research-backed and not family-tested by
+  Kid Activity Lab. Remove measured-looking time, mess, help, learning,
+  enjoyment, and repeatability claims; all family outcomes remain `UNKNOWN`.
+- Run all three publishing generators and prove unaffected SEO and card outputs
+  remain byte-stable. Require complete native, redirect, link, sitemap, source,
+  responsive, accessibility, and console QA plus independent read-only persona
+  and every-section review before push.
+- State: registered and in progress. The newest GSC snapshot remains August 4;
+  neither candidate has a public-safe page row or priority inspection, and
+  complete queries remain unavailable.
+- Independent review cycle one returned `FAIL` with three P2s and no P0, P1,
+  or P3: contradictory blanket wording, a runtime-date sitemap override, and
+  an overly broad meta-refresh test exemption. The blanket route is now
+  explicitly toy-only; sitemap output has a fixed content-review lastmod plus
+  a two-future-date byte-stability regression; and the shared test allowlists
+  only the exact rainy redirect while asserting its target and canonical. All
+  35 tests and the corrected output manifest pass. Cycle two returned `PASS`
+  with all prior P2s closed and no P0-P3 finding. The transaction is review-
+  clean; final mirror closure, focused commit, release, and production
+  verification remain.
 
 ## KAL-RES-008 Completed On 2026-08-04
 

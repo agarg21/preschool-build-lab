@@ -544,14 +544,147 @@ PAGES = [
         "path": "collections/indoor-activities-for-preschoolers.html",
         "page_type": "collection",
         "primary": "indoor activities for preschoolers",
-        "title": "Indoor Activities for Preschoolers | Kid Activity Lab",
+        "title": "Indoor Activities for Preschoolers: Choose by Moment | Kid Activity Lab",
         "h1": "Indoor activities for preschoolers.",
-        "kicker": "Indoor play",
-        "description": "Indoor preschool activities for home: low-mess building, toy car roads, blocks, ramps, blanket rivers, and quiet independent play ideas.",
-        "intro": "Indoor activities need to fit real rooms: low noise, low mess, no running path through the house. These options work on a floor, table, hallway, or small play area.",
-        "tip": "Use tape roads, block builds, and low ramps when you need movement without chaos.",
+        "kicker": "Choose for this moment",
+        "description": "Choose an indoor activity for a preschooler by space, materials, energy, and adult role, with clear setup, rescue, stop, and parent checks.",
+        "intro": "The useful question is not how many ideas you can collect. It is what fits this child, this room, and this moment. Start with one bounded choice, then use the rescue or stop instead of forcing it.",
+        "indoor_layout": True,
+        "tip": "Clear one short floor lane, place a low empty basket at the far end, and roll two bundled socks toward it. Walk to reset. If throwing or running starts, stop and clear the lane.",
+        "evidence_note": "This chooser reconciles current extension, education, and publisher sources with Kid Activity Lab editorial guidance. Kid Activity Lab has not family-tested these setups. Fit, timing, mess, engagement, enjoyment, learning, repeatability, and safety outcomes are unknown.",
+        "readiness_note": "Check every child who can reach the setup, not only the intended preschooler. Clear one defined area away from stairs, doors, pets, breakable objects, and active walkways. Remove damaged materials. If any child may mouth a piece, use larger solid materials, stay within reach, and watch continuously. Choose the direct supervision and stopping point the actual room and child require.",
+        "image": {
+            "src": "../assets/preschool-indoor/indoor-moment-chooser.webp",
+            "alt": "Illustrated indoor activity zones with rolled socks and a basket, a short paper path, a low toy-car ramp, a block home, and playing cards",
+            "width": "1672",
+            "height": "941",
+            "caption": "Kid Activity Lab illustration of five indoor activity routes. It is not a family-test photo and does not show measured use.",
+        },
+        "chooser_title": "Choose by the moment you are in",
+        "chooser_label": "Indoor preschool activity chooser by moment, space, and adult role",
+        "chooser": [
+            ("I need one thing now", ("Soft-Sock Target Roll", "#sock-target-roll"), "One short, clear floor lane; bundled socks and a low basket", "Place the target, mark the roll line, and stay beside the lane"),
+            ("Movement needs a boundary", ("Paper Puddle Path", "#paper-puddle-path"), "A short clear strip of floor; large paper shapes and painter tape", "Test and secure the materials, then call one slow movement"),
+            ("Pretend play sounds right", ("Tape Road Delivery", "#tape-road-delivery"), "A table or small floor square; painter tape and large toy vehicles", "Make one short route and name a delivery job"),
+            ("A cause-and-effect project fits", ("Low Car Ramp", "#low-car-ramp"), "A clear floor patch; flat cardboard, thick books, and one toy car", "Check the cardboard and keep the ramp low and floor-level"),
+            ("The child wants to build", ("Make a Toy Place", "#make-a-toy-place"), "A table or clear floor square; large blocks or small boxes and one large toy", "Offer a small material set and let the child decide the structure"),
+            ("Big-floor pretend play fits", ("Blanket Toy Crossing", "#blanket-toy-crossing"), "A clear floor area; one flat blanket, large supports, and one toy", "Keep the route for the toy, not for feet or climbing"),
+            ("We want a rule-based game", ("Standard-Deck Card Game Chooser", "../collections/card-games-for-kids.html"), "A table or clear floor area; standard cards and the players named by the game", "Choose a game by player count and manage the rules and ending"),
+        ],
+        "support_steps": [
+            ("Define the footprint", "Name the one table, floor square, or short lane the activity may use. Keep doors and walkways open."),
+            ("Give one child-facing job", "Say the next visible action: roll to the basket, cross the puddles, deliver the toy, or make a place."),
+            ("Rescue by shrinking", "Move the target closer, use fewer pieces, shorten the path, or finish one wall. Do not add a bigger explanation."),
+            ("Stop and clear", "Use the named stop, remove loose materials, and return the room to an ordinary walking space."),
+        ],
+        "rainy_rotation": [
+            ("Move", "Choose the sock roll or the short paper path; keep the route bounded and walk to reset.", "#sock-target-roll"),
+            ("Make or build", "Choose the low ramp or a toy place; offer one material set rather than a room-wide project.", "#low-car-ramp"),
+            ("Quieter route", "Choose the tape-road delivery or a standard-deck game that fits the available players.", "#tape-road-delivery"),
+        ],
+        "indoor_starts": [
+            {
+                "slug": "sock-target-roll",
+                "title": "Soft-Sock Target Roll",
+                "job": "Move in one lane",
+                "mission": "Roll a bundled pair of socks into a low basket, then walk it back to the same line.",
+                "materials": "two bundled pairs of socks, one low empty laundry basket",
+                "adult_role": "Place the basket on the floor at the end of a short clear lane. Choose the roll line and stay beside it.",
+                "steps": ["Put one sock bundle on the floor.", "Roll it toward the basket.", "Walk to collect both bundles and reset."],
+                "rescue": "Bring the basket closer or slide one sock bundle across the floor instead of aiming into it.",
+                "stop": "Stop if socks are thrown, anyone runs through the lane, or another person or pet enters the target area.",
+                "parent": "Clear stairs, doors, breakables, cords, furniture corners, and active walkways from the line before starting.",
+                "url": "../cards/sock-ball-roll.html",
+                "link_text": "Open the base sock-roll card",
+            },
+            {
+                "slug": "paper-puddle-path",
+                "title": "Paper Puddle Path",
+                "job": "Move inside a short footprint",
+                "mission": "Travel across three or four large paper shapes using one movement the adult names.",
+                "materials": "three or four large paper shapes, painter tape suitable for the local floor",
+                "adult_role": "Test the tape, secure every shape flat, and keep the path short enough to supervise from one position.",
+                "steps": ["Stand beside the first shape.", "Step onto each shape using the named movement.", "Walk around the path to reset."],
+                "rescue": "Use two shapes within one easy step and ask for one crossing.",
+                "stop": "Stop if paper or tape lifts, the path slides, running starts, or the route reaches a doorway or walkway.",
+                "parent": "Check the floor and spacing yourself. Stay close enough to stop the route when the surface or movement no longer fits.",
+                "url": "https://extension.psu.edu/programs/betterkidcare/content-areas/environment-curriculum/activities/all-activities/active-play-for-rainy-days",
+                "link_text": "See the source activity shape",
+            },
+            {
+                "slug": "tape-road-delivery",
+                "title": "Tape Road Delivery",
+                "job": "Pretend in a small area",
+                "mission": "Deliver one large toy vehicle from a start line to a home, shop, or garage.",
+                "materials": "painter tape suitable for the local surface, one to three large toy vehicles",
+                "adult_role": "Test the tape and make one short route inside a defined play area rather than across a walkway.",
+                "steps": ["Choose where the delivery starts.", "Drive one vehicle to the named place.", "Return it to the start or choose one new delivery."],
+                "rescue": "Use one straight tape strip and one vehicle.",
+                "stop": "Stop if tape is peeled or mouthed, vehicles are thrown, or the road expands into an active walking route.",
+                "parent": "Check the surface before and after taping, use large intact toys, and remove the route when play ends.",
+                "url": "../cards/tape-road.html",
+                "link_text": "Open the base tape-road card",
+            },
+            {
+                "slug": "low-car-ramp",
+                "title": "Low Car Ramp",
+                "job": "Make and notice",
+                "mission": "Roll one toy car down a low cardboard ramp, then change one support and roll again.",
+                "materials": "flat cardboard, one or two thick books, one intact toy car",
+                "adult_role": "Remove staples and rough cardboard, build on the floor, and keep the top support low.",
+                "steps": ["Place the car at the top.", "Let it roll without pushing it toward a person.", "Change one book or the cardboard angle and roll again."],
+                "rescue": "Use one book and one roll, then stop.",
+                "stop": "Stop if the car is thrown, the books are pulled apart, the ramp becomes a step, or the setup moves toward stairs or furniture.",
+                "parent": "Keep the route floor-level, away from faces and feet, and remove damaged cardboard or vehicles.",
+                "url": "../articles/cardboard-box-car-ramp-preschoolers.html",
+                "link_text": "Open the fuller car-ramp guide",
+            },
+            {
+                "slug": "make-a-toy-place",
+                "title": "Make a Toy Place",
+                "job": "Build a quieter route",
+                "mission": "Make a floor, wall, doorway, or roof that gives one large toy a place to be.",
+                "materials": "six to ten large lightweight blocks or small empty boxes, one large toy",
+                "adult_role": "Check the material condition, choose a table or floor square, and offer only the small set.",
+                "steps": ["Put the toy where its place will be.", "Add one wall or boundary.", "Choose a doorway, roof, or second wall."],
+                "rescue": "Place two blocks as a doorway and let the toy move through once.",
+                "stop": "Stop if pieces are thrown, stacked overhead, climbed on, or moved into a walkway.",
+                "parent": "Use intact pieces suitable for every child who can reach them; clear the structure from ordinary walking space after play.",
+                "url": "../collections/building-activities-for-4-year-olds.html",
+                "link_text": "Open nine preschool building choices",
+            },
+            {
+                "slug": "blanket-toy-crossing",
+                "title": "Blanket Toy Crossing",
+                "job": "Pretend with a floor boundary",
+                "mission": "Make a route that lets one large toy travel from one side of a flat blanket to the other.",
+                "materials": "one blanket, large lightweight blocks or firm cushions, one large toy",
+                "adult_role": "Spread the blanket flat in a clear area and state that the route is for the toy, not for feet.",
+                "steps": ["Place one support near each blanket edge.", "Move the toy along or between the supports.", "Move the toy across and back once."],
+                "rescue": "Lay the supports flat as a stepping path for the toy.",
+                "stop": "Stop if the blanket bunches, anyone runs or climbs, or the setup enters a doorway or walkway.",
+                "parent": "Keep the blanket flat, use only stable floor-level supports, and stay close enough to end the setup immediately.",
+                "url": "../cards/blanket-river.html",
+                "link_text": "Open the base blanket-river card",
+            },
+        ],
         "activities": ["tape-road", "tape-train-tracks", "sock-ball-roll", "blanket-river", "cardboard-car-ramp", "cup-tower", "magnetic-tile-house", "block-tower", "tape-city"],
-        "related": ["indoor activities for 3 year olds at home", "indoor activities for 4 year olds at home", "screen free activities for kids indoors"],
+        "related": ["rainy day activities for preschoolers", "active indoor games for preschoolers", "indoor gross motor activities for preschoolers", "screen free activities for kids indoors"],
+        "related_routes": [
+            ("Preschool building chooser", "Choose a material and structure job when the child wants a deeper build.", "../collections/building-activities-for-4-year-olds.html"),
+            ("Standard-deck card games", "Choose by player count, pace, matching, and adult rules support.", "../collections/card-games-for-kids.html"),
+            ("No-prep preschool activities", "Choose from a broader set when visible household materials are the main constraint.", "../collections/no-prep-activities-for-preschoolers.html"),
+        ],
+        "sources": [
+            ("ParentMap: Indoor Play Activities From a Preschool Teacher", "https://www.parentmap.com/things-to-do/indoor-play-activities-preschool-teacher/", "Publisher roundup used for low-stress parent-job and result-shape context; its teacher framing and family use do not become Kid Activity Lab evidence."),
+            ("Brightwheel: Indoor Recess Games and Activities", "https://mybrightwheel.com/blog/indoor-recess", "Commercial education article used for active, quiet, and short-break category shape; classroom and product claims are not adopted."),
+            ("Pre-K Pages: Indoor Recess Games and Activities", "https://www.pre-kpages.com/indoor-recess-games-and-activities-for-preschoolers/", "Teacher-oriented source used to identify group, music, and rule requirements that a home-facing chooser must surface."),
+            ("Penn State Better Kid Care: Active Play for Rainy Days", "https://extension.psu.edu/programs/betterkidcare/content-areas/environment-curriculum/activities/all-activities/active-play-for-rainy-days", "University extension source for paper-puddle and bounded movement shapes; local space, readiness, and safety outcomes remain unmeasured."),
+            ("Reach All Readers: Indoor Gross Motor Activities", "https://reachallreaders.com/indoor-gross-motor-activities/", "Used only for movement-subjob and candidate-shape context; old, affiliate, developmental, and safe-in-practice claims are not adopted."),
+            ("PBS Kids for Parents: Rainy Day Activities", "https://www.pbs.org/parents/rainy-day-activities", "Broad publisher hub used to confirm that rainy day is a context spanning movement, making, games, and media rather than a second copy of indoor ownership."),
+        ],
+        "evidence": "KAL-RES-008 refreshed 36 Semrush US queries on 2026-08-04, preserved six explicitly incomplete cached Google samples with 82 accessible links, inspected nine ranking/source pages, and selected one existing indoor owner. Complete GSC queries and both candidate page rows remain unavailable.",
+        "first_2_month_impression_expectation": "UNKNOWN; the existing URL has no public-safe GSC page baseline.",
     },
     {
         "path": "collections/independent-activities-for-preschoolers.html",
@@ -1030,19 +1163,18 @@ PAGES = [
         "evidence": "KAL-RES-007 refreshed 36 Semrush US queries on 2026-08-04, retained seven explicitly incomplete SERP samples, inspected 14 ranking/community pages and six education sources, and promoted one existing-page preschool-building owner.",
         "first_2_month_impression_expectation": "UNKNOWN; the existing URL has no public-safe GSC page baseline.",
     },
+]
+
+
+LEGACY_REDIRECTS = [
     {
         "path": "collections/rainy-day-activities-for-preschoolers.html",
-        "page_type": "collection",
-        "primary": "rainy day activities for preschoolers",
-        "title": "Rainy Day Activities for Preschoolers | Kid Activity Lab",
-        "h1": "Rainy day activities for preschoolers.",
-        "kicker": "Rainy day",
-        "description": "Rainy day preschool activities for home: indoor roads, ramps, towers, magnetic tile builds, paper roll drops, and low-mess pretend play.",
-        "intro": "Rainy-day activities need to absorb energy without turning the room upside down. These are small, resettable ideas that work when everyone is stuck inside.",
-        "tip": "Rotate between one movement idea, one building idea, and one quiet idea.",
-        "activities": ["tape-road", "tape-train-tracks", "cardboard-car-ramp", "sock-ball-roll", "blanket-river", "magnetic-tile-house", "paper-roll-drop", "cup-tower", "tape-city"],
-        "related": ["rainy day activities for kids at home", "rainy day activities for toddlers", "indoor activities for preschoolers"],
-    },
+        "destination": "indoor-activities-for-preschoolers.html",
+        "canonical": f"{BASE_URL}/collections/indoor-activities-for-preschoolers.html",
+        "title": "Rainy Day Activities for Preschoolers Moved | Kid Activity Lab",
+        "description": "Rainy-day preschool ideas now live in the Kid Activity Lab indoor activity chooser.",
+        "h1": "Rainy-day ideas now live in the indoor chooser.",
+    }
 ]
 
 
@@ -1171,6 +1303,31 @@ def building_activity_card(activity):
             <p><strong>Parent check:</strong> {esc(activity["parent"])}</p>
           </div>
           {link}
+        </article>'''
+
+
+def indoor_activity_card(activity):
+    steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
+    return f'''        <article class="seo-activity indoor-start" id="{esc(activity["slug"])}">
+          <div>
+            <p class="challenge-label">{esc(activity["job"])}</p>
+            <h2>{esc(activity["title"])}</h2>
+            <p class="challenge-mission"><strong>Kid idea:</strong> {esc(activity["mission"])}</p>
+            <div class="source-tags">
+              <span class="tag">Editorial preschool route</span>
+            </div>
+          </div>
+          <div class="activity-materials"><strong>Need</strong>{esc(activity["materials"])}</div>
+          <p><strong>Adult setup:</strong> {esc(activity["adult_role"])}</p>
+          <ol class="card-steps">{steps}</ol>
+          <div class="challenge-details indoor-rescue">
+            <p><strong>If it stalls</strong>{esc(activity["rescue"])}</p>
+          </div>
+          <div class="challenge-stop">
+            <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
+            <p><strong>Parent check:</strong> {esc(activity["parent"])}</p>
+          </div>
+          <a class="small-link" href="{esc(activity["url"])}">{esc(activity["link_text"])}</a>
         </article>'''
 
 
@@ -1462,7 +1619,213 @@ def building_page_html(page):
 '''
 
 
+def indoor_page_html(page):
+    root = rel_root(page["path"])
+    start_html = "\n".join(indoor_activity_card(activity) for activity in page["indoor_starts"])
+    chooser_rows = "\n".join(
+        f'''            <tr>
+              <td data-label="Moment">{esc(moment)}</td>
+              <td data-label="Start with">{chooser_pick_cell(pick)}</td>
+              <td data-label="Space and materials">{esc(space)}</td>
+              <td data-label="Adult role">{esc(adult_role)}</td>
+            </tr>'''
+        for moment, pick, space, adult_role in page["chooser"]
+    )
+    support_steps = "\n".join(
+        f'<li><strong>{esc(label)}</strong><span>{esc(body)}</span></li>'
+        for label, body in page["support_steps"]
+    )
+    rainy_rotation = "\n".join(
+        f'''          <a href="{esc(url)}">
+            <strong>{esc(label)}</strong>
+            <span>{esc(body)}</span>
+          </a>'''
+        for label, body, url in page["rainy_rotation"]
+    )
+    related_routes = "\n".join(
+        f'''          <a href="{esc(url)}">
+            <strong>{esc(title)}</strong>
+            <span>{esc(body)}</span>
+          </a>'''
+        for title, body, url in page["related_routes"]
+    )
+    source_links = "\n".join(
+        f'''            <li>
+              <a href="{esc(url)}">{esc(title)}</a>
+              <span>{esc(limit)}</span>
+            </li>'''
+        for title, url, limit in page["sources"]
+    )
+    image = page["image"]
+    canonical = f"{BASE_URL}/{page['path']}"
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{esc(page["title"])}</title>
+    <meta name="description" content="{esc(page["description"])}">
+    <link rel="canonical" href="{esc(canonical)}">
+    <link rel="stylesheet" href="{root}styles.css?v={CSS_VERSION}">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="/">Kid Activity Lab</a>
+        <div class="nav-links">
+          <a href="/">Home</a>
+          <a href="{root}original/">Original</a>
+          <a href="{root}cards.html">Cards</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero indoor-hero">
+        <p class="kicker">{esc(page["kicker"])}</p>
+        <h1>{esc(page["h1"])}</h1>
+        <p class="dek">{esc(page["intro"])}</p>
+      </section>
+
+      <section class="seo-page indoor-page">
+        <div class="callout">
+          <strong>Start here:</strong> {esc(page["tip"])}
+          <p><a href="#sock-target-roll">Read the bounded start</a></p>
+        </div>
+
+        <div class="indoor-disclosure" role="note">
+          <strong>Evidence note</strong>
+          <p>{esc(page["evidence_note"])}</p>
+        </div>
+
+        <div class="indoor-readiness" role="note">
+          <strong>Check the real room and every child who can reach it</strong>
+          <p>{esc(page["readiness_note"])}</p>
+        </div>
+
+        <figure class="indoor-visual">
+          <img src="{esc(image["src"])}" alt="{esc(image["alt"])}" width="{esc(image["width"])}" height="{esc(image["height"])}">
+          <figcaption>{esc(image["caption"])}</figcaption>
+        </figure>
+
+        <section class="chooser" aria-labelledby="indoor-chooser-title">
+          <h2 id="indoor-chooser-title">{esc(page["chooser_title"])}</h2>
+          <div class="table-wrap seo-table" aria-label="{esc(page["chooser_label"])}">
+            <table>
+              <thead>
+                <tr>
+                  <th>Moment</th>
+                  <th>Start with</th>
+                  <th>Space and materials</th>
+                  <th>Adult role</th>
+                </tr>
+              </thead>
+              <tbody>
+{chooser_rows}
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="indoor-rain related" aria-labelledby="indoor-rain-title">
+          <p class="kicker">Rainy day is a context</p>
+          <h2 id="indoor-rain-title">Rotate the job, not the page</h2>
+          <p>Weather may be why everyone is inside, but the next useful choice is still movement, making or building, quieter play, or a game. Rain-themed crafts and weather learning are separate jobs and are not promised here.</p>
+          <div class="indoor-rotation">
+{rainy_rotation}
+          </div>
+        </section>
+
+        <section class="indoor-support related" aria-labelledby="indoor-support-title">
+          <h2 id="indoor-support-title">Make any choice easier to start</h2>
+          <p>These four moves are Kid Activity Lab editorial guidance. They reduce the decision and setup, but they do not predict how a child will respond.</p>
+          <ol>
+{support_steps}
+          </ol>
+        </section>
+
+        <section class="indoor-starts" aria-labelledby="indoor-starts-title">
+          <div class="section-heading">
+            <p class="kicker">Six bounded starts</p>
+            <h2 id="indoor-starts-title">Choose one child-facing idea</h2>
+            <p>Use the rescue as a smaller finish. Use the stop when the material, movement, room, or child no longer fits.</p>
+          </div>
+          <div class="seo-activity-grid" aria-label="Indoor activity starts for preschoolers">
+{start_html}
+          </div>
+        </section>
+
+        <section class="related" aria-labelledby="indoor-routes-title">
+          <h2 id="indoor-routes-title">Choose a deeper route</h2>
+          <p>Use these existing pages when the job is specifically a longer build, a standard-deck game, or finding something from materials already visible.</p>
+          <div class="related-routes">
+{related_routes}
+          </div>
+        </section>
+
+        <section class="related indoor-sources" aria-labelledby="indoor-sources-title">
+          <h2 id="indoor-sources-title">Research sources and limits</h2>
+          <p>These sources support parent-job, category, and activity-shape decisions within the limits shown. They do not establish that Kid Activity Lab ran these setups or measured their fit, timing, mess, safety, engagement, or learning outcomes.</p>
+          <ul class="source-list">
+{source_links}
+          </ul>
+        </section>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p><a href="{root}cards.html">Browse all activity cards</a></p>
+    </footer>
+  </body>
+</html>
+'''
+
+
+def legacy_redirect_html(redirect):
+    root = rel_root(redirect["path"])
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{esc(redirect["title"])}</title>
+    <meta name="description" content="{esc(redirect["description"])}">
+    <meta http-equiv="refresh" content="0; url={esc(redirect["destination"])}">
+    <link rel="canonical" href="{esc(redirect["canonical"])}">
+    <link rel="stylesheet" href="{root}styles.css?v={CSS_VERSION}">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="/">Kid Activity Lab</a>
+        <div class="nav-links">
+          <a href="/">Home</a>
+          <a href="{root}original/">Original</a>
+          <a href="{root}cards.html">Cards</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero legacy-redirect">
+        <p class="kicker">Page moved</p>
+        <h1>{esc(redirect["h1"])}</h1>
+        <p class="dek">Rainy day is now one context inside the preschool indoor chooser, alongside movement, making, building, pretend play, and games.</p>
+        <p><a href="{esc(redirect["destination"])}">Open the indoor activities chooser</a></p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p><a href="{root}cards.html">Browse all activity cards</a></p>
+    </footer>
+  </body>
+</html>
+'''
+
+
 def page_html(page):
+    if page.get("indoor_layout"):
+        return indoor_page_html(page)
     if page.get("engineering_layout"):
         return engineering_page_html(page)
     if page.get("building_layout"):
@@ -1651,8 +2014,12 @@ def main():
         path = SITE / page["path"]
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(page_html(page))
+    for redirect in LEGACY_REDIRECTS:
+        path = SITE / redirect["path"]
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(legacy_redirect_html(redirect))
     update_keyword_targets()
-    print(f"generated {len(PAGES)} SEO pages")
+    print(f"generated {len(PAGES)} SEO pages and {len(LEGACY_REDIRECTS)} legacy redirects")
 
 
 if __name__ == "__main__":

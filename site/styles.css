@@ -931,6 +931,7 @@ th {
   white-space: nowrap;
 }
 
+.indoor-visual,
 .engineering-visual,
 .building-visual {
   max-width: var(--max);
@@ -938,6 +939,7 @@ th {
   padding: 0 20px;
 }
 
+.indoor-visual img,
 .engineering-visual img,
 .building-visual img {
   aspect-ratio: 16 / 9;
@@ -945,6 +947,7 @@ th {
   border: 1px solid var(--line);
 }
 
+.indoor-visual figcaption,
 .engineering-visual figcaption,
 .building-visual figcaption {
   margin-top: 8px;
@@ -952,12 +955,14 @@ th {
   font-size: 0.86rem;
 }
 
+.indoor-page .indoor-visual,
 .engineering-page .engineering-visual,
 .building-page .building-visual {
   margin: 26px 0 0;
   padding: 0;
 }
 
+.indoor-disclosure,
 .engineering-disclosure,
 .building-disclosure {
   margin: 18px 0 26px;
@@ -966,16 +971,19 @@ th {
   background: #eef7fb;
 }
 
+.indoor-disclosure strong,
 .engineering-disclosure strong,
 .building-disclosure strong {
   display: block;
 }
 
+.indoor-disclosure p,
 .engineering-disclosure p,
 .building-disclosure p {
   margin: 6px 0 0;
 }
 
+.indoor-readiness,
 .building-readiness {
   margin: 0 0 26px;
   padding: 16px 18px;
@@ -983,10 +991,12 @@ th {
   background: #fff8e8;
 }
 
+.indoor-readiness strong,
 .building-readiness strong {
   display: block;
 }
 
+.indoor-readiness p,
 .building-readiness p {
   margin: 6px 0 0;
 }
@@ -1139,6 +1149,114 @@ th {
   margin-top: 18px;
 }
 
+.indoor-hero {
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--line);
+}
+
+.indoor-page .chooser {
+  margin-top: 34px;
+}
+
+.indoor-rain {
+  border-left: 5px solid var(--blue);
+}
+
+.indoor-rotation {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 18px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.indoor-rotation a {
+  min-height: 126px;
+  padding: 16px;
+  border-right: 1px solid var(--line);
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.indoor-rotation a:last-child {
+  border-right: 0;
+}
+
+.indoor-rotation a:hover {
+  background: var(--soft);
+}
+
+.indoor-rotation strong,
+.indoor-rotation span {
+  display: block;
+}
+
+.indoor-rotation strong {
+  color: var(--green);
+}
+
+.indoor-rotation span {
+  margin-top: 7px;
+  color: var(--muted);
+}
+
+.indoor-support ol {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin: 18px 0 0;
+  padding: 0;
+  border-top: 4px solid var(--green);
+  border-bottom: 1px solid var(--line);
+  list-style: none;
+}
+
+.indoor-support li {
+  min-height: 148px;
+  padding: 16px;
+  border-right: 1px solid var(--line);
+}
+
+.indoor-support li:last-child {
+  border-right: 0;
+}
+
+.indoor-support strong,
+.indoor-support span {
+  display: block;
+}
+
+.indoor-support strong {
+  color: var(--green);
+}
+
+.indoor-support span {
+  margin-top: 8px;
+}
+
+.indoor-starts {
+  margin-top: 52px;
+}
+
+.indoor-start {
+  scroll-margin-top: 112px;
+}
+
+.indoor-page .related-routes {
+  margin-top: 18px;
+}
+
+.indoor-sources .source-list span {
+  display: block;
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.legacy-redirect {
+  min-height: 56vh;
+  padding-top: 64px;
+}
+
 @media (max-width: 640px) {
   .nav {
     grid-template-columns: 1fr;
@@ -1242,11 +1360,16 @@ th {
     border-bottom: 0;
   }
 
+  .indoor-page .chooser .table-wrap,
   .engineering-page .chooser .table-wrap,
   .building-page .chooser .table-wrap {
     overflow-x: visible;
   }
 
+  .indoor-page .chooser table,
+  .indoor-page .chooser tbody,
+  .indoor-page .chooser tr,
+  .indoor-page .chooser td,
   .engineering-page .chooser table,
   .engineering-page .chooser tbody,
   .engineering-page .chooser tr,
@@ -1259,11 +1382,13 @@ th {
     width: 100%;
   }
 
+  .indoor-page .chooser table,
   .engineering-page .chooser table,
   .building-page .chooser table {
     min-width: 0;
   }
 
+  .indoor-page .chooser thead,
   .engineering-page .chooser thead,
   .building-page .chooser thead {
     position: absolute;
@@ -1275,23 +1400,27 @@ th {
     white-space: nowrap;
   }
 
+  .indoor-page .chooser tr,
   .engineering-page .chooser tr,
   .building-page .chooser tr {
     padding: 10px 0;
     border-bottom: 1px solid var(--line);
   }
 
+  .indoor-page .chooser tr:last-child,
   .engineering-page .chooser tr:last-child,
   .building-page .chooser tr:last-child {
     border-bottom: 0;
   }
 
+  .indoor-page .chooser td,
   .engineering-page .chooser td,
   .building-page .chooser td {
     padding: 4px 12px;
     border: 0;
   }
 
+  .indoor-page .chooser td::before,
   .engineering-page .chooser td::before,
   .building-page .chooser td::before {
     content: attr(data-label);
@@ -1332,6 +1461,23 @@ th {
   }
 
   .building-support li:last-child {
+    border-bottom: 0;
+  }
+
+  .indoor-rotation,
+  .indoor-support ol {
+    grid-template-columns: 1fr;
+  }
+
+  .indoor-rotation a,
+  .indoor-support li {
+    min-height: 0;
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .indoor-rotation a:last-child,
+  .indoor-support li:last-child {
     border-bottom: 0;
   }
 

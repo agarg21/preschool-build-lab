@@ -63,7 +63,6 @@ ROUTE_PRIORITY = [
     "collections/indoor-activities-for-preschoolers.html",
     "collections/independent-activities-for-preschoolers.html",
     "collections/fine-motor-activities-for-preschoolers.html",
-    "collections/rainy-day-activities-for-preschoolers.html",
     "ages/activities-for-3-year-olds-at-home.html",
     "ages/activities-for-5-year-olds-at-home.html",
     "ages/activities-for-6-year-olds-at-home.html",

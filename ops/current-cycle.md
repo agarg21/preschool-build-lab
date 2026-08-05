@@ -111,6 +111,34 @@ public page, generator, sitemap, URL, navigation, indexability, indexing
 request, external account, product, affiliate, tested status, or family
 evidence changed.
 
+`KAL-IMP-005` is registered and in progress from clean aligned base
+`8751893088e3de56695b92fad513bd2a71559650`. Its exact twenty-path scope
+preserves the indoor URL as the only indexable preschool indoor owner and
+replaces the eight-of-nine-overlap rainy page with an accessible instant meta-
+refresh fallback. The canonical page may add one labeled illustration, a
+first-screen default, a parent-moment chooser, bounded activity routes, current
+sources, scoped CSS, and a focused test. Rainy day becomes context within that
+page; rain-themed crafts remain deferred. The legacy page must carry the indoor
+canonical and visible manual link, must not use `noindex`, and must disappear
+from sitemap and internal links. No new URL, product, affiliate, indexing
+request, external-account action, tested status, safety-performance claim, or
+family outcome is authorized. The shared sitemap-ownership test is included
+because its previous every-HTML-is-indexable assumption could not represent a
+canonicalized legacy redirect. Native and responsive QA plus a different
+independent read-only persona/every-section review are release gates.
+
+Independent review cycle one returned `FAIL` with three P2 findings and no
+P0, P1, or P3. The Master removed a blanket-step contradiction by making the
+action toy-only, replaced the runtime-date sitemap special case with a fixed
+`2026-08-05` content lastmod, added a two-future-date idempotence regression,
+and narrowed the shared meta-refresh exemption to the exact rainy legacy path
+with exact target and canonical assertions. All 35 repository tests and the
+complete generated-output manifest pass after the fixes. Cycle two returned
+`PASS`: all three P2s
+are closed, all six personas and every changed section pass, and no P0-P3
+finding remains. The transaction is review-clean pending final mirror closure,
+focused commit, release, and production verification.
+
 `KAL-IMP-001` remains released and production-verified. Continue its separate
 observation window. `KAL-IDX-001` stays planned until a changed indexing report
 supports one bounded action. Do not request indexing or infer query intent from
@@ -130,6 +158,10 @@ parent or child usefulness.
 `KAL-IMP-004` has its own observation gate. Wait for a post-release crawl or
 changed finalized GSC evidence without inferring query intent, release
 causality, or family outcomes. Do not request indexing.
+
+`KAL-IMP-005` will receive its own observation gate only after exact-SHA Pages
+success and production verification. Until then it remains an active
+implementation transaction, not released evidence.
 
 ## Released Transaction
 

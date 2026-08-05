@@ -8,6 +8,11 @@ const ROOT = process.cwd();
 const SITE = path.join(ROOT, "site");
 const BASE_URL = "https://kidactivitylab.com";
 const VERIFICATION_FILE = "googled495b3fc6f0765f8.html";
+const LEGACY_REDIRECT_FILE = path.join(
+  SITE,
+  "collections",
+  "rainy-day-activities-for-preschoolers.html",
+);
 
 function walk(directory) {
   return fs.readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
@@ -55,17 +60,89 @@ print(json.dumps({
 }
 
 test("sitemap contains each canonical indexable content URL exactly once", () => {
+  const refreshFiles = htmlFiles().filter((file) => /<meta\s+http-equiv="refresh"/i.test(read(file)));
+  assert.deepEqual(refreshFiles, [LEGACY_REDIRECT_FILE]);
+  const legacy = read(LEGACY_REDIRECT_FILE);
+  assert.match(
+    legacy,
+    /<meta http-equiv="refresh" content="0; url=indoor-activities-for-preschoolers\.html">/,
+  );
+  assert.equal(
+    canonicalFromHtml(legacy),
+    `${BASE_URL}/collections/indoor-activities-for-preschoolers.html`,
+  );
+
   const expected = htmlFiles()
     .filter((file) => path.basename(file) !== VERIFICATION_FILE)
     .filter((file) => !/name="robots"\s+content="[^"]*noindex/i.test(read(file)))
+    .filter((file) => file !== LEGACY_REDIRECT_FILE)
     .map((file) => canonicalFromHtml(read(file)));
   const actual = sitemapUrls();
 
-  assert.equal(expected.length, 61);
+  assert.equal(expected.length, 60);
   assert.ok(expected.every(Boolean), "every indexable page must declare a canonical");
   assert.equal(new Set(actual).size, actual.length, "sitemap URLs must be unique");
   assert.deepEqual([...actual].sort(), [...expected].sort());
   assert.ok(!actual.includes(`${BASE_URL}/${VERIFICATION_FILE}`));
+});
+
+test("sitemap output stays byte-stable across later calendar dates", () => {
+  const script = `
+import contextlib
+import io
+import json
+import tempfile
+from pathlib import Path
+
+import scripts.generate_sitemap as sitemap
+
+class FakeDate:
+    value = "2099-01-01"
+
+    @classmethod
+    def today(cls):
+        class Value:
+            def isoformat(self):
+                return cls.value
+        return Value()
+
+with tempfile.TemporaryDirectory() as directory:
+    site = Path(directory)
+    (site / "collections").mkdir()
+    (site / "index.html").write_text('<link rel="canonical" href="https://kidactivitylab.com/">')
+    (site / "collections" / "indoor-activities-for-preschoolers.html").write_text(
+        '<link rel="canonical" href="https://kidactivitylab.com/collections/indoor-activities-for-preschoolers.html">'
+    )
+    (site / "sitemap.xml").write_text('''<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://kidactivitylab.com/</loc><lastmod>2026-07-01</lastmod></url>
+  <url><loc>https://kidactivitylab.com/collections/indoor-activities-for-preschoolers.html</loc><lastmod>2026-08-03</lastmod></url>
+</urlset>
+''')
+    sitemap.SITE = site
+    sitemap.date = FakeDate
+    with contextlib.redirect_stdout(io.StringIO()):
+        sitemap.main()
+    first = (site / "sitemap.xml").read_text()
+    FakeDate.value = "2100-01-01"
+    with contextlib.redirect_stdout(io.StringIO()):
+        sitemap.main()
+    second = (site / "sitemap.xml").read_text()
+    print(json.dumps({"equal": first == second, "xml": second}))
+`;
+  const result = JSON.parse(execFileSync("python3", ["-c", script], {
+    cwd: ROOT,
+    encoding: "utf8",
+    env: { ...process.env, PYTHONPYCACHEPREFIX: "/tmp/kal-site-architecture-tests" },
+  }));
+
+  assert.equal(result.equal, true);
+  assert.match(result.xml, /<loc>https:\/\/kidactivitylab\.com\/<\/loc>\s+<lastmod>2026-07-01<\/lastmod>/);
+  assert.match(
+    result.xml,
+    /<loc>https:\/\/kidactivitylab\.com\/collections\/indoor-activities-for-preschoolers\.html<\/loc>\s+<lastmod>2026-08-05<\/lastmod>/,
+  );
+  assert.doesNotMatch(result.xml, /2099-01-01|2100-01-01/);
 });
 
 test("internal homepage links resolve directly to the root canonical", () => {

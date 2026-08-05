@@ -18,6 +18,58 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-08-05 Preschool Indoor Consolidation Implementation
+
+Action: `KAL-IMP-005`
+
+State: registered; implementation in progress
+
+Frozen base: `8751893088e3de56695b92fad513bd2a71559650`
+
+Scope: exactly the twenty implementation and operator paths declared in
+`ops/seo-roadmap.json`. The existing indoor canonical remains the only
+indexable owner. The rainy URL may become only an accessible instant-meta-
+refresh legacy fallback with the indoor canonical, visible manual link, no
+`noindex`, no sitemap entry, and no internal route. No new URL, other SEO page,
+unrelated card page, workflow, GSC snapshot, indexing request, external
+account, product, affiliate, rain-themed craft owner, tested status, safety-
+performance claim, or family evidence may change.
+
+The shared sitemap-ownership test was added to the frozen scope before editing
+after its previous every-HTML-is-indexable assumption classified the
+canonicalized legacy redirect as a second indexable page. The test may change
+only to distinguish instant-meta-refresh legacy documents from indexable
+canonical content and assert the resulting sixty-URL sitemap.
+
+Review gate: a different independent read-only reviewer must inspect the frozen
+requirements, full base-to-tip diff, every visible canonical and redirect
+section, source/evidence boundaries, six research personas, generated-output
+isolation, redirect semantics, native and browser QA, exact paths, and operator
+mirrors. Only `PASS` or `PASS_WITH_P3` may proceed.
+
+Cycle one: independent read-only reviewer Averroes
+(`019fce24-dbea-7c20-8277-a9ce9ec90623`) returned `FAIL` with three P2s and no
+P0, P1, or P3. Blanket Toy Crossing said “step between” despite its toy-only
+boundary; the sitemap's indoor lastmod used the runtime date; and the shared
+architecture test exempted every meta-refresh document. The Master changed the
+step to “Move the toy along or between the supports,” fixed the indoor content
+lastmod at `2026-08-05` while preserving other checked-in dates, added a
+temporary-site `2099-01-01`/`2100-01-01` byte-stability test, and allowlisted
+only the exact rainy redirect with exact refresh-target and canonical
+assertions. Positive and negative blanket assertions pass. All 35 repository
+tests, generator manifests, exact scope, JSON, links, browser wording/width,
+and `git diff --check` pass after the fixes. Cycle two is pending.
+
+Cycle two: Averroes returned `PASS`. All three P2 findings are closed, and no
+P0-P3 finding remains. The reviewer independently verified all twenty paths,
+all six personas, every changed public section, canonical ownership, redirect
+semantics, source and claim boundaries, image labeling, generated-output
+isolation, the exact rainy refresh allowlist, deterministic future-date sitemap
+behavior, 35 passing tests, responsive evidence, exact scope, and
+`git diff --check`. Strict read-only status was reconfirmed. Cycle three is a
+final record-closure check only; no implementation behavior changed after the
+cycle-two `PASS`.
+
 ## 2026-08-04 Preschool Indoor And Rainy-Day Ownership Research
 
 Action: `KAL-RES-008`
