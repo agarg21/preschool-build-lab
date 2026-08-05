@@ -22,7 +22,7 @@ evidence.
 
 Action: `KAL-IMP-005`
 
-State: registered; implementation in progress
+State: released and production-verified
 
 Frozen base: `8751893088e3de56695b92fad513bd2a71559650`
 
@@ -58,7 +58,8 @@ temporary-site `2099-01-01`/`2100-01-01` byte-stability test, and allowlisted
 only the exact rainy redirect with exact refresh-target and canonical
 assertions. Positive and negative blanket assertions pass. All 35 repository
 tests, generator manifests, exact scope, JSON, links, browser wording/width,
-and `git diff --check` pass after the fixes. Cycle two is pending.
+and `git diff --check` pass after the fixes. The corrected diff then proceeded
+to cycle two.
 
 Cycle two: Averroes returned `PASS`. All three P2 findings are closed, and no
 P0-P3 finding remains. The reviewer independently verified all twenty paths,
@@ -69,6 +70,26 @@ behavior, 35 passing tests, responsive evidence, exact scope, and
 `git diff --check`. Strict read-only status was reconfirmed. Cycle three is a
 final record-closure check only; no implementation behavior changed after the
 cycle-two `PASS`.
+
+Cycle three returned release-eligible `PASS_WITH_P3`. No P0-P2 finding
+remained. The only P3 was stale future tense in two historical review
+sentences; this mechanical release record corrects both without changing
+implementation behavior or evidence. The reviewer verified the final twenty-
+path diff, accurate closure mirrors, valid JSON, exact scope, clean diff, and
+strict read-only status.
+
+Reviewed implementation commit
+`38b1c76f1d5cd5b8d8a43e8d13b3b169c9dba1bf` released through successful exact-
+SHA Pages run `30996860494`. Live indoor HTML, rainy fallback HTML, 1672x941
+WebP, CSS, and sitemap byte-match the commit. Production at 1280px and 390px
+has the intended title, indoor canonical, one H1, default, disclosure,
+readiness note, seven chooser links, six complete starts, six sources,
+corrected toy-only blanket instruction, loaded illustration, no rainy internal
+link, no visible overflow, no console warning/error, and an anchor below the
+sticky header. The live rainy URL automatically lands on indoor. Observe until
+a post-release crawl or changed finalized GSC evidence; do not request indexing
+or infer query intent, canonical selection, ranking causality, or family
+outcomes.
 
 ## 2026-08-04 Preschool Indoor And Rainy-Day Ownership Research
 

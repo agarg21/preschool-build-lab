@@ -111,7 +111,7 @@ public page, generator, sitemap, URL, navigation, indexability, indexing
 request, external account, product, affiliate, tested status, or family
 evidence changed.
 
-`KAL-IMP-005` is registered and in progress from clean aligned base
+`KAL-IMP-005` is released and production-verified from clean aligned base
 `8751893088e3de56695b92fad513bd2a71559650`. Its exact twenty-path scope
 preserves the indoor URL as the only indexable preschool indoor owner and
 replaces the eight-of-nine-overlap rainy page with an accessible instant meta-
@@ -134,10 +134,16 @@ action toy-only, replaced the runtime-date sitemap special case with a fixed
 and narrowed the shared meta-refresh exemption to the exact rainy legacy path
 with exact target and canonical assertions. All 35 repository tests and the
 complete generated-output manifest pass after the fixes. Cycle two returned
-`PASS`: all three P2s
-are closed, all six personas and every changed section pass, and no P0-P3
-finding remains. The transaction is review-clean pending final mirror closure,
-focused commit, release, and production verification.
+`PASS`: all three P2s are closed, all six personas and every changed section
+pass, and no P0-P3 finding remains. Cycle three returned `PASS_WITH_P3`; its
+sole non-blocking record-wording note is corrected mechanically in this release
+record. Reviewed commit `38b1c76f1d5cd5b8d8a43e8d13b3b169c9dba1bf`
+was released by successful exact-SHA Pages run `30996860494`. Live indoor HTML,
+rainy legacy HTML, WebP, CSS, and sitemap byte-match. Production desktop/mobile,
+redirect, image, canonical, section, anchor, overflow, console, and request
+invariants pass. Search, canonical selection, recrawl timing, parent
+comprehension, and all family outcomes remain `UNKNOWN`; no indexing request
+was made.
 
 `KAL-IMP-001` remains released and production-verified. Continue its separate
 observation window. `KAL-IDX-001` stays planned until a changed indexing report
@@ -159,9 +165,9 @@ parent or child usefulness.
 changed finalized GSC evidence without inferring query intent, release
 causality, or family outcomes. Do not request indexing.
 
-`KAL-IMP-005` will receive its own observation gate only after exact-SHA Pages
-success and production verification. Until then it remains an active
-implementation transaction, not released evidence.
+`KAL-IMP-005` has its own observation gate. Wait for a post-release crawl or
+changed finalized GSC evidence without inferring query intent, Google canonical
+selection, ranking causality, or family outcomes. Do not request indexing.
 
 ## Released Transaction
 

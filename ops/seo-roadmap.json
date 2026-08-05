@@ -1372,8 +1372,9 @@
       "learning_value": 4,
       "effort": 4,
       "risk": 4,
-      "status": "in_progress",
+      "status": "completed",
       "selected_on": "2026-08-05",
+      "completed_on": "2026-08-05",
       "frozen_base": "8751893088e3de56695b92fad513bd2a71559650",
       "allowed_during_observation": true,
       "requires_fresh_gsc": true,
@@ -1433,18 +1434,23 @@
         "focused, repository, HTML, link, redirect, sitemap, source, accessibility, responsive, overflow, and console QA pass",
         "independent read-only persona and every-section review returns PASS or PASS_WITH_P3"
       ],
-      "implementation_state": "review-clean",
+      "implementation_state": "released-and-verified",
       "qa_summary": "All three publishing generators run successfully and a complete before/after hash manifest proves same-state byte idempotence. A temporary-site regression proves the sitemap remains byte-identical under 2099-01-01 and 2100-01-01, preserves unrelated checked-in lastmods, and keeps the indoor content date fixed at 2026-08-05. All 35 repository tests, Python compilation, roadmap JSON, zero missing local links, strict 60-URL sitemap ownership, target-only lastmod, source checks, exact twenty-path scope, git diff --check, and 1440x1000/390x844 browser checks pass. The local redirect lands on indoor; the image loads; anchors clear the sticky header; no target console warning/error or visible-page overflow remains.",
-      "review_cycles": 2,
-      "review_outcome": "PASS",
+      "review_cycles": 3,
+      "review_outcome": "PASS_WITH_P3",
       "reviewer": {
         "name": "Averroes",
         "agent_id": "019fce24-dbea-7c20-8277-a9ce9ec90623",
         "read_only": true
       },
-      "release_state": "not-released",
+      "release_state": "released-and-verified",
+      "release_commit": "38b1c76f1d5cd5b8d8a43e8d13b3b169c9dba1bf",
+      "pages_run_id": 30996860494,
+      "pages_run_url": "https://github.com/agarg21/preschool-build-lab/actions/runs/30996860494",
+      "released_on": "2026-08-05",
+      "production_verification": "Exact-SHA Pages run 30996860494 succeeded for reviewed implementation commit 38b1c76f1d5cd5b8d8a43e8d13b3b169c9dba1bf. Live indoor HTML, rainy legacy HTML, the 1672x941 WebP, CSS, and sitemap return HTTP 200 and byte-match the commit. Production has the intended title, indoor canonical, one H1, opening default, prominent not-family-tested disclosure, every-child readiness note, seven chooser links, three rainy-context links, four support moves, six complete starts, corrected toy-only blanket step, three deeper routes, six sources, loaded illustration, zero rainy internal links, and a 60-URL sitemap with only indoor ownership. Browser checks at 1280px and 390px show zero visible overflow or backward section order, no console warnings/errors, loaded image, and a mobile anchor at 111.8px below a 92.9px sticky header. The live rainy URL automatically lands on indoor. No indexing request was made.",
       "result": "Built one research-backed preschool indoor owner with a start-now default, prominent not-family-tested disclosure, every-child readiness note, labeled illustration, seven-route parent-moment chooser, four adult-support moves, six complete bounded starts, rainy-context rotation, three deeper existing routes, and six sources with visible limits. Replaced the duplicate rainy page with an accessible zero-second indoor redirect fallback and removed its sitemap, keyword-owner, homepage, and card-route ownership. Independent review found three cycle-one P2 issues; all were fixed with toy-only blanket wording, deterministic cross-date sitemap behavior, and an exact rainy-refresh allowlist. Cycle two returned PASS with no P0-P3 findings. No new URL, indexing request, product, affiliate, external account, tested status, safety outcome, or parent/child evidence was created.",
-      "next_eligible_action": "complete-KAL-IMP-005-review-and-release",
+      "next_eligible_action": "observe-KAL-IMP-005-after-post-release-crawl-or-changed-finalized-GSC-evidence",
       "notes": "Direct manual implementation transaction from clean aligned base 8751893. Exact twenty-path scope, expanded before editing the shared sitemap-ownership test after its old every-HTML-is-indexable assumption rejected the registered legacy redirect. No new URL, other SEO output, unrelated card page, workflow, GSC snapshot, indexing request, external account, product, affiliate, rain-themed craft owner, tested status, or family-evidence mutation is authorized."
     }
   ]

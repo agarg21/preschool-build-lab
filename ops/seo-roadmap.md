@@ -8,9 +8,9 @@ automation.
 
 ## Current sequence
 
-1. Complete registered `KAL-IMP-005`: consolidate preschool indoor and rainy-
-   day ownership on the existing indoor URL, preserve the rainy URL only as an
-   accessible legacy redirect, and create no new URL or family evidence.
+1. Observe released `KAL-IMP-005` until a post-release crawl or changed
+   finalized GSC evidence. Do not infer query intent, canonical selection,
+   ranking causality, or family outcomes, and do not request indexing.
 2. Observe released `KAL-IMP-004` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, ranking causality, or
    family outcomes, and do not request indexing.
@@ -45,7 +45,7 @@ automation.
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
 
-## KAL-IMP-005 Registered On 2026-08-05
+## KAL-IMP-005 Released On 2026-08-05
 
 - Frozen clean aligned base:
   `8751893088e3de56695b92fad513bd2a71559650`.
@@ -83,8 +83,19 @@ automation.
   only the exact rainy redirect while asserting its target and canonical. All
   35 tests and the corrected output manifest pass. Cycle two returned `PASS`
   with all prior P2s closed and no P0-P3 finding. The transaction is review-
-  clean; final mirror closure, focused commit, release, and production
-  verification remain.
+  clean. Cycle three returned release-eligible `PASS_WITH_P3`; the one P3 was
+  stale future tense in two historical review sentences and is corrected in
+  this release record without behavior change.
+- Released as reviewed implementation commit
+  `38b1c76f1d5cd5b8d8a43e8d13b3b169c9dba1bf`. Exact-SHA Pages run
+  `30996860494` succeeded. Live indoor HTML, rainy legacy HTML, WebP, CSS, and
+  sitemap byte-match. Production at 1280px and 390px passes title, canonical,
+  H1, default, disclosure, readiness, seven chooser links, six starts, six
+  sources, corrected blanket wording, image, anchor, zero-rainy-link, redirect,
+  overflow, console, and request invariants.
+- State: released and production-verified. Observe a post-release crawl or
+  changed finalized GSC evidence without attributing movement or inferring
+  complete query intent or family outcomes. Do not request indexing.
 
 ## KAL-RES-008 Completed On 2026-08-04
 

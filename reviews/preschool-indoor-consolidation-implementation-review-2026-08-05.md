@@ -1,12 +1,12 @@
 # Preschool Indoor Consolidation Implementation Review
 
 - Action: `KAL-IMP-005`
-- State: review-clean; focused commit and release pending
+- State: released and production-verified
 - Frozen base: `8751893088e3de56695b92fad513bd2a71559650`
 - Writer: permanent Master / Operator chat
 - Requested independent reviewer: Averroes
 - Reviewer mode: read-only
-- Review outcome: cycle one `FAIL`; cycle two `PASS`
+- Review outcome: cycle one `FAIL`; cycle two `PASS`; cycle three `PASS_WITH_P3`
 
 ## Exact Scope
 
@@ -163,8 +163,8 @@ canonical.
 
 All thirty-five repository tests, complete generated-output manifests, mobile
 browser wording and width, generator compilation, JSON parsing, exact scope,
-and `git diff --check` pass after the fixes. Cycle two must inspect the complete
-corrected twenty-path diff and close all three P2 findings before release.
+and `git diff --check` pass after the fixes. Those corrections proceeded to a
+complete cycle-two review.
 
 ### Cycle Two
 
@@ -182,3 +182,22 @@ ranking impact, search causality, parent comprehension, and every family or
 child outcome remain `UNKNOWN`. Cycle three is limited to verifying that these
 final review-state mirrors accurately record the cycle-two verdict; no code,
 content, generator, public output, or strategy decision changes after `PASS`.
+
+### Cycle Three And Release
+
+Averroes returned `PASS_WITH_P3` on the final twenty-path closure. No P0-P2
+finding remained. The sole P3 noted two historical sentences that retained
+future tense after cycle two; this release record changes those sentences to
+past tense without changing implementation behavior or evidence. Strict read-
+only reviewer status was reconfirmed.
+
+Reviewed implementation commit
+`38b1c76f1d5cd5b8d8a43e8d13b3b169c9dba1bf` was pushed to `main`. Exact-SHA
+Pages run `30996860494` succeeded. The live indoor HTML, rainy legacy document,
+1672x941 WebP, CSS, and sitemap byte-match the commit. Production at 1280px and
+390px has one H1, seven chooser links, six starts, six sources, the prominent
+disclosure, corrected toy-only blanket step, loaded illustration, no rainy
+internal link, no visible overflow, no console warning/error, and a mobile
+anchor below the sticky header. The live rainy URL automatically lands on the
+indoor owner. Search, canonical-selection, recrawl, parent-comprehension, and
+all family outcomes remain `UNKNOWN`; no indexing request was made.
