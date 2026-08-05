@@ -91,6 +91,26 @@ at 17.25 to 38 at 16.84. Sitemap discovery remains 61 pages and priority
 indexing is 10 of 10. Complete query rows are unavailable, so this is healthy
 monitoring context and does not establish query ownership or release causality.
 
+`KAL-RES-008` is review-clean from clean aligned base
+`d6cdb4ee50c8f3110c8904ae691a6a55002b7ce1`. Its exact seven-path scope is a
+fresh indoor/rainy keyword register, one ownership decision pack, one research-
+review record, and the four operator mirrors. Thirty-six fresh exact Semrush
+rows, six explicitly incomplete cached Google samples with 82 annotated links,
+nine ranking/source inspections, six personas, and both 16-row page audits
+support one future owner: improve the existing indoor URL and retire the
+duplicate rainy URL through an accessible permanent-redirect fallback. Active
+games and movement are indoor modules; preschool-at-home learning remains a
+boundary; rain-themed crafts remain a separate research candidate. Complete
+GSC queries, both candidate rows and inspections, numeric SERP overlap, and all
+family outcomes remain `UNKNOWN`. Independent review cycle one found one P2
+label defect in the section audits; the correction closed it and cycle two
+returned `PASS` with no P0-P3 findings. Cycle three checked all seven final
+paths and the completed-state mirrors and also returned `PASS` with no P0-P3
+findings. `KAL-IMP-005` is the one separately registered next candidate. No
+public page, generator, sitemap, URL, navigation, indexability, indexing
+request, external account, product, affiliate, tested status, or family
+evidence changed.
+
 `KAL-IMP-001` remains released and production-verified. Continue its separate
 observation window. `KAL-IDX-001` stays planned until a changed indexing report
 supports one bounded action. Do not request indexing or infer query intent from

@@ -1296,6 +1296,71 @@
       "production_verification": "Exact-SHA Pages run 30945353738 succeeded for reviewed implementation commit 1c0c2271ca7d2be7025c99f3e5c01648680ae5d1. The live page, 1672x941 WebP, CSS, and sitemap byte-match the commit. Production returns HTTP 200 with the intended title, canonical, single H1, first-start default, prominent not-family-tested disclosure, mixed-age readiness note, seven exact chooser links, nine complete builds, six sources, and loaded illustration. Fresh Playwright contexts at 1440x1000 and 390x844 show zero page or card overflow, no missing anchors, no console errors, no page errors, and no HTTP failures. The mobile first-start default is fully visible at y=489-623, and chooser anchors clear the sticky header.",
       "next_eligible_action": "observe-KAL-IMP-004-after-post-release-crawl-or-changed-finalized-GSC-evidence",
       "notes": "Direct manual implementation transaction from clean aligned base f11d537. Exact twelve-path scope. No new page, other SEO page, card page, navigation, workflow, GSC snapshot, indexing request, external account, product, affiliate, construction-theme curriculum, tested status, or family-evidence mutation is authorized."
+    },
+    {
+      "id": "KAL-RES-008",
+      "title": "Resolve preschool indoor and rainy-day ownership",
+      "kind": "research",
+      "lane": "search-and-product-research",
+      "impact": 5,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 4,
+      "risk": 2,
+      "status": "completed",
+      "selected_on": "2026-08-04",
+      "completed_on": "2026-08-04",
+      "frozen_base": "d6cdb4ee50c8f3110c8904ae691a6a55002b7ce1",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "validated_2026-08-04_GSC_snapshot",
+        "prior_2026-08-03_GSC_snapshot",
+        "KAL-RES-007_indoor_rainy_deferral",
+        "fresh_2026-08-04_Semrush_US_metrics",
+        "current_representative_indoor_rainy_and_boundary_SERPs",
+        "representative_ranking_page_inspection",
+        "current_indoor_and_rainy_page_every_section_audit"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/collections/indoor-activities-for-preschoolers.html",
+        "https://kidactivitylab.com/collections/rainy-day-activities-for-preschoolers.html"
+      ],
+      "target_paths": [
+        "data/indoor-rainy-consolidation-keywords-2026-08-04.csv",
+        "seo/indoor-rainy-consolidation-decision-pack-2026-08-04.md",
+        "reviews/indoor-rainy-consolidation-research-review-2026-08-04.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "A research-only decision pack resolves whether the current preschool indoor and rainy-day URLs should remain separate, consolidate around one existing owner, or be repositioned for distinct parent jobs. It must use current demand, representative SERPs, ranking-page inspection, source-derived personas, current KAL ownership, and every-section audits, promote at most one separately registered existing-page action, and create no public change or invented evidence.",
+      "evidence_classification": "August 3 and August 4 public-safe GSC snapshots are MEASURED aggregate and indexing context; candidate page rows, priority inspections, and complete query rows remain UNKNOWN. Semrush US volume, KD, CPC, intent, and cached SERP rows collected through the user's logged-in Chrome session on 2026-08-04 are TOOL_ESTIMATE. Directly inspected current ranking pages are SOURCE_BACKED within their limits. Personas are RESEARCH_HYPOTHESIS. Page ownership, consolidation, differentiation, and follow-up recommendations are EDITORIAL_JUDGMENT. Parent/child outcomes remain UNKNOWN.",
+      "human_gate": "The user directly authorized this research on 2026-08-04. This transaction may recommend at most one bounded future existing-page action but may not edit a public page or generator, create or remove a URL, alter navigation or indexability, request indexing, change an external account, recommend a product, claim family testing, or create parent/child, safety-outcome, learning, engagement, timing, mess, or repeatability evidence.",
+      "observation_window": "Research may proceed while released pages remain under observation. The August 4 snapshot is healthy context at 119 impressions, no clicks, 61 discovered pages, and 10 of 10 monitored URLs indexed. Neither candidate has a public-safe page row or priority inspection, and complete query rows are unavailable, so GSC cannot establish query ownership or select a page edit.",
+      "decision": "Consolidate preschool indoor and rainy-day ownership around the existing indoor URL. Treat rainy day as context within the indoor chooser and preserve the old rainy URL as an accessible instant-meta-refresh legacy redirect in a separate implementation. Treat active games and gross-motor movement as bounded indoor modules, keep preschool-at-home learning outside the primary job, and defer rain-themed crafts to separate research rather than preserving the current duplicate.",
+      "research_cap": {
+        "maximum_exact_queries": 36,
+        "minimum_representative_serps": 6,
+        "minimum_inspected_ranking_pages": 7,
+        "minimum_parent_job_hypotheses": 5
+      },
+      "decision_pack": "seo/indoor-rainy-consolidation-decision-pack-2026-08-04.md",
+      "recommended_next_action": "KAL-IMP-005",
+      "implementation_state": "review-clean",
+      "result": "Refreshed 36 exact Semrush US desktop queries, preserved 82 accessible result links across six explicitly incomplete cached Google samples, inspected nine current ranking/extension/publisher pages, traced six source-derived parent-job hypotheses, and audited every visible section of both current KAL pages. The evidence supports one future consolidation: improve the existing indoor URL as the single preschool indoor owner and retire the duplicated rainy URL through an accessible permanent-redirect fallback. Rain-themed crafts remain a separate deferred research candidate. Complete GSC queries, both candidate page rows and inspections, numeric SERP overlap, parent comprehension, and all family outcomes remain UNKNOWN. Independent review corrected one P2 audit-label defect in cycle one, returned PASS in cycle two, and returned PASS on the final seven-path closure in cycle three; no P0-P3 finding remains.",
+      "qa_summary": "Thirty-six unique keyword rows contain 27 positive volumes, one explicit zero, and eight unavailable volumes. Six incomplete Semrush samples preserve 82 accessible links with exact URL, snapshot-exposure order, module, matching normalized domain, and result type; all numeric overlap fields remain UNKNOWN. Eighteen GSC snapshots parse and the August 3/4 aggregate and 7/7-to-10/10 cohort values reconcile; both candidates remain absent from public-safe page and priority-inspection rows. Nine ranking pages and the Google redirect source return HTTP 200. Both current pages contain nine activities with exactly eight shared. All 28 repository tests, roadmap JSON, exact scope, source checks, structure assertions, and git diff --check pass.",
+      "review_cycles": 3,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Averroes",
+        "agent_id": "019fce24-dbea-7c20-8277-a9ce9ec90623",
+        "read_only": true
+      },
+      "release_state": "push-only",
+      "next_eligible_action": "KAL-IMP-005",
+      "notes": "Direct manual research transaction from clean aligned base d6cdb4e. Exact seven-path research-only scope. No site, generator, sitemap, snapshot, monitoring, indexing, navigation, external account, product, affiliate, URL, tested-status, or family-evidence mutation is authorized."
     }
   ]
 }

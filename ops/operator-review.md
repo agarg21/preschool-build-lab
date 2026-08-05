@@ -18,6 +18,43 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-08-04 Preschool Indoor And Rainy-Day Ownership Research
+
+Action: `KAL-RES-008`
+
+State: review-clean pending final closure and push-only research commit
+
+Frozen base: `d6cdb4ee50c8f3110c8904ae691a6a55002b7ce1`
+
+Scope: exactly the seven research and operator paths declared for
+`KAL-RES-008` in `ops/seo-roadmap.json`. No site, generator, sitemap, snapshot,
+navigation, indexability, indexing, external-account, product, affiliate,
+URL, tested-status, or family-evidence path may change.
+
+Reviewer: Averroes (`019fce24-dbea-7c20-8277-a9ce9ec90623`), independent and
+read-only.
+
+Cycle one returned `FAIL` for one P2 evidence-label defect. Both every-section
+audits named a `Header and breadcrumb`, but independent HTML parsing found
+navigation and no breadcrumb on either current page. The Master changed only
+those two labels to `Header and navigation`; no public page or decision
+changed.
+
+Cycle two returned `PASS` with no P0-P3 findings. The reviewer independently
+confirmed 36 unique keyword rows with correct zero/`n/a` boundaries; six
+incomplete samples and 82 exact annotated links; no numeric incomplete-sample
+overlap; reconciled GSC and candidate-`UNKNOWN` boundaries; nine ranking-page
+analyses; six personas; both 16-row section audits; Google redirect evidence;
+the preliminary `KAL-IMP-005` generated-card scope; exact paths; valid roadmap
+JSON; and green `git diff --check`.
+
+Cycle three returned `PASS` with no P0-P3 findings. The reviewer verified all
+seven final paths, the completed and review-clean mirrors, the accuracy of the
+review record, exact scope, 28 of 28 repository tests, roadmap JSON,
+`git diff --check`, keyword and SERP counts, corrected section labels, GSC
+values, and candidate `UNKNOWN` boundaries. Strict read-only status was
+reconfirmed. The focused push-only research commit may proceed.
+
 ## 2026-08-04 Preschool Building Implementation
 
 Action: `KAL-IMP-004`

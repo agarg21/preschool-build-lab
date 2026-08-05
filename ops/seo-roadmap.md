@@ -11,10 +11,10 @@ automation.
 1. Observe released `KAL-IMP-004` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, ranking causality, or
    family outcomes, and do not request indexing.
-2. Keep indoor and rainy-day pages unchanged until a separate action resolves
-   their overlapping preschool SERPs and eight-of-nine shared cards. Do not
-   chase broad indoor's venue intent or broad rainy's all-age breadth with a
-   thin page.
+2. Use completed `KAL-RES-008` to register `KAL-IMP-005` separately: improve
+   the existing preschool indoor owner, retire the duplicate rainy URL through
+   an accessible permanent-redirect fallback, and create no new URL. Rain-
+   themed craft research remains deferred.
 3. Observe released `KAL-IMP-003` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent or family outcomes from
    page-level movement, and do not request indexing.
@@ -45,6 +45,46 @@ automation.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-RES-008 Completed On 2026-08-04
+
+- Frozen clean aligned base:
+  `d6cdb4ee50c8f3110c8904ae691a6a55002b7ce1`.
+- Exact seven-path, research-only scope: one current Semrush keyword register,
+  one indoor/rainy ownership decision pack, one independent research-review
+  record, and four operator mirrors.
+- Compare the two current URLs against indoor preschool, rainy-day context,
+  rain-themed crafts, active indoor games and gross-motor subjobs, and
+  preschool-at-home learning intent. Close variants must not be summed.
+- The validated August 4 GSC snapshot remains healthy monitoring context at
+  119 impressions, no clicks, 61 discovered pages, and 10 of 10 monitored URLs
+  indexed. Candidate page rows, candidate inspections, and complete query rows
+  are unavailable and remain `UNKNOWN`.
+- Audit every visible section of both current pages, preserve exact SERP-row
+  evidence with completeness limits, inspect at least seven ranking pages, and
+  trace at least five source-derived parent-job hypotheses.
+- Promote at most one separately registered existing-page follow-up. No site,
+  generator, sitemap, snapshot, navigation, indexability, indexing request,
+  external account, product, affiliate, URL, tested status, or parent/child
+  evidence may change in this transaction.
+- Result: 36 current exact keyword rows, six incomplete cached Google samples
+  with 82 fully annotated accessible links, nine inspected ranking/source
+  pages, six personas, and both 16-row page audits support one indexable owner:
+  the existing indoor URL. Active games and gross-motor movement are modules;
+  preschool-at-home learning stays outside the primary job; rain-themed crafts
+  remain a separately researched future candidate.
+- `KAL-IMP-005` is the one promoted follow-up. It should improve the indoor
+  chooser and preserve the old rainy URL as a tested instant-meta-refresh
+  redirect with an indoor canonical while removing it from the sitemap and
+  internal links. This research transaction implements none of that work.
+- Independent reviewer Averroes
+  (`019fce24-dbea-7c20-8277-a9ce9ec90623`) returned `FAIL` in cycle one for one
+  P2 evidence-label defect: both audits named a nonexistent breadcrumb. The
+  two rows now accurately say `Header and navigation`; cycle two returned
+  `PASS` with no P0-P3 findings. Cycle three checked all seven final paths and
+  the completed-state mirrors and returned `PASS` with no P0-P3 findings.
+- State: review-clean and ready for a push-only research commit. Search effects,
+  candidate GSC evidence, and all family outcomes remain `UNKNOWN`.
 
 ## KAL-IMP-004 Released On 2026-08-04
 
