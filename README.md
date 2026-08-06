@@ -7,6 +7,10 @@ Live site: https://kidactivitylab.com
 
 For future Codex/agent work, start with [AGENTS.md](AGENTS.md).
 
+Current repository status:
+[priority pages](status/priority-pages.md) and
+[status maintenance convention](status/README.md).
+
 ## Current Direction
 
 Kid Activity Lab should be one domain with multiple page types, but one clear
@@ -23,9 +27,9 @@ the moment, then make it easy to start.
 - SEO collection pages can organize demand by age, interest, energy, time,
   people, setup, location, and cost when the intent is distinct.
 - Video curation stays as a supporting archive, not the main product.
-- Age-4 STEM remains the strongest existing cluster. The completed
-  standard-deck card-game research supports the next bounded implementation,
-  not a site-wide pivot.
+- Age-4 STEM remains the strongest existing cluster. The completed and released
+  standard-deck card-game chooser is an adjacent Play-lane validation under
+  observation, not a site-wide pivot.
 
 The user cannot supply ongoing family tests. Non-product pages may therefore
 publish from current source reconciliation, original KAL synthesis or diagrams,
@@ -38,6 +42,8 @@ still require real firsthand evidence.
 - `strategy/` contains the current strategic source of truth.
 - `agents/` contains role instructions for the manual Codex agent chats.
 - `ops/` contains the current-cycle baton, cadence notes, and user-input queue.
+- `status/` contains durable page roles, evidence baselines, review and release
+  state, blockers, and next eligible actions.
 - `backlog/` contains SEO, review, implementation, and icebox backlogs.
 - `site/` contains the generated static website published to GitHub Pages.
 - `scripts/` contains generators for card pages, SEO pages, and the sitemap.

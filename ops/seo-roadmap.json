@@ -1452,6 +1452,69 @@
       "result": "Built one research-backed preschool indoor owner with a start-now default, prominent not-family-tested disclosure, every-child readiness note, labeled illustration, seven-route parent-moment chooser, four adult-support moves, six complete bounded starts, rainy-context rotation, three deeper existing routes, and six sources with visible limits. Replaced the duplicate rainy page with an accessible zero-second indoor redirect fallback and removed its sitemap, keyword-owner, homepage, and card-route ownership. Independent review found three cycle-one P2 issues; all were fixed with toy-only blanket wording, deterministic cross-date sitemap behavior, and an exact rainy-refresh allowlist. Cycle two returned PASS with no P0-P3 findings. No new URL, indexing request, product, affiliate, external account, tested status, safety outcome, or parent/child evidence was created.",
       "next_eligible_action": "observe-KAL-IMP-005-after-post-release-crawl-or-changed-finalized-GSC-evidence",
       "notes": "Direct manual implementation transaction from clean aligned base 8751893. Exact twenty-path scope, expanded before editing the shared sitemap-ownership test after its old every-HTML-is-indexable assumption rejected the registered legacy redirect. No new URL, other SEO output, unrelated card page, workflow, GSC snapshot, indexing request, external account, product, affiliate, rain-themed craft owner, tested status, or family-evidence mutation is authorized."
+    },
+    {
+      "id": "KAL-OPS-005",
+      "title": "Add durable repository page-status records",
+      "kind": "operator-infrastructure",
+      "lane": "governance",
+      "impact": 4,
+      "confidence": 5,
+      "learning_value": 3,
+      "effort": 2,
+      "risk": 1,
+      "status": "completed",
+      "selected_on": "2026-08-06",
+      "completed_on": "2026-08-06",
+      "frozen_base": "7d15c45919f2d671909be8d6585b64a7ef49a9fd",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "family_tripwise_status_convention_at_b17cb405150e48e3b69ac430d5dace255191a89a",
+        "validated_2026-08-06_GSC_snapshot",
+        "prior_2026-08-05_GSC_snapshot",
+        "current_local_roadmap_and_release_records"
+      ],
+      "target_urls": [],
+      "target_paths": [
+        "README.md",
+        "status/README.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "The GitHub repository exposes one durable, maintainable status surface that distinguishes daily measurement from material page decisions and accurately records current page roles, search evidence, review and release state, blockers, and next eligible actions.",
+      "baseline": "Kid Activity Lab has detailed release state in the operator roadmap and daily public-safe GSC snapshots, but no repository status convention or concise page-level status record. A reader must reconstruct current ownership, evidence, review coverage, and blockers across large historical files.",
+      "hypothesis": "Adapting Family Tripwise's durable status convention to KAL's priority acquisition surfaces will make current state legible without turning every daily GSC snapshot into documentation churn.",
+      "expected_effect": "A repository reader can identify site health, current priority pages, evidence dates, released improvements, unresolved blockers, and next actions from one linked status surface. Search performance and family outcomes do not change.",
+      "evidence_classification": "The August 5 and August 6 public-safe GSC snapshots are MEASURED aggregate, page, and priority-inspection evidence. Semrush rows retained in dated project research are TOOL_ESTIMATE. Current page roles, status-file boundaries, and maintenance rules are EDITORIAL_JUDGMENT grounded in the completed roadmap. Complete GSC query rows and all parent/child outcomes remain UNKNOWN.",
+      "human_gate": "The user directly requested a Family Tripwise-style repository status on 2026-08-06. This documentation-only transaction may not edit site content, generators, sitemap, snapshots, workflows, indexability, indexing requests, external accounts, products, affiliates, tested status, or parent/child evidence.",
+      "observation_window": "Not applicable to repository documentation. Update the durable status only when a page role, material evidence-based decision, review state, release state, blocker, or next eligible action changes; daily snapshots remain separate.",
+      "acceptance_criteria": [
+        "define a KAL status convention derived from the current Family Tripwise repository pattern",
+        "link the status surface from the root README",
+        "record the current site-level GSC and sitemap health without describing page-average position as query rank",
+        "cover current priority and recently released acquisition pages with full URLs, directional demand limits, page signals, review and release state, blockers, and next actions",
+        "keep complete GSC queries, parent and child outcomes, and unmeasured page evidence UNKNOWN",
+        "change only the seven registered paths",
+        "pass JSON parsing, internal status-reference checks, exact-path scope, and git diff --check",
+        "independent read-only review returns PASS or PASS_WITH_P3"
+      ],
+      "implementation_state": "review-clean",
+      "qa_summary": "All cited repository references and 17 production URLs resolve to current files. August 5/6 aggregate, page, crawl, and inspection values reconcile to snapshot JSON; five release commits and Pages runs reconcile to the roadmap; seven demand rows reconcile to dated CSV evidence; absent building and indoor rows remain UNKNOWN. Roadmap JSON, Markdown table shape, exact seven-path scope, tracked and untracked whitespace, git diff --check, and all 35 repository tests pass.",
+      "review_cycles": 2,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Hypatia",
+        "agent_id": "019fd7c9-5e35-7800-be6f-79d66ddd8b7b",
+        "read_only": true
+      },
+      "release_state": "push-only",
+      "result": "Added a Family Tripwise-style status convention and one linked priority-page record covering current site health, thirteen acquisition routes, three supporting surfaces, dated demand limits, page-level GSC signals, review and release coverage, blockers, and next actions. Daily snapshots remain separate from durable page decisions. Independent review found one cycle-one P2 provenance error in the preschool STEM row; removing the unsupported KAL-RES-007 citation closed it, and cycle two returned PASS with no P0-P3 findings. No public page, search evidence, indexability, external state, tested status, or family outcome changed.",
+      "next_eligible_action": "roadmap-rescore-on-or-after-2026-08-08-or-when-material-evidence-changes",
+      "notes": "Direct manual documentation transaction from clean aligned base 7d15c45 after fast-forwarding two mechanical GSC snapshot commits. Exact seven-path scope. No public site or deployment path is in scope."
     }
   ]
 }

@@ -45,6 +45,43 @@ automation.
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
 
+## KAL-OPS-005 Registered On 2026-08-06
+
+- Frozen clean aligned base:
+  `7d15c45919f2d671909be8d6585b64a7ef49a9fd`.
+- Exact seven-path scope: root README; `status/README.md`;
+  `status/priority-pages.md`; and the four operator mirrors.
+- Adapt Family Tripwise's durable page-status pattern to KAL. Daily GSC
+  snapshots remain measurement records; the status file changes only for a
+  material page role, evidence-based decision, review state, release state,
+  blocker, or next action.
+- Record full production URLs, bounded demand evidence, page-level GSC signals,
+  ownership, review and release coverage, blockers, and next eligible actions.
+  Never describe page-average position as a query rank.
+- The August 6 public-safe snapshot is the current measured baseline: 127
+  impressions, zero clicks, average position 33.16, 61 discovered pages, and
+  10 of 10 configured priority URLs indexed. Complete query rows remain
+  unavailable.
+- No site, generator, sitemap, snapshot, workflow, indexability, indexing
+  request, external account, product, affiliate, tested-status, or family-
+  evidence change is authorized.
+- Result: `status/README.md` defines the durable maintenance convention, and
+  `status/priority-pages.md` records current site health, thirteen acquisition
+  routes, three supporting surfaces, bounded demand, page signals, review and
+  release coverage, blockers, and next actions. The root README links both.
+- All cited references and 17 production routes resolve. August 5/6 snapshot
+  facts, five release commits and run IDs, seven demand rows, absent-page
+  `UNKNOWN` states, table shape, exact scope, JSON, whitespace, and
+  `git diff --check` pass. All 35 repository tests pass.
+- Independent reviewer Hypatia
+  (`019fd7c9-5e35-7800-be6f-79d66ddd8b7b`) returned `FAIL` in cycle one for
+  one P2 provenance error: the preschool STEM row cited `KAL-RES-007`, which
+  did not review that page. Removing the extra citation closed the finding.
+  Cycle two returned `PASS` with no P0-P3 findings; read-only status was
+  reconfirmed.
+- State: completed and review-clean for a push-only documentation release. No
+  Pages deployment is applicable.
+
 ## KAL-IMP-005 Released On 2026-08-05
 
 - Frozen clean aligned base:

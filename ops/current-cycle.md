@@ -33,6 +33,23 @@ it could be ambiguous, preserve outcome fields as `UNKNOWN`, and pass native QA
 plus independent persona/every-section review. Product reviews and tested
 status remain blocked without actual firsthand evidence.
 
+`KAL-OPS-005` is completed and review-clean from clean aligned base
+`7d15c45919f2d671909be8d6585b64a7ef49a9fd`. It adapts Family Tripwise's
+durable repository status pattern to Kid Activity Lab through
+`status/README.md` and `status/priority-pages.md`, linked from the root README.
+The status separates daily GSC measurement from material page decisions and
+records full URLs, bounded demand, page-level signals, ownership, review and
+release state, blockers, and next actions. It changes no public site,
+generator, sitemap, snapshot, workflow, indexability, indexing request,
+external account, product, tested status, or parent/child evidence. Valid JSON,
+reference and scope checks, `git diff --check`, and all 35 repository tests
+pass. Independent reviewer Hypatia
+(`019fd7c9-5e35-7800-be6f-79d66ddd8b7b`) found one cycle-one P2 provenance
+error in the preschool STEM review citation. Removing the unsupported
+`KAL-RES-007` citation closed it, and cycle two returned `PASS` with no P0-P3
+findings. The exact seven-path transaction is ready for a push-only
+documentation release; no Pages deployment applies.
+
 `KAL-IMP-004` is released and production-verified from clean aligned
 base `f11d53777aa1d051dfc5e40c088ab790077aebd7`. Its exact twelve-path scope
 preserves the existing building URL and upgrades it as one research-backed
@@ -83,13 +100,14 @@ was released in commit `3790570`. Exact-SHA Pages run `30699530311` succeeded;
 the live chooser byte-matches the reviewed HTML, all six diagrams return 200,
 and desktop/mobile production invariants pass.
 
-The newest durable GSC snapshot was collected 2026-08-04 with finalized data
-through 2026-08-02. Impressions moved from 116 to 119, clicks remain 0, and
-average position moved from 35.47 to 34.77. The engineering page moved from 9
-impressions at 15.33 to 10 at 14.4; the cardboard ramp article moved from 36
-at 17.25 to 38 at 16.84. Sitemap discovery remains 61 pages and priority
-indexing is 10 of 10. Complete query rows are unavailable, so this is healthy
-monitoring context and does not establish query ownership or release causality.
+The newest durable GSC snapshot was collected 2026-08-06 with finalized data
+through 2026-08-04. Impressions moved from 122 to 127, clicks remain 0, and
+average position moved from 34.27 to 33.16. The engineering page remains at 10
+impressions and page-average position 14.4; the cardboard ramp article moved
+from 40 impressions at 15.97 to 45 at 14.87. Sitemap discovery remains 61
+pages and priority indexing is 10 of 10. Complete query rows are unavailable,
+so this is healthy monitoring context and does not establish query ownership,
+release causality, or parent usefulness.
 
 `KAL-RES-008` is review-clean from clean aligned base
 `d6cdb4ee50c8f3110c8904ae691a6a55002b7ce1`. Its exact seven-path scope is a
