@@ -1,0 +1,274 @@
+{
+  "schema_version": 1,
+  "site": "kid-activity-lab",
+  "property": "https://kidactivitylab.com/",
+  "visibility": "public-summary",
+  "collection_mode": "search-console-api-readonly",
+  "collected_at": "2026-09-02T14:47:11.558Z",
+  "data_through": "2026-08-31",
+  "requested_period_end": "2026-08-31",
+  "completeness": "finalized-conservative",
+  "finalization_basis": "conservative-two-day-lag",
+  "gsc": {
+    "sitemap_status": "Success",
+    "sitemap_last_read": "2026-07-05T02:20:28.582Z",
+    "sitemap_errors": 0,
+    "sitemap_warnings": 0,
+    "discovered_pages": 61,
+    "discovered_videos": 0,
+    "performance": {
+      "status": "finalized",
+      "period_start": "2026-08-04",
+      "period_end": "2026-08-31",
+      "latest_known_impressions": 212,
+      "latest_known_clicks": 1,
+      "latest_known_ctr_percent": 0.47,
+      "latest_known_average_position": 18.91,
+      "snapshot_date": "2026-08-31",
+      "page_rows": [
+        {
+          "url": "https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html",
+          "clicks": 1,
+          "impressions": 144,
+          "ctr_percent": 0.69,
+          "average_position": 13.19
+        },
+        {
+          "url": "https://kidactivitylab.com/",
+          "clicks": 0,
+          "impressions": 6,
+          "ctr_percent": 0,
+          "average_position": 4.5
+        },
+        {
+          "url": "https://kidactivitylab.com/ages/activities-for-4-year-olds-at-home.html",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr_percent": 0,
+          "average_position": 47.5
+        },
+        {
+          "url": "https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html",
+          "clicks": 0,
+          "impressions": 6,
+          "ctr_percent": 0,
+          "average_position": 49.5
+        },
+        {
+          "url": "https://kidactivitylab.com/cards.html",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr_percent": 0,
+          "average_position": 56
+        },
+        {
+          "url": "https://kidactivitylab.com/cards/cardboard-car-ramp.html",
+          "clicks": 0,
+          "impressions": 4,
+          "ctr_percent": 0,
+          "average_position": 4
+        },
+        {
+          "url": "https://kidactivitylab.com/cards/magnet-hunt.html",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr_percent": 0,
+          "average_position": 9
+        },
+        {
+          "url": "https://kidactivitylab.com/cards/spoon-transfer.html",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr_percent": 0,
+          "average_position": 5
+        },
+        {
+          "url": "https://kidactivitylab.com/cards/tape-city.html",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr_percent": 0,
+          "average_position": 6
+        },
+        {
+          "url": "https://kidactivitylab.com/cards/tape-train-tracks.html",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr_percent": 0,
+          "average_position": 9
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/card-games-for-kids.html",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr_percent": 0,
+          "average_position": 51.4
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/engineering-activities-for-4-year-olds.html",
+          "clicks": 0,
+          "impressions": 11,
+          "ctr_percent": 0,
+          "average_position": 14.91
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/math-activities-for-4-year-olds-at-home.html",
+          "clicks": 0,
+          "impressions": 8,
+          "ctr_percent": 0,
+          "average_position": 39
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/no-cut-preschool-activities.html",
+          "clicks": 0,
+          "impressions": 2,
+          "ctr_percent": 0,
+          "average_position": 28.5
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html",
+          "clicks": 0,
+          "impressions": 3,
+          "ctr_percent": 0,
+          "average_position": 44.67
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html",
+          "clicks": 0,
+          "impressions": 8,
+          "ctr_percent": 0,
+          "average_position": 53.88
+        },
+        {
+          "url": "https://kidactivitylab.com/original/",
+          "clicks": 0,
+          "impressions": 5,
+          "ctr_percent": 0,
+          "average_position": 8.2
+        },
+        {
+          "url": "https://kidactivitylab.com/video-ideas.html",
+          "clicks": 0,
+          "impressions": 1,
+          "ctr_percent": 0,
+          "average_position": 97
+        }
+      ]
+    },
+    "priority_inspection": {
+      "inspected": 10,
+      "indexed": 10,
+      "not_indexed": 0,
+      "not_indexed_urls": [],
+      "unknown": 0,
+      "unknown_urls": [],
+      "indexing_requested": false,
+      "urls": [
+        {
+          "url": "https://kidactivitylab.com/",
+          "indexed": true,
+          "verdict": "PASS",
+          "coverage_state": "Submitted and indexed",
+          "indexing_state": "INDEXING_ALLOWED",
+          "page_fetch_state": "SUCCESSFUL",
+          "robots_txt_state": "ALLOWED",
+          "last_crawl_time": "2026-08-25T01:15:32Z"
+        },
+        {
+          "url": "https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html",
+          "indexed": true,
+          "verdict": "PASS",
+          "coverage_state": "Submitted and indexed",
+          "indexing_state": "INDEXING_ALLOWED",
+          "page_fetch_state": "SUCCESSFUL",
+          "robots_txt_state": "ALLOWED",
+          "last_crawl_time": "2026-08-18T09:29:59Z"
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/no-cut-preschool-activities.html",
+          "indexed": true,
+          "verdict": "PASS",
+          "coverage_state": "Submitted and indexed",
+          "indexing_state": "INDEXING_ALLOWED",
+          "page_fetch_state": "SUCCESSFUL",
+          "robots_txt_state": "ALLOWED",
+          "last_crawl_time": "2026-08-23T23:49:10Z"
+        },
+        {
+          "url": "https://kidactivitylab.com/ages/activities-for-4-year-olds-at-home.html",
+          "indexed": true,
+          "verdict": "PASS",
+          "coverage_state": "Submitted and indexed",
+          "indexing_state": "INDEXING_ALLOWED",
+          "page_fetch_state": "SUCCESSFUL",
+          "robots_txt_state": "ALLOWED",
+          "last_crawl_time": "2026-08-26T00:55:29Z"
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html",
+          "indexed": true,
+          "verdict": "PASS",
+          "coverage_state": "Submitted and indexed",
+          "indexing_state": "INDEXING_ALLOWED",
+          "page_fetch_state": "SUCCESSFUL",
+          "robots_txt_state": "ALLOWED",
+          "last_crawl_time": "2026-08-21T10:57:43Z"
+        },
+        {
+          "url": "https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html",
+          "indexed": true,
+          "verdict": "PASS",
+          "coverage_state": "Submitted and indexed",
+          "indexing_state": "INDEXING_ALLOWED",
+          "page_fetch_state": "SUCCESSFUL",
+          "robots_txt_state": "ALLOWED",
+          "last_crawl_time": "2026-08-31T01:01:39Z"
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html",
+          "indexed": true,
+          "verdict": "PASS",
+          "coverage_state": "Submitted and indexed",
+          "indexing_state": "INDEXING_ALLOWED",
+          "page_fetch_state": "SUCCESSFUL",
+          "robots_txt_state": "ALLOWED",
+          "last_crawl_time": "2026-08-19T23:43:25Z"
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/card-games-for-kids.html",
+          "indexed": true,
+          "verdict": "PASS",
+          "coverage_state": "Submitted and indexed",
+          "indexing_state": "INDEXING_ALLOWED",
+          "page_fetch_state": "SUCCESSFUL",
+          "robots_txt_state": "ALLOWED",
+          "last_crawl_time": "2026-08-03T05:33:53Z"
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/engineering-activities-for-4-year-olds.html",
+          "indexed": true,
+          "verdict": "PASS",
+          "coverage_state": "Submitted and indexed",
+          "indexing_state": "INDEXING_ALLOWED",
+          "page_fetch_state": "SUCCESSFUL",
+          "robots_txt_state": "ALLOWED",
+          "last_crawl_time": "2026-07-26T05:23:06Z"
+        },
+        {
+          "url": "https://kidactivitylab.com/collections/math-activities-for-4-year-olds-at-home.html",
+          "indexed": true,
+          "verdict": "PASS",
+          "coverage_state": "Submitted and indexed",
+          "indexing_state": "INDEXING_ALLOWED",
+          "page_fetch_state": "SUCCESSFUL",
+          "robots_txt_state": "ALLOWED",
+          "last_crawl_time": "2026-08-25T09:51:28Z"
+        }
+      ]
+    }
+  },
+  "private_fields_omitted": [
+    "credentials",
+    "complete raw query rows",
+    "country and device rows"
+  ]
+}
