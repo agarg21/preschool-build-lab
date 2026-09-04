@@ -79,9 +79,11 @@ experience separate. A persona task is a proxy evaluation, not user testing.
 - **Confidence:** High for current DOM order, dimensions, visible visual-text
   agreement, and preserved repository invariants; unknown for human use and
   search effect.
-- **Action:** Release only through the focused commit, exact-SHA Pages, and
-  production-verification gates. Do not add timing, outcome, testing, or
-  safety-performance claims to close the remaining score point.
+- **Action:** Released and production-verified in reviewed commit `5d2c4d5`
+  through successful exact-SHA Pages run `33901993003`. Protect the structure
+  through September 18 except a verified P0-P2 regression. Do not add timing,
+  outcome, testing, or safety-performance claims to close the remaining score
+  point.
 - **Reusable lesson:** A start-now surface can resolve a demonstrated task
   failure by changing order and specificity rather than adding a new page or
   more generic prose. Generated visuals need explicit evidence labeling.

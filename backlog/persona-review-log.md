@@ -90,8 +90,8 @@ remain `UNKNOWN`.
 
 **Action:** `KAL-IMP-006`
 
-**Surface:** Review-clean local implementation for the existing cardboard-ramp
-URL; production release is pending.
+**Surface:** Released and production-verified implementation on the existing
+cardboard-ramp URL at reviewed commit `5d2c4d5`.
 
 **Evidence basis:** The completed `KAL-LEARN-001` task and its source-traced P1
 and P2 research hypotheses, September 3 and 4 finalized public-safe GSC

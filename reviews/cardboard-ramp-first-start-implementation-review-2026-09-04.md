@@ -156,3 +156,18 @@ duration, mess, safety outcomes, and search effect remain unknown. A generated
 visual is editorial illustration, not proof of a setup used by a family.
 
 Final verdict: `PASS_WITH_P3`
+
+## Release Verification
+
+Reviewed implementation commit:
+`5d2c4d5edc2a85b6ce093afa3fa3b2dcffb2f387`
+
+Exact-SHA Pages run: `33901993003`, success.
+
+The live article, PNG, CSS, and sitemap byte-match the reviewed commit.
+Production keeps the title, canonical, one H1, first-start/image order, exact
+two-book setup, younger-child reach condition, explicit AI-generated/not-
+family-tested caption, four related routes, metadata dates, and loaded image.
+At 1280x900 and 390x844 the start heading remains in the first viewport at
+y=421.71 and y=514.05, document width equals viewport width, and there are no
+console warnings or errors. No indexing request was made.

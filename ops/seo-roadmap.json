@@ -1600,7 +1600,7 @@
       "learning_value": 4,
       "effort": 2,
       "risk": 3,
-      "status": "review_clean",
+      "status": "released",
       "selected_on": "2026-09-04",
       "frozen_base": "f974aacc11e4902c87bd6bdd534ee37e746e8137",
       "allowed_during_observation": true,
@@ -1654,7 +1654,7 @@
       "measurement_plan": "Before release, compare the start heading and image y positions against the KAL-LEARN-001 baseline and require start-before-image plus a first-viewport heading at both target sizes. After release, verify exact production invariants and observe the next post-release crawl and finalized page/query evidence. Do not treat search movement as proof of the layout change or family usefulness.",
       "production_invariants": "One existing URL only; unchanged title, canonical, H1, indexability, Article type, source links, one-change test, troubleshooting and related routes; no new page, redirect, indexing request, external account, product, affiliate, tracker, tested status, parent/child evidence, or universal safety/developmental claim.",
       "reconsider_conditions": "Revert or correct if the generated visual does not unambiguously show a low two-book floor support, responsive cropping hides the support, the start section follows the image or begins below either target viewport, an existing task section or source route breaks, a P0-P2 review or production finding remains, or the release changes an undeclared generated output.",
-      "implementation_state": "review-clean-release-pending",
+      "implementation_state": "released-and-production-verified",
       "implementation_result": "The local candidate moves a three-step materials/adult-role/stop answer before the dominant visual, replaces the six-book image with a versioned 1672x941 PNG showing a low ramp on exactly two broad closed books, labels that image as AI-generated, illustrative, and not family-tested, and surfaces the younger-child reach boundary. The title, canonical, H1, page ownership, source links, one-change test, troubleshooting, free play, cleanup, FAQ, and related routes remain present.",
       "qa_summary": "Final generator proof hashes every file under site before and after `python3 scripts/generate_card_pages.py`, `python3 scripts/generate_seo_pages.py`, and `python3 scripts/generate_sitemap.py` using `find site -type f -print0 | sort -z | xargs -0 shasum -a 256 | shasum -a 256`; both whole-site manifest hashes equal 34bb7d9b429844608ea4bcc16872cbefb55cf9769f8271cea628752ccd6e5680. `git status --porcelain=v1 -z` hashes before and after both equal 44a3aed35a3bc9f929aa0919e5eaf8c1ad334258ed7449fce3f3a285e7d9375f, proving the changed-path manifest did not expand. git diff --check and roadmap JSON parsing pass. All 41 Node tests pass, including 6 ramp-specific tests with exact assertions for all four related routes. Across 65 HTML files there are 0 missing local links and 0 missing fragments; article JSON-LD and sitemap XML parse. The new RGB PNG is 1672x941 with SHA-256 c9571eb6bfbd0fef11fccb8ccbc3beebd6a0e8fa9f9203ad7805dfdd153ee4b5. At 1280x900 the new heading starts at y=421.71, the card ends at y=747.33, and the image starts at y=765.33; at 390x844 the heading starts at y=514.05, the card ends at y=1082.74, and the image starts at y=1100.74. Both widths have document scrollWidth equal to viewport width, the image loads at natural 1672x941, all 12 links are native href anchors with no negative tabindex, action-page HTML/CSS/image requests returned 200 or 304, and the browser reports no console warning or error.",
       "review_cycles": 2,
@@ -1665,8 +1665,13 @@
         "read_only": true
       },
       "review_findings": "Cycle one: no P0-P1; one P2 found the interim tracked-diff hash unreproducible from the later reviewed tree; two P3s requested explicit AI-generation disclosure and exact related-route assertions. The final whole-site/status manifest proof closed the P2, and both P3 improvements were applied. Cycle two: PASS_WITH_P3, no P0-P2; one nonblocking P3 notes that an older current-cycle sentence still foregrounds the superseded interim hash before the later correction explains the final manifest method.",
-      "next_eligible_action": "focused-commit-push-pages-and-production-verification",
-      "notes": "Second 2026-09-04 pilot transaction, applying the review-clean KAL-LEARN-001 result. Exact thirteen-path scope. The latest snapshot is healthy observation context and does not authorize CTR or query-intent changes. Independent reviewer Parfit (response label Sagan) completed two strict read-only cycles and returned PASS_WITH_P3 with no P0-P2. The single retained P3 is wording-only and does not weaken the final reproducible manifest proof. Release is authorized through the normal exact-SHA gates."
+      "release_state": "deployed-and-verified",
+      "release_commit": "5d2c4d5edc2a85b6ce093afa3fa3b2dcffb2f387",
+      "pages_run_id": "33901993003",
+      "released_on": "2026-09-04",
+      "production_verification": "Exact-SHA Pages run 33901993003 succeeded for reviewed implementation commit 5d2c4d5edc2a85b6ce093afa3fa3b2dcffb2f387. Live article, 1672x941 PNG, CSS, and sitemap byte-match the commit at SHA-256 591f733e607c015ffc1570e1280dbd3886826225a01fc9c75e782b1cab7bb4be, c9571eb6bfbd0fef11fccb8ccbc3beebd6a0e8fa9f9203ad7805dfdd153ee4b5, 198ff7ad27eb818e14caaf9f54d7526eb75a245ac961a079c6e0c5cab678aa40, and 4a28e5bceedcf647ebb24b58e71db9f517c66c77e92868b968d104a784dd1a9b. Production has the intended title, canonical, one H1, start-before-image order, exact three-step/two-book setup, younger-child reach boundary, AI-generated/not-family-tested caption, unchanged four related routes, valid dateModified and sitemap lastmod, and loaded natural-size image. Browser checks at 1280x900 and 390x844 reproduce heading y=421.71 and y=514.05, document widths equal viewports, native links have no negative tabindex, and no console warning/error appears. No indexing request was made.",
+      "next_eligible_action": "observe-until-2026-09-18-or-new-post-release-crawl-query-evidence-or-verified-P0-P2",
+      "notes": "Second 2026-09-04 pilot transaction, applying the review-clean KAL-LEARN-001 result. Exact thirteen-path scope. Independent reviewer Parfit (response label Sagan) completed two strict read-only cycles and returned PASS_WITH_P3 with no P0-P2. The implementation is released and production-verified. Protect the first-start structure for 14 days except a verified P0-P2 production, accessibility, factual, or trust regression; observe later crawl and search evidence without assigning causality or family usefulness."
     }
   ]
 }

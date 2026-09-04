@@ -123,6 +123,19 @@ automation.
   P0-P2. The one retained P3 notes that an older current-cycle sentence still
   foregrounds the superseded interim hash before the later paragraph explains
   the final manifest proof. This wording-only ambiguity does not block release.
+- Released reviewed implementation commit
+  `5d2c4d5edc2a85b6ce093afa3fa3b2dcffb2f387`. Exact-SHA Pages run
+  `33901993003` succeeded. The live article, PNG, CSS, and sitemap byte-match
+  that commit; production title, canonical, one H1, three-step/two-book start,
+  younger-child reach boundary, explicit AI-generated/not-family-tested
+  caption, related routes, JSON-LD date, sitemap lastmod, and natural image
+  dimensions pass.
+- Production browser QA at 1280x900 and 390x844 reproduces heading y=421.71
+  and y=514.05, preserves start-before-image order, has document width equal
+  to viewport width, and records no console warning or error. No indexing
+  request was made. Protect the structure through 2026-09-18 unless a verified
+  P0-P2 regression appears; observe later crawl and search evidence without
+  inferring family usefulness or causality.
 
 ## KAL-LEARN-001 Registered On 2026-09-04
 

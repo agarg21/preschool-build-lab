@@ -22,7 +22,7 @@ evidence.
 
 Action: `KAL-IMP-006`
 
-State: cycle two `PASS_WITH_P3`; release pending
+State: cycle two `PASS_WITH_P3`; released and production-verified
 
 Frozen base: `f974aacc11e4902c87bd6bdd534ee37e746e8137`
 
@@ -115,6 +115,14 @@ or block release.
 
 Final result: `PASS_WITH_P3`. All release gates except commit, push, exact-SHA
 Pages success, and production verification are satisfied.
+
+Release: the exact reviewed thirteen-path implementation was committed and
+pushed as `5d2c4d5edc2a85b6ce093afa3fa3b2dcffb2f387`. Exact-SHA Pages run
+`33901993003` completed successfully. Live article, PNG, CSS, and sitemap bytes
+match the commit. Production metadata, start/image order, exact setup,
+AI-generation/evidence caption, younger-child boundary, four routes, responsive
+coordinates, width containment, natural image dimensions, and console state
+pass at desktop and mobile sizes. No indexing request was made.
 
 ## 2026-09-04 Ramp First-Start Learning Review
 

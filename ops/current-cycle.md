@@ -27,6 +27,9 @@ setup, and surface the selected younger-child reach boundary. The exact
 thirteen-path scope is frozen in `ops/seo-roadmap.json`. Implementation and
 two independent read-only review cycles are complete; the result is
 `PASS_WITH_P3` with no P0-P2, and release gates are open.
+Reviewed implementation commit
+`5d2c4d5edc2a85b6ce093afa3fa3b2dcffb2f387` is now released and production-
+verified through successful exact-SHA Pages run `33901993003`.
 
 The September 4 public-safe snapshot is finalized through September 2. The
 rolling property window has 230 impressions, one click, average position
@@ -71,6 +74,14 @@ all four related routes. Cycle two returned `PASS_WITH_P3` with no P0-P2. The
 remaining P3 is a nonblocking wording ambiguity in this record: the earlier
 pre-review paragraph mentions the rejected interim hash before this correction
 documents the final whole-site method.
+
+The live article, PNG, CSS, and sitemap byte-match the reviewed commit.
+Production retains the exact title, canonical, one H1, start-before-image
+order, three-step/two-book setup, younger-child reach boundary, explicit AI-
+generated/not-family-tested caption, related routes, date metadata, and loaded
+natural-size image. At 1280x900 and 390x844 the heading remains at y=421.71
+and y=514.05, document widths equal their viewports, and no console warning or
+error appears. No indexing request was made.
 
 `KAL-LEARN-001` is completed and review-clean from clean aligned base
 `35fe675dc68d0854f3d3164af8def13f95ae189e` as the first daily learning
@@ -519,9 +530,8 @@ product-review access still require direct user authority.
 
 ## Next Transaction
 
-Commit and push the exact review-clean `KAL-IMP-006` thirteen-path diff, monitor
-its exact-SHA Pages run, and verify the production article, image, metadata,
-layout, links, and evidence boundary. Then protect the first-start structure
-for 14 days except verified P0-P2 regressions. Do not start another page, CTR
-rewrite, indexing request, product, affiliate, or family-outcome action from
-this evidence.
+Observe released `KAL-IMP-006` through 2026-09-18 unless a verified P0-P2
+production, accessibility, factual, or trust regression appears. The next
+evidence-eligible step is a new post-release crawl or finalized query/page
+change, not a CTR rewrite, new page, indexing request, product, affiliate, or
+family-outcome inference.
