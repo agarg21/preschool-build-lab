@@ -1589,6 +1589,84 @@
       "released_on": "2026-09-04",
       "next_eligible_action": "KAL-IMP-006-candidate-for-future-separate-registration",
       "notes": "First daily transaction under the two-month manual learning pilot. Documentation and strategy synthesis only; any page correction requires a separate registered action."
+    },
+    {
+      "id": "KAL-IMP-006",
+      "title": "Align the ramp first-start and setup visual",
+      "kind": "content-implementation",
+      "lane": "existing-page-utility",
+      "impact": 4,
+      "confidence": 4,
+      "learning_value": 4,
+      "effort": 2,
+      "risk": 3,
+      "status": "review_clean",
+      "selected_on": "2026-09-04",
+      "frozen_base": "f974aacc11e4902c87bd6bdd534ee37e746e8137",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "completed_review_clean_KAL-LEARN-001",
+        "validated_2026-09-04_GSC_snapshot",
+        "prior_2026-09-03_GSC_snapshot",
+        "current_ramp_page_and_sources",
+        "desktop_and_mobile_task_failure"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html"
+      ],
+      "target_paths": [
+        "site/articles/cardboard-box-car-ramp-preschoolers.html",
+        "site/assets/cardboard-box-car-ramp-hero-v2.png",
+        "site/styles.css",
+        "site/sitemap.xml",
+        "tools/cardboard-ramp-first-start.test.mjs",
+        "reviews/cardboard-ramp-first-start-implementation-review-2026-09-04.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "The existing ramp guide puts one compact runnable start before its dominant visual at desktop and mobile widths, and that visual clearly shows the same low two-book floor setup described by the text without implying a Kid Activity Lab family test.",
+      "baseline": "KAL-LEARN-001 scored the source-traced start-now and younger-sibling task 17 of 24. The current 1672x941 hero shows a six-book support while its alt and repeated instructions require a short, low, stable stack. At 1280x900 the first runnable heading begins at y=1025 below the first viewport; at 390x844 the quick-answer card runs from y=674 to y=1357 after the image. The September 4 snapshot is finalized through September 2 and reports 230 property impressions, one click, average position 18.09, 10 of 10 priority URLs indexed, and 158 ramp-page impressions at page-average position 13.33. Complete query rows remain unavailable.",
+      "hypothesis": "Moving a shorter runnable start before the hero and replacing the six-book image with a labeled two-book floor setup will remove the visual-text trust contradiction and expose the activity default within the first viewport at 1280x900 and 390x844 without weakening the existing instructions, sources, or evidence boundaries.",
+      "expected_effect": "A caregiver can see the materials, first steps, adult role, and stop condition before interpreting the setup image, and the image reinforces rather than contradicts the written low-support boundary. Search rankings, click-through, parent comprehension, child response, duration, engagement, learning, mess, repeatability, and safety outcomes remain unproven.",
+      "evidence_classification": "September 3 and September 4 public-safe GSC aggregate, page, crawl, and inspection rows are MEASURED observation context. KAL-LEARN-001 rendered positions, overflow, image dimensions, and page wording are MEASURED browser and repository observations. Existing P1/P2 personas are RESEARCH_HYPOTHESIS grounded in the July 28 decision pack. The shorter start, exact two-book depiction, caption, and layout are EDITORIAL_JUDGMENT. The generated visual is illustrative, not firsthand evidence. Complete query intent and all parent/child outcomes remain UNKNOWN.",
+      "human_gate": "The standing research-backed non-product release authority applies. No parent or child participation is required or claimed. The replacement visual must be labeled as AI-generated and illustrative, not a Kid Activity Lab family-test photo. Tested status, parent/child outcomes, safety-performance claims, product recommendations, outreach, external accounts, and indexing requests remain prohibited.",
+      "observation_window": "After exact-SHA release and production verification, protect the title, canonical, page ownership, and first-start structure for 14 days unless a verified P0-P2 production, accessibility, factual, or trust regression appears. Observe crawl and GSC changes without assigning causality or inferring family usefulness.",
+      "acceptance_criteria": [
+        "preserve the existing ramp URL, title, canonical, H1, build-and-troubleshoot ownership, source links, one-change test, troubleshooting, free-play, cleanup, FAQ, and related routes",
+        "place one compact start-now section before the dominant visual in DOM and rendered order at 1280x900 and 390x844",
+        "show the start-now heading within the first viewport at both target widths and include exact materials, three runnable steps, adult role, and a stop condition",
+        "replace the six-book image reference with one new project-local visual that clearly shows exactly two broad closed books on the floor and a low cardboard ramp",
+        "label the visual as AI-generated and illustrative, not a Kid Activity Lab family-test photo; do not claim an original session, observation, or outcome",
+        "surface the younger-child reach constraint in the setup boundary without making a universal safety assurance",
+        "update Article dateModified and only the existing article sitemap lastmod to 2026-09-04",
+        "run all three publishing generators, prove same-state idempotence, and keep generated outputs outside the declared article and sitemap paths byte-identical",
+        "add a focused regression test for order, visual labeling, compact start contents, metadata, sitemap uniqueness, and prohibited claim boundaries",
+        "pass complete local link and fragment checks, HTML and JSON-LD parsing, image checks, responsive layout, keyboard, overflow, console, request, exact-path, privacy, source, and claim QA",
+        "independent read-only persona and every-section review returns PASS or PASS_WITH_P3"
+      ],
+      "qa_plan": "Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, all three publishing generators with before/after manifests and a second idempotence run, complete local link and fragment checks, strict HTML/JSON-LD/XML/image/source/claim checks, and browser QA at 1280x900 and 390x844 including keyboard, text fit, rendered order, crop visibility, overflow, console, requests, and the motivating persona task.",
+      "measurement_plan": "Before release, compare the start heading and image y positions against the KAL-LEARN-001 baseline and require start-before-image plus a first-viewport heading at both target sizes. After release, verify exact production invariants and observe the next post-release crawl and finalized page/query evidence. Do not treat search movement as proof of the layout change or family usefulness.",
+      "production_invariants": "One existing URL only; unchanged title, canonical, H1, indexability, Article type, source links, one-change test, troubleshooting and related routes; no new page, redirect, indexing request, external account, product, affiliate, tracker, tested status, parent/child evidence, or universal safety/developmental claim.",
+      "reconsider_conditions": "Revert or correct if the generated visual does not unambiguously show a low two-book floor support, responsive cropping hides the support, the start section follows the image or begins below either target viewport, an existing task section or source route breaks, a P0-P2 review or production finding remains, or the release changes an undeclared generated output.",
+      "implementation_state": "review-clean-release-pending",
+      "implementation_result": "The local candidate moves a three-step materials/adult-role/stop answer before the dominant visual, replaces the six-book image with a versioned 1672x941 PNG showing a low ramp on exactly two broad closed books, labels that image as AI-generated, illustrative, and not family-tested, and surfaces the younger-child reach boundary. The title, canonical, H1, page ownership, source links, one-change test, troubleshooting, free play, cleanup, FAQ, and related routes remain present.",
+      "qa_summary": "Final generator proof hashes every file under site before and after `python3 scripts/generate_card_pages.py`, `python3 scripts/generate_seo_pages.py`, and `python3 scripts/generate_sitemap.py` using `find site -type f -print0 | sort -z | xargs -0 shasum -a 256 | shasum -a 256`; both whole-site manifest hashes equal 34bb7d9b429844608ea4bcc16872cbefb55cf9769f8271cea628752ccd6e5680. `git status --porcelain=v1 -z` hashes before and after both equal 44a3aed35a3bc9f929aa0919e5eaf8c1ad334258ed7449fce3f3a285e7d9375f, proving the changed-path manifest did not expand. git diff --check and roadmap JSON parsing pass. All 41 Node tests pass, including 6 ramp-specific tests with exact assertions for all four related routes. Across 65 HTML files there are 0 missing local links and 0 missing fragments; article JSON-LD and sitemap XML parse. The new RGB PNG is 1672x941 with SHA-256 c9571eb6bfbd0fef11fccb8ccbc3beebd6a0e8fa9f9203ad7805dfdd153ee4b5. At 1280x900 the new heading starts at y=421.71, the card ends at y=747.33, and the image starts at y=765.33; at 390x844 the heading starts at y=514.05, the card ends at y=1082.74, and the image starts at y=1100.74. Both widths have document scrollWidth equal to viewport width, the image loads at natural 1672x941, all 12 links are native href anchors with no negative tabindex, action-page HTML/CSS/image requests returned 200 or 304, and the browser reports no console warning or error.",
+      "review_cycles": 2,
+      "review_outcome": "PASS_WITH_P3",
+      "reviewer": {
+        "name": "Parfit (response label: Sagan)",
+        "agent_id": "01a06d6c-d04a-7083-b6fa-7a41157de9ae",
+        "read_only": true
+      },
+      "review_findings": "Cycle one: no P0-P1; one P2 found the interim tracked-diff hash unreproducible from the later reviewed tree; two P3s requested explicit AI-generation disclosure and exact related-route assertions. The final whole-site/status manifest proof closed the P2, and both P3 improvements were applied. Cycle two: PASS_WITH_P3, no P0-P2; one nonblocking P3 notes that an older current-cycle sentence still foregrounds the superseded interim hash before the later correction explains the final manifest method.",
+      "next_eligible_action": "focused-commit-push-pages-and-production-verification",
+      "notes": "Second 2026-09-04 pilot transaction, applying the review-clean KAL-LEARN-001 result. Exact thirteen-path scope. The latest snapshot is healthy observation context and does not authorize CTR or query-intent changes. Independent reviewer Parfit (response label Sagan) completed two strict read-only cycles and returned PASS_WITH_P3 with no P0-P2. The single retained P3 is wording-only and does not weaken the final reproducible manifest proof. Release is authorized through the normal exact-SHA gates."
     }
   ]
 }

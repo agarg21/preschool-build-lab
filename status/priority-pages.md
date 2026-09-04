@@ -4,8 +4,8 @@ Last updated: 2026-09-04
 
 Sources:
 
-- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-03.md`
-- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-02.md`
+- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-04.md`
+- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-03.md`
 - Current machine-readable roadmap and release evidence:
   `ops/seo-roadmap.json`
 - Current human-readable roadmap: `ops/seo-roadmap.md`
@@ -52,6 +52,20 @@ viewport. The result is `IMPROVE`, with one candidate for future separate
 registration to align the visual and expose the compact start sooner. No public
 page changed in the learning transaction.
 
+The later registered `KAL-IMP-006` local candidate applies only that failure.
+It puts a three-step start before a versioned two-book floor visual, labels the
+image AI-generated, illustrative, and not family-tested, and moves the younger-child reach
+constraint into the early setup boundary. The proxy task now scores 23 of 24,
+with duration left `UNKNOWN`; a cycle-one QA-evidence P2 is corrected, cycle
+two returned `PASS_WITH_P3` with no P0-P2, and release remains pending.
+
+The September 4 snapshot is finalized through September 2. Property totals
+are 230 impressions, one click, and average position 18.09; the ramp guide has
+158 impressions, one click, page-average position 13.33, and the unchanged
+August 18 crawl. Priority inspection remains 10 of 10 indexed. This small
+healthy movement is observation context, not the implementation rationale or
+evidence of query intent, causality, or family usefulness.
+
 ## Site Health
 
 | Surface | Current state | Next check |
@@ -59,7 +73,7 @@ page changed in the learning transaction.
 | Production | Live on `https://kidactivitylab.com`; latest material content release is `KAL-IMP-005` at `38b1c76` through successful Pages run `30996860494`. | Verify exact-SHA Pages and action-specific production invariants after any future `site/**` or Pages-workflow release. |
 | Sitemap | Success in GSC; 61 discovered pages; current generated sitemap has 60 canonical content URLs. Last GSC sitemap read remains 2026-07-05. | Treat a refreshed sitemap read or verified technical defect as new evidence; do not request indexing from cadence alone. |
 | Priority inspection | 10 of 10 configured URLs indexed; 0 unknown; 0 not indexed. | Expand or change the inspection cohort only in a separately registered monitoring or architecture action. |
-| Search performance | 228 impressions, 1 click, 0.44% CTR, average position 18.75 for the 28 days through 2026-09-01. | Treat the first click as discovery, not a CTR diagnosis. Use complete query evidence or a demonstrated page-task failure to select ranking work. |
+| Search performance | 230 impressions, 1 click, 0.43% CTR, average position 18.09 for the 28 days through 2026-09-02. | Treat the first click as discovery, not a CTR diagnosis. Use complete query evidence or a demonstrated page-task failure to select ranking work. |
 | Evidence boundary | Research-backed pages are explicitly not family-tested by Kid Activity Lab. All parent and child outcomes remain `UNKNOWN`. | Keep tested status, outcome claims, and product recommendations behind actual firsthand evidence. |
 
 ## Acquisition Pages
@@ -67,7 +81,7 @@ page changed in the learning transaction.
 | Page | Full URL | Directional demand | Current public-safe GSC signal | Role and release state | Review coverage | Remaining / blocker | Next eligible action |
 |---|---|---|---|---|---|---|---|
 | Homepage | https://kidactivitylab.com/ | No single query owner | 6 impressions; position 4.5; indexed; crawled 2026-08-25 | Site promise and route hub. Current production includes the reviewed `KAL-IMP-005` route changes. | Action-scoped navigation and homepage changes reviewed under `KAL-SEO-001`, `KAL-IMP-002`, and `KAL-IMP-005`; no claim of a complete standalone homepage research cycle. | Sparse page signal and no complete query rows. | Keep as the router; change only when a registered cluster or navigation action requires it. |
-| Cardboard ramp guide | https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html | `cardboard ramp`: 210; broad and ambiguous. `how to make a ramp with cardboard`: 50. Refreshed 2026-07-28. | 1 click; 157 impressions; 0.64% CTR; position 13.41; indexed; crawled 2026-08-18 after the release | Build-and-troubleshoot owner. `KAL-IMP-001` released and verified at `a15dca7` / run `30394783721`. | Current query/SERP, source-derived personas, every-section audit, claims, native QA, and independent implementation review completed under `KAL-RES-001` and `KAL-IMP-001`; `KAL-LEARN-001` adds a responsive start-now task evaluation. | Complete current query rows remain unavailable. The dominant image contradicts the written low-stack boundary, and desktop first-start is below the first viewport. | Separately register `KAL-IMP-006` to align the visual and first-start surface; do not rewrite for CTR or infer family outcomes. |
+| Cardboard ramp guide | https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html | `cardboard ramp`: 210; broad and ambiguous. `how to make a ramp with cardboard`: 50. Refreshed 2026-07-28. | 1 click; 158 impressions; 0.63% CTR; position 13.33; indexed; crawled 2026-08-18 after the release | Build-and-troubleshoot owner. `KAL-IMP-001` is live; registered `KAL-IMP-006` is review-clean and release-pending. | Current query/SERP, source-derived personas, every-section audit, claims, native QA, and independent implementation review completed under `KAL-RES-001` and `KAL-IMP-001`; `KAL-LEARN-001` plus the `KAL-IMP-006` task recheck and two-cycle independent review cover the responsive start-now task. | Complete current query rows and all family outcomes remain unavailable. `KAL-IMP-006` has green QA and `PASS_WITH_P3` with no P0-P2 but is not yet released. | Run the focused release and exact-SHA production checks, then protect the structure for 14 days except verified P0-P2 regressions. |
 | Age-four at-home chooser | https://kidactivitylab.com/ages/activities-for-4-year-olds-at-home.html | `activities for 4 year olds at home`: 50. Refreshed 2026-07-28. | 4 impressions; position 47.5; indexed; crawled 2026-08-26 | Existing age-and-context owner; no recent material implementation. | Page and cluster audited in `KAL-RES-001`; not upgraded through the current research-backed implementation standard. | Sparse signal and broad roundup competition; complete queries unavailable. | Preserve ownership. Revisit only if fresh evidence identifies one bounded usefulness gap. |
 | Original age-four STEM pack | https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html | Primary query demand `UNKNOWN`; supports the age-four STEM cluster. | 3 impressions; position 44.67; indexed; crawled 2026-08-21 | Original pack and deeper execution route; no recent material implementation. | Page and cluster audited in `KAL-RES-001`; current family outcomes remain `UNKNOWN`. | Very sparse search signal and no current primary-query measurement. | Keep as support; do not manufacture a rewrite from cadence. |
 | Age-four STEM chooser | https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html | `stem activities for 4 year olds`: 30. Refreshed 2026-07-28. | 6 impressions; position 49.5; indexed; crawled 2026-08-31 | Broad age-four STEM owner; no recent material implementation. | Page and cluster audited in `KAL-RES-001`; not upgraded through a separate current implementation cycle. | Current crawl but sparse signal and no complete queries. | Preserve the owner; research one bounded improvement only when current evidence supports it. |
@@ -91,17 +105,18 @@ page changed in the learning transaction.
 ## Current Decision
 
 The site is technically healthy and Google is discovering its priority pages:
-228 property impressions, one click, 10 of 10 priority URLs indexed, and no
+230 property impressions, one click, 10 of 10 priority URLs indexed, and no
 complete current query rows. This still supports neither a broad title/CTR
 program nor new-page production from cadence.
 
 The first click and post-release ramp crawl satisfy observation gates but do
-not identify query intent. Today's persona-task evidence does identify one
-bounded existing-page problem independent of ranking speculation: the ramp
-guide's dominant visual conflicts with its low-support instruction, and the
-desktop runnable answer follows the image. The next candidate is a visual-and-
-first-start correction for future separate registration and review as
-`KAL-IMP-006`. Engineering still
+not identify query intent. Today's persona-task evidence identified one
+bounded existing-page problem independent of ranking speculation. Registered
+`KAL-IMP-006` now has a review-clean two-book visual and first-start
+correction, raising the proxy task score from 17 to 23 of 24 while leaving
+duration and all family outcomes unknown. Independent review returned
+`PASS_WITH_P3` with no P0-P2; focused release and production checks remain.
+Engineering still
 lacks a post-release inspected crawl; building and indoor still lack public-
 safe page rows and configured inspection. Preserve those owners until their
 evidence changes.

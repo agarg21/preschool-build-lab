@@ -18,6 +18,104 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-09-04 Ramp First-Start Implementation
+
+Action: `KAL-IMP-006`
+
+State: cycle two `PASS_WITH_P3`; release pending
+
+Frozen base: `f974aacc11e4902c87bd6bdd534ee37e746e8137`
+
+Scope: exactly thirteen paths declared in `ops/seo-roadmap.json`: one existing
+article, one new versioned image, shared CSS, sitemap, one focused test, one
+implementation-review record, two learning logs, priority-page status, and
+four operator mirrors. No generator source, other page or asset, workflow,
+snapshot, indexing request, external account, product, affiliate, tracker,
+tested status, or parent/child evidence may change.
+
+Evidence: completed review-clean `KAL-LEARN-001`; validated September 3 and
+September 4 public-safe GSC snapshots; existing P1/P2 source-traced persona
+hypotheses; current ramp HTML, sources, and image; and desktop/mobile task
+observations. The latest search movement is observation context only. Complete
+queries and all parent/child outcomes remain `UNKNOWN`.
+
+Implementation gate: a compact materials/steps/adult-role/stop section must
+precede the dominant image and start within the first viewport at 1280x900 and
+390x844. The replacement visual must clearly show exactly two broad closed
+books supporting a low floor-level ramp and carry an explicit illustrative,
+not-family-test caption. The existing title, canonical, H1, ownership, source
+links, one-change test, troubleshooting, free play, cleanup, FAQ, and related
+routes must remain intact.
+
+Review gate: after complete native and responsive QA, a different independent
+read-only reviewer must inspect all thirteen paths, every changed and preserved
+page section, both source-traced persona tasks, visual crop and evidence label,
+claim boundaries, generated-output isolation, and production invariants. Only
+`PASS` or `PASS_WITH_P3` may proceed.
+
+Implementation evidence: the local candidate places a three-step start before
+the visual, names the exact materials, adult role, and stop condition, and
+surfaces the younger-child reach constraint in the setup boundary. The new
+versioned PNG is 1672x941, visibly shows exactly two broad closed books beneath
+a low floor ramp, and is captioned as AI-generated, illustrative, and not a Kid
+Activity Lab family-test photo. The current URL, title, canonical, H1, source links, one-
+change test, troubleshooting, free play, cleanup, FAQ, and related routes are
+preserved.
+
+Pre-review QA: all three generators completed; final-state before/after hashes
+of every file under `site/` both equal
+`34bb7d9b429844608ea4bcc16872cbefb55cf9769f8271cea628752ccd6e5680`.
+Before/after `git status --porcelain=v1 -z` hashes both equal
+`44a3aed35a3bc9f929aa0919e5eaf8c1ad334258ed7449fce3f3a285e7d9375f`,
+so no path entered or left scope. `git diff --check`, roadmap JSON, article
+JSON-LD, sitemap XML, the 65-
+page link/fragment check, six focused tests, and all 41 repository tests pass.
+The image is an RGB PNG with SHA-256
+`c9571eb6bfbd0fef11fccb8ccbc3beebd6a0e8fa9f9203ad7805dfdd153ee4b5`.
+Responsive browser QA at 1280x900 and 390x844 shows the start heading at
+y=421.71 and y=514.05 respectively, before the image and within each first
+viewport. Both layouts have no document-level width overflow; the caption and
+two-book support are visible; all links are native href anchors without a
+negative tab order; and no console warning or error is recorded.
+
+Post-change proxy score: 23 of 24 across twelve relevant dimensions, with
+sensory/accessibility marked N/A because the selected evidence did not support
+that constraint. The one retained point is duration clarity: no honest timing
+range is measured. Parent comprehension, child response, engagement, learning,
+repeatability, mess, timing, safety outcomes, and search causality remain
+`UNKNOWN`.
+
+Cycle one: Parfit (response label Sagan;
+`01a06d6c-d04a-7083-b6fa-7a41157de9ae`) confirmed read-only status and
+returned `FAIL`. There were no P0 or P1 findings. One P2 found that the recorded
+interim tracked-diff hash could not be reproduced after later documentation
+updates, so it did not prove final-state generator idempotence. Two P3s asked
+for explicit AI-generation disclosure and exact assertions for the four
+related routes.
+
+Correction: reran all three generators around a complete, reproducible
+whole-`site/` manifest and a changed-path manifest. Both before/after pairs
+match at the hashes above. The caption now explicitly says AI-generated, and
+the focused test asserts all four preserved related href values. Cycle-two
+rereview then inspected the complete corrected diff; no release has occurred.
+
+Cycle two: the same reviewer independently inspected the complete corrected
+thirteen-path diff from the frozen base and reconfirmed strict read-only status.
+Result: `PASS_WITH_P3`. No P0, P1, or P2 findings remain. The reviewer
+reproduced the current whole-site and status hashes, verified the exact scope,
+actual two-book PNG, responsive crops and positions, AI-generation caption,
+23-of-24 score, every-section coverage, claim boundaries, metadata and route
+preservation, sitemap uniqueness, parsers, links/fragments, and all 41 tests.
+
+The one retained P3 is wording-only: an earlier pre-review paragraph in
+`ops/current-cycle.md` still mentions the superseded interim tracked-diff hash
+before a later paragraph explains that cycle one rejected it and records the
+final whole-site/status manifest proof. It does not weaken the reproducible QA
+or block release.
+
+Final result: `PASS_WITH_P3`. All release gates except commit, push, exact-SHA
+Pages success, and production verification are satisfied.
+
 ## 2026-09-04 Ramp First-Start Learning Review
 
 Action: `KAL-LEARN-001`

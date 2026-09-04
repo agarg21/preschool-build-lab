@@ -85,3 +85,61 @@ hero visual with the low floor-level instructions and expose a compact runnable
 answer before that visual. Do not rewrite for CTR, create a new page, request
 indexing, or infer query intent from the page row. Parent and child outcomes
 remain `UNKNOWN`.
+
+## 2026-09-04 - Cardboard Ramp First-Start Recheck
+
+**Action:** `KAL-IMP-006`
+
+**Surface:** Review-clean local implementation for the existing cardboard-ramp
+URL; production release is pending.
+
+**Evidence basis:** The completed `KAL-LEARN-001` task and its source-traced P1
+and P2 research hypotheses, September 3 and 4 finalized public-safe GSC
+snapshots, the local implementation, its generated illustrative visual, and
+responsive DOM observations collected on September 4. This is a proxy review,
+not user testing.
+
+**Decision and constraints:** Start one no-cut indoor toy-car activity for a
+preschooler with a younger child able to reach the setup. Use household
+materials on the floor, avoid cutting/glue, and make the runnable default clear
+before the visual.
+
+**Required outputs:** Exact materials, three immediate steps, adult role, stop
+conditions, cleanup, younger-child adaptation, optional one-change extension,
+and a visual that agrees with the low-support instruction.
+
+**Observable success:** The start heading is in the first viewport at 1280x900
+and 390x844; the complete/cropped image follows the start and visibly uses two
+broad closed books; all required outputs and routes remain; no unsupported
+outcome is introduced.
+
+### Recheck Score
+
+| Dimension | Score | Evidence |
+| --- | ---: | --- |
+| Task answerability | 2 | Exact materials, three steps, adult role, and stop appear before the image. |
+| Age and ability adaptation | 2 | Preschool framing remains, and the younger-child reach condition now appears in the early setup boundary. |
+| Materials and substitutions | 2 | The first start and full list agree on cardboard, two broad closed books, cars, and optional tape. |
+| Setup, duration, and cleanup clarity | 1 | Setup and cleanup are direct; no measured duration is available. |
+| Adult involvement and supervision | 2 | Setup, stability check, direct supervision, holding, and stop boundaries are explicit. |
+| Indoor, outdoor, weather, and space fit | 2 | Floor placement, stair/furniture exclusion, landing lane, and rug fallback are direct. |
+| Mixed-age or difficulty adaptation | 2 | The early boundary covers every child present; the FAQ retains lower support and mouthing stop guidance. |
+| Sensory and accessibility considerations | N/A | The selected evidence did not establish this constraint, so no result is inferred. |
+| Educational purpose | 2 | The optional one-change comparison is retained without promising a learning outcome. |
+| Safety and trust boundaries | 2 | Text and two-book visual align; the caption says AI-generated, illustrative, and not family-tested; no universal assurance is made. |
+| Mobile readability and interaction | 2 | At 390x844 the H2 starts at y=514.05, no document overflow occurs, and native links retain normal tab eligibility. |
+| Detours, repetition, and buried answers | 2 | The runnable default now precedes the dominant image; deeper detail follows without duplicate instructions. |
+| Decision without another broad search | 2 | The complete activity-running task, troubleshooting, cleanup, and extension remain on one URL. |
+
+**Total:** 23 of 24 across 12 relevant dimensions.
+
+**Automatic-failure check:** No local automatic failure observed. Critical
+instructions are present, trust-sensitive claims remain qualified, and the
+core task is completable. Independent review remains mandatory.
+
+### Recheck Decision
+
+`PRESERVE` the bounded local candidate. Independent review returned
+`PASS_WITH_P3` with no P0-P2. Do not invent a duration to obtain a perfect
+score. Parent and child comprehension, enjoyment, engagement, learning,
+repeatability, mess, safety outcomes, and search effect remain `UNKNOWN`.

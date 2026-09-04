@@ -127,10 +127,25 @@ h1 {
   border: 1px solid var(--line);
 }
 
+.hero-image figcaption {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
 .content {
   max-width: var(--content);
   margin: 0 auto;
   padding: 26px 20px 64px;
+}
+
+.ramp-first-start {
+  padding-bottom: 0;
+}
+
+.ramp-first-start .quick-card {
+  margin-bottom: 0;
 }
 
 .content h2 {

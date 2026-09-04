@@ -8,11 +8,10 @@ automation.
 
 ## Current sequence
 
-1. Use completed, review-clean `KAL-LEARN-001` as the evidence gate for one
-   `KAL-IMP-006` candidate for future separate registration: align
-   the cardboard-ramp hero visual with the low floor-level instructions and
-   expose the compact start-now answer before the dominant image. Do not turn
-   this into a CTR rewrite or a new page.
+1. Complete registered `KAL-IMP-006`: align the cardboard-ramp hero visual
+   with the low floor-level instructions and expose one compact start-now
+   answer before the dominant image. Preserve the title, canonical, page
+   ownership, research boundaries, and all existing supporting task routes.
 2. Observe released `KAL-IMP-005` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, canonical selection,
    ranking causality, or family outcomes, and do not request indexing.
@@ -50,6 +49,80 @@ automation.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-IMP-006 Registered On 2026-09-04
+
+- Frozen clean aligned base:
+  `f974aacc11e4902c87bd6bdd534ee37e746e8137`, including the disjoint September
+  4 automated GSC snapshot.
+- Exact thirteen-path scope: the manual ramp article; one new versioned PNG;
+  shared CSS; sitemap; one focused test; one implementation-review record; the
+  two learning logs; priority-page status; and four operator mirrors.
+- The September 4 snapshot is finalized through September 2: 230 property
+  impressions, one click, average position 18.09, 61 discovered pages, and 10
+  of 10 priority URLs indexed. The ramp page has one click, 158 impressions,
+  page-average position 13.33, and the unchanged August 18 crawl. Complete
+  query rows remain unavailable. This is observation context, not a CTR or
+  causality justification.
+- User failure: a start-now caregiver must scroll past the dominant image on
+  desktop, while that image shows six books despite the repeated short, low,
+  stable support instruction. The source-traced younger-sibling task scored 17
+  of 24 under `KAL-LEARN-001` and received independent review `PASS`.
+- Falsifiable hypothesis: putting a shorter runnable start before the visual
+  and replacing it with a labeled two-book floor setup will show the start
+  heading inside the first viewport at 1280x900 and 390x844 and remove the
+  visual-text contradiction.
+- Preserve the current URL, title, canonical, H1, page ownership, source links,
+  one-change test, troubleshooting, free-play route, cleanup, FAQ, and related
+  links. Surface only the selected younger-child setup boundary; do not add
+  generic prose.
+- The visual must be project-local, show exactly two broad closed books and a
+  low floor ramp, and be labeled as AI-generated and illustrative rather than
+  a Kid Activity Lab family-test photo. Parent and child outcomes remain
+  `UNKNOWN`.
+- No new page, query/CTR rewrite, indexing request, external account, product,
+  affiliate, tracking, tested status, observation, or universal safety or
+  developmental claim is authorized.
+- Release gates: all three generators with idempotence and output-scope proof;
+  full links/fragments, HTML/JSON-LD/XML/image/source/claim checks; focused and
+  full tests; responsive task, keyboard, crop, overflow, console, and request
+  QA; exact paths; and a different independent read-only reviewer returning
+  `PASS` or `PASS_WITH_P3`.
+- Local implementation is complete and review-pending. A three-step start now
+  precedes the visual, names cardboard, exactly two broad closed books, cars,
+  the adult role, and stop condition, while the early setup boundary now covers
+  a younger child who can reach it. The versioned 1672x941 PNG depicts exactly
+  two broad closed books and carries the required AI-generated, illustrative,
+  not-family-test caption. Existing ownership, deeper task, sources, and
+  routes remain intact.
+- Final generator proof hashed every file under `site/` before and after all
+  three commands with `find site -type f -print0 | sort -z | xargs -0 shasum
+  -a 256 | shasum -a 256`; both manifests equal
+  `34bb7d9b429844608ea4bcc16872cbefb55cf9769f8271cea628752ccd6e5680`.
+  The before/after `git status --porcelain=v1 -z` hashes also match at
+  `44a3aed35a3bc9f929aa0919e5eaf8c1ad334258ed7449fce3f3a285e7d9375f`,
+  proving no path entered or left scope. All 41 tests pass, including exact
+  assertions for all four related routes; 65 HTML files have zero missing
+  links and fragments; JSON-LD and XML parse; roadmap JSON and
+  `git diff --check` pass.
+- Responsive QA passes. At 1280x900 the new heading begins at y=421.71 and
+  the image begins at y=765.33; at 390x844 the heading begins at y=514.05 and
+  the image begins at y=1100.74. Both headings are in the first viewport,
+  both pages have no document-level width overflow, the image loads at natural
+  1672x941, the caption is visible, all 12 links remain native anchors without
+  negative tab order, and no browser warning or error was recorded.
+- Release remains blocked on a different independent read-only review of the
+  complete thirteen-path diff. Search and family-use effects remain unknown.
+- Review cycle one by Parfit (response label Sagan;
+  `01a06d6c-d04a-7083-b6fa-7a41157de9ae`) returned `FAIL` with one P2: an
+  interim tracked-diff hash had been recorded before the final documentation
+  update and was not reproducible from the reviewed tree. Two P3s recommended
+  explicit AI-generation disclosure and exact related-route test assertions.
+  The final-state whole-site and path manifests above close the P2, and both
+  P3 improvements are applied. Cycle two returned `PASS_WITH_P3` with no
+  P0-P2. The one retained P3 notes that an older current-cycle sentence still
+  foregrounds the superseded interim hash before the later paragraph explains
+  the final manifest proof. This wording-only ambiguity does not block release.
 
 ## KAL-LEARN-001 Registered On 2026-09-04
 

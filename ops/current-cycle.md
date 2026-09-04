@@ -18,6 +18,60 @@ and release verification.
 
 ## Active Priority
 
+`KAL-IMP-006` is registered from clean aligned base
+`f974aacc11e4902c87bd6bdd534ee37e746e8137` as the second September 4 pilot
+transaction. It applies the review-clean `KAL-LEARN-001` finding to the one
+existing cardboard-ramp URL: put a compact runnable start before the dominant
+visual, replace the contradictory six-book image with a labeled two-book floor
+setup, and surface the selected younger-child reach boundary. The exact
+thirteen-path scope is frozen in `ops/seo-roadmap.json`. Implementation and
+two independent read-only review cycles are complete; the result is
+`PASS_WITH_P3` with no P0-P2, and release gates are open.
+
+The September 4 public-safe snapshot is finalized through September 2. The
+rolling property window has 230 impressions, one click, average position
+18.09, 61 discovered pages, and 10 of 10 priority URLs indexed. The ramp guide
+has one click, 158 impressions at page-average position 13.33, and the
+unchanged August 18 crawl. Complete query rows remain unavailable. This small,
+healthy movement does not support a title, snippet, query-intent, or causality
+change and does not alter the persona-task implementation.
+
+Preserve the existing URL, title, canonical, H1, page ownership, source links,
+one-change test, troubleshooting, free play, cleanup, FAQ, and related routes.
+The generated visual is illustrative and cannot be treated as a family-test
+photo. No new page, indexing request, external account, product, affiliate,
+tracker, tested status, family evidence, or universal safety or developmental
+claim is authorized. Native and responsive QA plus a different independent
+read-only persona/every-section review are release gates.
+
+The local candidate now puts a three-step materials/adult-role/stop answer
+before the image, uses a versioned 1672x941 visual showing exactly two broad
+closed books under a low floor ramp, labels it AI-generated, illustrative, and
+not a family-test photo, and moves the younger-child reach constraint into the
+setup boundary. The post-change proxy task scores 23 of 24; duration remains
+`UNKNOWN`, and no family outcome is inferred.
+
+All three generators completed with no undeclared generated output, and a
+second run retained an identical tracked binary-diff hash. All 41 tests pass;
+all 65 HTML files have zero missing links and fragments; JSON-LD and sitemap
+XML parse; and `git diff --check` plus roadmap JSON parsing pass. The start
+heading moved from y=1025 to y=421.71 at 1280x900 and from y=674 to y=514.05
+at 390x844. Both widths have no document-level overflow, the image loads at
+its natural dimensions, and the browser records no warning or error.
+
+Independent reviewer Parfit (response label Sagan;
+`01a06d6c-d04a-7083-b6fa-7a41157de9ae`) returned cycle-one `FAIL` for one P2:
+the interim tracked-diff hash predated final documentation changes and could
+not be reproduced from the reviewed tree. Final-state generator QA now hashes
+the complete `site/` tree before and after all three generators; both equal
+`34bb7d9b429844608ea4bcc16872cbefb55cf9769f8271cea628752ccd6e5680`.
+The before/after changed-path manifests also match. The two P3 suggestions are
+applied: the caption explicitly says AI-generated, and the focused test asserts
+all four related routes. Cycle two returned `PASS_WITH_P3` with no P0-P2. The
+remaining P3 is a nonblocking wording ambiguity in this record: the earlier
+pre-review paragraph mentions the rejected interim hash before this correction
+documents the final whole-site method.
+
 `KAL-LEARN-001` is completed and review-clean from clean aligned base
 `35fe675dc68d0854f3d3164af8def13f95ae189e` as the first daily learning
 transaction in the two-month pilot. Its exact seven-path scope is the new
@@ -465,10 +519,9 @@ product-review access still require direct user authority.
 
 ## Next Transaction
 
-After `KAL-LEARN-001` is review-clean, its one next candidate is
-`KAL-IMP-006`, which would require future separate registration before any
-edit: align the cardboard-ramp hero visual with the low floor-level
-instructions and expose the compact runnable answer before the dominant image.
-Do not broaden it into a CTR rewrite, new page, generic content expansion,
-product, affiliate, indexing request, or family-outcome claim. If the learning
-review does not pass, preserve the page and resolve the evidence defect instead.
+Commit and push the exact review-clean `KAL-IMP-006` thirteen-path diff, monitor
+its exact-SHA Pages run, and verify the production article, image, metadata,
+layout, links, and evidence boundary. Then protect the first-start structure
+for 14 days except verified P0-P2 regressions. Do not start another page, CTR
+rewrite, indexing request, product, affiliate, or family-outcome action from
+this evidence.
