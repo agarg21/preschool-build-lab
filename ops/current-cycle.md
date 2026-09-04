@@ -52,8 +52,8 @@ gaps and one P3 comparison ambiguity in cycle one. The correction added the
 global header/footer audit rows, kept the action review-pending until closure,
 made `KAL-IMP-006` only a candidate for future separate registration, and used
 neutral rolling-window wording. Cycle two returned `PASS` with no P0-P3
-findings. The exact seven-path documentation transaction is ready for a
-push-only release; no Pages deployment applies.
+findings. The exact seven-path documentation transaction was released push-only
+in `a6e72847526cb2f2824a78a7338ffd4510d85917`; no Pages deployment applied.
 
 Kid Activity Lab's core promise is now to help a parent find something
 interesting that fits the child and the moment, then make it easy to start.

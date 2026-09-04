@@ -93,8 +93,9 @@ automation.
   registration candidate, added header/navigation and footer audit rows, and
   used neutral position-comparison wording. Cycle two returned `PASS` with no
   P0-P3 findings and reconfirmed strict read-only status.
-- State: completed and review-clean for a push-only documentation release. No
-  Pages deployment applies.
+- Released push-only in
+  `a6e72847526cb2f2824a78a7338ffd4510d85917` on 2026-09-04. No Pages
+  deployment applied.
 
 ## KAL-OPS-005 Registered On 2026-08-06
 

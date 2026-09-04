@@ -22,7 +22,8 @@ evidence.
 
 Action: `KAL-LEARN-001`
 
-State: review-clean; push-only documentation release pending
+State: released push-only in
+`a6e72847526cb2f2824a78a7338ffd4510d85917`
 
 Frozen base: `35fe675dc68d0854f3d3164af8def13f95ae189e`
 
@@ -73,6 +74,10 @@ comparison, 17-of-24 score, browser evidence, `UNKNOWN` boundaries, zero
 scope, valid roadmap JSON, all 48 snapshot validations, Markdown table and
 whitespace checks, `git diff --check`, and all 35 tests pass. The corrected
 documentation transaction is release eligible.
+
+The reviewed seven-path transaction was released push-only in
+`a6e72847526cb2f2824a78a7338ffd4510d85917`. No site or Pages-workflow path
+changed, so no deployment was applicable.
 
 ## 2026-08-06 Repository Page Status
 

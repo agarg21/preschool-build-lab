@@ -1584,7 +1584,9 @@
         "agent_id": "01a06bb4-12f2-7d43-a4bb-1c0d4a75f321",
         "read_only": true
       },
-      "release_state": "review-clean-push-pending",
+      "release_state": "released-push-only",
+      "release_commit": "a6e72847526cb2f2824a78a7338ffd4510d85917",
+      "released_on": "2026-09-04",
       "next_eligible_action": "KAL-IMP-006-candidate-for-future-separate-registration",
       "notes": "First daily transaction under the two-month manual learning pilot. Documentation and strategy synthesis only; any page correction requires a separate registered action."
     }
