@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "owner": "Kid Activity Lab Operator",
-  "last_rescored_on": "2026-08-01",
-  "next_rescore_due": "2026-08-08",
+  "last_rescored_on": "2026-09-04",
+  "next_rescore_due": "2026-09-11",
   "planning_horizon_days": 28,
   "items": [
     {
@@ -242,7 +242,7 @@
       "target_urls": [],
       "target_paths": ["ops/gsc-snapshots/", "ops/gsc-indexing-review-2026-07-18.md", "seo/", "ops/current-cycle.md"],
       "success_signal": "A changed read-only snapshot identifies which existing page and query, if any, deserves the next bounded improvement.",
-      "notes": "Rescored 2026-07-27: the newest durable GSC snapshot collected 2026-07-26 shows 54 impressions, 0 clicks, average position 28.28, 61 discovered pages, and 7 of 7 priority URLs indexed. The cardboard ramp article remains the strongest visible page at 16 impressions and was recrawled 2026-07-25, but public-safe snapshots omit complete query rows and the latest completed dispatch returned a no-op. Keep using changed GSC snapshots as monitoring evidence; do not create pages, request indexing, or select implementation from page rows alone."
+      "notes": "Rescored 2026-09-04: the newest durable GSC snapshot collected 2026-09-03 is finalized through 2026-09-01 and shows 228 impressions, 1 click, average position 18.75, 61 discovered pages, and 10 of 10 priority URLs indexed. The cardboard ramp article has the first click, 157 impressions, page-average position 13.41, and a post-release 2026-08-18 crawl. Complete query rows remain unavailable, so this is observation context rather than a CTR, query-intent, causality, or family-use conclusion. KAL-LEARN-001 separately evaluates the page's task utility."
     },
     {
       "id": "KAL-IDX-001",
@@ -1502,7 +1502,7 @@
         "pass JSON parsing, internal status-reference checks, exact-path scope, and git diff --check",
         "independent read-only review returns PASS or PASS_WITH_P3"
       ],
-      "implementation_state": "review-clean",
+      "implementation_state": "released-push-only",
       "qa_summary": "All cited repository references and 17 production URLs resolve to current files. August 5/6 aggregate, page, crawl, and inspection values reconcile to snapshot JSON; five release commits and Pages runs reconcile to the roadmap; seven demand rows reconcile to dated CSV evidence; absent building and indoor rows remain UNKNOWN. Roadmap JSON, Markdown table shape, exact seven-path scope, tracked and untracked whitespace, git diff --check, and all 35 repository tests pass.",
       "review_cycles": 2,
       "review_outcome": "PASS",
@@ -1511,10 +1511,82 @@
         "agent_id": "019fd7c9-5e35-7800-be6f-79d66ddd8b7b",
         "read_only": true
       },
-      "release_state": "push-only",
+      "release_state": "released-push-only",
+      "release_commit": "8f5ea84f0857ff8230aa2402cdcf55c70e10fdfd",
+      "released_on": "2026-08-06",
       "result": "Added a Family Tripwise-style status convention and one linked priority-page record covering current site health, thirteen acquisition routes, three supporting surfaces, dated demand limits, page-level GSC signals, review and release coverage, blockers, and next actions. Daily snapshots remain separate from durable page decisions. Independent review found one cycle-one P2 provenance error in the preschool STEM row; removing the unsupported KAL-RES-007 citation closed it, and cycle two returned PASS with no P0-P3 findings. No public page, search evidence, indexability, external state, tested status, or family outcome changed.",
       "next_eligible_action": "roadmap-rescore-on-or-after-2026-08-08-or-when-material-evidence-changes",
       "notes": "Direct manual documentation transaction from clean aligned base 7d15c45 after fast-forwarding two mechanical GSC snapshot commits. Exact seven-path scope. No public site or deployment path is in scope."
+    },
+    {
+      "id": "KAL-LEARN-001",
+      "title": "Evaluate the cardboard-ramp first-start and mixed-age task",
+      "kind": "product-learning",
+      "lane": "existing-page-utility",
+      "impact": 4,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 2,
+      "risk": 1,
+      "status": "completed",
+      "selected_on": "2026-09-04",
+      "completed_on": "2026-09-04",
+      "frozen_base": "35fe675dc68d0854f3d3164af8def13f95ae189e",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "validated_2026-09-03_GSC_snapshot",
+        "prior_2026-09-02_GSC_snapshot",
+        "current_ramp_page_and_sources",
+        "desktop_and_mobile_task_evaluation",
+        "existing_source_traced_persona_hypotheses"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html"
+      ],
+      "target_paths": [
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "A source-traced caregiver task is evaluated against the live ramp guide on desktop and mobile, the evidence and score are durable, and the transaction produces one supported preserve, improve, research, or rejected-hypothesis decision without changing the public page.",
+      "baseline": "The September 3 public-safe snapshot reports the site's first click and 157 ramp-page impressions at page-average position 13.41, with a post-release August 18 crawl and 10 of 10 priority URLs indexed. Complete query rows remain unavailable. The repository has detailed action reviews but no cumulative product-learning ledger or persona-task log.",
+      "hypothesis": "A caregiver who needs a no-cut indoor toy-car activity while a younger sibling may reach the setup can identify the materials, safe setup boundary, immediate steps, adult role, stop conditions, cleanup, and one-change extension from the current guide without another broad search, and the dominant visual will reinforce rather than contradict those instructions.",
+      "expected_effect": "Create a reusable learning record and identify whether the current ramp workflow should be preserved or produce one bounded candidate for future separate registration. This transaction has no production or search-performance effect.",
+      "evidence_classification": "The September 2 and September 3 public-safe GSC aggregate, page, crawl, and inspection rows are MEASURED. Rendered element positions, overflow, metadata, and visible page wording are MEASURED browser observations. Existing source documents are SOURCE_BACKED within their stated limits. The caregiver task is a RESEARCH_HYPOTHESIS derived from prior source-traced parent-job research, and its scoring and recommendation are EDITORIAL_JUDGMENT. Complete query intent, parent comprehension, child response, duration, enjoyment, learning, repeatability, and safety outcomes remain UNKNOWN.",
+      "human_gate": "Not required for a read-only persona-task evaluation and documentation update. No parent or child participation is claimed. Any future tested-status, outcome, safety-performance, product-review, outreach, external-account, or indexing action remains prohibited without separate authority and evidence.",
+      "observation_window": "No search observation window applies to this documentation-only transaction. Preserve the current live page until a separately registered implementation action passes review; use future GSC only as observational context, not proof of causality or family usefulness.",
+      "acceptance_criteria": [
+        "record one concrete caregiver decision, constraints, required outputs, secondary stress constraint, and observable success or failure",
+        "score each relevant persona-review dimension from zero to two and mark irrelevant dimensions explicitly rather than inventing evidence",
+        "reconcile September 3 with September 2 aggregate, ramp-page, crawl, and priority-inspection evidence without inferring complete query intent",
+        "create the smallest reusable product-learning ledger and persona-review log because no suitable cumulative records exist",
+        "select at most one follow-up candidate for future separate registration and do not edit the public page in this transaction",
+        "keep all parent and child outcomes UNKNOWN and make no universal safety, developmental, or tested-use claim",
+        "change only the seven registered paths",
+        "pass JSON and Markdown checks, evidence reconciliation, exact-path scope, git diff --check, repository tests, and independent read-only review"
+      ],
+      "measurement_plan": "For this learning transaction, verify durable traceability, task completeness, evidence labels, and review closure. If a later implementation is selected, compare first-start placement and visual-text consistency at 1280x900 and 390x844; observe subsequent crawl and GSC page/query evidence without assigning causality.",
+      "production_invariants": "No site, generator, sitemap, workflow, snapshot, indexability, indexing request, external account, product, affiliate, tested-status, or parent/child evidence path changes. Current production bytes and behavior remain unchanged.",
+      "reconsider_conditions": "Reconsider the proposed follow-up if the image provenance or page structure contradicts the recorded browser evidence, a reviewer finds the persona unsupported or the visual issue immaterial, or a newer finalized query-level signal identifies a more specific user failure.",
+      "implementation_state": "review-clean",
+      "decision": "IMPROVE. Preserve the live page in this learning transaction. Retain one KAL-IMP-006 candidate for future separate registration to align the dominant image with the low floor-level instructions and expose the compact runnable answer before the image. Do not create a page, rewrite for CTR, request indexing, or infer family outcomes.",
+      "result": "Created the smallest reusable product-learning ledger and persona-task log, reconciled the September 2 and September 3 finalized public-safe GSC evidence, and evaluated the live ramp guide at 1280x900 and 390x844. The task scored 17 of 24 across 12 relevant dimensions with one appropriate N/A. Materials, steps, adult role, stops, cleanup, troubleshooting, younger-child guidance, and one-change testing are present, but the dominant 1672x941 image shows a six-book support while its alt and instructions require a short, low, stable stack; the desktop quick answer begins below the first viewport. No production page or external state changed.",
+      "qa_summary": "Public preflight passed. All 48 public-safe snapshot JSON files validate for read-only collection and private-field omissions; September 2/3 aggregate, ramp-page, crawl, and 10-of-10 inspection values reconcile. Roadmap JSON, six Markdown evidence/reference checks, Markdown table shape, the 17-of-24 score, exact seven-path scope, prohibited-path checks, git diff --check, and all 35 repository tests pass. Desktop and mobile browser evidence shows correct title/canonical/H1, loaded 1672x941 image, no width overflow, no console error, desktop quick-answer y=1025, and mobile card y=674..1357.",
+      "review_cycles": 2,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Lovelace",
+        "agent_id": "01a06bb4-12f2-7d43-a4bb-1c0d4a75f321",
+        "read_only": true
+      },
+      "release_state": "review-clean-push-pending",
+      "next_eligible_action": "KAL-IMP-006-candidate-for-future-separate-registration",
+      "notes": "First daily transaction under the two-month manual learning pilot. Documentation and strategy synthesis only; any page correction requires a separate registered action."
     }
   ]
 }

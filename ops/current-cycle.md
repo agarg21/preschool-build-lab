@@ -18,6 +18,43 @@ and release verification.
 
 ## Active Priority
 
+`KAL-LEARN-001` is completed and review-clean from clean aligned base
+`35fe675dc68d0854f3d3164af8def13f95ae189e` as the first daily learning
+transaction in the two-month pilot. Its exact seven-path scope is the new
+product-learning ledger, the new persona-review log, the priority-page status,
+and the four operator mirrors. It changes no public page, generator, sitemap,
+workflow, snapshot, indexing state, external account, product, tested status,
+or parent/child evidence.
+
+The newest public-safe GSC snapshot was collected September 3 with finalized
+data through September 1. The site now has 228 rolling-window impressions, one
+click, average position 18.75, 61 discovered pages, and 10 of 10 priority URLs
+indexed. The ramp guide has the first click, 157 impressions at page-average
+position 13.41, and an August 18 post-release crawl. Complete query rows remain
+unavailable, so this is discovery context rather than a CTR diagnosis, query-
+intent claim, release-causality claim, or family-use result.
+
+Today's source-traced persona task asks whether a caregiver can start a no-cut
+indoor toy-car activity while a younger sibling may reach the setup. Desktop
+and mobile evaluation found the task answerable and free of overflow or console
+errors, but the dominant image shows a six-book stack while the alt text and
+instructions require a short, low, stable stack. On desktop the runnable quick
+answer begins below the first 900px viewport. The result is `IMPROVE`: preserve
+production in this transaction and retain only one
+visual-and-first-start candidate for future separate registration after
+review.
+
+Public preflight, all 48 snapshot validations, evidence reconciliation, JSON
+and Markdown checks, exact seven-path scope, `git diff --check`, and all 35
+repository tests pass. Independent read-only reviewer Lovelace
+(`01a06bb4-12f2-7d43-a4bb-1c0d4a75f321`) found two P2 record-coverage/state
+gaps and one P3 comparison ambiguity in cycle one. The correction added the
+global header/footer audit rows, kept the action review-pending until closure,
+made `KAL-IMP-006` only a candidate for future separate registration, and used
+neutral rolling-window wording. Cycle two returned `PASS` with no P0-P3
+findings. The exact seven-path documentation transaction is ready for a
+push-only release; no Pages deployment applies.
+
 Kid Activity Lab's core promise is now to help a parent find something
 interesting that fits the child and the moment, then make it easy to start.
 At-home, free, low-prep, screen-free, and age-specific are constraints and
@@ -33,7 +70,7 @@ it could be ambiguous, preserve outcome fields as `UNKNOWN`, and pass native QA
 plus independent persona/every-section review. Product reviews and tested
 status remain blocked without actual firsthand evidence.
 
-`KAL-OPS-005` is completed and review-clean from clean aligned base
+`KAL-OPS-005` is completed and released from clean aligned base
 `7d15c45919f2d671909be8d6585b64a7ef49a9fd`. It adapts Family Tripwise's
 durable repository status pattern to Kid Activity Lab through
 `status/README.md` and `status/priority-pages.md`, linked from the root README.
@@ -47,8 +84,8 @@ pass. Independent reviewer Hypatia
 (`019fd7c9-5e35-7800-be6f-79d66ddd8b7b`) found one cycle-one P2 provenance
 error in the preschool STEM review citation. Removing the unsupported
 `KAL-RES-007` citation closed it, and cycle two returned `PASS` with no P0-P3
-findings. The exact seven-path transaction is ready for a push-only
-documentation release; no Pages deployment applies.
+findings. The exact seven-path transaction was released push-only in
+`8f5ea84f0857ff8230aa2402cdcf55c70e10fdfd`; no Pages deployment applied.
 
 `KAL-IMP-004` is released and production-verified from clean aligned
 base `f11d53777aa1d051dfc5e40c088ab790077aebd7`. Its exact twelve-path scope
@@ -100,14 +137,14 @@ was released in commit `3790570`. Exact-SHA Pages run `30699530311` succeeded;
 the live chooser byte-matches the reviewed HTML, all six diagrams return 200,
 and desktop/mobile production invariants pass.
 
-The newest durable GSC snapshot was collected 2026-08-06 with finalized data
-through 2026-08-04. Impressions moved from 122 to 127, clicks remain 0, and
-average position moved from 34.27 to 33.16. The engineering page remains at 10
-impressions and page-average position 14.4; the cardboard ramp article moved
-from 40 impressions at 15.97 to 45 at 14.87. Sitemap discovery remains 61
-pages and priority indexing is 10 of 10. Complete query rows are unavailable,
-so this is healthy monitoring context and does not establish query ownership,
-release causality, or parent usefulness.
+The newest durable GSC snapshot was collected 2026-09-03 with finalized data
+through 2026-09-01. The rolling property window moved from 212 to 228
+impressions, retained one click, and moved from average position 18.91 to
+18.75. The cardboard ramp article moved from 144 impressions at page-average
+position 13.19 to 157 at 13.41 and retains the site's first click. Sitemap
+discovery remains 61 pages and priority indexing is 10 of 10. Complete query
+rows are unavailable, so this is observation context and does not establish
+query ownership, CTR diagnosis, release causality, or parent usefulness.
 
 `KAL-RES-008` is review-clean from clean aligned base
 `d6cdb4ee50c8f3110c8904ae691a6a55002b7ce1`. Its exact seven-path scope is a
@@ -428,7 +465,10 @@ product-review access still require direct user authority.
 
 ## Next Transaction
 
-Observe discovery and finalized public-safe GSC evidence for `KAL-IMP-002`.
-Do not immediately add an individual game, age, Snap, Slapjack,
-product, affiliate, or indexing action from this transaction. The next
-substantive action must come from changed evidence or the next roadmap rescore.
+After `KAL-LEARN-001` is review-clean, its one next candidate is
+`KAL-IMP-006`, which would require future separate registration before any
+edit: align the cardboard-ramp hero visual with the low floor-level
+instructions and expose the compact runnable answer before the dominant image.
+Do not broaden it into a CTR rewrite, new page, generic content expansion,
+product, affiliate, indexing request, or family-outcome claim. If the learning
+review does not pass, preserve the page and resolve the evidence defect instead.

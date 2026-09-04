@@ -8,42 +8,93 @@ automation.
 
 ## Current sequence
 
-1. Observe released `KAL-IMP-005` until a post-release crawl or changed
+1. Use completed, review-clean `KAL-LEARN-001` as the evidence gate for one
+   `KAL-IMP-006` candidate for future separate registration: align
+   the cardboard-ramp hero visual with the low floor-level instructions and
+   expose the compact start-now answer before the dominant image. Do not turn
+   this into a CTR rewrite or a new page.
+2. Observe released `KAL-IMP-005` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, canonical selection,
    ranking causality, or family outcomes, and do not request indexing.
-2. Observe released `KAL-IMP-004` until a post-release crawl or changed
+3. Observe released `KAL-IMP-004` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, ranking causality, or
    family outcomes, and do not request indexing.
-3. Observe released `KAL-IMP-003` until a post-release crawl or changed
+4. Observe released `KAL-IMP-003` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent or family outcomes from
    page-level movement, and do not request indexing.
-4. Observe the released `KAL-SEO-001` rank foundation for at least two
+5. Observe the released `KAL-SEO-001` rank foundation for at least two
    finalized snapshot comparisons and a refreshed sitemap read. Do not infer
    ranking causality, request indexing, or manufacture follow-on work from
    unchanged evidence.
-5. Observe the released `KAL-IMP-002` chooser for discovery and finalized
+6. Observe the released `KAL-IMP-002` chooser for discovery and finalized
    public-safe search evidence.
-6. Do not create individual game or age
+7. Do not create individual game or age
    pages, Snap, Slapjack, products, or affiliates from the same evidence.
-7. Observe `KAL-IMP-001` without attributing small page-row movement to the
+8. Observe `KAL-IMP-001` without attributing page-row movement or the first
+   click to the
    release.
-8. Keep comparing validated GSC snapshots, but do not infer complete query
+9. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
-9. Keep tested-status, parent/child outcomes, and product reviews evidence-
+10. Keep tested-status, parent/child outcomes, and product reviews evidence-
    gated; do not ask the user for unavailable family testing.
-10. Use the completed `KAL-RES-002` Semrush supplement as the current paid
+11. Use the completed `KAL-RES-002` Semrush supplement as the current paid
    metric layer. It reinforces existing-page ownership and promotes no
    implementation.
-11. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
+12. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
    an Activities umbrella with Games, Arts & Crafts, Science & Building, and
    Outdoor & Nature as concrete browse categories. Actual parent comprehension
    remains `UNKNOWN`. Age and moment constraints remain routes or filters;
    pretend/story/music remain activity types; local outings and product
    guidance remain separate systems.
-12. Use completed `KAL-RES-004` as the first adjacent validation of the Games
+13. Use completed `KAL-RES-004` as the first adjacent validation of the Games
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-LEARN-001 Registered On 2026-09-04
+
+- Frozen clean aligned base:
+  `35fe675dc68d0854f3d3164af8def13f95ae189e` after fast-forwarding the
+  disjoint daily GSC snapshot history.
+- Exact seven-path scope: `backlog/product-learning-ledger.md`,
+  `backlog/persona-review-log.md`, `status/priority-pages.md`, and the four
+  operator mirrors. No `site/**`, generator, sitemap, workflow, snapshot,
+  indexability, indexing request, external account, product, affiliate,
+  tested-status, or parent/child evidence path may change.
+- The September 3 snapshot is finalized through September 1: 228 property
+  impressions, one click, average position 18.75, 61 discovered pages, and 10
+  of 10 priority URLs indexed. The ramp guide has one click, 157 impressions,
+  page-average position 13.41, and an August 18 post-release crawl. Complete
+  query rows remain unavailable.
+- Persona task: start a no-cut indoor toy-car activity for a preschooler while
+  a younger sibling may reach the setup. Required outputs are materials,
+  immediate steps, adult role, stop conditions, cleanup, younger-child
+  adaptation, and one optional one-change extension.
+- Falsifiable hypothesis: the current page makes those outputs direct on
+  desktop and mobile, and its dominant visual reinforces the low, stable
+  support described by the instructions.
+- Browser evidence at 1280x900 and 390x844 shows no horizontal overflow or
+  console error. The task is answerable, but the 1672x941 hero image shows a
+  six-book stack while its alt and repeated instructions call for a short,
+  low, stable stack. The desktop quick-answer heading begins at y=1025; on
+  mobile the card runs from y=674 to y=1357.
+- Decision: `IMPROVE`. Preserve the live page in this learning
+  transaction. Retain at most one `KAL-IMP-006` candidate for future separate
+  registration to align the visual and put a compact first start before it.
+  No CTR rewrite, new page, indexing request, or family-outcome inference is
+  supported.
+- Native QA passed: public preflight, all 48 public-safe snapshot validations,
+  September 2/3 evidence reconciliation, JSON and Markdown checks, exact seven-
+  path scope, `git diff --check`, and all 35 repository tests.
+- Independent read-only reviewer Lovelace
+  (`01a06bb4-12f2-7d43-a4bb-1c0d4a75f321`) returned `FAIL` in cycle one for
+  two P2 lifecycle/every-section gaps and one P3 comparison ambiguity. The
+  correction kept the action review-pending, made `KAL-IMP-006` a future
+  registration candidate, added header/navigation and footer audit rows, and
+  used neutral position-comparison wording. Cycle two returned `PASS` with no
+  P0-P3 findings and reconfirmed strict read-only status.
+- State: completed and review-clean for a push-only documentation release. No
+  Pages deployment applies.
 
 ## KAL-OPS-005 Registered On 2026-08-06
 
@@ -79,8 +130,9 @@ automation.
   did not review that page. Removing the extra citation closed the finding.
   Cycle two returned `PASS` with no P0-P3 findings; read-only status was
   reconfirmed.
-- State: completed and review-clean for a push-only documentation release. No
-  Pages deployment is applicable.
+- Released push-only in
+  `8f5ea84f0857ff8230aa2402cdcf55c70e10fdfd` on 2026-08-06. No Pages
+  deployment was applicable.
 
 ## KAL-IMP-005 Released On 2026-08-05
 

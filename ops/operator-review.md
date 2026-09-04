@@ -18,11 +18,68 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-09-04 Ramp First-Start Learning Review
+
+Action: `KAL-LEARN-001`
+
+State: review-clean; push-only documentation release pending
+
+Frozen base: `35fe675dc68d0854f3d3164af8def13f95ae189e`
+
+Scope: exactly seven documentation and operator paths declared in
+`ops/seo-roadmap.json`: the product-learning ledger, persona-review log,
+priority-page status, and four operator mirrors. No site, generator, sitemap,
+workflow, GSC snapshot, indexability, indexing request, external account,
+product, affiliate, tested status, or parent/child evidence may change.
+
+Evidence: the September 2 and September 3 public-safe snapshots; existing P1
+start-now and P2 constraint-first hypotheses and their sources in the July 28
+age-four decision pack; current ramp HTML and sources; and live 1280x900 plus
+390x844 browser observations collected September 4. Complete GSC query rows
+and all parent/child outcomes remain `UNKNOWN`.
+
+Provisional result: `IMPROVE`. The complete task is answerable, but the
+dominant image depicts a six-book stack while its alt and the instructions
+describe a short, low, stable support. Desktop users reach the first runnable
+heading below the first viewport; mobile users see the card begin in the first
+viewport but most of it remains below. The learning transaction preserves the
+live page and retains at most one candidate for future separate registration to
+align the visual and first-start surface.
+
+Review gate: a different independent read-only reviewer must verify exact
+scope, GSC reconciliation, persona traceability, all scores, every-section
+coverage, browser evidence, claim boundaries, roadmap/status consistency, and
+QA. Only `PASS` or `PASS_WITH_P3` may proceed to a focused documentation
+commit.
+
+Cycle one: independent read-only reviewer Lovelace
+(`01a06bb4-12f2-7d43-a4bb-1c0d4a75f321`) returned `FAIL` with two P2 findings
+and one P3. The roadmap prematurely called the learning action completed and
+described the unregistered implementation candidate ambiguously. The persona
+audit also omitted the visible global header/navigation and footer. The
+rolling-window ramp comparison used “up from,” which could imply that
+page-average position improved from 13.19 to 13.41. The correction keeps the
+action review-pending, describes `KAL-IMP-006` only as a candidate for future
+separate registration, adds the two global-section rows, and uses neutral
+“versus” comparison wording. No public page or decision changed. The corrected
+diff proceeds to cycle two.
+
+Cycle two: Lovelace returned `PASS` with no P0-P3 findings and unambiguously
+reconfirmed strict read-only status. Both P2 findings and the P3 are closed.
+The reviewer verified the current seven-path diff, action lifecycle, future-
+registration wording, header/navigation and footer rows, neutral GSC position
+comparison, 17-of-24 score, browser evidence, `UNKNOWN` boundaries, zero
+`KAL-IMP-006` roadmap entries, and no site or external-state change. Exact
+scope, valid roadmap JSON, all 48 snapshot validations, Markdown table and
+whitespace checks, `git diff --check`, and all 35 tests pass. The corrected
+documentation transaction is release eligible.
+
 ## 2026-08-06 Repository Page Status
 
 Action: `KAL-OPS-005`
 
-State: implementation complete; independent review pending
+State: released push-only in
+`8f5ea84f0857ff8230aa2402cdcf55c70e10fdfd`
 
 Frozen base: `7d15c45919f2d671909be8d6585b64a7ef49a9fd`
 
@@ -65,7 +122,8 @@ record is accurate, all remaining `KAL-RES-007` references are appropriate to
 the building page, exact scope remains seven paths, JSON and Markdown
 references pass, table columns are consistent, tracked and untracked
 whitespace is clean, and no unrelated dirty work exists. Strict read-only
-status was reconfirmed. The documentation transaction is release eligible.
+status was reconfirmed. The documentation transaction was released push-only
+in `8f5ea84f0857ff8230aa2402cdcf55c70e10fdfd`; no Pages deployment applied.
 
 ## 2026-08-05 Preschool Indoor Consolidation Implementation
 
