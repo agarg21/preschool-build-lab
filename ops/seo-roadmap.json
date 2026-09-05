@@ -1672,6 +1672,81 @@
       "production_verification": "Exact-SHA Pages run 33901993003 succeeded for reviewed implementation commit 5d2c4d5edc2a85b6ce093afa3fa3b2dcffb2f387. Live article, 1672x941 PNG, CSS, and sitemap byte-match the commit at SHA-256 591f733e607c015ffc1570e1280dbd3886826225a01fc9c75e782b1cab7bb4be, c9571eb6bfbd0fef11fccb8ccbc3beebd6a0e8fa9f9203ad7805dfdd153ee4b5, 198ff7ad27eb818e14caaf9f54d7526eb75a245ac961a079c6e0c5cab678aa40, and 4a28e5bceedcf647ebb24b58e71db9f517c66c77e92868b968d104a784dd1a9b. Production has the intended title, canonical, one H1, start-before-image order, exact three-step/two-book setup, younger-child reach boundary, AI-generated/not-family-tested caption, unchanged four related routes, valid dateModified and sitemap lastmod, and loaded natural-size image. Browser checks at 1280x900 and 390x844 reproduce heading y=421.71 and y=514.05, document widths equal viewports, native links have no negative tabindex, and no console warning/error appears. No indexing request was made.",
       "next_eligible_action": "observe-until-2026-09-18-or-new-post-release-crawl-query-evidence-or-verified-P0-P2",
       "notes": "Second 2026-09-04 pilot transaction, applying the review-clean KAL-LEARN-001 result. Exact thirteen-path scope. Independent reviewer Parfit (response label Sagan) completed two strict read-only cycles and returned PASS_WITH_P3 with no P0-P2. The implementation is released and production-verified. Protect the first-start structure for 14 days except a verified P0-P2 production, accessibility, factual, or trust regression; observe later crawl and search evidence without assigning causality or family usefulness."
+    },
+    {
+      "id": "KAL-LEARN-002",
+      "title": "Evaluate the broad preschool STEM choice task",
+      "kind": "product-learning",
+      "lane": "existing-page-utility",
+      "impact": 4,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 2,
+      "risk": 1,
+      "status": "completed",
+      "selected_on": "2026-09-05",
+      "completed_on": "2026-09-05",
+      "frozen_base": "15f17e7d0164c6d3bf4980c391eaa0f0084435d1",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": false,
+      "required_evidence": [
+        "validated_2026-09-04_GSC_snapshot",
+        "prior_2026-09-03_GSC_snapshot",
+        "current_2026-09-05_public_question_sample",
+        "current_2026-09-05_live_query_family_sample",
+        "current_preschool_STEM_page_and_card_inventory",
+        "desktop_and_mobile_task_evaluation",
+        "existing_source_traced_broad_STEM_persona"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html"
+      ],
+      "target_paths": [
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "A source-dated broad-preschool-STEM planning task is evaluated against the live page on desktop and mobile, the current query-family and public-question evidence is bounded, and the transaction records one supported preserve, improve, research, or rejected-hypothesis decision without changing the public site.",
+      "baseline": "The September 4 public-safe GSC snapshot is finalized through September 2 and reports 230 property impressions, one click, average position 18.09, and 10 of 10 priority URLs indexed. The preschool STEM page is indexed with 8 impressions at page-average position 53.88 and an August 19 crawl, unchanged from September 3. Complete query rows remain unavailable. The retained August 4 Semrush estimate for `stem activities for preschoolers` is 1,300 US monthly searches and is directional rather than current demand proof. The current page offers eight activities but has no standalone current persona and every-section review.",
+      "hypothesis": "A caregiver comparing preschool science, engineering, and math choices can use the current broad STEM page to identify one fitting household-material activity in each lane, understand the setup and adult role, and start the selected activity without another broad search.",
+      "expected_effect": "Produce durable evidence about whether the existing broad STEM owner serves its planning job and identify at most one bounded existing-page candidate for a future separate implementation. This transaction has no production or search-performance effect.",
+      "evidence_classification": "September 3 and September 4 public-safe GSC aggregate, page, crawl, and inspection rows are MEASURED observation context. The August 4 Semrush volume is a dated TOOL_ESTIMATE. Current public questions and incomplete web result samples are qualitative RESEARCH_HYPOTHESIS evidence, not demand, ranking, or family-use proof. Rendered positions, overflow, links, and visible wording are MEASURED browser observations. The task score and recommendation are EDITORIAL_JUDGMENT. Complete query rows, exact current Google ranking order, parent comprehension, child response, engagement, learning, duration, mess, repeatability, and safety outcomes remain UNKNOWN.",
+      "human_gate": "Not required for a read-only public research, persona-task evaluation, and documentation transaction. No parent, child, teacher, or family participation is claimed. Any future tested status, outcome, safety-performance, product-review, outreach, external-account, or indexing action remains prohibited without separate authority and evidence.",
+      "observation_window": "No search observation window applies to this documentation-only transaction. Preserve the live preschool STEM page until a separately registered implementation action passes native QA and independent review. Preserve the KAL-IMP-006 ramp structure through 2026-09-18 except a verified P0-P2 regression.",
+      "acceptance_criteria": [
+        "retain source date, URL, paraphrased decision context, relevant constraints, and evidence limits for three to five current public questions without usernames or private information",
+        "record the incomplete live query-family sample, representative result types and ranking pages, intent overlap, and advantages Kid Activity Lab cannot claim",
+        "define one broad-STEM caregiver task with constraints, required outputs, a secondary stress constraint, and observable success or failure",
+        "score every relevant persona-review dimension from zero to two and mark unsupported dimensions N/A rather than inventing evidence",
+        "audit every visible section of the current page and reconcile its eight choices with the maintained activity inventory and existing page ownership",
+        "select at most one existing-page candidate for future separate registration; do not create or edit a public page in this transaction",
+        "keep all parent and child outcomes UNKNOWN and make no universal safety, developmental, educational-outcome, tested-use, or ranking claim",
+        "change only the seven registered documentation and operator paths",
+        "pass evidence, source, privacy, exact-path, JSON, Markdown, git diff --check, repository tests, and independent read-only review"
+      ],
+      "qa_plan": "Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, validate the two referenced snapshot JSON files, check every retained public source URL and evidence label, verify the persona score and Markdown tables, scan the exact seven-path diff for personal data and unsupported claims, and require an independent read-only reviewer to return PASS or PASS_WITH_P3.",
+      "measurement_plan": "For this learning transaction, verify source traceability, task completeness, evidence labels, responsive observations, exact scope, and review closure. If a later implementation is selected, compare discipline coverage, first-screen choice, table interaction, and task score at 1280x900 and 390x844 while observing future crawl and GSC page/query evidence without assigning causality.",
+      "production_invariants": "No site, generator, sitemap, workflow, snapshot, indexability, indexing request, external account, product, affiliate, tracker, tested status, parent/child evidence, or KAL-IMP-006 observation-window path changes. Current production bytes and behavior remain unchanged.",
+      "reconsider_conditions": "Reconsider the candidate if the public source sample does not support the task, the maintained inventory cannot supply a genuinely broader set without a new evidence layer, the current page already exposes equivalent discipline choice, a reviewer finds the failure immaterial, or fresh query-level evidence identifies a narrower job.",
+      "implementation_state": "review-clean",
+      "decision": "IMPROVE. Preserve production in this learning transaction. Retain one future KAL-RES-009 candidate to source-audit and freeze an existing-URL rebalance around science/observe, engineering/build-and-test, and math/compare choices from maintained inventory. Do not add a page or infer query intent, ranking effect, preference, engagement, learning, or safety outcomes.",
+      "result": "Four source-dated public questions and the incomplete live query-family sample support a quick, common-material, age-appropriate broad-STEM planning job. The current page's eight choices are ramps, structures, or brick/tile builds, with no visible science/engineering/math decision lanes. The task scores 8 of 24 across twelve relevant dimensions. At 1280x900 the table occupies y=493..950 and the first linked card begins at y=974. At 390x844 the 620px table sits in a 348px scroller with materials initially hidden, and the first linked card begins at y=1075. Document widths match their viewports and the browser reports no warning or error. Production remains unchanged.",
+      "qa_summary": "git diff --check and roadmap plus September 3/4 snapshot JSON parsing pass. All 49 public-safe snapshot files validate. All 41 repository tests pass. Exact-scope verification finds only the seven registered paths. The 12 scored dimensions sum to 8 of 24 with one supported N/A; changed Markdown table shapes are consistent; retained URLs contain no usernames; source, privacy, claim, and prohibited-path checks pass.",
+      "review_cycles": 2,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Sagan",
+        "agent_id": "01a070f3-ef52-7322-b807-96c73ee43c91",
+        "read_only": true
+      },
+      "review_findings": "Cycle one: no P0, P1, or P3; one P2 found four September 3 page values in status/priority-pages.md while its source and date identified September 4 as current. The correction updates age-four STEM to 5 impressions / 39.6, engineering to 10 / 12.7, math to 8 / 43.38, and card games to 7 / 39.14 without changing crawl dates or evidence limits. Cycle two: PASS with no P0-P3; the reviewer reproduced the correction, exact scope, score, every-section coverage, responsive measurements, source/privacy and claim boundaries, all 49 snapshot validations, and all 41 tests.",
+      "release_state": "approved-for-push-only",
+      "next_eligible_action": "KAL-RES-009-separate-registration",
+      "notes": "First 2026-09-05 pilot transaction. Exact seven-path documentation scope; no public page or external-state change is authorized."
     }
   ]
 }

@@ -6,6 +6,96 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-05 - Broad Preschool STEM Choice Task
+
+**Action:** `KAL-LEARN-002`
+
+**Page:**
+https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html
+
+**Evidence basis:** P5 broad-STEM planner from
+`seo/preschool-engineering-decision-pack-2026-08-04.md`; four public questions
+retrieved 2026-09-05 and retained without usernames in the product-learning
+ledger; the incomplete 2026-09-05 web-result sample; the dated August 4 demand
+estimate; September 3 and 4 public-safe GSC snapshots; current repository
+inventory; and live desktop/mobile DOM observations. Personas and public
+questions are `RESEARCH_HYPOTHESIS`, browser and GSC observations are
+`MEASURED`, the demand value is `TOOL_ESTIMATE`, and the score is
+`EDITORIAL_JUDGMENT`. This is not user testing.
+
+**Decision:** Compare one preschool science investigation, one engineering
+build, and one math or pattern activity, then choose and start a fit using
+common household materials.
+
+**Constraints:** Preschool ages 3-5; short setup; adult role must be clear; no
+specialized kit or toy; no assumption that one age label proves readiness.
+
+**Required outputs:** A visible choice in each of the three lanes; age or
+readiness cue; exact materials or substitution; setup versus activity-time
+meaning; adult role; first child action; cleanup or stop boundary; and a direct
+route to start.
+
+**Secondary stress constraint:** The caregiver has paper, cups, water, and
+ordinary household objects, but no toy cars, magnetic tiles, or LEGO/DUPLO.
+
+**Observable success:** The caregiver can compare all three lanes and start
+one fitting activity on the same page without interpreting an SEO phrase list
+or conducting another broad search. Desktop and mobile retain text fit,
+keyboard-accessible routes, and no document overflow.
+
+**Observable failure:** One of the three lanes has no direct choice, the page
+collapses broad STEM into another page owner's narrower engineering/building
+job, critical running information is unavailable, or a trust-sensitive claim
+is unsupported.
+
+### Score
+
+| Dimension | Score | Evidence |
+| --- | ---: | --- |
+| Task answerability | 0 | The page does not expose science, engineering, and math as choices; all eight entries are ramps, structures, or brick/tile builds. |
+| Age and ability adaptation | 1 | Cards show broad ages 3-6 or 4-6, but readiness cues are absent and an age label alone cannot establish fit. |
+| Materials and substitutions | 1 | Materials are listed, but `ramp` is an unresolved input and the page offers almost no substitutions or no-kit route. |
+| Setup, duration, and cleanup clarity | 1 | `Time` and `Mess` are visible, but their measurement basis and setup-versus-play meaning are not stated; cleanup is absent. |
+| Adult involvement and supervision | 1 | Low/medium-help tags and short parent checks exist, but the chooser does not expose the adult setup role. |
+| Indoor, outdoor, weather, and space fit | 1 | The description says at home and the closing note mentions low ramps and towers, but choices are not organized by water, floor, table, or space fit. |
+| Mixed-age or difficulty adaptation | 1 | The closing guidance and one DUPLO note acknowledge younger children, but adaptation is generic and late. |
+| Sensory and accessibility considerations | N/A | The selected source evidence did not establish a specific sensory or mobility constraint, so no result is inferred. |
+| Educational purpose | 1 | The prediction prompt and activity tags avoid a guaranteed outcome, but the disciplines and observable question for each choice are not mapped. |
+| Safety and trust boundaries | 0 | The page has local parent checks, but no source or not-family-tested boundary; precise time/mess tags look measured, and the keyword section asserts parent searches without evidence on the page. |
+| Mobile readability and interaction | 1 | There is no document overflow or console error, but the 620px table sits in a 348px scroller and hides materials; the first linked activity begins at y=1075. |
+| Unnecessary detours, repetition, and buried answers | 0 | A non-actionable quick prompt precedes a non-linked table and repeated cards; the keyword section at y=5355 does not help the task. |
+| Decision without another broad search | 0 | The caregiver cannot make the required three-lane comparison or reach an explicit broader science route from this page. |
+
+**Total:** 8 of 24 across 12 relevant dimensions.
+
+**Automatic-failure check:** `IMPROVE`. The current page can run a ramp or
+structure activity, but the core broad-STEM comparison task cannot be
+completed directly. No safety outcome or human response is inferred.
+
+### Section Audit
+
+| Section | Task contribution | Evidence boundary | Verdict |
+| --- | --- | --- | --- |
+| Header and navigation | Keeps the site hub and card library available. | Current rendered links only. | Preserve. |
+| Hero and introduction | Names preschool STEM but defines the job almost entirely as building and changing an object. | Current wording; no comprehension claim. | Refocus in a future action around broad choice, not outcomes. |
+| Quick pick | Gives one useful inquiry question but does not pick an activity or expose a default. | Editorial prompt. | Keep the question only inside a stronger chooser. |
+| Summary table | Shows eight materials/time/mess rows. | Precise labels lack a stated measurement basis; table rows are not links. | Replace in a future action with honest decision fields and direct routes. |
+| Activity cards and steps | Provide concise starts for three ramps and five structures or builds. | Existing generated inventory; family outcomes `UNKNOWN`. | Rebalance rather than expand page count. |
+| Adult and safety checks | Supplies one short check per card plus broad closing guidance. | Conservative wording, not observed safety. | Keep local checks; add explicit adult role and stop/cleanup only after source review. |
+| Discipline routes and adaptations | No visible science/engineering/math chooser or explicit science owner route. | Existing P5 and current inventory show the missing planning surface. | Add only through a separate source-audited action. |
+| Searches this page is built for | Lists query phrases, including science and engineering, without helping the parent choose. | Search intent is operator evidence, not parent-facing utility. | Remove and replace with useful routes. |
+| Sources and disclosure | Absent. | No family test or source reconciliation is visible. | Add a bounded evidence note in a future reviewed action. |
+| Footer | Routes to the complete card library. | Current rendered link only. | Preserve; consider discipline routes only within the future action. |
+
+### Decision
+
+`IMPROVE`, but preserve production in this learning transaction. Retain one
+future candidate only: `KAL-RES-009` should source-audit and freeze an
+existing-page rebalance around science/observe, engineering/build-and-test,
+and math/compare choices from maintained inventory, with a mobile-useful first
+choice and no new URL. Do not infer preference, engagement, learning, safety,
+or ranking effect.
+
 ## 2026-09-04 - Cardboard Ramp First-Start Task
 
 **Action:** `KAL-LEARN-001`

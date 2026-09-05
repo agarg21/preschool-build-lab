@@ -18,6 +18,87 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-09-05 Broad Preschool STEM Learning Review
+
+Action: `KAL-LEARN-002`
+
+State: research complete; independent review pending
+
+Frozen base: `15f17e7d0164c6d3bf4980c391eaa0f0084435d1`
+
+Scope: exactly seven documentation and operator paths declared in
+`ops/seo-roadmap.json`: the two learning logs, priority-page status, and four
+operator mirrors. No site, generator, sitemap, workflow, snapshot,
+indexability, indexing request, external account, product, affiliate, tracker,
+tested status, parent/child evidence, or `KAL-IMP-006` page path may change.
+
+Evidence: validated September 3 and 4 public-safe snapshots; the dated August
+4 demand estimate and preschool-engineering decision pack; four current public
+questions retained without usernames; an incomplete live result sample for
+the broad STEM family and adjacent science, engineering, easy, and project
+terms; current maintained activity inventory; current production HTML; and
+live 1280x900 plus 390x844 DOM observations collected September 5. Complete
+query rows, exact Google ranking order, and all human outcomes remain
+`UNKNOWN`.
+
+Task: determine whether a caregiver can compare a preschool science
+investigation, engineering build, and math or pattern choice, then start one
+that fits common materials and current adult capacity. The stress constraint
+excludes specialized kits and toys. The page must expose a direct choice in
+each lane, readiness, materials or substitutions, time meaning, adult role,
+first action, cleanup or stop, and a direct route.
+
+Provisional result: `IMPROVE`, 8 of 24 across twelve relevant dimensions with
+sensory/accessibility correctly marked N/A. The current page can run a ramp or
+structure activity, but all eight choices remain ramps, structures, or
+brick/tile builds. It does not expose the three discipline choices; its table
+rows are not links; source and not-family-tested boundaries are absent; and
+its visible keyword section does not help the task.
+
+Responsive evidence: at 1280x900 the table occupies y=493..950 and the first
+linked activity starts at y=974. At 390x844 the table occupies y=594..1051,
+its 620px content sits in a 348px scroller with materials initially hidden,
+and the first linked activity starts at y=1075. Document widths equal their
+viewports, all eight card links are native anchors without negative tab order,
+and the browser records no warning or error.
+
+Decision gate: preserve production in this transaction and retain only one
+future `KAL-RES-009` candidate to source-audit and freeze an existing-URL
+rebalance around science/observe, engineering/build-and-test, and
+math/compare. No page, ranking, query-intent, tested-use, parent preference,
+child engagement, learning, duration, mess, repeatability, or safety result is
+claimed.
+
+Review gate: a different independent read-only reviewer must inspect the
+complete seven-path diff, exact source and privacy handling, query/SERP limits,
+GSC and demand boundaries, task traceability, score arithmetic, every visible
+section, responsive observations, roadmap/status consistency, and exact
+scope. Only `PASS` or `PASS_WITH_P3` may proceed to a focused push-only commit.
+
+Cycle one: independent read-only reviewer Sagan
+(`01a070f3-ef52-7322-b807-96c73ee43c91`) returned `FAIL` with no P0, P1, or
+P3 findings and one P2. Four acquisition rows in
+`status/priority-pages.md` retained September 3 page values even though the
+status source and date identified September 4 as current. The correction
+updates only age-four STEM from 6 impressions / 49.5 to 5 / 39.6, engineering
+from 11 / 14.91 to 10 / 12.7, math from 9 / 39.44 to 8 / 43.38, and card games
+from 5 / 51.4 to 7 / 39.14. Crawl dates and all evidence limits remain
+unchanged. The complete corrected seven-path diff proceeds to cycle two.
+
+Cycle two: Sagan independently reviewed the complete corrected seven-path
+diff from the frozen base and reconfirmed strict read-only status. Result:
+`PASS` with no P0-P3 findings. The reviewer reproduced the four current
+status rows and unchanged crawl dates, exact scope, 8-of-24 score, one
+supported N/A, ten-row every-section audit, responsive measurements, source
+and privacy boundaries, and sole future `KAL-RES-009` candidate. Roadmap JSON,
+all 49 public-safe snapshots, all 41 tests, Markdown tables, and `git diff
+--check` pass. Complete queries, exact Google order, result-sample
+completeness, human comprehension and response, and search causality remain
+`UNKNOWN`.
+
+Final result: `PASS`. The exact seven-path documentation transaction is
+eligible for a focused push-only commit; no Pages deployment applies.
+
 ## 2026-09-04 Ramp First-Start Implementation
 
 Action: `KAL-IMP-006`

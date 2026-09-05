@@ -8,10 +8,10 @@ automation.
 
 ## Current sequence
 
-1. Complete registered `KAL-IMP-006`: align the cardboard-ramp hero visual
-   with the low floor-level instructions and expose one compact start-now
-   answer before the dominant image. Preserve the title, canonical, page
-   ownership, research boundaries, and all existing supporting task routes.
+1. Complete independent review for registered `KAL-LEARN-002`. If it closes
+   cleanly, retain only `KAL-RES-009` as a future separate source-and-claim
+   audit for the existing preschool STEM URL; do not implement it in the
+   learning transaction.
 2. Observe released `KAL-IMP-005` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, canonical selection,
    ranking causality, or family outcomes, and do not request indexing.
@@ -49,6 +49,66 @@ automation.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-LEARN-002 Registered On 2026-09-05
+
+- Frozen clean aligned base:
+  `15f17e7d0164c6d3bf4980c391eaa0f0084435d1`.
+- Exact seven-path scope: `backlog/product-learning-ledger.md`,
+  `backlog/persona-review-log.md`, `status/priority-pages.md`, and the four
+  operator mirrors. No public page, generator, sitemap, workflow, snapshot,
+  indexing request, external account, product, affiliate, tracker, tested
+  status, or parent/child evidence may change.
+- Current search context is observational: the September 4 public-safe GSC
+  snapshot is finalized through September 2 and reports 230 property
+  impressions, one click, average position 18.09, and 10 of 10 priority URLs
+  indexed. The preschool STEM page remains at eight impressions and
+  page-average position 53.88 with an August 19 crawl. Complete query rows are
+  unavailable.
+- The retained August 4 Semrush estimate for `stem activities for
+  preschoolers` is 1,300 US monthly searches. It is a dated directional tool
+  estimate, not proof of current demand, ranking, or KAL usefulness.
+- Learning task: determine whether a caregiver comparing preschool science,
+  engineering, and math choices can identify one fitting household-material
+  activity in each lane, understand setup and adult role, and start the
+  selected activity without another broad search. A no-specialized-kit
+  constraint stress-tests the result.
+- Evidence collection must retain only source dates, URLs, paraphrased
+  decisions and constraints from three to five current public questions. It
+  must also record the limits of the incomplete live result sample,
+  representative page types, current KAL inventory, responsive measurements,
+  and every-section coverage.
+- The transaction may select at most one existing-page candidate for future
+  separate registration. It may not add a page, edit the live chooser, request
+  indexing, infer complete query intent, or make parent/child, tested-use,
+  safety-performance, developmental, educational-outcome, or ranking claims.
+- Required QA: exact path and prohibited-path checks, two-snapshot validation,
+  source/privacy/evidence checks, Markdown tables and score reconciliation,
+  roadmap JSON parsing, `git diff --check`, all repository tests, and a
+  different independent read-only reviewer returning `PASS` or
+  `PASS_WITH_P3`.
+- The task-specific result is `IMPROVE`, scoring 8 of 24 across twelve relevant
+  dimensions. The current eight choices are ramps, structures, or brick/tile
+  builds; the page has no visible science/engineering/math decision lanes, the
+  summary table is not linked, and visible SEO narration does not advance the
+  parent decision.
+- At 1280x900 the table occupies y=493..950 and the first linked card begins at
+  y=974. At 390x844 the table occupies y=594..1051, requires horizontal
+  scrolling from 348px to 620px with materials initially hidden, and the first
+  linked card begins at y=1075. Document widths match their viewports and the
+  browser recorded no warning or error.
+- State: research complete and review-clean. Production remains unchanged;
+  release is eligible for one focused push-only commit.
+- Independent reviewer Sagan
+  (`01a070f3-ef52-7322-b807-96c73ee43c91`) returned cycle-one `FAIL` for one
+  P2 and no P0, P1, or P3. Four acquisition rows in the September 5 status
+  file still carried September 3 page values while the file named September 4
+  as current. The rows now match the current snapshot: age-four STEM 5 / 39.6,
+  engineering 10 / 12.7, math 8 / 43.38, and card games 7 / 39.14. Crawl
+  dates and evidence boundaries are unchanged. Cycle two returned `PASS` with
+  no P0-P3 findings, reconfirmed read-only status, and reproduced exact scope,
+  scores, section coverage, responsive evidence, source/privacy boundaries,
+  all 49 snapshot validations, and all 41 tests.
 
 ## KAL-IMP-006 Registered On 2026-09-04
 

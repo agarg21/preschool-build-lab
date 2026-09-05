@@ -18,6 +18,67 @@ and release verification.
 
 ## Active Priority
 
+`KAL-LEARN-002` is registered from clean aligned base
+`15f17e7d0164c6d3bf4980c391eaa0f0084435d1` as the first September 5 pilot
+transaction. It changes only seven documentation and operator records while
+evaluating the existing broad preschool STEM chooser. No public page,
+generator, sitemap, workflow, snapshot, indexing request, external account,
+product, affiliate, tracker, tested status, or parent/child evidence may
+change.
+
+No September 5 GSC snapshot existed at transaction start. The September 4
+snapshot is finalized through September 2: 230 property impressions, one
+click, average position 18.09, 61 discovered pages, and 10 of 10 priority URLs
+indexed. The preschool STEM page remains unchanged from September 3 at eight
+impressions, no clicks, page-average position 53.88, and an August 19 crawl.
+Complete query rows remain unavailable. The retained 1,300-volume Semrush row
+is a dated August 4 tool estimate, not a current demand or ranking fact.
+
+Four current public questions retrieved September 5 support a bounded planning
+task: compare one preschool science investigation, one engineering build, and
+one math or pattern activity, using common materials with short setup and a
+clear adult role. The secondary constraint excludes specialized kits, toy
+cars, magnetic tiles, and LEGO/DUPLO. Public questions are qualitative
+research hypotheses, not market size, preference, or family-test evidence.
+
+The live page does not directly complete the task. Its eight choices are all
+ramps, structures, or brick/tile builds, with no visible science,
+engineering, and math decision lanes. The summary table is not linked; at
+390x844 it scrolls from a 348px container to 620px and initially hides the
+materials column. The first linked card starts at y=974 on 1280x900 and y=1075
+on 390x844. There is no document overflow or browser warning/error. The
+task-specific score is 8 of 24, and the provisional decision is `IMPROVE`.
+
+Production remains unchanged in this learning transaction. One future
+candidate is retained: `KAL-RES-009` should source-audit and freeze an
+existing-URL rebalance around science/observe,
+engineering/build-and-test, and math/compare choices from maintained
+inventory, with a useful mobile first choice and parent-facing routes instead
+of visible SEO narration. It must not add a page or infer parent preference,
+child engagement, learning, safety, query intent, or ranking effect.
+
+The exact seven-path records, source/evidence/privacy checks, two-snapshot
+validation, score and Markdown reconciliation, roadmap JSON, `git diff
+--check`, all repository tests, and a different independent read-only reviewer
+returning `PASS` or `PASS_WITH_P3` are release gates. The action remains
+research-complete but review-pending.
+
+Independent reviewer Sagan
+(`01a070f3-ef52-7322-b807-96c73ee43c91`) returned cycle-one `FAIL` with one
+P2 and no other findings: four rows in the September 5 status file retained
+September 3 page values while naming the September 4 snapshot as current. The
+four rows now match September 4: age-four STEM 5 / 39.6, engineering 10 /
+12.7, math 8 / 43.38, and card games 7 / 39.14. Crawl dates and evidence
+limits remain unchanged. The corrected exact seven-path diff awaits cycle-two
+rereview. Cycle two returned `PASS` with no P0-P3 findings and reconfirmed
+strict read-only status. The reviewer reproduced the correction, exact scope,
+score, every-section coverage, responsive measurements, source/privacy and
+claim boundaries, all 49 snapshot validations, and all 41 tests. The
+transaction is review-clean and eligible for a focused push-only commit; no
+Pages deployment applies.
+
+## Protected Release
+
 `KAL-IMP-006` is registered from clean aligned base
 `f974aacc11e4902c87bd6bdd534ee37e746e8137` as the second September 4 pilot
 transaction. It applies the review-clean `KAL-LEARN-001` finding to the one
