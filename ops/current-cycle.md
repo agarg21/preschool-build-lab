@@ -18,7 +18,65 @@ and release verification.
 
 ## Active Priority
 
-`KAL-LEARN-002` is registered from clean aligned base
+`KAL-RES-009` is registered from clean aligned base
+`d344c67d302d9f8c42506bcd440bad0ab7a9e3fb`, including the disjoint September
+5 automated GSC snapshot. This second September 5 pilot transaction changes
+only one new preschool STEM decision pack, one new research-review record, the
+product-learning ledger, priority-page status, and the four operator mirrors.
+No site, generator, sitemap, workflow, snapshot, indexing request, external
+account, product, affiliate, tracker, tested status, parent/child evidence, or
+deployment path may change.
+
+The September 5 snapshot is finalized through September 3: 234 property
+impressions, one click, average position 17.62, 61 discovered pages, and 10 of
+10 priority URLs indexed. The broad preschool STEM page has eight impressions,
+no clicks, page-average position 54.38, and an unchanged August 19 crawl.
+Complete query rows remain unavailable. These values are observation context,
+not a query-intent, demand, CTR, usefulness, or causality diagnosis.
+
+The falsifiable hypothesis is that the maintained inventory can support one
+three-way existing-page front door: `Shadow Builder` for science/observe,
+`Bridge Rescue` for engineering/build-and-test, and `Pattern Path` for
+math/compare-and-continue. Each lead choice must have proportional current
+source support, honest materials and adult-role boundaries, and a direct
+maintained route; deeper discipline jobs must route to the established
+science, engineering, and math owners instead of being duplicated.
+
+The source audit supports one future separately registered `KAL-IMP-007`
+recommendation. Use `Shadow Builder`, `Bridge Rescue`, and `Pattern Path` as
+three complete same-page leads with one frozen observable readiness cue each,
+route deeper jobs to current owners, and reject a new URL or larger lead-card
+count. Legacy original-pack and card destinations are optional deeper routes,
+not required task-completion surfaces, because their exact age and minute
+labels are not validated here. Exact setup choices remain editorial judgment;
+the source-backed boundary is the observable question or process. The
+transaction may not implement the page. Timing, mess, parent
+comprehension, child response, engagement, learning, repeatability, safety
+outcomes, complete queries, and causal ranking effect remain `UNKNOWN`.
+Source, claim, route, privacy, snapshot, exact-path, Markdown, roadmap JSON,
+`git diff --check`, repository tests, and a different independent read-only
+review are release gates.
+
+Research is complete. Independent read-only reviewer Codex, thread
+`01a07298-1b9a-77a3-ac74-d309197043e3`, returned cycle-one `FAIL` with three
+P2s and one P3; no P0 or P1. The corrections use actual aligned base
+`d344c67d302d9f8c42506bcd440bad0ab7a9e3fb`, make the three direct leads
+complete same-page anchors so legacy exact age/time labels are not inherited,
+freeze one observable readiness cue per lead, and correct the card-library
+snapshot label. Cycle two returned `PASS_WITH_P3` with no P0-P2. Its one
+nonblocking P3 asked that the already-required future illustration be phrased
+unconditionally in scope and QA; that wording correction is applied.
+
+The exact eight-path transaction is review-clean and ready for a focused
+push-only research commit. Production remains unchanged. QA passes `git diff
+--check`, roadmap JSON, all 50 public-safe snapshot validations, all 41
+repository tests, exact scope, September 4/5 fact reconciliation, activity
+IDs, owner routes, legacy original-pack anchors, source accessibility and
+limitations, Markdown tables, privacy, and claim scans. The next eligible
+action after release is separate registration of `KAL-IMP-007`; this
+transaction does not authorize implementation.
+
+`KAL-LEARN-002` was registered from clean aligned base
 `15f17e7d0164c6d3bf4980c391eaa0f0084435d1` as the first September 5 pilot
 transaction. It changes only seven documentation and operator records while
 evaluating the existing broad preschool STEM chooser. No public page,

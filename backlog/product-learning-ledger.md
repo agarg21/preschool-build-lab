@@ -4,6 +4,60 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-05 - KAL-RES-009
+
+- **Family decision:** Which one of three preschool STEM modes fits the
+  materials and adult capacity available now: observe a change, build and
+  test, or compare and continue?
+- **Persona task:** Freeze one common-material lead in science, engineering,
+  and math that exposes materials, adult role, child mission, stop/reset, and
+  a direct same-page route without another broad search. Stress-test the set
+  without specialized kits, toy cars, magnetic tiles, LEGO, or DUPLO and with
+  a younger child able to reach loose materials.
+- **Falsifiable hypothesis:** Current maintained activities and current named
+  sources can support one honest lead in each lane while the broad page routes
+  deeper discipline jobs to existing owners and adds no URL.
+- **Sources and evidence class:** September 4 and 5 public-safe GSC plus
+  repository inventory and routes are `MEASURED` within their scopes.
+  HeadStart.gov, TERC Head Start on Engineering, Smithsonian Science in Pre-K,
+  and NAEYC sources retrieved 2026-09-05 are `SOURCE_BACKED`. The prior public
+  questions and persona remain `RESEARCH_HYPOTHESIS`. The three-choice model
+  is `EDITORIAL_JUDGMENT`; the August 4 Semrush value remains a dated
+  `TOOL_ESTIMATE`.
+- **Result:** `IMPROVE`. The audit supports `Shadow Builder`, `Bridge Rescue`,
+  and `Pattern Path` as the three lead routes. It rejects a larger lead-card
+  count and a new URL. Water, magnet, ramp, tower, and specialized-kit choices
+  remain available under their established deeper owners rather than leading
+  the broad page.
+- **Readiness and route correction:** Each lead now has one frozen observable
+  readiness cue. The direct chooser links resolve to complete same-page
+  modules; the original pack and generated card pages remain optional legacy
+  routes because their exact age and minute labels are not validated by this
+  evidence layer.
+- **Confidence:** High for inventory, route, current-page, and source-to-claim
+  observations; medium-high for the architecture decision; unknown for human
+  comprehension, preference, child response, and search effect.
+- **Action:** Promote one future separately registered `KAL-IMP-007` candidate
+  on the existing URL. Use three complete same-page lead choices, route deeper
+  jobs, add a research-backed/not-family-tested note, and remove the unlinked table,
+  repeated engineering-heavy grid, and visible keyword narration. Do not
+  implement in this transaction.
+- **Independent review:** Two read-only cycles ended `PASS_WITH_P3` with no
+  P0-P2. The nonblocking P3 made the already-required future illustration
+  unconditional in scope and image QA.
+- **Reusable lesson:** A broad owner does not need more cards than its deeper
+  owners. Its distinct utility can be a small cross-discipline decision that
+  sends the user to the right maintained depth.
+- **Next falsification trigger:** A separately reviewed implementation cannot
+  expose every required field without duplicating owner pages; current source
+  support changes materially; or complete query evidence establishes a
+  narrower page job.
+- **Measurement boundary:** The September 5 snapshot moves from 230 to 234
+  property impressions while the target remains at eight impressions and no
+  clicks; this does not prove query intent or implementation value. All
+  parent/child outcomes, exact activity duration, mess, safety performance,
+  and causal ranking effect remain `UNKNOWN`.
+
 ## 2026-09-05 - KAL-LEARN-002
 
 - **Family decision:** Can a caregiver compare a preschool science

@@ -1749,6 +1749,79 @@
       "released_on": "2026-09-05",
       "next_eligible_action": "KAL-RES-009-separate-registration",
       "notes": "First 2026-09-05 pilot transaction. Exact seven-path documentation scope. Independent reviewer Sagan completed two strict read-only cycles; cycle two returned PASS with no P0-P3. Released push-only in reviewed commit 22ddd2dfaae1d9e4d2b37f72a32d5dd0c87d2c74. No public page, deployment, indexing request, or external-state change occurred."
+    },
+    {
+      "id": "KAL-RES-009",
+      "title": "Source-audit the broad preschool STEM rebalance",
+      "kind": "research-decision-pack",
+      "lane": "existing-page-utility",
+      "impact": 4,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 2,
+      "risk": 1,
+      "status": "completed",
+      "selected_on": "2026-09-05",
+      "frozen_base": "d344c67d302d9f8c42506bcd440bad0ab7a9e3fb",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "completed_review_clean_KAL-LEARN-002",
+        "validated_2026-09-05_GSC_snapshot",
+        "prior_2026-09-04_GSC_snapshot",
+        "current_preschool_STEM_page_and_maintained_inventory",
+        "current_official_or_educational_sources_for_science_engineering_and_math",
+        "existing_page_ownership_and_cannibalization_records"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html"
+      ],
+      "target_paths": [
+        "seo/preschool-stem-rebalance-decision-pack-2026-09-05.md",
+        "reviews/preschool-stem-rebalance-research-review-2026-09-05.md",
+        "backlog/product-learning-ledger.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "The maintained inventory and current named sources either support or reject one exact existing-URL preschool STEM rebalance, with source-to-claim boundaries, page ownership, persona acceptance criteria, implementation scope, and measurement limits frozen without changing the public site.",
+      "baseline": "KAL-LEARN-002 independently review-cleaned an 8-of-24 broad-STEM task failure: the current eight-choice page is engineering/building-heavy and does not expose one direct science, engineering, and math choice. The September 5 public-safe GSC snapshot is finalized through September 3 and reports 234 property impressions, one click, average position 17.62, 61 discovered pages, and 10 of 10 priority URLs indexed. The target page has 8 impressions, no clicks, page-average position 54.38, and an unchanged August 19 crawl. Complete query rows remain unavailable. The retained August 4 Semrush estimate of 1,300 US monthly searches is directional TOOL_ESTIMATE evidence only.",
+      "hypothesis": "Three source-traceable lead choices already in the maintained inventory, one each for observe, build-and-test, and compare-or-continue, can become complete same-page starts on the existing broad preschool STEM URL while routing deeper science, engineering, and math jobs to their established owners and avoiding a new URL.",
+      "expected_effect": "Produce one implementation-ready existing-page recommendation or reject the candidate. This research transaction has no production or search-performance effect.",
+      "evidence_classification": "September 4 and September 5 public-safe GSC aggregate, page, crawl, sitemap, and priority-inspection rows are MEASURED observation context. Current official and educational source statements are SOURCE_BACKED within their stated scope. Existing public questions, incomplete SERP samples, and persona tasks are RESEARCH_HYPOTHESIS. The three-lane architecture, activity selection, route hierarchy, and implementation recommendation are EDITORIAL_JUDGMENT. The August 4 Semrush value is a dated TOOL_ESTIMATE. Complete queries, parent comprehension, child response, timing, engagement, learning, mess, repeatability, safety outcomes, and causal search effect remain UNKNOWN.",
+      "human_gate": "Not required for a docs-only source, claim, ownership, and implementation-readiness audit. No parent, child, teacher, or family participation is claimed. A future research-backed non-product implementation may use standing reviewed-release authority only if it is separately registered and keeps explicit untested status plus all human outcomes UNKNOWN. Tested status, product recommendations, outreach, external accounts, indexing requests, and safety-performance claims remain prohibited.",
+      "observation_window": "No search observation window applies to this research-only transaction. Preserve the live preschool STEM page until a separately registered implementation passes native QA and independent review. Preserve KAL-IMP-006 through 2026-09-18 except a verified P0-P2 regression.",
+      "acceptance_criteria": [
+        "audit the maintained candidate activities for source support, materials, adult role, readiness, substitutions, stop or cleanup boundaries, and unsupported certainty",
+        "freeze or reject one three-lane existing-page model with one complete same-page lead choice each for science or observe, engineering or build-and-test, and math or compare-and-continue",
+        "map the broad page to existing science, engineering, math, age-four STEM, original-pack, and card owners without adding a URL or duplicating their deeper jobs",
+        "distinguish source facts from KAL editorial choices and keep timing, mess, engagement, learning, repeatability, safety outcomes, and family use UNKNOWN",
+        "define exact future implementation paths, persona acceptance criteria, production invariants, QA, measurement, observation, and reconsideration gates without implementing them",
+        "validate the September 4 and 5 snapshot JSON and treat absent complete query rows as unavailable",
+        "change only the eight registered research and operator paths",
+        "pass source, claim, privacy, exact-path, JSON, Markdown, git diff --check, repository tests, and independent read-only review"
+      ],
+      "qa_plan": "Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, validate the September 4 and 5 snapshot JSON, check all retained source URLs and source-to-claim rows, verify activity IDs and every proposed internal route against the maintained repository, parse changed structured artifacts, scan the exact eight-path diff for personal data and unsupported claims, and require an independent read-only reviewer to return PASS or PASS_WITH_P3.",
+      "measurement_plan": "For this research transaction, verify source traceability, claim proportionality, route ownership, candidate completeness, exact scope, and review closure. A later implementation must compare the three-lane task score, direct-link count, first useful choice position, horizontal overflow, and required outputs at 1280x900 and 390x844, then observe crawl and finalized page/query evidence without assigning causality.",
+      "production_invariants": "No site, generator, sitemap, workflow, snapshot, indexability, indexing request, external account, product, affiliate, tracker, tested status, parent/child evidence, KAL-IMP-006 release path, or live behavior changes. No new URL is authorized.",
+      "reconsider_conditions": "Reject or narrow the candidate if any lead choice lacks proportional source support or a maintainable route, if the broad page would duplicate rather than route to the established discipline owners, if a critical supervision or readiness boundary cannot be stated without unsupported certainty, if fresh query evidence identifies a narrower job, or if independent review finds the architecture does not resolve the KAL-LEARN-002 task failure.",
+      "implementation_state": "review-clean",
+      "decision": "IMPROVE. Promote one future separately registered KAL-IMP-007 candidate on the existing preschool STEM URL: complete same-page Shadow Builder, Bridge Rescue, and Pattern Path starts for science/observe, engineering/build-and-test, and math/compare-and-continue, followed by routes to deeper existing owners. Reject a new URL and a larger lead-card count.",
+      "result": "Current HeadStart.gov, TERC, Smithsonian Science in Pre-K, and NAEYC sources support the observable question or process behind all three maintained lead choices. Each lead now has a frozen observable readiness cue. Exact KAL materials, substitutions, ordering, adult roles, scripts, stop/reset boundaries, and chooser architecture remain editorial judgment. Direct links target complete same-page modules; legacy original-pack and card destinations are optional, separately gated deeper routes because their exact age and minute labels are not validated here. Production is unchanged.",
+      "qa_summary": "git diff --check and roadmap JSON parsing pass. All 50 public-safe snapshot files validate and all 41 repository tests pass. The September 4/5 aggregate, target-page, inspection, and September 5 ramp-recrawl values reproduce from JSON. Exact-scope verification finds only the eight registered paths. All proposed owner routes exist; both legacy original-pack anchors and all three activity IDs resolve. The decision-pack Markdown tables, source URLs, source-to-claim limits, privacy scan, and firsthand-claim scan pass. TERC and Smithsonian return HTTP 200 to the command-line client; HeadStart.gov and NAEYC return access-controlled HTTP 403 while current research fetches expose the cited content, and this limitation is recorded.",
+      "review_cycles": 2,
+      "review_outcome": "PASS_WITH_P3",
+      "reviewer": {
+        "name": "Codex independent Operator Review Agent",
+        "agent_id": "01a07298-1b9a-77a3-ac74-d309197043e3",
+        "read_only": true
+      },
+      "review_findings": "Cycle one: no P0-P1; three P2s and one P3. P2-1 corrected a nonexistent expanded base SHA to actual aligned d344c67d302d9f8c42506bcd440bad0ab7a9e3fb across every mirror. P2-2 replaced direct legacy destination links, whose exact age/minute claims conflict with this pack's UNKNOWN boundary, with complete same-page anchors and classified legacy pages as optional deeper routes. P2-3 froze one observable editorial readiness cue per lead and added them to future acceptance and QA. P3 corrected the unchanged card-library signal's snapshot label from September 3 to September 5. Cycle two: PASS_WITH_P3 with no P0-P2. One nonblocking P3 found conditional wording around the already-required future visual; the path scope and image QA now state that requirement unconditionally.",
+      "release_state": "review-clean-pending-push",
+      "next_eligible_action": "KAL-IMP-007-separate-registration",
+      "notes": "Second 2026-09-05 pilot transaction. Exact eight-path research and operator scope from clean aligned base d344c67d302d9f8c42506bcd440bad0ab7a9e3fb. Independent reviewer Codex completed two strict read-only cycles; cycle two returned PASS_WITH_P3 with no P0-P2, and the P3 wording cleanup is applied. Public production remains frozen."
     }
   ]
 }

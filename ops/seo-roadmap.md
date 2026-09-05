@@ -8,10 +8,10 @@ automation.
 
 ## Current sequence
 
-1. Complete independent review for registered `KAL-LEARN-002`. If it closes
-   cleanly, retain only `KAL-RES-009` as a future separate source-and-claim
-   audit for the existing preschool STEM URL; do not implement it in the
-   learning transaction.
+1. After the review-clean `KAL-RES-009` research release, separately register
+   `KAL-IMP-007` if proceeding: implement only the existing-URL preschool STEM
+   front door with one observe, one build-and-test, and one
+   compare-or-continue lead choice.
 2. Observe released `KAL-IMP-005` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, canonical selection,
    ranking causality, or family outcomes, and do not request indexing.
@@ -49,6 +49,70 @@ automation.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-RES-009 Registered On 2026-09-05
+
+- Frozen clean aligned base:
+  `d344c67d302d9f8c42506bcd440bad0ab7a9e3fb`, including the disjoint September
+  5 automated GSC snapshot.
+- Exact eight-path scope: one new preschool STEM decision pack, one new
+  research-review record, the product-learning ledger, priority-page status,
+  and four operator mirrors. No public page, generator, sitemap, workflow,
+  snapshot, indexability, indexing request, external account, product,
+  affiliate, tracker, tested status, parent/child evidence, or deployment path
+  may change.
+- Current search context is observational. The September 5 public-safe GSC
+  snapshot is finalized through September 3: 234 property impressions, one
+  click, average position 17.62, 61 discovered pages, and 10 of 10 priority
+  URLs indexed. The target page has eight impressions, no clicks,
+  page-average position 54.38, and an unchanged August 19 crawl. Complete
+  query rows are unavailable.
+- Falsifiable hypothesis: maintained activities can support a three-way front
+  door with one source-traceable lead choice for science/observe,
+  engineering/build-and-test, and math/compare-and-continue, while routing
+  deeper jobs to established owners and avoiding a new URL.
+- The current candidate set is `Shadow Builder`, `Bridge Rescue`, and `Pattern
+  Path`. Current official and educational sources must support only their
+  observable question or process; exact KAL setup, ordering, readiness,
+  substitutions, adult role, and stop choices remain labeled editorial
+  judgment.
+- The research must audit source-to-claim boundaries, materials, adult role,
+  readiness, substitutions, stop or cleanup, route ownership,
+  cannibalization, and exact future implementation scope. It may reject or
+  narrow the candidate rather than manufacturing an implementation.
+- Parent comprehension, child response, timing, engagement, learning, mess,
+  repeatability, safety outcomes, complete queries, and causal ranking effect
+  remain `UNKNOWN`.
+- Required QA: both snapshot JSON files, all retained source URLs, activity
+  IDs and routes, source-to-claim and privacy scans, exact paths, Markdown,
+  roadmap JSON, `git diff --check`, all repository tests, and a different
+  independent read-only reviewer returning `PASS` or `PASS_WITH_P3`.
+- Research result: `IMPROVE`. Current HeadStart.gov, TERC, Smithsonian Science
+  in Pre-K, and NAEYC sources support the observable question or process
+  behind all three maintained leads. The candidate rejects a new URL, exact
+  time/mess claims, and a larger lead-card count.
+- Future separately registered candidate: `KAL-IMP-007`, using the three
+  complete direct same-page lead modules, their frozen readiness cues, deeper
+  owner routes, a research-backed/not-family-tested note, and no visible
+  keyword narration. Legacy original-pack and card destinations are optional
+  deeper routes, not required task-completion surfaces. Production remains
+  unchanged here.
+- Pre-review QA passes: exact eight paths; roadmap JSON; all 50 public-safe
+  snapshot validations; all 41 tests; September 4/5 fact reconciliation;
+  activity IDs, owner routes, and legacy original-pack anchors; source accessibility
+  and limitations; Markdown tables; privacy and claim scans; and `git diff
+  --check`.
+- Cycle one: independent read-only reviewer Codex, thread
+  `01a07298-1b9a-77a3-ac74-d309197043e3`, returned `FAIL` with three P2s and
+  one P3. The corrections use the actual reachable base, make every direct
+  lead a complete same-page module, freeze one observable readiness cue per
+  lead, and name the current snapshot for the card-library row.
+- Cycle two returned `PASS_WITH_P3` with no P0-P2. Its nonblocking P3 asked
+  that the already-required future illustration be worded unconditionally in
+  scope and image QA; the wording correction is applied.
+- State: research complete, review-clean, and ready for one focused push-only
+  commit. Production remains unchanged. The next eligible action is separate
+  registration of `KAL-IMP-007`; implementation is not authorized here.
 
 ## KAL-LEARN-002 Registered On 2026-09-05
 

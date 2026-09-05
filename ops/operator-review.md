@@ -18,6 +18,89 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-09-05 Preschool STEM Rebalance Research Review
+
+Action: `KAL-RES-009`
+
+State: cycle-two `PASS_WITH_P3`; review-clean and ready for push-only release
+
+Frozen base: `d344c67d302d9f8c42506bcd440bad0ab7a9e3fb`
+
+Scope: exactly eight paths declared in `ops/seo-roadmap.json`: one new
+preschool STEM decision pack, one new research-review record, the
+product-learning ledger, priority-page status, and four operator mirrors. No
+site, generator, sitemap, workflow, snapshot, indexability, indexing request,
+external account, product, affiliate, tracker, tested status, parent/child
+evidence, or deployment path may change.
+
+Evidence: validated September 4 and 5 public-safe GSC snapshots; completed
+review-clean `KAL-LEARN-002`; current page, generator, cards, original-pack
+anchors, and owner routes; current HeadStart.gov, TERC Head Start on
+Engineering, Smithsonian Science in Pre-K, and NAEYC sources retrieved
+September 5. Complete query rows and all parent/child outcomes remain
+`UNKNOWN`.
+
+Research result: `IMPROVE`. Promote one future `KAL-IMP-007` candidate for
+separate registration on the existing preschool STEM URL. The three leads are
+`Shadow Builder` for science/observe, `Bridge Rescue` for
+engineering/build-and-test, and `Pattern Path` for
+math/compare-and-continue. Route broader discipline jobs to their current
+owners; reject a new URL and a larger lead-card count.
+
+Claim boundary: official and educational sources support the observable
+question or process. Exact KAL materials, substitutions, ordering, adult role,
+scripts, stop/reset boundaries, route hierarchy, and selection are editorial
+judgment. Timing, mess, comprehension, preference, engagement, learning,
+repeatability, safety performance, query intent, and ranking effect are not
+claimed.
+
+Review gate: a different independent read-only reviewer must inspect the full
+eight-path diff from the frozen base, source accessibility and proportionality,
+all three lead audits, alternate-candidate decisions, ownership and
+cannibalization map, future persona/every-section acceptance, implementation
+scope, measurement gates, privacy, current GSC reconciliation, exact scope,
+and native QA. Only `PASS` or `PASS_WITH_P3` may proceed to a focused push-only
+research commit.
+
+Pre-review QA: `git diff --check` and roadmap JSON parsing pass. All 50
+public-safe snapshots validate, and all 41 repository tests pass. The
+September 4/5 aggregate, target-page, priority-inspection, and September 5 ramp
+recrawl facts reproduce from JSON. Exact-scope verification finds only the
+eight registered paths. All owner routes, both legacy original-pack anchors,
+and all three activity IDs resolve. Source accessibility and limitations,
+Markdown tables, privacy, and firsthand-claim scans pass.
+
+Cycle one: independent read-only reviewer Codex, thread
+`01a07298-1b9a-77a3-ac74-d309197043e3`, returned `FAIL` with three P2 findings
+and one P3; no P0 or P1. The reviewer reproduced the GSC facts, source limits,
+routes, exact scope, 50 snapshot validations, 41 tests, Markdown tables, and
+privacy checks.
+
+The first P2 found that the registration incorrectly expanded short SHA
+`d344c67` into a nonexistent object. Every affected mirror now names actual
+aligned base `d344c67d302d9f8c42506bcd440bad0ab7a9e3fb`. The second found that
+the direct lead destinations exposed legacy exact-time and age labels that
+conflicted with this pack's `UNKNOWN` boundary while the future scope could
+not repair them. Direct chooser links now target complete same-page modules;
+legacy pages are optional deeper routes. The third found no frozen observable
+readiness cue for any lead. Shadow, bridge, and pattern now each have one, and
+future acceptance/QA asserts all three. The P3 corrected the card-library
+status source label from September 3 to September 5.
+
+Cycle two returned `PASS_WITH_P3`. The reviewer confirmed all three complete
+same-page starts, frozen readiness and stop/reset boundaries, optional-only
+legacy routes, distinct owner boundaries, proportional source limits, and
+explicit `UNKNOWN` outcomes. Independent QA again passed exact scope, aligned
+base, 50 snapshot validations, 41 tests, GSC reconciliation, source and route
+checks, Markdown, privacy, credentials, and unsupported-firsthand-claim scans.
+
+There were no P0-P2 findings. One nonblocking P3 observed that the required
+future illustration still had conditional wording in the path-list heading
+and image-QA line. Both phrases are now unconditional. Final result:
+`PASS_WITH_P3`. The complete eight-path transaction is review-clean and
+eligible for one focused push-only research commit. No public or external
+state changed.
+
 ## 2026-09-05 Broad Preschool STEM Learning Review
 
 Action: `KAL-LEARN-002`
