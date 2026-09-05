@@ -1744,9 +1744,11 @@
         "read_only": true
       },
       "review_findings": "Cycle one: no P0, P1, or P3; one P2 found four September 3 page values in status/priority-pages.md while its source and date identified September 4 as current. The correction updates age-four STEM to 5 impressions / 39.6, engineering to 10 / 12.7, math to 8 / 43.38, and card games to 7 / 39.14 without changing crawl dates or evidence limits. Cycle two: PASS with no P0-P3; the reviewer reproduced the correction, exact scope, score, every-section coverage, responsive measurements, source/privacy and claim boundaries, all 49 snapshot validations, and all 41 tests.",
-      "release_state": "approved-for-push-only",
+      "release_state": "released-push-only",
+      "release_commit": "22ddd2dfaae1d9e4d2b37f72a32d5dd0c87d2c74",
+      "released_on": "2026-09-05",
       "next_eligible_action": "KAL-RES-009-separate-registration",
-      "notes": "First 2026-09-05 pilot transaction. Exact seven-path documentation scope; no public page or external-state change is authorized."
+      "notes": "First 2026-09-05 pilot transaction. Exact seven-path documentation scope. Independent reviewer Sagan completed two strict read-only cycles; cycle two returned PASS with no P0-P3. Released push-only in reviewed commit 22ddd2dfaae1d9e4d2b37f72a32d5dd0c87d2c74. No public page, deployment, indexing request, or external-state change occurred."
     }
   ]
 }

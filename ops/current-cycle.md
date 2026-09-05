@@ -75,7 +75,11 @@ strict read-only status. The reviewer reproduced the correction, exact scope,
 score, every-section coverage, responsive measurements, source/privacy and
 claim boundaries, all 49 snapshot validations, and all 41 tests. The
 transaction is review-clean and eligible for a focused push-only commit; no
-Pages deployment applies.
+Pages deployment applies. The exact reviewed seven-path transaction was
+released push-only in
+`22ddd2dfaae1d9e4d2b37f72a32d5dd0c87d2c74`. The next eligible action is
+separate registration of `KAL-RES-009`; this transaction does not authorize
+that research or any implementation.
 
 ## Protected Release
 

@@ -97,7 +97,8 @@ completeness, human comprehension and response, and search causality remain
 `UNKNOWN`.
 
 Final result: `PASS`. The exact seven-path documentation transaction is
-eligible for a focused push-only commit; no Pages deployment applies.
+released push-only in reviewed commit
+`22ddd2dfaae1d9e4d2b37f72a32d5dd0c87d2c74`; no Pages deployment applies.
 
 ## 2026-09-04 Ramp First-Start Implementation
 

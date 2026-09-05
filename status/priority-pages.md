@@ -68,7 +68,8 @@ engineering/build-and-test, and math/compare choices from maintained
 inventory, including a mobile-useful first choice and replacement of visible
 SEO narration with parent-facing routes. No public page changes in the
 learning transaction. Independent review returned `PASS` with no P0-P3; the
-candidate still requires separate registration.
+reviewed records were released push-only in `22ddd2d`, and the candidate still
+requires separate registration.
 
 ## September 4 Learning Overlay
 

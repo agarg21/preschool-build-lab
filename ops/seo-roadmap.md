@@ -98,7 +98,8 @@ automation.
   linked card begins at y=1075. Document widths match their viewports and the
   browser recorded no warning or error.
 - State: research complete and review-clean. Production remains unchanged;
-  release is eligible for one focused push-only commit.
+  released push-only in reviewed commit
+  `22ddd2dfaae1d9e4d2b37f72a32d5dd0c87d2c74`.
 - Independent reviewer Sagan
   (`01a070f3-ef52-7322-b807-96c73ee43c91`) returned cycle-one `FAIL` for one
   P2 and no P0, P1, or P3. Four acquisition rows in the September 5 status
@@ -109,6 +110,9 @@ automation.
   no P0-P3 findings, reconfirmed read-only status, and reproduced exact scope,
   scores, section coverage, responsive evidence, source/privacy boundaries,
   all 49 snapshot validations, and all 41 tests.
+- No site or Pages-workflow path changed, so no deployment applies. The next
+  eligible action is separate registration of `KAL-RES-009`; it is not
+  authorized by this completed transaction.
 
 ## KAL-IMP-006 Registered On 2026-09-04
 
