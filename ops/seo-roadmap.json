@@ -1819,9 +1819,11 @@
         "read_only": true
       },
       "review_findings": "Cycle one: no P0-P1; three P2s and one P3. P2-1 corrected a nonexistent expanded base SHA to actual aligned d344c67d302d9f8c42506bcd440bad0ab7a9e3fb across every mirror. P2-2 replaced direct legacy destination links, whose exact age/minute claims conflict with this pack's UNKNOWN boundary, with complete same-page anchors and classified legacy pages as optional deeper routes. P2-3 froze one observable editorial readiness cue per lead and added them to future acceptance and QA. P3 corrected the unchanged card-library signal's snapshot label from September 3 to September 5. Cycle two: PASS_WITH_P3 with no P0-P2. One nonblocking P3 found conditional wording around the already-required future visual; the path scope and image QA now state that requirement unconditionally.",
-      "release_state": "review-clean-pending-push",
+      "release_state": "released-push-only",
+      "release_commit": "37c98e150bf7bbaf1b692ffaeec6371cffa1c137",
+      "released_on": "2026-09-05",
       "next_eligible_action": "KAL-IMP-007-separate-registration",
-      "notes": "Second 2026-09-05 pilot transaction. Exact eight-path research and operator scope from clean aligned base d344c67d302d9f8c42506bcd440bad0ab7a9e3fb. Independent reviewer Codex completed two strict read-only cycles; cycle two returned PASS_WITH_P3 with no P0-P2, and the P3 wording cleanup is applied. Public production remains frozen."
+      "notes": "Second 2026-09-05 pilot transaction. Exact eight-path research and operator scope from clean aligned base d344c67d302d9f8c42506bcd440bad0ab7a9e3fb. Independent reviewer Codex completed two strict read-only cycles; cycle two returned PASS_WITH_P3 with no P0-P2, and the P3 wording cleanup is applied. Released push-only in reviewed commit 37c98e150bf7bbaf1b692ffaeec6371cffa1c137. Public production remains frozen."
     }
   ]
 }

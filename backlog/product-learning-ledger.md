@@ -41,7 +41,8 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   on the existing URL. Use three complete same-page lead choices, route deeper
   jobs, add a research-backed/not-family-tested note, and remove the unlinked table,
   repeated engineering-heavy grid, and visible keyword narration. Do not
-  implement in this transaction.
+  implement in this transaction. The reviewed research records were released
+  push-only in `37c98e150bf7bbaf1b692ffaeec6371cffa1c137`.
 - **Independent review:** Two read-only cycles ended `PASS_WITH_P3` with no
   P0-P2. The nonblocking P3 made the already-required future illustration
   unconditional in scope and image QA.

@@ -67,14 +67,14 @@ snapshot label. Cycle two returned `PASS_WITH_P3` with no P0-P2. Its one
 nonblocking P3 asked that the already-required future illustration be phrased
 unconditionally in scope and QA; that wording correction is applied.
 
-The exact eight-path transaction is review-clean and ready for a focused
-push-only research commit. Production remains unchanged. QA passes `git diff
---check`, roadmap JSON, all 50 public-safe snapshot validations, all 41
-repository tests, exact scope, September 4/5 fact reconciliation, activity
-IDs, owner routes, legacy original-pack anchors, source accessibility and
-limitations, Markdown tables, privacy, and claim scans. The next eligible
-action after release is separate registration of `KAL-IMP-007`; this
-transaction does not authorize implementation.
+The exact reviewed eight-path transaction was released push-only in
+`37c98e150bf7bbaf1b692ffaeec6371cffa1c137`. Production remains unchanged.
+QA passes `git diff --check`, roadmap JSON, all 50 public-safe snapshot
+validations, all 41 repository tests, exact scope, September 4/5 fact
+reconciliation, activity IDs, owner routes, legacy original-pack anchors,
+source accessibility and limitations, Markdown tables, privacy, and claim
+scans. The next eligible action is separate registration of `KAL-IMP-007`;
+this transaction does not authorize implementation.
 
 `KAL-LEARN-002` was registered from clean aligned base
 `15f17e7d0164c6d3bf4980c391eaa0f0084435d1` as the first September 5 pilot

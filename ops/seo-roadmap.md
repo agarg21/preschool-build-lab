@@ -110,9 +110,10 @@ automation.
 - Cycle two returned `PASS_WITH_P3` with no P0-P2. Its nonblocking P3 asked
   that the already-required future illustration be worded unconditionally in
   scope and image QA; the wording correction is applied.
-- State: research complete, review-clean, and ready for one focused push-only
-  commit. Production remains unchanged. The next eligible action is separate
-  registration of `KAL-IMP-007`; implementation is not authorized here.
+- State: research complete, review-clean, and released push-only in reviewed
+  commit `37c98e150bf7bbaf1b692ffaeec6371cffa1c137`. Production remains
+  unchanged. The next eligible action is separate registration of
+  `KAL-IMP-007`; implementation is not authorized here.
 
 ## KAL-LEARN-002 Registered On 2026-09-05
 

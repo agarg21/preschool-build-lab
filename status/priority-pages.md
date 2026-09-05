@@ -63,7 +63,8 @@ one observable readiness cue, and the card-library signal names the current
 snapshot. Cycle two returned `PASS_WITH_P3` with no P0-P2. Its nonblocking P3
 made the already-required future illustration unconditional in scope and QA.
 The research transaction is review-clean; production remains unchanged, and
-`KAL-IMP-007` still requires separate registration.
+the reviewed records were released push-only in `37c98e1`. `KAL-IMP-007`
+still requires separate registration.
 
 ## September 5 Learning Overlay
 

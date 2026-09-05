@@ -22,7 +22,7 @@ evidence.
 
 Action: `KAL-RES-009`
 
-State: cycle-two `PASS_WITH_P3`; review-clean and ready for push-only release
+State: cycle-two `PASS_WITH_P3`; released push-only in `37c98e1`
 
 Frozen base: `d344c67d302d9f8c42506bcd440bad0ab7a9e3fb`
 
@@ -98,8 +98,8 @@ There were no P0-P2 findings. One nonblocking P3 observed that the required
 future illustration still had conditional wording in the path-list heading
 and image-QA line. Both phrases are now unconditional. Final result:
 `PASS_WITH_P3`. The complete eight-path transaction is review-clean and
-eligible for one focused push-only research commit. No public or external
-state changed.
+released push-only in `37c98e150bf7bbaf1b692ffaeec6371cffa1c137`. No public
+or external state changed.
 
 ## 2026-09-05 Broad Preschool STEM Learning Review
 

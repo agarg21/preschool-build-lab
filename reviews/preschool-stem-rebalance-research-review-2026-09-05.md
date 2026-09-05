@@ -2,7 +2,7 @@
 
 Action: `KAL-RES-009`
 
-State: cycle-two `PASS_WITH_P3`; review-clean and ready for push-only release
+State: cycle-two `PASS_WITH_P3`; released push-only in `37c98e1`
 
 Frozen base: `d344c67d302d9f8c42506bcd440bad0ab7a9e3fb`
 
@@ -111,8 +111,9 @@ reproduced the exact eight-path scope, frozen-base reachability and alignment,
 checks, Markdown, privacy, credential, and unsupported-firsthand-claim checks.
 
 Final result: `PASS_WITH_P3`. No P0-P2 finding remains, and the nonblocking P3
-wording cleanup is applied. The transaction is eligible for one focused
-push-only research commit. Production remains unchanged.
+wording cleanup is applied. The exact reviewed transaction was released
+push-only in `37c98e150bf7bbaf1b692ffaeec6371cffa1c137`. Production remains
+unchanged.
 
 ## Pre-Review QA
 
