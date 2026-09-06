@@ -31,7 +31,8 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   Require separate candidate research and a desktop/mobile parent-task pass;
   select no implementation URL in this transaction. Independent read-only
   review returned `PASS` with no P0-P3 after reproducing the GSC evidence and
-  checking the role and simplicity gates.
+  checking the role and simplicity gates. The reviewed strategy is released
+  push-only in `3e183f03b7289d5dca923064a23bc92c130d13af`.
 - **Reusable lesson:** Specific activity depth can earn more discovery than
   broad choice surfaces, while cards and hubs still serve distinct product
   jobs. Search and product roles should complement rather than imitate one

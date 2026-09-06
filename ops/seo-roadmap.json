@@ -1978,7 +1978,9 @@
         "read_only": true
       },
       "review_findings": "Independent review returned PASS with no P0-P3. The reviewer reproduced all eight sampled GSC rows plus the September 5 page counts and totals, confirmed exact eleven-path scope, verified the one-guide and confounder limitations, found the guide/hub/card roles noncompeting, and confirmed that the parent-task gate is actionable proxy evaluation without human-use claims.",
-      "release_state": "review-clean-awaiting-push",
+      "release_state": "released-push-only",
+      "release_commit": "3e183f03b7289d5dca923064a23bc92c130d13af",
+      "released_on": "2026-09-06",
       "next_eligible_action": "separately-register-one-dedicated-guide-query-and-SERP-decision-pack"
     }
   ]

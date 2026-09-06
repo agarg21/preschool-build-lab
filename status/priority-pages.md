@@ -52,8 +52,9 @@ original KAL utility, and a source-derived caregiver task that passes on
 desktop and mobile. Every section must earn its scan cost.
 
 Native QA is green and independent read-only review returned `PASS` with no
-P0-P3. This documentation-only strategy change is review-clean; production
-and the existing observation windows remain unchanged.
+P0-P3. The reviewed strategy is released push-only in `3e183f0`; production
+and the existing observation windows remain unchanged, and no Pages deployment
+applies.
 
 ## September 6 Implementation Overlay
 
