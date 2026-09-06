@@ -2058,7 +2058,9 @@
         "read_only": true
       },
       "review_findings": "Cycle one returned FAIL with one P2 and no P0, P1, or P3: three Semrush rows were mislabeled unavailable, some returned numeric fields were omitted, and blank intent was overfilled. The operator reran one consistent 20-query batch, retained every returned numeric value and explicit zero, left 13 unreturned intent fields blank, and corrected each tape-road mirror. Cycle two independently reproduced all 20 rows and returned PASS with no P0-P3.",
-      "release_state": "review-clean-pending-push",
+      "release_state": "released-push-only",
+      "release_commit": "8fa08550a9fbb34749c41da263fd950a2db3f8c8",
+      "released_on": "2026-09-06",
       "next_eligible_action": "separately-register-KAL-IMP-008-paper-bridge-guide-without-editing-protected-KAL-IMP-007-before-2026-09-20"
     }
   ]

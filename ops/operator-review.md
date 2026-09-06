@@ -22,7 +22,7 @@ evidence.
 
 Action: `KAL-RES-010`
 
-State: `PASS` in cycle 2 with no P0-P3; review-clean for push-only release
+State: `PASS` in cycle 2 with no P0-P3; released push-only in `8fa0855`
 
 Frozen base: `d1581a787c25eea016ad2d4769637ff7023631f0`
 

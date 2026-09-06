@@ -57,6 +57,8 @@ and unsupported-claim checks. Independent reviewer Ramanujan
 (`01a077b7-c1a7-72f0-afcd-31a7f18f8a40`) returned `FAIL` in cycle one for one
 P2 zero-versus-unavailable classification error. After correction, cycle two
 returned `PASS` with no P0-P3. The action is review-clean for push-only release.
+Reviewed research commit `8fa08550a9fbb34749c41da263fd950a2db3f8c8`
+is pushed to `main`; no Pages deployment applies.
 
 ## KAL-STRAT-001 Release Record
 

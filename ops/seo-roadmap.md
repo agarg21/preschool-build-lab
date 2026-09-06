@@ -88,6 +88,9 @@ automation.
   one P2 zero-versus-unavailable classification error. The complete batch and
   all mirrors were corrected. Cycle two independently reproduced all 20 rows
   and returned `PASS` with no P0-P3.
+- Release: reviewed research commit
+  `8fa08550a9fbb34749c41da263fd950a2db3f8c8` is pushed to `main`; no Pages
+  deployment applies because no site or workflow path changed.
 
 ## KAL-STRAT-001 Registered On 2026-09-06
 
