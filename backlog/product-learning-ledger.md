@@ -4,6 +4,46 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-06 - KAL-STRAT-001
+
+- **Family decision:** Which page format best helps a caregiver choose and
+  start one concrete activity without wading through a broad list?
+- **Persona task:** Define the evidence and page-role rules for a caregiver to
+  judge fit and start a dedicated activity guide on desktop and mobile, with
+  each section earning its scan cost.
+- **Falsifiable hypothesis:** Using qualified dedicated guides for depth,
+  concise hubs for choice, and compact cards for execution will reduce parent
+  decision effort and create clearer search ownership without thin-page
+  production.
+- **Sources and evidence class:** September 4 and 5 public-safe GSC and sampled
+  snapshot history are `MEASURED`; July 28 Semrush values are dated
+  `TOOL_ESTIMATE`; the role model and simplicity gate are
+  `EDITORIAL_JUDGMENT`. Complete queries, causality, future demand, caregiver
+  comprehension, and child outcomes remain `UNKNOWN`.
+- **Result:** `IMPROVE`. The sole long-form guide has 166 of 234 property
+  impressions and the only click, versus 37 impressions across six collection
+  pages and 9 across six individual cards. Its visible impressions rise from
+  10 through July 16 to 166 through September 3. This supports a guide-first
+  experiment but cannot prove a format effect from a one-page sample.
+- **Confidence:** High for snapshot arithmetic and current inventory; medium
+  for the bounded format priority; unknown for causality and human outcomes.
+- **Action:** Make qualified dedicated guides the primary growth experiment.
+  Require separate candidate research and a desktop/mobile parent-task pass;
+  select no implementation URL in this transaction. Independent read-only
+  review returned `PASS` with no P0-P3 after reproducing the GSC evidence and
+  checking the role and simplicity gates.
+- **Reusable lesson:** Specific activity depth can earn more discovery than
+  broad choice surfaces, while cards and hubs still serve distinct product
+  jobs. Search and product roles should complement rather than imitate one
+  another.
+- **Next falsification trigger:** Several qualified guides receive fair crawl
+  windows without discovery, aligned queries favor hubs for the same job, or
+  persona review finds that guide depth adds scan burden without decision
+  value.
+- **Measurement boundary:** GSC page rows do not expose complete query intent
+  or prove format causality. Persona review is proxy evaluation, not family
+  testing.
+
 ## 2026-09-06 - KAL-IMP-007
 
 - **Family decision:** Which one of three preschool STEM modes can the

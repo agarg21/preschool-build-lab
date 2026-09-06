@@ -31,6 +31,11 @@ Examples:
 
 These pages should lead navigation, homepage modules, and internal links.
 
+Within primary content, evidence-qualified dedicated activity guides are the
+current growth experiment. Each guide owns one concrete activity-running or
+problem-solving job. Broad hubs should stay concise and route between distinct
+jobs; they should not reproduce the full instructions for every guide.
+
 Original does not mean every idea appears from nowhere or that KAL used it
 firsthand. It means Kid Activity Lab adds a parent-friendly workflow: quick
 setup, conservative supervision and stop boundaries, read-aloud kid steps,
@@ -46,6 +51,10 @@ They should stay short enough to run from one screen, but improve over time with
 - Easier and harder versions.
 - Safety notes from actual materials.
 - Original visuals when possible.
+
+When a richer guide owns the same activity and search job, the card is the
+compact execution surface and the guide is the canonical depth. Do not create
+two competing long-form owners.
 
 ## Support Content
 
@@ -86,6 +95,11 @@ For a non-product research-backed page:
 - add original KAL utility such as a chooser, troubleshooting model, compact
   read-aloud flow, or diagram;
 - pass persona/every-section review and native QA.
+
+A new dedicated guide additionally needs current keyword and live SERP
+research, one canonical parent job, no clean existing-page fit, and a
+desktop/mobile parent-task pass. The guide-first strategy is a bounded
+experiment based on one strong current GSC page, not a page-count target.
 
 Product-recommendation content has a higher evidence bar. Before
 implementation, the project needs:

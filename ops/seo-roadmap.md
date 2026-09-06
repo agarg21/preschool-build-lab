@@ -8,46 +8,86 @@ automation.
 
 ## Current sequence
 
-1. Observe released `KAL-IMP-007` through 2026-09-20 except a verified P0-P2
+1. Complete independently reviewed `KAL-STRAT-001`: adopt qualified dedicated
+   activity guides as the primary growth experiment, preserve hubs as concise
+   routers and cards as compact utilities, then research at most one future
+   guide candidate in a separate action.
+2. Observe released `KAL-IMP-007` through 2026-09-20 except a verified P0-P2
    regression. Treat new crawl and page/query data as observation evidence,
    not proof of caregiver/child outcomes or release causality.
-2. Observe released `KAL-IMP-005` until a post-release crawl or changed
+3. Observe released `KAL-IMP-005` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, canonical selection,
    ranking causality, or family outcomes, and do not request indexing.
-3. Observe released `KAL-IMP-004` until a post-release crawl or changed
+4. Observe released `KAL-IMP-004` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, ranking causality, or
    family outcomes, and do not request indexing.
-4. Observe released `KAL-IMP-003` until a post-release crawl or changed
+5. Observe released `KAL-IMP-003` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent or family outcomes from
    page-level movement, and do not request indexing.
-5. Observe the released `KAL-SEO-001` rank foundation for at least two
+6. Observe the released `KAL-SEO-001` rank foundation for at least two
    finalized snapshot comparisons and a refreshed sitemap read. Do not infer
    ranking causality, request indexing, or manufacture follow-on work from
    unchanged evidence.
-6. Observe the released `KAL-IMP-002` chooser for discovery and finalized
+7. Observe the released `KAL-IMP-002` chooser for discovery and finalized
    public-safe search evidence.
-7. Do not create individual game or age
+8. Do not create individual game or age
    pages, Snap, Slapjack, products, or affiliates from the same evidence.
-8. Observe `KAL-IMP-001` without attributing page-row movement or the first
+9. Observe `KAL-IMP-001` without attributing page-row movement or the first
    click to the
    release.
-9. Keep comparing validated GSC snapshots, but do not infer complete query
+10. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
-10. Keep tested-status, parent/child outcomes, and product reviews evidence-
+11. Keep tested-status, parent/child outcomes, and product reviews evidence-
    gated; do not ask the user for unavailable family testing.
-11. Use the completed `KAL-RES-002` Semrush supplement as the current paid
+12. Use the completed `KAL-RES-002` Semrush supplement as the current paid
    metric layer. It reinforces existing-page ownership and promotes no
    implementation.
-12. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
+13. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
    an Activities umbrella with Games, Arts & Crafts, Science & Building, and
    Outdoor & Nature as concrete browse categories. Actual parent comprehension
    remains `UNKNOWN`. Age and moment constraints remain routes or filters;
    pretend/story/music remain activity types; local outings and product
    guidance remain separate systems.
-13. Use completed `KAL-RES-004` as the first adjacent validation of the Games
+14. Use completed `KAL-RES-004` as the first adjacent validation of the Games
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-STRAT-001 Registered On 2026-09-06
+
+- Frozen clean aligned base:
+  `195edae615e5087779a1744a3fa308a5b0c01a77`.
+- Exact 11-path scope: one new dedicated-guide strategy record; current
+  strategy, content principles, content model, and persona protocol; product
+  learning and priority status; and four operator mirrors.
+- Evidence: September 5 public-safe GSC finalized through September 3, the
+  prior snapshot, the public-safe page-class history, current page inventory,
+  dated ramp keyword metrics, and current content/review rules.
+- Latest visible page classes: the sole long-form activity guide has 166 of
+  234 property impressions and the only click; six collection pages total 37
+  impressions; six individual cards total 9. The guide grows from 10
+  impressions through July 16 to 166 through September 3 across overlapping
+  28-day windows.
+- Decision boundary: this strongly supports a guide-first experiment, but one
+  guide cannot establish format causality. Complete query rows are unavailable,
+  and topic, demand, page age, internal links, and revisions are confounded.
+- Proposed role model: qualified guides own depth, hubs own concise choice and
+  routing, and cards own compact execution. Do not create thin pages or
+  competing owners.
+- Every future guide requires a distinct current query-backed parent job,
+  source feasibility, maintainable original utility, no clean existing-page
+  fit, and a source-derived caregiver task that passes at 1280x900 and 390x844.
+  Every section must earn its scan cost.
+- No public page, URL, generator, sitemap, workflow, snapshot, indexability,
+  indexing request, external account, tested status, or parent/child evidence
+  changes in this action.
+- Native QA passes `git diff --check`, roadmap JSON, all 50 snapshot JSON
+  files, all 49 repository tests, exact scope, historical and latest GSC
+  arithmetic, Markdown structure, privacy, and unsupported-claim checks.
+- Independent read-only reviewer Codex Operator Review Agent, thread
+  `01a07648-ac88-7ab1-9e51-bc475877cc9e`, returned `PASS` with no P0-P3 after
+  reproducing the arithmetic, exact scope, limitations, role model, and
+  parent-task gate. The action is review-clean for push-only release.
 
 ## KAL-IMP-007 Released On 2026-09-06
 

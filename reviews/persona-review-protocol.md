@@ -69,6 +69,35 @@ Check:
 - mobile usability and accessibility;
 - promised-versus-delivered content.
 
+## Dedicated Activity Guide Simplicity Gate
+
+For a dedicated guide, define the primary task as: decide whether this
+activity fits the current child and moment, then start without another broad
+search. Derive the specific constraints from current query, SERP, public
+question, product, or validated human evidence.
+
+At 1280x900 and 390x844, verify that the caregiver can find:
+
+- the activity and interest hook without an outcome promise;
+- materials and realistic substitutions;
+- adult setup and the first thing to say or do;
+- a short kid-facing mission;
+- readiness, supervision, stop, and cleanup boundaries;
+- one rescue path;
+- only the variations that earn their scan cost;
+- the research-backed and not-family-tested boundary when applicable.
+
+Treat each visible section as a cost. A section fails when it repeats an
+earlier answer, narrates SEO, delays the first useful start, or requires more
+interpretation than the decision value it adds. Put supporting detail and
+sources after the runnable answer unless a trust-sensitive warning must appear
+earlier.
+
+The page automatically fails this gate when a critical instruction is absent,
+a trust-sensitive claim is unsupported, the core task needs another broad
+search, or avoidable mobile clutter hides the start. This remains a proxy
+evaluation, not parent or child testing.
+
 ## Human And Evidence Gates
 
 An independent reviewer may evaluate wording and evidence. It may not supply

@@ -1902,6 +1902,84 @@
       "production_verification": "Exact-SHA Pages run 34026333335 succeeded. Live HTML, stylesheet, WebP, and sitemap byte-match reviewed commit df9e97eb43297e04b3158ac57e70bd541696e496. HTTP responses are 200 with expected content types. At 1280x900 and 390x844 production preserves title, canonical, one H1, three native choices, three complete starts, no overflow, image natural size 1672x941, and clean warning/error logs; all three mobile anchors land at approximately y=108 below the sticky header.",
       "next_eligible_action": "observe-until-2026-09-20-or-new-post-release-crawl-complete-query-evidence-or-verified-P0-P2",
       "notes": "First 2026-09-06 pilot transaction. Registered from clean aligned base b6732ba3d3cd4e9ae6c42ee6b33447306820a23f. Independent reviewer Caliper, thread 01a07609-1ce0-7e82-8c66-eb37337df68f, completed two strict read-only cycles. Cycle one returned FAIL with three P2s and one P3; every finding was corrected within the exact 14-path scope. Corrected native/browser QA passes, and cycle two returned PASS with no P0-P3. The generated visual is explicitly illustrative and not family-test evidence. Reviewed commit df9e97eb43297e04b3158ac57e70bd541696e496 is production-verified through exact-SHA Pages run 34026333335."
+    },
+    {
+      "id": "KAL-STRAT-001",
+      "title": "Adopt an evidence-qualified dedicated activity guide strategy",
+      "kind": "strategy-learning",
+      "lane": "content-model",
+      "impact": 5,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 2,
+      "risk": 1,
+      "status": "completed",
+      "selected_on": "2026-09-06",
+      "completed_on": "2026-09-06",
+      "frozen_base": "195edae615e5087779a1744a3fa308a5b0c01a77",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "validated_2026-09-05_GSC_snapshot",
+        "prior_2026-09-04_GSC_snapshot",
+        "public_safe_GSC_page_class_history_through_2026-09-03",
+        "current_site_page_type_inventory",
+        "dated_2026-07-28_ramp_keyword_metrics",
+        "current_content_and_persona_review_protocols"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html",
+        "https://kidactivitylab.com/cards/cardboard-car-ramp.html",
+        "https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html"
+      ],
+      "target_paths": [
+        "seo/dedicated-activity-guide-strategy-2026-09-06.md",
+        "strategy/current-strategy.md",
+        "strategy/content-principles.md",
+        "seo/content-model.md",
+        "reviews/persona-review-protocol.md",
+        "backlog/product-learning-ledger.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "The repository records whether first-party page-level evidence supports dedicated activity guides as the primary growth experiment, distinguishes guides from short cards and broad hubs, and freezes a parent-task simplicity and evidence gate for selecting one future candidate without changing the public site.",
+      "baseline": "The September 5 public-safe GSC snapshot is finalized through September 3 and reports 234 property impressions, one click, and average position 17.62. The only dedicated long-form activity article has 166 impressions, the only click, and page-average position 13.01; six visible collection pages total 37 impressions and six visible individual card pages total 9. Across sampled finalized windows, the article grows from 10 of 30 property impressions through July 16 to 166 of 234 through September 3. This is a strong directional single-page signal, but there is only one long-form guide and complete query rows are unavailable.",
+      "hypothesis": "Treating evidence-qualified dedicated activity guides as the primary editorial and SEO experiment, while keeping hubs concise for choice and cards concise for execution, will create clearer page ownership and lower parent decision effort without authorizing thin one-page-per-keyword production.",
+      "expected_effect": "Replace the broad-page-first default with a bounded guide-first experiment and a reusable parent-task simplicity gate. This documentation transaction has no production or search-performance effect and selects no page for implementation.",
+      "evidence_classification": "Finalized GSC aggregate and page rows, repository inventory, and commit history are MEASURED within their scopes. July 28 Semrush volumes are dated TOOL_ESTIMATE evidence. The format interpretation, page-role model, simplicity gate, and strategy priority are EDITORIAL_JUDGMENT. Complete current queries, format causality, future demand, caregiver comprehension, child response, engagement, learning, safety outcomes, and ranking effect remain UNKNOWN.",
+      "human_gate": "Not required for a documentation-only strategy and proxy-review standard update. No parent, caregiver, educator, or child participation is claimed. Any future page still requires separate keyword, SERP, source, ownership, persona, implementation, review, and release gates.",
+      "observation_window": "Preserve KAL-IMP-006 through 2026-09-18 and KAL-IMP-007 through 2026-09-20 except a verified P0-P2 regression. Do not use this strategy decision to alter those pages or attribute their search movement to releases.",
+      "acceptance_criteria": [
+        "reproduce latest and historical page-class values from public-safe GSC snapshots and state the one-guide sample limitation",
+        "distinguish dedicated research-backed guides from one-screen cards and broad chooser or cluster hubs",
+        "make qualified dedicated guides the primary growth experiment without authorizing bulk or thin page creation",
+        "require a distinct search-supported parent job, current SERP and source research, one canonical owner, maintainable original utility, and no clean existing-page fit before a new guide",
+        "freeze a source-derived parent persona task and desktop/mobile simplicity gate that checks first-screen fit and start information plus every-section scan cost",
+        "keep complete queries, causality, family outcomes, tested status, safety performance, and future demand UNKNOWN",
+        "select no implementation URL and change no site, generator, sitemap, workflow, snapshot, indexing, external account, or user-evidence path",
+        "change only the eleven registered documentation and operator paths and pass native QA plus independent read-only review"
+      ],
+      "qa_plan": "Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, validate all public-safe snapshot JSON, independently reproduce the September 5 page-class totals and sampled trend, verify Markdown structure and cross-file role consistency, scan exact scope, privacy, and unsupported claims, and require a different independent read-only reviewer to return PASS or PASS_WITH_P3.",
+      "measurement_plan": "For this strategy transaction, verify arithmetic, evidence labels, page-role consistency, exact scope, and review closure. For each future guide experiment, record the source-derived parent task and baseline page/query evidence, then observe indexation, crawl, impressions, clicks, and aligned queries without treating movement as caregiver-use or format-causality proof.",
+      "production_invariants": "No site, generator, sitemap, workflow, snapshot, URL, indexability, indexing request, external account, product, affiliate, tracker, tested status, parent/child evidence, or production behavior changes. Existing observation windows remain intact.",
+      "reconsider_conditions": "Reconsider the guide-first priority if multiple qualified guides fail to earn discovery after fair crawl windows, aligned query evidence shows hubs own the same jobs better, persona reviews show guides add scan burden without decision utility, maintenance quality cannot be sustained, or independent review finds the inference overstates the one-guide sample.",
+      "implementation_state": "review-clean",
+      "decision": "IMPROVE the content model, not a public page. Use evidence-qualified dedicated activity guides as the primary growth experiment, concise hubs for choice and routing, and compact cards for one-screen execution. Require separate candidate research and a desktop/mobile parent-task simplicity pass before any guide implementation.",
+      "result": "The sole long-form guide has 166 of 234 property impressions and the only click in the September 5 snapshot, versus 37 impressions across six visible collection pages and 9 across six visible individual cards. Its visible impressions rise from 10 through July 16 to 166 through September 3. The repository now records this as strong directional support with an explicit one-guide, overlapping-window, query-availability, and confounder boundary. No implementation URL is selected and production is unchanged.",
+      "qa_summary": "git diff --check and roadmap JSON parsing pass. All 50 public-safe snapshot JSON files parse and all 49 repository tests pass. The September 5 class totals and eight sampled trend rows reproduce from snapshot JSON. Exact-scope verification finds only the eleven registered paths, including the untracked strategy record. Markdown structure, privacy, trust-boundary, and unsupported-claim checks pass.",
+      "review_cycles": 1,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Codex Operator Review Agent",
+        "agent_id": "01a07648-ac88-7ab1-9e51-bc475877cc9e",
+        "read_only": true
+      },
+      "review_findings": "Independent review returned PASS with no P0-P3. The reviewer reproduced all eight sampled GSC rows plus the September 5 page counts and totals, confirmed exact eleven-path scope, verified the one-guide and confounder limitations, found the guide/hub/card roles noncompeting, and confirmed that the parent-task gate is actionable proxy evaluation without human-use claims.",
+      "release_state": "review-clean-awaiting-push",
+      "next_eligible_action": "separately-register-one-dedicated-guide-query-and-SERP-decision-pack"
     }
   ]
 }

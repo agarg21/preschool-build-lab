@@ -18,6 +18,19 @@ Every activity should have:
 - notes from real testing when available
 - an explicit untested label when the page format could imply firsthand use
 
+## Page Role Standard
+
+- Dedicated activity guides own one concrete activity-running or
+  problem-solving job and provide the maintained depth.
+- Collection and age hubs help a caregiver choose among distinct jobs, then
+  route to the canonical depth without repeating every guide.
+- Activity cards stay compact enough for one-screen execution and may link to
+  a richer guide without competing for the same search job.
+
+Dedicated guides are the primary growth experiment only when they pass the
+research and parent-task gates below. Do not turn this priority into thin
+one-page-per-keyword production.
+
 ## Originality Standard
 
 Original does not mean every idea is invented from nothing. It means Kid Activity Lab adds useful parent value:
@@ -96,6 +109,14 @@ Before creating or materially changing an indexable page:
 - audit every relevant current page and every visible section considered for
   implementation;
 - promote at most one bounded implementation.
+
+For a new dedicated activity guide, also require one concrete search-supported
+parent job, no clean fit in an existing owner, current source and maintenance
+feasibility, and original decision or execution utility. Before publication,
+run one source-derived caregiver task on desktop and mobile: can the parent
+judge fit and start without another broad search? Every visible section must
+earn its scan cost. Compress, move, or remove repetition, search narration,
+and secondary detail that delays the runnable answer.
 
 Use `seo/activity-cluster-research-protocol.md` and
 `reviews/persona-review-protocol.md`.

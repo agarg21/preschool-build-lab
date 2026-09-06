@@ -18,6 +18,43 @@ and release verification.
 
 ## Active Priority
 
+`KAL-STRAT-001` is registered from clean aligned base
+`195edae615e5087779a1744a3fa308a5b0c01a77`. It changes only one new
+dedicated-guide strategy record; current strategy, content principles, content
+model, and persona protocol; product learning and priority status; and the
+four operator mirrors. Production is out of scope.
+
+The September 5 public-safe GSC snapshot is finalized through September 3.
+The sole dedicated long-form activity guide has 166 of 234 property
+impressions and the only click. Six visible collection pages total 37
+impressions and six visible individual cards total 9. Across sampled
+overlapping 28-day windows, the guide grows from 10 impressions through July
+16 to 166 through September 3 while visible collection totals move from 8 to
+37 and card totals from 1 to 9.
+
+This is a strong directional signal, not proof that format caused performance.
+There is only one long-form guide; complete queries are unavailable; and its
+topic, demand, page age, internal links, and revision history are confounded.
+The bounded strategy decision is to make evidence-qualified dedicated guides
+the primary growth experiment, keep hubs concise for choosing and routing,
+and keep cards concise for one-screen execution.
+
+Every future guide must first pass current keyword/SERP research, source and
+maintenance feasibility, canonical ownership, and a source-derived caregiver
+task at 1280x900 and 390x844. Every section must earn its scan cost; repeated
+answers, SEO narration, and secondary detail that delays the first usable
+start must be compressed, moved, or removed. `KAL-STRAT-001` selects no page
+for implementation and preserves all current observation windows.
+
+Native QA passes `git diff --check`, roadmap JSON, all 50 snapshot JSON files,
+all 49 repository tests, exact scope, historical and latest GSC arithmetic,
+Markdown structure, privacy, and unsupported-claim checks. Independent
+read-only reviewer Codex Operator Review Agent, thread
+`01a07648-ac88-7ab1-9e51-bc475877cc9e`, returned `PASS` with no P0-P3. The
+strategy transaction is review-clean for push-only release.
+
+## KAL-IMP-007 Release Record
+
 `KAL-IMP-007` is released and production-verified from clean aligned base
 `b6732ba3d3cd4e9ae6c42ee6b33447306820a23f` as the first September 6 pilot
 transaction. It may change only the exact 14 paths frozen in

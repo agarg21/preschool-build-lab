@@ -29,6 +29,32 @@ means the tool did not return volume; `UNKNOWN` means the current research did
 not measure that page's primary query. GSC positions are 28-day page-level
 averages, not query ranks. Complete current GSC query rows remain unavailable.
 
+## September 6 Guide-First Strategy Overlay
+
+`KAL-STRAT-001` records a bounded format decision from the September 5
+public-safe GSC snapshot and sampled history. The sole long-form activity
+guide, the cardboard ramp page, has 166 impressions, the only click, and
+page-average position 13.01. Six visible collection pages total 37
+impressions, while six visible individual card pages total 9. The guide grows
+from 10 impressions through July 16 to 166 through September 3 across
+overlapping 28-day windows.
+
+This is strong directional support for a guide-first experiment, not format
+causality. There is one guide, complete queries are unavailable, and topic,
+demand, page age, internal links, and revisions are confounded. The strategy
+therefore selects no new URL here.
+
+Future qualified guides own one concrete activity-running or problem-solving
+job. Hubs remain concise choice and routing surfaces; cards remain compact
+one-screen utilities. A future guide requires separate current keyword/SERP
+research, current source and maintenance feasibility, one canonical owner,
+original KAL utility, and a source-derived caregiver task that passes on
+desktop and mobile. Every section must earn its scan cost.
+
+Native QA is green and independent read-only review returned `PASS` with no
+P0-P3. This documentation-only strategy change is review-clean; production
+and the existing observation windows remain unchanged.
+
 ## September 6 Implementation Overlay
 
 `KAL-IMP-007` applies the review-clean preschool STEM decision model in

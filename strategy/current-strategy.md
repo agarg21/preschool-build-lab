@@ -61,8 +61,17 @@ The site can serve five engagement lanes:
 At-home, free, low-prep, screen-free, age-specific, and similar modifiers are
 constraints and filters. They are not the site's mission.
 
-Activity and game cards are the utility layer. They should help a parent and
-child start quickly from one screen.
+Evidence-qualified dedicated activity guides are the primary editorial and
+SEO growth experiment. They should own one concrete activity-running or
+problem-solving job and help a caregiver judge fit, start, recover, and vary
+the activity without another broad search. The September 6 decision is
+directional rather than causal: the only current long-form guide is also the
+site's dominant GSC page, but one page cannot prove a format effect.
+
+Broad hubs remain concise choice and routing surfaces. Activity and game cards
+remain the compact utility layer for one-screen execution. A hub should route
+to maintained depth rather than repeat it, and a card should not compete with
+a richer canonical guide for the same search job.
 
 Video curation is a supporting archive. It can help discover ideas or help parents visualize setup, but it is not the main ranking bet.
 
@@ -107,17 +116,20 @@ reconcile current sources, add a useful KAL chooser or explanatory visual,
 state that it is untested when ambiguity is likely, and preserve every
 parent/child outcome as `UNKNOWN`.
 
-The validated 2026-08-01 public-safe GSC snapshot has finalized data through
-2026-07-30 and shows 90 impressions, no clicks, 61 discovered pages, and 7 of
-7 priority URLs indexed. The prior snapshot has 91 impressions and no clicks.
-Average position moved from 33.24 to 33.56, while the cardboard ramp article
-is unchanged at 31 impressions and 17.32. Complete query rows remain
-unavailable, so this small rolling-window movement is monitoring context and
-does not alter `KAL-IMP-002` or trigger another implementation.
+The validated September 5 public-safe GSC snapshot is finalized through
+September 3 and shows 234 impressions, one click, average position 17.62, 61
+discovered pages, and 10 of 10 priority URLs indexed. The cardboard-ramp guide
+has 166 impressions, the only click, and page-average position 13.01. Six
+visible collection pages total 37 impressions, while six visible individual
+card pages total 9. Across sampled overlapping windows, the guide grows from
+10 of 30 property impressions through July 16 to 166 of 234 through September
+3. Complete query rows remain unavailable.
 
-The selected ramp improvement is released. Wait for a post-release recrawl and
-at least two finalized public-safe comparison points before attributing
-movement or selecting another content edit.
+This is strong directional support for a guide-first experiment, not proof
+that format caused performance. The site has only one long-form guide, and its
+topic, demand, age, history, internal links, and revisions are confounded.
+Use `seo/dedicated-activity-guide-strategy-2026-09-06.md` as the current format
+decision and require separate candidate research before creating another URL.
 
 For commercial board-game or product guidance, the bottleneck is access,
 firsthand use, current factual checks, original evidence, and disclosure.
@@ -125,21 +137,21 @@ Keyword demand alone is not enough.
 
 ## Do Now
 
-1. Observe `KAL-IMP-002` for discovery and finalized public-safe search
-   evidence without attributing movement to parent usefulness.
-2. Preserve its five-game boundary, six original diagrams, frozen starting
-   versions, and visible source-versus-editorial labels.
-3. Do not create individual game or age pages from the same research.
-4. Keep every parent/child outcome unknown and make no claim that KAL ran any
-   game.
-5. Observe `KAL-IMP-001` without attributing small page-row movement to the
-   release or inferring query intent from public-safe rows.
-6. Use `seo/age-4-keyword-metrics-refresh-2026-07-28.md` as the current paid
-   metric layer; do not treat `n/a` as zero or tool estimates as observed KAL
-   demand.
-7. Use `seo/at-home-kids-demand-competition-map-2026-07-29.md` and
-   `seo/standard-deck-card-game-decision-pack-2026-07-31.md` as the broader
-   demand and completed game-decision layers.
+1. Use dedicated research-backed activity guides as the primary growth
+   experiment, with one separately researched candidate at a time.
+2. Require a distinct query-backed parent job, one canonical owner, current
+   sources, maintainable original utility, and the parent-task simplicity gate
+   before any new guide.
+3. Keep hubs concise for choosing and routing; keep cards concise for
+   one-screen execution.
+4. Observe `KAL-IMP-006` through September 18 and `KAL-IMP-007` through
+   September 20 except a verified P0-P2 regression.
+5. Observe `KAL-IMP-002` without creating individual game or age pages from
+   the same evidence.
+6. Keep every parent/child outcome unknown unless valid evidence exists, and
+   do not infer query intent from public-safe page rows.
+7. Use the dated keyword and demand research as `TOOL_ESTIMATE` context, not
+   current GSC demand or automatic publishing permission.
 
 ## Do Not Do Yet
 
@@ -182,6 +194,8 @@ Create a new page only when:
 - source-backed facts and editorial judgments are distinguishable
 - untested status is explicit when a reasonable reader could infer firsthand
   use
+- a source-derived caregiver task proves that the parent can judge fit and
+  start on desktop and mobile without avoidable clutter
 
 Keep or set a page `noindex,follow` when:
 
@@ -211,6 +225,12 @@ Personas should help answer:
 - which secondary parent constraints deserve visible routes;
 - where instructions, stop rules, rescue lines, or variants are missing;
 - whether a section reduces or adds decision effort.
+
+For a dedicated guide, the default proxy task is to decide whether the
+activity fits the current child and moment, then start without another broad
+search. Each visible section must own one parent job. Compress, move, or remove
+repeated answers, SEO narration, or secondary detail that delays the first
+useful start.
 
 They are `RESEARCH_HYPOTHESIS` evidence. They are not demographic truth,
 parent/child testing, or automatic reasons to create separate pages.

@@ -18,6 +18,43 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-09-06 Dedicated Activity Guide Strategy Review
+
+Action: `KAL-STRAT-001`
+
+State: `PASS` with no P0-P3; review-clean for push-only release
+
+Frozen base: `195edae615e5087779a1744a3fa308a5b0c01a77`
+
+Scope: exactly 11 paths declared in `ops/seo-roadmap.json`: one new strategy
+record; current strategy, content principles, content model, and persona
+protocol; product-learning and priority-page status; and four operator
+mirrors. No site, generator, sitemap, workflow, snapshot, URL, indexability,
+indexing request, external account, product, affiliate, tested status, or
+parent/child evidence may change.
+
+Evidence: validated September 4 and 5 public-safe GSC snapshots, sampled
+public-safe history through September 3, the current page-type inventory, the
+July 28 ramp keyword estimates, and current strategy/review standards.
+Complete query rows and all family outcomes remain `UNKNOWN`.
+
+Decision gate: independently reproduce the latest page-class totals and
+sampled trend; verify that the one-guide limitation and confounders remain
+prominent; confirm that guides, hubs, and cards have noncompeting roles; and
+check that the parent-task gate reduces clutter without implying human use.
+
+Independent read-only reviewer Codex Operator Review Agent, thread
+`01a07648-ac88-7ab1-9e51-bc475877cc9e`, returned `PASS` with no P0-P3. The
+reviewer reproduced all eight sampled GSC rows plus the September 5 page counts
+and class totals, confirmed the exact 11-path scope including the untracked
+strategy record, and found the role model and parent-task gate proportionate.
+The reviewer made no file or external-state changes.
+
+Native QA passes `git diff --check`, roadmap JSON parsing, all 50 snapshot JSON
+files, all 49 repository tests, exact-scope comparison, historical and latest
+GSC arithmetic, Markdown structure, privacy, and unsupported-claim checks. The
+documentation transaction is review-clean for an exact-path push-only release.
+
 ## 2026-09-06 Preschool STEM Front-Door Implementation Review
 
 Action: `KAL-IMP-007`
