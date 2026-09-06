@@ -4,6 +4,50 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-06 - KAL-IMP-007
+
+- **Family decision:** Which one of three preschool STEM modes can the
+  caregiver start now: change and compare a shadow, build and test a paper
+  bridge, or compare and continue a pattern?
+- **Persona task:** Compare all three lanes under a no-kit, younger-child-reach
+  constraint, then start one from the same page with materials, readiness,
+  adult role, child mission, and stopping boundary intact on desktop and
+  mobile.
+- **Falsifiable hypothesis:** The review-clean three-start model will raise the
+  existing-page proxy task from 8 of 24 to at least 22 of 24, expose three
+  direct anchors before the dominant visual, and remove task-specific mobile
+  table overflow without adding a URL or duplicating deeper owners.
+- **Sources and evidence class:** `KAL-LEARN-002` and `KAL-RES-009` provide the
+  dated `RESEARCH_HYPOTHESIS`, `SOURCE_BACKED`, and `EDITORIAL_JUDGMENT`
+  layers. Local DOM geometry, image dimensions, links, tests, and generator
+  scope collected 2026-09-06 are `MEASURED`. September 5 GSC is observation
+  context only; complete queries and all family outcomes remain `UNKNOWN`.
+- **Result:** `IMPROVE` applied locally. The same task scores 23 of 24. Three
+  native links begin at y=456 on 1280x900 and y=590 on 390x844; no document,
+  component, or text overflow appears; all targets settle below the sticky
+  header; and the labeled 1672x941 WebP loads correctly.
+- **Confidence:** High for repository, generated-content, route, responsive,
+  and source-boundary observations; medium-high for the proxy task score;
+  unknown for real caregiver comprehension, child response, timing, mess,
+  engagement, learning, repeatability, safe completion, and search effect.
+- **Action:** Replace the old unlinked table, engineering-heavy eight-card
+  grid, visible keyword narration, and unsupported object-teaching line with
+  exactly three complete same-page starts and deeper owner routes. Independent
+  review cycle one found three P2s and one P3; all were corrected, and cycle
+  two returned `PASS` with no P0-P3. Exact release and production verification
+  remain pending.
+- **Reusable lesson:** A broad page can be more useful with fewer ideas when
+  each idea completes a distinct decision lane and the page routes depth
+  instead of repeating it.
+- **Next falsification trigger:** Independent review finds a P0-P2 content,
+  visual, accessibility, source, or scope defect; production differs from the
+  reviewed bytes; a real user cannot complete the task; or complete query
+  evidence establishes a narrower page job.
+- **Measurement boundary:** The browser run is a proxy evaluation, not user
+  testing. The current GSC performance window predates the change; future
+  crawl, impression, click, and position movement cannot be assigned to this
+  release without aligned evidence.
+
 ## 2026-09-05 - KAL-RES-009
 
 - **Family decision:** Which one of three preschool STEM modes fits the

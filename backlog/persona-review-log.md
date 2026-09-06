@@ -6,6 +6,115 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-06 - Preschool STEM Three-Way Front-Door Task
+
+**Action:** `KAL-IMP-007`
+
+**Page:**
+https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html
+
+**Evidence basis:** The source-traced `KAL-LEARN-002` task and review-clean
+`KAL-RES-009` decision pack; the generated local page from frozen base
+`b6732ba3d3cd4e9ae6c42ee6b33447306820a23f`; the September 5 public-safe GSC
+snapshot; focused and full native QA; and local 1280x900 plus 390x844 browser
+observations collected 2026-09-06. The persona and score are
+`RESEARCH_HYPOTHESIS` and `EDITORIAL_JUDGMENT`; rendering and repository checks
+are `MEASURED`. This is not human testing.
+
+**Decision:** Compare one preschool science investigation, one engineering
+build, and one math or pattern activity, then choose and start one using common
+household materials.
+
+**Constraints:** No specialized kit, toy car, magnetic tiles, LEGO, or DUPLO;
+the adult role and stopping boundary must be clear; readiness cannot be
+inferred from an age label; a younger child may reach loose materials.
+
+**Required outputs:** A visible discipline and mission, materials or
+substitution, observable readiness cue, adult setup role, first child action,
+stop/reset or cleanup, and one direct same-page route for each of three leads.
+
+**Secondary stress constraint:** Every material must be suitable for the
+youngest child who can reach the setup, and the caregiver must be able to stop
+after one bounded comparison rather than extending the activity.
+
+**Observable success:** All three choices and all required fields are direct
+without horizontal scrolling or another broad search; the first useful choice
+begins inside the first viewport; links are native and targets remain visible
+below the sticky header; the source and untested boundary is visible; no
+unsupported outcome or safety claim appears.
+
+**Observable failure:** A discipline is missing, the page again collapses into
+ramps or structures, a start or stop field is absent, the illustration
+contradicts the written material set, the page implies family testing, or a
+trust-sensitive claim is unsupported.
+
+### Score
+
+| Dimension | Score | Evidence |
+| --- | ---: | --- |
+| Task answerability | 2 | The first decision surface links directly to science, engineering, and math starts; each complete start remains on the page. |
+| Age and ability adaptation | 2 | Every lead uses an observable readiness cue and names the adult fallback rather than using age alone as fit evidence. |
+| Materials and substitutions | 2 | Every lead names a common-material set plus a substitution; specialized kits and toy-car dependence are absent. |
+| Setup, duration, and cleanup clarity | 2 | Adult setup and stop/reset are direct for every lead, while timing and mess are explicitly unknown instead of presented as measured. |
+| Adult involvement and supervision | 2 | Each lead assigns the adult the light, bridge supports, or pattern start and gives a concrete stop boundary. |
+| Indoor, outdoor, weather, and space fit | 1 | Wall, walking-path, floor-gap, and loose-piece boundaries are local and actionable, but the chooser does not compare broader weather or room contexts because those belong to other owners. |
+| Mixed-age or difficulty adaptation | 2 | Readiness fallbacks and the youngest-reachable-child material rule directly cover the selected stress constraint. |
+| Sensory and accessibility considerations | N/A | The retained evidence does not establish a specific sensory or mobility task, so no result is inferred. |
+| Educational purpose | 2 | Each lane names one observable process: change and compare, build and test, or compare and continue, without promising learning. |
+| Safety and trust boundaries | 2 | The page states it is not family-tested, keeps outcomes unknown, uses cautious stop language, and labels the generated visual. |
+| Mobile readability and interaction | 2 | At 390x844 the first chooser begins at y=590, every link fits a 350px content width, no component or document overflows, and all anchor targets settle near y=108 below the sticky header. |
+| Unnecessary detours, repetition, and buried answers | 2 | The unlinked table, repeated eight-card grid, keyword narration, and unsupported object-teaching line are absent. |
+| Decision without another broad search | 2 | Materials, readiness, adult role, child action, and stopping boundary are complete for all three choices before deeper optional routes. |
+
+**Total:** 23 of 24 across 12 relevant dimensions.
+
+**Automatic-failure check:** None triggered. The result is locally `IMPROVE`
+applied and independently review-clean after cycle-two `PASS`, pending exact
+release and production verification. No caregiver comprehension, child
+response, timing, engagement, learning, safety outcome, or search effect is
+inferred.
+
+### Responsive Evidence
+
+- Desktop 1280x900: first chooser y=456; each of three links is 347px wide and
+  150px high; document scroll width equals 1280; no horizontal scroller; image
+  loads at natural 1672x941.
+- Mobile 390x844: first chooser y=590; the three links stack at 350px wide;
+  document scroll width equals 390; no component or text overflow; image loads
+  at natural 1672x941.
+- All three anchor targets match their hashes and settle at y=108 below the
+  sticky mobile header. Native anchors and explicit focus-visible styling
+  provide the keyboard route; the browser produced no warning or error.
+- A full-page mobile screenshot exposed a browser stitching artifact that
+  repeated sections in the capture. DOM counts and ordinary viewport captures
+  show one instance of each section, so the stitched capture is excluded as
+  page evidence.
+
+### Section Audit
+
+| Section | Result | Verdict |
+| --- | --- | --- |
+| Header and navigation | Existing home, Original, and Cards routes are unchanged. | Preserve. |
+| Hero | Names the broad owner and three concrete actions without claiming that an object teaches or that a child will learn. | Improve applied. |
+| Three-link chooser | Starts at y=456 desktop and y=590 mobile; links directly to the three complete modules. | Replace applied; pass. |
+| Evidence note | Separates named sources from editorial choices and keeps human outcomes unknown. | Add applied; pass. |
+| Illustration | Shows and labels the three material zones: a blank wall, exactly two closed bridge books, exactly four A-B-A-B starter pieces, and one loose blue next piece; clearly AI-generated and not a test photo. | Add applied; pass after cycle-one correction. |
+| Shadow Builder | Includes materials, substitution, readiness, adult role, mission, three actions, and stop/reset. | Add applied; pass. |
+| Bridge Rescue | Includes two low closed books, one sheet, large light test object, readiness, adult ownership, one fold, and stop/reset. | Add applied; pass. |
+| Pattern Path | Includes two large piece types, youngest-child rule, readiness fallback, A-B start, one extension, and cleanup. | Add applied; pass. |
+| Deeper routes | Routes science, engineering, math, and age-four STEM to distinct owners; original pack and card library remain optional. | Add applied; pass. |
+| Sources and limits | Links five current sources and states their proportional boundary. | Add applied; pass. |
+| Old table, grid, and keyword narration | Removed without adding a new URL or another broad roundup. | Remove applied; pass. |
+| Footer | Existing card-library route is unchanged. | Preserve. |
+
+### Decision
+
+The local implementation passes the source-traced task at 23 of 24.
+Independent read-only cycle one returned `FAIL` with three corrected P2s and
+one corrected P3; cycle two returned `PASS` with no P0-P3. The implementation
+is review-clean and eligible for exact-path release. Production remains
+unchanged until that release is verified.
+
 ## 2026-09-05 - Broad Preschool STEM Choice Task
 
 **Action:** `KAL-LEARN-002`

@@ -8,10 +8,9 @@ automation.
 
 ## Current sequence
 
-1. After the review-clean `KAL-RES-009` research release, separately register
-   `KAL-IMP-007` if proceeding: implement only the existing-URL preschool STEM
-   front door with one observe, one build-and-test, and one
-   compare-or-continue lead choice.
+1. Review the completed local `KAL-IMP-007` existing-URL preschool STEM front
+   door. Release only after native/browser QA remains green and a different
+   independent read-only reviewer returns `PASS` or `PASS_WITH_P3`.
 2. Observe released `KAL-IMP-005` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, canonical selection,
    ranking causality, or family outcomes, and do not request indexing.
@@ -49,6 +48,67 @@ automation.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-IMP-007 Implemented Locally On 2026-09-06
+
+- Frozen clean aligned base:
+  `b6732ba3d3cd4e9ae6c42ee6b33447306820a23f`.
+- Evidence: completed review-clean `KAL-LEARN-002` and `KAL-RES-009`, the
+  generated production page, and the validated September 5 public-safe GSC
+  snapshot. No September 6 snapshot existed at registration.
+- Exact 14-path scope: generator; existing preschool STEM HTML; one required
+  three-material WebP; scoped CSS; sitemap output; one focused test; one
+  implementation-review record; product and persona learning logs; priority
+  status; and four operator mirrors.
+- Falsifiable hypothesis: replacing the unlinked time/mess table,
+  engineering-heavy eight-card grid, and visible search narration with three
+  complete same-page starts will raise the proxy task from 8 of 24 to at least
+  22 of 24, expose three direct anchors, and remove task-specific mobile table
+  overflow without changing page ownership.
+- Preserve the URL, title, canonical, one H1, indexability, and broad preschool
+  STEM job. Create no new URL and change no unrelated generated page.
+- Required starts: `Shadow Builder` at `#shadow-change`, `Bridge Rescue` at
+  `#paper-bridge-test`, and `Pattern Path` at `#continue-a-pattern`. Each must
+  expose the frozen materials, readiness cue, adult role, child mission,
+  stop/reset, substitution, and evidence boundary.
+- Place the required labeled illustrative WebP after the first useful chooser.
+  It cannot imply a family session, measured outcome, or tested setup.
+- Timing, mess, comprehension, engagement, enjoyment, learning,
+  repeatability, frustration, safe completion, complete queries, and causal
+  ranking effect remain `UNKNOWN`.
+- QA: all three generators; second-run byte idempotence; exact generated-output
+  scope; focused and full tests; HTML, XML, image, link, fragment, privacy, and
+  claim checks; 1280x900 and 390x844 persona/every-section browser checks; and
+  a different independent read-only reviewer returning `PASS` or
+  `PASS_WITH_P3`.
+- Local result: the generated page now has exactly three native choices and
+  complete `Shadow Builder`, `Bridge Rescue`, and `Pattern Path` modules. The
+  proxy task moves from 8 of 24 to 23 of 24. First-choice y is 456 at
+  1280x900 and 590 at 390x844; no document, component, or text overflow is
+  present; all three targets settle below the sticky header; and the labeled
+  1672x941 WebP loads correctly.
+- Pre-review QA passes Python compilation, all three generators, second-run
+  byte idempotence across 81 site files, exact generated-output scope, 8
+  of 8 focused tests, 49 of 49 full tests, 65-page link/fragment validation,
+  roadmap JSON, sitemap XML, image, privacy, claim, and all 50 snapshot checks,
+  plus desktop/mobile persona and every-section browser checks with no console
+  errors.
+- Review cycle one: independent read-only reviewer Caliper, thread
+  `01a07609-1ce0-7e82-8c66-eb37337df68f`, returned `FAIL` with no P0-P1,
+  three P2s, and one P3. The corrections remove Pattern Path's accidental
+  second placement, replace the board/eight-piece visual with the frozen blank
+  wall and four-piece starter plus one loose blue piece, remove the local cache
+  path from provenance, and give the custom renderer a target-specific
+  stylesheet token. All are inside the original 14-path scope.
+- Corrected QA passes all three generators and 81-file idempotence, 8 of 8
+  focused tests, 49 of 49 full tests, all 50 snapshot validations, 65-page
+  links and fragments, 60 unique sitemap URLs, exact 14-path scope, roadmap
+  JSON, image format/dimensions/SHA, privacy, and desktop/mobile browser checks.
+- Review cycle two: Caliper independently reproduced the corrected exact scope,
+  image, native QA, desktop/mobile rendering, keyboard order, anchor offsets,
+  and zero browser errors, then returned `PASS` with no P0-P3.
+- State: review-clean and eligible for exact-path release. Commit, push,
+  exact-SHA Pages, and production verification remain pending.
 
 ## KAL-RES-009 Registered On 2026-09-05
 

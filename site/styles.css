@@ -1267,6 +1267,218 @@ th {
   font-size: 0.9rem;
 }
 
+.preschool-stem-hero {
+  padding-bottom: 8px;
+}
+
+.preschool-stem-page {
+  padding-top: 8px;
+}
+
+.stem-chooser .section-heading h2 {
+  margin: 0 0 8px;
+  font-size: 1.55rem;
+  line-height: 1.15;
+}
+
+.stem-chooser .section-heading p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.stem-mode-links {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 18px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.stem-mode-links a {
+  min-width: 0;
+  min-height: 150px;
+  padding: 18px;
+  border-right: 1px solid var(--line);
+  color: var(--ink);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+.stem-mode-links a:last-child {
+  border-right: 0;
+}
+
+.stem-mode-links a:hover,
+.stem-mode-links a:focus-visible {
+  background: var(--soft);
+}
+
+.stem-mode-links a:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: -3px;
+}
+
+.stem-mode-links strong,
+.stem-mode-links span {
+  display: block;
+}
+
+.stem-mode-links strong {
+  margin: 5px 0 8px;
+  font-size: 1.22rem;
+  line-height: 1.15;
+}
+
+.stem-mode-links span:last-child {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.stem-lane {
+  color: var(--green);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.stem-disclosure {
+  margin: 26px 0 0;
+  padding: 16px 18px;
+  border-left: 5px solid var(--blue);
+  background: #eef7fb;
+}
+
+.stem-disclosure strong,
+.stem-stop strong {
+  display: block;
+}
+
+.stem-disclosure p {
+  margin: 6px 0 0;
+}
+
+.stem-visual {
+  margin: 28px 0 0;
+}
+
+.stem-visual img {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border: 1px solid var(--line);
+}
+
+.stem-visual figcaption {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.stem-starts {
+  margin-top: 52px;
+}
+
+.stem-start {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.72fr) minmax(0, 1.28fr);
+  gap: 34px;
+  padding: 34px 0;
+  border-top: 1px solid var(--line);
+  scroll-margin-top: 88px;
+}
+
+.stem-start:last-child {
+  border-bottom: 1px solid var(--line);
+}
+
+.stem-start h2 {
+  margin: 0 0 10px;
+  font-size: 1.75rem;
+  line-height: 1.12;
+}
+
+.stem-start p {
+  margin: 0;
+}
+
+.stem-start-body {
+  min-width: 0;
+  display: grid;
+  gap: 14px;
+  align-content: start;
+}
+
+.stem-start-body .card-steps {
+  margin: 0;
+}
+
+.stem-substitution {
+  color: var(--muted);
+}
+
+.stem-readiness {
+  padding: 12px 14px;
+  border-left: 5px solid var(--yellow);
+  background: #fff8e8;
+}
+
+.stem-stop {
+  padding: 12px 14px;
+  border-left: 5px solid #b5473f;
+  background: #fdf2f0;
+}
+
+.stem-stop span {
+  display: block;
+  margin-top: 4px;
+}
+
+.stem-deeper-routes {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 18px;
+  border-top: 1px solid var(--line);
+  border-left: 1px solid var(--line);
+}
+
+.stem-deeper-routes a {
+  min-width: 0;
+  min-height: 120px;
+  padding: 16px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  color: var(--ink);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+.stem-deeper-routes a:hover,
+.stem-deeper-routes a:focus-visible {
+  background: var(--soft);
+}
+
+.stem-deeper-routes strong,
+.stem-deeper-routes span {
+  display: block;
+}
+
+.stem-deeper-routes span {
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.stem-optional-label {
+  margin: 22px 0 0;
+}
+
+.stem-optional-routes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  margin: 6px 0 0;
+  padding-left: 20px;
+}
+
 .legacy-redirect {
   min-height: 56vh;
   padding-top: 64px;
@@ -1494,6 +1706,32 @@ th {
   .indoor-rotation a:last-child,
   .indoor-support li:last-child {
     border-bottom: 0;
+  }
+
+  .stem-mode-links,
+  .stem-start,
+  .stem-deeper-routes {
+    grid-template-columns: 1fr;
+  }
+
+  .stem-mode-links a {
+    min-height: 0;
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .stem-mode-links a:last-child {
+    border-bottom: 0;
+  }
+
+  .stem-start {
+    gap: 18px;
+    padding: 30px 0;
+    scroll-margin-top: 108px;
+  }
+
+  .stem-deeper-routes a {
+    min-height: 0;
   }
 
   h1 {

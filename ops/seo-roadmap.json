@@ -1824,6 +1824,78 @@
       "released_on": "2026-09-05",
       "next_eligible_action": "KAL-IMP-007-separate-registration",
       "notes": "Second 2026-09-05 pilot transaction. Exact eight-path research and operator scope from clean aligned base d344c67d302d9f8c42506bcd440bad0ab7a9e3fb. Independent reviewer Codex completed two strict read-only cycles; cycle two returned PASS_WITH_P3 with no P0-P2, and the P3 wording cleanup is applied. Released push-only in reviewed commit 37c98e150bf7bbaf1b692ffaeec6371cffa1c137. Public production remains frozen."
+    },
+    {
+      "id": "KAL-IMP-007",
+      "title": "Build the preschool STEM three-way front door",
+      "kind": "existing-page-implementation",
+      "lane": "existing-page-utility",
+      "impact": 5,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 3,
+      "risk": 2,
+      "status": "review_clean_release_pending",
+      "selected_on": "2026-09-06",
+      "frozen_base": "b6732ba3d3cd4e9ae6c42ee6b33447306820a23f",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": false,
+      "required_evidence": [
+        "completed_review_clean_KAL-LEARN-002",
+        "completed_review_clean_KAL-RES-009",
+        "validated_2026-09-05_GSC_snapshot",
+        "current_preschool_STEM_generator_and_production_page",
+        "frozen_three-lead_source_claim_and_ownership_boundaries"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html"
+      ],
+      "target_paths": [
+        "scripts/generate_seo_pages.py",
+        "site/collections/stem-activities-for-preschoolers.html",
+        "site/assets/preschool-stem/preschool-stem-three-ways.webp",
+        "site/styles.css",
+        "site/sitemap.xml",
+        "tools/preschool-stem-front-door.test.mjs",
+        "reviews/preschool-stem-front-door-implementation-review.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "At 1280x900 and 390x844, a caregiver can compare and start one science, engineering, or math activity from three complete same-page modules without horizontal scrolling or another broad search; every lead exposes its frozen materials, observable readiness cue, adult role, child mission, stop/reset boundary, and direct anchor before deeper routes.",
+      "baseline": "KAL-LEARN-002 scored the production page 8 of 24. Its eight choices are ramps, structures, or specialized brick/tile builds; direct lead links are 0 of 3; the 620px chooser table sits in a 348px mobile scroller; the first linked activity begins at y=974 on 1280x900 and y=1075 on 390x844. KAL-RES-009 independently review-cleaned the exact three-lead replacement. The September 5 GSC snapshot is finalized through September 3 and reports 234 property impressions, one click, average position 17.62, 10 of 10 priority URLs indexed, and eight target-page impressions at page-average position 54.38. Complete queries and all family outcomes remain unavailable.",
+      "hypothesis": "Replacing the unlinked time/mess table, engineering-heavy eight-card grid, and visible keyword narration with a compact three-link chooser and complete same-page Shadow Builder, Bridge Rescue, and Pattern Path starts will let the source-traced caregiver task pass on desktop and mobile while preserving the existing URL and routing deeper jobs to their established owners.",
+      "expected_effect": "Improve the proxy task from 8 of 24 to at least 22 of 24, make all three lead starts directly reachable before the first dominant visual, eliminate the task-specific mobile table overflow, and preserve honest evidence boundaries. Search discovery or ranking change is not promised.",
+      "evidence_classification": "The prior task score, responsive geometry, current repository state, and September 5 public-safe GSC rows are MEASURED within their scopes. HeadStart.gov, TERC, Smithsonian Science in Pre-K, and NAEYC support only the named inquiry, engineering, and pattern processes as SOURCE_BACKED. The three-lane architecture, exact materials, readiness cues, adult roles, scripts, substitutions, stop points, routes, and illustration are EDITORIAL_JUDGMENT. The August 4 Semrush volume is a dated TOOL_ESTIMATE. Complete queries, parent comprehension, child response, timing, mess, engagement, enjoyment, learning, repeatability, frustration, safe completion, and causal ranking effect remain UNKNOWN.",
+      "human_gate": "Not required for a reviewed research-backed non-product existing-page implementation under standing release authority. The page must explicitly say Kid Activity Lab has not family-tested the setups and keep all parent/child outcomes UNKNOWN. Tested status, product recommendations, outreach, external accounts, indexing requests, and safety-performance claims remain prohibited.",
+      "observation_window": "After release, protect the URL, title, canonical, H1, three-lane ownership, first-choice structure, and direct anchors for 14 days except a verified P0-P2 production, factual, accessibility, security, or trust regression. Continue protecting KAL-IMP-006 through 2026-09-18. Observe finalized crawl and page/query evidence without assigning causality.",
+      "acceptance_criteria": [
+        "preserve the existing URL, title, canonical, one H1, indexability, and broad preschool STEM ownership",
+        "place a compact native three-link chooser before any dominant image or long prose using #shadow-change, #paper-bridge-test, and #continue-a-pattern",
+        "publish exactly three complete same-page lead modules with the frozen materials, readiness cue, adult setup, child mission, stop/reset, substitutions, and cautious supervision language",
+        "place one labeled illustrative three-material WebP after the first useful chooser without implying a family session, activity outcome, or tested setup",
+        "route deeper science, engineering, math, and age-four STEM jobs to their established owners and keep the original pack and card library optional rather than required task-completion destinations",
+        "state the research-backed and not-family-tested evidence boundary and keep timing, mess, comprehension, engagement, learning, repeatability, safe completion, complete queries, and search causality UNKNOWN",
+        "remove the unlinked time/mess table, repeated engineering-heavy grid, visible search-phrase narration, and unsupported object-teaching claim without replacing them with generic prose",
+        "pass generator idempotence and exact-output scope, focused and full tests, link and fragment checks, HTML and sitemap parsing, image checks, desktop/mobile persona and every-section QA, exact-path and privacy checks, and independent read-only review"
+      ],
+      "qa_plan": "Run python3 scripts/generate_card_pages.py, python3 scripts/generate_seo_pages.py, and python3 scripts/generate_sitemap.py; prove a second generator run is byte-idempotent and that generated output changes only the declared target page and sitemap. Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, parse HTML and sitemap XML, check all local links and fragments, validate the image dimensions/load/crop/alt/provenance/placement, and rerun the frozen task plus every-section, keyboard, text-fit, overflow, console, and network checks at 1280x900 and 390x844. Require a different independent read-only reviewer to return PASS or PASS_WITH_P3 and fix all P0-P2 findings for at most three cycles.",
+      "measurement_plan": "Compare the 8-of-24 task baseline, 0-of-3 direct links, 620px-in-348px mobile table, and first-linked-content y positions with the generated result at 1280x900 and 390x844. Record the post-change score, first useful choice position, document and local overflow, complete required outputs, image behavior, and review result. After release, observe crawl and finalized page/query evidence without attributing movement to the change.",
+      "production_invariants": "No new URL, redirect, workflow, GSC snapshot, external account, indexing request, product or affiliate surface, tracker, tested status, parent/child evidence, KAL-IMP-006 path, or unrelated generated page may change. Preserve the current target URL, title, canonical, H1, indexability, and deeper owner URLs. New CSS selectors must not alter unrelated pages.",
+      "reconsider_conditions": "Revert or narrow if any direct lead lacks a required task output, the illustration contradicts the written setup or implies tested use, another page changes outside declared generated scope, mobile or keyboard behavior regresses, a P0-P2 review or production defect remains unresolved, source support materially changes, or complete query evidence establishes a narrower owner job.",
+      "implementation_state": "review-clean-release-pending",
+      "decision": "The corrected and independently review-clean implementation applies the KAL-RES-009 candidate on the existing preschool STEM URL only. It uses three complete same-page starts and the required illustrative visual, adds no page, and removes the prior eight-card presentation rather than retaining breadth for count. It is eligible for exact-path release and production verification.",
+      "result": "The generated local page preserves its owner and now exposes exactly three native choices and complete Shadow Builder, Bridge Rescue, and Pattern Path modules. The same proxy task improves from 8 of 24 to 23 of 24. The first choice starts at y=456 on 1280x900 and y=590 on 390x844; document and component widths do not overflow; all three anchors settle below the sticky header; and the corrected labeled 1672x941 WebP matches the blank-wall, two-book, and four-piece starter constraints. These are repository, rendering, and editorial proxy observations, not caregiver or child outcomes.",
+      "qa_summary": "Corrected cycle-one QA passes Python compilation; all three generators; byte-idempotence across 81 site files; exact 14-path and generated-output scope; 8 of 8 focused tests; 49 of 49 full tests; git diff --check; roadmap JSON; 65-page local link and fragment checks; 60 unique sitemap URLs; HTML, image format/dimensions/SHA, added-line privacy, and claim checks; all 50 public-safe snapshot validations; and 1280x900 plus 390x844 persona and every-section browser checks with no overflow or console errors. All three native anchors settle at about y=108 below the mobile sticky header. Cycle-two independent rereview is pending.",
+      "review_cycles": 2,
+      "review_outcome": "PASS",
+      "review_findings": "Cycle one: no P0-P1; three P2s and one P3. P2-1 removed a second Pattern Path placement that contradicted the frozen one-extension stop and added a focused regression assertion. P2-2 replaced the board and eight-piece pattern visual with a blank room wall, exactly four A-B-A-B starter pieces, one loose blue next piece, and the unchanged two-book bridge; alt and provenance were reconciled. P2-3 removed an ephemeral machine-local generation path from the durable record. The P3 target-specific stylesheet token was also applied. Cycle two: PASS with no P0-P3. The reviewer independently reproduced corrected content, asset, source, privacy, exact-scope, generator, test, link, sitemap, desktop/mobile, keyboard, anchor, console, and network evidence.",
+      "next_eligible_action": "none-until-exact-path-commit-push-pages-and-production-verification-complete",
+      "notes": "First 2026-09-06 pilot transaction. Registered from clean aligned base b6732ba3d3cd4e9ae6c42ee6b33447306820a23f. Independent reviewer Caliper, thread 01a07609-1ce0-7e82-8c66-eb37337df68f, completed two strict read-only cycles. Cycle one returned FAIL with three P2s and one P3; every finding was corrected within the exact 14-path scope. Corrected native/browser QA passes, and cycle two returned PASS with no P0-P3. The generated visual is explicitly illustrative and not family-test evidence. Exact commit, Pages verification, and production persona checks remain pending."
     }
   ]
 }

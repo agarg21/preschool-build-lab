@@ -18,6 +18,66 @@ and release verification.
 
 ## Active Priority
 
+`KAL-IMP-007` is implemented locally from clean aligned base
+`b6732ba3d3cd4e9ae6c42ee6b33447306820a23f` as the first September 6 pilot
+transaction. It may change only the exact 14 paths frozen in
+`ops/seo-roadmap.json`: the SEO generator, existing preschool STEM HTML, one
+required WebP, scoped CSS, sitemap output, one focused test, one implementation
+review, the two learning logs, priority status, and four operator mirrors.
+
+The motivating proxy task is to compare and start one science, engineering,
+or math activity using common household materials while a younger child may
+reach loose pieces. Production scored 8 of 24 on September 5: it has no direct
+lead links, its eight choices remain ramps, structures, or specialized
+brick/tile builds, and its 620px table sits in a 348px mobile scroller. The
+review-clean source audit supports complete same-page starts for `Shadow
+Builder`, `Bridge Rescue`, and `Pattern Path` with one observable readiness cue
+each.
+
+The hypothesis is that a compact three-link chooser followed by exactly those
+three complete starts will score at least 22 of 24 at 1280x900 and 390x844,
+remove the task-specific horizontal table scroller, and make the first useful
+choice visible before a dominant image. Preserve the current URL, title,
+canonical, one H1, indexability, and deeper discipline owners. Add no URL,
+product, tracker, indexing request, tested claim, parent/child evidence, exact
+time/mess promise, or causal ranking claim.
+
+Registration uses the September 5 snapshot, finalized through September 3,
+as observation context because no September 6 snapshot existed at start. The
+local implementation now exposes exactly three direct choices and complete
+`Shadow Builder`, `Bridge Rescue`, and `Pattern Path` starts. The proxy task
+moves from 8 of 24 to 23 of 24. First-choice y is 456 at 1280x900 and 590 at
+390x844; no document, component, or text overflow appears; all three targets
+settle below the sticky header; and the labeled 1672x941 WebP loads correctly.
+
+Pre-review QA passes Python compilation, all three generators, byte
+idempotence across 81 site files, exact generated-output scope, 8 of 8
+focused tests, 49 of 49 full tests, 65-page link/fragment validation, roadmap
+JSON, sitemap XML, image, privacy, claim, and all 50 snapshot checks, plus
+desktop/mobile persona and every-section browser checks with no console
+errors. A different independent read-only review remains the release gate.
+Only `PASS` or `PASS_WITH_P3` may proceed to the existing standing
+reviewed-release authority and exact-SHA Pages verification.
+
+Independent read-only reviewer Caliper, thread
+`01a07609-1ce0-7e82-8c66-eb37337df68f`, returned cycle-one `FAIL` with no
+P0-P1, three P2s, and one P3. The exact-scope corrections remove Pattern
+Path's accidental second placement, replace the board/eight-piece visual with
+the frozen blank wall and four-piece A-B-A-B starter plus one loose blue next
+piece, remove the machine-local cache path from provenance, and give the
+custom renderer a target-specific stylesheet token. Corrected QA and
+cycle-two rereview remain release gates. Corrected QA passes all three
+generators and 81-file idempotence, 8 of 8 focused tests, 49 of 49 full tests,
+all 50 snapshot validations, 65-page links and fragments, 60 unique sitemap
+URLs, exact 14-path scope, roadmap JSON, image format/dimensions/SHA, added-line
+privacy, and desktop/mobile browser checks with no overflow or console errors.
+
+Cycle two returned `PASS` with no P0-P3. Caliper independently reproduced the
+corrected image, one-extension boundary, target-specific stylesheet, exact
+scope, generator and native QA, desktop/mobile fit, keyboard order, anchor
+offsets, and clean browser logs. The implementation is review-clean and may
+proceed to its exact-path commit, exact-SHA Pages run, and production checks.
+
 `KAL-RES-009` is registered from clean aligned base
 `d344c67d302d9f8c42506bcd440bad0ab7a9e3fb`, including the disjoint September
 5 automated GSC snapshot. This second September 5 pilot transaction changes

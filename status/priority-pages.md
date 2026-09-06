@@ -1,6 +1,6 @@
 # Priority Page Status
 
-Last updated: 2026-09-05
+Last updated: 2026-09-06
 
 Sources:
 
@@ -28,6 +28,38 @@ the dated project research. Close variants overlap and are not summed. `n/a`
 means the tool did not return volume; `UNKNOWN` means the current research did
 not measure that page's primary query. GSC positions are 28-day page-level
 averages, not query ranks. Complete current GSC query rows remain unavailable.
+
+## September 6 Implementation Overlay
+
+`KAL-IMP-007` applies the review-clean preschool STEM decision model locally
+to the existing broad owner. The generated page now begins with one native
+choice for science/change-and-compare, engineering/build-and-test, and
+math/compare-and-continue, followed by exactly three complete same-page starts
+and routes to the established deeper owners. No URL, indexability, product,
+tracker, indexing request, or unrelated generated page changes.
+
+The same source-traced proxy task moves from 8 of 24 on production to 23 of 24
+locally. At 1280x900 the first choice begins at y=456; at 390x844 it begins at
+y=590. Document width equals viewport width at both sizes, no component or
+text overflows, all three native anchor targets settle below the sticky
+header, the generated WebP loads at natural 1672x941, and browser logs are
+clean. This is measured rendering plus editorial proxy review, not parent or
+child testing.
+
+The September 5 public-safe GSC snapshot remains observation context: data
+through September 3, 234 property impressions, one click, average position
+17.62, 61 discovered pages, and 10 of 10 priority URLs indexed. The target
+page has eight impressions, no clicks, page-average position 54.38, and an
+August 19 crawl. Complete queries and all family outcomes remain unavailable.
+
+All pre-review native and browser QA passed. Independent reviewer Caliper
+returned cycle-one `FAIL` with three P2s and one P3. The exact-scope
+corrections remove the Pattern Path second placement, align the image with the
+blank-wall and four-piece starter constraints, remove a local cache path from
+provenance, and add a target-specific stylesheet token. Production remains
+unchanged. Corrected native/browser QA passes. Cycle two returned `PASS` with
+no P0-P3; the exact 14-path implementation is review-clean and eligible for
+release.
 
 ## September 5 Research Overlay
 
@@ -167,7 +199,7 @@ evidence of query intent, causality, or family usefulness.
 | Age-four at-home chooser | https://kidactivitylab.com/ages/activities-for-4-year-olds-at-home.html | `activities for 4 year olds at home`: 50. Refreshed 2026-07-28. | 4 impressions; position 47.5; indexed; crawled 2026-08-26 | Existing age-and-context owner; no recent material implementation. | Page and cluster audited in `KAL-RES-001`; not upgraded through the current research-backed implementation standard. | Sparse signal and broad roundup competition; complete queries unavailable. | Preserve ownership. Revisit only if fresh evidence identifies one bounded usefulness gap. |
 | Original age-four STEM pack | https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html | Primary query demand `UNKNOWN`; supports the age-four STEM cluster. | 2 impressions; position 29.5; indexed; crawled 2026-08-21 | Original pack and deeper execution route; no recent material implementation. | Page and cluster audited in `KAL-RES-001`; current family outcomes remain `UNKNOWN`. | Very sparse search signal and no current primary-query measurement. | Keep as support; do not manufacture a rewrite from cadence. |
 | Age-four STEM chooser | https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html | `stem activities for 4 year olds`: 30. Refreshed 2026-07-28. | 5 impressions; position 39.6; indexed; crawled 2026-08-31 | Broad age-four STEM owner; no recent material implementation. | Page and cluster audited in `KAL-RES-001`; not upgraded through a separate current implementation cycle. | Current crawl but sparse signal and no complete queries. | Preserve the owner; research one bounded improvement only when current evidence supports it. |
-| Preschool STEM chooser | https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html | `stem activities for preschoolers`: 1,300. Refreshed 2026-08-04; variants overlap. | 8 impressions; position 54.38; indexed; crawled 2026-08-19 | Broad preschool STEM owner; distinct from engineering and open-ended building. | `KAL-LEARN-002` independently review-cleaned the 8-of-24 failure; `KAL-RES-009` review-cleaned the exact three-lead candidate with `PASS_WITH_P3`. | Production still cannot compare science, engineering, and math directly. Complete queries and all human outcomes remain unavailable. | Separately register only the existing-URL `KAL-IMP-007` three-way front door; do not add a URL. |
+| Preschool STEM chooser | https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html | `stem activities for preschoolers`: 1,300. Refreshed 2026-08-04; variants overlap. | 8 impressions; position 54.38; indexed; crawled 2026-08-19 | Broad preschool STEM owner. `KAL-IMP-007` locally adds three complete same-page science, engineering, and math starts; production remains unchanged pending release. | `KAL-LEARN-002` review-cleaned the 8-of-24 failure; `KAL-RES-009` review-cleaned the model; the local implementation scores 23 of 24 and has cycle-two `PASS` with no P0-P3. | Complete queries, actual caregiver/child outcomes, and post-change search evidence remain unavailable. | Release the exact reviewed scope, verify production, then protect the owner for 14 days except a verified P0-P2 regression. |
 | Preschool engineering chooser | https://kidactivitylab.com/collections/engineering-activities-for-4-year-olds.html | `engineering activities for preschoolers`: 90. Refreshed 2026-08-04. Age-four exact volume is `n/a`, not zero. | 9 impressions; position 13.22; indexed; crawled 2026-07-26 before the release | Mission-test-redesign owner for editorial ages 4-6. `KAL-IMP-003` released and verified at `f75d414` / run `30909916581`. | Current demand, SERPs, sources, five personas, every section, claims, native/browser QA, and independent implementation review completed under `KAL-RES-006` and `KAL-IMP-003`; final `PASS`. | No post-release inspected crawl or complete query rows. | Observe a post-release crawl or changed finalized GSC evidence. |
 | Age-four math chooser | https://kidactivitylab.com/collections/math-activities-for-4-year-olds-at-home.html | Current exact demand not refreshed in the active research: `UNKNOWN`. | 7 impressions; position 48.43; indexed; crawled 2026-08-25 | Existing hands-on math owner; no recent material implementation. | Current architecture links are covered by `KAL-SEO-001`; no current standalone demand/persona/every-section decision pack. | Sparse page signal; query intent and the concrete usefulness gap remain unavailable. | Eligible for bounded research when selected; do not infer the needed edit from the page row alone. |
 | No-cut preschool chooser | https://kidactivitylab.com/collections/no-cut-preschool-activities.html | `no cut preschool activities`: volume `n/a`, not zero. Refreshed 2026-07-28. | 3 impressions; position 19.67; indexed; crawled 2026-08-23 | Constraint-led preschool owner; no recent material implementation. | Audited as age-four cluster context under `KAL-RES-001`; no separate current implementation review. | Sparse signal and unavailable complete queries. | Keep as a constraint route; revisit only with distinct current evidence. |

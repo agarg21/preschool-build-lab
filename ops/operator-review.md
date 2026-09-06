@@ -18,6 +18,80 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-09-06 Preschool STEM Front-Door Implementation Review
+
+Action: `KAL-IMP-007`
+
+State: implementation complete; pre-review QA passed; independent review pending
+
+Frozen base: `b6732ba3d3cd4e9ae6c42ee6b33447306820a23f`
+
+Scope: exactly 14 paths declared in `ops/seo-roadmap.json`: generator,
+existing preschool STEM page, required three-material WebP, scoped CSS,
+sitemap output, focused test, implementation-review record, two learning logs,
+priority status, and four operator mirrors. No new URL, unrelated generated
+page, workflow, snapshot, indexing request, external account, product,
+affiliate, tracker, tested status, or parent/child evidence may change.
+
+Evidence: completed `KAL-LEARN-002` task evaluation and review-clean
+`KAL-RES-009` source audit; current generated page and owners; September 5
+public-safe GSC observation context. Complete queries and all family outcomes
+remain `UNKNOWN`.
+
+Implementation gate: verify the exact three native anchors and complete
+same-page leads; every frozen material, readiness, adult-role, child-mission,
+stop/reset, substitution, route, source, and untested boundary; the required
+illustration and provenance; removal of the old table, repeated grid, keyword
+narration, and object-teaching claim; preservation of URL/title/canonical/H1
+ownership; exact generated scope; and the 1280x900 plus 390x844 task.
+
+Implementation result: the generated page exposes exactly three direct choices
+and complete `Shadow Builder`, `Bridge Rescue`, and `Pattern Path` modules.
+The proxy task moves from 8 of 24 to 23 of 24. First-choice y is 456 at
+1280x900 and 590 at 390x844; no document, component, or text overflow appears;
+the three anchors settle below the sticky header; and the labeled 1672x941
+WebP loads correctly. These are measured rendering and editorial proxy results,
+not human testing.
+
+Pre-review QA: Python compilation, all three generators, byte idempotence
+across 81 site files, exact generated-output scope, 8 of 8 focused tests,
+49 of 49 full tests, `git diff --check`, roadmap JSON, 65-page local link and
+fragment checks, sitemap XML, HTML, image, privacy, claim, and all 50 snapshot
+validations pass. Desktop and mobile every-section checks show no horizontal
+or text overflow and no browser warning or error. The full-page mobile stitch
+artifact is excluded; DOM counts, source, and ordinary viewport captures show
+one of each section.
+
+Only a different independent read-only reviewer returning `PASS` or
+`PASS_WITH_P3`, with all P0-P2 closed within three cycles and green native and
+browser QA, may proceed to exact-path commit, push, Pages, and production
+verification.
+
+Cycle one: independent read-only reviewer Caliper, thread
+`01a07609-1ce0-7e82-8c66-eb37337df68f`, returned `FAIL` with no P0-P1,
+three P2s, and one P3. P2-1 found a second Pattern Path placement after the
+frozen one-extension boundary; the step and focused regression test are
+corrected. P2-2 found that the illustration showed a board and eight placed
+pieces rather than a blank wall and four-piece A-B-A-B starter; the asset,
+alt, provenance, dimensions, byte size, and SHA are reconciled after an
+image-gen edit. P2-3 found a machine-local generation path in the durable
+record; it is removed. The P3 target-specific stylesheet cache token is also
+applied. Cycle-two rereview is pending.
+
+Corrected pre-rereview QA: all three generators and 81-file byte idempotence,
+8 of 8 focused tests, 49 of 49 full tests, all 50 snapshot validations,
+65-page links and fragments, 60 unique sitemap URLs, exact 14-path scope,
+roadmap JSON, image format/dimensions/SHA, added-line privacy, and desktop plus
+mobile browser checks pass. No overflow or console warning/error appears, and
+all native anchor targets settle below the sticky header.
+
+Cycle two: Caliper again confirmed strict read-only status and returned `PASS`
+with no P0-P3. The reviewer independently reproduced all corrected content,
+asset, privacy, cache-token, exact-scope, generator, test, link, sitemap,
+desktop/mobile, keyboard, anchor, console, and network evidence. Initial and
+final worktree status matched. The exact 14-path implementation is review-clean
+and eligible for release.
+
 ## 2026-09-05 Preschool STEM Rebalance Research Review
 
 Action: `KAL-RES-009`

@@ -718,10 +718,106 @@ PAGES = [
         "primary": "stem activities for preschoolers",
         "title": "STEM Activities for Preschoolers | Kid Activity Lab",
         "h1": "STEM activities for preschoolers.",
-        "kicker": "STEM",
-        "description": "Simple STEM activities for preschoolers at home: ramps, bridges, towers, magnetic tile builds, measuring games, and engineering challenges.",
-        "intro": "For preschoolers, STEM can be simple: build something, test it, notice what happened, and change one thing. These activities avoid long explanations and let the object do the teaching.",
-        "tip": "Use the same prompt on every activity: What do you think will happen if we change one thing?",
+        "kicker": "Three ways into STEM",
+        "description": "Compare three preschool STEM activities using common materials: change a shadow, test a paper bridge, or continue a repeating pattern.",
+        "intro": "Choose the kind of question that fits what you have now: change a shadow, test a bridge, or continue a pattern. Each bounded start is complete on this page; the deeper routes carry the longer science, engineering, and math jobs.",
+        "preschool_stem_layout": True,
+        "evidence_note": "This chooser combines current Head Start, TERC, Smithsonian Science in Pre-K, and NAEYC sources with Kid Activity Lab editorial guidance. Kid Activity Lab has not family-tested these setups. The activity selection, readiness cues, materials, scripts, substitutions, and stop points are editorial choices. Timing, mess, comprehension, engagement, enjoyment, learning, repeatability, frustration, and safety outcomes are unknown.",
+        "image": {
+            "src": "../assets/preschool-stem/preschool-stem-three-ways.webp",
+            "alt": "Three illustrated preschool STEM material sets: a flashlight and large block facing a blank wall; a paper bridge across two closed books with a large plastic lid; and four alternating blue-and-yellow pieces with one loose blue piece ready to continue the pattern.",
+            "width": "1672",
+            "height": "941",
+            "caption": "From left: science shadow materials, engineering paper-bridge materials, and math pattern materials. Kid Activity Lab AI-generated illustration; not a family-test photo or evidence of measured use or outcomes.",
+        },
+        "chooser_title": "Choose one way to investigate",
+        "chooser": [
+            {
+                "lane": "Science",
+                "action": "Change a shadow",
+                "href": "#shadow-change",
+                "summary": "Use a stable flashlight, one large object, and a blank wall.",
+            },
+            {
+                "lane": "Engineering",
+                "action": "Test a paper bridge",
+                "href": "#paper-bridge-test",
+                "summary": "Span two low closed books, test once, then fold once.",
+            },
+            {
+                "lane": "Math",
+                "action": "Continue a pattern",
+                "href": "#continue-a-pattern",
+                "summary": "Start A-B-A-B with two kinds of large pieces.",
+            },
+        ],
+        "leads": [
+            {
+                "slug": "shadow-change",
+                "lane": "Science | Observe a change",
+                "title": "Shadow Builder",
+                "mission": "Move one large object closer to and farther from the light to make one larger shadow and one smaller shadow.",
+                "materials": "a flashlight, one large opaque block or household object, and a blank wall",
+                "substitution": "No block is needed; use one large opaque household object that is easy to hold and does not break.",
+                "readiness": "Use this start when the child can follow a one-step stop cue and move one large object while the light stays still. The adult operates the flashlight if the child points it toward people or cannot leave it stable.",
+                "adult_role": "Put the flashlight on a stable surface pointing at the wall, dim only enough to see the shadow, and keep the walking path clear. Do not aim the light at a face.",
+                "steps": [
+                    "Put the object between the light and the wall.",
+                    "Move the object closer to the light and notice the shadow.",
+                    "Move it farther from the light and compare the two shadow sizes.",
+                ],
+                "stop": "Stop after the two contrasting shadows or sooner if the light will not stay pointed at the wall. Switch off the light and restore the walking path.",
+            },
+            {
+                "slug": "paper-bridge-test",
+                "lane": "Engineering | Build and test",
+                "title": "Bridge Rescue",
+                "mission": "Span the gap, test the flat paper, then fold the paper once and compare one stronger version if the first bends.",
+                "materials": "one sheet of paper, two broad closed books, and one large lightweight object such as a block, plastic lid, or toy",
+                "substitution": "Use a large lightweight plastic lid or block if no suitable toy is available. Keep the two closed books as the low supports.",
+                "readiness": "Use this start when the child can place one sheet across a gap and release one light object without lifting, climbing on, or striking the books. The adult owns the supports and ends the setup if that boundary does not hold.",
+                "adult_role": "Put one book flat on each side of a short floor-level gap and keep both supports low and stable. The child places the paper and tests one object.",
+                "steps": [
+                    "Lay the paper across the short gap.",
+                    "Set the large light object on the middle, then lift it off.",
+                    "If the paper bends, fold it once, span the gap again, and compare one more test.",
+                ],
+                "stop": "Stop after one flat and one folded test. End sooner if the books become climbing, throwing, or finger-trapping objects; return the books and paper when done.",
+            },
+            {
+                "slug": "continue-a-pattern",
+                "lane": "Math | Compare and continue",
+                "title": "Pattern Path",
+                "mission": "Add the next piece, say or point to the repeating part, and extend the path once.",
+                "materials": "two colors or types of large blocks, tiles, household objects, or adult-prepared paper squares",
+                "substitution": "Use any two visibly different kinds of large pieces that are appropriate for the youngest child who can reach them.",
+                "readiness": "Use this start when the child can match two visibly different pieces and place one next item. If repeating is not yet manageable, switch to matching two alike pieces and do not call that result a completed pattern.",
+                "adult_role": "Start an A-B-A-B sequence with four pieces, name the two parts once, and ask what comes next without supplying the answer immediately.",
+                "steps": [
+                    "Look across the four-piece A-B-A-B start.",
+                    "Choose the piece that comes next and place it.",
+                    "Say or point to the repeating part after placing the one next piece.",
+                ],
+                "stop": "Stop after one correct extension or one supported retry. Collect every loose piece at cleanup.",
+            },
+        ],
+        "related_routes": [
+            ("Science investigations", "Choose from light, water, magnets, motion, and other observable questions.", "../collections/science-experiments-for-4-year-olds.html"),
+            ("Engineering challenges", "Choose a mission, run a visible test, and make one redesign.", "../collections/engineering-activities-for-4-year-olds.html"),
+            ("Hands-on math", "Choose counting, pattern, measuring, sorting, or comparing activities.", "../collections/math-activities-for-4-year-olds-at-home.html"),
+            ("Age-four STEM", "Choose a fuller activity route organized for the current age-four cluster.", "../ages/stem-activities-for-4-year-olds.html"),
+        ],
+        "legacy_routes": [
+            ("Open the original age-four STEM pack", "../collections/original-stem-activities-for-4-year-olds.html"),
+            ("Scan the activity-card library", "../cards.html"),
+        ],
+        "sources": [
+            ("HeadStart.gov: Science Preschool", "https://headstart.gov/school-readiness/article/science-preschool"),
+            ("TERC Head Start on Engineering: Everyday Engineering", "https://www.terc.edu/hse/everyday-engineering/"),
+            ("Smithsonian Science in Pre-K: Light and Shadows", "https://scienceinprek.si.edu/open-exploration-light-and-shadows"),
+            ("NAEYC: Two Mathematical Heads Are Better than One", "https://www.naeyc.org/resources/pubs/yc/fall2022/peer-based-math-learning"),
+            ("NAEYC: The Intentional Teacher excerpt", "https://www.naeyc.org/sites/default/files/globally-shared/downloads/PDFs/resources/pubs/intentional-teacher-third-edition-chap-1-excerpt.pdf"),
+        ],
         "activities": ["car-ramp-distance-test", "paper-bridge", "cardboard-car-ramp", "paper-plate-ramp", "cup-tower", "tube-sculpture", "magnetic-tile-ideas", "lego-color-tower"],
         "related": ["engineering activities for preschoolers", "science activities for preschoolers", "stem projects for preschoolers"],
     },
@@ -1331,6 +1427,142 @@ def indoor_activity_card(activity):
         </article>'''
 
 
+def preschool_stem_lead_card(lead):
+    steps = "".join(f"<li>{esc(step)}</li>" for step in lead["steps"])
+    return f'''        <article class="stem-start" id="{esc(lead["slug"])}">
+          <div class="stem-start-heading">
+            <p class="challenge-label">{esc(lead["lane"])}</p>
+            <h2>{esc(lead["title"])}</h2>
+            <p class="challenge-mission"><strong>Kid mission:</strong> {esc(lead["mission"])}</p>
+          </div>
+          <div class="stem-start-body">
+            <div class="activity-materials"><strong>Materials or substitute</strong>{esc(lead["materials"])}</div>
+            <p class="stem-substitution"><strong>Substitution:</strong> {esc(lead["substitution"])}</p>
+            <p class="stem-readiness"><strong>Readiness:</strong> {esc(lead["readiness"])}</p>
+            <p><strong>Adult setup:</strong> {esc(lead["adult_role"])}</p>
+            <ol class="card-steps">{steps}</ol>
+            <div class="stem-stop"><strong>Stop and reset</strong><span>{esc(lead["stop"])}</span></div>
+          </div>
+        </article>'''
+
+
+def preschool_stem_page_html(page):
+    root = rel_root(page["path"])
+    chooser_links = "\n".join(
+        f'''          <a href="{esc(choice["href"])}">
+            <span class="stem-lane">{esc(choice["lane"])}</span>
+            <strong>{esc(choice["action"])}</strong>
+            <span>{esc(choice["summary"])}</span>
+          </a>'''
+        for choice in page["chooser"]
+    )
+    lead_html = "\n".join(preschool_stem_lead_card(lead) for lead in page["leads"])
+    related_routes = "\n".join(
+        f'''          <a href="{esc(url)}">
+            <strong>{esc(title)}</strong>
+            <span>{esc(body)}</span>
+          </a>'''
+        for title, body, url in page["related_routes"]
+    )
+    legacy_routes = "\n".join(
+        f'<li><a href="{esc(url)}">{esc(title)}</a></li>'
+        for title, url in page["legacy_routes"]
+    )
+    source_links = "\n".join(
+        f'<li><a href="{esc(url)}">{esc(title)}</a></li>'
+        for title, url in page["sources"]
+    )
+    image = page["image"]
+    canonical = f"{BASE_URL}/{page['path']}"
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{esc(page["title"])}</title>
+    <meta name="description" content="{esc(page["description"])}">
+    <link rel="canonical" href="{esc(canonical)}">
+    <link rel="stylesheet" href="{root}styles.css?v=preschool-stem-front-door-1">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="/">Kid Activity Lab</a>
+        <div class="nav-links">
+          <a href="/">Home</a>
+          <a href="{root}original/">Original</a>
+          <a href="{root}cards.html">Cards</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero preschool-stem-hero">
+        <p class="kicker">{esc(page["kicker"])}</p>
+        <h1>{esc(page["h1"])}</h1>
+        <p class="dek">{esc(page["intro"])}</p>
+      </section>
+
+      <section class="seo-page preschool-stem-page">
+        <section class="stem-chooser" aria-labelledby="stem-chooser-title">
+          <div class="section-heading">
+            <h2 id="stem-chooser-title">{esc(page["chooser_title"])}</h2>
+            <p>Choose by the action the child can take and the materials you can supervise now.</p>
+          </div>
+          <nav class="stem-mode-links" aria-label="Three preschool STEM activity starts">
+{chooser_links}
+          </nav>
+        </section>
+
+        <div class="stem-disclosure" role="note">
+          <strong>Evidence note</strong>
+          <p>{esc(page["evidence_note"])}</p>
+        </div>
+
+        <figure class="stem-visual">
+          <img src="{esc(image["src"])}" alt="{esc(image["alt"])}" width="{esc(image["width"])}" height="{esc(image["height"])}">
+          <figcaption>{esc(image["caption"])}</figcaption>
+        </figure>
+
+        <section class="stem-starts" aria-labelledby="stem-starts-title">
+          <div class="section-heading">
+            <p class="kicker">Three complete starts</p>
+            <h2 id="stem-starts-title">Run one question, then stop</h2>
+            <p>Use the readiness cue before the age label. Each start ends after one comparison; continuing is optional, not an expected outcome.</p>
+          </div>
+{lead_html}
+        </section>
+
+        <section class="related stem-routes" aria-labelledby="stem-routes-title">
+          <h2 id="stem-routes-title">Go deeper by discipline</h2>
+          <p>These pages own the longer science, engineering, math, and age-specific jobs. The broad chooser stays short.</p>
+          <div class="stem-deeper-routes">
+{related_routes}
+          </div>
+          <p class="stem-optional-label"><strong>Optional library routes</strong></p>
+          <ul class="stem-optional-routes">
+{legacy_routes}
+          </ul>
+        </section>
+
+        <section class="related stem-sources" aria-labelledby="stem-sources-title">
+          <h2 id="stem-sources-title">Research sources and limits</h2>
+          <p>These sources support observing and comparing changes, testing and improving a build, and working with repeating patterns. They do not establish that Kid Activity Lab ran these exact setups or measured fit, safety, engagement, or learning outcomes.</p>
+          <ul class="source-list">
+{source_links}
+          </ul>
+        </section>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p><a href="{root}cards.html">Browse all activity cards</a></p>
+    </footer>
+  </body>
+</html>
+'''
+
+
 def engineering_page_html(page):
     root = rel_root(page["path"])
     activity_html = "\n".join(
@@ -1824,6 +2056,8 @@ def legacy_redirect_html(redirect):
 
 
 def page_html(page):
+    if page.get("preschool_stem_layout"):
+        return preschool_stem_page_html(page)
     if page.get("indoor_layout"):
         return indoor_page_html(page)
     if page.get("engineering_layout"):
