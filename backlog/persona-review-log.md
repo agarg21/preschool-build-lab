@@ -6,6 +6,42 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-06 - Paper Bridge Guide Candidate Task
+
+**Action:** `KAL-RES-010`
+
+**Surfaces:** Current `paper-bridge` card and bridge modules, plus the proposed
+decision pack. No public page was changed or represented as user-tested.
+
+**Evidence basis:** Current public parent and educator questions, September 6
+Semrush exact rows, inspected live result types and ranking pages, maintained
+KAL inventory and source layers, and September 5/6 public-safe GSC. The persona
+is `RESEARCH_HYPOTHESIS`; the candidate decision is `EDITORIAL_JUDGMENT`.
+
+**Decision:** Determine whether a paper bridge fits now, then start one simple
+build-test-change activity.
+
+**Constraints:** Child aged 4-6 based on observable readiness; common household
+materials; younger sibling may reach loose items; no default coins, scissors,
+tape, printer, or specialized kit.
+
+**Required outputs:** Fit cue, one-sheet/two-book/large-object materials, adult
+setup, first child action, one fold or shape change, stop/reset, adaptation,
+troubleshooting, cleanup, evidence status, and no need for another broad search.
+
+**Secondary stress constraint:** The first viewport must make the default and
+adult boundary clear at both 1280x900 and 390x844; every later section must add
+new decision value.
+
+**Observable success:** A future guide directly supplies every output, passes
+mobile and desktop interaction and scan-cost checks, and makes no family-test,
+duration, safety-outcome, engagement, learning, or ranking claim.
+
+**Result:** `IMPROVE` as one future guide candidate. No score is assigned to a
+page that does not yet exist. The current card remains compact utility, broad
+hubs remain choice surfaces, and the guide may own depth only after separate
+registration and review.
+
 ## 2026-09-06 - Preschool STEM Three-Way Front-Door Task
 
 **Action:** `KAL-IMP-007`

@@ -1982,6 +1982,84 @@
       "release_commit": "3e183f03b7289d5dca923064a23bc92c130d13af",
       "released_on": "2026-09-06",
       "next_eligible_action": "separately-register-one-dedicated-guide-query-and-SERP-decision-pack"
+    },
+    {
+      "id": "KAL-RES-010",
+      "title": "Select one evidence-qualified dedicated activity guide candidate",
+      "kind": "seo-research",
+      "lane": "dedicated-activity-guides",
+      "impact": 5,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 2,
+      "risk": 1,
+      "status": "completed",
+      "selected_on": "2026-09-06",
+      "completed_on": "2026-09-06",
+      "frozen_base": "d1581a787c25eea016ad2d4769637ff7023631f0",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "validated_2026-09-06_GSC_snapshot",
+        "prior_2026-09-05_GSC_snapshot",
+        "current_US_Semrush_exact_keyword_estimates",
+        "current_live_SERP_and_representative_ranking_pages",
+        "current_public_parent_and_educator_questions",
+        "maintained_activity_inventory_and_source_layer",
+        "KAL-STRAT-001_guide_selection_and_simplicity_gate"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/cards/paper-bridge.html",
+        "https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html",
+        "https://kidactivitylab.com/collections/engineering-activities-for-4-year-olds.html"
+      ],
+      "target_paths": [
+        "data/dedicated-activity-guide-keywords-2026-09-06.csv",
+        "seo/dedicated-activity-guide-candidate-decision-pack-2026-09-06.md",
+        "reviews/dedicated-activity-guide-candidate-review-2026-09-06.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "The repository selects at most one maintained activity as a separately gated dedicated-guide candidate using fresh first-party page evidence, current exact-query estimates, live result types, source coverage, owner overlap, and one source-derived parent task; it rejects or defers weaker alternatives and changes no public page.",
+      "baseline": "The September 6 public-safe GSC snapshot is finalized through September 4 and reports 241 property impressions, one click, and average position 17.41. The sole dedicated guide has 173 impressions, the only click, and page-average position 13.15, up from 166 impressions and position 13.01 through September 3. This strengthens a directional one-guide signal but cannot establish format causality; complete query rows and family outcomes are unavailable.",
+      "hypothesis": "One maintained activity with a singular search-supported parent job, defensible source layer, bounded safety profile, and no clean existing depth owner can be selected for a future parent-first guide without treating keyword volume or the one-guide GSC pattern as sufficient publication evidence.",
+      "expected_effect": "Produce a reviewable decision pack and future persona acceptance gate for one candidate or a supported preserve decision. This research transaction does not create, edit, index, or release a public page and has no production or ranking effect.",
+      "evidence_classification": "Finalized GSC aggregate and page rows and repository inventory are MEASURED within their scopes. September 6 Semrush volumes, difficulty, and result counts are TOOL_ESTIMATE. Current public source pages and result-page composition are SOURCE_BACKED within the inspected sample. Parent and educator questions support RESEARCH_HYPOTHESIS constraints only. Candidate selection, page-role boundaries, and future information architecture are EDITORIAL_JUDGMENT. Complete queries, market size, caregiver comprehension, child response, timing, mess, engagement, learning, repeatability, safe completion, and causal ranking effect remain UNKNOWN.",
+      "human_gate": "Not required for a documentation-only research decision. No parent, educator, caregiver, or child participation is claimed. Any future implementation requires separate registration, exact paths, native QA, desktop/mobile proxy review, independent read-only review, and release verification.",
+      "observation_window": "Preserve KAL-IMP-006 through 2026-09-18 and KAL-IMP-007 through 2026-09-20 except a verified P0-P2 regression. Research may name an existing owner for comparison but may not edit either protected page in this transaction.",
+      "acceptance_criteria": [
+        "reproduce the September 5 to September 6 aggregate and dedicated-guide page movement from public-safe snapshots without claiming format causality",
+        "record current exact US keyword estimates and distinguish unavailable rows from measured zero",
+        "inspect live result types and representative ranking pages for each serious candidate without copying competitor wording or proprietary data",
+        "compare maintained inventory, source support, safety burden, and current KAL ownership and select no more than one candidate",
+        "freeze one source-derived parent task with required first-screen, start, adaptation, supervision, stop, evidence, mobile, and every-section simplicity outputs",
+        "state the future guide, hub, and compact-card ownership boundary and protect current implementation observation windows",
+        "keep complete queries, demand causality, family outcomes, tested status, timing, mess, safety performance, and ranking effect UNKNOWN",
+        "change only the ten registered research and operator paths and pass native QA plus independent read-only review"
+      ],
+      "qa_plan": "Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, parse every changed CSV and all public-safe snapshot JSON, reproduce the September 5/6 measurements, validate source URLs where accessible, verify exact scope and Markdown structure, scan for personal data and unsupported firsthand or safety claims, and require a different independent read-only reviewer to return PASS or PASS_WITH_P3.",
+      "measurement_plan": "For this research transaction, verify keyword rows, source dates, result-type notes, ownership comparison, persona outputs, evidence labels, exact scope, and review closure. A future separately registered implementation must baseline its parent task on desktop and mobile, then observe crawl, indexation, page/query impressions, clicks, and rank without treating movement as proof of family use or format causality.",
+      "production_invariants": "No site, generator, sitemap, workflow, snapshot, URL, indexability, indexing request, external account, product, affiliate, tracker, tested status, parent/child evidence, or production behavior changes. No new page is authorized. Protected KAL-IMP-006 and KAL-IMP-007 owners remain unchanged.",
+      "reconsider_conditions": "Reject or defer a candidate if its apparent demand is unavailable or primarily plural roundup intent, if a current owner can absorb the job cleanly, if source or safety boundaries cannot support a simple parent-ready start, if the SERP advantage depends on authority or firsthand experience KAL cannot claim, if complete query evidence points elsewhere, or if independent review finds the selection is not reproducible.",
+      "implementation_state": "review-clean",
+      "decision": "IMPROVE the future guide queue, not production. Select paper bridge as the sole separately registered dedicated-guide candidate because it has a singular parent job, the strongest maintained-inventory demand estimate, a mixed but penetrable result set, and a bounded source layer. Preserve shadow and magnet with broad owners, reject balloon rocket as the next candidate, and defer tape road after a returned zero-volume estimate.",
+      "result": "The September 6 GSC snapshot strengthens the one-guide directional signal at 173 of 241 property impressions and the site's only click without proving format causality. A fresh single Semrush batch returned all 20 candidate queries, including three explicit zero-volume rows; paper bridge challenge leads maintained singular candidates at estimated US volume 590 and KD 17. The pack freezes a parent-first one-sheet, two-low-book, large-object task and guide/hub/card ownership. No public page changed.",
+      "qa_summary": "git diff --check and roadmap JSON parsing pass. All 51 public-safe snapshot JSON files parse and all 49 repository tests pass. September 5/6 aggregate, ramp-page, and 10-of-10 inspection values reproduce. The 20-row CSV parses with all rows returned, three explicit zero-volume estimates, and 13 blank intents matching one fresh batch. Exact-scope, source-status, Markdown, privacy, and unsupported-claim checks pass; four of five ranking-page URLs return HTTP 200 to the command-line client and Science Buddies returns access-controlled HTTP 403 while its current page was inspected through research access.",
+      "review_cycles": 2,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Codex Operator Review Agent",
+        "agent_id": "01a077b7-c1a7-72f0-afcd-31a7f18f8a40",
+        "read_only": true
+      },
+      "review_findings": "Cycle one returned FAIL with one P2 and no P0, P1, or P3: three Semrush rows were mislabeled unavailable, some returned numeric fields were omitted, and blank intent was overfilled. The operator reran one consistent 20-query batch, retained every returned numeric value and explicit zero, left 13 unreturned intent fields blank, and corrected each tape-road mirror. Cycle two independently reproduced all 20 rows and returned PASS with no P0-P3.",
+      "release_state": "review-clean-pending-push",
+      "next_eligible_action": "separately-register-KAL-IMP-008-paper-bridge-guide-without-editing-protected-KAL-IMP-007-before-2026-09-20"
     }
   ]
 }

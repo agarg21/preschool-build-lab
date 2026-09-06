@@ -18,6 +18,52 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-09-06 Dedicated Guide Candidate Review
+
+Action: `KAL-RES-010`
+
+State: `PASS` in cycle 2 with no P0-P3; review-clean for push-only release
+
+Frozen base: `d1581a787c25eea016ad2d4769637ff7023631f0`
+
+Scope: exactly 10 paths declared in `ops/seo-roadmap.json`: one keyword CSV,
+one candidate decision pack, one persona candidate review, two cumulative
+learning logs, priority status, and four operator mirrors. No site, generator,
+sitemap, workflow, snapshot, URL, indexing, external account, tested status,
+or parent/child evidence may change.
+
+Reviewer: Ramanujan (`01a077b7-c1a7-72f0-afcd-31a7f18f8a40`)
+
+Read-only status: confirmed. The reviewer changed no file, stage, commit,
+remote, deployment, indexing state, private account, or external state.
+
+Cycle 1: `FAIL`
+
+- `P2`: three Semrush rows were labeled unavailable even though one independent
+  batch returned explicit zero estimates; several returned numeric fields were
+  omitted, and blank intent fields were labeled informational.
+- No P0, P1, or P3 findings.
+
+Correction: rerun one 20-query US `phrase_these` batch, retain all returned
+volume, KD, CPC, competition, and result values, retain three explicit zero-
+volume estimates, leave 13 unreturned intent fields blank, and correct every
+tape-road mirror to say returned zero-volume estimate.
+
+Cycle 2: `PASS`
+
+- All 20 query rows independently reproduce exactly; all are returned, three
+  are explicit zero-volume estimates, and 13 have blank intent.
+- September 5/6 property, ramp-page, and 10-of-10 indexing values reproduce.
+- Paper bridge remains the sole defensible future candidate; alternative,
+  source, owner, SERP-completeness, persona, trust, and observation boundaries
+  are proportionate.
+- Exact ten-path scope, `git diff --check`, JSON parsing, 49 tests, privacy, and
+  unsupported-claim checks pass.
+
+Final findings: none (`P0`-`P3`).
+
+Final result: `PASS`.
+
 ## 2026-09-06 Dedicated Activity Guide Strategy Review
 
 Action: `KAL-STRAT-001`

@@ -18,6 +18,48 @@ and release verification.
 
 ## Active Priority
 
+`KAL-RES-010` is registered from clean aligned base
+`d1581a787c25eea016ad2d4769637ff7023631f0`. Its exact 10 paths are one
+keyword CSV, one dedicated-guide decision pack, one persona candidate review,
+two cumulative learning logs, priority status, and four operator mirrors.
+Production is out of scope.
+
+The September 6 public-safe GSC snapshot is finalized through September 4.
+Property impressions move from 234 to 241, clicks remain one, and average
+position moves from 17.62 to 17.41. The sole dedicated guide moves from 166 to
+173 impressions and remains the site's only click. This strengthens the
+directional experiment but cannot establish format causality; complete query
+rows remain unavailable.
+
+Current exact US tool estimates and live result inspection select paper bridge
+as the sole future guide candidate. `paper bridge challenge` returns volume
+590 and KD 17, while `paper bridge stem challenge` returns 110 and KD 19.
+The maintained source layer and singular build-test-change job support a calm
+parent-first depth owner. Shadow and magnet skew toward plural roundup jobs;
+balloon rocket is outside maintained inventory and has greater authority and
+trust burden; the requested tape-road row returned a zero-volume estimate.
+
+The future persona task requires an observable fit cue, one sheet of paper,
+two low closed books, one large lightweight object, adult setup, first child
+action, one controlled change, stop/reset, younger-child adaptation,
+troubleshooting, cleanup, evidence status, mobile first-screen usefulness, and
+every-section scan-cost review. This is proxy evaluation, not family testing.
+
+No page is authorized in this transaction. A future `KAL-IMP-008` must be
+separately registered, scored at 1280x900 and 390x844, independently reviewed,
+and release-verified. It may not alter the protected preschool STEM owner
+before September 20 absent a verified P0-P2 regression.
+
+Native QA passes `git diff --check`, roadmap JSON, all 51 public-safe snapshot
+JSON files, all 49 repository tests, exact scope, September 5/6 arithmetic,
+the corrected single-batch 20-row keyword register, source-status, privacy,
+and unsupported-claim checks. Independent reviewer Ramanujan
+(`01a077b7-c1a7-72f0-afcd-31a7f18f8a40`) returned `FAIL` in cycle one for one
+P2 zero-versus-unavailable classification error. After correction, cycle two
+returned `PASS` with no P0-P3. The action is review-clean for push-only release.
+
+## KAL-STRAT-001 Release Record
+
 `KAL-STRAT-001` is registered from clean aligned base
 `195edae615e5087779a1744a3fa308a5b0c01a77`. It changes only one new
 dedicated-guide strategy record; current strategy, content principles, content

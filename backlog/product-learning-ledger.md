@@ -4,6 +4,46 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-06 - KAL-RES-010
+
+- **Family decision:** Which single maintained activity can support a useful,
+  parent-first dedicated guide without creating a thin page or competing with
+  an existing owner?
+- **Persona task:** Help a caregiver turn an age-4-to-6 child's bridge interest
+  into one low-material build-test-change activity while a younger sibling may
+  reach loose objects.
+- **Falsifiable hypothesis:** A paper bridge guide can own a singular depth job
+  and expose fit, a simple start, one controlled change, adult role, stop/reset,
+  adaptation, and evidence status without requiring coins, scissors, tape, or
+  another broad search.
+- **Sources and evidence class:** September 5 and 6 public-safe GSC are
+  `MEASURED`; current Semrush exact rows are `TOOL_ESTIMATE`; inspected ranking
+  pages and maintained educational sources are `SOURCE_BACKED` within their
+  limits; public questions support `RESEARCH_HYPOTHESIS` constraints; the
+  candidate choice and role boundary are `EDITORIAL_JUDGMENT`.
+- **Result:** `IMPROVE`. Select paper bridge as the sole future guide candidate.
+  The strongest returned exact row is `paper bridge challenge` at estimated US
+  volume 590 and KD 17. Shadow and magnet lead rows are plural roundup jobs;
+  balloon rocket is outside maintained inventory and has greater authority and
+  trust burden; the requested tape-road row returned a zero-volume estimate.
+- **Confidence:** High for repository ownership and first-party arithmetic;
+  medium for tool estimates, sampled intent, and candidate selection; unknown
+  for complete queries, market size, family outcomes, and ranking effect.
+- **Action:** Produce a decision pack only. A separate `KAL-IMP-008` may later
+  implement one guide after exact-path registration, parent-task baseline,
+  desktop/mobile and every-section QA, independent review, and protection of
+  the current preschool STEM observation window.
+- **Reusable lesson:** A guide candidate needs a singular parent decision plus
+  maintainable utility. Volume alone does not outweigh owner overlap, safety
+  burden, or an authority advantage the project cannot honestly claim.
+- **Next falsification trigger:** Complete query evidence points elsewhere; a
+  current hub can absorb the full job cleanly; source or safety boundaries fail;
+  or a refreshed SERP no longer supports singular how-to intent.
+- **Measurement boundary:** GSC movement and tool estimates do not prove format
+  causality or human usefulness. Comprehension, timing, mess, engagement,
+  learning, repeatability, safety outcomes, and search causality remain
+  `UNKNOWN`.
+
 ## 2026-09-06 - KAL-STRAT-001
 
 - **Family decision:** Which page format best helps a caregiver choose and

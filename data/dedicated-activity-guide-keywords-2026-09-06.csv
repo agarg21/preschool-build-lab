@@ -1,0 +1,21 @@
+query,us_volume,kd_percent,cpc_usd,competition,results,intent,metric_status,candidate_note
+paper bridge challenge,590,17,0,0.33,107,informational,returned,lead singular activity job
+paper bridge stem challenge,110,19,2.52,0.03,108,informational,returned,supporting STEM variant
+strong paper bridge,110,21,0,0.33,167,informational,returned,supporting strength variant
+how to build a paper bridge,90,26,0,0.33,140,informational,returned,supporting how-to variant
+paper bridge challenge for kids,10,0,0,0,0,,returned,low-volume child modifier
+paper bridge experiment,20,0,0,0.33,0,,returned,secondary experiment wording
+paper bridge activity,20,0,0,0.33,0,,returned,secondary activity wording
+paper bridge science experiment,20,0,0,0.33,0,,returned,secondary science wording
+bridge stem challenge,10,0,0,0.27,0,,returned,broad secondary wording
+shadow activities for preschoolers,110,17,0,0.05,119,informational,returned,plural roundup intent
+shadow tracing activity,20,0,0,0.04,0,,returned,narrow but not lead job
+shadow size experiment,10,0,0,0.33,0,,returned,narrow supporting wording
+shadow science experiment,20,0,0,0.33,0,,returned,narrow supporting wording
+shadow experiment for kids,0,0,0,0,0,,returned,explicit zero-volume estimate
+magnet activities for preschoolers,90,12,0,0.29,183,informational,returned,plural roundup intent
+magnetic scavenger hunt,20,0,0,0.04,0,,returned,narrow secondary job
+balloon rocket experiment,720,26,0.66,0.01,141,informational,returned,high demand but outside maintained inventory
+balloon rocket activity,20,0,0,0.01,0,,returned,secondary wording
+balloon rocket for kids,0,0,0,0,0,,returned,explicit zero-volume estimate
+masking tape activities for toddlers,0,0,0,0,0,,returned,explicit zero-volume estimate

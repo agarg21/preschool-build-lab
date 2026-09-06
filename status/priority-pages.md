@@ -4,8 +4,8 @@ Last updated: 2026-09-06
 
 Sources:
 
-- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-05.md`
-- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-04.md`
+- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-06.md`
+- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-05.md`
 - Current machine-readable roadmap and release evidence:
   `ops/seo-roadmap.json`
 - Current human-readable roadmap: `ops/seo-roadmap.md`
@@ -28,6 +28,29 @@ the dated project research. Close variants overlap and are not summed. `n/a`
 means the tool did not return volume; `UNKNOWN` means the current research did
 not measure that page's primary query. GSC positions are 28-day page-level
 averages, not query ranks. Complete current GSC query rows remain unavailable.
+
+## September 6 Dedicated-Guide Candidate Overlay
+
+The fresh snapshot, finalized through September 4, reports 241 impressions,
+one click, average position 17.41, and 10 of 10 priority URLs indexed. The sole
+long-form activity guide has 173 impressions, the only click, and page-average
+position 13.15, compared with 166 impressions and position 13.01 one finalized
+day earlier. This is directional observation, not format causality.
+
+`KAL-RES-010` selects paper bridge as the only future dedicated-guide
+candidate. Current September 6 US Semrush estimates return `paper bridge
+challenge` at volume 590 and KD 17, supported by singular activity result
+types and maintained KAL source material. The candidate is a parent-first
+depth owner, not another roundup: simple fit, one-sheet/two-low-book/large-
+object default, one controlled change, adult role, stop/reset, adaptation,
+troubleshooting, and explicit untested status.
+
+Shadow and magnet queries remain plural collection jobs; balloon rocket is
+outside maintained inventory and carries greater authority and trust burden;
+the requested tape-road row returned a zero-volume estimate. No public page changes in this research
+transaction. A future paper-bridge guide requires separate registration and
+must not alter the protected preschool STEM owner before September 20 absent a
+verified P0-P2 regression.
 
 ## September 6 Guide-First Strategy Overlay
 

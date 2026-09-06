@@ -8,10 +8,10 @@ automation.
 
 ## Current sequence
 
-1. Complete independently reviewed `KAL-STRAT-001`: adopt qualified dedicated
-   activity guides as the primary growth experiment, preserve hubs as concise
-   routers and cards as compact utilities, then research at most one future
-   guide candidate in a separate action.
+1. Use completed `KAL-RES-010`: paper bridge is the sole future
+   dedicated activity guide from fresh first-party evidence, current exact
+   query estimates, live SERPs, maintained sources, owner overlap, and one
+   parent-first task. Do not implement or publish in this action.
 2. Observe released `KAL-IMP-007` through 2026-09-20 except a verified P0-P2
    regression. Treat new crawl and page/query data as observation evidence,
    not proof of caregiver/child outcomes or release causality.
@@ -52,6 +52,42 @@ automation.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-RES-010 Registered On 2026-09-06
+
+- Frozen clean aligned base:
+  `d1581a787c25eea016ad2d4769637ff7023631f0`.
+- Exact 10-path scope: one keyword CSV, one decision pack, one persona candidate
+  review, two cumulative learning logs, priority status, and four operator
+  mirrors. No public page or generator path is authorized.
+- Fresh GSC through September 4 reports 241 impressions, one click, and average
+  position 17.41. The sole guide has 173 impressions and the only click,
+  compared with 166 impressions a day earlier. This remains a one-guide,
+  overlapping-window directional signal, not format causality.
+- Current US tool estimates make paper bridge the strongest maintained
+  singular candidate: `paper bridge challenge` returns volume 590 and KD 17;
+  `paper bridge stem challenge` returns 110 and KD 19. Close variants are not
+  summed and unavailable values are not treated as zero.
+- Current result types and source coverage support a calm parent-first paper
+  bridge depth job. Shadow and magnet skew plural; balloon rocket is outside
+  maintained inventory with greater authority and trust burden; the requested
+  tape-road row returned a zero-volume estimate.
+- The future task freezes one sheet, two low closed books, one large
+  lightweight object, observable readiness, adult setup, first child action,
+  one controlled change, stop/reset, adaptation, troubleshooting, source
+  status, first-screen simplicity, and every-section scan cost.
+- No new page is authorized. A future `KAL-IMP-008` needs separate exact-path
+  registration, browser QA, independent review, and release verification. It
+  cannot edit the protected preschool STEM owner before September 20 absent a
+  verified P0-P2 regression.
+- Native QA passes `git diff --check`, roadmap JSON, all 51 snapshot JSON
+  files, all 49 repository tests, exact scope, GSC arithmetic, the corrected
+  20-row keyword batch, source-status, privacy, and unsupported-claim checks.
+- Independent reviewer Ramanujan
+  (`01a077b7-c1a7-72f0-afcd-31a7f18f8a40`) returned `FAIL` in cycle one for
+  one P2 zero-versus-unavailable classification error. The complete batch and
+  all mirrors were corrected. Cycle two independently reproduced all 20 rows
+  and returned `PASS` with no P0-P3.
 
 ## KAL-STRAT-001 Registered On 2026-09-06
 
