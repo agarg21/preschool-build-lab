@@ -8,9 +8,9 @@ automation.
 
 ## Current sequence
 
-1. Review the completed local `KAL-IMP-007` existing-URL preschool STEM front
-   door. Release only after native/browser QA remains green and a different
-   independent read-only reviewer returns `PASS` or `PASS_WITH_P3`.
+1. Observe released `KAL-IMP-007` through 2026-09-20 except a verified P0-P2
+   regression. Treat new crawl and page/query data as observation evidence,
+   not proof of caregiver/child outcomes or release causality.
 2. Observe released `KAL-IMP-005` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, canonical selection,
    ranking causality, or family outcomes, and do not request indexing.
@@ -49,7 +49,7 @@ automation.
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
 
-## KAL-IMP-007 Implemented Locally On 2026-09-06
+## KAL-IMP-007 Released On 2026-09-06
 
 - Frozen clean aligned base:
   `b6732ba3d3cd4e9ae6c42ee6b33447306820a23f`.
@@ -107,8 +107,17 @@ automation.
 - Review cycle two: Caliper independently reproduced the corrected exact scope,
   image, native QA, desktop/mobile rendering, keyboard order, anchor offsets,
   and zero browser errors, then returned `PASS` with no P0-P3.
-- State: review-clean and eligible for exact-path release. Commit, push,
-  exact-SHA Pages, and production verification remain pending.
+- Release: exact reviewed commit
+  `df9e97eb43297e04b3158ac57e70bd541696e496`; successful exact-SHA Pages run
+  `34026333335`.
+- Production: live HTML, target-specific stylesheet, WebP, and sitemap
+  byte-match the reviewed commit and return HTTP 200 with expected content
+  types. Desktop and mobile reproduce the local title, canonical, one H1,
+  three choices, three complete starts, 1672x941 image, no overflow, anchor
+  offsets, and clean browser logs.
+- State: completed and production-verified. Protect the owner through
+  2026-09-20 except a verified P0-P2 regression; observe new crawl and complete
+  query evidence without assigning causality.
 
 ## KAL-RES-009 Registered On 2026-09-05
 

@@ -179,3 +179,18 @@ and 390x844 with no overflow, warning, or error; native links were in keyboard
 order with visible focus, and targets settled below the sticky header. Initial
 and final worktree status matched. The implementation is review-clean and
 eligible for exact-path release.
+
+## Release Verification
+
+- Reviewed commit:
+  `df9e97eb43297e04b3158ac57e70bd541696e496`
+- Exact-SHA Pages run: `34026333335`, successful.
+- Live HTML, `styles.css?v=preschool-stem-front-door-1`, WebP, and sitemap
+  byte-match the reviewed commit and return HTTP 200 with expected content
+  types.
+- Production at 1280x900 and 390x844 reproduces one canonical, one H1, three
+  native choices, three complete starts, no overflow, image natural size
+  1672x941, anchor targets below the sticky header, and zero warning/error
+  logs.
+- No new URL, indexing request, external account, product, tracker, tested
+  claim, parent/child evidence, or outcome claim was created.

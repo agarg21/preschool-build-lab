@@ -34,17 +34,18 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   grid, visible keyword narration, and unsupported object-teaching line with
   exactly three complete same-page starts and deeper owner routes. Independent
   review cycle one found three P2s and one P3; all were corrected, and cycle
-  two returned `PASS` with no P0-P3. Exact release and production verification
-  remain pending.
+  two returned `PASS` with no P0-P3. Reviewed commit `df9e97e` is live through
+  successful exact-SHA Pages run `34026333335`; production bytes and the
+  desktop/mobile proxy task are verified.
 - **Reusable lesson:** A broad page can be more useful with fewer ideas when
   each idea completes a distinct decision lane and the page routes depth
   instead of repeating it.
-- **Next falsification trigger:** Independent review finds a P0-P2 content,
-  visual, accessibility, source, or scope defect; production differs from the
-  reviewed bytes; a real user cannot complete the task; or complete query
-  evidence establishes a narrower page job.
+- **Next falsification trigger:** A verified P0-P2 production defect, a real
+  user who cannot complete the task, materially changed source evidence, or
+  complete query evidence that establishes a narrower page job.
 - **Measurement boundary:** The browser run is a proxy evaluation, not user
-  testing. The current GSC performance window predates the change; future
+  testing. The current GSC performance window predates the September 6
+  release; future
   crawl, impression, click, and position movement cannot be assigned to this
   release without aligned evidence.
 

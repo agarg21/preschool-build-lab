@@ -22,7 +22,7 @@ evidence.
 
 Action: `KAL-IMP-007`
 
-State: implementation complete; pre-review QA passed; independent review pending
+State: cycle-two `PASS`; released and production-verified in `df9e97e`
 
 Frozen base: `b6732ba3d3cd4e9ae6c42ee6b33447306820a23f`
 
@@ -91,6 +91,15 @@ asset, privacy, cache-token, exact-scope, generator, test, link, sitemap,
 desktop/mobile, keyboard, anchor, console, and network evidence. Initial and
 final worktree status matched. The exact 14-path implementation is review-clean
 and eligible for release.
+
+Release: reviewed commit
+`df9e97eb43297e04b3158ac57e70bd541696e496` was pushed to `main` and exact-SHA
+Pages run `34026333335` succeeded. Live HTML, target-specific CSS, WebP, and
+sitemap byte-match the commit and return HTTP 200 with expected content types.
+At 1280x900 and 390x844 production preserves the canonical, one H1, three
+native choices, three complete starts, image dimensions, no overflow, sticky-
+header anchor offsets, and zero warning/error logs. No parent or child outcome
+is inferred.
 
 ## 2026-09-05 Preschool STEM Rebalance Research Review
 

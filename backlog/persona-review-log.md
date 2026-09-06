@@ -69,10 +69,10 @@ trust-sensitive claim is unsupported.
 **Total:** 23 of 24 across 12 relevant dimensions.
 
 **Automatic-failure check:** None triggered. The result is locally `IMPROVE`
-applied and independently review-clean after cycle-two `PASS`, pending exact
-release and production verification. No caregiver comprehension, child
-response, timing, engagement, learning, safety outcome, or search effect is
-inferred.
+applied and independently review-clean after cycle-two `PASS`. Exact reviewed
+commit `df9e97e` is production-verified through Pages run `34026333335`. No
+caregiver comprehension, child response, timing, engagement, learning, safety
+outcome, or search effect is inferred.
 
 ### Responsive Evidence
 
@@ -112,8 +112,9 @@ inferred.
 The local implementation passes the source-traced task at 23 of 24.
 Independent read-only cycle one returned `FAIL` with three corrected P2s and
 one corrected P3; cycle two returned `PASS` with no P0-P3. The implementation
-is review-clean and eligible for exact-path release. Production remains
-unchanged until that release is verified.
+is review-clean and released in `df9e97e` through successful exact-SHA Pages
+run `34026333335`. Production bytes, desktop/mobile geometry, anchors, and
+browser logs reproduce the reviewed result.
 
 ## 2026-09-05 - Broad Preschool STEM Choice Task
 

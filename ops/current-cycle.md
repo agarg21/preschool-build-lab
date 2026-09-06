@@ -18,7 +18,7 @@ and release verification.
 
 ## Active Priority
 
-`KAL-IMP-007` is implemented locally from clean aligned base
+`KAL-IMP-007` is released and production-verified from clean aligned base
 `b6732ba3d3cd4e9ae6c42ee6b33447306820a23f` as the first September 6 pilot
 transaction. It may change only the exact 14 paths frozen in
 `ops/seo-roadmap.json`: the SEO generator, existing preschool STEM HTML, one
@@ -75,8 +75,15 @@ privacy, and desktop/mobile browser checks with no overflow or console errors.
 Cycle two returned `PASS` with no P0-P3. Caliper independently reproduced the
 corrected image, one-extension boundary, target-specific stylesheet, exact
 scope, generator and native QA, desktop/mobile fit, keyboard order, anchor
-offsets, and clean browser logs. The implementation is review-clean and may
-proceed to its exact-path commit, exact-SHA Pages run, and production checks.
+offsets, and clean browser logs. The implementation was review-clean and
+release-eligible.
+Reviewed commit `df9e97eb43297e04b3158ac57e70bd541696e496` is now live
+through successful exact-SHA Pages run `34026333335`. Production HTML, CSS,
+WebP, and sitemap byte-match the reviewed commit and return HTTP 200 with
+expected content types. Desktop and mobile reproduce the local task result,
+no overflow, three anchors below the sticky header, and clean browser logs.
+Protect this owner through 2026-09-20 except a verified P0-P2 regression;
+observe later crawl and complete query evidence without assigning causality.
 
 `KAL-RES-009` is registered from clean aligned base
 `d344c67d302d9f8c42506bcd440bad0ab7a9e3fb`, including the disjoint September
