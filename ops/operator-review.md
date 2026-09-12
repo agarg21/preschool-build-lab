@@ -22,7 +22,7 @@ evidence.
 
 Action: `KAL-IMP-008`
 
-State: cycle-three `PASS`; project commit and release pending
+State: cycle-three `PASS`; released and production-verified in `0dbb1e9`
 
 Frozen base: `9dec4df08d4ccb676ce2b61acf138535b2fdf1fb`
 
@@ -84,6 +84,17 @@ independently reproduced the 7-of-24 baseline, 23-of-24 result, exact scope,
 responsive first-screen task, sticky-header anchors, card/index agreement, and
 protected-page invariants. The review-clean package may proceed to its focused
 commit and verified Pages release.
+
+Release evidence: reviewed commit
+`0dbb1e9f78a950ce894d6efeee1bdbd6ed59dc74` was pushed to `main`. Exact-SHA
+Pages run `34695547966` and deployment `6409957064` succeeded. The article,
+compact card, card library, image, and stylesheet return 200 and byte-match the
+commit. Desktop and mobile production QA passes canonical, H1, complete first-
+screen task, 11-link keyboard order, all six sticky-header targets, image load,
+text fit, and zero overflow. The article produces no warning/error logs. The
+compact card's direct desktop visit retains the frozen base's missing-favicon
+404; this is not an action regression and a generator-wide head change is out
+of scope. Search and family outcomes remain `UNKNOWN`.
 
 ## 2026-09-07 Paper Bridge Current-Task Review
 

@@ -143,6 +143,19 @@ result, exact scope, deterministic QA, image integrity, desktop/mobile
 first-screen behavior, keyboard and sticky-anchor behavior, all three public
 surface contracts, and protected-page invariants.
 
+## Release Verification
+
+Reviewed commit `0dbb1e9f78a950ce894d6efeee1bdbd6ed59dc74` was pushed to
+`main`. Exact-SHA Pages run `34695547966` and deployment `6409957064`
+succeeded. The article, compact card, card library, image, and stylesheet
+return 200 and byte-match the reviewed commit. Desktop and mobile production
+checks pass canonical, H1, complete first-screen task, 11-link keyboard order,
+all six sticky-header targets, image load, text fit, and zero overflow. The
+article has no warning/error logs. A direct desktop compact-card visit retains
+the frozen base's missing-favicon 404; the base card has no favicon declaration,
+so this is recorded as an unchanged legacy condition rather than an action
+regression. Search discovery and every family outcome remain `UNKNOWN`.
+
 ## Visual Asset
 
 The built-in image generator produced the final 1672x941 raster from the

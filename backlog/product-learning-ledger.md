@@ -439,6 +439,10 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   Halley both returned cycle-three `PASS` with no P0-P3. Release the focused
   package and keep exact duration unknown rather than manufacturing the final
   score point.
+- **Release:** Commit `0dbb1e9` is pushed and production-verified through
+  exact-SHA Pages run `34695547966`. All three changed HTML surfaces and the
+  image byte-match; desktop/mobile task invariants pass. Observe for a first
+  crawl or finalized page/query change without assigning causality.
 - **Reusable lesson:** A strong individual activity page starts with a complete
   parent decision, then earns each later section through comparison, recovery,
   adaptation, cleanup, or evidence value. Length alone is not quality.

@@ -8,8 +8,9 @@ automation.
 
 ## Current sequence
 
-1. Commit, push, and production-verify the review-clean `KAL-IMP-008` 19-path
-   package. Caliper and Halley both returned cycle-three `PASS` with no P0-P3.
+1. Observe released `KAL-IMP-008` until a post-release crawl or finalized
+   page/query change provides new evidence. Do not infer format causality or
+   family outcomes from aggregate movement.
 2. Observe released `KAL-IMP-007` through 2026-09-20 except a verified P0-P2
    regression. Treat new crawl and page/query data as observation evidence,
    not proof of caregiver/child outcomes or release causality.
@@ -102,6 +103,14 @@ automation.
 - Any site-path release must monitor the exact pushed-SHA Pages run, verify the
   production marker and all three affected HTML URLs, and keep search and human outcomes
   `UNKNOWN` until separately measured.
+- Release: reviewed commit `0dbb1e9f78a950ce894d6efeee1bdbd6ed59dc74`
+  was pushed to `main`; exact-SHA Pages run `34695547966` and deployment
+  `6409957064` succeeded. The article, compact card, card library, image, and
+  stylesheet return 200 and byte-match the commit. Desktop/mobile production
+  checks pass canonical, H1, first-screen task, keyboard, anchor, image,
+  text-fit, and overflow invariants. The direct desktop compact-card visit
+  retains the frozen base's missing-favicon 404; no action regression was
+  found. Release state is production-verified.
 
 ## KAL-LEARN-003 Registered On 2026-09-07
 

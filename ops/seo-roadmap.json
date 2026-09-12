@@ -2166,8 +2166,9 @@
       "learning_value": 5,
       "effort": 4,
       "risk": 2,
-      "status": "active",
+      "status": "completed",
       "selected_on": "2026-09-12",
+      "completed_on": "2026-09-12",
       "frozen_base": "9dec4df08d4ccb676ce2b61acf138535b2fdf1fb",
       "allowed_during_observation": true,
       "requires_fresh_gsc": false,
@@ -2230,7 +2231,7 @@
       "measurement_plan": "Compare the implemented page against the KAL-LEARN-003 7-of-24 baseline and record first-viewport geometry at 1280x900 and 390x844. After release, observe exact pushed-SHA deployment, production invariants, first crawl, indexation, page/query impressions, clicks, CTR, and rank. Do not infer format causality or family outcomes from movement.",
       "production_invariants": "Exactly one new indexable article URL and one new project image asset. The only changed HTML surfaces are the new guide, the compact Paper Bridge card, and the generated card library; all three require production verification. No edits to protected broad hubs, existing ramp guide, workflows, snapshots, credentials, external accounts, indexing requests, products, affiliates, trackers, tested status, or parent/child evidence. The Paper Bridge card stays compact and all existing card outputs remain generated.",
       "reconsider_conditions": "Reconsider or revert if the guide cannot reach 22 of 24 without clutter, duplicates a protected owner, conflicts with source boundaries, makes the first mobile viewport non-runnable, introduces a broken route or generator drift, uses an inaccurate visual, or independent review finds a P0-P2 issue. After release, investigate rather than attribute if canonical selection conflicts, the page is not crawled, or query evidence points to a different owner.",
-      "implementation_state": "review-clean-project-commit-pending",
+      "implementation_state": "released-and-production-verified",
       "decision": "PRESERVE and release the review-clean bounded implementation. The guide raises the source-derived proxy task from 7 of 24 to 23 of 24 without editing protected hubs. Exact duration and all family and search outcomes remain UNKNOWN.",
       "result": "One new parent-first Paper Bridge guide exposes observable fit, exact household materials, adult setup, the first child action, and a direct stop before the 390x844 fold. It adds one controlled paper-shape comparison, troubleshooting, younger-child and motor support, cleanup, evidence limits, one honestly labeled illustration, and a direct compact-card route. At 390x844 the start panel ends at y=698, the stop ends at y=677, the illustration begins at y=734, document width equals viewport width, all 11 links are sequentially keyboard reachable, and browser logs are clean.",
       "qa_summary": "All three publishing generators run and a before/after diff hash remains identical on the final same-state rerun. All 55 repository tests pass, all 56 public-safe GSC snapshots validate, roadmap JSON parses, and git diff --check passes. Focused tests cover singular ownership, first-start and tearing outputs, comparison and claim boundaries, page-scoped anchor CSS, visual/card/index agreement, frozen score arithmetic, keyword inventory, and sitemap ownership. A complete local audit finds zero errors across 679 internal links and fragments. Local 1280x900 and 390x844 browser QA covers first-screen geometry, every section, 11-link sequential keyboard traversal, image load, text fit, zero horizontal overflow, and clean warning/error logs. At mobile width the sticky header ends at y=92.91 and all six targets land at y=103.55..104.08; the protected ramp no longer receives the guide rule.",
@@ -2249,9 +2250,15 @@
         }
       ],
       "review_findings": "Cycle one used two independent strict read-only reviewers and returned FAIL. Caliper found six P2 issues: the Before score did not reproduce the frozen baseline; the global anchor margin clipped mobile headings and changed protected ramp behavior; the next-action state was stale; KAL-LEARN-003 release mirrors disagreed; and priority evidence provenance was stale. Halley found five P2 issues: the illustration implied two simultaneous four-book setups; the compact card retained unsupported time, toy-car, and stronger wording; the quick-verdict section repeated the opening and reduced the simplicity score; the direct stop omitted tearing; and operator state was stale. No P0, P1, or P3 was reported, and all product/evidence corrections were verified in cycle two. Cycle two returned FAIL for bookkeeping P2s only: one eighteen-path reference remained, the queue still named cycle-one correction rather than rereview, KAL-LEARN-003 had two stale push-pending labels, and the public-surface contract did not explicitly authorize the corrected card/card-index wording or include cards.html in production verification. Those records were corrected. In cycle three, Caliper and Halley independently reviewed the complete 19-path diff in strict read-only mode, reproduced the score, scope, deterministic QA, image, and responsive behavior, and both returned PASS with no P0-P3 findings.",
-      "release_state": "not-released",
+      "release_state": "released-and-production-verified",
+      "release_commit": "0dbb1e9f78a950ce894d6efeee1bdbd6ed59dc74",
+      "released_on": "2026-09-12",
+      "pages_run_id": 34695547966,
+      "pages_run_url": "https://github.com/agarg21/preschool-build-lab/actions/runs/34695547966",
+      "deployment_id": 6409957064,
+      "production_verification": "The exact-SHA Pages run succeeded. The article, compact card, card library, image, and stylesheet return 200 and byte-match the reviewed commit. Canonical, H1, metadata, Article JSON-LD, first-screen geometry, 11-link keyboard order, all six sticky-header targets, image dimensions, text fit, and zero-overflow checks pass at 1280x900 and 390x844. The article has no warning/error logs. A direct desktop visit to the compact card records the same pre-existing favicon 404 as the frozen base; it is not an action regression and correcting all generated card heads is outside this action.",
       "blockers": [],
-      "next_eligible_action": "commit-push-and-production-verify-review-clean-KAL-IMP-008"
+      "next_eligible_action": "observe-KAL-IMP-008-until-a-post-release-crawl-or-finalized-page-query-evidence-changes"
     }
   ]
 }

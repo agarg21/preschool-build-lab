@@ -42,12 +42,14 @@ object; it adds one controlled paper-shape comparison, troubleshooting,
 younger-child and motor support, cleanup, and explicit evidence limits. The
 illustration is labeled AI-generated and not family-test evidence. Two
 independent cycle-one reviewers returned `FAIL` with P2 findings; the local
-candidate now contains all registered corrections, passes 55 tests, and awaits
+candidate contained all registered corrections and passed 55 tests before
 release. Cycle two verified all product/evidence corrections and
 failed only on stale transaction and production-contract labels, which are now
 reconciled. Caliper and Halley both returned cycle-three `PASS` with no P0-P3.
-This is not yet a released page or proof that a family used it. Search
-and family outcomes remain `UNKNOWN`.
+Reviewed commit `0dbb1e9` is released and production-verified through exact-
+SHA Pages run `34695547966`; the article, compact card, and card library
+byte-match and pass desktop/mobile task checks. This is not proof that a family
+used it. Search and family outcomes remain `UNKNOWN`.
 
 Demand values below are directional US monthly Semrush estimates retained in
 the dated project research. Close variants overlap and are not summed. `n/a`

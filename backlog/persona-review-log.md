@@ -441,6 +441,8 @@ and restores the frozen baseline arithmetic. No P0, P1, or P3 was reported.
 Cycle two verified every product/evidence correction and returned `FAIL` only
 for stale bookkeeping and production-contract labels; those records are now
 reconciled. Caliper and Halley both returned cycle-three `PASS` with no P0-P3.
+Commit `0dbb1e9` is released and production-verified through exact-SHA Pages
+run `34695547966`. This verifies page behavior, not parent or child outcomes.
 
 **Every-section result:** Each visible section contributes a distinct task
 output: fit/start, one illustrative comparison, constants, default steps, one

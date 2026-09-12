@@ -65,8 +65,15 @@ labels. Those records now authorize the card/card-index wording, name all three
 production HTML surfaces, and advance the gate to cycle three. Caliper and
 Halley both returned cycle-three `PASS` with no P0-P3 after independently
 reproducing the score, scope, deterministic QA, image, and responsive behavior.
-The review-clean package is ready for focused commit, push, exact-SHA Pages,
-and all-three-surface production verification.
+The review-clean implementation was committed and pushed as `0dbb1e9`. Exact-
+SHA Pages run `34695547966` and deployment `6409957064` succeeded. The article,
+compact card, card library, image, and stylesheet return 200 and byte-match the
+reviewed commit. Desktop/mobile production checks pass canonical, H1,
+first-screen task, image, keyboard, anchor, text-fit, and overflow invariants.
+The direct desktop compact-card visit retains the frozen base's missing-favicon
+404; it is not an action regression. `KAL-IMP-008` is released and production-
+verified. Next, observe until a post-release crawl or finalized page/query
+change provides a new decision; do not infer family or ranking outcomes.
 
 ## KAL-LEARN-003 Release Record
 
