@@ -2062,6 +2062,97 @@
       "release_commit": "8fa08550a9fbb34749c41da263fd950a2db3f8c8",
       "released_on": "2026-09-06",
       "next_eligible_action": "separately-register-KAL-IMP-008-paper-bridge-guide-without-editing-protected-KAL-IMP-007-before-2026-09-20"
+    },
+    {
+      "id": "KAL-LEARN-003",
+      "title": "Baseline the Paper Bridge parent task across current owners",
+      "kind": "persona-task-learning",
+      "lane": "dedicated-activity-guides",
+      "impact": 5,
+      "confidence": 5,
+      "learning_value": 5,
+      "effort": 2,
+      "risk": 1,
+      "status": "completed",
+      "selected_on": "2026-09-07",
+      "frozen_base": "b38f98c7eab0d81edd32982fc29e66a7354ad83f",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": false,
+      "required_evidence": [
+        "completed_review_clean_KAL-RES-010",
+        "validated_2026-09-06_GSC_snapshot",
+        "live_paper_bridge_card",
+        "live_three_linked_owner_pages",
+        "desktop_1280x900_browser_observation",
+        "mobile_390x844_browser_observation",
+        "source_derived_parent_task"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/cards/paper-bridge.html",
+        "https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html",
+        "https://kidactivitylab.com/collections/engineering-activities-for-4-year-olds.html",
+        "https://kidactivitylab.com/collections/stem-activities-for-preschoolers.html"
+      ],
+      "target_paths": [
+        "reviews/paper-bridge-current-task-review-2026-09-07.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "The repository records a reproducible desktop/mobile score for the current compact Paper Bridge card, measures the detour to its three linked depth owners, distinguishes the card's valid utility role from the missing parent decision, and freezes one separately gated guide implementation target without changing production.",
+      "baseline": "No September 7 GSC snapshot exists at registration. The latest validated snapshot, collected September 6 and finalized through September 4, remains healthy at 241 impressions, one click, average position 17.41, and 10 of 10 priority URLs indexed. The Paper Bridge card has no public-safe page row. KAL-RES-010 selected it from current demand, SERP, source, and ownership evidence but intentionally did not score the live card on desktop or mobile.",
+      "hypothesis": "The compact card succeeds as a quick execution surface but fails the complete parent decision because critical readiness, adult-role, stop/reset, adaptation, evidence, and controlled-comparison outputs are absent and the linked depth sections require substantial scrolling from broad-page tops. A dedicated guide can resolve that fragmentation without expanding the card or duplicating hubs.",
+      "expected_effect": "Establish a measured proxy-task baseline and exact future acceptance criteria. This learning transaction has no public content, search, indexing, or deployment effect.",
+      "evidence_classification": "Live DOM, rendered geometry, visible content, link destinations, repository state, and the September 6 public-safe GSC snapshot are MEASURED within their scopes. The persona and task constraints are RESEARCH_HYPOTHESIS from KAL-RES-010. The score, missing-output interpretation, and future guide boundary are EDITORIAL_JUDGMENT. Actual parent comprehension, child response, duration, mess, engagement, learning, repeatability, frustration, safe completion, complete query intent, and ranking effect remain UNKNOWN.",
+      "human_gate": "Not required for a read-only proxy evaluation and documentation transaction. No parent, caregiver, educator, or child participation is claimed. Any future implementation remains separately registered and independently reviewed.",
+      "observation_window": "Preserve KAL-IMP-006 through 2026-09-18 and KAL-IMP-007 through 2026-09-20 except a verified P0-P2 regression. This action may inspect but not edit those owners or any public page.",
+      "acceptance_criteria": [
+        "score every relevant persona dimension from 0 to 2 and use N/A rather than inference for unsupported sensory or accessibility constraints",
+        "record desktop and mobile viewport, document width, first-step position, visible first-screen outputs, keyboard tab stops, and warning or error logs",
+        "measure the Paper Bridge section position and total document height for all three linked owner pages at 390x844",
+        "identify critical missing outputs and automatic-failure conditions without treating the compact card as a failed guide",
+        "freeze a future first-screen and complete-page acceptance target that does not require coins, scissors, tape, a printer, or a specialized kit",
+        "keep the guide, hub, and card roles distinct and preserve protected observation windows",
+        "keep family outcomes, measured duration, safety performance, query intent, and ranking causality UNKNOWN",
+        "change only the eight registered documentation and operator paths and pass native QA plus independent read-only review"
+      ],
+      "qa_plan": "Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, validate all public-safe snapshot JSON, reproduce browser geometry and score arithmetic, verify live title/canonical/H1/link and overflow invariants, validate exact scope and Markdown structure, scan privacy and unsupported claims, and require a different independent read-only reviewer to return PASS or PASS_WITH_P3.",
+      "measurement_plan": "Record the current score across relevant dimensions, first-step y positions, mobile first-viewport coverage, linked-owner bridge-section y positions and page heights, missing outputs, and browser logs. A future implementation must compare directly against this baseline at 1280x900 and 390x844 and pass the complete frozen task without adding repeated prose.",
+      "production_invariants": "No site, generator, sitemap, workflow, snapshot, URL, indexability, indexing request, external account, product, affiliate, tracker, tested status, parent/child evidence, or production behavior changes. No guide implementation is authorized.",
+      "reconsider_conditions": "Reject or narrow the future guide if the current card directly supplies the complete task, the linked owners provide a direct anchored route with equivalent low-scan utility, the score cannot be reproduced, source or safety boundaries fail, or independent review finds the missing outputs do not justify a separate depth owner.",
+      "implementation_state": "review-clean-project-push-pending",
+      "decision": "IMPROVE through a separately registered dedicated guide while preserving the compact card. The live card succeeds as a concise execution surface but fails the complete parent decision at 7 of 24 because critical readiness, adult-role, stop/reset, adaptation, evidence, and comparison outputs are absent and all three broad routes omit fragments.",
+      "result": "At 1280x900 the complete compact card fits in one viewport with no overflow or warning/error logs. At 390x844 only the first step is fully visible before the fold, the parent check begins at y=1207, and the related bridge sections begin at y=2688, y=3414, and y=2999 on pages 6596-13537px tall. The card remains compact utility; a future separate guide must target at least 22 of 24 with first-viewport fit, start, adult role, and stop plus additive depth.",
+      "qa_summary": "git diff --check and roadmap JSON parsing pass. All 51 public-safe snapshot JSON files parse and all 49 repository tests pass. Score arithmetic reproduces 7 of 24 across 12 relevant dimensions. Browser checks reproduce title, canonical, H1, desktop/mobile geometry, 390px document fit, eight anchors with tabIndex zero and no negative tab index, three fragment-free routes, route-section positions and document heights, and no warning/error logs. Sequential focus traversal was not independently demonstrated. Exact eight-path scope, Markdown, privacy, and unsupported-claim checks pass.",
+      "review_cycles": 8,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Caliper",
+        "agent_id": "01a07609-1ce0-7e82-8c66-eb37337df68f",
+        "read_only": true
+      },
+      "reviewers": [
+        {
+          "name": "Laplace",
+          "agent_id": "01a07b23-724f-7142-84f7-817d2d79683c",
+          "cycles": [1, 2, 3],
+          "read_only": true
+        },
+        {
+          "name": "Caliper",
+          "agent_id": "01a07609-1ce0-7e82-8c66-eb37337df68f",
+          "cycles": [4, 5, 6, 7, 8],
+          "read_only": true
+        }
+      ],
+      "review_findings": "Laplace performed cycles one through three read-only. Cycle one independently reproduced the browser geometry, links, logs, score, ownership, and evidence boundaries and returned FAIL with one P2: three stale KAL-RES-010 continuation lines made the human-readable roadmap's first sequence item malformed. The lines were removed. Cycle two rechecked the corrected complete diff and deterministic QA and returned PASS with no P0-P3; its browser evidence was carried forward from cycle one, and sequential focus traversal was not demonstrated. Cycle three returned FAIL with two bookkeeping P2s: stale queue state and incorrect cycle provenance; both were corrected. The user authorized additional review cycles on September 12. Caliper performed cycles four through eight read-only. Cycle four returned FAIL for one contradictory review-state sentence, which was corrected. Cycle five returned FAIL because the durable records had not yet reconciled the new review history or removed the satisfied authority blocker. Cycle six returned FAIL because Caliper's extra-cycle reviewer provenance was not explicit and the machine record named only Laplace. Cycle seven returned FAIL because the operator-review state line still said cycle six pending while the body and machine queue said cycle seven. Those records were corrected. Cycle eight returned PASS with no P0-P3 after reproducing deterministic QA, exact scope, reviewer provenance, evidence, score, privacy, claim, and observation-window checks. Browser geometry was not rerun; cycle-one evidence and the sequential-focus limitation remain explicit.",
+      "release_state": "review-clean-project-push-pending",
+      "blockers": [],
+      "next_eligible_action": "release-exact-path-KAL-LEARN-003-commit-then-separately-register-KAL-IMP-008"
     }
   ]
 }

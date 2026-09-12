@@ -4,6 +4,49 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-07 - KAL-LEARN-003
+
+- **Family decision:** Can a caregiver decide whether Paper Bridge fits this
+  child and moment, then start and adapt it without another broad search?
+- **Persona task:** Use the compact card and its three linked owners at
+  1280x900 and 390x844 while a younger sibling may reach loose objects.
+- **Falsifiable hypothesis:** The card succeeds as compact execution but fails
+  the complete parent task because critical outputs are absent and its broad
+  linked owners impose substantial mobile scan cost.
+- **Sources and evidence class:** Live DOM, links, geometry, and logs plus the
+  September 6 GSC snapshot are `MEASURED`; the persona is
+  `RESEARCH_HYPOTHESIS`; the 7-of-24 score and guide boundary are
+  `EDITORIAL_JUDGMENT`. No human use is claimed.
+- **Result:** `IMPROVE`. Desktop fits the complete compact card in one viewport.
+  On mobile, only the first step is fully visible before the fold, the parent
+  check begins at y=1207, and the three linked bridge sections begin at y=2688,
+  y=3414, and y=2999 on pages 6596-13537px tall. The card lacks readiness,
+  explicit adult setup/supervision, stop/reset, adaptation, troubleshooting,
+  cleanup, evidence status, and a controlled comparison.
+- **Confidence:** High for visible content, responsive geometry, links, and
+  score inputs; medium for the editorial guide conclusion; unknown for human
+  comprehension, response, duration, mess, engagement, learning, safety, and
+  ranking effect.
+- **Action:** Preserve the card as compact utility. Promote a separately
+  registered `KAL-IMP-008` dedicated guide targeting at least 22 of 24, with a
+  first-screen fit/start and one complete additive page. Do not edit the
+  protected preschool STEM owner before September 20. Additional review
+  authority was granted September 12. Cycle four found and corrected one
+  contradictory review-state sentence; cycle five found and corrected missing
+  extra-cycle history; cycle six found and corrected missing Caliper reviewer
+  provenance; cycle seven found and corrected one stale pending-cycle label.
+  Cycle eight returned `PASS` with no P0-P3. The learning record is
+  review-clean and project push pending; implementation remains separate.
+- **Reusable lesson:** A concise card and a complete guide solve different
+  jobs. Routing from a card to the top of long broad pages does not replace a
+  canonical depth owner.
+- **Next falsification trigger:** The current card or direct linked owners gain
+  equivalent complete low-scan utility; source boundaries fail; or independent
+  review cannot reproduce the score and route cost.
+- **Measurement boundary:** Proxy scores and scroll positions do not establish
+  bounce, frustration, usefulness, family outcomes, query ownership, or search
+  causality.
+
 ## 2026-09-06 - KAL-RES-010
 
 - **Family decision:** Which single maintained activity can support a useful,

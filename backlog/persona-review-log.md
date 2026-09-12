@@ -6,6 +6,36 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-07 - Paper Bridge Current-Owner Task
+
+**Action:** `KAL-LEARN-003`
+
+**Surface:** Live Paper Bridge card plus its three broad related pages, reviewed
+at 1280x900 and 390x844. This is proxy evaluation, not user testing.
+
+**Decision and constraints:** Determine fit and start one paper bridge for a
+readiness-qualified child aged 4-6 while a younger sibling may reach loose
+objects. The default may not require coins, scissors, tape, a printer, or a kit.
+
+**Required outputs:** Readiness, exact materials, adult setup, first action,
+one controlled change, supervision, stop/reset, mixed-age adaptation,
+troubleshooting, cleanup, evidence status, and no additional broad search.
+
+**Result:** `IMPROVE`, 7 of 24 across 12 relevant dimensions. The card is
+concise, keyboard reachable, and overflow-free, but critical guide-level
+outputs are absent. At 390x844 only one step is fully visible before the fold,
+the parent check begins at y=1207, and linked bridge sections begin 2688-3414px
+down broad owner pages because the card links omit fragments.
+
+**Decision:** Preserve the card's compact utility role. A separately registered
+guide may own depth if it reaches at least 22 of 24, makes fit/start/stop useful
+in the first viewport, and keeps all later sections additive. Additional review
+authority was granted September 12. Caliper performed cycles four through
+eight read-only. Their bookkeeping, reviewer-provenance, and stale-state P2s
+are corrected, and cycle eight returned `PASS` with no P0-P3. The learning
+record is review-clean and project push pending; implementation remains a
+separate action. Human outcomes remain `UNKNOWN`.
+
 ## 2026-09-06 - Paper Bridge Guide Candidate Task
 
 **Action:** `KAL-RES-010`

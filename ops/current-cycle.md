@@ -18,6 +18,59 @@ and release verification.
 
 ## Active Priority
 
+`KAL-LEARN-003` is registered from clean aligned base
+`b38f98c7eab0d81edd32982fc29e66a7354ad83f`. Its exact eight paths are one
+current-task review, the two cumulative learning logs, priority status, and
+four operator mirrors. Production is read-only and out of scope.
+
+No September 7 GSC snapshot exists at registration. The September 6 snapshot,
+finalized through September 4, remains healthy at 241 impressions, one click,
+average position 17.41, and 10 of 10 priority URLs indexed. The Paper Bridge
+card has no public-safe page row, so this task does not infer query intent or a
+ranking defect.
+
+The live card scores 7 of 24 for the complete parent task. At 1280x900 the
+entire compact card fits in one viewport; at 390x844 only the first step is
+fully visible before the fold and the parent check begins at y=1207. The page
+has no horizontal overflow, negative keyboard exclusion, or warning/error log,
+but it lacks readiness, explicit adult setup/supervision, stop/reset,
+mixed-age adaptation, troubleshooting, cleanup, evidence status, and a
+controlled comparison.
+
+All three related links omit fragments. At 390x844 their bridge sections begin
+at y=2688, y=3414, and y=2999 on broad pages 6596-13537px tall. Preserve those
+pages as cluster owners and preserve the card as compact utility. The learning
+decision is to freeze a separate guide target of at least 22 of 24, with
+fit/start/stop in the first viewport and additive depth on one URL.
+
+No public page, generator, sitemap, snapshot, indexing state, external account,
+tested status, or human evidence changes. Native QA passes; independent review
+remained failed and blocked after cycle three pending the newly authorized
+rereview. All 51 snapshots parse, all 49 tests pass, and the score and responsive
+geometry reproduce. Eight anchors have `tabIndex=0`; sequential focus traversal
+was not independently demonstrated. Independent reviewer Laplace
+(`01a07b23-724f-7142-84f7-817d2d79683c`) reproduced browser geometry and
+returned `FAIL` in cycle one for one P2 stale-line defect in the human-readable
+sequence. After removal, cycle two rechecked the corrected diff and
+deterministic QA and returned `PASS` with no P0-P3. A final cycle-three
+bookkeeping audit returned `FAIL` for stale queue state and incorrect cycle
+provenance. Both were corrected locally. The user explicitly authorized
+additional review cycles on September 12. Cycle four returned `FAIL` for one
+P2 contradictory review-state sentence, which is corrected above. Cycle five
+returned `FAIL` for one P2 because the durable records did not yet include the
+new review history; this record and its mirrors now do. Caliper
+(`01a07609-1ce0-7e82-8c66-eb37337df68f`) performed the extra cycles read-only.
+Cycle six returned `FAIL` for one P2 because that reviewer provenance was not
+explicit; the record now attributes cycles one through three to Laplace and
+cycles four through six to Caliper. Cycle seven returned `FAIL` for one stale
+pending-cycle label in the operator-review header; it is corrected. Cycle eight
+returned `PASS` with no P0-P3. The learning record is review-clean and project
+push pending. Do not start `KAL-IMP-008` until this exact-path transaction is
+released and the implementation is separately registered. Production remains
+unchanged.
+
+## KAL-RES-010 Release Record
+
 `KAL-RES-010` is registered from clean aligned base
 `d1581a787c25eea016ad2d4769637ff7023631f0`. Its exact 10 paths are one
 keyword CSV, one dedicated-guide decision pack, one persona candidate review,

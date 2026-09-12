@@ -1,6 +1,6 @@
 # Priority Page Status
 
-Last updated: 2026-09-06
+Last updated: 2026-09-07
 
 Sources:
 
@@ -28,6 +28,36 @@ the dated project research. Close variants overlap and are not summed. `n/a`
 means the tool did not return volume; `UNKNOWN` means the current research did
 not measure that page's primary query. GSC positions are 28-day page-level
 averages, not query ranks. Complete current GSC query rows remain unavailable.
+
+## September 7 Paper Bridge Task Overlay
+
+No September 7 snapshot existed at registration; September 6 remains the
+newest validated GSC evidence. `KAL-LEARN-003` therefore advances product
+learning rather than interpreting unchanged search metrics.
+
+The live Paper Bridge card scores 7 of 24 for the complete source-derived
+parent task while remaining appropriate as compact utility. Desktop fits the
+whole card in one viewport with no overflow or warning/error logs. At 390x844,
+the four stacked details occupy y=217..537, the steps occupy y=557..1187, only
+the first step is fully visible before the fold, and the parent check begins at
+y=1207. Critical readiness, adult setup/supervision, stop/reset, mixed-age,
+troubleshooting, cleanup, evidence, and controlled-comparison outputs are
+absent.
+
+All three related links omit fragments. Their mobile bridge sections begin at
+y=2688 on the 7738px age-four STEM page, y=3414 on the 13537px engineering
+page, and y=2999 on the 6596px preschool STEM page. This is measured scan cost,
+not measured frustration or bounce.
+
+Preserve the card as compact utility. The next candidate is a separately
+registered `KAL-IMP-008` guide targeting at least 22 of 24 with first-viewport
+fit/start/stop and additive depth. Additional review authority was granted
+September 12. Caliper performed cycles four through seven read-only. Their
+bookkeeping, reviewer-provenance, and stale-state P2s are corrected. Cycle eight
+returned `PASS` with no P0-P3. The learning record is review-clean and project
+push pending; implementation remains separate. Do not edit the
+protected preschool STEM owner before September 20 absent a verified P0-P2
+regression.
 
 ## September 6 Dedicated-Guide Candidate Overlay
 

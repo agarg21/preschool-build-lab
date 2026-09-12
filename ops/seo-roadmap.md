@@ -8,10 +8,9 @@ automation.
 
 ## Current sequence
 
-1. Use completed `KAL-RES-010`: paper bridge is the sole future
-   dedicated activity guide from fresh first-party evidence, current exact
-   query estimates, live SERPs, maintained sources, owner overlap, and one
-   parent-first task. Do not implement or publish in this action.
+1. Release review-clean `KAL-LEARN-003` as one exact-path project commit, then
+   separately register `KAL-IMP-008`. Cycle eight returned `PASS` with no
+   P0-P3.
 2. Observe released `KAL-IMP-007` through 2026-09-20 except a verified P0-P2
    regression. Treat new crawl and page/query data as observation evidence,
    not proof of caregiver/child outcomes or release causality.
@@ -52,6 +51,54 @@ automation.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-LEARN-003 Registered On 2026-09-07
+
+- Frozen clean aligned base:
+  `b38f98c7eab0d81edd32982fc29e66a7354ad83f`.
+- Exact eight-path documentation scope: one current-task review, two cumulative
+  learning logs, priority status, and four operator mirrors. Production remains
+  read-only.
+- No September 7 snapshot existed at registration. September 6 remains the
+  newest validated first-party evidence at 241 impressions, one click, average
+  position 17.41, and 10 of 10 priority URLs indexed. The Paper Bridge card has
+  no public-safe page row.
+- At 1280x900 the whole compact card fits in one viewport. At 390x844 only the
+  first step is fully visible before the fold, and the first parent check begins
+  at y=1207. There is no horizontal overflow, negative keyboard exclusion, or
+  warning/error log.
+- The card scores 7 of 24 for the complete source-derived parent task. It lacks
+  readiness, explicit adult setup/supervision, stop/reset, mixed-age
+  adaptation, troubleshooting, cleanup, evidence status, and a controlled
+  comparison. Preserve the card as compact utility rather than expanding it.
+- All three broad related links omit fragments. Their mobile bridge sections
+  begin at y=2688, y=3414, and y=2999 on pages 6596-13537px tall. This is a
+  measured scan cost, not measured frustration or bounce.
+- Freeze a future separate `KAL-IMP-008` target of at least 22 of 24, with fit,
+  materials, adult setup, first action, and stop visible in the first viewport
+  and every later section adding new decision value. Do not edit the protected
+  preschool STEM owner before September 20 absent a verified P0-P2 regression.
+- Native QA passes `git diff --check`, roadmap JSON, all 51 snapshot JSON
+  files, all 49 repository tests, score arithmetic, browser geometry and logs,
+  exact scope, privacy, and unsupported-claim checks. Eight anchors have
+  `tabIndex=0`; sequential focus traversal was not independently demonstrated.
+- Independent reviewer Laplace
+  (`01a07b23-724f-7142-84f7-817d2d79683c`) reproduced browser geometry and
+  returned `FAIL` in cycle one for one malformed-sequence P2. After removal,
+  cycle two rechecked the corrected diff and deterministic QA and returned
+  `PASS` with no P0-P3. A bookkeeping audit in cycle three returned `FAIL`
+  with two P2s: stale queue state and incorrect cycle provenance. Both were
+  corrected locally. The user authorized additional review cycles on September
+  12. Cycle four found one contradictory review-state sentence; cycle five
+  found that the new review history and satisfied authority gate were not yet
+  reconciled. Cycle six found that Caliper's extra-cycle reviewer provenance
+  was missing. All three P2s are corrected; cycles one through three are
+  attributed to Laplace and cycles four onward to Caliper. Cycle seven found
+  one stale pending-cycle label in the operator-review header; it is corrected.
+  Cycle eight returned `PASS` with no P0-P3 after reproducing deterministic QA,
+  exact scope, reviewer provenance, evidence, score, privacy, claim, and
+  observation-window checks. The learning record is review-clean and project
+  push pending; implementation remains separately registered.
 
 ## KAL-RES-010 Registered On 2026-09-06
 
