@@ -69,6 +69,29 @@ ROUTE_PRIORITY = [
 ]
 ROUTE_RANK = {path: index for index, path in enumerate(ROUTE_PRIORITY)}
 MAX_RELATED_ROUTES = 3
+GUIDE_ROUTES = {
+    "paper-bridge": {
+        "path": "articles/paper-bridge-challenge-kids.html",
+        "label": "Full Paper Bridge guide",
+    },
+}
+QUICK_CARD_OVERRIDES = {
+    "paper-bridge": {
+        "time": "Open-ended",
+        "materials": "paper, two low closed books, large lightweight object",
+        "best_for": "building, comparing, changing one thing",
+        "steps": [
+            "Set two books low.",
+            "Lay one paper sheet across.",
+            "Place one large object gently.",
+            "Fold the paper and compare.",
+        ],
+        "parent": (
+            "Stay close. Stop if books slide, paper tears, the object is thrown, "
+            "or the setup becomes climbing play."
+        ),
+    },
+}
 
 
 def esc(value):
@@ -104,10 +127,17 @@ def related_routes(slug):
 
 
 def related_routes_html(slug):
-    links = [
+    links = []
+    guide = GUIDE_ROUTES.get(slug)
+    if guide:
+        links.append(
+            f'<a href="../{esc(guide["path"])}">{esc(guide["label"])}</a>'
+        )
+    links.extend(
         f'<a href="../{esc(route["path"])}">{esc(route.get("route_label", route["h1"]).rstrip("."))}</a>'
         for route in related_routes(slug)
-    ]
+    )
+    links = links[:MAX_RELATED_ROUTES]
     if not links:
         return ""
     return f'''
@@ -201,7 +231,7 @@ def page(row, slug):
 
 
 def quick_page(slug):
-    activity = ACTIVITIES[slug]
+    activity = {**ACTIVITIES[slug], **QUICK_CARD_OVERRIDES.get(slug, {})}
     steps = activity["steps"]
     step_html = "\n".join(
         f'''          <div class="step-tile">
@@ -277,10 +307,13 @@ def quick_page(slug):
 
 
 def cards_index():
-    cards = "\n".join(
-        f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(activity["time"])} · {esc(activity["materials"])}</span></a>'
-        for slug, activity in ACTIVITIES.items()
-    )
+    cards = []
+    for slug, source_activity in ACTIVITIES.items():
+        activity = {**source_activity, **QUICK_CARD_OVERRIDES.get(slug, {})}
+        cards.append(
+            f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(activity["time"])} · {esc(activity["materials"])}</span></a>'
+        )
+    cards = "\n".join(cards)
     return f'''<!doctype html>
 <html lang="en">
   <head>

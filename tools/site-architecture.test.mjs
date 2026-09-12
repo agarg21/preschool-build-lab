@@ -13,6 +13,9 @@ const LEGACY_REDIRECT_FILE = path.join(
   "collections",
   "rainy-day-activities-for-preschoolers.html",
 );
+const DIRECT_GUIDE_ROUTES = new Map([
+  ["paper-bridge", "articles/paper-bridge-challenge-kids.html"],
+]);
 
 function walk(directory) {
   return fs.readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
@@ -79,7 +82,7 @@ test("sitemap contains each canonical indexable content URL exactly once", () =>
     .map((file) => canonicalFromHtml(read(file)));
   const actual = sitemapUrls();
 
-  assert.equal(expected.length, 60);
+  assert.equal(expected.length, 61);
   assert.ok(expected.every(Boolean), "every indexable page must declare a canonical");
   assert.equal(new Set(actual).size, actual.length, "sitemap URLs must be unique");
   assert.deepEqual([...actual].sort(), [...expected].sort());
@@ -182,6 +185,7 @@ test("generated cards expose a restrained set of existing hub routes", () => {
       const routePath = href.replace(/^\.\.\//, "");
       assert.ok(target.startsWith(SITE), `${href} must remain inside site/`);
       assert.ok(fs.existsSync(target), `${href} must resolve to an existing page`);
+      if (routePath === DIRECT_GUIDE_ROUTES.get(slug)) continue;
       assert.match(href, /^\.\.\/(?:ages|collections)\//);
       assert.ok(ownership[slug]?.includes(routePath), `${slug} is not owned by ${routePath}`);
     }

@@ -1,11 +1,11 @@
 # Priority Page Status
 
-Last updated: 2026-09-07
+Last updated: 2026-09-12
 
 Sources:
 
-- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-06.md`
-- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-05.md`
+- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-11.md`
+- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-10.md`
 - Current machine-readable roadmap and release evidence:
   `ops/seo-roadmap.json`
 - Current human-readable roadmap: `ops/seo-roadmap.md`
@@ -22,6 +22,32 @@ Sources:
   `seo/indoor-rainy-consolidation-decision-pack-2026-08-04.md`
 - Current product-learning evidence:
   `backlog/product-learning-ledger.md` and `backlog/persona-review-log.md`
+
+## September 12 Paper Bridge Guide Implementation Overlay
+
+`KAL-IMP-008` implements the sole guide candidate selected by `KAL-RES-010`
+without changing the protected broad STEM owners. The new local canonical is
+`/articles/paper-bridge-challenge-kids.html`; the compact Paper Bridge card now
+routes directly to it while retaining two broad discovery routes.
+
+The frozen parent-task score moves from 7 of 24 on the compact card to 23 of 24
+on the guide. At 390x844, the complete fit/start panel ends at y=698, the stop
+boundary ends at y=677, and the illustration begins at y=734. All 11 links are
+sequentially keyboard reachable, document width equals viewport width, and no
+browser warning or error appears. The remaining point is exact duration, which
+stays unknown because no family timing evidence exists.
+
+The guide uses one sheet, two low closed books, and one large lightweight
+object; it adds one controlled paper-shape comparison, troubleshooting,
+younger-child and motor support, cleanup, and explicit evidence limits. The
+illustration is labeled AI-generated and not family-test evidence. Two
+independent cycle-one reviewers returned `FAIL` with P2 findings; the local
+candidate now contains all registered corrections, passes 55 tests, and awaits
+release. Cycle two verified all product/evidence corrections and
+failed only on stale transaction and production-contract labels, which are now
+reconciled. Caliper and Halley both returned cycle-three `PASS` with no P0-P3.
+This is not yet a released page or proof that a family used it. Search
+and family outcomes remain `UNKNOWN`.
 
 Demand values below are directional US monthly Semrush estimates retained in
 the dated project research. Close variants overlap and are not summed. `n/a`
@@ -54,8 +80,8 @@ registered `KAL-IMP-008` guide targeting at least 22 of 24 with first-viewport
 fit/start/stop and additive depth. Additional review authority was granted
 September 12. Caliper performed cycles four through seven read-only. Their
 bookkeeping, reviewer-provenance, and stale-state P2s are corrected. Cycle eight
-returned `PASS` with no P0-P3. The learning record is review-clean and project
-push pending; implementation remains separate. Do not edit the
+returned `PASS` with no P0-P3. The learning record was released push-only in
+`9dec4df08d4ccb676ce2b61acf138535b2fdf1fb`; implementation remains separate. Do not edit the
 protected preschool STEM owner before September 20 absent a verified P0-P2
 regression.
 
@@ -266,9 +292,9 @@ evidence of query intent, causality, or family usefulness.
 | Surface | Current state | Next check |
 |---|---|---|
 | Production | Live on `https://kidactivitylab.com`; latest material content release is `KAL-IMP-007` at `df9e97e` through successful exact-SHA Pages run `34026333335`. | Protect the preschool STEM owner through 2026-09-20 and the ramp first-start through 2026-09-18 except a verified P0-P2 regression. |
-| Sitemap | Success in GSC; 61 discovered pages; current generated sitemap has 60 canonical content URLs. Last GSC sitemap read remains 2026-07-05. | Treat a refreshed sitemap read or verified technical defect as new evidence; do not request indexing from cadence alone. |
+| Sitemap | Success in GSC; 61 discovered pages; current generated sitemap has 61 canonical content URLs. Last GSC sitemap read remains 2026-07-05. | Treat a refreshed sitemap read or verified technical defect as new evidence; do not request indexing from cadence alone. |
 | Priority inspection | 10 of 10 configured URLs indexed; 0 unknown; 0 not indexed. | Expand or change the inspection cohort only in a separately registered monitoring or architecture action. |
-| Search performance | 234 impressions, 1 click, 0.43% CTR, average position 17.62 for the 28 days through 2026-09-03. | Treat the first click as discovery, not a CTR diagnosis. Use complete query evidence or a demonstrated page-task failure to select ranking work. |
+| Search performance | 221 impressions, 1 click, 0.45% CTR, average position 16.78 for the 28 days through 2026-09-09. | Treat the first click as discovery, not a CTR diagnosis. Use complete query evidence or a demonstrated page-task failure to select ranking work. |
 | Evidence boundary | Research-backed pages are explicitly not family-tested by Kid Activity Lab. All parent and child outcomes remain `UNKNOWN`. | Keep tested status, outcome claims, and product recommendations behind actual firsthand evidence. |
 
 ## Acquisition Pages

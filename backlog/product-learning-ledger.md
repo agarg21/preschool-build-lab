@@ -35,8 +35,9 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   contradictory review-state sentence; cycle five found and corrected missing
   extra-cycle history; cycle six found and corrected missing Caliper reviewer
   provenance; cycle seven found and corrected one stale pending-cycle label.
-  Cycle eight returned `PASS` with no P0-P3. The learning record is
-  review-clean and project push pending; implementation remains separate.
+  Cycle eight returned `PASS` with no P0-P3. The learning record was released
+  push-only in `9dec4df08d4ccb676ce2b61acf138535b2fdf1fb`; implementation remains
+  separate.
 - **Reusable lesson:** A concise card and a complete guide solve different
   jobs. Routing from a card to the top of long broad pages does not replace a
   canonical depth owner.
@@ -406,3 +407,44 @@ experience separate. A persona task is a proxy evaluation, not user testing.
 - **Measurement boundary:** The improved proxy score and layout positions are
   not parent comprehension, child engagement, duration, learning, safety, or
   ranking evidence. Those outcomes remain `UNKNOWN`.
+
+## 2026-09-12 - KAL-IMP-008
+
+- **Family decision:** Can a caregiver judge, start, supervise, adapt, and end
+  one Paper Bridge challenge without opening another broad activity page?
+- **Persona task:** Use one sheet of paper, two low closed books, and one large
+  lightweight object; expose fit, adult setup, child action, and stop before
+  the 390x844 fold, then supply one controlled comparison, rescue, adaptation,
+  cleanup, and evidence limits.
+- **Falsifiable hypothesis:** A dedicated parent-first guide can raise the
+  frozen proxy task from 7 of 24 to at least 22 of 24 without cluttering the
+  compact card or editing protected hubs.
+- **Sources and evidence class:** Current repository and browser observations
+  and the September 11 public-safe GSC snapshot are `MEASURED` within their
+  scopes. September 6 Semrush estimates are `TOOL_ESTIMATE`. Head Start, TERC,
+  and Science Buddies are `SOURCE_BACKED` only for the bounded process and
+  setup ideas retained. The persona is `RESEARCH_HYPOTHESIS`; page structure,
+  wording, illustration, and score are `EDITORIAL_JUDGMENT`.
+- **Result:** `IMPROVE` applied locally. The new guide scores 23 of 24 across
+  12 relevant dimensions. At 390x844 the start panel ends at y=698, its stop
+  boundary ends at y=677, and the illustration begins at y=734. The page has
+  no horizontal overflow or browser warning/error and all 11 links are
+  sequentially keyboard reachable.
+- **Confidence:** High for generated output, geometry, links, claim boundaries,
+  and task coverage; unknown for family use and search effect.
+- **Action:** Two independent cycle-one reviews returned `FAIL` with product
+  and evidence P2 findings; both reviewers verified those corrections in cycle
+  two. Cycle two returned `FAIL` only for stale scope, queue, release, and
+  production-verification labels. Those records were corrected. Caliper and
+  Halley both returned cycle-three `PASS` with no P0-P3. Release the focused
+  package and keep exact duration unknown rather than manufacturing the final
+  score point.
+- **Reusable lesson:** A strong individual activity page starts with a complete
+  parent decision, then earns each later section through comparison, recovery,
+  adaptation, cleanup, or evidence value. Length alone is not quality.
+- **Next falsification trigger:** Independent review finds a P0-P2 defect;
+  production differs from the reviewed output; or post-release crawl and
+  query evidence identifies a conflicting owner or different parent job.
+- **Measurement boundary:** The 23-of-24 proxy score is not parent
+  comprehension, child engagement, duration, learning, repeatability, mess,
+  safe completion, or ranking evidence. Those outcomes remain `UNKNOWN`.

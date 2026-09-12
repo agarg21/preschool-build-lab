@@ -1276,6 +1276,19 @@ LEGACY_REDIRECTS = [
 
 MANUAL_SEO_TARGETS = [
     {
+        "path": "articles/paper-bridge-challenge-kids.html",
+        "page_type": "article",
+        "primary": "paper bridge challenge",
+        "related": [
+            "paper bridge stem challenge",
+            "paper bridge challenge for kids",
+            "how to make a paper bridge",
+        ],
+        "evidence": "KAL-RES-010 refreshed 20 exact Semrush US candidate queries on 2026-09-06, inspected current paper-bridge result types and ranking pages, and selected one singular guide owner. Variants overlap; complete GSC query rows remain unavailable.",
+        "index_status": "index",
+        "first_2_month_impression_expectation": "UNKNOWN; new singular guide with no KAL GSC page baseline.",
+    },
+    {
         "path": "collections/card-games-for-kids.html",
         "page_type": "collection",
         "primary": "card games for kids",

@@ -18,11 +18,78 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-09-12 Paper Bridge Guide Implementation Review
+
+Action: `KAL-IMP-008`
+
+State: cycle-three `PASS`; project commit and release pending
+
+Frozen base: `9dec4df08d4ccb676ce2b61acf138535b2fdf1fb`
+
+Scope: exactly 19 paths declared in `ops/seo-roadmap.json`. The action may add
+one Paper Bridge guide and one illustrative asset, update the compact card's
+generated route and card index, keyword inventory, shared styles, sitemap, focused tests,
+the existing architecture test, learning records, priority status, and
+operator mirrors. Protected broad hubs,
+the existing ramp guide, workflows, snapshots, indexing requests, external
+accounts, products, affiliates, trackers, tested status, and parent/child
+evidence remain out of scope.
+
+Cycle-one reviewers: Caliper
+(`01a07609-1ce0-7e82-8c66-eb37337df68f`) and Halley
+(`01a07648-ac88-7ab1-9e51-bc475877cc9e`). Both confirmed strict read-only
+status.
+
+Local review package: the guide scores 23 of 24 against the frozen task. At
+390x844 the start panel ends at y=698, the stop boundary ends at y=677, and the
+illustration starts at y=734; all 11 links are sequentially keyboard reachable,
+document width equals viewport width, and browser logs are clean. All 55 tests
+and 56 public-safe snapshot validations pass, generator output is same-state
+byte-stable, all 679 internal links and fragments pass, and `git diff --check`
+plus roadmap JSON parsing pass.
+
+Cycle one: `FAIL`.
+
+- Caliper reported six P2 findings: frozen baseline arithmetic, clipped mobile
+  anchors, global CSS spill into the protected ramp, stale next action,
+  inconsistent KAL-LEARN-003 release state, and stale priority evidence.
+- Halley reported five P2 findings: an ambiguous four-book comparison visual,
+  compact-card time/object/strength conflict, a repeated quick-verdict section,
+  a late tearing boundary, and stale operator state.
+- Neither reviewer reported a P0, P1, or P3. Correct every P2 and request
+  cycle-two rereview before release.
+
+Cycle-one correction checkpoint: all P2s are corrected. The Before score now
+sums to the frozen 7; the guide-only 104px anchor margin clears the 92.91px
+mobile header with six targets at y=103.55..104.08 and leaves the protected
+ramp unchanged; the image has one physical two-book setup plus a fold inset;
+the compact card and index remove the exact duration, toy-car default, and
+strength promise; the repeated quick-verdict section is gone; tearing is in the
+direct stop; and all state/evidence mirrors agree. All 55 tests pass.
+
+Cycle two: `FAIL` for bookkeeping P2s only. Both reviewers verified the
+product, visual, evidence, score, and browser corrections. Remaining findings
+were one stale eighteen-path label, an obsolete cycle-one queue instruction,
+two stale `KAL-LEARN-003` push-pending labels, and a public-surface contract
+that did not explicitly authorize the corrected compact-card/card-index copy
+or require production verification of `site/cards.html`. The exact scope now
+says 19 paths; the queue advances to cycle three; the released learning item
+is reconciled; and the contract names and verifies all three changed HTML
+surfaces.
+
+Cycle three: `PASS`. Caliper and Halley both reviewed the complete corrected
+19-path diff in strict read-only mode and reported no P0-P3 findings. They
+independently reproduced the 7-of-24 baseline, 23-of-24 result, exact scope,
+55 tests, 56 snapshot parses, 679 links and fragments, image integrity,
+responsive first-screen task, sticky-header anchors, card/index agreement, and
+protected-page invariants. The review-clean package may proceed to its focused
+commit and verified Pages release.
+
 ## 2026-09-07 Paper Bridge Current-Task Review
 
 Action: `KAL-LEARN-003`
 
-State: `PASS` in cycle 8 with no P0-P3; project push pending
+State: released push-only in `9dec4df08d4ccb676ce2b61acf138535b2fdf1fb`
 
 Frozen base: `b38f98c7eab0d81edd32982fc29e66a7354ad83f`
 
@@ -123,7 +190,8 @@ Cycle 8: `PASS`
   sequential-focus limitation remain accurately recorded.
 - No P0-P3 findings.
 
-Final result: `PASS`; review-clean and project push pending.
+Final result: `PASS`; released push-only in
+`9dec4df08d4ccb676ce2b61acf138535b2fdf1fb`.
 
 ## 2026-09-06 Dedicated Guide Candidate Review
 

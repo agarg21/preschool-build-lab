@@ -8,9 +8,8 @@ automation.
 
 ## Current sequence
 
-1. Release review-clean `KAL-LEARN-003` as one exact-path project commit, then
-   separately register `KAL-IMP-008`. Cycle eight returned `PASS` with no
-   P0-P3.
+1. Commit, push, and production-verify the review-clean `KAL-IMP-008` 19-path
+   package. Caliper and Halley both returned cycle-three `PASS` with no P0-P3.
 2. Observe released `KAL-IMP-007` through 2026-09-20 except a verified P0-P2
    regression. Treat new crawl and page/query data as observation evidence,
    not proof of caregiver/child outcomes or release causality.
@@ -51,6 +50,58 @@ automation.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-IMP-008 Registered On 2026-09-12
+
+- Frozen clean aligned base:
+  `9dec4df08d4ccb676ce2b61acf138535b2fdf1fb`.
+- Exact 19-path scope: the card and SEO generators, generated keyword CSV,
+  compact Paper Bridge card and card index, one new article and illustrative image,
+  shared styles, sitemap, one focused test, the existing architecture test,
+  one implementation review, two learning logs, priority status, and four
+  operator mirrors.
+- The September 11 GSC snapshot is finalized through September 9 at 221
+  impressions, one click, average position 16.78, and 10 of 10 priority URLs
+  indexed. Paper Bridge has no public-safe page row. Complete query rows remain
+  unavailable.
+- Released `KAL-RES-010` supplies current exact keyword estimates, sampled
+  SERPs, maintained sources, ownership, and one source-derived parent task.
+  Released `KAL-LEARN-003` supplies the reproducible 7-of-24 current-card
+  baseline and measured broad-route scan cost.
+- Build exactly one new canonical owner at
+  `/articles/paper-bridge-challenge-kids.html`. The no-coins default uses one
+  sheet of paper, two low closed books, and one large lightweight object. No
+  scissors, tape, printer, kit, exact duration, or outcome promise is allowed.
+- The first 390x844 viewport must expose hook, observable readiness, materials,
+  adult setup, first child action, and a direct stop boundary. The complete
+  guide must add one controlled shape change, reset, younger-child and motor
+  support, troubleshooting, cleanup, source limits, and an explicit
+  not-family-tested disclosure without repeated generic prose.
+- Preserve the compact card and replace one broad route with a direct guide
+  route. Do not edit the KAL-IMP-006 owner through September 18 or the
+  KAL-IMP-007 preschool STEM owner through September 20 absent a verified
+  P0-P2 regression.
+- Target at least 22 of 24 on the frozen 12-dimension task at 1280x900 and
+  390x844. Require all three generators, idempotence, exact output scope,
+  complete link/fragment checks, 49-plus native tests, keyboard and responsive
+  browser QA, privacy and claim checks, and a different independent read-only
+  reviewer verdict of `PASS` or `PASS_WITH_P3` before release.
+- Implementation checkpoint: the local guide scores 23 of 24 and keeps exact
+  duration unknown. At 390x844 the complete start and stop fit before the
+  illustration; all 11 links are sequentially keyboard reachable, the document
+  has no horizontal overflow, and browser logs are clean. All 55 repository
+  tests and 56 public-safe snapshot validations pass, the generators are
+  byte-stable across a same-state rerun, and all 679 internal links and
+  fragments pass. Cycle one used two independent read-only reviewers and
+  returned `FAIL`. Every product/evidence P2 is corrected; all six mobile
+  anchors now clear the header and the protected ramp is unaffected. Cycle two
+  verified those corrections and returned `FAIL` for bookkeeping P2s only;
+  those were corrected. Caliper and Halley both returned cycle-three `PASS`
+  with no P0-P3 after independently reproducing the score, scope,
+  deterministic QA, image, responsive behavior, and protected-page invariants.
+- Any site-path release must monitor the exact pushed-SHA Pages run, verify the
+  production marker and all three affected HTML URLs, and keep search and human outcomes
+  `UNKNOWN` until separately measured.
 
 ## KAL-LEARN-003 Registered On 2026-09-07
 
@@ -97,8 +148,9 @@ automation.
   one stale pending-cycle label in the operator-review header; it is corrected.
   Cycle eight returned `PASS` with no P0-P3 after reproducing deterministic QA,
   exact scope, reviewer provenance, evidence, score, privacy, claim, and
-  observation-window checks. The learning record is review-clean and project
-  push pending; implementation remains separately registered.
+  observation-window checks. The learning record was released push-only in
+  `9dec4df08d4ccb676ce2b61acf138535b2fdf1fb`; implementation remains separately
+  registered.
 
 ## KAL-RES-010 Registered On 2026-09-06
 

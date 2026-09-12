@@ -148,6 +148,139 @@ h1 {
   margin-bottom: 0;
 }
 
+.bridge-guide-hero {
+  padding-bottom: 18px;
+}
+
+.bridge-guide-hero h1 {
+  max-width: 680px;
+  font-size: clamp(2rem, 4vw, 3.25rem);
+  line-height: 1.05;
+}
+
+.bridge-guide-hero .dek {
+  margin-top: 12px;
+}
+
+.bridge-start-panel {
+  max-width: 760px;
+  margin-top: 18px;
+  border: 2px solid var(--ink);
+  background: #fff;
+  padding: 16px 18px;
+}
+
+.bridge-start-panel h2 {
+  margin: 0 0 8px;
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
+
+.bridge-start-panel p {
+  margin: 6px 0;
+}
+
+.bridge-start-panel ol {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px 24px;
+  margin: 10px 0;
+  padding-left: 22px;
+}
+
+.bridge-start-panel li {
+  padding-left: 2px;
+}
+
+.bridge-stop {
+  border-top: 1px solid var(--line);
+  padding-top: 8px;
+}
+
+.bridge-compare-grid,
+.bridge-adapt-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin: 16px 0 24px;
+}
+
+.bridge-compare-grid > section,
+.bridge-adapt-grid > section {
+  border-left: 4px solid var(--yellow);
+  padding: 4px 0 4px 16px;
+}
+
+.bridge-compare-grid h3,
+.bridge-adapt-grid h3 {
+  margin-top: 0;
+}
+
+.bridge-troubleshooting {
+  display: grid;
+  gap: 0;
+  margin: 14px 0 28px;
+  border-top: 1px solid var(--line);
+}
+
+.bridge-troubleshooting div {
+  display: grid;
+  grid-template-columns: minmax(140px, 0.8fr) minmax(0, 1.7fr);
+  gap: 16px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.bridge-troubleshooting dt {
+  font-weight: 800;
+}
+
+.bridge-troubleshooting dd {
+  margin: 0;
+}
+
+.bridge-article .content section[id] {
+  scroll-margin-top: 104px;
+}
+
+@media (max-width: 560px) {
+  .bridge-guide-hero {
+    padding-top: 18px;
+  }
+
+  .bridge-guide-hero h1 {
+    font-size: 2.1rem;
+  }
+
+  .bridge-guide-hero .dek {
+    font-size: 1rem;
+    line-height: 1.45;
+  }
+
+  .bridge-start-panel {
+    margin-top: 14px;
+    padding: 13px 14px;
+    font-size: 0.92rem;
+    line-height: 1.4;
+  }
+
+  .bridge-start-panel ol,
+  .bridge-compare-grid,
+  .bridge-adapt-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .bridge-start-panel ol {
+    gap: 4px;
+    margin: 7px 0;
+  }
+
+  .bridge-troubleshooting div {
+    grid-template-columns: 1fr;
+    gap: 2px;
+  }
+}
+
 .content h2 {
   margin: 36px 0 10px;
   font-size: 1.75rem;

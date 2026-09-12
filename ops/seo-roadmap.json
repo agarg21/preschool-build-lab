@@ -2124,7 +2124,7 @@
       "measurement_plan": "Record the current score across relevant dimensions, first-step y positions, mobile first-viewport coverage, linked-owner bridge-section y positions and page heights, missing outputs, and browser logs. A future implementation must compare directly against this baseline at 1280x900 and 390x844 and pass the complete frozen task without adding repeated prose.",
       "production_invariants": "No site, generator, sitemap, workflow, snapshot, URL, indexability, indexing request, external account, product, affiliate, tracker, tested status, parent/child evidence, or production behavior changes. No guide implementation is authorized.",
       "reconsider_conditions": "Reject or narrow the future guide if the current card directly supplies the complete task, the linked owners provide a direct anchored route with equivalent low-scan utility, the score cannot be reproduced, source or safety boundaries fail, or independent review finds the missing outputs do not justify a separate depth owner.",
-      "implementation_state": "review-clean-project-push-pending",
+      "implementation_state": "released-push-only",
       "decision": "IMPROVE through a separately registered dedicated guide while preserving the compact card. The live card succeeds as a concise execution surface but fails the complete parent decision at 7 of 24 because critical readiness, adult-role, stop/reset, adaptation, evidence, and comparison outputs are absent and all three broad routes omit fragments.",
       "result": "At 1280x900 the complete compact card fits in one viewport with no overflow or warning/error logs. At 390x844 only the first step is fully visible before the fold, the parent check begins at y=1207, and the related bridge sections begin at y=2688, y=3414, and y=2999 on pages 6596-13537px tall. The card remains compact utility; a future separate guide must target at least 22 of 24 with first-viewport fit, start, adult role, and stop plus additive depth.",
       "qa_summary": "git diff --check and roadmap JSON parsing pass. All 51 public-safe snapshot JSON files parse and all 49 repository tests pass. Score arithmetic reproduces 7 of 24 across 12 relevant dimensions. Browser checks reproduce title, canonical, H1, desktop/mobile geometry, 390px document fit, eight anchors with tabIndex zero and no negative tab index, three fragment-free routes, route-section positions and document heights, and no warning/error logs. Sequential focus traversal was not independently demonstrated. Exact eight-path scope, Markdown, privacy, and unsupported-claim checks pass.",
@@ -2150,9 +2150,108 @@
         }
       ],
       "review_findings": "Laplace performed cycles one through three read-only. Cycle one independently reproduced the browser geometry, links, logs, score, ownership, and evidence boundaries and returned FAIL with one P2: three stale KAL-RES-010 continuation lines made the human-readable roadmap's first sequence item malformed. The lines were removed. Cycle two rechecked the corrected complete diff and deterministic QA and returned PASS with no P0-P3; its browser evidence was carried forward from cycle one, and sequential focus traversal was not demonstrated. Cycle three returned FAIL with two bookkeeping P2s: stale queue state and incorrect cycle provenance; both were corrected. The user authorized additional review cycles on September 12. Caliper performed cycles four through eight read-only. Cycle four returned FAIL for one contradictory review-state sentence, which was corrected. Cycle five returned FAIL because the durable records had not yet reconciled the new review history or removed the satisfied authority blocker. Cycle six returned FAIL because Caliper's extra-cycle reviewer provenance was not explicit and the machine record named only Laplace. Cycle seven returned FAIL because the operator-review state line still said cycle six pending while the body and machine queue said cycle seven. Those records were corrected. Cycle eight returned PASS with no P0-P3 after reproducing deterministic QA, exact scope, reviewer provenance, evidence, score, privacy, claim, and observation-window checks. Browser geometry was not rerun; cycle-one evidence and the sequential-focus limitation remain explicit.",
-      "release_state": "review-clean-project-push-pending",
+      "release_state": "released-push-only",
+      "release_commit": "9dec4df08d4ccb676ce2b61acf138535b2fdf1fb",
+      "released_on": "2026-09-12",
       "blockers": [],
-      "next_eligible_action": "release-exact-path-KAL-LEARN-003-commit-then-separately-register-KAL-IMP-008"
+      "next_eligible_action": "KAL-IMP-008"
+    },
+    {
+      "id": "KAL-IMP-008",
+      "title": "Build the parent-first Paper Bridge activity guide",
+      "kind": "dedicated-activity-guide-implementation",
+      "lane": "dedicated-activity-guides",
+      "impact": 5,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 4,
+      "risk": 2,
+      "status": "active",
+      "selected_on": "2026-09-12",
+      "frozen_base": "9dec4df08d4ccb676ce2b61acf138535b2fdf1fb",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": false,
+      "required_evidence": [
+        "released_KAL-RES-010_candidate_decision_pack",
+        "released_KAL-LEARN-003_7_of_24_parent_task_baseline",
+        "validated_2026-09-11_public_safe_GSC_snapshot",
+        "current_Semrush_exact_query_estimates_from_2026-09-06",
+        "current_live_SERP_and_ranking_page_inspection_from_2026-09-06",
+        "maintained_Head_Start_and_TERC_source_layer",
+        "user_direction_for_high_quality_individual_activity_pages"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/articles/paper-bridge-challenge-kids.html",
+        "https://kidactivitylab.com/cards/paper-bridge.html",
+        "https://kidactivitylab.com/cards.html"
+      ],
+      "target_paths": [
+        "scripts/generate_card_pages.py",
+        "scripts/generate_seo_pages.py",
+        "data/seo_keyword_targets.csv",
+        "site/cards/paper-bridge.html",
+        "site/cards.html",
+        "site/articles/paper-bridge-challenge-kids.html",
+        "site/assets/paper-bridge/paper-bridge-folds.webp",
+        "site/styles.css",
+        "site/sitemap.xml",
+        "tools/paper-bridge-guide.test.mjs",
+        "tools/site-architecture.test.mjs",
+        "reviews/paper-bridge-guide-implementation-review-2026-09-12.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "One calm canonical guide lets a caregiver judge Paper Bridge fit, start the default, supervise and stop, compare exactly one fold change, adapt for a younger child, recover from common failures, and clean up without another broad search. The existing card remains compact, its card-library entry and instructions agree with the guide's unknown-duration and comparison boundaries, and it routes directly to the guide.",
+      "baseline": "KAL-LEARN-003 scores the live compact card at 7 of 24 for the complete parent task. At 390x844 only one step is fully visible before the fold, the parent check begins at y=1207, and all three broad depth routes omit fragments and require 2688-3414px of scrolling. The September 11 snapshot is finalized through September 9 at 221 impressions, one click, average position 16.78, and 10 of 10 priority URLs indexed. Paper Bridge has no public-safe page row. The September 6 exact Semrush estimate for paper bridge challenge is 590 US volume and KD 17; variants overlap and tool estimates are not measured demand.",
+      "hypothesis": "A dedicated, visually clear Paper Bridge guide that exposes fit, materials, adult setup, first action, and stop boundary in the first viewport, then adds one controlled comparison, rescue, adaptation, cleanup, and evidence limits, will raise the proxy parent-task score from 7 of 24 to at least 22 of 24 without cluttering the compact card or protected hubs.",
+      "expected_effect": "Improve parent decision utility and create one honest singular search owner for the paper bridge challenge family. Search discovery, clicks, rankings, parent comprehension, child response, duration, mess, engagement, enjoyment, learning, repeatability, frustration, and safe completion remain unproven until separately measured.",
+      "evidence_classification": "Repository state, generated output, browser geometry, links, tests, and public-safe GSC are MEASURED within their scopes. September 6 Semrush rows are TOOL_ESTIMATE. Head Start, TERC, and inspected activity references are SOURCE_BACKED only for the specific process or setup facts retained. Persona constraints are RESEARCH_HYPOTHESIS. Page structure, wording, default setup, image, and score are EDITORIAL_JUDGMENT. Human and ranking outcomes remain UNKNOWN.",
+      "human_gate": "Not required for an explicitly research-backed, not-family-tested guide with no product recommendation or human outcome claim. Parent, child, educator, developmental, medical, safety-outcome, timing, and engagement evidence may not be invented.",
+      "observation_window": "Do not edit the KAL-IMP-006 owner through 2026-09-18 or the KAL-IMP-007 preschool STEM owner through 2026-09-20 absent a verified P0-P2 regression. This action may add one guide, replace one compact Paper Bridge card route, and correct that card plus its card-library entry to remove unsupported exact-duration, toy-car-default, and guaranteed-strength wording. Broad hubs remain unchanged.",
+      "acceptance_criteria": [
+        "publish exactly one new indexable URL at /articles/paper-bridge-challenge-kids.html with one canonical, one H1, unique title and description, valid Article structured data, and one sitemap entry",
+        "make the first 390x844 viewport identify the activity hook, observable readiness, one sheet of paper, two low closed books, one large lightweight object, adult setup role, first child action, and direct stop boundary",
+        "use a no-coins, no-scissors, no-tape, no-printer, no-kit default and clearly label any optional variations",
+        "show one controlled flat-versus-folded comparison that changes only paper shape and does not claim the folded bridge is always stronger",
+        "include direct supervision, low stable supports, reachable-item, slipping, climbing, throwing, tearing, and stop/reset boundaries without universal safety claims",
+        "include younger-child and motor-support adaptations, troubleshooting, cleanup, evidence status, and not-family-tested disclosure without inventing sensory outcomes",
+        "keep every visible section additive and score at least 22 of 24 across the 12 KAL-LEARN-003 dimensions on both desktop and mobile",
+        "add one explanatory project asset whose visual setup agrees with the written one-sheet, two-book, large-object default and is labeled as illustrative rather than family-test evidence",
+        "preserve the compact Paper Bridge card, align its card and card-library wording with the guide's unknown-duration and observable-comparison boundaries, and replace one broad route with a direct guide route without expanding protected hubs",
+        "prove generator idempotence, exact declared-output scope, complete local links and fragments, keyboard accessibility, text fit, no horizontal overflow, no browser warnings or errors, and all native tests",
+        "change only the 19 registered paths and obtain a different independent read-only reviewer verdict of PASS or PASS_WITH_P3 before release"
+      ],
+      "qa_plan": "Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, all three generators, generator idempotence and output-scope checks, parse the changed CSV and all public-safe snapshot JSON, run complete local link and fragment checks, validate HTML, canonical, H1, metadata, structured data, sitemap, image dimensions and format, and perform desktop 1280x900 plus mobile 390x844 browser QA for first-screen outputs, every section, keyboard traversal, sticky-header anchors, text fit, overflow, console, and network behavior. Require an independent read-only reviewer to inspect the full frozen range and return PASS or PASS_WITH_P3.",
+      "measurement_plan": "Compare the implemented page against the KAL-LEARN-003 7-of-24 baseline and record first-viewport geometry at 1280x900 and 390x844. After release, observe exact pushed-SHA deployment, production invariants, first crawl, indexation, page/query impressions, clicks, CTR, and rank. Do not infer format causality or family outcomes from movement.",
+      "production_invariants": "Exactly one new indexable article URL and one new project image asset. The only changed HTML surfaces are the new guide, the compact Paper Bridge card, and the generated card library; all three require production verification. No edits to protected broad hubs, existing ramp guide, workflows, snapshots, credentials, external accounts, indexing requests, products, affiliates, trackers, tested status, or parent/child evidence. The Paper Bridge card stays compact and all existing card outputs remain generated.",
+      "reconsider_conditions": "Reconsider or revert if the guide cannot reach 22 of 24 without clutter, duplicates a protected owner, conflicts with source boundaries, makes the first mobile viewport non-runnable, introduces a broken route or generator drift, uses an inaccurate visual, or independent review finds a P0-P2 issue. After release, investigate rather than attribute if canonical selection conflicts, the page is not crawled, or query evidence points to a different owner.",
+      "implementation_state": "review-clean-project-commit-pending",
+      "decision": "PRESERVE and release the review-clean bounded implementation. The guide raises the source-derived proxy task from 7 of 24 to 23 of 24 without editing protected hubs. Exact duration and all family and search outcomes remain UNKNOWN.",
+      "result": "One new parent-first Paper Bridge guide exposes observable fit, exact household materials, adult setup, the first child action, and a direct stop before the 390x844 fold. It adds one controlled paper-shape comparison, troubleshooting, younger-child and motor support, cleanup, evidence limits, one honestly labeled illustration, and a direct compact-card route. At 390x844 the start panel ends at y=698, the stop ends at y=677, the illustration begins at y=734, document width equals viewport width, all 11 links are sequentially keyboard reachable, and browser logs are clean.",
+      "qa_summary": "All three publishing generators run and a before/after diff hash remains identical on the final same-state rerun. All 55 repository tests pass, all 56 public-safe GSC snapshots validate, roadmap JSON parses, and git diff --check passes. Focused tests cover singular ownership, first-start and tearing outputs, comparison and claim boundaries, page-scoped anchor CSS, visual/card/index agreement, frozen score arithmetic, keyword inventory, and sitemap ownership. A complete local audit finds zero errors across 679 internal links and fragments. Local 1280x900 and 390x844 browser QA covers first-screen geometry, every section, 11-link sequential keyboard traversal, image load, text fit, zero horizontal overflow, and clean warning/error logs. At mobile width the sticky header ends at y=92.91 and all six targets land at y=103.55..104.08; the protected ramp no longer receives the guide rule.",
+      "review_cycles": 3,
+      "review_outcome": "PASS",
+      "reviewers": [
+        {
+          "name": "Caliper",
+          "agent_id": "01a07609-1ce0-7e82-8c66-eb37337df68f",
+          "read_only": true
+        },
+        {
+          "name": "Halley",
+          "agent_id": "01a07648-ac88-7ab1-9e51-bc475877cc9e",
+          "read_only": true
+        }
+      ],
+      "review_findings": "Cycle one used two independent strict read-only reviewers and returned FAIL. Caliper found six P2 issues: the Before score did not reproduce the frozen baseline; the global anchor margin clipped mobile headings and changed protected ramp behavior; the next-action state was stale; KAL-LEARN-003 release mirrors disagreed; and priority evidence provenance was stale. Halley found five P2 issues: the illustration implied two simultaneous four-book setups; the compact card retained unsupported time, toy-car, and stronger wording; the quick-verdict section repeated the opening and reduced the simplicity score; the direct stop omitted tearing; and operator state was stale. No P0, P1, or P3 was reported, and all product/evidence corrections were verified in cycle two. Cycle two returned FAIL for bookkeeping P2s only: one eighteen-path reference remained, the queue still named cycle-one correction rather than rereview, KAL-LEARN-003 had two stale push-pending labels, and the public-surface contract did not explicitly authorize the corrected card/card-index wording or include cards.html in production verification. Those records were corrected. In cycle three, Caliper and Halley independently reviewed the complete 19-path diff in strict read-only mode, reproduced the score, scope, deterministic QA, image, and responsive behavior, and both returned PASS with no P0-P3 findings.",
+      "release_state": "not-released",
+      "blockers": [],
+      "next_eligible_action": "commit-push-and-production-verify-review-clean-KAL-IMP-008"
     }
   ]
 }

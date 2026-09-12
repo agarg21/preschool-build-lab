@@ -33,8 +33,9 @@ in the first viewport, and keeps all later sections additive. Additional review
 authority was granted September 12. Caliper performed cycles four through
 eight read-only. Their bookkeeping, reviewer-provenance, and stale-state P2s
 are corrected, and cycle eight returned `PASS` with no P0-P3. The learning
-record is review-clean and project push pending; implementation remains a
-separate action. Human outcomes remain `UNKNOWN`.
+record was released push-only in
+`9dec4df08d4ccb676ce2b61acf138535b2fdf1fb`; implementation remains a separate
+action. Human outcomes remain `UNKNOWN`.
 
 ## 2026-09-06 - Paper Bridge Guide Candidate Task
 
@@ -409,3 +410,40 @@ core task is completable. Independent review remains mandatory.
 `PASS_WITH_P3` with no P0-P2. Do not invent a duration to obtain a perfect
 score. Parent and child comprehension, enjoyment, engagement, learning,
 repeatability, mess, safety outcomes, and search effect remain `UNKNOWN`.
+
+## 2026-09-12 - Paper Bridge Dedicated Guide
+
+**Action:** `KAL-IMP-008`
+
+**Surface:** Local candidate at
+`/articles/paper-bridge-challenge-kids.html`, compared with the 7-of-24 compact
+card baseline.
+
+**Persona task:** A caregiver needs one low, indoor Paper Bridge setup using
+ordinary materials. They must judge fit, start the child, supervise and stop,
+compare one paper-shape change, adapt for folding difficulty or a younger child,
+troubleshoot, and clean up without another broad search.
+
+**Evidence boundary:** This is a source-derived proxy task, not user testing.
+The implementation score and page choices are editorial judgment. Exact
+duration and all family outcomes remain unknown.
+
+**Result:** `PRESERVE` the review-clean local candidate for release. It scores 23
+of 24 across the 12 relevant dimensions, up from 7 of 24. The missing point is
+exact duration; no measured family timing exists. At 390x844 the complete start
+and stop fit before the fold, document width equals viewport width, all 11 links
+are sequentially keyboard reachable, and browser logs are clean.
+
+Two independent cycle-one reviewers returned `FAIL` with P2 findings. The
+corrected version removes the repeated summary, aligns the compact card and
+visual, adds tearing to the direct stop, scopes and verifies mobile anchors,
+and restores the frozen baseline arithmetic. No P0, P1, or P3 was reported.
+Cycle two verified every product/evidence correction and returned `FAIL` only
+for stale bookkeeping and production-contract labels; those records are now
+reconciled. Caliper and Halley both returned cycle-three `PASS` with no P0-P3.
+
+**Every-section result:** Each visible section contributes a distinct task
+output: fit/start, one illustrative comparison, constants, default steps, one
+shape change, troubleshooting, adaptation, cleanup, evidence limits, or a
+route to a distinct compact/broad owner. No section was retained solely to add
+length.

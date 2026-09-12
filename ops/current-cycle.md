@@ -18,6 +18,58 @@ and release verification.
 
 ## Active Priority
 
+`KAL-IMP-008` is registered from clean aligned base
+`9dec4df08d4ccb676ce2b61acf138535b2fdf1fb`. Its exact 19 paths cover the
+two source generators, generated keyword CSV, compact card and card index, one
+new Paper Bridge article and illustrative asset, shared styles, sitemap, one
+focused test, the existing architecture test, one implementation review, two
+learning logs, priority status, and four operator mirrors.
+
+The September 11 public-safe GSC snapshot is finalized through September 9 at
+221 impressions, one click, average position 16.78, and 10 of 10 priority URLs
+indexed. Paper Bridge has no public-safe page row and complete query rows are
+unavailable. Current exact Semrush estimates and sampled SERPs come from
+September 6 `KAL-RES-010`; they are planning evidence, not measured demand.
+
+Build exactly one new guide at
+`/articles/paper-bridge-challenge-kids.html`. Its default uses one sheet of
+paper, two low closed books, and one large lightweight object with no coins,
+scissors, tape, printer, specialized kit, exact duration, or outcome promise.
+At 390x844, hook, observable readiness, materials, adult setup, first child
+action, and stop boundary must be useful in the first viewport. The rest of the
+page must add one controlled shape comparison, reset, adaptation,
+troubleshooting, cleanup, and source/evidence boundaries without clutter.
+
+Target at least 22 of 24 against the frozen `KAL-LEARN-003` task at desktop and
+mobile. Preserve the compact card while replacing one broad route with the
+guide. Do not edit the KAL-IMP-006 owner through September 18 or the
+KAL-IMP-007 preschool STEM owner through September 20 absent a verified P0-P2
+regression. Full generator, idempotence, exact-scope, native, link, fragment,
+responsive, keyboard, image, privacy, claim, and independent review gates
+apply. Any release requires exact pushed-SHA Pages and production verification.
+
+Implementation checkpoint: the guide and direct compact-card route are built
+within the registered 19 paths. The local guide scores 23 of 24, up from
+7 of 24; exact duration remains unknown. At 390x844 the complete start panel
+ends at y=698, the stop boundary ends at y=677, and the illustration begins at
+y=734. All 55 repository tests and 56 public-safe snapshot validations pass;
+generator output is byte-stable across a same-state rerun, and all 679 internal
+links and fragments pass. Two independent cycle-one reviews returned `FAIL`
+with P2 visual, card-guide, repetition, stop-boundary, anchor-scope,
+frozen-score, and state-provenance findings. All are corrected: the card and
+index agree with the guide, the visual has one physical two-book setup, the
+repeated section is gone, tearing is an immediate stop, the score reproduces,
+and all six mobile anchors clear the header. Cycle two verified the product
+corrections but returned `FAIL` for stale transaction and release-contract
+labels. Those records now authorize the card/card-index wording, name all three
+production HTML surfaces, and advance the gate to cycle three. Caliper and
+Halley both returned cycle-three `PASS` with no P0-P3 after independently
+reproducing the score, scope, deterministic QA, image, and responsive behavior.
+The review-clean package is ready for focused commit, push, exact-SHA Pages,
+and all-three-surface production verification.
+
+## KAL-LEARN-003 Release Record
+
 `KAL-LEARN-003` is registered from clean aligned base
 `b38f98c7eab0d81edd32982fc29e66a7354ad83f`. Its exact eight paths are one
 current-task review, the two cumulative learning logs, priority status, and
@@ -64,10 +116,9 @@ Cycle six returned `FAIL` for one P2 because that reviewer provenance was not
 explicit; the record now attributes cycles one through three to Laplace and
 cycles four through six to Caliper. Cycle seven returned `FAIL` for one stale
 pending-cycle label in the operator-review header; it is corrected. Cycle eight
-returned `PASS` with no P0-P3. The learning record is review-clean and project
-push pending. Do not start `KAL-IMP-008` until this exact-path transaction is
-released and the implementation is separately registered. Production remains
-unchanged.
+returned `PASS` with no P0-P3. The exact-path transaction was released
+push-only in `9dec4df08d4ccb676ce2b61acf138535b2fdf1fb` on September 12.
+Production remained unchanged. `KAL-IMP-008` is separately registered above.
 
 ## KAL-RES-010 Release Record
 
