@@ -63,7 +63,8 @@ large-ball default and reach at least 22 of 24 without clutter. No page is
 authorized or changed by this overlay.
 
 Independent read-only review returned `PASS` with no P0-P3 findings. The
-research pack is review-clean and project push pending.
+research pack was released push-only at
+`a8c30a219bab7a1e74ec1eba04d8c5632b1895c1`; no Pages deployment applies.
 
 ## September 12 Paper Bridge Guide Implementation Overlay
 

@@ -2386,7 +2386,7 @@
       "measurement_plan": "If one candidate is promoted, a separate implementation must preserve its frozen baseline and achieve at least 22 of 24 on desktop and mobile. Search effects remain unmeasured until a fair post-release crawl and finalized page/query evidence exist.",
       "production_invariants": "Research and operator documentation only. No site, generator, keyword-target inventory, sitemap, workflow, snapshot, URL, indexability, indexing request, external account, product, affiliate, tracker, tested status, or parent/child evidence changes.",
       "reconsider_conditions": "Reject the lead if live results resolve to a different job, an existing owner can satisfy the full task cleanly, source or large-object boundaries fail, current keyword evidence disappears, or a future implementation cannot achieve the simplicity gate without clutter.",
-      "implementation_state": "review-clean",
+      "implementation_state": "released-push-only",
       "decision": "IMPROVE through one separately registered KAL-IMP-009 Ball Maze guide candidate. Defer Masking Tape Road and Cup Tower. Do not implement any page in this research transaction.",
       "result": "Ball Maze, Masking Tape Road, and Paper Cup Tower Challenge each return a current 20-search US Semrush estimate, with KD and intent unavailable. Only Ball Maze has a retained KAL page row: one impression at position 7 in the September 13 snapshot. The compact Ball Maze card scores 5 of 24, its parent check begins at y=1207 on mobile, and its richer engineering-hub module begins at y=9379 on a 13537px page. Current PBS, museum, nonprofit, and public-search evidence supports a singular DIY maze job and a source-bounded no-cut, movable-wall, large-ball KAL information gain. The candidate passes all six publication conditions; Tape Road and Cup Tower remain deferred on weaker first-party or ownership evidence.",
       "qa_summary": "git diff --check and roadmap JSON parsing pass. All 58 public-safe snapshot JSON files parse and all 55 repository tests pass. The seven-row CSV parses and preserves zero, n/a, and blank values. September 12-to-13 GSC arithmetic, Ball Maze desktop/mobile geometry, 5-of-24 score, exact ten-path scope, cited-source access, privacy, and unsupported-claim checks pass; Kids Activities Blog is publicly indexed and readable through the web research tool but returns an automated-request 403 to curl.",
@@ -2398,9 +2398,11 @@
         "read_only": true
       },
       "review_findings": "Independent review returned PASS with no P0-P3 findings. The reviewer reproduced GSC deltas, all seven keyword rows, incomplete-SERP limitations, source access, responsive geometry, the 5-of-24 baseline, every-section coverage, all six publication conditions, exact ten-path scope, roadmap consistency, and the no-human-evidence boundary.",
-      "release_state": "review-clean-project-push-pending",
+      "release_state": "released-push-only",
+      "release_commit": "a8c30a219bab7a1e74ec1eba04d8c5632b1895c1",
+      "released_on": "2026-09-13",
       "blockers": [],
-      "next_eligible_action": "release-KAL-RES-011-then-separately-register-KAL-IMP-009"
+      "next_eligible_action": "separately-register-KAL-IMP-009"
     }
   ]
 }

@@ -4,7 +4,8 @@ Date: 2026-09-13
 
 Action: `KAL-RES-011`
 
-State: `PASS`; project push pending
+State: `PASS`; released push-only at
+`a8c30a219bab7a1e74ec1eba04d8c5632b1895c1`
 
 Frozen base: `5026a6cc5d558a7f95c6f7c9774e9f8017fbaa42`
 

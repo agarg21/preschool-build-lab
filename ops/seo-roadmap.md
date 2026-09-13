@@ -10,9 +10,9 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-1. Release the review-clean `KAL-RES-011` research pack, then separately
-   register one `KAL-IMP-009` Ball Maze guide implementation. Do not begin
-   implementation inside the research transaction.
+1. Separately register one `KAL-IMP-009` Ball Maze guide implementation from
+   the released `KAL-RES-011` pack. Preserve its exact parent task, protected
+   pages, source limits, and one-guide scope.
 2. Observe released `KAL-IMP-008` until a post-release crawl or finalized
    page/query change provides new evidence. Do not infer format causality or
    family outcomes from aggregate movement.
@@ -82,8 +82,9 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 - Future target: at least 22 of 24 at desktop and mobile through a no-cut,
   movable-wall, adult-controlled large-ball guide. No implementation, indexing,
   family testing, or outcome claim is authorized here.
-- Review state: independent read-only `PASS` with no P0-P3 findings; project
-  push pending.
+- Review state: independent read-only `PASS` with no P0-P3 findings. Released
+  push-only at `a8c30a219bab7a1e74ec1eba04d8c5632b1895c1`; no Pages deployment
+  applies.
 
 ## KAL-WEEKLY-001 Registered On 2026-09-13
 

@@ -1,6 +1,6 @@
 # Next Dedicated Activity Guide Candidate Decision Pack
 
-Status: review-clean; project push pending
+Status: released push-only
 
 Action: `KAL-RES-011`
 
@@ -367,3 +367,6 @@ SERP limits, source access, Ball Maze geometry, the 5-of-24 score, every-
 section coverage, all six publication conditions, exact ten-path scope, and
 the no-human-evidence boundary. This is review of desk research and proxy
 evaluation, not validation by a parent or child.
+
+Release: `a8c30a219bab7a1e74ec1eba04d8c5632b1895c1` on `main`. This
+research-only release does not trigger or require a Pages deployment.
