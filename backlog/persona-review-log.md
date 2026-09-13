@@ -449,3 +449,42 @@ output: fit/start, one illustrative comparison, constants, default steps, one
 shape change, troubleshooting, adaptation, cleanup, evidence limits, or a
 route to a distinct compact/broad owner. No section was retained solely to add
 length.
+
+## 2026-09-13 - Ball Maze Candidate Baseline
+
+**Action:** `KAL-RES-011`
+
+**Surface:** Live compact card at `/cards/ball-maze-box.html` and its richer
+module in `/collections/engineering-activities-for-4-year-olds.html`.
+
+**Persona task:** A caregiver must decide whether a no-cut box-lid maze fits a
+child who can move chunky blocks and tilt a shallow lid, while a younger child
+may reach the ball. They need the exact default, adult role, first child
+action, a direct stop, one rescue, one wall change, reset, and cleanup without
+another broad search.
+
+**Evidence boundary:** Query and source-derived proxy task, not parent or child
+testing. Live geometry is measured; the 5-of-24 score and candidate selection
+are editorial judgment. Comprehension, engagement, duration, learning,
+repeatability, mess, frustration, and safety outcomes remain `UNKNOWN`.
+
+**Result:** `IMPROVE` through a separately registered `KAL-IMP-009` dedicated
+guide. The compact card scores 5 of 24. On mobile its steps span y=557-1,187,
+the first parent check begins at y=1,207, and the richer hub module begins at
+y=9,379 on a 13,537px page. The card also names a ping-pong ball while its
+parent check says to use a large ball.
+
+**Automatic-failure check:** The full parent task fails because the material
+and safety cues conflict and critical adult, supervision, and stop/reset
+instructions are missing. Preserve the card as compact utility; a future guide
+must use an adult-controlled large lightweight ball, no cutting or adhesive,
+and reach at least 22 of 24 at 1280x900 and 390x844.
+
+**Every-section result:** Keep the identity and compact steps. A future guide
+must replace unsupported exact time and outcome-like labels, resolve the ball
+default, put fit/start/stop in the first viewport, add only one-wall comparison,
+rescue, adaptation, cleanup, and evidence sections, and leave the protected
+engineering hub unchanged during implementation.
+
+Independent read-only review returned `PASS` with no P0-P3 findings. This
+confirms reproducible proxy evidence and scope, not parent or child validation.

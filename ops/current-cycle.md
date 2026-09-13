@@ -18,24 +18,29 @@ and release verification.
 
 ## Active Priority
 
-`KAL-WEEKLY-001` is registered from clean aligned base
-`7d190870e0e016b402636a7cfeeba2b8f264cf39` with an exact seven-path
-documentation scope. The September 12 snapshot is finalized through September
-10 at 228 impressions, three clicks, average position 16.02, and 10 of 10
-priority URLs indexed. The mature ramp guide owns 172 impressions and all
-three clicks. Complete query rows remain unavailable, and Paper Bridge launched
-after the data window.
+`KAL-RES-011` is registered from clean aligned base
+`5026a6cc5d558a7f95c6f7c9774e9f8017fbaa42` with an exact ten-path
+research scope. The September 13 snapshot is finalized through September 11
+at 236 impressions, three clicks, average position 16.03, and 10 of 10
+priority URLs indexed. The mature ramp guide owns 175 impressions and all
+three clicks; Ball Maze Box has one retained impression at position 7.
+Complete query rows remain unavailable.
 
-The weekly synthesis preserves guide-first as a directional experiment while
-rejecting format causality and a page-production quota. It makes one bounded
-`KAL-RES-011` research action eligible: inspect at most three maintained
-activities and select at most one future guide candidate only if current
-query/SERP, ownership, source, information-gain, persona-task, and protection
-gates all pass. No page, site, indexing, external account, or family evidence
-change is authorized. Independent read-only review returned `PASS` with no
-P0-P3 findings. The documentation-only synthesis was released push-only at
-`2fa2517ba7ec60ee6b1db4cf5ebd76d521b3eb58`; no Pages deployment applies.
-The next eligible transaction is to separately register `KAL-RES-011`.
+The three-candidate comparison promotes Ball Maze Box as the sole future
+guide candidate. Ball Maze, Masking Tape Road, and Paper Cup Tower Challenge
+each have a current 20-search US Semrush estimate, but only Ball Maze combines
+a retained KAL row, a singular DIY result family, credible source support, and
+a reproduced parent-task failure. Its compact card scores 5 of 24; the mobile
+parent check starts at y=1,207, and the richer hub module starts at y=9,379.
+The card's ping-pong-ball requirement conflicts with its large-ball cue.
+
+A separately registered `KAL-IMP-009` may target one no-cut, movable-wall,
+adult-controlled large-ball guide and at least 22 of 24 at desktop and mobile.
+Tape Road and Cup Tower remain deferred. This transaction changes no site,
+generator, indexing, external account, or family evidence. Research is
+complete. Independent read-only review returned `PASS` with no P0-P3
+findings; the research-only release is ready to push. After release, the next
+eligible transaction is to separately register `KAL-IMP-009`.
 
 ## KAL-IMP-008 Release Record
 

@@ -10,9 +10,9 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-1. Separately register `KAL-RES-011`, a research-only comparison of at most
-   three maintained activities. Select at most one guide candidate only if all
-   six publication conditions pass; do not implement a page in that action.
+1. Release the review-clean `KAL-RES-011` research pack, then separately
+   register one `KAL-IMP-009` Ball Maze guide implementation. Do not begin
+   implementation inside the research transaction.
 2. Observe released `KAL-IMP-008` until a post-release crawl or finalized
    page/query change provides new evidence. Do not infer format causality or
    family outcomes from aggregate movement.
@@ -56,6 +56,34 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-RES-011 Registered On 2026-09-13
+
+- Frozen clean aligned base:
+  `5026a6cc5d558a7f95c6f7c9774e9f8017fbaa42` after fast-forwarding the
+  routine September 13 GSC snapshot.
+- Exact ten-path research scope: one seven-row keyword register, one candidate
+  decision pack, one review record, two learning logs, priority status, and
+  four operator/roadmap mirrors. No site path is allowed.
+- The latest snapshot is finalized through September 11 at 236 impressions,
+  three clicks, average position 16.03, and 10 of 10 priority URLs indexed.
+  The ramp guide owns 175 impressions and all clicks. Ball Maze Box has one
+  retained impression at position 7; complete query rows remain unavailable.
+- A logged-in Semrush US desktop session collected current rows for the three
+  candidates. Each lead exact query returns a 20-search estimate; KD and
+  intent are unavailable. Variants are not summed.
+- Research result: promote Ball Maze Box as the sole separately implemented
+  `KAL-IMP-009` candidate. It combines current card discovery, a singular DIY
+  result family, credible source support, and a measurable parent-task gap.
+  Tape Road and Cup Tower remain deferred, not rejected as activities.
+- The Ball Maze card scores 5 of 24. On mobile the parent check begins at
+  y=1,207, while the richer broad-hub module begins at y=9,379. The card's
+  ping-pong-ball requirement also conflicts with its large-ball safety cue.
+- Future target: at least 22 of 24 at desktop and mobile through a no-cut,
+  movable-wall, adult-controlled large-ball guide. No implementation, indexing,
+  family testing, or outcome claim is authorized here.
+- Review state: independent read-only `PASS` with no P0-P3 findings; project
+  push pending.
 
 ## KAL-WEEKLY-001 Registered On 2026-09-13
 

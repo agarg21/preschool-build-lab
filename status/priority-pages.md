@@ -4,8 +4,8 @@ Last updated: 2026-09-13
 
 Sources:
 
-- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-12.md`
-- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-11.md`
+- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-13.md`
+- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-12.md`
 - Current machine-readable roadmap and release evidence:
   `ops/seo-roadmap.json`
 - Current human-readable roadmap: `ops/seo-roadmap.md`
@@ -44,6 +44,26 @@ overlay.
 The weekly synthesis was released push-only at
 `2fa2517ba7ec60ee6b1db4cf5ebd76d521b3eb58` after native QA and independent
 review passed. No public page changed and no Pages deployment applies.
+
+## September 13 Next-Guide Candidate Overlay
+
+`KAL-RES-011` compares Ball Maze Box, Masking Tape Road, and Cup Tower under
+the six-condition guide rule. The September 13 snapshot is finalized through
+September 11 at 236 impressions, three clicks, average position 16.03, and 10
+of 10 priority URLs indexed. The ramp guide owns 175 impressions and all
+clicks. Ball Maze Box has one retained impression at position 7; Tape Road and
+Cup Tower have no retained page row. Complete query rows remain unavailable.
+
+All three lead exact queries return a 20-search US Semrush estimate on
+September 13. Ball Maze is the sole future candidate because its compact card
+also has a measurable task gap: 5 of 24, a parent check beginning at y=1,207
+on mobile, and a richer owner beginning at y=9,379. A future separately
+registered `KAL-IMP-009` must use a no-cut, movable-wall, adult-controlled
+large-ball default and reach at least 22 of 24 without clutter. No page is
+authorized or changed by this overlay.
+
+Independent read-only review returned `PASS` with no P0-P3 findings. The
+research pack is review-clean and project push pending.
 
 ## September 12 Paper Bridge Guide Implementation Overlay
 

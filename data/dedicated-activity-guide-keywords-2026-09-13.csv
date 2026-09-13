@@ -1,0 +1,8 @@
+candidate_family,query,us_volume,kd_percent,cpc_usd,competition,global_volume,intent,metric_status,source_market,collected_on,decision_note
+ball-maze,cardboard ball maze,20,n/a,0,0.33,80,,returned,Semrush US desktop,2026-09-13,lead exact singular build query
+ball-maze,ball maze for kids,0,n/a,0,0,n/a,,returned,Semrush US desktop,2026-09-13,child modifier has explicit zero estimate and product ambiguity
+tape-road,masking tape road,20,n/a,0,0.58,110,,returned,Semrush US desktop,2026-09-13,singular activity wording but no retained KAL page row
+tape-road,masking tape road for kids,0,n/a,,,,,variation-row,Semrush US desktop,2026-09-13,explicit zero volume in variation table; other metrics unavailable
+tape-road,masking tape road for toddlers,0,n/a,,,,,variation-row,Semrush US desktop,2026-09-13,explicit zero volume in variation table; other metrics unavailable
+cup-tower,paper cup tower challenge,20,n/a,0,0.02,80,,returned,Semrush US desktop,2026-09-13,singular challenge query with school and home result mix
+cup-tower,stem paper cup tower challenge,0,n/a,,,,,variation-row,Semrush US desktop,2026-09-13,explicit zero volume in variation table; other metrics unavailable

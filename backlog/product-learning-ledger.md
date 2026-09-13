@@ -490,3 +490,39 @@ experience separate. A persona task is a proxy evaluation, not user testing.
 - **Measurement boundary:** Page rows and overlapping windows do not establish
   causal ranking effects. Proxy scores do not establish comprehension,
   engagement, learning, safety, enjoyment, mess, duration, or repeatability.
+
+## 2026-09-13 - KAL-RES-011
+
+- **Family decision:** Which maintained activity, if any, deserves the next
+  high-quality individual guide without turning the format strategy into a
+  page quota?
+- **Persona task:** A caregiver with a child ready to move blocks and tilt a
+  shallow lid must judge fit and start a no-cut, large-ball maze while a
+  younger sibling may reach loose objects.
+- **Falsifiable hypothesis:** Ball Maze Box will clear the six-condition
+  publication rule more strongly than Masking Tape Road or Cup Tower.
+- **Sources and evidence class:** September 12 and 13 GSC plus live KAL
+  geometry are `MEASURED`; September 13 Semrush rows are `TOOL_ESTIMATE`;
+  current search results and persona constraints are `RESEARCH_HYPOTHESIS`;
+  selection is `EDITORIAL_JUDGMENT`; family outcomes are `UNKNOWN`.
+- **Result:** `IMPROVE`. Ball Maze is the sole future guide candidate. All
+  three lead exact queries have a 20-search US estimate, but only the Ball
+  Maze card has a retained current GSC row. Its card scores 5 of 24 and its
+  richer hub module begins 9,379px down the mobile owner.
+- **Confidence:** High for GSC, tool-row, geometry, and score reproduction;
+  medium for result-type and candidate selection; unknown for complete query
+  intent, demand causality, caregiver comprehension, and child response.
+- **Action:** Promote separately registered `KAL-IMP-009` for one cardboard
+  ball-maze guide. Defer Tape Road and Cup Tower; do not implement here.
+- **Reusable lesson:** When keyword estimates tie at a small number, combine
+  first-party discovery, ownership cost, source feasibility, and a concrete
+  parent-task failure rather than publishing all variants.
+- **Next falsification trigger:** Reject if the exact source audit cannot
+  support the no-cut/large-ball setup, the result family shifts to products or
+  giant play mazes, an existing owner can solve the task cleanly, or a future
+  guide cannot reach 22 of 24 without clutter.
+- **Measurement boundary:** The 5-of-24 proxy score is not parent testing.
+  Search effects and all human outcomes remain unmeasured.
+
+Independent review: `PASS` with no P0-P3 findings. The reviewer remained
+read-only and did not convert any proxy task into human evidence.

@@ -2328,7 +2328,79 @@
       "release_commit": "2fa2517ba7ec60ee6b1db4cf5ebd76d521b3eb58",
       "released_on": "2026-09-13",
       "blockers": [],
-      "next_eligible_action": "separately-register-KAL-RES-011"
+      "next_eligible_action": "KAL-RES-011"
+    },
+    {
+      "id": "KAL-RES-011",
+      "title": "Compare three maintained activities and select at most one guide candidate",
+      "kind": "seo-research",
+      "lane": "dedicated-activity-guides",
+      "impact": 4,
+      "confidence": 3,
+      "learning_value": 5,
+      "effort": 3,
+      "risk": 2,
+      "status": "completed",
+      "selected_on": "2026-09-13",
+      "completed_on": "2026-09-13",
+      "frozen_base": "5026a6cc5d558a7f95c6f7c9774e9f8017fbaa42",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "validated_2026-09-13_public_safe_GSC_snapshot",
+        "validated_2026-09-12_prior_snapshot",
+        "current_US_Semrush_exact_query_rows_collected_2026-09-13",
+        "current_live_SERP_samples_collected_2026-09-13",
+        "current_source_and_repository_ownership_audit",
+        "desktop_and_mobile_proxy_task_baseline"
+      ],
+      "target_urls": [],
+      "target_paths": [
+        "data/dedicated-activity-guide-keywords-2026-09-13.csv",
+        "seo/dedicated-activity-guide-candidate-decision-pack-2026-09-13.md",
+        "reviews/dedicated-activity-guide-candidate-review-2026-09-13.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "A source-dated comparison of Ball Maze Box, Masking Tape Road, and Cup Tower applies all six publication conditions, selects at most one future guide candidate, and creates no public page.",
+      "baseline": "The September 13 snapshot is finalized through September 11 at 236 impressions, three clicks, average position 16.03, and 10 of 10 priority URLs indexed. The mature ramp guide owns 175 impressions and all three clicks. The Ball Maze Box card has one retained impression at position 7; Tape Road and Cup Tower have no retained public-safe page rows. Complete query rows remain unavailable.",
+      "hypothesis": "Among these three maintained activities, Ball Maze Box will provide the strongest next-guide case because it combines a singular activity query, current first-party card discovery, credible source support, and a demonstrable parent-task gap without requiring product or family-tested evidence.",
+      "expected_effect": "Promote at most one separately implemented guide candidate or reject the hypothesis, while preserving the card and hub roles and preventing cadence-driven page production.",
+      "evidence_classification": "GSC, repository inventory, release state, and browser geometry are MEASURED within scope. September 13 Semrush rows are TOOL_ESTIMATE. Current public search results and source-derived persona constraints are RESEARCH_HYPOTHESIS. Candidate selection is EDITORIAL_JUDGMENT. Complete query intent and all family outcomes remain UNKNOWN.",
+      "human_gate": "Not required for research. No parent, caregiver, educator, or child participation is claimed; no tested status, outcome evidence, original photo, or safety performance may be created.",
+      "observation_window": "Do not edit KAL-IMP-006 through 2026-09-18, KAL-IMP-007 through 2026-09-20, or KAL-IMP-008 before a post-release crawl or verified P0-P2 regression. This transaction changes no site path.",
+      "acceptance_criteria": [
+        "compare exactly three maintained activities using current exact-query estimates and live result types without summing close variants",
+        "audit existing card and hub ownership, source feasibility, information gain, and cannibalization risk for each activity",
+        "run one explicit parent-first proxy task against the lead candidate on desktop and mobile and preserve human outcomes as UNKNOWN",
+        "apply all six weekly publication conditions and select at most one future implementation candidate or return REJECT_HYPOTHESIS",
+        "freeze a future guide task, exact ownership boundary, minimum 22-of-24 target, and reconsider conditions without editing site or generator paths",
+        "change only the ten registered research and operator paths and obtain PASS or PASS_WITH_P3 from a different independent read-only reviewer"
+      ],
+      "qa_plan": "Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, validate all public-safe snapshot JSON, parse the changed CSV, reproduce GSC, Semrush, browser, and score values, verify all cited URLs and exact ten-path scope, scan privacy and unsupported claims, and require independent read-only review.",
+      "measurement_plan": "If one candidate is promoted, a separate implementation must preserve its frozen baseline and achieve at least 22 of 24 on desktop and mobile. Search effects remain unmeasured until a fair post-release crawl and finalized page/query evidence exist.",
+      "production_invariants": "Research and operator documentation only. No site, generator, keyword-target inventory, sitemap, workflow, snapshot, URL, indexability, indexing request, external account, product, affiliate, tracker, tested status, or parent/child evidence changes.",
+      "reconsider_conditions": "Reject the lead if live results resolve to a different job, an existing owner can satisfy the full task cleanly, source or large-object boundaries fail, current keyword evidence disappears, or a future implementation cannot achieve the simplicity gate without clutter.",
+      "implementation_state": "review-clean",
+      "decision": "IMPROVE through one separately registered KAL-IMP-009 Ball Maze guide candidate. Defer Masking Tape Road and Cup Tower. Do not implement any page in this research transaction.",
+      "result": "Ball Maze, Masking Tape Road, and Paper Cup Tower Challenge each return a current 20-search US Semrush estimate, with KD and intent unavailable. Only Ball Maze has a retained KAL page row: one impression at position 7 in the September 13 snapshot. The compact Ball Maze card scores 5 of 24, its parent check begins at y=1207 on mobile, and its richer engineering-hub module begins at y=9379 on a 13537px page. Current PBS, museum, nonprofit, and public-search evidence supports a singular DIY maze job and a source-bounded no-cut, movable-wall, large-ball KAL information gain. The candidate passes all six publication conditions; Tape Road and Cup Tower remain deferred on weaker first-party or ownership evidence.",
+      "qa_summary": "git diff --check and roadmap JSON parsing pass. All 58 public-safe snapshot JSON files parse and all 55 repository tests pass. The seven-row CSV parses and preserves zero, n/a, and blank values. September 12-to-13 GSC arithmetic, Ball Maze desktop/mobile geometry, 5-of-24 score, exact ten-path scope, cited-source access, privacy, and unsupported-claim checks pass; Kids Activities Blog is publicly indexed and readable through the web research tool but returns an automated-request 403 to curl.",
+      "review_cycles": 1,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Antigravity CLI Independent Reviewer",
+        "agent_id": "agy-read-only-2026-09-13-candidate",
+        "read_only": true
+      },
+      "review_findings": "Independent review returned PASS with no P0-P3 findings. The reviewer reproduced GSC deltas, all seven keyword rows, incomplete-SERP limitations, source access, responsive geometry, the 5-of-24 baseline, every-section coverage, all six publication conditions, exact ten-path scope, roadmap consistency, and the no-human-evidence boundary.",
+      "release_state": "review-clean-project-push-pending",
+      "blockers": [],
+      "next_eligible_action": "release-KAL-RES-011-then-separately-register-KAL-IMP-009"
     }
   ]
 }

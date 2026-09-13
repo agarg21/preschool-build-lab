@@ -18,6 +18,36 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-09-13 Ball Maze Candidate Research Review
+
+Action: `KAL-RES-011`
+
+State: `PASS`; project push pending
+
+Frozen base: `5026a6cc5d558a7f95c6f7c9774e9f8017fbaa42`
+
+Scope: exactly ten research and operator paths declared in
+`ops/seo-roadmap.json`. No site, generator, sitemap, workflow, snapshot,
+indexing, external account, product, tested status, or parent/child evidence
+may change.
+
+Review package: reproduce the September 12-to-13 GSC values, all seven
+Semrush rows, incomplete live-result samples, representative sources, Ball
+Maze card and hub geometry, 5-of-24 score, every-section audit, six-condition
+candidate comparison, and the frozen future task. Confirm that Ball Maze is
+the sole promoted candidate because of combined first-party discovery,
+ownership cost, source feasibility, and parent-task information gain rather
+than keyword volume alone. Verify that no page implementation is included.
+
+Reviewer: Antigravity CLI independent reviewer
+(`agy-read-only-2026-09-13-candidate`), read-only.
+
+Outcome: `PASS` with no P0-P3 findings. The reviewer reproduced GSC deltas,
+all seven keyword rows, incomplete-SERP limitations, source access, responsive
+geometry, the 5-of-24 baseline, every-section coverage, all six publication
+conditions, exact ten-path scope, roadmap consistency, privacy, and the no-
+human-evidence boundary.
+
 ## 2026-09-13 Guide-First Weekly Synthesis Review
 
 Action: `KAL-WEEKLY-001`
