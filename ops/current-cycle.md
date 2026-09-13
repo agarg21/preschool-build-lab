@@ -33,7 +33,9 @@ activities and select at most one future guide candidate only if current
 query/SERP, ownership, source, information-gain, persona-task, and protection
 gates all pass. No page, site, indexing, external account, or family evidence
 change is authorized. Independent read-only review returned `PASS` with no
-P0-P3 findings; the documentation-only release is ready to push.
+P0-P3 findings. The documentation-only synthesis was released push-only at
+`2fa2517ba7ec60ee6b1db4cf5ebd76d521b3eb58`; no Pages deployment applies.
+The next eligible transaction is to separately register `KAL-RES-011`.
 
 ## KAL-IMP-008 Release Record
 

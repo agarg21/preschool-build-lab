@@ -2312,7 +2312,7 @@
       "measurement_plan": "Observe whether Paper Bridge is crawled and receives finalized page/query evidence; compare several qualified guides only after fair crawl windows. Do not treat overlapping windows, page rows, or proxy scores as causal or human-outcome evidence.",
       "production_invariants": "Documentation and roadmap only. No public site, generator, data target, snapshot, sitemap, workflow, indexability, indexing request, external account, product, affiliate, tracker, tested status, or parent/child evidence changes.",
       "reconsider_conditions": "Reconsider the guide-first priority if several qualified guides receive fair crawl windows without discovery, aligned complete queries favor existing hubs, guides add avoidable scan burden, or the project cannot maintain the source and review standard.",
-      "implementation_state": "review-clean",
+      "implementation_state": "released-push-only",
       "decision": "PRESERVE the guide-first strategy as a directional experiment and promote one separately registered KAL-RES-011 next-candidate research action. Do not create another page from the ramp signal, cadence, or Paper Bridge proxy score.",
       "result": "The latest adjacent 28-day windows move from 221 impressions and one click through September 9 to 228 impressions and three clicks through September 10. The mature ramp guide owns 172 impressions and all three clicks in the latest public rows; six collection rows total 30 impressions and zero clicks, five card rows total seven impressions and zero clicks, and two age-hub rows total seven impressions and zero clicks. This strengthens but does not prove guide-first direction. Paper Bridge launched after the data window. The weekly synthesis resolves the desire for more individual pages through a research pipeline rather than a quota and defines six falsifiable implementation gates.",
       "qa_summary": "git diff --check and roadmap JSON parsing pass. All 57 public-safe snapshot JSON files parse and all 55 repository tests pass. September 11-to-12 aggregate, ramp-guide, collection, card, age-hub, and indexation arithmetic reproduces from source JSON. Exact seven-path scope, privacy, and unsupported-claim checks pass.",
@@ -2324,9 +2324,11 @@
         "read_only": true
       },
       "review_findings": "Independent review returned PASS with no P0-P3 findings. The reviewer reproduced snapshot arithmetic and page-class totals, confirmed exact seven-path scope, verified evidence classifications and Paper Bridge chronology, found the six-condition publication rule falsifiable, and confirmed that KAL-RES-011 remains research-only without invented query or family evidence.",
-      "release_state": "review-clean-project-push-pending",
+      "release_state": "released-push-only",
+      "release_commit": "2fa2517ba7ec60ee6b1db4cf5ebd76d521b3eb58",
+      "released_on": "2026-09-13",
       "blockers": [],
-      "next_eligible_action": "release-KAL-WEEKLY-001-then-separately-register-KAL-RES-011"
+      "next_eligible_action": "separately-register-KAL-RES-011"
     }
   ]
 }

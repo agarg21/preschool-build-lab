@@ -22,7 +22,8 @@ evidence.
 
 Action: `KAL-WEEKLY-001`
 
-State: `PASS`; project push pending
+State: `PASS`; released push-only at
+`2fa2517ba7ec60ee6b1db4cf5ebd76d521b3eb58`
 
 Frozen base: `7d190870e0e016b402636a7cfeeba2b8f264cf39`
 
@@ -46,6 +47,9 @@ arithmetic and page-class totals, confirmed exact seven-path scope, verified
 evidence classifications and Paper Bridge chronology, found the six-condition
 publication rule falsifiable, and confirmed that `KAL-RES-011` remains
 research-only without invented query or family evidence.
+
+Release: documentation-only push to `main`; no Pages deployment applies. The
+next eligible action is separately registered `KAL-RES-011` research.
 
 
 ## 2026-09-12 Paper Bridge Guide Implementation Review

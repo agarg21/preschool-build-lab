@@ -111,3 +111,5 @@ Native QA passes: whitespace and roadmap JSON checks, all 57 public-safe
 snapshot parses, all 55 repository tests, source-arithmetic reproduction,
 exact seven-path scope, privacy, and unsupported-claim scans. An independent
 read-only Antigravity CLI reviewer returned `PASS` with no P0-P3 findings.
+The reviewed synthesis was released push-only at
+`2fa2517ba7ec60ee6b1db4cf5ebd76d521b3eb58`; no Pages deployment applies.

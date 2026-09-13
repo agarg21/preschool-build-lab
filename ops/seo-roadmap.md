@@ -10,9 +10,9 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-1. Release the review-clean `KAL-WEEKLY-001` guide-first weekly synthesis and
-   roadmap rescore, without changing the public site or manufacturing a next
-   page.
+1. Separately register `KAL-RES-011`, a research-only comparison of at most
+   three maintained activities. Select at most one guide candidate only if all
+   six publication conditions pass; do not implement a page in that action.
 2. Observe released `KAL-IMP-008` until a post-release crawl or finalized
    page/query change provides new evidence. Do not infer format causality or
    family outcomes from aggregate movement.
@@ -79,7 +79,8 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
   Bridge is observed, but implementation remains separately gated and limited
   to one candidate that clears current query/SERP, ownership, source,
   information-gain, persona-task, and protected-page requirements.
-- Review state: `PASS` with no P0-P3 findings; project push pending.
+- Review state: `PASS` with no P0-P3 findings. Released push-only at
+  `2fa2517ba7ec60ee6b1db4cf5ebd76d521b3eb58`; no Pages deployment applies.
 
 ## KAL-IMP-008 Registered On 2026-09-12
 

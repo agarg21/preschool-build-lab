@@ -41,6 +41,10 @@ candidate under the six-condition publication rule in
 `weekly/2026-09-13-guide-first-synthesis.md`. No new page is authorized by this
 overlay.
 
+The weekly synthesis was released push-only at
+`2fa2517ba7ec60ee6b1db4cf5ebd76d521b3eb58` after native QA and independent
+review passed. No public page changed and no Pages deployment applies.
+
 ## September 12 Paper Bridge Guide Implementation Overlay
 
 `KAL-IMP-008` implements the sole guide candidate selected by `KAL-RES-010`
