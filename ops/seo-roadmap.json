@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "owner": "Kid Activity Lab Operator",
-  "last_rescored_on": "2026-09-04",
-  "next_rescore_due": "2026-09-11",
+  "last_rescored_on": "2026-09-13",
+  "next_rescore_due": "2026-09-20",
   "planning_horizon_days": 28,
   "items": [
     {
@@ -2259,6 +2259,74 @@
       "production_verification": "The exact-SHA Pages run succeeded. The article, compact card, card library, image, and stylesheet return 200 and byte-match the reviewed commit. Canonical, H1, metadata, Article JSON-LD, first-screen geometry, 11-link keyboard order, all six sticky-header targets, image dimensions, text fit, and zero-overflow checks pass at 1280x900 and 390x844. The article has no warning/error logs. A direct desktop visit to the compact card records the same pre-existing favicon 404 as the frozen base; it is not an action regression and correcting all generated card heads is outside this action.",
       "blockers": [],
       "next_eligible_action": "observe-KAL-IMP-008-until-a-post-release-crawl-or-finalized-page-query-evidence-changes"
+    },
+    {
+      "id": "KAL-WEEKLY-001",
+      "title": "Synthesize the first guide-first learning week and rescore the roadmap",
+      "kind": "weekly-learning-synthesis",
+      "lane": "dedicated-activity-guides",
+      "impact": 4,
+      "confidence": 4,
+      "learning_value": 5,
+      "effort": 2,
+      "risk": 1,
+      "status": "active",
+      "selected_on": "2026-09-13",
+      "frozen_base": "7d190870e0e016b402636a7cfeeba2b8f264cf39",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "validated_2026-09-12_public_safe_GSC_snapshot",
+        "validated_2026-09-11_prior_snapshot",
+        "released_KAL-STRAT-001_guide_first_strategy",
+        "released_KAL-IMP-006_ramp_first_start",
+        "released_KAL-IMP-008_paper_bridge_guide",
+        "cumulative_learning_ledger_through_2026-09-12"
+      ],
+      "target_urls": [],
+      "target_paths": [
+        "weekly/2026-09-13-guide-first-synthesis.md",
+        "backlog/product-learning-ledger.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "The overdue rolling review separates the ramp guide's current first-party signal from page-format causality, evaluates the first week of guide-first learning, states one falsifiable publication rule, and chooses one evidence-gated next learning action without creating a page.",
+      "baseline": "The roadmap was last rescored on 2026-09-04 and was due again on 2026-09-11. The September 12 snapshot is finalized through September 10 at 228 impressions, three clicks, average position 16.02, and 10 of 10 priority URLs indexed. All three clicks and 172 impressions belong to the mature cardboard-ramp guide. Paper Bridge was released September 12, after the data window, and therefore has no valid post-release search baseline yet.",
+      "hypothesis": "A source-dated weekly synthesis will preserve the useful guide-first direction while preventing one mature page's traffic from becoming a page-production quota; the next step should be bounded candidate research, with implementation still gated by distinct intent, source feasibility, and a parent-task pass.",
+      "expected_effect": "Advance the roadmap review date, retire unsupported format-causality language, and make one next research action eligible while keeping Paper Bridge under honest post-release observation.",
+      "evidence_classification": "Snapshot metrics, release dates, repository state, and prior proxy scores are MEASURED within their scopes. Existing Semrush rows remain dated TOOL_ESTIMATE. The publication rule and next research priority are EDITORIAL_JUDGMENT. Persona usefulness, format causality, complete query intent, and family outcomes remain UNKNOWN.",
+      "human_gate": "Not required for a documentation-only synthesis. No parent, child, educator, safety-outcome, engagement, or tested-status evidence may be invented.",
+      "observation_window": "Do not edit KAL-IMP-006 through 2026-09-18, KAL-IMP-007 through 2026-09-20, or KAL-IMP-008 before its first post-release crawl or a verified P0-P2 regression. Research may identify the next candidate but may not implement it.",
+      "acceptance_criteria": [
+        "reproduce September 11 to September 12 aggregate, guide, collection, card, and age-hub evidence without inferring query intent",
+        "identify repeated learning, contradictions, weak assumptions, and the most valuable next question",
+        "state one falsifiable rule that changes the next action or retires an unsupported hypothesis",
+        "advance last_rescored_on to 2026-09-13 and next_rescore_due to 2026-09-20 in both roadmap mirrors",
+        "select at most one research-only next action and create no site, page, generator, sitemap, workflow, indexing, external-account, product, affiliate, or parent/child evidence change",
+        "change only the seven registered paths and obtain PASS or PASS_WITH_P3 from a different independent read-only reviewer"
+      ],
+      "qa_plan": "Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, parse all public-safe snapshot JSON, reproduce the cited metrics from source JSON, validate exact seven-path scope, scan changed research for privacy and unsupported claims, and require an independent read-only review.",
+      "measurement_plan": "Observe whether Paper Bridge is crawled and receives finalized page/query evidence; compare several qualified guides only after fair crawl windows. Do not treat overlapping windows, page rows, or proxy scores as causal or human-outcome evidence.",
+      "production_invariants": "Documentation and roadmap only. No public site, generator, data target, snapshot, sitemap, workflow, indexability, indexing request, external account, product, affiliate, tracker, tested status, or parent/child evidence changes.",
+      "reconsider_conditions": "Reconsider the guide-first priority if several qualified guides receive fair crawl windows without discovery, aligned complete queries favor existing hubs, guides add avoidable scan burden, or the project cannot maintain the source and review standard.",
+      "implementation_state": "review-clean",
+      "decision": "PRESERVE the guide-first strategy as a directional experiment and promote one separately registered KAL-RES-011 next-candidate research action. Do not create another page from the ramp signal, cadence, or Paper Bridge proxy score.",
+      "result": "The latest adjacent 28-day windows move from 221 impressions and one click through September 9 to 228 impressions and three clicks through September 10. The mature ramp guide owns 172 impressions and all three clicks in the latest public rows; six collection rows total 30 impressions and zero clicks, five card rows total seven impressions and zero clicks, and two age-hub rows total seven impressions and zero clicks. This strengthens but does not prove guide-first direction. Paper Bridge launched after the data window. The weekly synthesis resolves the desire for more individual pages through a research pipeline rather than a quota and defines six falsifiable implementation gates.",
+      "qa_summary": "git diff --check and roadmap JSON parsing pass. All 57 public-safe snapshot JSON files parse and all 55 repository tests pass. September 11-to-12 aggregate, ramp-guide, collection, card, age-hub, and indexation arithmetic reproduces from source JSON. Exact seven-path scope, privacy, and unsupported-claim checks pass.",
+      "review_cycles": 1,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Antigravity CLI Independent Reviewer",
+        "agent_id": "agy-read-only-2026-09-13",
+        "read_only": true
+      },
+      "review_findings": "Independent review returned PASS with no P0-P3 findings. The reviewer reproduced snapshot arithmetic and page-class totals, confirmed exact seven-path scope, verified evidence classifications and Paper Bridge chronology, found the six-condition publication rule falsifiable, and confirmed that KAL-RES-011 remains research-only without invented query or family evidence.",
+      "release_state": "review-clean-project-push-pending",
+      "blockers": [],
+      "next_eligible_action": "release-KAL-WEEKLY-001-then-separately-register-KAL-RES-011"
     }
   ]
 }

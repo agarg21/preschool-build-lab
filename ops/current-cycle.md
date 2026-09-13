@@ -18,6 +18,25 @@ and release verification.
 
 ## Active Priority
 
+`KAL-WEEKLY-001` is registered from clean aligned base
+`7d190870e0e016b402636a7cfeeba2b8f264cf39` with an exact seven-path
+documentation scope. The September 12 snapshot is finalized through September
+10 at 228 impressions, three clicks, average position 16.02, and 10 of 10
+priority URLs indexed. The mature ramp guide owns 172 impressions and all
+three clicks. Complete query rows remain unavailable, and Paper Bridge launched
+after the data window.
+
+The weekly synthesis preserves guide-first as a directional experiment while
+rejecting format causality and a page-production quota. It makes one bounded
+`KAL-RES-011` research action eligible: inspect at most three maintained
+activities and select at most one future guide candidate only if current
+query/SERP, ownership, source, information-gain, persona-task, and protection
+gates all pass. No page, site, indexing, external account, or family evidence
+change is authorized. Independent read-only review returned `PASS` with no
+P0-P3 findings; the documentation-only release is ready to push.
+
+## KAL-IMP-008 Release Record
+
 `KAL-IMP-008` is registered from clean aligned base
 `9dec4df08d4ccb676ce2b61acf138535b2fdf1fb`. Its exact 19 paths cover the
 two source generators, generated keyword CSV, compact card and card index, one

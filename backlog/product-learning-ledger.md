@@ -452,3 +452,41 @@ experience separate. A persona task is a proxy evaluation, not user testing.
 - **Measurement boundary:** The 23-of-24 proxy score is not parent
   comprehension, child engagement, duration, learning, repeatability, mess,
   safe completion, or ranking evidence. Those outcomes remain `UNKNOWN`.
+
+## 2026-09-13 - KAL-WEEKLY-001
+
+- **Family decision:** How should Kid Activity Lab continue building useful
+  individual activities without converting one guide's search signal into a
+  page quota?
+- **Persona task:** Synthesize the first guide-first week, distinguish measured
+  search and proxy-task evidence from causality and human outcomes, and choose
+  one next learning action.
+- **Falsifiable hypothesis:** A six-condition publication rule can keep next-
+  candidate research moving while preventing unsupported or overlapping page
+  creation.
+- **Sources and evidence class:** September 11 and 12 public-safe GSC,
+  repository releases, and frozen proxy scores are `MEASURED` within scope.
+  Existing Semrush rows are dated `TOOL_ESTIMATE`. The rule and priority are
+  `EDITORIAL_JUDGMENT`; complete queries, format causality, and family outcomes
+  remain `UNKNOWN`.
+- **Result:** `PRESERVE`. Property impressions move 221 to 228 and clicks one
+  to three across adjacent overlapping windows. The mature ramp guide owns 172
+  impressions and all three latest clicks. Paper Bridge launched after the
+  data window and cannot yet be evaluated.
+- **Confidence:** High for snapshot arithmetic and release chronology; medium
+  for the research-priority decision; unknown for format causality, complete
+  intent, caregiver usefulness, and child response.
+- **Action:** Promote one separately registered `KAL-RES-011` research-only
+  candidate pack across at most three maintained activities. Select at most
+  one candidate only if all six publication conditions pass; otherwise reject
+  the hypothesis. Do not implement a page in that transaction.
+- **Reusable lesson:** Maintain momentum through a qualified research pipeline,
+  not a publication quota. One mature page can justify continued testing but
+  cannot prove a format advantage.
+- **Next falsification trigger:** Several qualified guides receive fair crawl
+  windows without discovery; complete aligned queries favor existing hubs; no
+  maintained activity clears the six conditions; or guides repeatedly add
+  scan burden without decision value.
+- **Measurement boundary:** Page rows and overlapping windows do not establish
+  causal ranking effects. Proxy scores do not establish comprehension,
+  engagement, learning, safety, enjoyment, mess, duration, or repeatability.

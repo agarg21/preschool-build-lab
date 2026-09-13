@@ -6,51 +6,80 @@ engagement strategy and gives the active Master chat one durable execution queue
 Control Room scheduling is paused until the user explicitly re-enables
 automation.
 
+Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
+
 ## Current sequence
 
-1. Observe released `KAL-IMP-008` until a post-release crawl or finalized
+1. Release the review-clean `KAL-WEEKLY-001` guide-first weekly synthesis and
+   roadmap rescore, without changing the public site or manufacturing a next
+   page.
+2. Observe released `KAL-IMP-008` until a post-release crawl or finalized
    page/query change provides new evidence. Do not infer format causality or
    family outcomes from aggregate movement.
-2. Observe released `KAL-IMP-007` through 2026-09-20 except a verified P0-P2
+3. Observe released `KAL-IMP-007` through 2026-09-20 except a verified P0-P2
    regression. Treat new crawl and page/query data as observation evidence,
    not proof of caregiver/child outcomes or release causality.
-3. Observe released `KAL-IMP-005` until a post-release crawl or changed
+4. Observe released `KAL-IMP-005` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, canonical selection,
    ranking causality, or family outcomes, and do not request indexing.
-4. Observe released `KAL-IMP-004` until a post-release crawl or changed
+5. Observe released `KAL-IMP-004` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, ranking causality, or
    family outcomes, and do not request indexing.
-5. Observe released `KAL-IMP-003` until a post-release crawl or changed
+6. Observe released `KAL-IMP-003` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent or family outcomes from
    page-level movement, and do not request indexing.
-6. Observe the released `KAL-SEO-001` rank foundation for at least two
+7. Observe the released `KAL-SEO-001` rank foundation for at least two
    finalized snapshot comparisons and a refreshed sitemap read. Do not infer
    ranking causality, request indexing, or manufacture follow-on work from
    unchanged evidence.
-7. Observe the released `KAL-IMP-002` chooser for discovery and finalized
+8. Observe the released `KAL-IMP-002` chooser for discovery and finalized
    public-safe search evidence.
-8. Do not create individual game or age
+9. Do not create individual game or age
    pages, Snap, Slapjack, products, or affiliates from the same evidence.
-9. Observe `KAL-IMP-001` without attributing page-row movement or the first
+10. Observe `KAL-IMP-001` without attributing page-row movement or the first
    click to the
    release.
-10. Keep comparing validated GSC snapshots, but do not infer complete query
+11. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
-11. Keep tested-status, parent/child outcomes, and product reviews evidence-
+12. Keep tested-status, parent/child outcomes, and product reviews evidence-
    gated; do not ask the user for unavailable family testing.
-12. Use the completed `KAL-RES-002` Semrush supplement as the current paid
+13. Use the completed `KAL-RES-002` Semrush supplement as the current paid
    metric layer. It reinforces existing-page ownership and promotes no
    implementation.
-13. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
+14. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
    an Activities umbrella with Games, Arts & Crafts, Science & Building, and
    Outdoor & Nature as concrete browse categories. Actual parent comprehension
    remains `UNKNOWN`. Age and moment constraints remain routes or filters;
    pretend/story/music remain activity types; local outings and product
    guidance remain separate systems.
-14. Use completed `KAL-RES-004` as the first adjacent validation of the Games
+15. Use completed `KAL-RES-004` as the first adjacent validation of the Games
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-WEEKLY-001 Registered On 2026-09-13
+
+- Frozen clean aligned base:
+  `7d190870e0e016b402636a7cfeeba2b8f264cf39`.
+- Exact seven-path documentation scope: one weekly synthesis, cumulative
+  learning ledger, priority status, and four operator/roadmap mirrors.
+- The September 12 public-safe snapshot is finalized through September 10 at
+  228 impressions, three clicks, average position 16.02, and 10 of 10 priority
+  URLs indexed. The mature ramp guide owns all three clicks and 172
+  impressions. Complete query rows remain unavailable.
+- Paper Bridge was released September 12, after the data window, so it has no
+  valid post-release search evidence yet.
+- Synthesize the first guide-first learning week, rescore the overdue roadmap,
+  state one falsifiable publication rule, and choose at most one research-only
+  next action. Do not change the public site or manufacture implementation.
+- Native QA, exact scope, privacy/claim checks, and an independent read-only
+  Antigravity CLI review all pass.
+- Synthesis result: preserve guide-first as a directional experiment, not a
+  causal conclusion. Research for one next candidate may proceed while Paper
+  Bridge is observed, but implementation remains separately gated and limited
+  to one candidate that clears current query/SERP, ownership, source,
+  information-gain, persona-task, and protected-page requirements.
+- Review state: `PASS` with no P0-P3 findings; project push pending.
 
 ## KAL-IMP-008 Registered On 2026-09-12
 

@@ -18,6 +18,36 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-09-13 Guide-First Weekly Synthesis Review
+
+Action: `KAL-WEEKLY-001`
+
+State: `PASS`; project push pending
+
+Frozen base: `7d190870e0e016b402636a7cfeeba2b8f264cf39`
+
+Scope: exactly seven documentation paths declared in
+`ops/seo-roadmap.json`. No site, page, generator, keyword target, sitemap,
+workflow, snapshot, indexing, external account, product, affiliate, tested
+status, or parent/child evidence may change.
+
+Review package: validate the September 11 to 12 adjacent-window arithmetic,
+page-class limitations, Paper Bridge release/data chronology, repeated
+learning, weak assumptions, six-condition publication rule, roadmap dates, and
+the research-only `KAL-RES-011` next action. Confirm that the synthesis does
+not turn one mature guide's performance into format causality or permission to
+publish.
+
+Reviewer: Antigravity CLI independent reviewer
+(`agy-read-only-2026-09-13`), read-only.
+
+Outcome: `PASS` with no P0-P3 findings. The reviewer reproduced the snapshot
+arithmetic and page-class totals, confirmed exact seven-path scope, verified
+evidence classifications and Paper Bridge chronology, found the six-condition
+publication rule falsifiable, and confirmed that `KAL-RES-011` remains
+research-only without invented query or family evidence.
+
+
 ## 2026-09-12 Paper Bridge Guide Implementation Review
 
 Action: `KAL-IMP-008`

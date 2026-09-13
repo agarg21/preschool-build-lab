@@ -1,11 +1,11 @@
 # Priority Page Status
 
-Last updated: 2026-09-12
+Last updated: 2026-09-13
 
 Sources:
 
-- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-11.md`
-- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-10.md`
+- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-12.md`
+- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-11.md`
 - Current machine-readable roadmap and release evidence:
   `ops/seo-roadmap.json`
 - Current human-readable roadmap: `ops/seo-roadmap.md`
@@ -22,6 +22,24 @@ Sources:
   `seo/indoor-rainy-consolidation-decision-pack-2026-08-04.md`
 - Current product-learning evidence:
   `backlog/product-learning-ledger.md` and `backlog/persona-review-log.md`
+
+## September 13 Guide-First Weekly Synthesis Overlay
+
+The September 12 public-safe snapshot is finalized through September 10 at
+228 impressions, three clicks, average position 16.02, and 10 of 10 priority
+URLs indexed. The mature cardboard-ramp guide owns 172 impressions and all
+three clicks in the retained rows. Six collection rows total 30 impressions
+and zero clicks; five individual cards total seven impressions and zero clicks;
+two age hubs total seven impressions and zero clicks. Complete query rows are
+unavailable, and retained page rows are not a complete property decomposition.
+
+Preserve the dedicated-guide direction as an experiment, not a causal claim.
+Paper Bridge launched after the data window and has no post-release search
+evidence. The next eligible step is a separately registered research-only
+`KAL-RES-011` across at most three maintained activities, selecting at most one
+candidate under the six-condition publication rule in
+`weekly/2026-09-13-guide-first-synthesis.md`. No new page is authorized by this
+overlay.
 
 ## September 12 Paper Bridge Guide Implementation Overlay
 
