@@ -70,12 +70,31 @@ ROUTE_PRIORITY = [
 ROUTE_RANK = {path: index for index, path in enumerate(ROUTE_PRIORITY)}
 MAX_RELATED_ROUTES = 3
 GUIDE_ROUTES = {
+    "ball-maze-box": {
+        "path": "articles/cardboard-ball-maze-kids.html",
+        "label": "Full Cardboard Ball Maze guide",
+    },
     "paper-bridge": {
         "path": "articles/paper-bridge-challenge-kids.html",
         "label": "Full Paper Bridge guide",
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "ball-maze-box": {
+        "time": "Open-ended",
+        "materials": "shallow box lid, chunky blocks, large lightweight ball",
+        "best_for": "building a path, rolling, changing one wall",
+        "steps": [
+            "Put the lid flat.",
+            "Set three blocks as wide walls.",
+            "Adult adds one large ball.",
+            "Tilt gently, then reset.",
+        ],
+        "parent": (
+            "Adult controls the ball and stays close. Stop after throwing, "
+            "mouthing, hard shaking, a spill, or damaged material."
+        ),
+    },
     "paper-bridge": {
         "time": "Open-ended",
         "materials": "paper, two low closed books, large lightweight object",

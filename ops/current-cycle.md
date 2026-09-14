@@ -18,30 +18,44 @@ and release verification.
 
 ## Active Priority
 
-`KAL-RES-011` is registered from clean aligned base
-`5026a6cc5d558a7f95c6f7c9774e9f8017fbaa42` with an exact ten-path
-research scope. The September 13 snapshot is finalized through September 11
-at 236 impressions, three clicks, average position 16.03, and 10 of 10
-priority URLs indexed. The mature ramp guide owns 175 impressions and all
-three clicks; Ball Maze Box has one retained impression at position 7.
-Complete query rows remain unavailable.
+`KAL-IMP-009` is registered from clean aligned base
+`cbe30ba079ad92cdca5511d3f9c6142eaea0af6a` with an exact 20-path scope. The
+latest validated GSC evidence remains the September 13 snapshot, finalized
+through September 11 at 236 impressions, three clicks, average position 16.03,
+and 10 of 10 priority URLs indexed. Ball Maze Box has one retained impression
+at position 7; complete query rows remain unavailable.
 
-The three-candidate comparison promotes Ball Maze Box as the sole future
-guide candidate. Ball Maze, Masking Tape Road, and Paper Cup Tower Challenge
-each have a current 20-search US Semrush estimate, but only Ball Maze combines
-a retained KAL row, a singular DIY result family, credible source support, and
-a reproduced parent-task failure. Its compact card scores 5 of 24; the mobile
-parent check starts at y=1,207, and the richer hub module starts at y=9,379.
-The card's ping-pong-ball requirement conflicts with its large-ball cue.
+Build exactly one canonical parent-first guide at
+`/articles/cardboard-ball-maze-kids.html`. The default is a shallow intact lid,
+three movable chunky walls, and one adult-controlled large lightweight ball;
+no marble, bead, tape, glue, scissors, hot glue, printer, specialized kit,
+exact duration, or outcome promise. First-screen fit, setup, adult/child roles,
+mission, and stop boundaries must pass at 1280x900 and 390x844. The rest of the
+page may add one wall change, reset, rescues, adaptation, cleanup, evidence,
+and distinct routes only when each reduces the caregiver's decision effort.
 
-A separately registered `KAL-IMP-009` may target one no-cut, movable-wall,
-adult-controlled large-ball guide and at least 22 of 24 at desktop and mobile.
-Tape Road and Cup Tower remain deferred. This transaction changes no site,
-generator, indexing, external account, or family evidence. Research is
-complete. Independent read-only review returned `PASS` with no P0-P3
-findings. The research-only pack was released push-only at
-`a8c30a219bab7a1e74ec1eba04d8c5632b1895c1`; no Pages deployment applies.
-The next eligible transaction is to separately register `KAL-IMP-009`.
+Preserve the frozen 5-of-24 compact-card baseline and target at least 22 of 24
+on desktop and mobile. Correct the generated card and card index to agree with
+the guide, but do not edit the protected engineering hub or existing guides.
+Full generator, idempotence, exact-scope, native, link, fragment, responsive,
+keyboard, image, privacy, claim, and independent-review gates apply before an
+exact-SHA Pages release and production verification.
+
+Implementation checkpoint: the one-guide candidate and generator-owned card
+correction are built within the registered 20 paths. The local proxy score is
+23 of 24, up from 5 of 24; exact duration remains unknown. At 390x844 the full
+start panel ends at y=774, the stop boundary ends at y=753, and the
+illustration begins at y=810. Desktop and mobile have no overflow or browser
+warning/error, all 12 links are sequentially keyboard reachable, six direct
+fragment targets clear the sticky header, and the 1,672 by 941 WebP matches the
+frozen setup. The first native test run exposed two stale architecture-test
+assumptions: 61 rather than 62 indexable pages and only one allowed direct
+guide route. The architecture test was added to scope before correction. All
+61 tests, 58 snapshot validations, 688 internal links/fragments, exact-scope,
+source, image, idempotence, and desktop/mobile browser checks now pass.
+Independent read-only review reproduced the evidence and 23-of-24 score and
+returned `PASS` with no P0-P3 findings. The review-clean candidate is push-
+pending; production is unchanged.
 
 ## KAL-IMP-008 Release Record
 

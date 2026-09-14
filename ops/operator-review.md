@@ -2044,3 +2044,50 @@ Guardrails reaffirmed:
 - Do not claim parent or child testing without validated user evidence.
 - Do not fabricate observations, quotes, photos, engagement results, or safety
   findings.
+
+# 2026-09-14 KAL-IMP-009 Ball Maze Guide Review
+
+Action: `KAL-IMP-009`
+
+Frozen base: `cbe30ba079ad92cdca5511d3f9c6142eaea0af6a`
+
+Exact paths: the 20 paths registered in `ops/seo-roadmap.json`. The existing
+site architecture test was added before editing after the first native run
+exposed its hard-coded 61-page and one-direct-guide assumptions.
+
+Review state: `PASS`; release push-pending. Production is unchanged.
+
+Required review:
+
+- confirm one canonical Ball Maze guide and distinct card/guide/hub ownership;
+- reproduce the 5-of-24 baseline and at least 22-of-24 local score;
+- inspect every visible section for task value and first-screen clutter;
+- verify the intact-lid, three-loose-wall, adult-controlled large-ball setup
+  across copy, illustration, card, card index, metadata, and tests;
+- verify no small-ball default, craft-tool requirement, exact duration,
+  outcome promise, family-test implication, or protected-hub edit;
+- independently rerun native, generator-idempotence, exact-scope, link,
+  fragment, SEO, image, responsive, keyboard, overflow, and log checks; and
+- return structured P0-P3 findings plus `PASS`, `PASS_WITH_P3`, `FAIL`, or
+  `BLOCKED` in strict read-only mode.
+
+Reviewer: Antigravity CLI Parent-Task and Content-Trust Reviewer
+(`agy-read-only-2026-09-14-ball-maze-parent`), read-only.
+
+Independent QA rerun:
+
+- `git diff --check` and roadmap JSON parsing pass;
+- all 61 repository tests pass;
+- all 58 public-safe snapshots validate;
+- all three publishing generators rerun with no output drift;
+- local links and fragments, image format and dimensions, and exact 20-path
+  scope pass; and
+- 1280x900 and 390x844 browser checks reproduce first-screen geometry, zero
+  overflow, 12-link keyboard order, six clear fragment targets, and clean logs.
+
+Findings: none (`P0`-`P3`).
+
+Result: `PASS`. The reviewer reproduced the 5-to-23 score, inspected every
+guide section and both compact surfaces, verified illustration/text agreement,
+source and evidence limits, and confirmed that protected owners and human-
+evidence boundaries remain unchanged.

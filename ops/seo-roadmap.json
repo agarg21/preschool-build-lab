@@ -2402,7 +2402,91 @@
       "release_commit": "a8c30a219bab7a1e74ec1eba04d8c5632b1895c1",
       "released_on": "2026-09-13",
       "blockers": [],
-      "next_eligible_action": "separately-register-KAL-IMP-009"
+      "next_eligible_action": "KAL-IMP-009"
+    },
+    {
+      "id": "KAL-IMP-009",
+      "title": "Build a parent-first cardboard Ball Maze guide",
+      "kind": "implementation",
+      "lane": "dedicated-activity-guides",
+      "impact": 4,
+      "confidence": 3,
+      "learning_value": 5,
+      "effort": 4,
+      "risk": 3,
+      "status": "active",
+      "selected_on": "2026-09-14",
+      "frozen_base": "cbe30ba079ad92cdca5511d3f9c6142eaea0af6a",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": false,
+      "required_evidence": [
+        "released_KAL-RES-011_candidate_pack",
+        "validated_2026-09-13_public_safe_GSC_snapshot",
+        "current_source_and_ownership_audit_collected_2026-09-13",
+        "frozen_5_of_24_parent_task_baseline"
+      ],
+      "target_urls": [
+        "https://kidactivitylab.com/articles/cardboard-ball-maze-kids.html",
+        "https://kidactivitylab.com/cards/ball-maze-box.html",
+        "https://kidactivitylab.com/cards.html"
+      ],
+      "target_paths": [
+        "scripts/generate_seo_pages.py",
+        "scripts/generate_card_pages.py",
+        "scripts/generate_sitemap.py",
+        "data/seo_keyword_targets.csv",
+        "site/articles/cardboard-ball-maze-kids.html",
+        "site/cards/ball-maze-box.html",
+        "site/cards.html",
+        "site/assets/ball-maze/ball-maze-box-guide.webp",
+        "site/styles.css",
+        "site/sitemap.xml",
+        "tools/ball-maze-guide.test.mjs",
+        "tools/site-architecture.test.mjs",
+        "reviews/ball-maze-guide-implementation-review-2026-09-14.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "One high-quality canonical guide lets a caregiver judge fit and run a no-cut, wide-path Ball Maze without another broad search, while the compact card remains concise and the protected engineering hub remains unchanged.",
+      "baseline": "The September 13 snapshot is finalized through September 11 at 236 impressions, three clicks, average position 16.03, and 10 of 10 priority URLs indexed. The Ball Maze card has one retained impression at position 7, complete queries are unavailable, and its frozen source-derived parent task scores 5 of 24 with a conflicting ping-pong-ball versus large-ball cue.",
+      "hypothesis": "A singular, low-clutter guide using a shallow intact lid, movable chunky walls, and one adult-controlled large lightweight ball can raise the frozen proxy task to at least 22 of 24 on desktop and mobile while preserving honest evidence boundaries and distinct card, guide, and hub roles.",
+      "expected_effect": "Reduce caregiver decision and setup ambiguity for the Ball Maze job and create one maintainable guide-first search experiment. Search discovery and all family outcomes remain unmeasured until valid post-release evidence exists.",
+      "evidence_classification": "GSC page rows, repository state, browser geometry, generator output, and QA are MEASURED within scope. September 13 Semrush rows are TOOL_ESTIMATE. Public sources and source-derived persona constraints are RESEARCH_HYPOTHESIS. Page wording, setup synthesis, illustration, and proxy score are EDITORIAL_JUDGMENT. Complete query intent, duration, caregiver comprehension, child engagement, learning, repeatability, mess, frustration, and safety outcomes remain UNKNOWN.",
+      "human_gate": "Not required. The implementation must explicitly state that Kid Activity Lab has not recorded a family test and must not claim parent, caregiver, educator, child, medical, developmental, educational-outcome, or safety performance evidence.",
+      "observation_window": "Do not edit the KAL-IMP-006 ramp owner through 2026-09-18, the KAL-IMP-007 preschool STEM owner through 2026-09-20, the KAL-IMP-008 Paper Bridge surfaces before changed evidence, or the protected engineering hub during this transaction absent a verified P0-P2 regression.",
+      "acceptance_criteria": [
+        "create exactly one canonical indexable guide at /articles/cardboard-ball-maze-kids.html and add it once to keyword inventory and sitemap",
+        "put the activity hook, observable readiness, exact no-cut materials, adult setup and ball control, first child action, kid mission, and direct stop in the first viewport at 1280x900 and 390x844",
+        "use one shallow intact lid, three movable chunky walls, and one adult-controlled large lightweight ball with no marble, bead, glue, tape, scissors, hot glue, printer, specialized kit, exact duration, or outcome promise",
+        "add only task-bearing depth: one wide-path start, gentle tilt, one-wall change, reset, stuck/too-hard rescues, support adaptations, cleanup, source limits, and distinct compact and broad routes",
+        "correct the compact Ball Maze card and generated card index to agree with the guide, remain concise, and link directly to the guide without editing the protected engineering hub",
+        "reach at least 22 of 24 on the frozen 12-dimension proxy task on desktop and mobile with no overflow, clipping, keyboard, anchor, image, console, link, or generator-idempotence regression",
+        "change only the twenty registered paths and obtain PASS or PASS_WITH_P3 from at least one different independent read-only reviewer"
+      ],
+      "qa_plan": "Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, all three publishing generators, generator idempotence and declared-output checks, parse the changed CSV and all public-safe snapshots, complete local link and fragment checks, canonical/H1/metadata/Article JSON-LD/sitemap/image validation, and desktop 1280x900 plus mobile 390x844 browser QA for the frozen persona task, every section, keyboard traversal, sticky anchors, text fit, overflow, console, and network behavior. Require independent read-only review of the full frozen diff.",
+      "measurement_plan": "Compare the guide against the frozen 5-of-24 card baseline and record desktop/mobile first-viewport geometry. After release, require exact-SHA Pages success and production verification, then wait for a post-release crawl and finalized page/query evidence before judging search discovery. Do not attribute overlapping-window movement or infer family outcomes.",
+      "production_invariants": "Exactly one new indexable article URL and one new original illustrative asset. Only the new guide, compact Ball Maze card, card library, shared stylesheet, keyword inventory, and sitemap may change publicly. No protected hub, existing guide, workflow, snapshot, external account, indexing request, product, affiliate, tracker, tested status, or parent/child evidence change.",
+      "reconsider_conditions": "Reconsider or revert if the guide cannot reach 22 of 24 without clutter, the movable-wall and large-ball setup cannot be supported honestly, the illustration disagrees with the text, the guide duplicates a protected owner, generator output drifts, independent review finds P0-P2, or production invariants fail.",
+      "implementation_state": "review-clean-push-pending",
+      "decision": "PRESERVE and release the review-clean bounded candidate. The guide raises the frozen source-derived proxy task from 5 of 24 to 23 of 24 without editing the protected engineering hub. Exact duration and all family and search outcomes remain UNKNOWN.",
+      "result": "One new parent-first Ball Maze guide exposes observable readiness, an intact shallow lid, three loose chunky walls, adult ball control, the first child action, a mission, and direct stops before the 390x844 fold. It adds one wall change, reset, stuck and too-hard rescues, younger-child and motor-role adaptations, cleanup, source limits, one honestly labeled illustration, and a direct compact-card route. At 390x844 the panel ends at y=774, the stop ends at y=753, the illustration begins at y=810, document width equals viewport width, all 12 links are sequentially keyboard reachable, and browser logs are clean.",
+      "qa_summary": "All three publishing generators run and a before/after site-tree plus keyword hash is identical on the final same-state rerun. All 61 repository tests pass, all 58 public-safe GSC snapshots parse and independently validate, roadmap JSON parses, and git diff --check passes. The 18-row keyword CSV has one Ball Maze guide owner, the sitemap has 62 unique indexable owners, all 688 internal links and fragments resolve, the four cited sources return 200, and exact 20-path scope passes. The 1672x941 WebP loads and matches the frozen setup. Local 1280x900 and 390x844 browser QA covers first-screen geometry, every section, 12-link keyboard traversal, six sticky-header fragment targets, text fit, zero overflow, and clean console/network logs.",
+      "review_cycles": 1,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Antigravity CLI Parent-Task and Content-Trust Reviewer",
+        "agent_id": "agy-read-only-2026-09-14-ball-maze-parent",
+        "read_only": true
+      },
+      "review_findings": "Independent read-only review returned PASS with no P0-P3 findings. The reviewer verified the exact 20 paths, independently reran whitespace, roadmap JSON, 61 tests, 58 snapshot validations, all three generators, idempotence, links/fragments, image inspection, and responsive browser checks; reproduced the 5-to-23 score; inspected every visible section, compact card, card index, metadata, sources, and routes; and confirmed generator ownership, protected-page isolation, evidence classification, privacy, and no human-evidence invention.",
+      "release_state": "push-pending",
+      "blockers": [],
+      "next_eligible_action": "commit-push-deploy-and-production-verify-KAL-IMP-009"
     }
   ]
 }

@@ -526,3 +526,38 @@ experience separate. A persona task is a proxy evaluation, not user testing.
 
 Independent review: `PASS` with no P0-P3 findings. The reviewer remained
 read-only and did not convert any proxy task into human evidence.
+## 2026-09-14 - Ball Maze Guide Implementation
+
+- **Action:** `KAL-IMP-009`
+- **Family decision:** Decide whether a no-cut box-lid maze fits this child and
+  moment, then run one wide-path build-roll-change loop.
+- **Persona task:** A caregiver needs exact materials, adult and child roles,
+  a direct stop, one wall change, rescue, adaptation, reset, cleanup, and
+  evidence limits while a younger child may reach the setup.
+- **Hypothesis:** One low-clutter guide can raise the frozen source-derived
+  task from 5 of 24 to at least 22 of 24 without changing a protected hub or
+  inventing family outcomes.
+- **Evidence:** September 13 public-safe GSC page row and `KAL-RES-011`
+  research are measured/tool/research context; local generator output,
+  responsive DOM checks, and image dimensions are measured within scope; the
+  score and setup synthesis are editorial judgment.
+- **Result:** `PRESERVE` the review-clean candidate for release. It scores
+  23 of 24. At 390x844 the start panel ends at y=774, the stop ends at y=753,
+  and the illustration begins at y=810. No overflow or browser log failure is
+  present.
+- **Review:** Independent read-only `PASS` with no P0-P3 findings after
+  reproducing scope, native QA, responsive behavior, every-section value,
+  evidence limits, and the 5-to-23 score.
+- **Confidence:** Medium. The parent task is reproducibly answered, but no
+  caregiver or child used the page and complete queries remain unavailable.
+- **Action:** One canonical guide, one generator-owned compact-card correction,
+  one original illustration, focused tests, and no protected-hub edit.
+- **Reusable lesson:** A dedicated guide can stay simple when the first screen
+  owns the decision and each later section resolves exactly one run, recovery,
+  adaptation, cleanup, evidence, or routing need.
+- **Next falsification trigger:** Independent P0-P2 findings, failure to retain
+  22 of 24 after correction, visual/text mismatch, generator drift, production
+  regression, or later complete query evidence pointing to another owner.
+- **Measurement boundary:** Duration, comprehension, engagement, enjoyment,
+  learning, repeatability, mess, frustration, safety performance, and search
+  effects remain `UNKNOWN` until valid evidence exists.

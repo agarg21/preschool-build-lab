@@ -23,6 +23,29 @@ Sources:
 - Current product-learning evidence:
   `backlog/product-learning-ledger.md` and `backlog/persona-review-log.md`
 
+## September 14 Ball Maze Guide Implementation Overlay
+
+`KAL-IMP-009` implements the sole guide candidate selected by `KAL-RES-011`
+without editing the protected engineering hub or existing guides. The local
+canonical is `/articles/cardboard-ball-maze-kids.html`; the compact Ball Maze
+card remains the quick utility surface and now routes directly to the guide.
+
+The same source-derived proxy task moves from 5 of 24 on the prior card to 23
+of 24 on the local guide. At 390x844, the full fit/start panel ends at y=774,
+the stop boundary ends at y=753, and the illustration begins at y=810.
+Document width equals viewport width, all 12 links are sequentially keyboard
+reachable, all six direct fragment targets clear the sticky header, the WebP
+loads at 1,672 by 941, and browser logs are clean.
+
+The guide uses one shallow intact lid, three movable chunky block walls, and
+one adult-controlled large lightweight foam ball. It adds one wall change,
+stuck/too-hard rescues, younger-child and motor-role adaptations, reset,
+cleanup, and explicit source limits. The illustration is labeled AI-generated
+and not family-test evidence. Exact duration and every caregiver/child outcome
+remain `UNKNOWN`. Native QA and independent read-only review pass with no
+P0-P3 findings. The review-clean candidate is push-pending; production is
+unchanged.
+
 ## September 13 Guide-First Weekly Synthesis Overlay
 
 The September 12 public-safe snapshot is finalized through September 10 at

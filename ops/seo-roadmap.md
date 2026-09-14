@@ -10,9 +10,9 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-1. Separately register one `KAL-IMP-009` Ball Maze guide implementation from
-   the released `KAL-RES-011` pack. Preserve its exact parent task, protected
-   pages, source limits, and one-guide scope.
+1. Commit, push, deploy, and production-verify review-clean `KAL-IMP-009`:
+   one parent-first Ball Maze guide, one corrected compact-card route, and no
+   protected-hub edit.
 2. Observe released `KAL-IMP-008` until a post-release crawl or finalized
    page/query change provides new evidence. Do not infer format causality or
    family outcomes from aggregate movement.
@@ -85,6 +85,38 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 - Review state: independent read-only `PASS` with no P0-P3 findings. Released
   push-only at `a8c30a219bab7a1e74ec1eba04d8c5632b1895c1`; no Pages deployment
   applies.
+
+## KAL-IMP-009 Registered On 2026-09-14
+
+- Frozen clean aligned base:
+  `cbe30ba079ad92cdca5511d3f9c6142eaea0af6a`.
+- Exact 20-path scope: the SEO, card, and sitemap generators; generated keyword
+  inventory, compact card, card index, sitemap, and one new article; one
+  original illustrative WebP; shared styles; one focused test; one
+  implementation review; two learning logs; priority status; two focused test
+  files; and four operator mirrors. The architecture test was added before it
+  was edited after the first run exposed its hard-coded one-guide assumptions.
+- Build exactly one canonical guide at
+  `/articles/cardboard-ball-maze-kids.html`. Use a shallow intact lid, three
+  movable chunky walls, and one adult-controlled large lightweight ball. Do
+  not use or show marbles, beads, tape, glue, cutting tools, exact duration, or
+  outcome promises.
+- The first desktop and mobile viewport must expose the hook, observable
+  readiness, materials, adult setup and ball control, first child action,
+  mission, and direct stop. The full page may add only task-bearing start,
+  one-wall comparison, reset, rescues, adaptations, cleanup, evidence, and
+  distinct-route sections.
+- Preserve the 5-of-24 card baseline and target at least 22 of 24 at 1280x900
+  and 390x844. Correct the generated compact card and card index to agree with
+  the guide, but leave the protected engineering hub and existing guides
+  unchanged.
+- Full native, generator-idempotence, exact-scope, link, fragment, responsive,
+  keyboard, image, privacy, claim, independent-review, exact-SHA deployment,
+  and production-verification gates apply.
+- Local result: 23 of 24, up from the frozen 5 of 24. All 61 tests, 58 snapshot
+  validations, 688 internal links/fragments, exact-scope, image, source,
+  idempotence, and desktop/mobile browser checks pass. Independent read-only
+  review returned `PASS` with no P0-P3 findings. Release is push-pending.
 
 ## KAL-WEEKLY-001 Registered On 2026-09-13
 

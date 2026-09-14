@@ -488,3 +488,36 @@ engineering hub unchanged during implementation.
 
 Independent read-only review returned `PASS` with no P0-P3 findings. This
 confirms reproducible proxy evidence and scope, not parent or child validation.
+## 2026-09-14 - Cardboard Ball Maze Guide
+
+**Action:** `KAL-IMP-009`
+
+**Surface:** Local candidate at
+`/articles/cardboard-ball-maze-kids.html`, compared with the 5-of-24 compact
+card baseline.
+
+**Persona task:** A caregiver must judge whether a no-cut box-lid maze fits a
+child who can move chunky blocks and follow a stop cue while a younger child
+may reach the materials. They need a wide-path start, adult ball control,
+first child action, direct stop, one wall change, rescue, adaptation, reset,
+cleanup, and evidence limits without another broad search.
+
+**Evidence boundary:** This is a source-derived proxy task, not user testing.
+The implementation score and page choices are editorial judgment. Exact
+duration and all family outcomes remain unknown.
+
+**Result:** `PRESERVE` the review-clean candidate for release. It scores 23
+of 24 across the 12 relevant dimensions, up from 5 of 24. The missing point is
+exact duration; no measured family timing exists. At 390x844 the full start
+panel and stop boundary fit before the fold, the visual begins afterward, all
+12 links are sequentially keyboard reachable, and browser logs are clean.
+
+**Every-section result:** Each section contributes one distinct output: fit and
+start, setup illustration, complete run, one wall change, troubleshooting,
+adaptation, cleanup, evidence limits, or a route to a distinct compact/broad
+owner. No section is present merely to add length.
+
+**Automatic-failure check:** No local automatic failure observed. Critical
+instructions are present, the ball contradiction is removed, and
+trust-sensitive claims remain qualified. Independent read-only review returned
+`PASS` with no P0-P3 findings after reproducing the task and evidence chain.
