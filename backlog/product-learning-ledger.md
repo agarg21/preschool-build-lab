@@ -541,7 +541,7 @@ read-only and did not convert any proxy task into human evidence.
   research are measured/tool/research context; local generator output,
   responsive DOM checks, and image dimensions are measured within scope; the
   score and setup synthesis are editorial judgment.
-- **Result:** `PRESERVE` the review-clean candidate for release. It scores
+- **Result:** `PRESERVE` the released, production-verified guide. It scores
   23 of 24. At 390x844 the start panel ends at y=774, the stop ends at y=753,
   and the illustration begins at y=810. No overflow or browser log failure is
   present.
@@ -552,6 +552,9 @@ read-only and did not convert any proxy task into human evidence.
   caregiver or child used the page and complete queries remain unavailable.
 - **Action:** One canonical guide, one generator-owned compact-card correction,
   one original illustration, focused tests, and no protected-hub edit.
+  Reviewed commit `858ee051b44a808faf35aba6584b2373b27a5dfe` is live through
+  successful exact-SHA Pages run `34828769448` and deployment `6434291751`;
+  production artifacts and the parent-task route were verified.
 - **Reusable lesson:** A dedicated guide can stay simple when the first screen
   owns the decision and each later section resolves exactly one run, recovery,
   adaptation, cleanup, evidence, or routing need.

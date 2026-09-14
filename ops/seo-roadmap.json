@@ -2414,7 +2414,8 @@
       "learning_value": 5,
       "effort": 4,
       "risk": 3,
-      "status": "active",
+      "status": "completed",
+      "completed_on": "2026-09-14",
       "selected_on": "2026-09-14",
       "frozen_base": "cbe30ba079ad92cdca5511d3f9c6142eaea0af6a",
       "allowed_during_observation": true,
@@ -2472,7 +2473,7 @@
       "measurement_plan": "Compare the guide against the frozen 5-of-24 card baseline and record desktop/mobile first-viewport geometry. After release, require exact-SHA Pages success and production verification, then wait for a post-release crawl and finalized page/query evidence before judging search discovery. Do not attribute overlapping-window movement or infer family outcomes.",
       "production_invariants": "Exactly one new indexable article URL and one new original illustrative asset. Only the new guide, compact Ball Maze card, card library, shared stylesheet, keyword inventory, and sitemap may change publicly. No protected hub, existing guide, workflow, snapshot, external account, indexing request, product, affiliate, tracker, tested status, or parent/child evidence change.",
       "reconsider_conditions": "Reconsider or revert if the guide cannot reach 22 of 24 without clutter, the movable-wall and large-ball setup cannot be supported honestly, the illustration disagrees with the text, the guide duplicates a protected owner, generator output drifts, independent review finds P0-P2, or production invariants fail.",
-      "implementation_state": "review-clean-push-pending",
+      "implementation_state": "released-and-production-verified",
       "decision": "PRESERVE and release the review-clean bounded candidate. The guide raises the frozen source-derived proxy task from 5 of 24 to 23 of 24 without editing the protected engineering hub. Exact duration and all family and search outcomes remain UNKNOWN.",
       "result": "One new parent-first Ball Maze guide exposes observable readiness, an intact shallow lid, three loose chunky walls, adult ball control, the first child action, a mission, and direct stops before the 390x844 fold. It adds one wall change, reset, stuck and too-hard rescues, younger-child and motor-role adaptations, cleanup, source limits, one honestly labeled illustration, and a direct compact-card route. At 390x844 the panel ends at y=774, the stop ends at y=753, the illustration begins at y=810, document width equals viewport width, all 12 links are sequentially keyboard reachable, and browser logs are clean.",
       "qa_summary": "All three publishing generators run and a before/after site-tree plus keyword hash is identical on the final same-state rerun. All 61 repository tests pass, all 58 public-safe GSC snapshots parse and independently validate, roadmap JSON parses, and git diff --check passes. The 18-row keyword CSV has one Ball Maze guide owner, the sitemap has 62 unique indexable owners, all 688 internal links and fragments resolve, the four cited sources return 200, and exact 20-path scope passes. The 1672x941 WebP loads and matches the frozen setup. Local 1280x900 and 390x844 browser QA covers first-screen geometry, every section, 12-link keyboard traversal, six sticky-header fragment targets, text fit, zero overflow, and clean console/network logs.",
@@ -2484,9 +2485,15 @@
         "read_only": true
       },
       "review_findings": "Independent read-only review returned PASS with no P0-P3 findings. The reviewer verified the exact 20 paths, independently reran whitespace, roadmap JSON, 61 tests, 58 snapshot validations, all three generators, idempotence, links/fragments, image inspection, and responsive browser checks; reproduced the 5-to-23 score; inspected every visible section, compact card, card index, metadata, sources, and routes; and confirmed generator ownership, protected-page isolation, evidence classification, privacy, and no human-evidence invention.",
-      "release_state": "push-pending",
+      "release_state": "released-and-production-verified",
+      "release_commit": "858ee051b44a808faf35aba6584b2373b27a5dfe",
+      "released_on": "2026-09-14",
+      "pages_run_id": "34828769448",
+      "pages_run_url": "https://github.com/agarg21/preschool-build-lab/actions/runs/34828769448",
+      "deployment_id": "6434291751",
+      "production_verification": "Exact-SHA Pages deployment succeeded for 858ee051b44a808faf35aba6584b2373b27a5dfe. The guide, compact card, card index, WebP, stylesheet, and sitemap return 200 and byte-match the reviewed commit. Production canonical, H1, first-screen parent task, image, responsive overflow, clean browser logs, and the compact-card-to-guide route pass at desktop and mobile.",
       "blockers": [],
-      "next_eligible_action": "commit-push-deploy-and-production-verify-KAL-IMP-009"
+      "next_eligible_action": "observe-KAL-IMP-009-until-a-post-release-crawl-or-finalized-page-query-evidence-changes"
     }
   ]
 }

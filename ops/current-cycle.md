@@ -41,8 +41,8 @@ Full generator, idempotence, exact-scope, native, link, fragment, responsive,
 keyboard, image, privacy, claim, and independent-review gates apply before an
 exact-SHA Pages release and production verification.
 
-Implementation checkpoint: the one-guide candidate and generator-owned card
-correction are built within the registered 20 paths. The local proxy score is
+Release checkpoint: the one-guide implementation and generator-owned card
+correction were released within the registered 20 paths. The proxy score is
 23 of 24, up from 5 of 24; exact duration remains unknown. At 390x844 the full
 start panel ends at y=774, the stop boundary ends at y=753, and the
 illustration begins at y=810. Desktop and mobile have no overflow or browser
@@ -54,8 +54,14 @@ guide route. The architecture test was added to scope before correction. All
 61 tests, 58 snapshot validations, 688 internal links/fragments, exact-scope,
 source, image, idempotence, and desktop/mobile browser checks now pass.
 Independent read-only review reproduced the evidence and 23-of-24 score and
-returned `PASS` with no P0-P3 findings. The review-clean candidate is push-
-pending; production is unchanged.
+returned `PASS` with no P0-P3 findings. Reviewed commit
+`858ee051b44a808faf35aba6584b2373b27a5dfe` is released and production-
+verified through successful exact-SHA Pages run `34828769448` and deployment
+`6434291751`. The guide, compact card, card index, image, stylesheet, and
+sitemap return 200 and byte-match the reviewed commit; live canonical, H1,
+first-screen task, responsive, clean-log, and card-to-guide route checks pass.
+Next, observe until a post-release crawl or finalized page/query change. Do
+not infer search causality or family outcomes.
 
 ## KAL-IMP-008 Release Record
 

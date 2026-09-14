@@ -2055,7 +2055,7 @@ Exact paths: the 20 paths registered in `ops/seo-roadmap.json`. The existing
 site architecture test was added before editing after the first native run
 exposed its hard-coded 61-page and one-direct-guide assumptions.
 
-Review state: `PASS`; release push-pending. Production is unchanged.
+Review state: `PASS`; released and production-verified.
 
 Required review:
 
@@ -2091,3 +2091,12 @@ Result: `PASS`. The reviewer reproduced the 5-to-23 score, inspected every
 guide section and both compact surfaces, verified illustration/text agreement,
 source and evidence limits, and confirmed that protected owners and human-
 evidence boundaries remain unchanged.
+
+Release: reviewed commit
+`858ee051b44a808faf35aba6584b2373b27a5dfe` is pushed to `main` and deployed
+by successful exact-SHA Pages run `34828769448` with deployment
+`6434291751`. The guide, compact card, card index, WebP, stylesheet, and
+sitemap return 200 and byte-match the reviewed commit. Production canonical,
+H1, first-screen task, image, responsive overflow, clean browser logs, and the
+compact-card-to-guide route pass. This verifies deployment and page behavior,
+not caregiver or child outcomes.

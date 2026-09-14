@@ -10,9 +10,9 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-1. Commit, push, deploy, and production-verify review-clean `KAL-IMP-009`:
-   one parent-first Ball Maze guide, one corrected compact-card route, and no
-   protected-hub edit.
+1. Observe released `KAL-IMP-009` until a post-release crawl or finalized
+   page/query change provides new evidence. Do not infer ranking causality or
+   family outcomes from the release or overlapping-window movement.
 2. Observe released `KAL-IMP-008` until a post-release crawl or finalized
    page/query change provides new evidence. Do not infer format causality or
    family outcomes from aggregate movement.
@@ -113,10 +113,18 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 - Full native, generator-idempotence, exact-scope, link, fragment, responsive,
   keyboard, image, privacy, claim, independent-review, exact-SHA deployment,
   and production-verification gates apply.
-- Local result: 23 of 24, up from the frozen 5 of 24. All 61 tests, 58 snapshot
+- Result: 23 of 24, up from the frozen 5 of 24. All 61 tests, 58 snapshot
   validations, 688 internal links/fragments, exact-scope, image, source,
   idempotence, and desktop/mobile browser checks pass. Independent read-only
-  review returned `PASS` with no P0-P3 findings. Release is push-pending.
+  review returned `PASS` with no P0-P3 findings.
+- Reviewed commit `858ee051b44a808faf35aba6584b2373b27a5dfe` is released
+  and production-verified through successful exact-SHA Pages run
+  `34828769448` and deployment `6434291751`. The guide, compact card, card
+  index, WebP, stylesheet, and sitemap return 200 and byte-match the reviewed
+  commit. Production canonical, H1, first-screen task, image, responsive,
+  clean-log, and compact-card-to-guide route checks pass.
+- Next, observe until a post-release crawl or finalized page/query change.
+  Search and all family outcomes remain `UNKNOWN`.
 
 ## KAL-WEEKLY-001 Registered On 2026-09-13
 

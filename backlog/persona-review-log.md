@@ -506,7 +506,7 @@ cleanup, and evidence limits without another broad search.
 The implementation score and page choices are editorial judgment. Exact
 duration and all family outcomes remain unknown.
 
-**Result:** `PRESERVE` the review-clean candidate for release. It scores 23
+**Result:** `PRESERVE` the released, production-verified guide. It scores 23
 of 24 across the 12 relevant dimensions, up from 5 of 24. The missing point is
 exact duration; no measured family timing exists. At 390x844 the full start
 panel and stop boundary fit before the fold, the visual begins afterward, all
@@ -521,3 +521,9 @@ owner. No section is present merely to add length.
 instructions are present, the ball contradiction is removed, and
 trust-sensitive claims remain qualified. Independent read-only review returned
 `PASS` with no P0-P3 findings after reproducing the task and evidence chain.
+
+Reviewed commit `858ee051b44a808faf35aba6584b2373b27a5dfe` is live through
+successful exact-SHA Pages run `34828769448` and deployment `6434291751`.
+Production canonical, H1, first-screen task, image, responsive overflow, clean
+browser logs, and the compact-card-to-guide route pass. This is deployment and
+proxy-task evidence, not parent or child testing.

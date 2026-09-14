@@ -4,7 +4,7 @@ Date: 2026-09-14
 
 Action: `KAL-IMP-009`
 
-State: `PASS`; review-clean and push-pending
+State: `PASS`; released and production-verified
 
 Frozen base: `cbe30ba079ad92cdca5511d3f9c6142eaea0af6a`
 
@@ -128,3 +128,13 @@ SEO ownership, image contents, responsive geometry, keyboard order, anchor
 clearance, clean logs, every visible section, the 5-to-23 score, protected-
 page isolation, privacy, evidence classes, and the absence of fabricated human
 evidence.
+
+## Release Verification
+
+Reviewed commit `858ee051b44a808faf35aba6584b2373b27a5dfe` is pushed to
+`main`. Exact-SHA Pages run `34828769448` and deployment `6434291751`
+succeeded. The guide, compact card, card index, WebP, stylesheet, and sitemap
+return 200 and byte-match the reviewed commit. Production canonical, H1,
+first-screen task, image, desktop/mobile overflow, clean browser logs, and the
+compact-card-to-guide route pass. These checks verify release integrity and
+rendered behavior only; all caregiver and child outcomes remain `UNKNOWN`.

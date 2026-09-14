@@ -43,8 +43,12 @@ stuck/too-hard rescues, younger-child and motor-role adaptations, reset,
 cleanup, and explicit source limits. The illustration is labeled AI-generated
 and not family-test evidence. Exact duration and every caregiver/child outcome
 remain `UNKNOWN`. Native QA and independent read-only review pass with no
-P0-P3 findings. The review-clean candidate is push-pending; production is
-unchanged.
+P0-P3 findings. Reviewed commit
+`858ee051b44a808faf35aba6584b2373b27a5dfe` is released and production-
+verified through exact-SHA Pages run `34828769448` and deployment
+`6434291751`; all six public artifacts byte-match, and live canonical, H1,
+first-screen task, responsive, clean-log, and card-to-guide route checks pass.
+Observe until a post-release crawl or finalized page/query change.
 
 ## September 13 Guide-First Weekly Synthesis Overlay
 
