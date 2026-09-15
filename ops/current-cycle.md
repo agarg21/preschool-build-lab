@@ -18,38 +18,41 @@ and release verification.
 
 ## Active Priority
 
-`KAL-RES-012` is registered from clean aligned base
-`3c830ae6810cb1feb30d94af924ce16d5fe31bc1` with an exact nine-path
-research-only scope. The September 14 public-safe snapshot is finalized
-through September 12 at 237 impressions, four clicks, average position 15.24,
-and 10 of 10 priority URLs indexed. Tape Road and Tape City have no retained
-page row, and complete query rows remain unavailable.
+`KAL-IMP-010` is registered from clean aligned base
+`94bc797d1c2267dad076f0eaf5bade00eaaffb7e` with an exact 22-path
+implementation scope. The September 15 public-safe snapshot is finalized
+through September 13 at 231 impressions, four clicks, average position 14.84,
+and 10 of 10 priority URLs indexed. Tape City has one retained impression at
+position 11; Tape Road remains absent and complete query rows are unavailable.
 
-Resolve whether Tape Road can become one parent-first guide without creating
-another vague or competing road page. Current September 13 Semrush context
-returns 20 US searches for `masking tape road`; current September 15 search
-and public parent/educator questions emphasize indoor car play, surface
-compatibility, limited space, and cleanup. The existing Tape Road card buries
-its only floor check at y=1,392 on mobile and overlaps Tape City, a noindex
-material page, and broad hubs.
+Build exactly one canonical parent-first guide at
+`/articles/painter-tape-road-kids.html`. The first screen must expose
+observable readiness, exact materials, an adult product/surface decision and
+one-strip test, a removable board/table/tray/cardboard fallback, the first
+child action, one parking mission, and a direct stop. The rest may add one
+short route, one change, reset and rescues, small-space and seated adaptation,
+younger-child reach boundaries, adult tape removal and cleanup, evidence
+limits, and distinct routes only when each reduces caregiver effort.
 
-Audit current ownership and score one source-derived caregiver task at
-1280x900 and 390x844. Promote at most one separately implemented guide only if
-query, ownership, source, information-gain, trust, and simplicity gates all
-pass. No public page, generator, sitemap, indexing, external account, product,
-tested-status, or family evidence may change in this transaction.
+Preserve the frozen 5-of-24 compact-card baseline and reach at least 22 of 24
+on desktop and mobile. Correct Tape Road and Tape City, but keep both compact
+and route both to the same guide. Broad hubs and existing guides are protected.
+Exact duration, no-damage assurance, complete query intent, surface
+performance, comprehension, engagement, learning, repeatability, mess,
+frustration, safety outcomes, and all family-tested status remain `UNKNOWN`.
+Full generator, idempotence, scope, native, browser, image, independent-review,
+exact-SHA Pages, and production gates apply before release.
 
-The completed review-clean research promotes one provisional `KAL-IMP-010`
-candidate at `/articles/painter-tape-road-kids.html`. The live
-card scores 5 of 24: its only floor check begins at y=1,392 on mobile and it
-does not complete the surface, fallback, adult-removal, stop, or cleanup
-decision. A future guide must score at least 22 of 24 without first-screen or
-section clutter. Tape Road remains compact utility; Tape City remains one
-variation rather than a second guide; material and broad hubs retain browse
-ownership. Independent review required three cycles and ended in `PASS` with
-no P0-P3 findings. Reviewed commit
-`c927bec991722beb88fa8d5254cd1a74c665b09a` is released push-only.
-Production remains unchanged and no Pages deployment applies.
+Local implementation reaches 23 of 24. At 390x844 the decision panel ends at
+y=688, the stop ends at y=670, and the illustration starts at y=724; all 13
+links are keyboard reachable and six anchors clear the sticky header. All 67
+tests, 60 snapshot validations, generator-idempotence, 764 link/fragment,
+image, exact-scope, CSV, JSON, overflow, card-route, and clean-log checks pass.
+Independent review required three cycles to close a single-strip visual and
+instruction mismatch, its remaining parking-fit rescue, and one duplicated
+stale status block. Cycle three returned `PASS_WITH_P3` with no P0-P2; the P3
+corrected only the recorded mobile document height to 5,147px. The reviewed
+22-path package is release-pending.
 
 ## KAL-IMP-009 Release Record
 

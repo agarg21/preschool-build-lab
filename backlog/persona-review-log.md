@@ -573,3 +573,47 @@ P0-P3 findings. The proxy result still does not establish that any parent or
 child used, understood, enjoyed, completed, or safely ran the activity.
 Reviewed commit `c927bec991722beb88fa8d5254cd1a74c665b09a` is released
 push-only with no production change.
+
+## 2026-09-15 - Painter's Tape Road Guide
+
+**Action:** `KAL-IMP-010`
+
+**Surface:** Local candidate at
+`/articles/painter-tape-road-kids.html`, compared with the frozen 5-of-24 Tape
+Road compact-card baseline.
+
+**Persona task:** A caregiver must choose a surface or removable board and
+start one short road for a child who can push a vehicle and follow a stop cue,
+while the floor finish may be unknown and a younger child may reach loose tape
+or vehicles.
+
+**Evidence boundary:** This is a source-derived proxy task, not user testing.
+GSC, generator output, local geometry, and QA are measured within scope; the
+23-of-24 score and setup synthesis are editorial judgment. Exact duration,
+query intent, comprehension, engagement, enjoyment, learning, repeatability,
+mess, surface performance, frustration, and safety outcomes remain `UNKNOWN`.
+
+**Result:** Local `PRESERVE` candidate after native QA. The guide exposes readiness, materials,
+adult surface/product choice and one-strip test, removable-board fallback,
+first child action, parking mission, and direct stops before its supporting
+visual. It adds one route, one change, rescue, adaptation, adult removal,
+cleanup, source limits, and distinct routes only.
+
+**Automatic-failure check:** No local automatic failure. The complete decision
+ends at y=688 before the visual on mobile; all 13 links are keyboard reachable,
+all six anchors clear the sticky header, and no overflow or warning/error log
+is present. Independent review remains required.
+
+**Every-section result:** Each section has one distinct task: decide and start,
+inspect the setup, run, change, rescue, adapt, clean up, understand evidence,
+or choose a distinct compact/broad route. Tape City remains a variation that
+links to the same guide.
+
+**Next gate:** Obtain `PASS` or `PASS_WITH_P3` from a different read-only
+reviewer before release.
+
+Independent review required three cycles. The final cycle returned
+`PASS_WITH_P3` with no P0-P2 after the single-route visual, comparison, and
+parking-fit rescue were reconciled and a duplicate stale status block was
+removed. The P3 corrected only mobile document height to 5,147px. The local
+candidate is review-clean and release-pending.

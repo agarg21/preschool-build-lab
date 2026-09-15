@@ -78,6 +78,14 @@ GUIDE_ROUTES = {
         "path": "articles/paper-bridge-challenge-kids.html",
         "label": "Full Paper Bridge guide",
     },
+    "tape-road": {
+        "path": "articles/painter-tape-road-kids.html",
+        "label": "Full Painter's Tape Road guide",
+    },
+    "tape-city": {
+        "path": "articles/painter-tape-road-kids.html",
+        "label": "Start with the Painter's Tape Road guide",
+    },
 }
 QUICK_CARD_OVERRIDES = {
     "ball-maze-box": {
@@ -109,6 +117,14 @@ QUICK_CARD_OVERRIDES = {
             "Stay close. Stop if books slide, paper tears, the object is thrown, "
             "or the setup becomes climbing play."
         ),
+    },
+    "tape-road": {
+        "time": "Open-ended",
+        "materials": "surface-appropriate painter's tape, 1-2 large intact toy vehicles",
+    },
+    "tape-city": {
+        "time": "Open-ended",
+        "materials": "surface-appropriate painter's tape, large toy vehicles, chunky blocks",
     },
 }
 

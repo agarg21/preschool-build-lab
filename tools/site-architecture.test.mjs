@@ -16,6 +16,8 @@ const LEGACY_REDIRECT_FILE = path.join(
 const DIRECT_GUIDE_ROUTES = new Map([
   ["ball-maze-box", "articles/cardboard-ball-maze-kids.html"],
   ["paper-bridge", "articles/paper-bridge-challenge-kids.html"],
+  ["tape-road", "articles/painter-tape-road-kids.html"],
+  ["tape-city", "articles/painter-tape-road-kids.html"],
 ]);
 
 function walk(directory) {
@@ -83,7 +85,7 @@ test("sitemap contains each canonical indexable content URL exactly once", () =>
     .map((file) => canonicalFromHtml(read(file)));
   const actual = sitemapUrls();
 
-  assert.equal(expected.length, 62);
+  assert.equal(expected.length, 63);
   assert.ok(expected.every(Boolean), "every indexable page must declare a canonical");
   assert.equal(new Set(actual).size, actual.length, "sitemap URLs must be unique");
   assert.deepEqual([...actual].sort(), [...expected].sort());

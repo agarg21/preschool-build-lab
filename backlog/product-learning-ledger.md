@@ -606,3 +606,41 @@ page changed.
 - **Measurement boundary:** Duration, comprehension, engagement, enjoyment,
   learning, repeatability, mess, frustration, safety performance, and search
   effects remain `UNKNOWN` until valid evidence exists.
+
+## 2026-09-15 - KAL-IMP-010
+
+- **Family decision:** Can a caregiver select a surface or removable board,
+  start one simple vehicle road, and close it cleanly without another search?
+- **Persona task:** A caregiver needs one short road for a child who can push a
+  vehicle and follow a stop cue; the floor finish may be unknown and a younger
+  child may reach loose tape or vehicles.
+- **Falsifiable hypothesis:** One low-clutter parent-first guide can raise the
+  frozen task from 5 of 24 to at least 22 of 24 while keeping Tape City a
+  variation and leaving broad hubs untouched.
+- **Sources and evidence class:** September 15 GSC and local implementation QA
+  are `MEASURED` within scope; September 13 Semrush is `TOOL_ESTIMATE`;
+  maintained activity/manufacturer sources are `SOURCE_BACKED` within stated
+  limits; the task, page synthesis, and score are `EDITORIAL_JUDGMENT`; all
+  family and surface outcomes remain `UNKNOWN`.
+- **Result:** Local `PRESERVE` candidate after native QA. One guide, one
+  visual, and corrected compact cards carry the surface, fallback, adult role,
+  stop, removal, cleanup, and shared-owner decision. The page scores 23 of 24;
+  independent review remains required before release.
+- **Confidence:** High for file ownership and deterministic output; medium for
+  proxy task answerability; unknown for query intent and human outcomes.
+- **Action:** Obtain an independent read-only review of the exact 22-path
+  diff. Release only if review-clean.
+- **Reusable lesson:** A simple individual activity page can add substantial
+  value by owning one complete decision, while a related variation remains a
+  compact route instead of becoming another long page.
+- **Next falsification trigger:** Failure to keep the first decision before the
+  visual, score below 22 of 24, source/visual conflict, broad-page drift,
+  independent P0-P2 findings, or production regression.
+- **Measurement boundary:** The proxy score and browser geometry do not prove
+  comprehension, use, enjoyment, duration, learning, repeatability, mess,
+  surface performance, or safety.
+
+Independent review required three cycles. Two route-model P2s and one stale
+duplicate-status P2 were corrected. Cycle three returned `PASS_WITH_P3` with
+no P0-P2; the P3 corrected only the mobile document-height record to 5,147px.
+The exact 22-path package is review-clean and release-pending.

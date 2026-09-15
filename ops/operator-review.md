@@ -18,6 +18,51 @@ The independent reviewer cannot supply missing parent-test, child-safety,
 original-photo, observation, monetization, indexing, or external-account human
 evidence.
 
+## 2026-09-15 Painter's Tape Road Guide Implementation Review
+
+Action: `KAL-IMP-010`
+
+State: cycle-three `PASS_WITH_P3`; review-clean and release pending
+
+Frozen base: `94bc797d1c2267dad076f0eaf5bade00eaaffb7e`
+
+Scope: exactly 22 paths declared in `ops/seo-roadmap.json`. The action may add
+one Painter's Tape Road guide and one illustrative asset, correct the two
+compact road cards and card index, update keyword ownership, shared styles,
+sitemap, focused tests, learning records, priority status, and operator
+mirrors. Broad hubs, existing guides, workflows, snapshots, indexing requests,
+external accounts, products, affiliates, trackers, tested status, and
+parent/child evidence remain out of scope.
+
+Review package: reproduce the 5-of-24 baseline and at least 22-of-24 result;
+inspect every visible section and the original illustration; verify the adult
+surface/product decision, one-strip test, non-floor fallback, direct stops,
+adult removal, and evidence limits; confirm Tape City remains a variation and
+both compact cards route to the same owner. Independently rerun exact-scope,
+generator idempotence, native QA, links/fragments, image, responsive desktop
+and mobile, keyboard, anchor, text-fit, overflow, console/network, privacy,
+and unsupported-claim checks. Only `PASS` or `PASS_WITH_P3` may release.
+
+Reviewer: Codex independent Operator Review Agent, thread
+`01a0a613-fc61-7512-bbd6-d8efcb0126ae`, strict read-only.
+
+Cycle one: `FAIL` for two P2s. The run instruction described two tape-road
+edges while the WebP showed one broad route, and priority status duplicated an
+older contradictory QA-pending block. Both were corrected.
+
+Cycle two: `FAIL` for one remaining P2. Comparison and car-fit rescue copy
+still assumed two road edges. The comparison now keeps one route visible and
+the fit rescue widens the parking box or changes the adult-selected large
+intact vehicle; focused tests cover both.
+
+Cycle three: `PASS_WITH_P3`, no P0-P2. The reviewer reproduced all 67 tests,
+60 snapshot validations, both CSV parses, generator byte stability, 68 HTML
+files and 764 local links/fragments, exact 22-path scope, image and source
+boundaries, 5-to-23 scoring, protected-page isolation, both compact-card
+routes, and responsive desktop/mobile behavior. The P3 corrected the review
+record's mobile document height from 5,122px to 5,147px; first-screen geometry
+and the pass result are unchanged. Release is permitted.
+
 ## 2026-09-13 Ball Maze Candidate Research Review
 
 Action: `KAL-RES-011`

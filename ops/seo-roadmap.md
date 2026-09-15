@@ -10,9 +10,9 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-1. Complete research-only `KAL-RES-012`: resolve Tape Road versus Tape City
-   ownership, score the current parent task, and promote at most one future
-   guide candidate without touching the public site.
+1. Complete `KAL-IMP-010`: build one parent-first Painter's Tape Road guide,
+   correct the two compact road cards, and keep Tape City as a variation that
+   routes to the same canonical guide.
 2. Observe released `KAL-IMP-009` until a post-release crawl or finalized
    page/query change provides new evidence. Do not infer ranking causality or
    family outcomes from the release or overlapping-window movement.
@@ -59,6 +59,44 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-IMP-010 Registered On 2026-09-15
+
+- Frozen clean aligned base:
+  `94bc797d1c2267dad076f0eaf5bade00eaaffb7e` after fast-forwarding the
+  routine September 15 GSC snapshot.
+- Exact 22-path implementation scope: the three publishing generators, one
+  source CSV, generated keyword inventory, one new article and illustrative
+  asset, the two compact road cards and card index, shared styles, sitemap,
+  two tests, one implementation review, two learning logs, priority status,
+  and four operator mirrors. No broad hub or existing guide may change.
+- The September 15 snapshot is finalized through September 13 at 231
+  impressions, four clicks, average position 14.84, and 10 of 10 priority
+  URLs indexed. Tape City has its first retained row at one impression and
+  position 11. Tape Road remains absent and complete queries are unavailable;
+  the row supports shared-owner context but not a separate city article.
+- Build exactly one canonical guide at
+  `/articles/painter-tape-road-kids.html`. Put readiness, materials, the adult
+  surface/product decision and one-strip test, board/table/tray/cardboard
+  fallback, first child action, parking mission, and direct stop before the
+  first major visual on desktop and mobile.
+- Preserve the frozen 5-of-24 card baseline and target at least 22 of 24.
+  Correct both compact cards and route both to the same guide. Every later
+  section must add a distinct start, change, rescue, adaptation, cleanup,
+  evidence, or route decision; no decorative city expansion is allowed.
+- Exact duration, no-damage assurance, query intent, comprehension,
+  engagement, learning, repeatability, mess, surface performance, safety
+  outcomes, and all family-tested status remain unavailable or `UNKNOWN`.
+  Full generator, scope, native, browser, image, independent-review,
+  exact-SHA Pages, and production gates apply.
+- Local implementation raises the proxy task from 5 of 24 to 23 of 24. At
+  390x844 the start panel ends at y=688, the stop ends at y=670, and the visual
+  starts at y=724; 13 links are keyboard reachable and all six anchors clear
+  the sticky header. Independent review required three cycles to reconcile the
+  single-strip visual with the route and parking-fit wording and remove one
+  duplicated stale status block. Cycle three returned `PASS_WITH_P3` with no
+  P0-P2; the P3 corrected only mobile document height to 5,147px. Release and
+  exact-SHA production verification are pending.
 
 ## KAL-RES-012 Registered On 2026-09-15
 

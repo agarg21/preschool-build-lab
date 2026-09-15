@@ -383,6 +383,34 @@ August 18 crawl. Priority inspection remains 10 of 10 indexed. This small
 healthy movement is observation context, not the implementation rationale or
 evidence of query intent, causality, or family usefulness.
 
+## September 15 Painter's Tape Road Implementation
+
+`KAL-IMP-010` is registered from clean aligned base
+`94bc797d1c2267dad076f0eaf5bade00eaaffb7e` across exactly 22 paths. The fresh
+September 15 snapshot is finalized through September 13 at 231 impressions,
+four clicks, average position 14.84, and 10 of 10 priority URLs indexed. Tape
+City has its first retained page row at one impression and position 11; Tape
+Road remains absent and complete queries remain unavailable. This reinforces
+one shared guide owner but does not reveal intent or support a separate city
+article.
+
+The local candidate adds one canonical
+`/articles/painter-tape-road-kids.html` guide and one original illustrative
+asset. It corrects Tape Road and Tape City to remove unsupported exact times,
+adds explicit adult selection/removal and direct stops, and routes both compact
+cards to the same guide. Broad hubs and existing guides are unchanged.
+
+The source-derived proxy score is 23 of 24, up from the frozen 5-of-24 card
+baseline; exact duration remains unknown. At 390x844 the start panel ends at
+y=688, the stop ends at y=670, and the illustration begins at y=724. There is
+no overflow or warning/error log; all 13 links are keyboard reachable and all
+six anchors clear the sticky header. Independent review required three cycles
+and returned `PASS_WITH_P3` with no P0-P2; the nonblocking P3 corrected only
+the mobile document-height record to 5,147px. The candidate is review-clean
+and release-pending. Family use, comprehension, engagement, learning,
+repeatability, mess, surface performance, safety outcomes, and search effects
+remain `UNKNOWN`.
+
 ## Site Health
 
 | Surface | Current state | Next check |
