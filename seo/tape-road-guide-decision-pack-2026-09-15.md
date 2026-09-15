@@ -1,6 +1,7 @@
 # Tape Road Guide Decision Pack
 
-Status: review-clean; push pending
+Status: released push-only at
+`c927bec991722beb88fa8d5254cd1a74c665b09a`
 
 Action: `KAL-RES-012`
 
@@ -300,3 +301,7 @@ scope, privacy, 61 tests, and all 59 snapshot validations.
 
 Final verdict: `PASS` with no P0-P3 findings. This verifies research quality
 and reproducibility, not parent or child use.
+
+Release: reviewed commit `c927bec991722beb88fa8d5254cd1a74c665b09a`
+is pushed to `main`. No site or workflow path changed, so no Pages deployment
+applies and the public site remains unchanged.

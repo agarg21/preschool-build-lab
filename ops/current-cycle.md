@@ -47,7 +47,9 @@ decision. A future guide must score at least 22 of 24 without first-screen or
 section clutter. Tape Road remains compact utility; Tape City remains one
 variation rather than a second guide; material and broad hubs retain browse
 ownership. Independent review required three cycles and ended in `PASS` with
-no P0-P3 findings. Production remains unchanged; push is pending.
+no P0-P3 findings. Reviewed commit
+`c927bec991722beb88fa8d5254cd1a74c665b09a` is released push-only.
+Production remains unchanged and no Pages deployment applies.
 
 ## KAL-IMP-009 Release Record
 

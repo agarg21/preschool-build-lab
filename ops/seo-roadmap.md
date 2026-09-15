@@ -86,7 +86,9 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
   keep Tape City as a variation, put the surface/fallback/start/stop decision
   first, and avoid every unsupported duration, no-damage, and family-outcome
   claim. Independent review required three cycles and ended in `PASS` with no
-  P0-P3 findings. Production is unchanged; push is pending.
+  P0-P3 findings. Reviewed commit
+  `c927bec991722beb88fa8d5254cd1a74c665b09a` is released push-only;
+  production is unchanged and no Pages deployment applies.
 
 ## KAL-RES-011 Registered On 2026-09-13
 

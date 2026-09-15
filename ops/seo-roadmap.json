@@ -2551,7 +2551,7 @@
       "measurement_plan": "If a candidate is promoted, a separate implementation must preserve the frozen baseline and achieve at least 22 of 24 on desktop and mobile. Search effects remain unmeasured until a fair crawl and finalized page/query evidence exist.",
       "production_invariants": "Research and operator documentation only. No site, generator, keyword CSV, sitemap, workflow, snapshot, URL, indexability, indexing request, external account, product, affiliate, tracker, tested status, or parent/child evidence changes.",
       "reconsider_conditions": "Reject or defer if the result family is primarily product tape, Tape Road and Tape City cannot be assigned distinct roles, current sources cannot support a conservative surface decision, information gain reduces to generic extensions, the exact-query estimate disappears, or a future guide cannot reach the simplicity target without clutter.",
-      "implementation_state": "review-clean-push-pending",
+      "implementation_state": "released-push-only",
       "decision": "IMPROVE through one separately registered KAL-IMP-010 Painter's Tape Road for Kids guide candidate. Keep Tape Road as compact utility, Tape City as a variation, and broad/material pages as browse owners. Do not implement any public page in this research transaction.",
       "result": "The September 13 exact masking tape road Semrush row estimates 20 US searches while child-specific variants return explicit zero-volume variation rows. The documented September 15 result sample is activity-led but incomplete and includes adjacent and commercial intent. Four verified public parent questions support indoor vehicle play, an alternate shelf/table/tray surface, deliberately bounded materials, and multi-child adult-role constraints. The live Tape Road card scores 5 of 24 and places its only floor check at y=1392 on mobile. Current source and ownership evidence supports one provisional parent-first guide with a conservative surface-or-board decision and no competing Tape City article.",
       "qa_summary": "git diff --check and untracked-file whitespace checks pass; ops/seo-roadmap.json parses; all 61 repository tests pass; all 59 public-safe GSC snapshots validate; September 13-to-14 GSC values, all three Tape Road Semrush rows, live 1280x900 and 390x844 geometry, 5-of-24 arithmetic, result metadata, repository ownership, exact nine-path scope, local links, cited-source constraints, privacy, and unsupported-claim checks pass.",
@@ -2563,9 +2563,12 @@
         "read_only": true
       },
       "review_findings": "Cycle one found one P1 and two P2 evidence defects. Cycle two closed the P1 and one P2, then found three remaining source-precision P2s. Cycle three verified every correction and returned PASS with no P0-P3 findings after reproducing the complete nine-path diff, evidence, score, ownership, native QA, scope, privacy, and human-evidence boundaries.",
-      "release_state": "not-released",
+      "release_state": "released-push-only",
+      "release_commit": "c927bec991722beb88fa8d5254cd1a74c665b09a",
+      "released_on": "2026-09-15",
+      "release_verification": "Reviewed commit c927bec991722beb88fa8d5254cd1a74c665b09a is pushed to main. It contains exactly the nine registered research and operator paths. No site or Pages workflow path changed, so no deployment applies and production remains unchanged.",
       "blockers": [],
-      "next_eligible_action": "push-KAL-RES-012"
+      "next_eligible_action": "KAL-IMP-010"
     }
   ]
 }

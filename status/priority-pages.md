@@ -43,7 +43,9 @@ least 22 of 24 without clutter. Tape Road remains compact utility, Tape City
 remains a variation, and material and broad hubs remain browse owners. No
 universal surface assurance, measured duration, tested status, or family
 outcome is supported. Final cycle-three independent review returned `PASS`
-with no P0-P3 findings; production remains unchanged.
+with no P0-P3 findings. Reviewed commit
+`c927bec991722beb88fa8d5254cd1a74c665b09a` is released push-only;
+production remains unchanged and no Pages deployment applies.
 
 ## September 14 Ball Maze Guide Implementation Overlay
 

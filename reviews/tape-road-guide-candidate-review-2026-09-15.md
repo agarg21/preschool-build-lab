@@ -4,7 +4,8 @@ Date: 2026-09-15
 
 Action: `KAL-RES-012`
 
-State: `PASS`; push pending
+State: `PASS`; released push-only at
+`c927bec991722beb88fa8d5254cd1a74c665b09a`
 
 Frozen base: `3c830ae6810cb1feb30d94af924ce16d5fe31bc1`
 
@@ -96,3 +97,6 @@ QA, exact scope, privacy, and human-evidence boundaries reproduce.
 
 Final verdict: `PASS` with no P0-P3 findings. The reviewer made no repository
 or external mutation and supplied no missing human evidence.
+
+Reviewed commit `c927bec991722beb88fa8d5254cd1a74c665b09a` is pushed to
+`main`. No production deployment applies.
