@@ -616,4 +616,7 @@ Independent review required three cycles. The final cycle returned
 `PASS_WITH_P3` with no P0-P2 after the single-route visual, comparison, and
 parking-fit rescue were reconciled and a duplicate stale status block was
 removed. The P3 corrected only mobile document height to 5,147px. The local
-candidate is review-clean and release-pending.
+candidate was released as reviewed commit
+`ab0be4b32ad5be99aff9f9b7b73af4f280089c4f` through successful Pages run
+`35002462713` and deployment `6464778675`. Production reproduces the same
+first-screen, image, route, keyboard, anchor, overflow, and clean-log checks.

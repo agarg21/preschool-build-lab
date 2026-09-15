@@ -4,7 +4,7 @@ Date: 2026-09-15
 
 Action: `KAL-IMP-010`
 
-State: cycle-three `PASS_WITH_P3`; review-clean and release pending
+State: cycle-three `PASS_WITH_P3`; released and production-verified
 
 Frozen base: `94bc797d1c2267dad076f0eaf5bade00eaaffb7e`
 
@@ -146,3 +146,17 @@ desktop/mobile overflow, anchors, keyboard order, and logs. The P3 corrected
 the mobile document-height record from 5,122px to 5,147px; first-screen
 geometry and the pass result did not change. The reviewer made no repository
 or external mutation and supplied no missing human evidence.
+
+## Release Verification
+
+Reviewed commit `ab0be4b32ad5be99aff9f9b7b73af4f280089c4f` is pushed to
+`main`. Exact-SHA Pages run `35002462713` and deployment `6464778675`
+succeeded. The guide, Tape Road card, Tape City card, card index, WebP,
+stylesheet, and sitemap return 200 and byte-match the reviewed commit.
+
+Production at 1280x900 and 390x844 reproduces the canonical, H1, complete
+first-screen decision, 1,672 by 941 image, both compact-card routes, 13-link
+keyboard order, six sticky-header anchor offsets, text fit, zero overflow, and
+clean article console/network behavior. These checks establish release
+integrity and rendered behavior only; query intent and all family, surface,
+and safety outcomes remain `UNKNOWN`.

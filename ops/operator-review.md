@@ -22,7 +22,7 @@ evidence.
 
 Action: `KAL-IMP-010`
 
-State: cycle-three `PASS_WITH_P3`; review-clean and release pending
+State: cycle-three `PASS_WITH_P3`; released and production-verified
 
 Frozen base: `94bc797d1c2267dad076f0eaf5bade00eaaffb7e`
 
@@ -62,6 +62,15 @@ boundaries, 5-to-23 scoring, protected-page isolation, both compact-card
 routes, and responsive desktop/mobile behavior. The P3 corrected the review
 record's mobile document height from 5,122px to 5,147px; first-screen geometry
 and the pass result are unchanged. Release is permitted.
+
+Release evidence: reviewed commit
+`ab0be4b32ad5be99aff9f9b7b73af4f280089c4f` was pushed to `main`. Exact-SHA
+Pages run `35002462713` and deployment `6464778675` succeeded. The guide, two
+road cards, card index, WebP, stylesheet, and sitemap return 200 and byte-match
+the commit. Live desktop/mobile canonical, H1, first-screen decision, image,
+both card routes, keyboard order, anchor clearance, text fit, zero overflow,
+and clean article console/network behavior pass. Search and family outcomes
+remain `UNKNOWN`.
 
 ## 2026-09-13 Ball Maze Candidate Research Review
 

@@ -51,8 +51,14 @@ image, exact-scope, CSV, JSON, overflow, card-route, and clean-log checks pass.
 Independent review required three cycles to close a single-strip visual and
 instruction mismatch, its remaining parking-fit rescue, and one duplicated
 stale status block. Cycle three returned `PASS_WITH_P3` with no P0-P2; the P3
-corrected only the recorded mobile document height to 5,147px. The reviewed
-22-path package is release-pending.
+corrected only the recorded mobile document height to 5,147px. Reviewed commit
+`ab0be4b32ad5be99aff9f9b7b73af4f280089c4f` is released and production-
+verified through exact-SHA Pages run `35002462713` and deployment
+`6464778675`. The guide, two road cards, card index, WebP, stylesheet, and
+sitemap return 200 and byte-match. Live canonical, H1, first-screen decision,
+image, both card routes, keyboard, anchors, overflow, and clean article logs
+pass. Next, observe until a post-release crawl or finalized page/query change;
+do not infer family outcomes or ranking causality.
 
 ## KAL-IMP-009 Release Record
 

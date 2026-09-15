@@ -95,8 +95,12 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
   the sticky header. Independent review required three cycles to reconcile the
   single-strip visual with the route and parking-fit wording and remove one
   duplicated stale status block. Cycle three returned `PASS_WITH_P3` with no
-  P0-P2; the P3 corrected only mobile document height to 5,147px. Release and
-  exact-SHA production verification are pending.
+  P0-P2; the P3 corrected only mobile document height to 5,147px. Reviewed
+  commit `ab0be4b32ad5be99aff9f9b7b73af4f280089c4f` is live through successful
+  exact-SHA Pages run `35002462713` and deployment `6464778675`. All seven
+  public artifacts byte-match, and live canonical, first-screen, image,
+  card-route, keyboard, anchor, overflow, and clean-log checks pass. Observe
+  until a post-release crawl or finalized page/query change.
 
 ## KAL-RES-012 Registered On 2026-09-15
 

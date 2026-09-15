@@ -643,4 +643,7 @@ page changed.
 Independent review required three cycles. Two route-model P2s and one stale
 duplicate-status P2 were corrected. Cycle three returned `PASS_WITH_P3` with
 no P0-P2; the P3 corrected only the mobile document-height record to 5,147px.
-The exact 22-path package is review-clean and release-pending.
+Reviewed commit `ab0be4b32ad5be99aff9f9b7b73af4f280089c4f` is live through
+successful Pages run `35002462713` and deployment `6464778675`. All public
+artifacts and the motivating desktop/mobile parent task are verified. Next,
+observe for a post-release crawl or finalized page/query change.
