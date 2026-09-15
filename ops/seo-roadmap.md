@@ -10,52 +10,83 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-1. Observe released `KAL-IMP-009` until a post-release crawl or finalized
+1. Complete research-only `KAL-RES-012`: resolve Tape Road versus Tape City
+   ownership, score the current parent task, and promote at most one future
+   guide candidate without touching the public site.
+2. Observe released `KAL-IMP-009` until a post-release crawl or finalized
    page/query change provides new evidence. Do not infer ranking causality or
    family outcomes from the release or overlapping-window movement.
-2. Observe released `KAL-IMP-008` until a post-release crawl or finalized
+3. Observe released `KAL-IMP-008` until a post-release crawl or finalized
    page/query change provides new evidence. Do not infer format causality or
    family outcomes from aggregate movement.
-3. Observe released `KAL-IMP-007` through 2026-09-20 except a verified P0-P2
+4. Observe released `KAL-IMP-007` through 2026-09-20 except a verified P0-P2
    regression. Treat new crawl and page/query data as observation evidence,
    not proof of caregiver/child outcomes or release causality.
-4. Observe released `KAL-IMP-005` until a post-release crawl or changed
+5. Observe released `KAL-IMP-005` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, canonical selection,
    ranking causality, or family outcomes, and do not request indexing.
-5. Observe released `KAL-IMP-004` until a post-release crawl or changed
+6. Observe released `KAL-IMP-004` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent, ranking causality, or
    family outcomes, and do not request indexing.
-6. Observe released `KAL-IMP-003` until a post-release crawl or changed
+7. Observe released `KAL-IMP-003` until a post-release crawl or changed
    finalized GSC evidence. Do not infer query intent or family outcomes from
    page-level movement, and do not request indexing.
-7. Observe the released `KAL-SEO-001` rank foundation for at least two
+8. Observe the released `KAL-SEO-001` rank foundation for at least two
    finalized snapshot comparisons and a refreshed sitemap read. Do not infer
    ranking causality, request indexing, or manufacture follow-on work from
    unchanged evidence.
-8. Observe the released `KAL-IMP-002` chooser for discovery and finalized
+9. Observe the released `KAL-IMP-002` chooser for discovery and finalized
    public-safe search evidence.
-9. Do not create individual game or age
+10. Do not create individual game or age
    pages, Snap, Slapjack, products, or affiliates from the same evidence.
-10. Observe `KAL-IMP-001` without attributing page-row movement or the first
+11. Observe `KAL-IMP-001` without attributing page-row movement or the first
    click to the
    release.
-11. Keep comparing validated GSC snapshots, but do not infer complete query
+12. Keep comparing validated GSC snapshots, but do not infer complete query
    intent from public-safe page rows.
-12. Keep tested-status, parent/child outcomes, and product reviews evidence-
+13. Keep tested-status, parent/child outcomes, and product reviews evidence-
    gated; do not ask the user for unavailable family testing.
-13. Use the completed `KAL-RES-002` Semrush supplement as the current paid
+14. Use the completed `KAL-RES-002` Semrush supplement as the current paid
    metric layer. It reinforces existing-page ownership and promotes no
    implementation.
-14. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
+15. Use `KAL-RES-005` as the current demand-led taxonomy layer. It recommends
    an Activities umbrella with Games, Arts & Crafts, Science & Building, and
    Outdoor & Nature as concrete browse categories. Actual parent comprehension
    remains `UNKNOWN`. Age and moment constraints remain routes or filters;
    pretend/story/music remain activity types; local outings and product
    guidance remain separate systems.
-15. Use completed `KAL-RES-004` as the first adjacent validation of the Games
+16. Use completed `KAL-RES-004` as the first adjacent validation of the Games
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-RES-012 Registered On 2026-09-15
+
+- Frozen clean aligned base:
+  `3c830ae6810cb1feb30d94af924ce16d5fe31bc1`.
+- Exact nine-path research scope: one Tape Road decision pack, one candidate
+  review, two cumulative learning logs, priority status, and four
+  operator/roadmap mirrors. No public site path is allowed.
+- The September 14 snapshot is finalized through September 12 at 237
+  impressions, four clicks, average position 15.24, and 10 of 10 priority URLs
+  indexed. Tape Road and Tape City have no retained page row; complete queries
+  remain unavailable.
+- The current Tape Road card's only surface check begins at y=1,392 on mobile.
+  It overlaps a separate Tape City card, a noindex painter-tape material page,
+  and several broad hubs. Resolve those roles before promoting any article.
+- Use the September 13 exact-query estimate, September 15 current result and
+  parent-question samples, current sources, and a desktop/mobile parent-task
+  audit. Select at most one future guide only if every ownership, source,
+  information-gain, trust, and simplicity gate passes.
+- Research only: no page, generator, sitemap, indexing, product, external
+  account, tested-status, or parent/child evidence change.
+- Review-clean research result: promote one provisional `KAL-IMP-010`
+  candidate at `/articles/painter-tape-road-kids.html`. The
+  current card scores 5 of 24; a future guide must score at least 22 of 24,
+  keep Tape City as a variation, put the surface/fallback/start/stop decision
+  first, and avoid every unsupported duration, no-damage, and family-outcome
+  claim. Independent review required three cycles and ended in `PASS` with no
+  P0-P3 findings. Production is unchanged; push is pending.
 
 ## KAL-RES-011 Registered On 2026-09-13
 

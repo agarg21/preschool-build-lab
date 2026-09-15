@@ -2494,6 +2494,78 @@
       "production_verification": "Exact-SHA Pages deployment succeeded for 858ee051b44a808faf35aba6584b2373b27a5dfe. The guide, compact card, card index, WebP, stylesheet, and sitemap return 200 and byte-match the reviewed commit. Production canonical, H1, first-screen parent task, image, responsive overflow, clean browser logs, and the compact-card-to-guide route pass at desktop and mobile.",
       "blockers": [],
       "next_eligible_action": "observe-KAL-IMP-009-until-a-post-release-crawl-or-finalized-page-query-evidence-changes"
+    },
+    {
+      "id": "KAL-RES-012",
+      "title": "Resolve Tape Road ownership and freeze one parent-first guide decision",
+      "kind": "seo-research",
+      "lane": "dedicated-activity-guides",
+      "impact": 4,
+      "confidence": 3,
+      "learning_value": 5,
+      "effort": 3,
+      "risk": 2,
+      "status": "completed",
+      "selected_on": "2026-09-15",
+      "completed_on": "2026-09-15",
+      "frozen_base": "3c830ae6810cb1feb30d94af924ce16d5fe31bc1",
+      "allowed_during_observation": true,
+      "requires_fresh_gsc": true,
+      "required_evidence": [
+        "validated_2026-09-14_public_safe_GSC_snapshot",
+        "released_KAL-RES-011_tape_road_defer_evidence",
+        "Semrush_US_exact_query_rows_collected_2026-09-13",
+        "current_live_search_and_parent_question_samples_collected_2026-09-15",
+        "current_Tape_Road_Tape_City_material_and_hub_ownership_audit",
+        "desktop_and_mobile_Tape_Road_proxy_task_baseline"
+      ],
+      "target_urls": [],
+      "target_paths": [
+        "seo/tape-road-guide-decision-pack-2026-09-15.md",
+        "reviews/tape-road-guide-candidate-review-2026-09-15.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "status/priority-pages.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md"
+      ],
+      "success_signal": "A source-dated ownership and persona-task review decides whether one parent-first Tape Road guide is justified, names exactly one canonical future owner if supported, and creates no public page.",
+      "baseline": "The September 14 snapshot is finalized through September 12 at 237 impressions, four clicks, average position 15.24, and 10 of 10 priority URLs indexed. Tape Road and Tape City have no retained public-safe page rows and complete queries are unavailable. The current Tape Road card buries its only surface check at y=1392 on mobile and overlaps a separate Tape City card plus broad material and collection routes.",
+      "hypothesis": "Current search and parent-question evidence will support one bounded Tape Road guide only if KAL can resolve Tape Road versus Tape City ownership and add a conservative floor-or-table setup decision, one-strip start, small-space route, removal boundary, and explicit unknown outcomes without duplicating broad hubs.",
+      "expected_effect": "Either promote one separately implemented high-quality guide candidate with a frozen parent task or reject/defer it, while preventing duplicate road-city pages and unsupported surface or engagement claims.",
+      "evidence_classification": "GSC, repository ownership, and browser geometry are MEASURED within scope. September 13 Semrush rows are TOOL_ESTIMATE. Current public search results, parent questions, and source-derived persona constraints are RESEARCH_HYPOTHESIS. Candidate selection and future page architecture are EDITORIAL_JUDGMENT. Complete query intent, surface performance, setup duration, caregiver comprehension, child engagement, learning, repeatability, mess, frustration, and safety outcomes remain UNKNOWN.",
+      "human_gate": "Not required for research. No parent, caregiver, educator, or child participation is claimed; no tested status, outcome evidence, original photo, product recommendation, or surface-safety performance may be created.",
+      "observation_window": "Do not edit KAL-IMP-006 through 2026-09-18, KAL-IMP-007 through 2026-09-20, KAL-IMP-008 or KAL-IMP-009 before post-release evidence, or any site path in this transaction.",
+      "acceptance_criteria": [
+        "validate the September 14 and prior public-safe snapshots and preserve absent Tape Road query and page rows as unavailable rather than zero demand",
+        "inspect the current masking tape road result family and three to five public parent or educator questions with source dates and decision constraints",
+        "audit Tape Road, Tape City, painter-tape material, and broad hub ownership without creating a new page",
+        "run and score one explicit Tape Road parent task at 1280x900 and 390x844, including the floor-or-table fallback and cleanup boundary",
+        "select at most one future implementation candidate only if query, ownership, source, information-gain, persona, trust, and simplicity gates all pass",
+        "freeze the future canonical owner, compact-card boundary, minimum 22-of-24 target, exact reconsider conditions, and no-human-evidence boundary",
+        "change only the nine registered research and operator paths and obtain PASS or PASS_WITH_P3 from a different independent read-only reviewer"
+      ],
+      "qa_plan": "Run git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, validate every public-safe snapshot JSON, reproduce September 13 Semrush rows, September 14 GSC values, repository ownership, browser geometry, and score arithmetic, verify cited URLs and exact nine-path scope, scan privacy and unsupported claims, and require independent read-only review.",
+      "measurement_plan": "If a candidate is promoted, a separate implementation must preserve the frozen baseline and achieve at least 22 of 24 on desktop and mobile. Search effects remain unmeasured until a fair crawl and finalized page/query evidence exist.",
+      "production_invariants": "Research and operator documentation only. No site, generator, keyword CSV, sitemap, workflow, snapshot, URL, indexability, indexing request, external account, product, affiliate, tracker, tested status, or parent/child evidence changes.",
+      "reconsider_conditions": "Reject or defer if the result family is primarily product tape, Tape Road and Tape City cannot be assigned distinct roles, current sources cannot support a conservative surface decision, information gain reduces to generic extensions, the exact-query estimate disappears, or a future guide cannot reach the simplicity target without clutter.",
+      "implementation_state": "review-clean-push-pending",
+      "decision": "IMPROVE through one separately registered KAL-IMP-010 Painter's Tape Road for Kids guide candidate. Keep Tape Road as compact utility, Tape City as a variation, and broad/material pages as browse owners. Do not implement any public page in this research transaction.",
+      "result": "The September 13 exact masking tape road Semrush row estimates 20 US searches while child-specific variants return explicit zero-volume variation rows. The documented September 15 result sample is activity-led but incomplete and includes adjacent and commercial intent. Four verified public parent questions support indoor vehicle play, an alternate shelf/table/tray surface, deliberately bounded materials, and multi-child adult-role constraints. The live Tape Road card scores 5 of 24 and places its only floor check at y=1392 on mobile. Current source and ownership evidence supports one provisional parent-first guide with a conservative surface-or-board decision and no competing Tape City article.",
+      "qa_summary": "git diff --check and untracked-file whitespace checks pass; ops/seo-roadmap.json parses; all 61 repository tests pass; all 59 public-safe GSC snapshots validate; September 13-to-14 GSC values, all three Tape Road Semrush rows, live 1280x900 and 390x844 geometry, 5-of-24 arithmetic, result metadata, repository ownership, exact nine-path scope, local links, cited-source constraints, privacy, and unsupported-claim checks pass.",
+      "review_cycles": 3,
+      "review_outcome": "PASS",
+      "reviewer": {
+        "name": "Codex independent Operator Review Agent",
+        "thread_id": "01a0a45f-3dee-7172-8b8f-6300fa11c279",
+        "read_only": true
+      },
+      "review_findings": "Cycle one found one P1 and two P2 evidence defects. Cycle two closed the P1 and one P2, then found three remaining source-precision P2s. Cycle three verified every correction and returned PASS with no P0-P3 findings after reproducing the complete nine-path diff, evidence, score, ownership, native QA, scope, privacy, and human-evidence boundaries.",
+      "release_state": "not-released",
+      "blockers": [],
+      "next_eligible_action": "push-KAL-RES-012"
     }
   ]
 }

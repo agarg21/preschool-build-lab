@@ -2100,3 +2100,62 @@ sitemap return 200 and byte-match the reviewed commit. Production canonical,
 H1, first-screen task, image, responsive overflow, clean browser logs, and the
 compact-card-to-guide route pass. This verifies deployment and page behavior,
 not caregiver or child outcomes.
+
+# 2026-09-15 KAL-RES-012 Tape Road Candidate Review
+
+Action: `KAL-RES-012`
+
+Frozen base: `3c830ae6810cb1feb30d94af924ce16d5fe31bc1`
+
+Exact paths: the nine research and operator paths registered in
+`ops/seo-roadmap.json`. No site path is allowed.
+
+Review state: pending independent read-only review.
+
+Required review:
+
+- reproduce the September 14 GSC values and absence of retained Tape Road and
+  Tape City rows without treating unavailable evidence as zero demand;
+- verify the September 13 exact Semrush row and September 15 current result,
+  parent-question, source, and repository ownership samples;
+- reproduce desktop/mobile Tape Road geometry and the frozen proxy score;
+- confirm one future owner at most, distinct Tape Road/Tape City/card/material/
+  hub roles, and a minimum 22-of-24 simplicity target;
+- verify conservative surface and tape-removal boundaries without a universal
+  no-damage claim, exact duration, or family outcome;
+- rerun native, snapshot, citation, exact-scope, privacy, and unsupported-claim
+  checks; and
+- return structured P0-P3 findings plus `PASS`, `PASS_WITH_P3`, `FAIL`, or
+  `BLOCKED` in strict read-only mode.
+
+Cycle-one reviewer: Codex independent Operator Review Agent, thread
+`01a0a45f-3dee-7172-8b8f-6300fa11c279`, read-only against the complete
+uncommitted nine-path diff at the frozen base.
+
+Cycle-one result: `FAIL`. P1: four mismatched/unavailable Reddit citations
+made the public-question layer unreproducible. P2: the 3M paragraph overstated
+the cited coating guidance. P2: the fresh result-family claim omitted required
+sample metadata and retained order/types. No P0 or P3 was reported.
+
+Corrections replace every forum row with a verified matching URL, rederive the
+constraint synthesis, limit 3M language to the source, and document the exact
+quoted-query sample, provider, unavailable fields, stable retained order and
+types, commercial presence, and incompleteness. Cycle-two re-review is pending.
+
+Cycle-two result: `FAIL` with three P2 findings and no P0, P1, or P3. The
+original unsafe-URL P1 is closed. Remaining precision defects were a still-
+overbroad 3M lacquer statement, substitution and misclassification of the
+returned Chicklink homepage, and unsupported limited-space/purchase inference
+in the Mumsnet row.
+
+The final corrections use the exact nitrocellulose/many-tapes warning, retain
+the Chicklink homepage as a site homepage with an activity excerpt, and narrow
+the Mumsnet evidence to its vehicle-play question and shelf-unit road/parking
+reply. Cycle-three final review is pending.
+
+Cycle-three result: `PASS` with no P0-P3 findings. The same independent
+read-only reviewer reproduced all cycle-two corrections, GSC, Semrush, search-
+sample metadata, live desktop/mobile geometry, 5-of-24 arithmetic, ownership,
+future 22-of-24 simplicity, every-section value, all 61 tests, all 59 snapshot
+validations, local links, exact scope, privacy, and human-evidence boundaries.
+The reviewer made no repository or external mutation.

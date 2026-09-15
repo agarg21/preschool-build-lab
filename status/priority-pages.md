@@ -1,11 +1,11 @@
 # Priority Page Status
 
-Last updated: 2026-09-13
+Last updated: 2026-09-15
 
 Sources:
 
-- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-13.md`
-- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-12.md`
+- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-14.md`
+- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-13.md`
 - Current machine-readable roadmap and release evidence:
   `ops/seo-roadmap.json`
 - Current human-readable roadmap: `ops/seo-roadmap.md`
@@ -22,6 +22,28 @@ Sources:
   `seo/indoor-rainy-consolidation-decision-pack-2026-08-04.md`
 - Current product-learning evidence:
   `backlog/product-learning-ledger.md` and `backlog/persona-review-log.md`
+
+## September 15 Tape Road Candidate Overlay
+
+The September 14 snapshot is finalized through September 12 at 237
+impressions, four clicks, average position 15.24, and 10 of 10 priority URLs
+indexed. Tape Road and Tape City have no retained page row, and complete query
+rows remain unavailable. Their absence is not treated as zero demand.
+
+`KAL-RES-012` resolves the overlapping road surfaces without creating a public
+page. The September 13 exact `masking tape road` Semrush row estimates 20 US
+searches, while September 15 current activity results and public parent
+questions support a bounded indoor toy-road decision. The live Tape Road card
+scores 5 of 24: its only floor check begins at y=1,392 on mobile, and it lacks
+the adult surface/removal role, non-floor fallback, direct stop, and cleanup.
+
+Promote one future `/articles/painter-tape-road-kids.html` candidate only
+through separately registered `KAL-IMP-010`. The future guide must score at
+least 22 of 24 without clutter. Tape Road remains compact utility, Tape City
+remains a variation, and material and broad hubs remain browse owners. No
+universal surface assurance, measured duration, tested status, or family
+outcome is supported. Final cycle-three independent review returned `PASS`
+with no P0-P3 findings; production remains unchanged.
 
 ## September 14 Ball Maze Guide Implementation Overlay
 

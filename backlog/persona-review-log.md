@@ -527,3 +527,47 @@ successful exact-SHA Pages run `34828769448` and deployment `6434291751`.
 Production canonical, H1, first-screen task, image, responsive overflow, clean
 browser logs, and the compact-card-to-guide route pass. This is deployment and
 proxy-task evidence, not parent or child testing.
+
+## 2026-09-15 - Tape Road Candidate Baseline
+
+**Action:** `KAL-RES-012`
+
+**Surface:** Live compact card at `/cards/tape-road.html`, with ownership
+checked against `/cards/tape-city.html`, the noindex painter-tape material
+route, and broad indoor, no-prep, toy-car, age, and motor routes.
+
+**Persona task:** A caregiver must choose a suitable surface or removable
+board and start one short toy-car road for a child who can push a vehicle and
+follow a stop cue, while the floor finish may be unknown and a younger child
+may reach loose tape or vehicles.
+
+**Evidence boundary:** This is a current-query and source-derived proxy task,
+not parent or child testing. Live geometry is measured; the 5-of-24 score and
+future owner are editorial judgment. Complete query intent, comprehension,
+timing, engagement, independence, learning, repeatability, mess, surface
+performance, frustration, and safety outcomes remain `UNKNOWN`.
+
+**Result:** `IMPROVE` through one separately registered `KAL-IMP-010`
+candidate. The compact card scores 5 of 24. At 390x844 its video fills
+y=199..377, steps extend to y=1,372, and the only floor check begins at
+y=1,392. At 1280x900 that check begins at y=964. Both viewports have no
+horizontal overflow and clean browser logs.
+
+**Automatic-failure check:** The complete parent task fails because tape and
+surface selection, adult application/removal, a non-floor fallback, direct
+stop, and cleanup are absent or incomplete. The caregiver needs another broad
+search to decide whether and how to run the setup.
+
+**Ownership result:** One provisional `/articles/painter-tape-road-kids.html`
+guide may own the complete surface-to-cleanup job. Tape Road remains compact
+utility; Tape City remains a variation; the material page and hubs remain
+browse owners. Do not create a Tape City article.
+
+**Future pass:** At least 22 of 24 at desktop and mobile; fit, materials,
+surface choice, first action, mission, and direct stop before the supporting
+visual; one short route, one change, rescue, adaptation, adult removal,
+cleanup, and evidence limits; no section retained for length.
+
+Independent read-only review required three cycles and ended in `PASS` with no
+P0-P3 findings. The proxy result still does not establish that any parent or
+child used, understood, enjoyed, completed, or safely ran the activity.

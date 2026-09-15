@@ -18,6 +18,39 @@ and release verification.
 
 ## Active Priority
 
+`KAL-RES-012` is registered from clean aligned base
+`3c830ae6810cb1feb30d94af924ce16d5fe31bc1` with an exact nine-path
+research-only scope. The September 14 public-safe snapshot is finalized
+through September 12 at 237 impressions, four clicks, average position 15.24,
+and 10 of 10 priority URLs indexed. Tape Road and Tape City have no retained
+page row, and complete query rows remain unavailable.
+
+Resolve whether Tape Road can become one parent-first guide without creating
+another vague or competing road page. Current September 13 Semrush context
+returns 20 US searches for `masking tape road`; current September 15 search
+and public parent/educator questions emphasize indoor car play, surface
+compatibility, limited space, and cleanup. The existing Tape Road card buries
+its only floor check at y=1,392 on mobile and overlaps Tape City, a noindex
+material page, and broad hubs.
+
+Audit current ownership and score one source-derived caregiver task at
+1280x900 and 390x844. Promote at most one separately implemented guide only if
+query, ownership, source, information-gain, trust, and simplicity gates all
+pass. No public page, generator, sitemap, indexing, external account, product,
+tested-status, or family evidence may change in this transaction.
+
+The completed review-clean research promotes one provisional `KAL-IMP-010`
+candidate at `/articles/painter-tape-road-kids.html`. The live
+card scores 5 of 24: its only floor check begins at y=1,392 on mobile and it
+does not complete the surface, fallback, adult-removal, stop, or cleanup
+decision. A future guide must score at least 22 of 24 without first-screen or
+section clutter. Tape Road remains compact utility; Tape City remains one
+variation rather than a second guide; material and broad hubs retain browse
+ownership. Independent review required three cycles and ended in `PASS` with
+no P0-P3 findings. Production remains unchanged; push is pending.
+
+## KAL-IMP-009 Release Record
+
 `KAL-IMP-009` is registered from clean aligned base
 `cbe30ba079ad92cdca5511d3f9c6142eaea0af6a` with an exact 20-path scope. The
 latest validated GSC evidence remains the September 13 snapshot, finalized

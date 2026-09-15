@@ -526,6 +526,46 @@ experience separate. A persona task is a proxy evaluation, not user testing.
 
 Independent review: `PASS` with no P0-P3 findings. The reviewer remained
 read-only and did not convert any proxy task into human evidence.
+
+## 2026-09-15 - KAL-RES-012
+
+- **Family decision:** Can a caregiver choose a suitable surface or removable
+  board and start one simple road for a toy vehicle without needing another
+  search for setup, removal, or cleanup?
+- **Persona task:** A caregiver needs an indoor road for a child who can push a
+  vehicle and follow a stop cue; the floor finish may be unknown and a younger
+  child may reach the tape or vehicles.
+- **Falsifiable hypothesis:** One parent-first Tape Road guide can resolve the
+  surface-to-cleanup decision, separate Tape Road from Tape City, and reach at
+  least 22 of 24 without becoming a city-idea roundup.
+- **Sources and evidence class:** September 14 GSC and live geometry are
+  `MEASURED`; September 13 Semrush rows are `TOOL_ESTIMATE`; September 15
+  search results and public parent questions are `RESEARCH_HYPOTHESIS`;
+  activity/manufacturer facts are `SOURCE_BACKED`; the score and owner choice
+  are `EDITORIAL_JUDGMENT`; all family outcomes remain `UNKNOWN`.
+- **Result:** `IMPROVE`. The current card scores 5 of 24. It is readable but
+  buries its only floor check at y=1,392 on mobile and omits the adult surface,
+  fallback, direct-stop, removal, and cleanup decisions.
+- **Confidence:** High for repository, GSC, tool-row, geometry, and score
+  reproduction; medium for current result interpretation and future owner;
+  unknown for complete queries and human outcomes.
+- **Action:** Promote one separately registered `KAL-IMP-010` candidate at
+  `/articles/painter-tape-road-kids.html`. Keep Tape Road as compact utility,
+  Tape City as a variation, and the material/hubs as browse routes. Do not
+  implement in this transaction.
+- **Reusable lesson:** When two cards describe nearly the same activity, a
+  useful guide needs one complete decision owner and explicit variation
+  boundaries, not two long pages.
+- **Next falsification trigger:** Product-dominant results, loss of the small
+  exact-query estimate, inadequate sources, unresolved card ownership, or
+  inability to reach 22 of 24 without clutter.
+- **Measurement boundary:** The proxy score is not parent comprehension,
+  surface performance, child engagement, timing, learning, repeatability,
+  mess, safe completion, or ranking evidence.
+
+Independent read-only review required three cycles. The final cycle returned
+`PASS` with no P0-P3 findings after every source, ownership, geometry, score,
+scope, and evidence-boundary correction was reproduced.
 ## 2026-09-14 - Ball Maze Guide Implementation
 
 - **Action:** `KAL-IMP-009`
