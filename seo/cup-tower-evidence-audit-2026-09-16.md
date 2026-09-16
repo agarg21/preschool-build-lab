@@ -8,7 +8,7 @@ Frozen clean aligned base: `b3e2be2df2833b497cd499d9ac6d86acd9ab491f`
 
 Scope: the exact seven research/operator paths in `ops/seo-roadmap.json`.
 
-State: cycle-one independent read-only `PASS`; review-clean for push-only release.
+State: cycle-one independent read-only `PASS`; released push-only.
 
 ## Decision
 
@@ -137,3 +137,10 @@ reviewer independently verified sources, FIRST retrieval failure, GSC, scope,
 JSON, whitespace, snapshots, and privacy; the 67 tests were operator-run, not
 independently rerun. No production deployment applies. Do not mistake this desk
 audit for responsive or family testing.
+
+Reviewed research commit `a584450895c63b776f7ea9708e1e26c1e57eb373` is
+pushed to `origin/main` with exactly the seven registered paths. No deployment
+applies; latest successful Pages run remains `35002462713` at the unchanged
+Tape Road production commit. Local/origin alignment and clean worktree were
+verified after the research push. Mechanical release records are reconciled
+within this same transaction.

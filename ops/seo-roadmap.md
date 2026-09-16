@@ -84,7 +84,10 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 - Native QA passes all 67 tests, 60 snapshot validations, roadmap JSON,
   whitespace, exact scope, and credential checks. Different independent
   read-only reviewer Mendel returned cycle-one `PASS` with no P0-P3 findings.
-  The audit is review-clean for push-only release; no site, generator,
+  Reviewed research commit `a584450895c63b776f7ea9708e1e26c1e57eb373` is
+  released push-only with local/origin alignment and clean worktree verified.
+  Latest successful Pages run remains `35002462713` at the unchanged Tape Road
+  release. No site, generator,
   data, workflow, indexing, account,
   tested-status, safety assurance, or deployment change is authorized.
 

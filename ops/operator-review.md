@@ -2227,8 +2227,8 @@ Frozen base: `b3e2be2df2833b497cd499d9ac6d86acd9ab491f`
 Exact paths: the seven registered research/operator paths in the roadmap.
 Site, generators, data, and all external state are read-only/out of scope.
 
-State: native QA passes; cycle-one independent read-only `PASS`; push-only
-release pending.
+State: native QA passes; cycle-one independent read-only `PASS`; released
+push-only.
 
 Native QA: `git diff --check`, roadmap JSON parsing, all 67 tests, all 60
 public-safe snapshot validations, exact seven-path scope, and credential-shaped
@@ -2255,3 +2255,10 @@ operator-run evidence, not claimed as independently rerun. Residual limits:
 FIRST contents, complete queries, doorway feasibility, and all family outcomes
 remain unavailable. None is filled by the reviewer or creates a publication
 quota.
+
+Release: reviewed seven-path research commit
+`a584450895c63b776f7ea9708e1e26c1e57eb373` is pushed to `origin/main`.
+The repository was clean and aligned after push. No site/workflow change or
+deployment applies; latest successful Pages run remains `35002462713` at the
+unchanged Tape Road production commit. These mechanical release records do
+not change the reviewed source synthesis or decision.

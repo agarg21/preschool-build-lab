@@ -675,7 +675,10 @@ observe for a post-release crawl or finalized page/query change.
   selected. Native QA passes all 67 tests, 60 snapshot validations, roadmap
   JSON, whitespace, exact scope, and credential checks. Independent read-only
   reviewer Mendel returned cycle-one `PASS` with no P0-P3 findings; the seven-
-  path audit is review-clean for push-only release.
+  path audit is released push-only in reviewed commit
+  `a584450895c63b776f7ea9708e1e26c1e57eb373`. Clean/local-origin alignment
+  passes after push. No deployment applies; production remains at the Tape
+  Road release through successful Pages run `35002462713`.
 - **Reusable lesson:** Reconcile the goal and mechanism, not merely the shared
   material, before consolidating activity instructions. Keep one executable
   default and qualify comparison/clearance extensions separately.

@@ -40,8 +40,10 @@ and desktop/mobile task baseline plus current query/SERP and publication gates.
 No new page or public correction is selected. Native QA passes all 67 tests,
 60 snapshot validations, roadmap JSON, whitespace, exact scope, and credential
 checks. Independent reviewer Mendel returned cycle-one `PASS` with no P0-P3
-findings. The seven-path audit is review-clean for push-only release;
-production remains unchanged.
+findings. The seven-path audit is released push-only in reviewed commit
+`a584450895c63b776f7ea9708e1e26c1e57eb373`, with clean/aligned repository
+state verified after push. Production remains unchanged; latest successful
+Pages run is still `35002462713` for the Tape Road release.
 
 ## September 15 Tape Road Candidate Overlay
 

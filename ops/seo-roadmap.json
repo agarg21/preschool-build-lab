@@ -2715,7 +2715,10 @@
       "reviewer": {"name": "Mendel", "thread_id": "01a0a976-6034-7383-bd0b-8404f50ead40", "read_only": true},
       "review_findings": "No P0-P3 findings. Reviewer verified the complete seven-path diff against frozen base b3e2be2df2833b497cd499d9ac6d86acd9ab491f, source fidelity and FIRST retrieval failure, task/claim boundaries, GSC comparison, scope, JSON, whitespace, snapshots, and privacy. The 67-test result was operator-run, not independently rerun.",
       "implementation_state": "review-clean-research-only",
-      "release_state": "review-clean-push-only-pending",
+      "release_state": "released-push-only",
+      "release_commit": "a584450895c63b776f7ea9708e1e26c1e57eb373",
+      "released_on": "2026-09-16",
+      "release_verification": "The exact seven-path reviewed research commit a584450895c63b776f7ea9708e1e26c1e57eb373 is pushed to origin/main. No site or workflow paths changed. The latest Pages run remains successful 35002462713 at production commit ab0be4b32ad5be99aff9f9b7b73af4f280089c4f; no deployment applies. The local branch is clean and aligned after the research push.",
       "blockers": [],
       "next_eligible_action": "separately-register-Cup-Tower-ownership-and-desktop-mobile-task-baseline-before-guide-promotion"
     }
