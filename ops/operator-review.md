@@ -2218,3 +2218,40 @@ Release: reviewed commit
 `c927bec991722beb88fa8d5254cd1a74c665b09a` is pushed to `main`. The commit
 contains only the nine research and operator paths, so no Pages deployment is
 applicable and production remains unchanged.
+# 2026-09-16 KAL-LEARN-004 Cup Tower Evidence Audit Review
+
+Action: `KAL-LEARN-004`
+
+Frozen base: `b3e2be2df2833b497cd499d9ac6d86acd9ab491f`
+
+Exact paths: the seven registered research/operator paths in the roadmap.
+Site, generators, data, and all external state are read-only/out of scope.
+
+State: native QA passes; cycle-one independent read-only `PASS`; push-only
+release pending.
+
+Native QA: `git diff --check`, roadmap JSON parsing, all 67 tests, all 60
+public-safe snapshot validations, exact seven-path scope, and credential-shaped
+data checks pass. No CSV, generator, or public page changed.
+
+Required review: inspect the complete diff; verify the two current publisher
+setups and unavailable FIRST retrieval; distinguish material/goal facts from
+editorial doorway feasibility; reproduce latest/prior GSC and source limits;
+confirm no responsive score, query intent, family outcome, or page promotion is
+invented; rerun native QA and exact-scope/privacy checks; return structured
+P0-P3 findings and PASS/PASS_WITH_P3/FAIL/BLOCKED without any file or Git write.
+
+Reviewer: Mendel (`01a0a976-6034-7383-bd0b-8404f50ead40`), a different
+independent read-only subagent. Reviewed the complete seven-path uncommitted
+diff, including the new audit and final QA mirrors, against the frozen base.
+No file, Git, generator, deployment, external-account, or Control Room write.
+
+Cycle one: `PASS`. Structured findings: P0=[], P1=[], P2=[], P3=[]. Source
+fidelity, inaccessible FIRST handling, source-derived task boundaries, every
+audit section, repository ownership, claim/human gates, no-promotion decision,
+GSC arithmetic, exact scope, JSON, whitespace, snapshots, credential checks,
+empty staging, and baseline cached-origin alignment pass. The 67 tests are
+operator-run evidence, not claimed as independently rerun. Residual limits:
+FIRST contents, complete queries, doorway feasibility, and all family outcomes
+remain unavailable. None is filled by the reviewer or creates a publication
+quota.

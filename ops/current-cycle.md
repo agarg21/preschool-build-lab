@@ -18,6 +18,28 @@ and release verification.
 
 ## Active Priority
 
+`KAL-LEARN-004` is the September 16 morning research-only transaction from
+clean aligned base `b3e2be2df2833b497cd499d9ac6d86acd9ab491f`. Its exact
+seven paths are the Cup Tower evidence audit, learning ledger, priority status,
+and four operator/roadmap mirrors. No production or data file is allowed.
+
+Today's learning unit audits the maintained cup evidence against a caregiver's
+cups-only start decision. Two currently accessible publishers support different
+play and measured-height jobs; the maintained FIRST PDF is currently
+uninspectable; neither accessible source establishes our one-cup doorway
+geometry. Reject the hypothesis that those are interchangeable fully qualified
+instructions. Keep Cup Tower publication deferred pending a separately
+registered ownership and desktop/mobile task baseline; do not implement it or
+ask for unavailable family tests. Native QA passes all 67 tests, 60 snapshot
+validations, roadmap JSON, whitespace, exact scope, and credential checks;
+independent reviewer Mendel returned cycle-one `PASS` with no P0-P3 findings.
+The seven-path audit is review-clean for push-only release. No newer GSC
+snapshot exists at this morning run; September 15
+through September 13 remains the latest validated evidence, not new ranking
+or Tape Road release-effect evidence.
+
+## KAL-IMP-010 Release Record
+
 `KAL-IMP-010` is registered from clean aligned base
 `94bc797d1c2267dad076f0eaf5bade00eaaffb7e` with an exact 22-path
 implementation scope. The September 15 public-safe snapshot is finalized

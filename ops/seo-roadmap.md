@@ -10,9 +10,11 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-1. Complete `KAL-IMP-010`: build one parent-first Painter's Tape Road guide,
-   correct the two compact road cards, and keep Tape City as a variation that
-   routes to the same canonical guide.
+1. `KAL-LEARN-004` completed the maintained Cup Tower source/ownership audit.
+   No new guide or implementation is selected. A separately registered
+   ownership and desktop/mobile task baseline is the next research step.
+   Observe released `KAL-IMP-010` until a post-release crawl or finalized
+   page/query change; Tape City remains a variation of that guide.
 2. Observe released `KAL-IMP-009` until a post-release crawl or finalized
    page/query change provides new evidence. Do not infer ranking causality or
    family outcomes from the release or overlapping-window movement.
@@ -59,6 +61,32 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
    lane. It supports one research-backed five-game chooser. Snap and Slapjack
     remain deferred because current research does not resolve their pace,
     dispute, and contact risks.
+
+## KAL-LEARN-004 Registered On 2026-09-16
+
+- Frozen clean aligned base: `b3e2be2df2833b497cd499d9ac6d86acd9ab491f`.
+- Exact seven paths: `seo/cup-tower-evidence-audit-2026-09-16.md`,
+  `backlog/product-learning-ledger.md`, `status/priority-pages.md`,
+  `ops/seo-roadmap.json`, `ops/seo-roadmap.md`, `ops/current-cycle.md`, and
+  `ops/operator-review.md`.
+- Audit the maintained Cup Tower evidence, not current keyword volume or a
+  responsive persona score. No new GSC snapshot is available at the morning
+  run; all 60 existing snapshots validate, with September 15 through September
+  13 the latest evidence. Complete queries and Cup Tower rows are unavailable.
+- Reject the hypothesis that relaxed cup play, a measured tallest-tower task,
+  and our one-cup doorway are interchangeable fully qualified instructions.
+  Two accessible sources describe different materials/goals; the maintained
+  FIRST PDF is currently unavailable to inspect. Doorway feasibility remains
+  unknown, not a proven failure or success.
+- Keep Cup Tower publication deferred. The next evidence-eligible step is a
+  separately registered ownership and desktop/mobile task baseline, then the
+  existing query/SERP and six-condition guide gate before any promotion.
+- Native QA passes all 67 tests, 60 snapshot validations, roadmap JSON,
+  whitespace, exact scope, and credential checks. Different independent
+  read-only reviewer Mendel returned cycle-one `PASS` with no P0-P3 findings.
+  The audit is review-clean for push-only release; no site, generator,
+  data, workflow, indexing, account,
+  tested-status, safety assurance, or deployment change is authorized.
 
 ## KAL-IMP-010 Registered On 2026-09-15
 

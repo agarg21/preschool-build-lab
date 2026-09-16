@@ -1,6 +1,6 @@
 # Priority Page Status
 
-Last updated: 2026-09-15
+Last updated: 2026-09-16
 
 Sources:
 
@@ -22,6 +22,26 @@ Sources:
   `seo/indoor-rainy-consolidation-decision-pack-2026-08-04.md`
 - Current product-learning evidence:
   `backlog/product-learning-ledger.md` and `backlog/persona-review-log.md`
+
+## September 16 Cup Tower Evidence Audit
+
+`KAL-LEARN-004` audits one maintained activity evidence set, not a new keyword
+estimate or responsive persona score. No newer snapshot exists at this morning
+run; September 15 through September 13 remains the latest validated evidence.
+Cup Tower rows and complete query intent are unavailable, not zero demand.
+
+The inspected Growing Up NYC source describes plastic-cup stack/rebuild play;
+Education.com describes paper-cup planning, measuring, recording, and height
+comparison. The maintained FIRST PDF is currently unavailable to inspect.
+Neither accessible source establishes our one-cup doorway geometry. Reject
+interchangeable-source treatment, not cup activities or the untested doorway's
+feasibility. Keep publication deferred until a separately registered ownership
+and desktop/mobile task baseline plus current query/SERP and publication gates.
+No new page or public correction is selected. Native QA passes all 67 tests,
+60 snapshot validations, roadmap JSON, whitespace, exact scope, and credential
+checks. Independent reviewer Mendel returned cycle-one `PASS` with no P0-P3
+findings. The seven-path audit is review-clean for push-only release;
+production remains unchanged.
 
 ## September 15 Tape Road Candidate Overlay
 

@@ -647,3 +647,42 @@ Reviewed commit `ab0be4b32ad5be99aff9f9b7b73af4f280089c4f` is live through
 successful Pages run `35002462713` and deployment `6464778675`. All public
 artifacts and the motivating desktop/mobile parent task are verified. Next,
 observe for a post-release crawl or finalized page/query change.
+
+## 2026-09-16 - Cup Tower Maintained-Evidence Audit
+
+- **Action:** `KAL-LEARN-004`
+- **Family decision:** Choose a cups-only activity without discovering later
+  that measuring, recording, or toy-clearance geometry is required.
+- **Persona task:** Source-derived desk audit of materials, adult role, goal,
+  substitutions, and unresolved setup boundaries; younger-child reach is a KAL
+  editorial stress test. No responsive score or family use is claimed.
+- **Falsifiable hypothesis:** The maintained evidence supports treating free
+  cup play, measured height design, and a one-cup doorway as interchangeable
+  instructions for one fully qualified standalone guide.
+- **Sources/evidence:** September 16 public-source checks of Growing Up NYC and
+  Education.com are `SOURCE_BACKED` within limits; the maintained FIRST PDF is
+  currently unavailable, not silently carried as current evidence. Repository
+  and latest GSC are `MEASURED`; September 13 Semrush is an imported
+  `TOOL_ESTIMATE`, not refreshed. Task and ownership are
+  `RESEARCH_HYPOTHESIS`/`EDITORIAL_JUDGMENT`.
+- **Result:** `REJECT_HYPOTHESIS` and `RESEARCH`. The two accessible sources
+  specify different materials and goals; neither demonstrates our one-cup
+  doorway. This is not evidence that a doorway fails or succeeds.
+- **Confidence:** High for inspected differences; medium for the parent-job
+  distinction; unknown for live queries, physical feasibility, and family use.
+- **Action:** Keep Cup Tower publication deferred. Next obtain a separately
+  registered ownership and desktop/mobile task baseline; no implementation is
+  selected. Native QA passes all 67 tests, 60 snapshot validations, roadmap
+  JSON, whitespace, exact scope, and credential checks. Independent read-only
+  reviewer Mendel returned cycle-one `PASS` with no P0-P3 findings; the seven-
+  path audit is review-clean for push-only release.
+- **Reusable lesson:** Reconcile the goal and mechanism, not merely the shared
+  material, before consolidating activity instructions. Keep one executable
+  default and qualify comparison/clearance extensions separately.
+- **Next falsification trigger:** Current source proof of the exact doorway,
+  comparable query/SERP and task evidence for one shared owner, or an
+  independent source/scope contradiction.
+- **Measurement boundary:** This completes a dated evidence-set audit, not a
+  fresh ranking/demand measure, usability evaluation, family test, developmental
+  result, timing estimate, or safety assurance. All family outcomes remain
+  `UNKNOWN`; production and protected observation windows remain unchanged.
