@@ -18,6 +18,32 @@ and release verification.
 
 ## Active Priority
 
+### September 16 Afternoon Observation
+
+Decision: monitoring-only no-op; today's source-dated learning unit is already
+complete in `KAL-LEARN-004`, independently reviewed `PASS` and released at
+`a584450895c63b776f7ea9708e1e26c1e57eb373`.
+
+Fetched and inspected incoming snapshot-only commit `d35d619`, then fast-
+forwarded the clean nondivergent branch. September 16 GSC was collected at
+15:11 UTC and is finalized through September 14. Versus September 15:
+property impressions 231 -> 225, clicks 4 -> 4, position 14.84 -> 14.74;
+ramp impressions 165 -> 163, clicks 4 -> 4, page position 11.78 -> 11.67.
+Priority inspection is unchanged at 10/10 indexed, including crawl timestamps.
+Cup Tower and the new guides have no retained guide rows; complete queries are
+unavailable. Sparse rolling-window movement does not satisfy an implementation
+gate or measure the September 15 Tape Road release.
+
+Preserve the roadmap and production. Next evidence-eligible step remains a
+separately registered Cup Tower ownership and desktop/mobile task baseline;
+do not promote a page from this measurement. All 61 snapshots validate. Native
+JSON, whitespace, and 67-test QA pass. Independent review is not applicable to
+this mechanical observation record: no material strategy, research, code,
+content, configuration, or data changes. Exact touched path:
+`ops/current-cycle.md`; release is documentation-only push, no deployment.
+No blockers or user action. Search intent and all family outcomes remain
+unknown. Existing production observation windows remain protected.
+
 `KAL-LEARN-004` is the September 16 morning research-only transaction from
 clean aligned base `b3e2be2df2833b497cd499d9ac6d86acd9ab491f`. Its exact
 seven paths are the Cup Tower evidence audit, learning ledger, priority status,
