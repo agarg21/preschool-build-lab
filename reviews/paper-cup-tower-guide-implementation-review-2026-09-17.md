@@ -1,7 +1,7 @@
 # Paper Cup Tower Implementation Review
 
 Action: `KAL-IMP-012`; base `1dc5035dac667a62ae7ad2ce7e42de5c1b98d0ab`.
-Date: September 17, 2026. Independent review PASS; release pending.
+Date: September 17, 2026. Independent review PASS; released and production-verified.
 
 ## Frozen Task
 
@@ -74,5 +74,21 @@ non-generator tests, 62 snapshots, 69 HTML/704 links-fragments, exact scope,
 CSV/JSON/XML/schema, syntax, whitespace, privacy, and rubric arithmetic.
 The full 74-test run, generator idempotence and CUA remain operator evidence.
 No repository or git state was modified by the reviewer.
-Exact-SHA release evidence remains pending. No family timing, performance, interest, outcome
+Released content commit `dc4f075258eba598a33811bb8161540b2a9ae898`;
+exact-SHA Pages run `35246618467` and deployment `6507334370` succeeded.
+All five affected public paths return200 and byte-match the reviewed files.
+Production 1280x900 and390x844 repeat the first-start/image geometry without
+text or body overflow; all eleven links are keyboard reachable, all six
+fragments clear the header, and library/card/guide Enter routes work in both
+viewports. Canonical/H1 and clean warning/error logs pass. An initial browser
+404 was opened before deployment and cleared after success, not a release
+regression. No release marker exists in the workflow: exact-SHA deployment
+and byte-match establish the release without inventing marker evidence.
+The same independent reviewer verified the exact committed base-to-release
+range and the eight-path mechanical reconciliation diff: final `PASS`, no
+P0-P3. All twelve non-document artifact hashes match the reviewed tree.
+The reviewer independently confirmed the Pages/deployment SHA and success,
+five public byte matches, 73 non-generator tests and 62 snapshots. Production
+CUA remains operator evidence; reconciliation adds no material strategy.
+No family timing, performance, interest, outcome
 or safe-use measurement is claimed.

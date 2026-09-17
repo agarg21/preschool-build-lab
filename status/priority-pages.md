@@ -4,15 +4,16 @@ Last updated: 2026-09-17
 
 ## September 17 Individual-Guide Expansion
 
-Research inventory: eight distinct families including ramp, four already
-built, one additional qualified Cup Tower candidate and three deferred. No
+Research inventory: eight distinct families including ramp, now five
+built after Cup Tower and three deferred. No
 count of pages predicted to match ramp traffic is supported. `KAL-IMP-012`
 implements one `/articles/paper-cup-tower-kids.html` parent-running owner,
 distinct from Cup Doorway, with source reconciliation and a local4->23/24
 proxy task. Current inherited minute/low-mess labels are removed from only
 its compact card and library entry. All hubs and previous guides unchanged.
-Native and local desktop/mobile QA passes; independent review PASS, release
-pending. Desktop/mobile fragment and library/card keyboard routes pass. New-guide
+Native and local desktop/mobile QA passes; independent review PASS, no P0-P3.
+Released `dc4f075`, exact-SHA Pages35246618467/deployment6507334370,
+production bytes and desktop/mobile task verified. Fragment and library/card keyboard routes pass. New-guide
 search evidence and every family outcome remain unknown.
 
 ## September 17 Trust-Correction Overlay
@@ -468,8 +469,8 @@ safety outcomes, and search effects remain `UNKNOWN`.
 
 | Surface | Current state | Next check |
 |---|---|---|
-| Production | Live on `https://kidactivitylab.com`; latest material release is the `KAL-IMP-011` trust correction at `2cda0a72b7f92588f97b6becce386b6e7a70dac0`, exact-SHA Pages `35245099209`, deployment `6507067502`. `KAL-IMP-012` is not yet released. | Finish the independently reviewed Cup Tower release gate; preserve all other observation windows. |
-| Sitemap | Success in GSC; 61 discovered pages; current generated sitemap has 63 canonical content URLs. Last GSC sitemap read remains 2026-07-05. | Treat a refreshed sitemap read or verified technical defect as new evidence; do not request indexing from cadence alone. |
+| Production | Live on `https://kidactivitylab.com`; latest material release is `KAL-IMP-012` at `dc4f075258eba598a33811bb8161540b2a9ae898`, exact-SHA Pages `35246618467`, deployment `6507334370`; production bytes and desktop/mobile task verified. | Observe Cup Tower discovery; preserve all other observation windows. |
+| Sitemap | Success in GSC; 61 discovered pages; current generated sitemap has 64 canonical content URLs. Last GSC sitemap read remains 2026-07-05. | Treat a refreshed sitemap read or verified technical defect as new evidence; do not request indexing from cadence alone. |
 | Priority inspection | 10 of 10 configured URLs indexed; 0 unknown; 0 not indexed. | Expand or change the inspection cohort only in a separately registered monitoring or architecture action. |
 | Search performance | 231 impressions, 4 clicks, 1.73% CTR, average position 14.84 for the 28 days through 2026-09-13. | Treat the movement as discovery context, not proof of page-format causality. Use aligned page/query evidence or a demonstrated parent-task failure to select ranking work. |
 | Evidence boundary | Research-backed pages are explicitly not family-tested by Kid Activity Lab. All parent and child outcomes remain `UNKNOWN`. | Keep tested status, outcome claims, and product recommendations behind actual firsthand evidence. |

@@ -16,7 +16,9 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   `TOOL_ESTIMATE`, live card geometry/GSC (`MEASURED`), source-derived
   persona (`RESEARCH_HYPOTHESIS`), reduced workflow/proxy scores (`EDITORIAL_JUDGMENT`).
 - Result: compact-card task4/24, guide23/24 on local desktop/mobile.
-  `IMPROVE` -> `PRESERVE`; independent review PASS, release pending.
+  `IMPROVE` -> `PRESERVE`; independent review PASS. Released `dc4f075`,
+  Pages35246618467/deployment6507334370; production bytes and desktop/mobile
+  motivating task, keyboard/fragments/image/text fit pass.
   Confidence high for missing website outputs, medium for intent, unknown
   for traffic equivalence, physical cup performance and family outcomes.
 - Lesson: a new source can establish an executable default without merging

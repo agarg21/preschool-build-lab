@@ -28,10 +28,15 @@ Local caregiver proxy task4->23/24; readiness/materials/adult/firstchild/stop
 before image at desktop/mobile. Native QA passes74 tests/62 snapshots,
 69HTML/704 local links/fragments and stable generators; desktop/mobile
 fragments and discovery keyboard routes pass. Independent review PASS, no P0-P3,
-by Pauli (`01a0b021-8827-72f3-b9c3-609caa5d2c5d`); release pending.
+by Pauli (`01a0b021-8827-72f3-b9c3-609caa5d2c5d`). Released at
+`dc4f075258eba598a33811bb8161540b2a9ae898`, exact-SHA Pages `35246618467`,
+deployment `6507334370`, success. Five public paths return200 and byte-match;
+production desktop/mobile first-start, image, canonical/H1, text fit,
+eleven keyboard links, six clear fragments and library/card/guide routes pass.
 No hub, doorway, prior guide, style or workflow edits permitted. Research
-inventory is eight families including ramp: four built, one current candidate,
-three deferred. Next step is this guide's release gate, then observe.
+inventory is eight families including ramp: five built and three deferred.
+Observe this guide's post-release crawl/finalized page-query evidence; further
+candidates require separately registered research, not a page-production quota.
 
 ### September 17 - KAL-IMP-011 Trust Correction
 

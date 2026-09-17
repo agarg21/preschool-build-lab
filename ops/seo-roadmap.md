@@ -10,11 +10,13 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-1. Registered `KAL-IMP-012`: implement exactly one Paper Cup Tower guide
-   after closing `KAL-IMP-011`. Exact20 paths in JSON. Four guide families
-   already built, one additional source/intent-qualified Cup Tower candidate,
+1. Completed `KAL-IMP-012`: one Paper Cup Tower guide after closing
+   `KAL-IMP-011`. Exact20 paths in JSON. Five guide families now built,
    three deferred; this is not a traffic-equivalence forecast. Local proxy
-   task4->23/24; native/local QA passes; independent review PASS, release pending. All hubs,
+   task4->23/24; native/local QA passes; independent review PASS, no P0-P3.
+   Released `dc4f075`, exact-SHA Pages35246618467/deployment6507334370,
+   production byte-match and desktop/mobile task pass. Observe crawl and
+   finalized page/query evidence; further candidates need qualification. All hubs,
    doorway modules, existing guides/styles and observation windows preserved.
 
 0. `KAL-IMP-011` is completed at `2cda0a7`, independent cycle-one `PASS`,

@@ -2790,7 +2790,7 @@
       "id": "KAL-IMP-012",
       "title": "Build one parent-first paper cup tower guide",
       "kind": "dedicated-activity-guide",
-      "status": "active",
+      "status": "completed",
       "selected_on": "2026-09-17",
       "frozen_base": "1dc5035dac667a62ae7ad2ce7e42de5c1b98d0ab",
       "evidence_date": "2026-09-17",
@@ -2825,11 +2825,17 @@
       "production_invariants": "One guide and one labeled illustrative bitmap, compactCupcard/card-library entry, keyword register and sitemap only may change publicly. No hubs, doorway modules, existing guides, styles, workflow, account, tracker, indexing request, product/affiliate or tested status change.",
       "observation_window": "Protect ramp throughSeptember18, preschoolSTEM throughSeptember20 and all released guides until changed evidence; no hub changes.",
       "reconsider_conditions": "Stop/reconsider on source conflict, impossible-to-explain cup geometry, first-screen clutter, unsupported assurance, guide-card divergence, unintended generated output, remote divergence, P0-P2 or failed production invariant.",
-      "implementation_state": "review-clean-awaiting-release",
+      "implementation_state": "released-production-verified",
       "qa_summary": "74 tests,62 snapshots,69 HTML/704 local links-fragments, exact20-path/5-public-path scope,20-rowCSV/schema/JSON/XML, whitespace, three byte-stable generators. Local desktop/mobile first-start stops beforeimage, image agreement,11-link keyboard,6 sticky fragments in eachviewport, library-to-card-to-guide Enter route, zerooverflow/cleanlogs. All protected owners/styles unchanged.",
-      "proxy_task_result": "IMPROVE 4of24 baseline to provisional PRESERVE23of24; unmeasuredduration retains onepointgap; not real family evidence.",
-      "release_state": "not-applicable",
-      "next_eligible_action": "independent-review-and-release-this-guide-then-observe"
+      "proxy_task_result": "IMPROVE 4of24 baseline to PRESERVE23of24 after independent PASS; unmeasuredduration retains onepointgap; not real family evidence.",
+      "review": {"verdict": "PASS", "reviewer_thread_id": "01a0b021-8827-72f3-b9c3-609caa5d2c5d", "read_only": true, "base": "1dc5035dac667a62ae7ad2ce7e42de5c1b98d0ab", "scope": "All twenty registered paths including untracked artifacts and final status corrections; complete resulting commit dc4f075258eba598a33811bb8161540b2a9ae898", "findings": [], "independent_qa": "73 non-generator tests,62 snapshots,69 HTML/704 links-fragments,protected hashes,scope/source/visual/AST/template/parsing/privacy/arithmetic pass. Full74 tests, generator stability and CUA are operator evidence."},
+      "completed_on": "2026-09-17",
+      "release_state": "deployed",
+      "release_commit": "dc4f075258eba598a33811bb8161540b2a9ae898",
+      "pages_run_id": "35246618467",
+      "deployment_id": "6507334370",
+      "production_verification": "Exact reviewed-SHA Pages and deployment success. All five affected public paths return200 and byte-match reviewed files. Production1280x900/390x844 fit/start/stop beforeimage, image1672x941, canonical/H1, zero body/textoverflow, eleven keyboard links, six fragments clear header in each viewport and library/card/guide Enter routes pass with clean warning/error logs. No marker exists; exact-SHA deployment plus byte-match is evidence, not an invented marker. Initial browser404 was before deployment and cleared after success.",
+      "next_eligible_action": "observe-post-release-crawl-or-changed-finalized-page-query-evidence; further-candidates-require-separate-research-qualification"
     }
   ]
 }

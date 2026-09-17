@@ -16,7 +16,10 @@ Reviewer Pauli (`01a0b021-8827-72f3-b9c3-609caa5d2c5d`) returned cycle-one
 62 snapshots, 69 HTML/704 links-fragments, exact scope, protected hashes,
 source/visual, AST/template, parsing, privacy and arithmetic checks. Full
 74-test, generator idempotence and CUA evidence remain operator-supplied.
-Read-only throughout; production release gate pending.
+Read-only throughout. Released commit `dc4f075258eba598a33811bb8161540b2a9ae898`,
+exact-SHA Pages `35246618467`, deployment `6507334370`, success. Five public
+paths return200 and byte-match; production desktop/mobile motivating task,
+image, canonical/H1, overflow/text-fit, keyboard, fragments and routes pass.
 
 ## KAL-IMP-011 - September 17
 

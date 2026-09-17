@@ -15,7 +15,8 @@ The existing card scores4/24; the local guide scores23/24 across12
 applicable dimensions, with sensory/accessibility N/A and unmeasured duration
 limiting the setup/duration score. Every-section audit, source boundaries and
 desktop/mobile geometry are in the implementation review. `IMPROVE` ->
-`PRESERVE`, independent review PASS, release pending. No parent/child
+`PRESERVE`, independent review PASS, released `dc4f075`; exact-SHA Pages and
+production desktop/mobile proxy task verified. No parent/child
 comprehension, learning, enjoyment, safety or timing outcome is inferred.
 
 ## 2026-09-17 - Engineering Maze Agreement Task
