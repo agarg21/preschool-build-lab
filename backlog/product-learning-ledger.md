@@ -4,6 +4,31 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-17 - KAL-RES-013
+
+- Decision/task: caregiver chooses and starts one household build, with adult
+  preparation, first child action, limited materials and recovery; stress
+  constraints are no printer, younger-child reach and phone scanning.
+- Hypothesis: six demand/result-body checks can identify worthwhile next
+  qualification without turning each query into a page.
+- Evidence: twelve current DataForSEO Ads rows (`TOOL_ESTIMATE`), six
+  incomplete controlled US-English desktop SERPs, sixteen current inspected
+  publisher bodies (`SOURCE_BACKED` within limits), four source-derived tasks
+  (`RESEARCH_HYPOTHESIS`), backlog priority (`EDITORIAL_JUDGMENT`). Spend$0.102
+  of explicitly authorized$5. Organic KD and numerical overlap UNKNOWN.
+- Result: `RESEARCH` helicopter qualification next; conditional straw rocket,
+  chain and foil boat; `PRESERVE` spinner/balloon deferral. No implementation
+  promoted or public page changed. QA/reviewer disposition in operator review.
+- Confidence: high for retained metrics/body observations, medium for parent
+  utility hypothesis, UNKNOWN for achievable ranks/traffic and family outcomes.
+- Lesson: strong institutional instructions can coexist with a more focused
+  caregiver job; large broad-query estimates do not establish that job's
+  traffic. Source/owner differences are gates, not reasons to batch pages.
+- Trigger: reject if no distinct original task utility, unresolved geometry,
+  trust facts or existing-owner overlap. Next `KAL-RES-014` qualification.
+- Boundary: no new guide baseline, score or real use; future release needs
+  full source/persona/section review and aligned finalized search observation.
+
 ## 2026-09-17 - KAL-IMP-012
 
 - Family decision/task: start cup-only tower play without interpreting nesting,

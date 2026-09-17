@@ -6,6 +6,20 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-17 - Next-Guide Research Tasks
+
+Action `KAL-RES-013`, `RESEARCH`, not a browser task review or human test.
+Four lenses trace directly to inspected procedures: start-now/no-printer
+(Science World/NASA/WTTW), recovery/same materials (NASA/Discovery World),
+mixed-age reach/adult roles (Nebraska/Crayola/WTTW/Science Bob), and mobile
+scanning/no worksheet (NASA/VistaThink/Little Bins). Required outputs and
+observable failure triggers are in the dated opportunity pack. No fictional
+biography, satisfaction claim, UI score or desktop/mobile pass is invented
+for an unbuilt page. Future qualification must apply the full0-2 protocol,
+every-section audit and guide simplicity gate, then future implementation
+must verify the motivating task in both viewports. Helicopter qualification
+is next; other candidates remain conditional/deferred, not six new pages.
+
 ## 2026-09-17 - Cup-Only Tower Parent Task
 
 Action: `KAL-IMP-012`; source-derived proxy, not family testing. Decide fit,

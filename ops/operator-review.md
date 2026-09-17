@@ -1,5 +1,31 @@
 # Operator Review
 
+## KAL-RES-013 - September 17
+
+Research-only scope: exactly twelve registered paths at frozen base
+`b5ae0e66415f38fc99b94fc758d2830c4720f4d9`. Six families, twelve DataForSEO
+Ads rows, six incomplete controlled SERP samples, sixteen inspected bodies;
+actual spend$0.102/$5 authorized. Zero new implementations promoted.
+Helicopter qualification next; four concrete source-derived task lenses,
+not a real user/browser evaluation. Operator native74 tests, roadmap JSON,
+whitespace, collector syntax and paid-rerun refusal pass. Both JSON artifacts,
+12-rowCSV/null/market, seven taskIDs/cost sum, six incomplete ordered samples,
+exact12paths, credential/privacy and unchanged protected production checks pass.
+
+Different independent read-only reviewer agent `01a0b186-e32c-7d90-a2b0-74ba09092b49`
+(spawn-tool alias Peirce, not an invented task title) returned cycle-one
+`PASS_WITH_P3`, no P0-P2. Two P3 records: controlled balloon query typo and
+Nebraska PDF live404/indexed-body distinction. Master corrected both;
+cycle-two read-only full-diff recheck returned `PASS`, both findings closed
+and no open P0-P3. Reviewer independently ran73 non-generator tests,
+syntax/whitespace/parsing/scope/cost/privacy/protected-diff and public-source
+checks; in-memory collector guard/failure/no-retry checks used no paid calls
+or real writes. Full74 tests remain operator evidence. Reviewed scope includes
+all twelve paths and the corrected bottom Next Transaction baton. Operator
+reran all74 tests, whitespace and roadmap JSON after corrections, PASS.
+Research is complete and review-clean; exact-path local commit and authorized
+push are next. Research/operator push-only; no deployment.
+
 ## KAL-IMP-012 - September 17
 
 Independent read-only review PASS against clean base `1dc5035` for all20

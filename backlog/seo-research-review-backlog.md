@@ -14,7 +14,28 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
-## Current Evidence Decision
+## September 17 Individual-Guide Research Decision
+
+`KAL-RES-013` screens six families with twelve DataForSEO Google Ads keyword
+rows, six dated US-English desktop depth-10 SERPs (8/8/7/7/7/7 organic rows,
+all incomplete) and sixteen inspected result/source bodies. Actual spend
+$0.102 of the user-authorized $5. No organic KD or numeric overlap claim.
+
+Decision pack: `seo/individual-activity-opportunities-2026-09-17.md`.
+Next: `KAL-RES-014` paper-helicopter qualification. Straw rockets, paper chains
+and foil boats are conditional; spinners and balloon rockets deferred. Zero
+new implementations promoted. Strong NASA/museum answers are counterevidence
+to calling these uniformly weak SERPs. Our hypothesis is one parent-led
+default plus explicit recovery, not longer text or guaranteed rankings.
+
+Paper helicopter/straw rocket broad probes each return2,900 monthly US
+estimates; their exact narrower probes return90/UNKNOWN respectively. Never
+sum variants, treat unavailable rows as zero or infer parent intent from
+broad volume. Foil/chain owner reconciliation may favor an existing-page
+upgrade. No public files, keyword targets, protected observation windows,
+indexing requests, accounts or tested status changed.
+
+## Historical Evidence Decisions
 
 `KAL-RES-001` promoted one bounded existing-page action, and `KAL-IMP-001`
 released it:

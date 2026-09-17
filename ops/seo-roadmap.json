@@ -2836,6 +2836,44 @@
       "deployment_id": "6507334370",
       "production_verification": "Exact reviewed-SHA Pages and deployment success. All five affected public paths return200 and byte-match reviewed files. Production1280x900/390x844 fit/start/stop beforeimage, image1672x941, canonical/H1, zero body/textoverflow, eleven keyboard links, six fragments clear header in each viewport and library/card/guide Enter routes pass with clean warning/error logs. No marker exists; exact-SHA deployment plus byte-match is evidence, not an invented marker. Initial browser404 was before deployment and cleared after success.",
       "next_eligible_action": "observe-post-release-crawl-or-changed-finalized-page-query-evidence; further-candidates-require-separate-research-qualification"
+    },
+    {
+      "id": "KAL-RES-013",
+      "title": "Research and backlog the next individual household-build guides",
+      "kind": "research",
+      "status": "completed",
+      "completed_on": "2026-09-17",
+      "release_state": "review-clean-awaiting-exact-path-commit-and-push",
+      "selected_on": "2026-09-17",
+      "frozen_base": "b5ae0e66415f38fc99b94fc758d2830c4720f4d9",
+      "target_paths": ["seo/individual-activity-opportunities-2026-09-17.md", "data/individual-activity-opportunities-2026-09-17.csv", "data/individual-activity-serps-2026-09-17.json", "tools/collect-individual-activity-research-2026-09-17.mjs", "backlog/seo-research-review-backlog.md", "backlog/implementation-backlog.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md", "ops/current-cycle.md", "ops/operator-review.md"],
+      "evidence_date": "2026-09-17",
+      "evidence_classification": "Fresh DataForSEO Google Ads estimates TOOL_ESTIMATE and US-English desktop depth-10 Google SERPs; current public result bodies SOURCE_BACKED within limits; gap/persona/ranking hypotheses RESEARCH_HYPOTHESIS; priorities EDITORIAL_JUDGMENT. Google Ads competition is not organic difficulty. No predicted clicks, rank guarantee, firsthand experience or safety outcome.",
+      "user_problem": "User wants more individual activity guides only where demand and demonstrated result-page gaps justify a substantially better parent-running answer.",
+      "persona_task": "Caregiver chooses and starts one household-material build, understands adult preparation and recovers when the first attempt fails; stress constraints are limited materials, younger-child reach and mobile scanning.",
+      "hypothesis": "A capped six-family comparison can identify useful next research/implementation candidates without treating every keyword as a new page.",
+      "acceptance_criteria": ["Inspect six query families with exact dated metric availability and representative current result bodies", "Record provider/market/completeness and do not infer ordered ranks or numeric overlap from incomplete search samples", "Give each candidate a distinct parent job, existing-owner check, original utility, source/trust burden and explicit build-or-research-or-defer gates", "Promote at most one implementation candidate; other backlog entries remain conditional", "No site, generator, keyword-target register, indexing, account, tracker or tested-status changes"],
+      "qa_plan": "git diff --check; jq empty ops/seo-roadmap.json; node --test tools/*.test.mjs; parse changed CSV and JSON; inspect evidence/source/privacy/exact-scope; different independent read-only review PASS/PASS_WITH_P3",
+      "measurement_plan": "Research classification and falsifiable persona outputs only; after a separately reviewed future release observe aligned crawl/page/query evidence, not traffic equivalence.",
+      "production_invariants": "All public site files, sources/generators, existing ownership and protected observation windows unchanged.",
+      "human_gate": "User explicitly authorized up to USD 5 for this DataForSEO batch; seven calls only (one 12-keyword volume task and six depth-10 SERPs), published expected cost USD 0.102, no automatic retries. No human gate for research-only untested non-product synthesis; no safety-sensitive assurance, family outcome or product recommendation authorized.",
+      "reconsider_conditions": "Defer on unknown demand, unresolved intent/owner overlap, trust burden, absent original parent utility or incomplete source facts; stop on dirty-path conflict, divergence or P0-P2.",
+      "next_eligible_action": "KAL-RES-014-paper-helicopter-qualification-after-review-clean-research-release",
+      "research_result": "Six families; twelve DataForSEO Ads rows, six incomplete controlled SERPs, sixteen inspected bodies (includes indexed Nebraska PDF with live404), four source-derived task lenses. Seven calls cost USD0.102 within USD5 authorization. Zero implementations promoted; helicopter qualification next, straw/chain/foil conditional, spinner/balloon deferred. No public paths or ownership changed.",
+      "qa_summary": "Operator74 tests, whitespace, roadmap/retained JSON,12-rowCSV/null/market, collector syntax and paid-rerun guard, cost/taskIDs/completeness/order, exact12paths and privacy/protected production checks pass.",
+      "review": {"verdict": "PASS", "cycle": 2, "reviewer_agent_id": "01a0b186-e32c-7d90-a2b0-74ba09092b49", "reviewer_alias_source": "spawn tool: Peirce; no invented task title", "read_only": true, "base": "b5ae0e66415f38fc99b94fc758d2830c4720f4d9", "scope": "All twelve registered paths including four untracked artifacts and bottom Next Transaction correction", "findings": [{"severity": "P3", "description": "Balloon controlled-query table typo", "state": "closed-cycle-two"}, {"severity": "P3", "description": "Nebraska indexed-body versus live404 source availability", "state": "closed-cycle-two"}], "independent_qa": "73 non-generator tests; syntax, whitespace, JSON/CSV,scope,cost,public sources,privacy,protected diffs and in-memory collector guards pass; no paid calls or real writes"}
+    },
+    {
+      "id": "KAL-RES-014",
+      "title": "Qualify one parent-first paper-helicopter guide",
+      "kind": "research",
+      "status": "planned",
+      "evidence_date": "2026-09-17",
+      "evidence_refs": ["seo/individual-activity-opportunities-2026-09-17.md", "data/individual-activity-opportunities-2026-09-17.csv", "data/individual-activity-serps-2026-09-17.json"],
+      "user_problem": "Caregiver needs one household-paper default with explicit adult preparation, first child drop and concrete recovery, not a classroom measurement lesson.",
+      "eligibility_gate": "After KAL-RES-013 independent review-clean push. Register exact paths/base before selection. Reconcile clip-free source geometry, inspect templates without copying, current official trust boundaries, owner check and full source-derived persona/every-section qualification. Further paid calls require a new explicit batch authorization; leftover RES013 budget is not reusable.",
+      "implementation_gate": "No page or keyword ownership authorized here. Promote at most one only when distinct search-supported task, maintainable facts, original utility, complete parent task and publication standard pass; reject/defer if existing result answers the job adequately or assumptions cannot be closed.",
+      "measurement_boundary": "Broad-query intent share, complete variant overlap, achievable rank, traffic and all family outcomes UNKNOWN. Preserve production and protected observation windows."
     }
   ]
 }

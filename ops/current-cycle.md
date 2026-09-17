@@ -18,6 +18,33 @@ and release verification.
 
 ## Active Priority
 
+### September 17 Manual Research - KAL-RES-013
+
+User requested evidence-qualified individual-guide research and backlog, then
+DataForSEO after Semrush expired; explicitly authorized up to$5. Registered
+base `b5ae0e66415f38fc99b94fc758d2830c4720f4d9` was clean/aligned. Fetch
+found no incoming changes. Exactly twelve declared research/operator paths;
+no site, generator, keyword register, workflow, account or indexing changes.
+
+Completed seven paid calls at reported$0.102: twelve Ads keyword rows and six
+US-English desktop depth-10 SERPs, all incomplete organic samples. Sixteen
+source/result bodies inspected. Organic difficulty/overlap/traffic outcomes
+remain UNKNOWN. Strong NASA/museum competitors rule out blanket weak-SERP
+claims. Four concrete source-derived parent-task lenses, no fictional user
+testing or unbuilt-page UI score. Decision: helicopter qualification next
+(`KAL-RES-014` planned); straw rocket, chain and foil boat conditional,
+spinner and balloon deferred. Zero new implementations promoted.
+
+Learning and candidate gates are durable in the opportunity pack, backlog,
+learning ledger and persona log. Latest GSC remains September17 finalized
+throughSeptember15:228 impressions/five clicks, all retained clicks on ramp;
+queries/new-guide rows unavailable. Protected observation windows unchanged.
+All74 native tests and artifact/source/privacy/exact-scope checks pass.
+Independent cycle-two review PASS, both P3 records closed, no open P0-P3.
+Research is complete/review-clean awaiting exact-path commit/push; reviewer
+identity, base and complete scope are in operator review. No Pages deployment applies. No user
+testing needed to continue honest research-backed qualification.
+
 ### September 17 Afternoon Heartbeat - Observation Only
 
 At the 17:02 UTC scheduled invocation, baseline `b00183f` was clean and
@@ -1123,8 +1150,11 @@ product-review access still require direct user authority.
 
 ## Next Transaction
 
-Observe released `KAL-IMP-006` through 2026-09-18 unless a verified P0-P2
-production, accessibility, factual, or trust regression appears. The next
-evidence-eligible step is a new post-release crawl or finalized query/page
-change, not a CTR rewrite, new page, indexing request, product, affiliate, or
-family-outcome inference.
+After the review-clean `KAL-RES-013` research release, select planned
+`KAL-RES-014` for one paper-helicopter qualification transaction; register
+exact paths and base first. It is not page implementation or authorization
+to reuse unused paid-batch spend. Preserve ramp `KAL-IMP-006` through
+September18 and preschoolSTEM throughSeptember20 except verified P0-P2
+regressions, plus all other guide observation gates. Their next measurement
+step remains a new post-release crawl or finalized query/page change, not
+a CTR rewrite, indexing request, product, affiliate or family-outcome inference.

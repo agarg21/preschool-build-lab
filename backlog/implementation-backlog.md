@@ -6,11 +6,41 @@ repository writer for a validated transaction.
 
 ## Ready
 
-- No content implementation is currently ready. `KAL-IMP-002` is released and
-  enters observation; do not create individual card-game or age pages from the
-  same evidence.
+- No new content implementation is ready from `KAL-RES-013`. Five dedicated
+  build guides are released (ramp, paper bridge, ball maze, tape road, cup
+  tower); preserve their observation windows. Paper helicopter is next for
+  qualification, not a build authorization. Do not create individual
+  card-game or age pages from `KAL-IMP-002`'s chooser evidence.
 - Generator QA and manual-hub migration remain possible future technical work,
   but must be selected separately rather than bundled into research or content.
+
+## Conditional Individual Guides - September 17
+
+Research: `seo/individual-activity-opportunities-2026-09-17.md`; twelve fresh
+DataForSEO Google Ads probes and six incomplete controlled SERP samples.
+Google Ads competition is not organic KD. No top-five or ramp-traffic promise.
+
+- Paper helicopter: first qualification candidate `KAL-RES-014`. One possible
+  guide for adult-prepared folds and child drop/retry, not separate template,
+  Mars or age pages. Close clip-free geometry, original visual, current trust
+  facts and complete parent-task gates before promoting implementation.
+- Straw rocket: conditional. Reconcile paper-sleeve methods, launch/air-path
+  boundaries and concrete leak/jam rescues; strong NASA/template competitors
+  mean generic steps are not sufficient differentiation.
+- Paper chain: conditional. Existing card and book-wrap module own related
+  work; resolve one-sheet length versus reach and explicit linking rules
+  before deciding upgrade versus new guide.
+- Foil boat: conditional existing-owner reconciliation first. Card,
+  engineering module and Tiny Boat Cargo Test differ in cargo/mission. Do
+  not promise large-block equivalence to source coins or publish a duplicate.
+- String-disc spinner: deferred for uncertain younger-child fit, winding and
+  cord boundaries. Do not substitute a different spinning mechanism silently.
+- Balloon rocket: remains deferred despite refreshed demand. Current official
+  balloon/cord/latex facts, anchor/space, adult controls and cleanup gates
+  must close; no request for unavailable family testing or indexing.
+
+Only helicopter qualification is the next eligible action; these six entries
+are not a page quota and none is an approved implementation.
 
 ## Review Requirement
 

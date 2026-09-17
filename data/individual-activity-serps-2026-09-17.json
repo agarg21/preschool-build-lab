@@ -1,0 +1,1264 @@
+{
+  "action_id": "KAL-RES-013",
+  "collected_at": "2026-09-17T22:36:09.906Z",
+  "provider": "DataForSEO",
+  "market": {
+    "location_code": 2840,
+    "location": "United States",
+    "language_code": "en"
+  },
+  "budget": {
+    "authorized_usd": 5,
+    "published_expected_usd": 0.102,
+    "reported_usd": 0.102,
+    "calls": 7,
+    "max_calls": 7,
+    "automatic_retries": false
+  },
+  "volume": {
+    "endpoint": "keywords_data/google_ads/search_volume/live",
+    "task_id": "09172236-2024-0367-0000-5ea72a1db418",
+    "status_code": 20000,
+    "cost_usd": 0.09,
+    "requested_keywords": [
+      "paper helicopter",
+      "paper helicopter experiment",
+      "straw rocket",
+      "straw rocket for kids",
+      "aluminum foil boat experiment",
+      "foil boat challenge",
+      "paper spinner",
+      "paper spinner toy",
+      "paper chain challenge",
+      "longest paper chain challenge",
+      "balloon rocket experiment",
+      "balloon rocket activity"
+    ],
+    "interpretation": "TOOL_ESTIMATE; approximate Google Ads monthly averages, not unique users. Competition is advertising competition, not organic difficulty. Null means unavailable, not zero; variants must not be summed.",
+    "rows": [
+      {
+        "keyword": "paper helicopter",
+        "search_volume": 2900,
+        "competition": "LOW",
+        "competition_index": 1,
+        "monthly_searches": [
+          {
+            "year": 2026,
+            "month": 8,
+            "search_volume": 3600
+          },
+          {
+            "year": 2026,
+            "month": 7,
+            "search_volume": 1600
+          },
+          {
+            "year": 2026,
+            "month": 6,
+            "search_volume": 1600
+          },
+          {
+            "year": 2026,
+            "month": 5,
+            "search_volume": 2400
+          },
+          {
+            "year": 2026,
+            "month": 4,
+            "search_volume": 3600
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "search_volume": 2900
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "search_volume": 2900
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "search_volume": 2900
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "search_volume": 1600
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "search_volume": 2400
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "search_volume": 2900
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "search_volume": 4400
+          }
+        ]
+      },
+      {
+        "keyword": "paper helicopter experiment",
+        "search_volume": 90,
+        "competition": "LOW",
+        "competition_index": 4,
+        "monthly_searches": [
+          {
+            "year": 2026,
+            "month": 8,
+            "search_volume": 90
+          },
+          {
+            "year": 2026,
+            "month": 7,
+            "search_volume": 20
+          },
+          {
+            "year": 2026,
+            "month": 6,
+            "search_volume": 40
+          },
+          {
+            "year": 2026,
+            "month": 5,
+            "search_volume": 50
+          },
+          {
+            "year": 2026,
+            "month": 4,
+            "search_volume": 90
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "search_volume": 90
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "search_volume": 90
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "search_volume": 90
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "search_volume": 40
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "search_volume": 70
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "search_volume": 110
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "search_volume": 210
+          }
+        ]
+      },
+      {
+        "keyword": "straw rocket",
+        "search_volume": 2900,
+        "competition": "LOW",
+        "competition_index": 3,
+        "monthly_searches": [
+          {
+            "year": 2026,
+            "month": 8,
+            "search_volume": 2400
+          },
+          {
+            "year": 2026,
+            "month": 7,
+            "search_volume": 1600
+          },
+          {
+            "year": 2026,
+            "month": 6,
+            "search_volume": 2400
+          },
+          {
+            "year": 2026,
+            "month": 5,
+            "search_volume": 2900
+          },
+          {
+            "year": 2026,
+            "month": 4,
+            "search_volume": 2900
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "search_volume": 2900
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "search_volume": 2400
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "search_volume": 2900
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "search_volume": 1600
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "search_volume": 2400
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "search_volume": 3600
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "search_volume": 4400
+          }
+        ]
+      },
+      {
+        "keyword": "straw rocket for kids",
+        "search_volume": null,
+        "competition": null,
+        "competition_index": null,
+        "monthly_searches": null
+      },
+      {
+        "keyword": "aluminum foil boat experiment",
+        "search_volume": 50,
+        "competition": "LOW",
+        "competition_index": 0,
+        "monthly_searches": [
+          {
+            "year": 2026,
+            "month": 8,
+            "search_volume": 40
+          },
+          {
+            "year": 2026,
+            "month": 7,
+            "search_volume": 40
+          },
+          {
+            "year": 2026,
+            "month": 6,
+            "search_volume": 40
+          },
+          {
+            "year": 2026,
+            "month": 5,
+            "search_volume": 50
+          },
+          {
+            "year": 2026,
+            "month": 4,
+            "search_volume": 30
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "search_volume": 30
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "search_volume": 50
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "search_volume": 40
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "search_volume": 30
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "search_volume": 50
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "search_volume": 90
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "search_volume": 110
+          }
+        ]
+      },
+      {
+        "keyword": "foil boat challenge",
+        "search_volume": 110,
+        "competition": "LOW",
+        "competition_index": 0,
+        "monthly_searches": [
+          {
+            "year": 2026,
+            "month": 8,
+            "search_volume": 170
+          },
+          {
+            "year": 2026,
+            "month": 7,
+            "search_volume": 110
+          },
+          {
+            "year": 2026,
+            "month": 6,
+            "search_volume": 110
+          },
+          {
+            "year": 2026,
+            "month": 5,
+            "search_volume": 110
+          },
+          {
+            "year": 2026,
+            "month": 4,
+            "search_volume": 110
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "search_volume": 90
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "search_volume": 90
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "search_volume": 50
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "search_volume": 30
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "search_volume": 90
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "search_volume": 90
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "search_volume": 140
+          }
+        ]
+      },
+      {
+        "keyword": "paper spinner",
+        "search_volume": 720,
+        "competition": "LOW",
+        "competition_index": 0,
+        "monthly_searches": [
+          {
+            "year": 2026,
+            "month": 8,
+            "search_volume": 480
+          },
+          {
+            "year": 2026,
+            "month": 7,
+            "search_volume": 480
+          },
+          {
+            "year": 2026,
+            "month": 6,
+            "search_volume": 590
+          },
+          {
+            "year": 2026,
+            "month": 5,
+            "search_volume": 880
+          },
+          {
+            "year": 2026,
+            "month": 4,
+            "search_volume": 720
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "search_volume": 720
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "search_volume": 880
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "search_volume": 1000
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "search_volume": 880
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "search_volume": 880
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "search_volume": 880
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "search_volume": 720
+          }
+        ]
+      },
+      {
+        "keyword": "paper spinner toy",
+        "search_volume": 70,
+        "competition": "LOW",
+        "competition_index": 1,
+        "monthly_searches": [
+          {
+            "year": 2026,
+            "month": 8,
+            "search_volume": 40
+          },
+          {
+            "year": 2026,
+            "month": 7,
+            "search_volume": 50
+          },
+          {
+            "year": 2026,
+            "month": 6,
+            "search_volume": 70
+          },
+          {
+            "year": 2026,
+            "month": 5,
+            "search_volume": 90
+          },
+          {
+            "year": 2026,
+            "month": 4,
+            "search_volume": 70
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "search_volume": 90
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "search_volume": 90
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "search_volume": 70
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "search_volume": 50
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "search_volume": 40
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "search_volume": 30
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "search_volume": 50
+          }
+        ]
+      },
+      {
+        "keyword": "paper chain challenge",
+        "search_volume": 390,
+        "competition": "LOW",
+        "competition_index": 2,
+        "monthly_searches": [
+          {
+            "year": 2026,
+            "month": 8,
+            "search_volume": 1300
+          },
+          {
+            "year": 2026,
+            "month": 7,
+            "search_volume": 210
+          },
+          {
+            "year": 2026,
+            "month": 6,
+            "search_volume": 260
+          },
+          {
+            "year": 2026,
+            "month": 5,
+            "search_volume": 390
+          },
+          {
+            "year": 2026,
+            "month": 4,
+            "search_volume": 260
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "search_volume": 320
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "search_volume": 210
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "search_volume": 260
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "search_volume": 320
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "search_volume": 260
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "search_volume": 320
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "search_volume": 880
+          }
+        ]
+      },
+      {
+        "keyword": "longest paper chain challenge",
+        "search_volume": 70,
+        "competition": "LOW",
+        "competition_index": 0,
+        "monthly_searches": [
+          {
+            "year": 2026,
+            "month": 8,
+            "search_volume": 140
+          },
+          {
+            "year": 2026,
+            "month": 7,
+            "search_volume": 10
+          },
+          {
+            "year": 2026,
+            "month": 6,
+            "search_volume": 40
+          },
+          {
+            "year": 2026,
+            "month": 5,
+            "search_volume": 90
+          },
+          {
+            "year": 2026,
+            "month": 4,
+            "search_volume": 70
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "search_volume": 50
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "search_volume": 30
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "search_volume": 50
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "search_volume": 50
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "search_volume": 50
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "search_volume": 50
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "search_volume": 140
+          }
+        ]
+      },
+      {
+        "keyword": "balloon rocket experiment",
+        "search_volume": 1000,
+        "competition": "LOW",
+        "competition_index": 6,
+        "monthly_searches": [
+          {
+            "year": 2026,
+            "month": 8,
+            "search_volume": 390
+          },
+          {
+            "year": 2026,
+            "month": 7,
+            "search_volume": 390
+          },
+          {
+            "year": 2026,
+            "month": 6,
+            "search_volume": 590
+          },
+          {
+            "year": 2026,
+            "month": 5,
+            "search_volume": 1000
+          },
+          {
+            "year": 2026,
+            "month": 4,
+            "search_volume": 1300
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "search_volume": 1300
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "search_volume": 1000
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "search_volume": 1000
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "search_volume": 880
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "search_volume": 1300
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "search_volume": 1900
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "search_volume": 1300
+          }
+        ]
+      },
+      {
+        "keyword": "balloon rocket activity",
+        "search_volume": 40,
+        "competition": "LOW",
+        "competition_index": 5,
+        "monthly_searches": [
+          {
+            "year": 2026,
+            "month": 8,
+            "search_volume": 10
+          },
+          {
+            "year": 2026,
+            "month": 7,
+            "search_volume": 20
+          },
+          {
+            "year": 2026,
+            "month": 6,
+            "search_volume": 10
+          },
+          {
+            "year": 2026,
+            "month": 5,
+            "search_volume": 40
+          },
+          {
+            "year": 2026,
+            "month": 4,
+            "search_volume": 50
+          },
+          {
+            "year": 2026,
+            "month": 3,
+            "search_volume": 70
+          },
+          {
+            "year": 2026,
+            "month": 2,
+            "search_volume": 30
+          },
+          {
+            "year": 2026,
+            "month": 1,
+            "search_volume": 40
+          },
+          {
+            "year": 2025,
+            "month": 12,
+            "search_volume": 20
+          },
+          {
+            "year": 2025,
+            "month": 11,
+            "search_volume": 70
+          },
+          {
+            "year": 2025,
+            "month": 10,
+            "search_volume": 70
+          },
+          {
+            "year": 2025,
+            "month": 9,
+            "search_volume": 70
+          }
+        ]
+      }
+    ]
+  },
+  "serps": [
+    {
+      "family": "paper-helicopter",
+      "keyword": "paper helicopter experiment",
+      "task_id": "09172236-2024-0139-0000-8ee7f58a8a26",
+      "endpoint": "serp/google/organic/live/advanced",
+      "status_code": 20000,
+      "cost_usd": 0.002,
+      "device": "desktop",
+      "os": "windows",
+      "requested_depth": 10,
+      "datetime": "2026-09-17 22:36:20 +00:00",
+      "check_url": "https://www.google.com/search?q=paper%20helicopter%20experiment&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "item_types": [
+        "ai_overview",
+        "video",
+        "organic",
+        "images",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "items_count": 13,
+      "organic_count": 8,
+      "completeness": "fewer-than-ten-organic-rows; incomplete organic sample",
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 3,
+          "url": "https://www.scienceworld.ca/resource/paper-helicopters/",
+          "domain": "www.scienceworld.ca",
+          "title": "Paper Helicopters"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "url": "https://www.vistathink.com/paper-helicopter-experiment/",
+          "domain": "www.vistathink.com",
+          "title": "Paper Helicopter Experiment"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "url": "https://www.jpl.nasa.gov/edu/resources/project/make-a-paper-mars-helicopter-2/",
+          "domain": "www.jpl.nasa.gov",
+          "title": "Make a Paper Mars Helicopter – Engineering Project"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 6,
+          "url": "https://www.paperhelicopterexperiment.com/",
+          "domain": "www.paperhelicopterexperiment.com",
+          "title": "Paper Helicopter Experiment - The Best Project for Your DOE ..."
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 8,
+          "url": "https://curiodyssey.org/learn-explore/science-experiments-for-kids/making-paper-helicopters/",
+          "domain": "curiodyssey.org",
+          "title": "Making Paper Helicopters"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 10,
+          "url": "https://www.engineeringemily.com/make-a-paper-helicopter-steam-activity-for-kids/",
+          "domain": "www.engineeringemily.com",
+          "title": "Make a Paper Helicopter | STEAM Activity for Kids"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 11,
+          "url": "https://www.sciencebuddies.org/stem-activities/paper-helicopter",
+          "domain": "www.sciencebuddies.org",
+          "title": "Flying Helicopters on Mars | STEM Activity"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 12,
+          "url": "https://blog.minitab.com/en/blog/learning-design-of-experiments-with-paper-helicopters-and-minitab",
+          "domain": "blog.minitab.com",
+          "title": "Learning Design of Experiments with Paper Helicopters ..."
+        }
+      ]
+    },
+    {
+      "family": "straw-rocket",
+      "keyword": "straw rocket for kids",
+      "task_id": "09172236-2024-0139-0000-f97f0ca01fc3",
+      "endpoint": "serp/google/organic/live/advanced",
+      "status_code": 20000,
+      "cost_usd": 0.002,
+      "device": "desktop",
+      "os": "windows",
+      "requested_depth": 10,
+      "datetime": "2026-09-17 22:36:26 +00:00",
+      "check_url": "https://www.google.com/search?q=straw%20rocket%20for%20kids&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "item_types": [
+        "images",
+        "video",
+        "organic",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "items_count": 12,
+      "organic_count": 8,
+      "completeness": "fewer-than-ten-organic-rows; incomplete organic sample",
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 3,
+          "url": "https://www.jpl.nasa.gov/edu/resources/project/make-a-straw-rocket/",
+          "domain": "www.jpl.nasa.gov",
+          "title": "Make a Straw Rocket – Engineering Project"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "url": "https://buggyandbuddy.com/straw-rockets-with-free-rocket-template/",
+          "domain": "buggyandbuddy.com",
+          "title": "STEM for Kids: Straw Rockets (with Free Rocket Template)"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "url": "https://www.sciencebuddies.org/stem-activities/paper-rocket",
+          "domain": "www.sciencebuddies.org",
+          "title": "Build a Paper Rocket | STEM Activity"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 6,
+          "url": "https://www.pinterest.com/pin/straw-rockets-template--1759287347029046/",
+          "domain": "www.pinterest.com",
+          "title": "How to Make Straw Rockets (w"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 8,
+          "url": "http://www.housingaforest.com/straw-rockets/",
+          "domain": "www.housingaforest.com",
+          "title": "Straw Rockets"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 9,
+          "url": "https://www.kiwico.com/diy/stem/motion-mechanics/straw-rockets?srsltid=AU7gw4XWN_bIZULJWI7WR9uFlJiyZ8ZZqS_Pp410878ZTHLzn2mzcqI5",
+          "domain": "www.kiwico.com",
+          "title": "Straw Rockets | DIY for Beginners"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 10,
+          "url": "https://www.science-sparks.com/straw-rockets/",
+          "domain": "www.science-sparks.com",
+          "title": "Science for Kids - Straw Rocket - STEM Challenge"
+        },
+        {
+          "rank_group": 8,
+          "rank_absolute": 11,
+          "url": "https://www.facebook.com/welcometonanas/videos/diy-paper-straw-rockets-free-printable/2599135303815459/",
+          "domain": "www.facebook.com",
+          "title": "1.1K views | DIY Paper Straw Rockets  (Free Printable ..."
+        }
+      ]
+    },
+    {
+      "family": "foil-boat",
+      "keyword": "aluminum foil boat experiment",
+      "task_id": "09172236-2024-0139-0000-23cfcc02e01f",
+      "endpoint": "serp/google/organic/live/advanced",
+      "status_code": 20000,
+      "cost_usd": 0.002,
+      "device": "desktop",
+      "os": "windows",
+      "requested_depth": 10,
+      "datetime": "2026-09-17 22:36:38 +00:00",
+      "check_url": "https://www.google.com/search?q=aluminum%20foil%20boat%20experiment&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "item_types": [
+        "ai_overview",
+        "organic",
+        "video",
+        "people_also_ask",
+        "images",
+        "related_searches"
+      ],
+      "items_count": 12,
+      "organic_count": 7,
+      "completeness": "fewer-than-ten-organic-rows; incomplete organic sample",
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "url": "https://www.sciencebuddies.org/stem-activities/aluminum-foil-boats-float",
+          "domain": "www.sciencebuddies.org",
+          "title": "How Much Weight Can Aluminum Foil Boats Float?"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "url": "https://littlebinsforlittlehands.com/penny-boat-challenge/",
+          "domain": "littlebinsforlittlehands.com",
+          "title": "Penny Boat Challenge For STEM (Buoyancy)"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 5,
+          "url": "https://www.youtube.com/watch?v=3IXEpDJxNgc",
+          "domain": "www.youtube.com",
+          "title": "Science Max | How to Make a Tinfoil Boat"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 7,
+          "url": "https://discovere.org/engineering-activities/foil-boats/",
+          "domain": "discovere.org",
+          "title": "Foil Boats"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 8,
+          "url": "https://www.youtube.com/watch?v=PFn855wT2Sc",
+          "domain": "www.youtube.com",
+          "title": "Density & Floating: Aluminum Foil Boat Experiment"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 10,
+          "url": "https://www.twinkl.co.uk/resource/tinfoil-boat-stem-activity-au-sc-2332",
+          "domain": "www.twinkl.co.uk",
+          "title": "Tinfoil Boat STEM Activity"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 11,
+          "url": "https://www.fizzicseducation.com.au/150-science-experiments/force-movement-experiments/sink-the-foil-boat/?srsltid=AU7gw4U8SaztxRC4Fio4FHdwhgzbGHZxdgurGKUbd2rl7LJ6we0Y8H1D",
+          "domain": "www.fizzicseducation.com.au",
+          "title": "Sink the foil boat"
+        }
+      ]
+    },
+    {
+      "family": "paper-spinner",
+      "keyword": "paper spinner toy",
+      "task_id": "09172236-2024-0139-0000-05fec87ba4d5",
+      "endpoint": "serp/google/organic/live/advanced",
+      "status_code": 20000,
+      "cost_usd": 0.002,
+      "device": "desktop",
+      "os": "windows",
+      "requested_depth": 10,
+      "datetime": "2026-09-17 22:36:44 +00:00",
+      "check_url": "https://www.google.com/search?q=paper%20spinner%20toy&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "item_types": [
+        "video",
+        "images",
+        "short_videos",
+        "popular_products",
+        "organic",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "items_count": 13,
+      "organic_count": 7,
+      "completeness": "fewer-than-ten-organic-rows; incomplete organic sample",
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 5,
+          "url": "https://makeandtakes.com/diy-paper-spinner",
+          "domain": "makeandtakes.com",
+          "title": "DIY Paper Spinner for Endless Fun"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 7,
+          "url": "https://www.redtedart.com/diy-paper-spinner-toys/",
+          "domain": "www.redtedart.com",
+          "title": "DIY Paper Spinner Toys - Red Ted Art - Kids Crafts"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 8,
+          "url": "https://www.youtube.com/watch?v=p22qys-xgG8",
+          "domain": "www.youtube.com",
+          "title": "Twirligig Rainbow Paper Spinner | Rainbow Paper Spinner ..."
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 9,
+          "url": "https://www.pinterest.com/bettyzapfe/paper-spinners/",
+          "domain": "www.pinterest.com",
+          "title": "Discover 30 Paper Spinners and diy spinner for kids ideas"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 10,
+          "url": "https://teachbesideme.com/twirligig-rainbow-paper-spinner-toy/",
+          "domain": "teachbesideme.com",
+          "title": "Twirligig~ Rainbow Paper Spinner Toy"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 11,
+          "url": "https://www.crayola.com/crafts/diy-paper-spinners-craft",
+          "domain": "www.crayola.com",
+          "title": "DIY Paper Spinners - Crafts"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 12,
+          "url": "https://www.skiptomylou.org/rainbow-spinner/",
+          "domain": "www.skiptomylou.org",
+          "title": "Rainbow Spinner | Skip To My Lou"
+        }
+      ]
+    },
+    {
+      "family": "paper-chain",
+      "keyword": "paper chain challenge",
+      "task_id": "09172236-2024-0139-0000-32bd732fc1c3",
+      "endpoint": "serp/google/organic/live/advanced",
+      "status_code": 20000,
+      "cost_usd": 0.002,
+      "device": "desktop",
+      "os": "windows",
+      "requested_depth": 10,
+      "datetime": "2026-09-17 22:36:51 +00:00",
+      "check_url": "https://www.google.com/search?q=paper%20chain%20challenge&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "item_types": [
+        "ai_overview",
+        "images",
+        "organic",
+        "video",
+        "people_also_ask",
+        "product_considerations",
+        "related_searches"
+      ],
+      "items_count": 13,
+      "organic_count": 7,
+      "completeness": "fewer-than-ten-organic-rows; incomplete organic sample",
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 3,
+          "url": "https://teachersareterrific.com/2015/08/the-paper-chain-an-easy-prep-stem-challenge.html",
+          "domain": "teachersareterrific.com",
+          "title": "The Paper Chain- An Easy Prep STEM Challenge"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 4,
+          "url": "https://www.teacherspayteachers.com/Product/FREE-STEM-Activity-Paper-Chain-STEM-Challenge-2749232",
+          "domain": "www.teacherspayteachers.com",
+          "title": "FREE STEM Activity: Paper Chain STEM Challenge"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 6,
+          "url": "https://themathchick.net/longest-paper-chain-an-easy-stem-challenge-students-love/",
+          "domain": "themathchick.net",
+          "title": "Longest Paper Chain: An Easy STEM Challenge Students ..."
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "url": "https://blogs.glowscotland.org.uk/er/public/kirkhill24a/uploads/sites/17180/2020/05/26160111/Paper-chain-challenge.pdf",
+          "domain": "blogs.glowscotland.org.uk",
+          "title": "PAPER CHAIN CHALLENGE - Glow Blogs"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "url": "https://ecmsmath6.weebly.com/uploads/6/8/1/9/68198273/steam_paper_chain_activity.pdf",
+          "domain": "ecmsmath6.weebly.com",
+          "title": "PAPER CHAIN ACTIVITY"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 10,
+          "url": "https://frugalfun4boys.com/stem-paper-chain-contest/",
+          "domain": "frugalfun4boys.com",
+          "title": "STEM Challenge: One-Piece-of-Paper Paper Chain Contest"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 11,
+          "url": "https://www.twinkl.com/resource/stem-paper-chain-challenge-au-st-1696826620",
+          "domain": "www.twinkl.com",
+          "title": "STEM: Paper Chain Challenge"
+        }
+      ]
+    },
+    {
+      "family": "balloon-rocket",
+      "keyword": "balloon rocket activity",
+      "task_id": "09172236-2024-0139-0000-da35b056dbc9",
+      "endpoint": "serp/google/organic/live/advanced",
+      "status_code": 20000,
+      "cost_usd": 0.002,
+      "device": "desktop",
+      "os": "windows",
+      "requested_depth": 10,
+      "datetime": "2026-09-17 22:36:57 +00:00",
+      "check_url": "https://www.google.com/search?q=balloon%20rocket%20activity&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+      "item_types": [
+        "ai_overview",
+        "video",
+        "organic",
+        "images",
+        "people_also_ask",
+        "related_searches"
+      ],
+      "items_count": 12,
+      "organic_count": 7,
+      "completeness": "fewer-than-ten-organic-rows; incomplete organic sample",
+      "organic": [
+        {
+          "rank_group": 1,
+          "rank_absolute": 2,
+          "url": "https://sciencebob.com/make-a-balloon-rocket/",
+          "domain": "sciencebob.com",
+          "title": "MAKE A BALLOON ROCKET"
+        },
+        {
+          "rank_group": 2,
+          "rank_absolute": 5,
+          "url": "https://www.jpl.nasa.gov/edu/resources/lesson-plan/simple-rocket-science-continued/",
+          "domain": "www.jpl.nasa.gov",
+          "title": "Simple Rocket Science Continued – Math Lesson"
+        },
+        {
+          "rank_group": 3,
+          "rank_absolute": 7,
+          "url": "https://littlebinsforlittlehands.com/balloon-rocket/",
+          "domain": "littlebinsforlittlehands.com",
+          "title": "Make A Balloon Rocket"
+        },
+        {
+          "rank_group": 4,
+          "rank_absolute": 8,
+          "url": "https://www.scienceworld.ca/resource/balloon-rockets/",
+          "domain": "www.scienceworld.ca",
+          "title": "Balloon Rockets"
+        },
+        {
+          "rank_group": 5,
+          "rank_absolute": 9,
+          "url": "https://www.whatdowedoallday.com/balloon-rocket-experiment/",
+          "domain": "www.whatdowedoallday.com",
+          "title": "Balloon Rocket Race Science Experiment: Blast Off!"
+        },
+        {
+          "rank_group": 6,
+          "rank_absolute": 10,
+          "url": "https://coolscienceexperimentshq.com/balloon-rocket/",
+          "domain": "coolscienceexperimentshq.com",
+          "title": "A Balloon that Flies like a Rocket"
+        },
+        {
+          "rank_group": 7,
+          "rank_absolute": 11,
+          "url": "https://www.generationgenius.com/activities/newtons-laws-and-forces-activity-for-kids/",
+          "domain": "www.generationgenius.com",
+          "title": "Balloon Rocket DIY"
+        }
+      ]
+    }
+  ],
+  "completed": true
+}
