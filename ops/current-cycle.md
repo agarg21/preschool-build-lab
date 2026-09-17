@@ -40,9 +40,12 @@ learning ledger and persona log. Latest GSC remains September17 finalized
 throughSeptember15:228 impressions/five clicks, all retained clicks on ramp;
 queries/new-guide rows unavailable. Protected observation windows unchanged.
 All74 native tests and artifact/source/privacy/exact-scope checks pass.
-Independent cycle-two review PASS, both P3 records closed, no open P0-P3.
-Research is complete/review-clean awaiting exact-path commit/push; reviewer
-identity, base and complete scope are in operator review. No Pages deployment applies. No user
+Independent frozen-commit cycle-three review PASS, both P3 records closed,
+no open P0-P3. Released exact12-path research commit
+`27d97d303e35e1496d6ddee314b0bdd277ccb168` push-only to main; local/origin
+aligned0/0 and clean verified. Reviewer identity, base and complete frozen
+scope are in operator review. Subsequent four-path factual release metadata
+is mechanical closeout; no Pages deployment applies. No user
 testing needed to continue honest research-backed qualification.
 
 ### September 17 Afternoon Heartbeat - Observation Only

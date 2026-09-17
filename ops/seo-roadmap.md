@@ -17,8 +17,9 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
    qualification. Straw rocket, chain, foil boat conditional; spinner and
    balloon deferred. Zero new implementations promoted; all production,
    keyword ownership and observation windows preserved. All74 native tests
-   pass; independent cycle-two PASS, no open P0-P3. Research is review-clean
-   pending exact-path commit/push; no deployment.
+   pass; independent frozen-commit cycle-three PASS, no open P0-P3.
+   Released push-only at `27d97d3`; local/origin aligned and clean verified.
+   No deployment; subsequent release metadata is mechanical closeout.
 
 1. Completed `KAL-IMP-012`: one Paper Cup Tower guide after closing
    `KAL-IMP-011`. Exact20 paths in JSON. Five guide families now built,

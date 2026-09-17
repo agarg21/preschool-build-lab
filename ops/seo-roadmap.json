@@ -2843,7 +2843,9 @@
       "kind": "research",
       "status": "completed",
       "completed_on": "2026-09-17",
-      "release_state": "review-clean-awaiting-exact-path-commit-and-push",
+      "release_state": "push-only",
+      "release_commit": "27d97d303e35e1496d6ddee314b0bdd277ccb168",
+      "release_verification": "Reviewed exact12-path research commit pushed to main; local/origin0ahead0behind and clean checkout verified. No site/workflow changes or deployment. Subsequent factual release metadata is mechanical closeout only.",
       "selected_on": "2026-09-17",
       "frozen_base": "b5ae0e66415f38fc99b94fc758d2830c4720f4d9",
       "target_paths": ["seo/individual-activity-opportunities-2026-09-17.md", "data/individual-activity-opportunities-2026-09-17.csv", "data/individual-activity-serps-2026-09-17.json", "tools/collect-individual-activity-research-2026-09-17.mjs", "backlog/seo-research-review-backlog.md", "backlog/implementation-backlog.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md", "ops/current-cycle.md", "ops/operator-review.md"],
@@ -2861,7 +2863,7 @@
       "next_eligible_action": "KAL-RES-014-paper-helicopter-qualification-after-review-clean-research-release",
       "research_result": "Six families; twelve DataForSEO Ads rows, six incomplete controlled SERPs, sixteen inspected bodies (includes indexed Nebraska PDF with live404), four source-derived task lenses. Seven calls cost USD0.102 within USD5 authorization. Zero implementations promoted; helicopter qualification next, straw/chain/foil conditional, spinner/balloon deferred. No public paths or ownership changed.",
       "qa_summary": "Operator74 tests, whitespace, roadmap/retained JSON,12-rowCSV/null/market, collector syntax and paid-rerun guard, cost/taskIDs/completeness/order, exact12paths and privacy/protected production checks pass.",
-      "review": {"verdict": "PASS", "cycle": 2, "reviewer_agent_id": "01a0b186-e32c-7d90-a2b0-74ba09092b49", "reviewer_alias_source": "spawn tool: Peirce; no invented task title", "read_only": true, "base": "b5ae0e66415f38fc99b94fc758d2830c4720f4d9", "scope": "All twelve registered paths including four untracked artifacts and bottom Next Transaction correction", "findings": [{"severity": "P3", "description": "Balloon controlled-query table typo", "state": "closed-cycle-two"}, {"severity": "P3", "description": "Nebraska indexed-body versus live404 source availability", "state": "closed-cycle-two"}], "independent_qa": "73 non-generator tests; syntax, whitespace, JSON/CSV,scope,cost,public sources,privacy,protected diffs and in-memory collector guards pass; no paid calls or real writes"}
+      "review": {"verdict": "PASS", "cycle": 3, "reviewed_commit": "27d97d303e35e1496d6ddee314b0bdd277ccb168", "reviewer_agent_id": "01a0b186-e32c-7d90-a2b0-74ba09092b49", "reviewer_alias_source": "spawn tool: Peirce; no invented task title", "read_only": true, "base": "b5ae0e66415f38fc99b94fc758d2830c4720f4d9", "scope": "All twelve registered paths in complete frozen base-to-commit range; subsequent factual release metadata is mechanical closeout only", "findings": [{"severity": "P3", "description": "Balloon controlled-query table typo", "state": "closed-cycle-two"}, {"severity": "P3", "description": "Nebraska indexed-body versus live404 source availability", "state": "closed-cycle-two"}], "independent_qa": "73 non-generator tests; syntax, whitespace, JSON/CSV,scope,cost,public sources,privacy,protected diffs and in-memory collector guards pass; no paid calls or real writes"}
     },
     {
       "id": "KAL-RES-014",

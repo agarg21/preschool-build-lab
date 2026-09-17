@@ -23,8 +23,14 @@ checks; in-memory collector guard/failure/no-retry checks used no paid calls
 or real writes. Full74 tests remain operator evidence. Reviewed scope includes
 all twelve paths and the corrected bottom Next Transaction baton. Operator
 reran all74 tests, whitespace and roadmap JSON after corrections, PASS.
-Research is complete and review-clean; exact-path local commit and authorized
-push are next. Research/operator push-only; no deployment.
+Cycle-three frozen-commit verification returned `PASS` for complete range
+`b5ae0e66415f38fc99b94fc758d2830c4720f4d9..27d97d303e35e1496d6ddee314b0bdd277ccb168`,
+all12 paths, eight material files byte-identical to cycle two, four factual
+operator metadata mirrors,73 permitted tests, whitespace/JSON and protected
+diff checks. No open P0-P3. Released reviewed commit `27d97d3` push-only on
+main; local/origin0/0 and clean verified. No deployment. Reviewer explicitly
+distinguished subsequent factual release-SHA/alignment/cycle-three metadata
+in these four paths as mechanical closeout, not material research changes.
 
 ## KAL-IMP-012 - September 17
 
