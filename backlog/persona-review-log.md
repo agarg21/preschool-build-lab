@@ -16,7 +16,8 @@ control 1->2, direct stop/trust boundary 0->2, first start 1->2. This is not
 a complete guide score. Local 1280x900 and 390x844 text/overflow and Enter
 route checks pass; the existing header obscures the fragment heading and the
 long hub still imposes scan cost. Neither limitation is claimed corrected.
-Result: `IMPROVE`, independent cycle-one `PASS`, no P0-P3; release pending. Sources and limits:
+Result: `IMPROVE`, independent cycle-one `PASS`, no P0-P3; released `2cda0a7`
+with exact-SHA Pages and production verification. Sources and limits:
 `reviews/engineering-maze-boundary-correction-2026-09-17.md`.
 
 ## 2026-09-07 - Paper Bridge Current-Owner Task

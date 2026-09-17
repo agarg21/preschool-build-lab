@@ -27,7 +27,9 @@ is frozen in JSON. Native 68-test, 62-snapshot, generator/idempotence,
 68-HTML/696-link-fragment, module-only and sitemap checks pass. Desktop/mobile
 updated text and keyboard routes pass without overflow; the existing sticky
 header obscures the module heading at the fragment and is not claimed fixed.
-Independent review cycle-one `PASS` (Pauli, no P0-P3); release pending. Incoming `3f404a1` only adds the
+Independent review cycle-one `PASS` (Pauli, no P0-P3). Released `2cda0a7`
+through exact-SHA Pages `35245099209` / deployment `6507067502` with production
+byte-match and desktop/mobile text/route/overflow/log checks. Incoming `3f404a1` only adds the
 September 17 snapshot, validated through September 15: 228 impressions,
 five clicks, position 14.03, 10/10 indexed; ramp 159 impressions/five clicks.
 Do not infer query intent or family outcomes. User requests evidence-qualified

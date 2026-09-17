@@ -8,7 +8,9 @@ Last updated: 2026-09-17
 agree with the released guide's foam-ball default, adult control, three-wall
 start, and direct stops. It removes an unsupported swallow-size assurance;
 no safety outcome or new guide is claimed. Native and local browser QA pass;
-independent cycle-one review `PASS`, no P0-P3; release pending. The pre-existing sticky-header
+independent cycle-one review `PASS`, no P0-P3; released at `2cda0a7`, Pages
+`35245099209` / deployment `6507067502`, production byte-match and desktop/mobile
+checks pass. The pre-existing sticky-header
 fragment limitation remains explicitly recorded. Latest GSC is September 17
 through September 15: 228 impressions and five clicks; ramp owns 159
 impressions and all five clicks. Complete queries and newer-guide rows are

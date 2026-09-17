@@ -68,4 +68,9 @@ status and reviewed all thirteen paths against the registered base. Independent
 67 nonmutating tests, 62 snapshots, links/fragments, module-only/sitemap,
 source/privacy, syntax/JSON/XML and whitespace checks pass. The reviewer
 excluded the generator-invoking stability test; browser/idempotence remain
-operator evidence. Release remains pending exact-SHA Pages verification.
+operator evidence. Released commit `2cda0a72b7f92588f97b6becce386b6e7a70dac0`
+through successful exact-SHA Pages run `35245099209`, deployment `6507067502`.
+Production HTML and sitemap return 200 and byte-match that commit. Desktop
+and mobile text, chooser Enter route, canonical/H1, no overflow and clean logs
+pass. No release-marker file exists; native deployment SHA and byte-match
+provide release evidence without inventing a marker. Local/origin aligned.

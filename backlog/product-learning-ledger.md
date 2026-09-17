@@ -17,7 +17,8 @@ experience separate. A persona task is a proxy evaluation, not user testing.
 - Result: `IMPROVE`; focused materials/adult/stops/start criteria become
   direct in local desktop/mobile review. Broad hub scan cost and sticky-header
   fragment limitation remain. Confidence high for text agreement, unknown
-  for family outcomes. Independent cycle-one `PASS`, no P0-P3; release pending.
+  for family outcomes. Independent cycle-one `PASS`, no P0-P3; released
+  `2cda0a7`, exact-SHA Pages/production checks pass.
 - Reusable lesson: changing a default in a guide can leave upstream hub
   instructions stale; inspect linked variants, not just the new owner.
 - Next falsification trigger: a linked surface contradicts the default or

@@ -10,7 +10,8 @@ safety assurance, human testing, or indexing request is authorized. Reviewer
 Pauli (`01a0b021-8827-72f3-b9c3-609caa5d2c5d`) independently verified 67
 nonmutating tests, 62 snapshots, scope/source/privacy, links/fragments,
 syntax/JSON/XML and whitespace. Browser/idempotence are operator evidence.
-Exact-SHA release verification remains pending.
+Exact-SHA release verified at `2cda0a7`, Pages `35245099209`, deployment
+`6507067502`; production byte-match and desktop/mobile checks pass.
 
 ## Workflow
 

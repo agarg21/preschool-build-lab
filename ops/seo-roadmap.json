@@ -2732,8 +2732,8 @@
       "learning_value": 4,
       "effort": 2,
       "risk": 2,
-      "status": "active",
-      "selected_on": "2026-09-17",
+    "status": "completed",
+    "selected_on": "2026-09-17",
       "frozen_base": "6a203f97323a37b01f217b668b7cefff136d941c",
       "allowed_during_observation": true,
       "requires_fresh_gsc": false,
@@ -2773,14 +2773,18 @@
       "production_invariants": "No new URL, asset, card, guide, broad navigation, keyword/data, workflow, external account, indexing request, tested status, or outcome claim. Exactly one existing engineering module and its sitemap date may change publicly.",
       "observation_window": "This verified trust inconsistency is the bounded exception for the engineering module. Preserve ramp through September 18, preschool STEM through September 20, and released guides until changed evidence.",
       "reconsider_conditions": "Stop or reconsider if other modules drift, large-ball guidance gains an unsupported assurance, review finds P0-P2, remote diverges, generator scope fails, or production does not match the reviewed correction.",
-    "implementation_state": "review-clean-awaiting-release",
+    "implementation_state": "released-and-production-verified",
     "qa_summary": "All68 native tests,62 snapshots,68 HTML/696 local links/fragments, module-only HTML, one sitemap date, byte-stable generators, roadmap JSON, whitespace and desktop/mobile text/keyboard/overflow checks pass. Existing fragment heading occlusion is recorded, not claimed fixed.",
     "review_outcome": "PASS",
     "review_cycles": 1,
     "reviewer": {"name": "Pauli", "thread_id": "01a0b021-8827-72f3-b9c3-609caa5d2c5d", "read_only": true},
     "review_findings": "No P0-P3. Full13-path diff reviewed against6a203f9, incoming3f404a1 snapshot-only verified. Reviewer independently ran67 nonmutating tests,62 snapshot,68 HTML/696 link-fragment, scope/source/privacy/JSON/XML/syntax/whitespace checks; excluded generator-invoking stability test. Browser/idempotence are operator evidence.",
-    "release_state": "not-applicable",
-    "next_eligible_action": "verify-this-release-before-separate-next-guide-qualification"
+    "release_state": "released-and-production-verified",
+    "release_commit": "2cda0a72b7f92588f97b6becce386b6e7a70dac0",
+    "pages_run_id": "35245099209",
+    "deployment_id": "6507067502",
+    "production_verification": "Exact-SHA Pages success. Engineering HTML and sitemap return200 and byte-match reviewed commit. Production desktop/mobile chooser Enter route, corrected text, canonical/H1, no horizontal overflow and clean warning/error logs verified. No marker exists in this workflow; native exact-SHA deployment and byte-match are release evidence, not an invented marker.",
+    "next_eligible_action": "separately-register-one-qualified-Cup-Tower-guide"
     }
   ]
 }

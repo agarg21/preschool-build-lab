@@ -10,11 +10,9 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-0. Finish registered `KAL-IMP-011` trust correction before another overlapping
-   transaction. Exact thirteen paths, gates, QA, and invariants are in JSON.
-   Only the engineering maze module and its sitemap date may change publicly.
-   Native/local browser QA passes; independent cycle-one `PASS`, no P0-P3;
-   release pending.
+0. `KAL-IMP-011` is completed at `2cda0a7`, independent cycle-one `PASS`,
+   no P0-P3; native QA and exact-SHA Pages/production checks pass. Only the
+   engineering maze module and its sitemap date changed publicly.
    Newer snapshot-only commit `3f404a1` was inspected and fast-forwarded.
 
 1. `KAL-LEARN-004` completed the maintained Cup Tower source/ownership audit.
