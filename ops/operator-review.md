@@ -1,5 +1,23 @@
 # Operator Review
 
+## KAL-IMP-012 - September 17
+
+Independent read-only review PASS against clean base `1dc5035` for all20
+registered paths, including research pack, guide/card/visual/source generators
+and metadata. Proxy task4/24->provisional23/24; no family test, safety assurance
+or traffic prediction. Read-only candidate researcher Harvey is supporting
+evidence, not the frozen-diff release reviewer. Native74-test/62-snapshot,
+69-HTML/704-link-fragment, scope/parsing/idempotence/whitespace and local
+desktop/mobile QA passes, including six fragments in each viewport and the
+library-to-card-to-guide keyboard route.
+
+Reviewer Pauli (`01a0b021-8827-72f3-b9c3-609caa5d2c5d`) returned cycle-one
+`PASS` with no P0-P3. Independently reproduced 73 non-generator tests,
+62 snapshots, 69 HTML/704 links-fragments, exact scope, protected hashes,
+source/visual, AST/template, parsing, privacy and arithmetic checks. Full
+74-test, generator idempotence and CUA evidence remain operator-supplied.
+Read-only throughout; production release gate pending.
+
 ## KAL-IMP-011 - September 17
 
 Cycle-one independent read-only `PASS`, no P0-P3, for the full thirteen-path diff against

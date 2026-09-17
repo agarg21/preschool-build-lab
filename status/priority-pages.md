@@ -2,6 +2,19 @@
 
 Last updated: 2026-09-17
 
+## September 17 Individual-Guide Expansion
+
+Research inventory: eight distinct families including ramp, four already
+built, one additional qualified Cup Tower candidate and three deferred. No
+count of pages predicted to match ramp traffic is supported. `KAL-IMP-012`
+implements one `/articles/paper-cup-tower-kids.html` parent-running owner,
+distinct from Cup Doorway, with source reconciliation and a local4->23/24
+proxy task. Current inherited minute/low-mess labels are removed from only
+its compact card and library entry. All hubs and previous guides unchanged.
+Native and local desktop/mobile QA passes; independent review PASS, release
+pending. Desktop/mobile fragment and library/card keyboard routes pass. New-guide
+search evidence and every family outcome remain unknown.
+
 ## September 17 Trust-Correction Overlay
 
 `KAL-IMP-011` corrects only the stale maze module in the engineering hub to
@@ -18,8 +31,8 @@ unavailable. Historical table baselines below retain their labeled dates.
 
 Sources:
 
-- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-15.md`
-- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-14.md`
+- Current public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-17.md`
+- Prior public-safe GSC snapshot: `ops/gsc-snapshots/2026-09-16.md`
 - Current machine-readable roadmap and release evidence:
   `ops/seo-roadmap.json`
 - Current human-readable roadmap: `ops/seo-roadmap.md`
@@ -455,7 +468,7 @@ safety outcomes, and search effects remain `UNKNOWN`.
 
 | Surface | Current state | Next check |
 |---|---|---|
-| Production | Live on `https://kidactivitylab.com`; latest material content release is `KAL-IMP-010` at `ab0be4b32ad5be99aff9f9b7b73af4f280089c4f` through successful exact-SHA Pages run `35002462713` and deployment `6464778675`. | Observe the new Painter's Tape Road guide until a post-release crawl or changed finalized page/query evidence; protect other active observation windows except a verified P0-P2 regression. |
+| Production | Live on `https://kidactivitylab.com`; latest material release is the `KAL-IMP-011` trust correction at `2cda0a72b7f92588f97b6becce386b6e7a70dac0`, exact-SHA Pages `35245099209`, deployment `6507067502`. `KAL-IMP-012` is not yet released. | Finish the independently reviewed Cup Tower release gate; preserve all other observation windows. |
 | Sitemap | Success in GSC; 61 discovered pages; current generated sitemap has 63 canonical content URLs. Last GSC sitemap read remains 2026-07-05. | Treat a refreshed sitemap read or verified technical defect as new evidence; do not request indexing from cadence alone. |
 | Priority inspection | 10 of 10 configured URLs indexed; 0 unknown; 0 not indexed. | Expand or change the inspection cohort only in a separately registered monitoring or architecture action. |
 | Search performance | 231 impressions, 4 clicks, 1.73% CTR, average position 14.84 for the 28 days through 2026-09-13. | Treat the movement as discovery context, not proof of page-format causality. Use aligned page/query evidence or a demonstrated parent-task failure to select ranking work. |
@@ -463,7 +476,7 @@ safety outcomes, and search effects remain `UNKNOWN`.
 
 ## Acquisition Pages
 
-| Page | Full URL | Directional demand | Current public-safe GSC signal | Role and release state | Review coverage | Remaining / blocker | Next eligible action |
+| Page | Full URL | Directional demand | Historical public-safe GSC baseline (latest dated overlays above) | Role and release state | Review coverage | Remaining / blocker | Next eligible action |
 |---|---|---|---|---|---|---|---|
 | Homepage | https://kidactivitylab.com/ | No single query owner | 6 impressions; position 4.5; indexed; crawled 2026-08-25 | Site promise and route hub. Current production includes the reviewed `KAL-IMP-005` route changes. | Action-scoped navigation and homepage changes reviewed under `KAL-SEO-001`, `KAL-IMP-002`, and `KAL-IMP-005`; no claim of a complete standalone homepage research cycle. | Sparse page signal and no complete query rows. | Keep as the router; change only when a registered cluster or navigation action requires it. |
 | Cardboard ramp guide | https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html | `cardboard ramp`: 210; broad and ambiguous. `how to make a ramp with cardboard`: 50. Refreshed 2026-07-28. | 1 click; 166 impressions; 0.6% CTR; position 13.01; indexed; recrawled 2026-09-05 after the current release | Build-and-troubleshoot owner. `KAL-IMP-006` is live and production-verified at `5d2c4d5` / run `33901993003`. | Current research, source-derived personas, every-section audit, claims, native/browser QA, and independent implementation review are complete under `KAL-RES-001`, `KAL-IMP-001`, `KAL-LEARN-001`, and `KAL-IMP-006`; final `PASS_WITH_P3` with no P0-P2. | Complete query rows and all family outcomes remain unavailable. The performance window ends before `KAL-IMP-006`, so the post-release crawl has no aligned performance evidence yet. | Protect the first-start through 2026-09-18 except verified P0-P2; observe the next finalized page/query window without assigning causality. |

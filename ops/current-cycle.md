@@ -18,6 +18,21 @@ and release verification.
 
 ## Active Priority
 
+### September 17 - KAL-IMP-012 Paper Cup Tower Guide
+
+User requests more evidence-qualified individual guides. Registered one
+twenty-path transaction at clean aligned `1dc5035`; previous trust correction
+is completed. Current sources supply an explicit two-cup default distinct
+from Cup Doorway; imported September13 query estimate20 is not a forecast.
+Local caregiver proxy task4->23/24; readiness/materials/adult/firstchild/stop
+before image at desktop/mobile. Native QA passes74 tests/62 snapshots,
+69HTML/704 local links/fragments and stable generators; desktop/mobile
+fragments and discovery keyboard routes pass. Independent review PASS, no P0-P3,
+by Pauli (`01a0b021-8827-72f3-b9c3-609caa5d2c5d`); release pending.
+No hub, doorway, prior guide, style or workflow edits permitted. Research
+inventory is eight families including ramp: four built, one current candidate,
+three deferred. Next step is this guide's release gate, then observe.
+
 ### September 17 - KAL-IMP-011 Trust Correction
 
 The unfinished Cup Tower route review exposed a stale engineering maze

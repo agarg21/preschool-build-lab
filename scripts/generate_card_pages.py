@@ -70,6 +70,10 @@ ROUTE_PRIORITY = [
 ROUTE_RANK = {path: index for index, path in enumerate(ROUTE_PRIORITY)}
 MAX_RELATED_ROUTES = 3
 GUIDE_ROUTES = {
+    "cup-tower": {
+        "path": "articles/paper-cup-tower-kids.html",
+        "label": "Full Paper Cup Tower guide",
+    },
     "ball-maze-box": {
         "path": "articles/cardboard-ball-maze-kids.html",
         "label": "Full Cardboard Ball Maze guide",
@@ -88,6 +92,21 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "cup-tower": {
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "materials": "2 matching lightweight paper cups and 1 optional spare",
+        "kicker": "Open-ended | Adult-guided",
+        "description": "Cup Tower activity card: put one cup upside down, balance a second cup bottom-to-bottom, then reset. Research-backed, not family-tested by Kid Activity Lab.",
+        "steps": [
+            "Adult puts one cup upside down.",
+            "Set another bottom-to-bottom on it.",
+            "Take the top cup off gently.",
+            "Rebuild or try one change.",
+        ],
+        "parent": "Stay beside the child. Choose intact lightweight cups for everyone who can reach them. Stop after mouthing, throwing, damage, climbing or unwanted collapse. Research-backed, not family-tested; open the guide for fit, rescue and cleanup.",
+        "best_for": "trying a small build and noticing what changes",
+    },
     "ball-maze-box": {
         "time": "Open-ended",
         "materials": "shallow box lid, chunky blocks, large lightweight ball",
@@ -287,6 +306,8 @@ def quick_page(slug):
         f"{activity['title']} activity card for kids age {activity['ages']}: "
         f"{description_steps}."
     )
+    description = activity.get("description", description)
+    kicker = activity.get("kicker", f"{activity['time']} · age {activity['ages']}")
     routes = related_routes_html(slug)
     return f'''<!doctype html>
 <html lang="en">
@@ -312,7 +333,7 @@ def quick_page(slug):
 
     <main class="card-shell">
       <article class="kid-card">
-        <p class="kicker">{esc(activity['time'])} · age {esc(activity['ages'])}</p>
+        <p class="kicker">{esc(kicker)}</p>
         <h1>{esc(activity['title'])}</h1>
 
         <div class="card-meta" aria-label="Activity details">
@@ -407,7 +428,7 @@ def main():
     for source_id in CARD_ROWS:
         row = rows[source_id]
         slug = SLUGS[source_id]
-        (OUT / f"{slug}.html").write_text(page(row, slug))
+        (OUT / f"{slug}.html").write_text(quick_page(slug) if slug == "cup-tower" else page(row, slug))
     for slug in QUICK_CARD_SLUGS:
         (OUT / f"{slug}.html").write_text(quick_page(slug))
     (ROOT / "site" / "cards.html").write_text(cards_index())

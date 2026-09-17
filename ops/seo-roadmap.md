@@ -10,14 +10,22 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
+1. Registered `KAL-IMP-012`: implement exactly one Paper Cup Tower guide
+   after closing `KAL-IMP-011`. Exact20 paths in JSON. Four guide families
+   already built, one additional source/intent-qualified Cup Tower candidate,
+   three deferred; this is not a traffic-equivalence forecast. Local proxy
+   task4->23/24; native/local QA passes; independent review PASS, release pending. All hubs,
+   doorway modules, existing guides/styles and observation windows preserved.
+
 0. `KAL-IMP-011` is completed at `2cda0a7`, independent cycle-one `PASS`,
    no P0-P3; native QA and exact-SHA Pages/production checks pass. Only the
    engineering maze module and its sitemap date changed publicly.
    Newer snapshot-only commit `3f404a1` was inspected and fast-forwarded.
 
-1. `KAL-LEARN-004` completed the maintained Cup Tower source/ownership audit.
-   No new guide or implementation is selected. A separately registered
-   ownership and desktop/mobile task baseline is the next research step.
+1. `KAL-LEARN-004` completed the maintained Cup Tower source/ownership audit
+   without selecting a guide at that time. `KAL-IMP-012` now resolves the
+   separate stack/rebuild job with a current source and desktop/mobile baseline;
+   it does not consolidate measured height or the unresolved doorway geometry.
    Observe released `KAL-IMP-010` until a post-release crawl or finalized
    page/query change; Tape City remains a variation of that guide.
 2. Observe released `KAL-IMP-009` until a post-release crawl or finalized

@@ -4,6 +4,28 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-17 - KAL-IMP-012
+
+- Family decision/task: start cup-only tower play without interpreting nesting,
+  height competition or doorway instructions; recover from collapse while
+  an adult controls younger-child reach.
+- Hypothesis: one explicit small-set guide reduces missing planning outputs
+  while keeping hubs unchanged and the card compact.
+- Source/evidence: September17 current DiscoverE/Education.com/GrowingUpNYC
+  (`SOURCE_BACKED` within distinct procedures), September13 Semrush20 imported
+  `TOOL_ESTIMATE`, live card geometry/GSC (`MEASURED`), source-derived
+  persona (`RESEARCH_HYPOTHESIS`), reduced workflow/proxy scores (`EDITORIAL_JUDGMENT`).
+- Result: compact-card task4/24, guide23/24 on local desktop/mobile.
+  `IMPROVE` -> `PRESERVE`; independent review PASS, release pending.
+  Confidence high for missing website outputs, medium for intent, unknown
+  for traffic equivalence, physical cup performance and family outcomes.
+- Lesson: a new source can establish an executable default without merging
+  different jobs that happen to use cups. Simplicity means one default plus
+  recovery, not unexplained four-word steps.
+- Trigger/boundary: reconsider on source conflict, clutter, guide/card drift
+  or aligned queries favoring an existing owner. Observe crawl and finalized
+  guide evidence after release; no ramp-level traffic or real-use claim.
+
 ## 2026-09-17 - KAL-IMP-011
 
 - Family decision/task: follow the engineering maze route and identify the

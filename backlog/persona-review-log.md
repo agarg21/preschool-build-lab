@@ -6,6 +6,18 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-17 - Cup-Only Tower Parent Task
+
+Action: `KAL-IMP-012`; source-derived proxy, not family testing. Decide fit,
+start two matching cups, distinguish nesting, recover from collapse, reset,
+change one thing and clean up with younger-child reach as a stress constraint.
+The existing card scores4/24; the local guide scores23/24 across12
+applicable dimensions, with sensory/accessibility N/A and unmeasured duration
+limiting the setup/duration score. Every-section audit, source boundaries and
+desktop/mobile geometry are in the implementation review. `IMPROVE` ->
+`PRESERVE`, independent review PASS, release pending. No parent/child
+comprehension, learning, enjoyment, safety or timing outcome is inferred.
+
 ## 2026-09-17 - Engineering Maze Agreement Task
 
 Action: `KAL-IMP-011`; proxy review, not human testing. A caregiver following

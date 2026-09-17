@@ -2785,6 +2785,51 @@
     "deployment_id": "6507067502",
     "production_verification": "Exact-SHA Pages success. Engineering HTML and sitemap return200 and byte-match reviewed commit. Production desktop/mobile chooser Enter route, corrected text, canonical/H1, no horizontal overflow and clean warning/error logs verified. No marker exists in this workflow; native exact-SHA deployment and byte-match are release evidence, not an invented marker.",
     "next_eligible_action": "separately-register-one-qualified-Cup-Tower-guide"
+    },
+    {
+      "id": "KAL-IMP-012",
+      "title": "Build one parent-first paper cup tower guide",
+      "kind": "dedicated-activity-guide",
+      "status": "active",
+      "selected_on": "2026-09-17",
+      "frozen_base": "1dc5035dac667a62ae7ad2ce7e42de5c1b98d0ab",
+      "evidence_date": "2026-09-17",
+      "evidence_classification": "September13 Semrush exact query20 US monthly searches is imported TOOL_ESTIMATE, KD unavailable. September17 public sources are SOURCE_BACKED within their distinct procedures. Current incomplete public result sample and personas are RESEARCH_HYPOTHESIS; proxy scoring and reduced cups-only start are EDITORIAL_JUDGMENT. GSC/repository/browser evidence is MEASURED within scope. Query intent, rankings, cup performance and all family outcomes remain UNKNOWN.",
+      "target_urls": ["https://kidactivitylab.com/articles/paper-cup-tower-kids.html"],
+      "target_paths": [
+        "scripts/generate_seo_pages.py", "scripts/generate_card_pages.py", "scripts/generate_sitemap.py",
+        "site/articles/paper-cup-tower-kids.html", "site/cards/cup-tower.html", "site/cards.html",
+        "site/assets/cup-tower/paper-cup-start.webp", "data/seo_keyword_targets.csv", "site/sitemap.xml",
+        "tools/paper-cup-tower-guide.test.mjs", "tools/site-architecture.test.mjs",
+        "seo/paper-cup-tower-guide-decision-pack-2026-09-17.md",
+        "reviews/paper-cup-tower-guide-implementation-review-2026-09-17.md",
+        "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md",
+        "ops/seo-roadmap.json", "ops/seo-roadmap.md", "ops/current-cycle.md", "ops/operator-review.md"
+      ],
+      "user_problem": "Existing compact Cup Tower card has ambiguous stacking and nesting instructions, an unsupported exact minute and low-mess label, and no readiness, adult demonstration, stops, reset, cleanup, material fit or explicit evidence boundary; broad related pages own a different doorway job.",
+      "persona_task": "Caregiver decides fit and starts cup-only play for a readiness-qualified child without another broad search; secondary constraints are nested cups, collapse, younger-child reach and no ruler, recording, competition, toy car or kit. Start-now, rescue, comparison and mobile lenses are source-derived proxies, not human testing.",
+      "hypothesis": "A single guide with an explicit two-cup demonstration, intact uniform lightweight paper cups, one optional spare, rebuild/one-change loop and direct stops reduces missing planning outputs without clutter or competing with Cup Doorway.",
+      "baseline": "September17 finalized throughSeptember15:228 impressions5 clicksallramp159 impressions; CupTower row unavailable and queries omitted. Live card at1280x900 is1312px tall,parentchecky938; at390x844 is1812px tall,parentchecky1310,relatedy1526. Four vague steps and lightweightcupnote; complete baseline score must be recorded before comparison.",
+      "human_gate": "Not required for explicitly untested research-backed non-product synthesis. No universal safety, medical, developmental, educational outcome, family use, duration or engagement claim authorized.",
+      "acceptance_criteria": [
+        "Exactly one new canonical indexable guide; card remains compact and routes to it; no hub, doorway or existing guide changes",
+        "First viewport at1280x900 and390x844 shows interest hook, readiness, cups, adult inverted/upright demonstration, first child action and stop before illustration",
+        "Explain nesting versus balancing, adult-selected uniform intact lightweight cups, one-change/reset and collapse rescues, supported placement, mixed-age reach, cleanup and unknown outcomes without promises",
+        "Use current DiscoverE/Education.com/GrowingUpNYC sources within stated limits and label reduced noncompetitive procedure editorial and not family-tested; exclude unavailable FIRST",
+        "Reach at least22of24 on frozen complete caregiver-task rubric without automatic failures; every section has one parent job",
+        "Green native QA, generator idempotence/output scope, full links/fragments, JSON/CSV/XML/source/privacy and desktop/mobile keyboard/anchor/image/console checks; independent PASS or PASS_WITH_P3",
+        "Exact reviewed-path commit and push; exact-SHA Pages success and production byte-match/persona invariants before completion"
+      ],
+      "qa_plan": "git diff --check; jq empty ops/seo-roadmap.json; node --test tools/*.test.mjs; three generators and byte-stable rerun; all local links/fragments; changed CSV and JSON parsing; source/claim/privacy/scope checks; desktop1280x900 mobile390x844 every-section/image/text-fit/keyboard/anchors/console and card-to-guide QA; different read-only reviewer.",
+      "measurement_plan": "Freeze card baseline and compare implemented proxy task, not family outcomes. Search experiment has no guide baseline: wait for post-release crawl/finalized page/query evidence; do not forecast ramp-level traction or attribute aggregate movement.",
+      "production_invariants": "One guide and one labeled illustrative bitmap, compactCupcard/card-library entry, keyword register and sitemap only may change publicly. No hubs, doorway modules, existing guides, styles, workflow, account, tracker, indexing request, product/affiliate or tested status change.",
+      "observation_window": "Protect ramp throughSeptember18, preschoolSTEM throughSeptember20 and all released guides until changed evidence; no hub changes.",
+      "reconsider_conditions": "Stop/reconsider on source conflict, impossible-to-explain cup geometry, first-screen clutter, unsupported assurance, guide-card divergence, unintended generated output, remote divergence, P0-P2 or failed production invariant.",
+      "implementation_state": "review-clean-awaiting-release",
+      "qa_summary": "74 tests,62 snapshots,69 HTML/704 local links-fragments, exact20-path/5-public-path scope,20-rowCSV/schema/JSON/XML, whitespace, three byte-stable generators. Local desktop/mobile first-start stops beforeimage, image agreement,11-link keyboard,6 sticky fragments in eachviewport, library-to-card-to-guide Enter route, zerooverflow/cleanlogs. All protected owners/styles unchanged.",
+      "proxy_task_result": "IMPROVE 4of24 baseline to provisional PRESERVE23of24; unmeasuredduration retains onepointgap; not real family evidence.",
+      "release_state": "not-applicable",
+      "next_eligible_action": "independent-review-and-release-this-guide-then-observe"
     }
   ]
 }
