@@ -11,6 +11,7 @@ LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"
 CONTENT_LASTMODS = {
     "articles/cardboard-ball-maze-kids.html": "2026-09-14",
     "articles/painter-tape-road-kids.html": "2026-09-15",
+    "collections/engineering-activities-for-4-year-olds.html": "2026-09-17",
     "collections/indoor-activities-for-preschoolers.html": "2026-08-05",
 }
 

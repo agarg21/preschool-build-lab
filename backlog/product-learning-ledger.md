@@ -4,6 +4,27 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-17 - KAL-IMP-011
+
+- Family decision/task: follow the engineering maze route and identify the
+  same ball, adult control, first start, and stops as the released guide;
+  stress-test a younger child's access to loose pieces.
+- Hypothesis: a module-only correction removes conflicting guidance and an
+  unsupported swallow-size assurance without a hub redesign.
+- Source/evidence: live engineering DOM versus the released KAL maze guide
+  and card, inspected September 17 (`MEASURED` agreement, reviewed
+  `EDITORIAL_JUDGMENT` boundaries, `RESEARCH_HYPOTHESIS` persona).
+- Result: `IMPROVE`; focused materials/adult/stops/start criteria become
+  direct in local desktop/mobile review. Broad hub scan cost and sticky-header
+  fragment limitation remain. Confidence high for text agreement, unknown
+  for family outcomes. Independent cycle-one `PASS`, no P0-P3; release pending.
+- Reusable lesson: changing a default in a guide can leave upstream hub
+  instructions stale; inspect linked variants, not just the new owner.
+- Next falsification trigger: a linked surface contradicts the default or
+  review identifies a scope, factual, or trust regression.
+- Measurement boundary: website task and maintained-source agreement only;
+  not real parent/child testing or search causality.
+
 ## 2026-09-07 - KAL-LEARN-003
 
 - **Family decision:** Can a caregiver decide whether Paper Bridge fits this

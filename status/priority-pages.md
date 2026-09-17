@@ -1,6 +1,18 @@
 # Priority Page Status
 
-Last updated: 2026-09-16
+Last updated: 2026-09-17
+
+## September 17 Trust-Correction Overlay
+
+`KAL-IMP-011` corrects only the stale maze module in the engineering hub to
+agree with the released guide's foam-ball default, adult control, three-wall
+start, and direct stops. It removes an unsupported swallow-size assurance;
+no safety outcome or new guide is claimed. Native and local browser QA pass;
+independent cycle-one review `PASS`, no P0-P3; release pending. The pre-existing sticky-header
+fragment limitation remains explicitly recorded. Latest GSC is September 17
+through September 15: 228 impressions and five clicks; ramp owns 159
+impressions and all five clicks. Complete queries and newer-guide rows are
+unavailable. Historical table baselines below retain their labeled dates.
 
 Sources:
 

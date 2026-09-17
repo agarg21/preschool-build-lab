@@ -18,6 +18,21 @@ and release verification.
 
 ## Active Priority
 
+### September 17 - KAL-IMP-011 Trust Correction
+
+The unfinished Cup Tower route review exposed a stale engineering maze
+default and unsupported swallow-size assurance. Finish the registered
+module-only correction before new candidate work. Exact thirteen-path scope
+is frozen in JSON. Native 68-test, 62-snapshot, generator/idempotence,
+68-HTML/696-link-fragment, module-only and sitemap checks pass. Desktop/mobile
+updated text and keyboard routes pass without overflow; the existing sticky
+header obscures the module heading at the fragment and is not claimed fixed.
+Independent review cycle-one `PASS` (Pauli, no P0-P3); release pending. Incoming `3f404a1` only adds the
+September 17 snapshot, validated through September 15: 228 impressions,
+five clicks, position 14.03, 10/10 indexed; ramp 159 impressions/five clicks.
+Do not infer query intent or family outcomes. User requests evidence-qualified
+individual-guide expansion next, not a traffic forecast or batch quota.
+
 ### September 16 Afternoon Observation
 
 Decision: monitoring-only no-op; today's source-dated learning unit is already

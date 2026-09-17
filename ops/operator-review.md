@@ -1,5 +1,17 @@
 # Operator Review
 
+## KAL-IMP-011 - September 17
+
+Cycle-one independent read-only `PASS`, no P0-P3, for the full thirteen-path diff against
+registered base `6a203f97323a37b01f217b668b7cefff136d941c`. Snapshot-only
+`3f404a1` was fast-forwarded and changes no reviewed path. Operator native
+and desktop/mobile QA is recorded in the action review file. No new guide,
+safety assurance, human testing, or indexing request is authorized. Reviewer
+Pauli (`01a0b021-8827-72f3-b9c3-609caa5d2c5d`) independently verified 67
+nonmutating tests, 62 snapshots, scope/source/privacy, links/fragments,
+syntax/JSON/XML and whitespace. Browser/idempotence are operator evidence.
+Exact-SHA release verification remains pending.
+
 ## Workflow
 
 1. The Master / Operator registers one action and exact paths before material

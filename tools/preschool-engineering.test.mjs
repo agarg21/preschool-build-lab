@@ -19,6 +19,19 @@ const IMAGE_PATH = path.join(
 );
 const html = fs.readFileSync(PAGE_PATH, "utf8");
 
+test("engineering maze keeps the released large-ball and adult-control boundary", () => {
+  const module = html.match(/<article[^>]*id="ball-maze-box"[\s\S]*?<\/article>/)?.[0];
+  assert.ok(module, "maze module exists");
+  assert.match(module, /three chunky blocks, one large lightweight foam ball/);
+  assert.match(module, /The adult controls when the ball enters and leaves the lid/);
+  assert.match(module, /Ask the adult to place the ball/);
+  assert.match(module, /adult to remove the ball/);
+  assert.match(module, /ball or a block goes in a mouth/);
+  assert.match(module, /any material is damaged/);
+  assert.match(module, /not a safety assurance/);
+  assert.doesNotMatch(module, /ping-pong|too large to swallow/);
+});
+
 const challengeSlugs = [
   "paper-bridge",
   "straw-bridge",
