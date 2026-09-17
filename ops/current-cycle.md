@@ -18,6 +18,35 @@ and release verification.
 
 ## Active Priority
 
+### September 17 Afternoon Heartbeat - Observation Only
+
+At the 17:02 UTC scheduled invocation, baseline `b00183f` was clean and
+aligned with `origin/main`; fetch found no incoming commits or newer GSC
+snapshot. Decision: monitoring-only no-op. Today's source-dated learning and
+independent validation are already complete under `KAL-IMP-011` and
+`KAL-IMP-012`; do not count this repeated check as another learning unit.
+
+Latest evidence remains September 17, finalized through September 15:
+228 impressions, five clicks, position14.03, priority indexing10/10. Prior
+September16 throughSeptember14 has225 impressions/four clicks/position14.74;
+ramp163->159 impressions, four->five clicks, position11.67->11.62. This
+comparison was already assessed today, not newly changed evidence in this run.
+Complete queries and Cup Tower guide rows are unavailable, not zero. The
+window precedes the Cup Tower release and cannot measure its effect.
+
+Preserve the reviewed Cup Tower release `dc4f075`, Pages35246618467,
+deployment6507334370, and all protected observation windows. Fresh exact-SHA
+release, public byte-match and desktop/mobile task evidence are retained from
+the completed transaction; no repeat deployment/public QA is warranted.
+All62 snapshots validate; whitespace, roadmap JSON and all74 native tests
+pass. This run changes only `ops/current-cycle.md`, a mechanical status record;
+independent review is not applicable because no material strategy, research,
+data, code, content or configuration is changed. Documentation-only push,
+no deployment. No blockers or user action. Next evidence-eligible step:
+observe post-release crawl/finalized page-query evidence; further individual
+guide candidates require separately registered research qualification.
+Weekly learning synthesis was completed September13; next due September20.
+
 ### September 17 - KAL-IMP-012 Paper Cup Tower Guide
 
 User requests more evidence-qualified individual guides. Registered one
