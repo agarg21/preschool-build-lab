@@ -37,8 +37,9 @@ video archive4->3/26.25->2.67, all zero clicks. Remaining page rows unchanged.
 Adjacent overlapping windows are not daily increments or evidence of causality.
 
 Priority inspection is byte-equivalent to prior:10/10 indexed, no new crawl
-timestamps. Ramp's latest reported crawl remains September5, before its
-September6 revision; do not attribute the click movement to that release.
+timestamps. Ramp's latest reported crawl remains September5, after its
+September4 revision (`5d2c4d5`); chronology alone cannot attribute the click
+movement to that release.
 Complete query rows and newer-guide article rows remain unavailable, not zero.
 GSC sitemap metadata still reports61 discovered URLs and July5 last read;
 current public sitemap separately contains64 URLs. These are different
