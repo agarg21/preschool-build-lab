@@ -18,9 +18,10 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
    original geometry, parent/browser/native QA and independent review before
    publication; no sibling URLs or ranking forecast. No new API spend, GSC
    snapshot or production change. All74 native tests,62snapshots and scope/
-   source/privacy checks pass; independent cycle-two full-diff PASS, no P0-P3.
-   Documentation-only release pending; later factual SHA/alignment metadata
-   is mechanical closeout only.
+   source/privacy checks pass; independent cycle-three frozen-commit PASS,
+   no P0-P3. Released reviewed9-path `46a7747` push-only to main, local/origin
+   aligned and clean verified. No deployment; subsequent factual release
+   metadata in four operator paths is mechanical closeout only.
 
 1. Completed `KAL-RES-013` research/backlog: six families, twelve fresh DataForSEO Ads
    rows, six incomplete depth-10 US-English desktop SERPs, sixteen inspected

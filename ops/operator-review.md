@@ -23,7 +23,14 @@ full9path recheck PASS, no P0-P3; five research/backlog files match cycle-one
 SHA-256 hashes. Actual operator completion/QA/review metadata is accurate.
 Reviewer permits later factual frozen-commit/SHA/push/alignment/cycle records
 in these four operator paths as mechanical closeout only, preserving original
-base and substantive gates. Documentation-only release pending.
+base and substantive gates. Cycle-three read-only frozen-commit PASS for
+`968ecae17fa45673541bbf0a18a3dd280689fe58..46a77472ad709efb9a4603351585260be4ee069f`:
+one commit, exact9paths, five material hashes unchanged, four factual operator
+mirrors,115 protected files unchanged,committed JSON/whitespace and clean
+checkout. No open P0-P3. Reviewed research commit `46a7747` pushed to main;
+local/origin0ahead0behind and clean verified. No deployment. This subsequent
+four-operator-path factual release record is mechanical closeout, not part of
+the reviewed research commit and not a new substantive action.
 
 ## KAL-RES-013 - September 17
 

@@ -39,9 +39,10 @@ privacy and unchanged public/source outputs pass. Different independent
 read-only reviewer `01a0b3c6-9315-72c2-bf5b-037ea6bd6c75` returned cycle-one
 PASS, no P0-P3; independently73 non-generator tests,62snapshots and115
 protected tracked files byte-identical. Cycle-two full-diff/metadata recheck
-PASS, no P0-P3; five material files byte-identical. Documentation-only release
-pending; later factual SHA/alignment metadata is mechanical closeout only.
-No deployment applies.
+PASS, no P0-P3; five material files byte-identical. Cycle-three complete frozen
+range PASS for reviewed9-path commit `46a77472ad709efb9a4603351585260be4ee069f`.
+Pushed to main; local/origin0/0 and clean verified. Subsequent four-operator-
+path factual release metadata is mechanical closeout only. No deployment.
 
 ### September 17 Manual Research - KAL-RES-013
 
