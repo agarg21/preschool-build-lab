@@ -4,6 +4,30 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-18 - KAL-RES-014
+
+- Decision/task: caregiver starts one paper-only drop/retry, without printer,
+  with adult preparation, younger-child reach and non-turning drop constraints.
+- Hypothesis: maintained helicopter sources combine into a ready default
+  without source-specific cut/fold or mechanism reconciliation.
+- Evidence: September18 NASA/Science World/CuriOdyssey and CPSC source audit;
+  two rendered templates visually inspected (`SOURCE_BACKED`). September17
+  DataForSEO estimates retained (`TOOL_ESTIMATE`), no new paid calls. Four
+  parent tasks (`RESEARCH_HYPOTHESIS`); proposed map/gates (`EDITORIAL_JUDGMENT`).
+- Result: `REJECT_HYPOTHESIS`; NASA dashed cuts/solid folds versus Science
+  World solid cuts/dashed folds; folded-body and clip designs differ. `RESEARCH`
+  one conditional `KAL-IMP-013`, requiring original complete geometry and
+  future parent/browser/publication gates. No public page or unbuilt UI score.
+- Confidence: high for source/legend observations; medium for caregiver
+  utility; real use, performance, outcomes and achievable ranking UNKNOWN.
+- Lesson: inspect linked visuals separately; maintained articles can link
+  stale context or different mechanisms. Do not blend instructions silently.
+- Trigger: defer/reject if original geometry/prose fails a critical parent
+  task, contradicts a source or overlaps an existing owner cleanly.
+- Boundary: source audit, not physical/family testing. No newer GSC baseline;
+  later release needs post-release crawl and aligned finalized page/query
+  measurement. Protected guides unchanged; review/QA in operator review.
+
 ## 2026-09-17 - KAL-RES-013
 
 - Decision/task: caregiver chooses and starts one household build, with adult

@@ -18,6 +18,31 @@ and release verification.
 
 ## Active Priority
 
+### September 18 Source Qualification - KAL-RES-014
+
+Frozen clean/aligned base `968ecae17fa45673541bbf0a18a3dd280689fe58`;
+fetch found no incoming changes. One registered9-path research transaction.
+Today's learning unit audits NASA, Science World, CuriOdyssey and CPSC;
+NASA/Science World templates rendered and visually inspected. Reject the
+interchangeable-template hypothesis: opposite cut/fold conventions and
+folded-body versus clip mechanisms. Do not copy stale NASA PDF Mars context.
+
+One conditional next candidate `KAL-IMP-013`, not publication approval:
+single clip-free lineage, original complete adult-preparation visual, child
+drop/retry and same-material rescue. Four source-derived tasks and full future
+section/trust/publication gates are in the qualification pack. No physical or
+family testing, UI score, new API call, page, source-data or generator change.
+Latest GSC remains September17 finalized throughSeptember15; queries omitted.
+Ramp protected throughSeptember18 inclusive; preschoolSTEM throughSeptember20.
+All74 native tests,62snapshots,whitespace,roadmap JSON,exact9scope/source/
+privacy and unchanged public/source outputs pass. Different independent
+read-only reviewer `01a0b3c6-9315-72c2-bf5b-037ea6bd6c75` returned cycle-one
+PASS, no P0-P3; independently73 non-generator tests,62snapshots and115
+protected tracked files byte-identical. Cycle-two full-diff/metadata recheck
+PASS, no P0-P3; five material files byte-identical. Documentation-only release
+pending; later factual SHA/alignment metadata is mechanical closeout only.
+No deployment applies.
+
 ### September 17 Manual Research - KAL-RES-013
 
 User requested evidence-qualified individual-guide research and backlog, then
@@ -1153,10 +1178,11 @@ product-review access still require direct user authority.
 
 ## Next Transaction
 
-After the review-clean `KAL-RES-013` research release, select planned
-`KAL-RES-014` for one paper-helicopter qualification transaction; register
-exact paths and base first. It is not page implementation or authorization
-to reuse unused paid-batch spend. Preserve ramp `KAL-IMP-006` through
+After the review-clean `KAL-RES-014` qualification release, consider conditional
+`KAL-IMP-013` for one paper-helicopter guide; register exact paths and base
+first. Complete original geometry, source agreement, parent-task, native and
+desktop/mobile gates before publication; defer if critical instructions or
+distinct utility fail. No unused paid-batch reuse. Preserve ramp `KAL-IMP-006` through
 September18 and preschoolSTEM throughSeptember20 except verified P0-P2
 regressions, plus all other guide observation gates. Their next measurement
 step remains a new post-release crawl or finalized query/page change, not

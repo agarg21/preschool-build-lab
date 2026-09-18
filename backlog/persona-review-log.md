@@ -6,6 +6,22 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-18 - Helicopter Qualification Tasks
+
+`KAL-RES-014`, `RESEARCH`, source audit and future acceptance only. No UI
+score, family test or desktop/mobile pass for an unbuilt guide. Four traced
+tasks: no-printer start (NASA/plain-paper and source worksheets), same-material
+non-turning rescue (opposing folds/body checks), sibling reach/adult controls
+(CPSC tools/supervision), phone scanning/optional watching (diagram complexity
+and classroom context). Each has required outputs, stress and observable
+failure in `seo/paper-helicopter-qualification-2026-09-18.md`.
+
+Every-section contract keeps the first start, adult geometry, child mission,
+rescue and cleanup; sources after runnable answer; no redundant FAQ/age lists.
+Conditional `KAL-IMP-013` must apply the complete0-2 rubric and verify the
+exact task at1280x900/390x844. Critical geometry/claim failures override totals.
+Research rejects interchangeable legends/mechanisms, not the activity itself.
+
 ## 2026-09-17 - Next-Guide Research Tasks
 
 Action `KAL-RES-013`, `RESEARCH`, not a browser task review or human test.

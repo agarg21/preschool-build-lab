@@ -6,10 +6,16 @@ repository writer for a validated transaction.
 
 ## Ready
 
-- No new content implementation is ready from `KAL-RES-013`. Five dedicated
+- `KAL-RES-014` qualifies one conditional implementation candidate,
+  `KAL-IMP-013`: parent-first paper helicopter using one NASA folded-body
+  lineage. Register a separate exact-path transaction before any build.
+  Original complete geometry, source/prose agreement, parent-task and
+  desktop/mobile simplicity gates remain unpassed; defer if they fail.
+  See `seo/paper-helicopter-qualification-2026-09-18.md`. This is not a
+  publication approval, age guarantee or top-five forecast.
+- Five dedicated
   build guides are released (ramp, paper bridge, ball maze, tape road, cup
-  tower); preserve their observation windows. Paper helicopter is next for
-  qualification, not a build authorization. Do not create individual
+  tower); preserve their observation windows. Do not create individual
   card-game or age pages from `KAL-IMP-002`'s chooser evidence.
 - Generator QA and manual-hub migration remain possible future technical work,
   but must be selected separately rather than bundled into research or content.
@@ -20,7 +26,9 @@ Research: `seo/individual-activity-opportunities-2026-09-17.md`; twelve fresh
 DataForSEO Google Ads probes and six incomplete controlled SERP samples.
 Google Ads competition is not organic KD. No top-five or ramp-traffic promise.
 
-- Paper helicopter: first qualification candidate `KAL-RES-014`. One possible
+- Paper helicopter: source audit `KAL-RES-014` now documents opposite
+  NASA/Science World cut/fold legends and folded-body/clip mechanism differences.
+  One possible
   guide for adult-prepared folds and child drop/retry, not separate template,
   Mars or age pages. Close clip-free geometry, original visual, current trust
   facts and complete parent-task gates before promoting implementation.
@@ -39,8 +47,9 @@ Google Ads competition is not organic KD. No top-five or ramp-traffic promise.
   balloon/cord/latex facts, anchor/space, adult controls and cleanup gates
   must close; no request for unavailable family testing or indexing.
 
-Only helicopter qualification is the next eligible action; these six entries
-are not a page quota and none is an approved implementation.
+Only conditional helicopter implementation registration is next after the
+qualification's review-clean release; these six entries are not a page quota.
+No page is publication-approved by the research transaction.
 
 ## Review Requirement
 

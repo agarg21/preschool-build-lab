@@ -10,6 +10,18 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
+1. Completed `KAL-RES-014` September18 source qualification, exact9 paths/base
+   in JSON. Source audit rejects interchangeable helicopter templates:
+   opposite cut/fold legends and folded-body/clip differences. Four traced
+   parent tasks, original non-printable assembly map and future section/gates.
+   Conditional next `KAL-IMP-013` needs separate registration and complete
+   original geometry, parent/browser/native QA and independent review before
+   publication; no sibling URLs or ranking forecast. No new API spend, GSC
+   snapshot or production change. All74 native tests,62snapshots and scope/
+   source/privacy checks pass; independent cycle-two full-diff PASS, no P0-P3.
+   Documentation-only release pending; later factual SHA/alignment metadata
+   is mechanical closeout only.
+
 1. Completed `KAL-RES-013` research/backlog: six families, twelve fresh DataForSEO Ads
    rows, six incomplete depth-10 US-English desktop SERPs, sixteen inspected
    bodies; spend$0.102/$5 authorized. No organic-KD/overlap/rank prediction.

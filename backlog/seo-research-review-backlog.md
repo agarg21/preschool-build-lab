@@ -14,6 +14,22 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
+## September 18 Helicopter Qualification
+
+`KAL-RES-014`: current NASA, Science World, CuriOdyssey and official CPSC
+source audit; linked NASA/Science World PDFs rendered and visually inspected.
+`REJECT_HYPOTHESIS` for interchangeable templates: opposite cut/fold legends
+and different body/weight mechanisms. Retain one clip-free NASA lineage;
+stale NASA worksheet Mars context excluded. No new paid calls or site edits.
+
+Qualification pack: `seo/paper-helicopter-qualification-2026-09-18.md`.
+Four source-derived parent tasks, original non-printable assembly map,
+claim register and every-section future acceptance, not an unbuilt-page score.
+Conditional next `KAL-IMP-013` requires separate exact-path registration and
+complete original geometry, native/browser QA and independent review before
+publication. No template/Mars/age siblings. Search estimates remain September17,
+incomplete SERP/unknown organic difficulty; no ranking or outcome promise.
+
 ## September 17 Individual-Guide Research Decision
 
 `KAL-RES-013` screens six families with twelve DataForSEO Google Ads keyword
@@ -22,7 +38,8 @@ all incomplete) and sixteen inspected result/source bodies. Actual spend
 $0.102 of the user-authorized $5. No organic KD or numeric overlap claim.
 
 Decision pack: `seo/individual-activity-opportunities-2026-09-17.md`.
-Next: `KAL-RES-014` paper-helicopter qualification. Straw rockets, paper chains
+Next at that time: `KAL-RES-014` paper-helicopter qualification, now documented
+above. Straw rockets, paper chains
 and foil boats are conditional; spinners and balloon rockets deferred. Zero
 new implementations promoted. Strong NASA/museum answers are counterevidence
 to calling these uniformly weak SERPs. Our hypothesis is one parent-led
