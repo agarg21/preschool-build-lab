@@ -4,52 +4,55 @@ The roadmap is authoritative. This backlog supplies implementation context; it
 does not independently schedule work. The Master / Operator is the single
 repository writer for a validated transaction.
 
-## Ready
+## Individual Page Queue - September 18
 
-- `KAL-RES-014` qualifies one conditional implementation candidate,
-  `KAL-IMP-013`: parent-first paper helicopter using one NASA folded-body
-  lineage. Register a separate exact-path transaction before any build.
-  Original complete geometry, source/prose agreement, parent-task and
-  desktop/mobile simplicity gates remain unpassed; defer if they fail.
-  See `seo/paper-helicopter-qualification-2026-09-18.md`. This is not a
-  publication approval, age guarantee or top-five forecast.
-- Five dedicated
-  build guides are released (ramp, paper bridge, ball maze, tape road, cup
-  tower); preserve their observation windows. Do not create individual
-  card-game or age pages from `KAL-IMP-002`'s chooser evidence.
-- Generator QA and manual-hub migration remain possible future technical work,
-  but must be selected separately rather than bundled into research or content.
+One candidate is ready for a separately scoped build attempt; three require
+qualification first and two remain deferred. These are potential guides,
+not six promised URLs. Titles below describe parent jobs; final URLs and
+keyword ownership are assigned only after qualification.
 
-## Conditional Individual Guides - September 17
+Evidence: [September 17 opportunity pack](../seo/individual-activity-opportunities-2026-09-17.md)
+and [September 18 helicopter qualification](../seo/paper-helicopter-qualification-2026-09-18.md).
+Numbers below are exact US monthly Google Ads estimates collected through
+DataForSEO on September 17 (`TOOL_ESTIMATE`). Variants overlap and must not
+be added. Organic difficulty and achievable rank are UNKNOWN; the six retained
+SERP samples are incomplete. Strong institutional competitors already exist.
 
-Research: `seo/individual-activity-opportunities-2026-09-17.md`; twelve fresh
-DataForSEO Google Ads probes and six incomplete controlled SERP samples.
-Google Ads competition is not organic KD. No top-five or ramp-traffic promise.
+| Order / state | Proposed guide and parent job | Retained demand evidence | Next action and publication dependency |
+|---|---|---|---|
+| 1 / Next build, conditional | **Paper helicopter: fold, drop and try again.** Adult prepares one clip-free model; child releases and watches; parent checks a non-turning drop. | `paper helicopter` 2,900; `paper helicopter experiment` 90 | `KAL-IMP-013`. Qualification released in `46a7747`. Build an original complete cut/fold visual and concise start/rescue; reconcile one NASA folded-body lineage, then pass parent-task, source, desktop/mobile and independent review gates. |
+| 2 / Research first | **Straw rocket: make a paper sleeve and launch.** Parent chooses materials, prepares one mechanism and diagnoses leaks or jams. | `straw rocket` 2,900; `straw rocket for kids` UNKNOWN | `KAL-RES-015`. Resolve sleeve geometry, launch/air-path controls and younger-child fit; prove useful parent guidance beyond the strong NASA/template results before nominating one guide. |
+| 3 / Research first | **Paper chain: link one sheet into a longer chain.** Parent demonstrates an actual linked loop and offers an untimed build/retry. | `paper chain challenge` 390; `longest paper chain challenge` 70 | `KAL-RES-016`. Compare one-sheet length with existing book-wrap reach. Decide new guide versus existing-owner upgrade; declare link rules, adult cutting and material limits. |
+| 4 / Research first | **Foil boat: shape, float and recover.** Parent chooses a shallow-tray setup, checks an empty hull and changes one thing. | `aluminum foil boat experiment` 50; `foil boat challenge` 110 | `KAL-RES-017`. Reconcile three current owners and source cargo/material differences. An existing-page upgrade may be the correct outcome; source coins and KAL large cargo are not established equivalents. |
+| Deferred | **String-disc paper spinner.** Parent prepares the disc and helps with threading, winding and recovery. | `paper spinner` 720; `paper spinner toy` 70 | `KAL-RES-018`, deferred. Reopen only for evidence that coordination/cord/adult-control requirements fit the current audience. No automatic younger-age adaptation. |
+| Deferred | **Balloon rocket on a line.** Parent manages inflation, setup, launch, retrieval and cleanup. | `balloon rocket experiment` 1,000; `balloon rocket activity` 40 | `KAL-RES-019`, deferred. Balloon/cord/latex, anchor/space, fragment cleanup and failed-launch controls need authoritative reconciliation before qualification. |
 
-- Paper helicopter: source audit `KAL-RES-014` now documents opposite
-  NASA/Science World cut/fold legends and folded-body/clip mechanism differences.
-  One possible
-  guide for adult-prepared folds and child drop/retry, not separate template,
-  Mars or age pages. Close clip-free geometry, original visual, current trust
-  facts and complete parent-task gates before promoting implementation.
-- Straw rocket: conditional. Reconcile paper-sleeve methods, launch/air-path
-  boundaries and concrete leak/jam rescues; strong NASA/template competitors
-  mean generic steps are not sufficient differentiation.
-- Paper chain: conditional. Existing card and book-wrap module own related
-  work; resolve one-sheet length versus reach and explicit linking rules
-  before deciding upgrade versus new guide.
-- Foil boat: conditional existing-owner reconciliation first. Card,
-  engineering module and Tiny Boat Cargo Test differ in cargo/mission. Do
-  not promise large-block equivalence to source coins or publish a duplicate.
-- String-disc spinner: deferred for uncertain younger-child fit, winding and
-  cord boundaries. Do not substitute a different spinning mechanism silently.
-- Balloon rocket: remains deferred despite refreshed demand. Current official
-  balloon/cord/latex facts, anchor/space, adult controls and cleanup gates
-  must close; no request for unavailable family testing or indexing.
+The [research backlog](seo-research-review-backlog.md#candidate-qualification-queue---september-18)
+contains the deliverables and reject/defer conditions for each research ID.
+Only `KAL-IMP-013` is next for implementation registration. Each later research
+transaction may nominate at most one implementation; registration and review
+are required before touching its source or public files.
 
-Only conditional helicopter implementation registration is next after the
-qualification's review-clean release; these six entries are not a page quota.
-No page is publication-approved by the research transaction.
+## Parent Quality Gate
+
+Every candidate must help a caregiver decide fit, gather materials, understand
+adult preparation, start, recover and clean up without another broad search.
+The implementation brief must trace its persona tasks to evidence and audit
+every visible section. Verify the exact task at 1280x900 and 390x844; keep
+the first useful answer clear, use an accurate original visual, and remove
+repetition or optional detail that buries the start. Missing critical steps,
+unsupported claims or an unreadable diagram block publication regardless of
+an aggregate review score. Proxy reviews never become family testing.
+
+## Preserve And Observe
+
+Five dedicated build guides are already released: ramp, paper bridge, ball
+maze, tape road and cup tower. Keep their observation gates; use `KAL-MON-001`
+for finalized crawl/page evidence and available query evidence. Missing public
+rows are unavailable, not zero. Shadow and magnet topics remain with existing
+broad owners under the September 6 decision pack until a distinct singular job
+emerges. No individual card-game or age pages from `KAL-IMP-002` evidence.
+Generator QA/manual-hub migration remain separate technical work.
 
 ## Review Requirement
 

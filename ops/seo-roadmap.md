@@ -10,6 +10,19 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
+1. `KAL-OPS-006` registers the September18 backlog update in six exact paths.
+   Current queue: conditional build `KAL-IMP-013` paper helicopter; research
+   `KAL-RES-015` straw rocket, `KAL-RES-016` paper chain, `KAL-RES-017` foil
+   boat; deferred `KAL-RES-018` string-disc spinner and `KAL-RES-019` balloon
+   rocket. Chain/boat may become existing-owner upgrades. Each research task
+   has decision outputs and promotion/rejection gates in the research backlog;
+   the implementation backlog keeps the parent-quality gate and dated demand.
+   Shared post-release sensing stays `KAL-MON-001`; weekly synthesis remains
+   due September20. Later discovery is unselected. No new research collection,
+   paid calls or page work in this transaction. Backlog update completed;
+   operator74 tests and independent73 tests pass,62snapshots valid, independent
+   cycle-one PASS with no findings. Final factual metadata check/release pending.
+
 1. Completed `KAL-RES-014` September18 source qualification, exact9 paths/base
    in JSON. Source audit rejects interchangeable helicopter templates:
    opposite cut/fold legends and folded-body/clip differences. Four traced
@@ -26,7 +39,7 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 1. Completed `KAL-RES-013` research/backlog: six families, twelve fresh DataForSEO Ads
    rows, six incomplete depth-10 US-English desktop SERPs, sixteen inspected
    bodies; spend$0.102/$5 authorized. No organic-KD/overlap/rank prediction.
-   Next planned `KAL-RES-014`: paper-helicopter source/geometry/parent-task
+   Its next step was `KAL-RES-014`: paper-helicopter source/geometry/parent-task
    qualification. Straw rocket, chain, foil boat conditional; spinner and
    balloon deferred. Zero new implementations promoted; all production,
    keyword ownership and observation windows preserved. All74 native tests

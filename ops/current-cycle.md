@@ -18,6 +18,29 @@ and release verification.
 
 ## Active Priority
 
+### September 18 Backlog Update - KAL-OPS-006
+
+User requested pages we can make and their required research in the backlog.
+Clean base `d44ea5ff8cbce582d2ddc17fe218d92fc5f07793`; initial fetch stalled,
+its own process was stopped and bounded retry succeeded, with no incoming
+changes. Six exact paths registered before edits. Existing September17 demand
+and September18 helicopter qualification supply the evidence; no new paid
+calls or completed-learning claim. Latest GSC remains September17/prior16,
+62 snapshots validate; no new snapshot or changed-evidence gate.
+
+One conditional build: `KAL-IMP-013` helicopter. Research first:
+`KAL-RES-015` straw rocket, `KAL-RES-016` chain, `KAL-RES-017` foil boat.
+Deferred: `KAL-RES-018` string-disc spinner and `KAL-RES-019` balloon rocket.
+Each has a parent job, dated evidence, concrete research deliverable and
+publication/rejection gate; chain/boat may favor an existing-page upgrade.
+Parent-task simplicity reviews remain required for every implementation.
+Reuse `KAL-MON-001` and the September20 weekly review; later discovery is
+unselected. Operator74 tests,62snapshots,JSON,whitespace,scope/reference/
+metric/privacy checks pass. Independent reviewer
+`01a0b49c-3711-7ab3-829a-7fd0ff896bed` cycle-one PASS, no P0-P3;
+73 read-only tests and115 protected files unchanged independently confirmed.
+Final factual metadata check/release pending, push-only scope.
+
 ### September 18 Source Qualification - KAL-RES-014
 
 Frozen clean/aligned base `968ecae17fa45673541bbf0a18a3dd280689fe58`;
@@ -1188,3 +1211,10 @@ September18 and preschoolSTEM throughSeptember20 except verified P0-P2
 regressions, plus all other guide observation gates. Their next measurement
 step remains a new post-release crawl or finalized query/page change, not
 a CTR rewrite, indexing request, product, affiliate or family-outcome inference.
+
+After helicopter's release or supported defer/reject, the research backlog
+orders straw rocket `KAL-RES-015`, paper chain `KAL-RES-016`, then foil boat
+`KAL-RES-017`. Each qualification returns build/upgrade/preserve/defer with
+at most one promoted implementation; separately register any resulting work.
+Spinner `KAL-RES-018` and balloon `KAL-RES-019` remain deferred with explicit
+reopening evidence. Monitoring and weekly synthesis keep their existing gates.

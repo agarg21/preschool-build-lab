@@ -14,6 +14,60 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
+## Candidate Qualification Queue - September 18
+
+Current order: build candidate `KAL-IMP-013`, then research `KAL-RES-015`,
+`KAL-RES-016`, `KAL-RES-017`. `KAL-RES-018` and `KAL-RES-019` are deferred.
+This is an ordered backlog, not concurrent assignments or a page quota.
+Register exact paths/base when selecting each transaction. Planned deliverables
+below do not claim that new research has already been performed.
+
+Shared input: [September 17 opportunity pack](../seo/individual-activity-opportunities-2026-09-17.md)
+and its [dated metrics](../data/individual-activity-opportunities-2026-09-17.csv).
+The data covers US-English estimates and six incomplete desktop SERP samples;
+organic KD, broad parent-intent share and complete numerical overlap remain
+UNKNOWN. Use current public SERPs/source bodies during qualification, record
+sample limitations and inspect actual instructions/visuals. Further paid
+DataForSEO calls require a new explicit batch budget. Public source/owner
+audits can proceed without paid enrichment; no Semrush dependency remains.
+
+| ID / state | Question to resolve | Required research output | Promote, preserve or reject |
+|---|---|---|---|
+| `KAL-RES-015` / Planned, first research | Can a straw-rocket guide serve a younger caregiver-led task with one understandable sleeve design? | Reconcile paper-cylinder versus wider-straw/pipette methods using the pack's NASA and Buggy and Buddy leads; inspect linked geometry; check current launch/air-path facts and adult roles. Inspect query intent/result types and representative body strengths. Draft one default, leak/jam diagnosis, source-traced parent tasks and an original visual brief. Repeat owner check including Straw Bridge. | Nominate one guide only if the complete parent task, original utility, maintainable sources and fit gates close. Defer if younger-child adaptation depends on an unsupported launch assurance; reject if existing answers already meet the chosen job without a defensible improvement. |
+| `KAL-RES-016` / Planned, second research | Does a one-sheet linked-chain job justify a guide beyond the existing reach test? | Audit `site/cards/paper-chain-test.html` and the engineering book-wrap module. Compare Teachers are Terrific, WTTW and Little Bins leads; specify linked-loop rules, paper/tape limits, adult preparation, untimed start and broken/unlinked-loop rescue. Inspect one-sheet length versus decoration/countdown/reach intent without inventing overlap numbers. | Return exactly one architecture decision: upgrade an owner, nominate a distinct guide, or preserve. Do not create both a length guide and a reach guide from the same evidence. |
+| `KAL-RES-017` / Planned, third research | Can one boat workflow reconcile the card, engineering module and original pack? | Audit `site/cards/foil-boat-test.html`, the engineering foil module and Tiny Boat Cargo Test. Inspect Science Buddies/Discovery World source geometry and water/cargo boundaries; replace or recheck the Nebraska lead that returned404. Produce a mission/material matrix, empty-hull troubleshooting and source-supported cargo default with parent tasks. | Prefer an existing-owner upgrade where it fits. Nominate one guide only for a distinct supported job; defer if cargo substitutions or adult water/cleanup controls remain unsupported. No coin-to-block equivalence assumption. |
+| `KAL-RES-018` / Deferred | Is the string-disc mechanism suitable for this audience with defensible adult controls? | On reopening, check current Crayola/Wyndham leads, disc/hole/string geometry, winding and stop/recovery requirements; review current cord/material guidance and realistic participation/readiness. | Reopen only on new evidence supporting fit, or an explicit audience decision. Volume alone is insufficient; keep deferred if the useful task requires an unsupported younger-child adaptation. A different spinner mechanism needs its own evidence. |
+| `KAL-RES-019` / Deferred | Can balloon, line and space requirements be resolved into a bounded caregiver task? | On reopening, reconcile current official balloon/cord/latex guidance with Science Bob/museum procedure leads; identify adult inflation, anchor/space, fragments, cleanup and won't-move decisions. Inspect the result-page advantages a new guide would need to exceed. | Reopen only with new source evidence capable of closing these gates or an explicit priority instruction. Publication remains blocked by unresolved critical controls; do not inherit a publisher's age-three-up label. |
+
+Every qualification ends with a dated decision pack: exact job/query family,
+existing-owner map, source/claim register, result-page strengths and gaps,
+one default and rescue, original visual/utility brief, evidence-derived persona
+tasks, every-section acceptance and build/upgrade/preserve/defer verdict.
+Current estimates support investigation, not an attainable top-five claim.
+The user cannot supply activity tests; absence of testing does not block
+honestly research-backed non-product guidance, but outcomes stay UNKNOWN.
+
+## Shared Research And Review
+
+- **Helicopter implementation review (`KAL-IMP-013`):** use the completed
+  September18 qualification. Resolve original cut/fold geometry while building;
+  run all four parent tasks and every-section simplicity review on desktop
+  and mobile, then independent source/claim/diff review. No new generic
+  qualification loop is needed unless a critical gap appears.
+- **Post-release learning (`KAL-MON-001`):** compare each new guide's first
+  crawl and finalized page evidence against its actual release date; use query
+  evidence only when available. Do not infer new-guide failure from a missing
+  public row or compare its short life with the mature ramp as a format test.
+- **Weekly synthesis (existing weekly process, next due September20):**
+  review repeated parent-task failures, source contradictions and guide
+  observation evidence. Change one falsifiable rule/priority or retire a weak
+  hypothesis. Reuse the learning ledger and weekly process; register a dated
+  new transaction when due, rather than reopening released `KAL-WEEKLY-001`.
+- **Later discovery, unselected:** when the qualified queue is exhausted or
+  rejected, inspect three to five current caregiver questions and map the
+  repeated job to existing cards before choosing another demand batch. Do not
+  preapprove unfamiliar activity names or spend based on backlog size.
+
 ## September 18 Helicopter Qualification
 
 `KAL-RES-014`: current NASA, Science World, CuriOdyssey and official CPSC
