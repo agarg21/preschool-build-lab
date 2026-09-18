@@ -21,7 +21,9 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
    due September20. Later discovery is unselected. No new research collection,
    paid calls or page work in this transaction. Backlog update completed;
    operator74 tests and independent73 tests pass,62snapshots valid, independent
-   cycle-one PASS with no findings. Final factual metadata check/release pending.
+   cycle-two frozen-commit PASS with no findings. Reviewed `6eae0bf` pushed to
+   main; local/origin aligned and clean verified. No deployment; subsequent
+   four-operator-path release metadata is mechanical closeout only.
 
 1. Completed `KAL-RES-014` September18 source qualification, exact9 paths/base
    in JSON. Source audit rejects interchangeable helicopter templates:

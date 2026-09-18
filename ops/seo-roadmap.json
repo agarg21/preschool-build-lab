@@ -2933,8 +2933,10 @@
       "human_gate": "No additional gate for this authorized backlog update. Future paid research must have its own explicit spend authorization; no reuse of the completed September17 batch.",
       "result": "One conditional build, three planned qualification tasks, two deferred research tasks with concrete parent jobs, dates, deliverables and decision gates. Monitoring and weekly processes reused. All prior44 action records preserved.",
       "qa_summary": "Operator74tests,62snapshots,whitespace,JSON,six-path scope,uniqueIDs,reference/metric/null/mirror/privacy checks and unchanged protected outputs PASS.",
-      "review": {"verdict": "PASS", "cycle": 1, "reviewer_agent_id": "01a0b49c-3711-7ab3-829a-7fd0ff896bed", "read_only": true, "base": "d44ea5ff8cbce582d2ddc17fe218d92fc5f07793", "scope": "Complete six registered paths; final factual metadata verification pending", "findings": [], "independent_qa": "73 non-generator tests,62snapshots,whitespace,JSON,50uniqueIDs,12evidence refs,five Markdown links/fragments,44prior entries unchanged,115protected files byte-identical PASS."},
-      "release_state": "reviewed-not-released",
+      "review": {"verdict": "PASS", "cycle": 2, "reviewed_commit": "6eae0bf4a82353fd9a412ad742bab78d83e0c7c2", "reviewer_agent_id": "01a0b49c-3711-7ab3-829a-7fd0ff896bed", "read_only": true, "base": "d44ea5ff8cbce582d2ddc17fe218d92fc5f07793", "scope": "Complete frozen six-path range; both backlog blobs unchanged from cycle1, four operatorfiles actual QA/completion/review facts. Subsequent factual release metadata is mechanical closeout only.", "findings": [], "independent_qa": "73 non-generator tests,62snapshots,whitespace,JSON,50uniqueIDs,12evidence refs,five Markdown links/fragments,44prior entries unchanged,115protected files byte-identical PASS."},
+      "release_state": "push-only",
+      "release_commit": "6eae0bf4a82353fd9a412ad742bab78d83e0c7c2",
+      "release_verification": "Reviewed six-path substantive commit pushed to main; local/origin0/0 and clean verified. No deployment. Later four-operator-path factual release metadata is a separate mechanical closeout commit.",
       "next_eligible_action": "KAL-IMP-013 separately scoped build; then RES015,RES016,RES017 qualification sequence; RES018/019 deferred"
     },
     {
