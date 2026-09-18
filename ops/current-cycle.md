@@ -18,6 +18,47 @@ and release verification.
 
 ## Active Priority
 
+### September 18 Afternoon Heartbeat - Observation Only
+
+Invocation `2026-09-18T17:04:39.566Z`. Clean baseline `d971efa`; fetched and
+inspected incoming snapshot-only commit `6232424af4e1a7f6b29de1abe097e03bae66ec4f`,
+then fast-forwarded without conflict. No unfinished release. Today's dated
+learning unit `KAL-RES-014` and independent frozen-commit review are complete;
+`KAL-OPS-006` also released the clarified queue. This monitoring pass does
+not count as another learning unit or change the strategy.
+
+September18 snapshot collected14:40:59UTC, conservative-finalized through
+September16, windowAugust20-September16. Against September17's
+August19-September15 window: impressions228->245, clicks5->9, CTR2.19->3.67%,
+position14.03->13.73. Ramp159->177 impressions,5->9 clicks, CTR3.14->5.08%,
+position11.62->11.82. Ramp owns all nine visible clicks. Other changed rows:
+engineering14->15 impressions/position5.36->6.87; original hub5->4/8->7.5;
+video archive4->3/26.25->2.67, all zero clicks. Remaining page rows unchanged.
+Adjacent overlapping windows are not daily increments or evidence of causality.
+
+Priority inspection is byte-equivalent to prior:10/10 indexed, no new crawl
+timestamps. Ramp's latest reported crawl remains September5, before its
+September6 revision; do not attribute the click movement to that release.
+Complete query rows and newer-guide article rows remain unavailable, not zero.
+GSC sitemap metadata still reports61 discovered URLs and July5 last read;
+current public sitemap separately contains64 URLs. These are different
+measurements, not an indexing-failure count.
+
+Decision: no substantive action in this run. Preserve observation windows
+and the reviewed queue. Conditional `KAL-IMP-013` can proceed through its
+registered geometry/parent-task implementation gates without waiting for
+additional GSC data. Straw/chain/foil research and deferred spinner/balloon
+conditions remain as recorded. No additional API spend or user blocker.
+
+QA:63 snapshots validate, roadmap JSON and all74 native tests pass. Public
+preflight: sitemap/robots and all10 configured URLs return200; each URL is in
+the sitemap, and robots advertises it. Whitespace and exact one-path scope
+checked before commit. Only `ops/current-cycle.md` changes in this closeout.
+Independent review is not applicable to mechanical sensing/status only; the
+material qualification and backlog reviews above remain PASS. Status-only
+push; no deployment or production/browser regression claim. The containing
+git commit supplies this status record's release ID without a self-reference.
+
 ### September 18 Backlog Update - KAL-OPS-006
 
 User requested pages we can make and their required research in the backlog.
