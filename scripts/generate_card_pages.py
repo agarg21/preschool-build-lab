@@ -408,6 +408,8 @@ def cards_index():
         <a class="game-promo-link" href="collections/card-games-for-kids.html">Open the five-game chooser</a>
       </section>
 
+      <p class="content"><a href="articles/paper-helicopter-kids.html">Paper Helicopter: full cut, fold and drop guide</a></p>
+
       <section class="library-grid" aria-label="Activity cards">
 {cards}
       </section>

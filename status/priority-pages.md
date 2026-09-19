@@ -1,6 +1,18 @@
 # Priority Page Status
 
-Last updated: 2026-09-17
+Last updated: 2026-09-19
+
+## September 19 Helicopter Guide - Release Pending
+
+`KAL-IMP-013` adds one local candidate
+`/articles/paper-helicopter-kids.html` with a labeled original cut/fold map,
+adult preparation, child drop/watch, recovery and cleanup. Five dedicated
+guides remain released; this sixth is not yet released. Native81 tests,
+generator/diagram idempotence, links and desktop/mobile checks pass. Parent
+task proxy22/26, not human testing; no-ruler precision and physical outcomes
+remain unknown. Independent cycle2 PASS, both P3s closed. Exact-SHA production
+verification is pending. Latest GSC September19 through17:253 impressions/nine clicks, ramp
+183/nine;10/10 priority indexed. Missing new-guide rows are unavailable.
 
 ## September 17 Individual-Guide Expansion
 

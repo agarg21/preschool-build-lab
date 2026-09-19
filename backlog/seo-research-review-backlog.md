@@ -49,6 +49,13 @@ honestly research-backed non-product guidance, but outcomes stay UNKNOWN.
 
 ## Shared Research And Review
 
+- **September19 implementation status:** `KAL-IMP-013` has one local guide
+  and original geometry map. NASA sources rechecked; dimensions/halving are
+  labeled editorial with no physical test. Parent proxy22/26 and native81
+  tests pass; different independent cycle2 PASS, release pending. Do not repeat
+  generic qualification. Next research remains RES015 after release or
+  supported defer/reject; no further paid calls authorized by the old batch.
+
 - **Helicopter implementation review (`KAL-IMP-013`):** use the completed
   September18 qualification. Resolve original cut/fold geometry while building;
   run all four parent tasks and every-section simplicity review on desktop

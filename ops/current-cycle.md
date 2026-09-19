@@ -1,5 +1,25 @@
 # Current Cycle
 
+## September 19 Afternoon - KAL-IMP-013 Ready For Release
+
+Resumed the morning's roadmap-only registration; no existing content edit was
+discarded. Fetched snapshot-only `d6a3a51` and fast-forwarded without conflict.
+Registered21-path base is `d6a3a51a6fee8292cd9b63fc66c67a8e7e514ffd`.
+One original helicopter guide/map, one library link and inventory update;
+no new card, hub, existing guide or workflow changes. Source/parent planning
+learning unit complete: local proxy22/26, not physical/family testing.
+No-ruler interpretation remains a stated limit, not a critical missing cut.
+Native81 tests,64 snapshots,70HTML/713links, parse/scope/idempotence and
+desktop/mobile checks pass. Independent read-only cycle2 PASS, no P0-P3,
+two prior P3s closed. Frozen-commit review and production release pending.
+
+New finalized snapshot September19 through17 versus18 through16:
+245->253 impressions,9->9 clicks, position13.73->13.60; ramp177->183,
+9->9 clicks, position11.82->11.58. Priority inspections unchanged10/10.
+Missing queries/new-guide rows remain unavailable; no format causality or
+new-keyword inference. Preserve preschoolSTEM throughSeptember20 and all
+existing guide gates. No new paid calls, external account or indexing work.
+
 ## Operating Model
 
 This permanent Master chat is the current scheduler and command center. The

@@ -4,6 +4,31 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-19 - KAL-IMP-013
+
+- Decision/task: parent prepares one paper helicopter without a printer,
+  sees all cut stops/fold directions and starts a supervised drop/retry;
+  stress no ruler, younger-child reach and a non-turning drop.
+- Hypothesis: a labeled original map and compact role/start/recovery sequence
+  make the planning task answerable without another search.
+- Evidence: September19 NASA article/template recheck SOURCE_BACKED;
+  September18 CPSC general guidance retained; September17 paid estimates
+  retained TOOL_ESTIMATE. Geometry, halving route and proxy scores are
+  EDITORIAL_JUDGMENT, not measured physical or family use.
+- Result: local parent-task proxy22/26; `PRESERVE`, independently retained
+  in cycle2 PASS. No-ruler preparation is determinate but interpretive;
+  it remains optional and is not advertised as easy. No before-page score.
+- Confidence: high for graphic/prose endpoint agreement, medium for planning
+  utility, UNKNOWN for rotation, marking tolerance, real comprehension/ranks.
+- Lesson: explicit proportions can close an undimensioned source's planning
+  gap without pretending those editorial proportions are source-certified.
+- Next falsification: critical source/geometry or mobile failure blocks release;
+  later real confusion or repeatable failure requires reconsideration.
+- Measurement boundary: daily learning is UI/source proxy, not human testing.
+  Native81 tests and desktop/mobile QA pass; independent/release state in
+  `reviews/paper-helicopter-guide-implementation-review-2026-09-19.md` and
+  operator review. No helicopter GSC baseline; observe after actual release.
+
 ## 2026-09-18 - KAL-RES-014
 
 - Decision/task: caregiver starts one paper-only drop/retry, without printer,

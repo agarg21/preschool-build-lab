@@ -1,5 +1,25 @@
 # Operator Review
 
+## KAL-IMP-013 - September 19
+
+Frozen base `d6a3a51a6fee8292cd9b63fc66c67a8e7e514ffd`, exact21 paths;
+one guide/map plus discovery, tests and durable evidence. Native80/80,
+64snapshots,70HTML/713internal links/fragments,JSON/CSV/XML,whitespace,
+scope and92-file renderer/generator idempotence PASS. Local browser task
+1280x900/390x844 plus320px,200%-text and blocked-image PASS with explicit
+no-ruler interpretive limits. Proxy22/26, not family/physical testing.
+Supporting geometry audit Banach `01a0ba9d-daf2-7732-b010-5638c815dc2a`
+is not the independent release review. Different read-only reviewer Socrates
+`01a0baa8-27d8-7120-8793-982f14aff7ed` reviewed all21 paths at this base:
+cycle1 PASS_WITH_P3, no P0-P2. Independently80 tests,64 snapshots,70HTML/
+713links, parsing/scope and browser tasks pass;87 protected public files
+unchanged. Two P3 fixes prepared for cycle2: remove conflicting map numbers;
+add reviewed-image hash and cut/fold/uncut-body pixel regression checks.
+Geometry/prose unchanged. Cycle2 PASS, all P0-P3 arrays empty, both P3s
+closed; final image hash and pixel assertions independently verified. Reviewer
+reran81 tests,64 snapshots,70HTML/713links, parsing/scope and browser checks.
+Frozen commit and release verification pending. Full working scope is clean.
+
 ## KAL-OPS-006 - September 18
 
 Backlog maintenance only, six registered paths, clean frozen base

@@ -4,7 +4,12 @@ The roadmap is authoritative. This backlog supplies implementation context; it
 does not independently schedule work. The Master / Operator is the single
 repository writer for a validated transaction.
 
-## Individual Page Queue - September 18
+## Individual Page Queue - September 19
+
+`KAL-IMP-013` is ready for release: one original paper-helicopter map
+and guide, no new card. Native81 tests and local parent/browser QA pass;
+independent cycle2 PASS, no P0-P3; release pending. No-ruler interpretation remains
+an explicit proxy limitation. Do not start another overlapping build.
 
 One candidate is ready for a separately scoped build attempt; three require
 qualification first and two remain deferred. These are potential guides,

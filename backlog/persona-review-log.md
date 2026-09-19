@@ -6,6 +6,19 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-19 - Helicopter Implementation Proxy
+
+`KAL-IMP-013`: the four RES014 tasks were exercised against the local guide
+at1280x900 and390x844, with320px/200%-text and blocked-image stress checks.
+Original map, complete ruler geometry, optional no-ruler marks, child release,
+same-material recovery and adult reach controls are present. Score22/26 across
+13 dimensions, no fabricated before-page score. No-ruler interpretation,
+unmeasured duration and individual sensory/accessibility fit remain limits.
+`PRESERVE`, different independent cycle2 PASS retains this qualified score. This is not
+family testing or proof of flight, comprehension, satisfaction or safety.
+All sections and actual QA are recorded in
+`reviews/paper-helicopter-guide-implementation-review-2026-09-19.md`.
+
 ## 2026-09-18 - Helicopter Qualification Tasks
 
 `KAL-RES-014`, `RESEARCH`, source audit and future acceptance only. No UI
