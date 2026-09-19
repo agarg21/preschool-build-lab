@@ -10,14 +10,17 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-1. Active `KAL-IMP-013`, September19, resumed after snapshot-only fast-forward
+1. Completed `KAL-IMP-013`, September19, resumed after snapshot-only fast-forward
    to `d6a3a51`. Exact21 paths registered in JSON. One helicopter guide/map
    and library link, no new card or protected-owner changes. Source/proxy
    learning complete locally:22/26, no-ruler complexity remains explicit.
    Native81 tests,64 snapshots, links/parse/idempotence and browser checks
-   pass. Different independent cycle2 PASS, two P3s closed; release pending. After reviewed
-   release or supported defer/reject, RES015 is next research; weekly
-   synthesis still dueSeptember20. No paid API calls or indexing requests.
+   pass. Different independent cycle3 frozen-range PASS, two P3s closed.
+   Released `977d80d`, exact-SHA Pages35458096637/deployment6543661910 success;
+   four public outputs byte-match and production parent/browser tasks pass.
+   Workflow has no release marker; none claimed. Local/origin clean0/0 after
+   push. RES015 is next research; weekly synthesis still dueSeptember20.
+   No paid API calls or indexing requests. Ten-doc factual closeout follows.
 
 1. `KAL-OPS-006` registers the September18 backlog update in six exact paths.
    Current queue: conditional build `KAL-IMP-013` paper helicopter; research

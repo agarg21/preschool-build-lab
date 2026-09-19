@@ -16,7 +16,7 @@ Historical supporting files:
 
 ## Candidate Qualification Queue - September 18
 
-Current order: build candidate `KAL-IMP-013`, then research `KAL-RES-015`,
+Current order: observe released `KAL-IMP-013`; research `KAL-RES-015`,
 `KAL-RES-016`, `KAL-RES-017`. `KAL-RES-018` and `KAL-RES-019` are deferred.
 This is an ordered backlog, not concurrent assignments or a page quota.
 Register exact paths/base when selecting each transaction. Planned deliverables
@@ -49,18 +49,19 @@ honestly research-backed non-product guidance, but outcomes stay UNKNOWN.
 
 ## Shared Research And Review
 
-- **September19 implementation status:** `KAL-IMP-013` has one local guide
+- **September19 implementation status:** `KAL-IMP-013` has one released guide
   and original geometry map. NASA sources rechecked; dimensions/halving are
   labeled editorial with no physical test. Parent proxy22/26 and native81
-  tests pass; different independent cycle2 PASS, release pending. Do not repeat
-  generic qualification. Next research remains RES015 after release or
-  supported defer/reject; no further paid calls authorized by the old batch.
+  tests pass; different independent cycle3 PASS, released `977d80d` with
+  exact-SHA Pages35458096637 and production checks PASS. Do not repeat
+  generic qualification. Next research is RES015 under its existing
+  registration gate; no further paid calls authorized by the old batch.
 
-- **Helicopter implementation review (`KAL-IMP-013`):** use the completed
-  September18 qualification. Resolve original cut/fold geometry while building;
-  run all four parent tasks and every-section simplicity review on desktop
-  and mobile, then independent source/claim/diff review. No new generic
-  qualification loop is needed unless a critical gap appears.
+- **Helicopter implementation review (`KAL-IMP-013`):** completed September19;
+  original cut/fold geometry, four parent tasks, every-section desktop/mobile
+  review and independent frozen-range cycle3 PASS. Research-backed and
+  explicitly untested; no new generic qualification loop unless a critical
+  gap appears. Continue release-relative measurement.
 - **Post-release learning (`KAL-MON-001`):** compare each new guide's first
   crawl and finalized page evidence against its actual release date; use query
   evidence only when available. Do not infer new-guide failure from a missing

@@ -6,12 +6,13 @@ repository writer for a validated transaction.
 
 ## Individual Page Queue - September 19
 
-`KAL-IMP-013` is ready for release: one original paper-helicopter map
+`KAL-IMP-013` is released: one original paper-helicopter map
 and guide, no new card. Native81 tests and local parent/browser QA pass;
-independent cycle2 PASS, no P0-P3; release pending. No-ruler interpretation remains
-an explicit proxy limitation. Do not start another overlapping build.
+independent cycle3 PASS, no P0-P3; reviewed `977d80d`, exact-SHA Pages35458096637
+and production checks pass. No-ruler interpretation remains an explicit proxy
+limitation. Next is RES015 qualification, not another build.
 
-One candidate is ready for a separately scoped build attempt; three require
+One candidate is released and under observation; three require
 qualification first and two remain deferred. These are potential guides,
 not six promised URLs. Titles below describe parent jobs; final URLs and
 keyword ownership are assigned only after qualification.
@@ -25,7 +26,7 @@ SERP samples are incomplete. Strong institutional competitors already exist.
 
 | Order / state | Proposed guide and parent job | Retained demand evidence | Next action and publication dependency |
 |---|---|---|---|
-| 1 / Next build, conditional | **Paper helicopter: fold, drop and try again.** Adult prepares one clip-free model; child releases and watches; parent checks a non-turning drop. | `paper helicopter` 2,900; `paper helicopter experiment` 90 | `KAL-IMP-013`. Qualification released in `46a7747`. Build an original complete cut/fold visual and concise start/rescue; reconcile one NASA folded-body lineage, then pass parent-task, source, desktop/mobile and independent review gates. |
+| 1 / Released, observe | **Paper helicopter: fold, drop and try again.** Adult prepares one clip-free model; child releases and watches; parent checks a non-turning drop. | `paper helicopter` 2,900; `paper helicopter experiment` 90 | `KAL-IMP-013` released in `977d80d`; original map, parent-task, source, desktop/mobile, independent review and production checks passed. Observe post-release crawl and finalized page/query evidence; physical/family outcomes remain unknown. |
 | 2 / Research first | **Straw rocket: make a paper sleeve and launch.** Parent chooses materials, prepares one mechanism and diagnoses leaks or jams. | `straw rocket` 2,900; `straw rocket for kids` UNKNOWN | `KAL-RES-015`. Resolve sleeve geometry, launch/air-path controls and younger-child fit; prove useful parent guidance beyond the strong NASA/template results before nominating one guide. |
 | 3 / Research first | **Paper chain: link one sheet into a longer chain.** Parent demonstrates an actual linked loop and offers an untimed build/retry. | `paper chain challenge` 390; `longest paper chain challenge` 70 | `KAL-RES-016`. Compare one-sheet length with existing book-wrap reach. Decide new guide versus existing-owner upgrade; declare link rules, adult cutting and material limits. |
 | 4 / Research first | **Foil boat: shape, float and recover.** Parent chooses a shallow-tray setup, checks an empty hull and changes one thing. | `aluminum foil boat experiment` 50; `foil boat challenge` 110 | `KAL-RES-017`. Reconcile three current owners and source cargo/material differences. An existing-page upgrade may be the correct outcome; source coins and KAL large cargo are not established equivalents. |
@@ -34,7 +35,7 @@ SERP samples are incomplete. Strong institutional competitors already exist.
 
 The [research backlog](seo-research-review-backlog.md#candidate-qualification-queue---september-18)
 contains the deliverables and reject/defer conditions for each research ID.
-Only `KAL-IMP-013` is next for implementation registration. Each later research
+`KAL-IMP-013` is complete. Each later research
 transaction may nominate at most one implementation; registration and review
 are required before touching its source or public files.
 
@@ -51,8 +52,8 @@ an aggregate review score. Proxy reviews never become family testing.
 
 ## Preserve And Observe
 
-Five dedicated build guides are already released: ramp, paper bridge, ball
-maze, tape road and cup tower. Keep their observation gates; use `KAL-MON-001`
+Six dedicated build guides are released: ramp, paper bridge, ball maze,
+tape road, cup tower and paper helicopter. Keep their observation gates; use `KAL-MON-001`
 for finalized crawl/page evidence and available query evidence. Missing public
 rows are unavailable, not zero. Shadow and magnet topics remain with existing
 broad owners under the September 6 decision pack until a distinct singular job

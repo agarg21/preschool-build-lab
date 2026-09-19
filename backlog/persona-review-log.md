@@ -14,10 +14,15 @@ Original map, complete ruler geometry, optional no-ruler marks, child release,
 same-material recovery and adult reach controls are present. Score22/26 across
 13 dimensions, no fabricated before-page score. No-ruler interpretation,
 unmeasured duration and individual sensory/accessibility fit remain limits.
-`PRESERVE`, different independent cycle2 PASS retains this qualified score. This is not
+`PRESERVE`, different independent cycle3 PASS retains this qualified score. This is not
 family testing or proof of flight, comprehension, satisfaction or safety.
 All sections and actual QA are recorded in
 `reviews/paper-helicopter-guide-implementation-review-2026-09-19.md`.
+
+Released `977d80d`; exact-SHA Pages35458096637 and production byte/browser
+checks passed, including all four planning tasks at desktop/mobile sizes.
+No release marker exists in the current workflow. Physical/family outcomes
+and future search evidence remain unknown.
 
 ## 2026-09-18 - Helicopter Qualification Tasks
 

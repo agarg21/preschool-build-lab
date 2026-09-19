@@ -27,7 +27,10 @@ experience separate. A persona task is a proxy evaluation, not user testing.
 - Measurement boundary: daily learning is UI/source proxy, not human testing.
   Native81 tests and desktop/mobile QA pass; independent/release state in
   `reviews/paper-helicopter-guide-implementation-review-2026-09-19.md` and
-  operator review. No helicopter GSC baseline; observe after actual release.
+  operator review. Released `977d80d`, independent cycle3 frozen-range PASS,
+  exact-SHA Pages35458096637/deployment6543661910 success, four production
+  byte-matches and browser tasks PASS. No release marker exists; none claimed.
+  No helicopter GSC baseline; observe post-release crawl and finalized data.
 
 ## 2026-09-18 - KAL-RES-014
 

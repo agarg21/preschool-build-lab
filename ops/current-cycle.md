@@ -1,6 +1,6 @@
 # Current Cycle
 
-## September 19 Afternoon - KAL-IMP-013 Ready For Release
+## September 19 Afternoon - KAL-IMP-013 Released
 
 Resumed the morning's roadmap-only registration; no existing content edit was
 discarded. Fetched snapshot-only `d6a3a51` and fast-forwarded without conflict.
@@ -10,8 +10,14 @@ no new card, hub, existing guide or workflow changes. Source/parent planning
 learning unit complete: local proxy22/26, not physical/family testing.
 No-ruler interpretation remains a stated limit, not a critical missing cut.
 Native81 tests,64 snapshots,70HTML/713links, parse/scope/idempotence and
-desktop/mobile checks pass. Independent read-only cycle2 PASS, no P0-P3,
-two prior P3s closed. Frozen-commit review and production release pending.
+desktop/mobile checks pass. Independent read-only cycle3 frozen-range PASS,
+no P0-P3, two prior P3s closed. Released reviewed commit
+`977d80d90bdf5b81225d7941d536d1d8b060a4b4`; exact-SHA Pages35458096637
+and deployment6543661910 success. Guide/map/library/sitemap HTTP200 and
+byte-match; canonical/H1/links/sitemap65 and production desktop/mobile tasks
+PASS. No release marker exists in the workflow; no marker check is claimed.
+Clean local/origin0/0 verified after push. Reviewer accepts this subsequent
+ten-document facts-only closeout; no new material action or deployment.
 
 New finalized snapshot September19 through17 versus18 through16:
 245->253 impressions,9->9 clicks, position13.73->13.60; ramp177->183,
@@ -1267,18 +1273,14 @@ product-review access still require direct user authority.
 
 ## Next Transaction
 
-After the review-clean `KAL-RES-014` qualification release, consider conditional
-`KAL-IMP-013` for one paper-helicopter guide; register exact paths and base
-first. Complete original geometry, source agreement, parent-task, native and
-desktop/mobile gates before publication; defer if critical instructions or
-distinct utility fail. No unused paid-batch reuse. Preserve ramp `KAL-IMP-006` through
-September18 and preschoolSTEM throughSeptember20 except verified P0-P2
-regressions, plus all other guide observation gates. Their next measurement
-step remains a new post-release crawl or finalized query/page change, not
-a CTR rewrite, indexing request, product, affiliate or family-outcome inference.
+Helicopter `KAL-IMP-013` is released and enters observation. No unused paid-batch
+reuse. Preserve preschoolSTEM throughSeptember20 except verified P0-P2
+regressions, plus all other guide observation gates. The next measurement
+step remains a post-release crawl or finalized query/page change, not a CTR
+rewrite, indexing request, product, affiliate or family-outcome inference.
 
-After helicopter's release or supported defer/reject, the research backlog
-orders straw rocket `KAL-RES-015`, paper chain `KAL-RES-016`, then foil boat
+The existing research backlog now advances to straw rocket `KAL-RES-015`,
+paper chain `KAL-RES-016`, then foil boat
 `KAL-RES-017`. Each qualification returns build/upgrade/preserve/defer with
 at most one promoted implementation; separately register any resulting work.
 Spinner `KAL-RES-018` and balloon `KAL-RES-019` remain deferred with explicit

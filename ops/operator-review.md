@@ -18,7 +18,19 @@ add reviewed-image hash and cut/fold/uncut-body pixel regression checks.
 Geometry/prose unchanged. Cycle2 PASS, all P0-P3 arrays empty, both P3s
 closed; final image hash and pixel assertions independently verified. Reviewer
 reran81 tests,64 snapshots,70HTML/713links, parsing/scope and browser checks.
-Frozen commit and release verification pending. Full working scope is clean.
+Cycle3 frozen-range PASS for
+`d6a3a51a6fee8292cd9b63fc66c67a8e7e514ffd..977d80d90bdf5b81225d7941d536d1d8b060a4b4`:
+one21-path commit, all11 non-documentation hashes unchanged from cycle2,
+ten factual document updates, clean working tree; independent81 tests,
+64snapshots, parsing and frozen whitespace PASS. No open P0-P3.
+Reviewed commit pushed; clean0/0 alignment verified. Exact-SHA Pages35458096637
+and deployment6543661910 succeed. Guide/map/cards/sitemap byte-match with
+HTTP200; canonical/H1/local routes/sitemap65 and production1280/390/320px,
+200%-text,keyboard/fragments/details/image-fallback PASS, screenshots viewed.
+Existing workflow has no marker; exact-SHA run plus byte checks used, no
+marker claim. Reviewer accepts supported facts-only release closeout in the
+ten reviewed documentation paths, with no code, geometry, strategy, scope,
+evidence interpretation or acceptance-gate changes.
 
 ## KAL-OPS-006 - September 18
 

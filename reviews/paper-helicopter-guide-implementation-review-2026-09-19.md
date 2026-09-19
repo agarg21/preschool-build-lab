@@ -141,10 +141,32 @@ baseline `1be76e5cda7cbc452684e4ee8c9a8c1b0c43a7f532bcb51ae5989aa185d13675`
 received visual independent recheck in cycle2. Independent cycle2 PASS:
 P0=[],P1=[],P2=[],P3=[]; both prior findings closed. Independently81 tests,
 64snapshots,70HTML/713links, parse/scope/source and browser checks pass.
-The full21-path working diff is review-clean; frozen-commit review and release
-verification remain pending. Same reviewer retained the qualified22/26 score.
+Same reviewer retained the qualified22/26 score. Cycle3 frozen-range PASS for
+`d6a3a51a6fee8292cd9b63fc66c67a8e7e514ffd..977d80d90bdf5b81225d7941d536d1d8b060a4b4`;
+exact21 paths,11 material hashes unchanged from cycle2 and ten factual
+documents. Independently81 tests,64snapshots, parsing/whitespace PASS.
+All P0-P3 arrays empty; read-only throughout, no family evidence supplied.
 
 Existing Pages workflow has no release marker. Do not fabricate a marker
 check: verify the exact pushed-SHA successful Pages run, affected guide/map/
 library/sitemap bytes and production browser tasks instead, documenting the
 marker limitation. Post-release search and all physical/family outcomes unknown.
+
+Released reviewed `977d80d` to main; clean0/0 alignment after push. Exact-SHA
+Pages35458096637 succeeds; deployment6543661910 success at17:26:42Z.
+All four changed public outputs return200 and match reviewed bytes:
+
+| Output | SHA256 |
+|---|---|
+| guide | `44c5b959d03cfd782f6c68a1bd9286100717656fcb9716aad8a8e98626294aae` |
+| map | `1be76e5cda7cbc452684e4ee8c9a8c1b0c43a7f532bcb51ae5989aa185d13675` |
+| cards | `d0633f82eb81548612c70e9ef0bbe363b973d73afe121b8966b3512e86a4767b` |
+| sitemap | `84705a4c3415646c1d2241e959eb20b669574b09786e988ad2dfe83abb989273` |
+
+Production canonical/H1/links/sitemap65 and1280x900/390x844/320x844 browser
+tasks PASS. Enter library route and three fragments, details open/close,
+loaded diagram,200%-text and blocked-image checks pass; no overflow/page
+errors. Master viewed production first/map/desktop screenshots. Measurement
+remains proxy only. No transient retry or rollback needed. No blocking issue.
+Reviewer cycle3 accepts this ten-document evidence-backed mechanical closeout;
+no new substantive work or deployment is implied by its later commit.
