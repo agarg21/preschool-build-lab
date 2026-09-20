@@ -1,5 +1,23 @@
 # Current Cycle
 
+## Run Checkpoint - September 20 Weekly Recovery
+
+- Trigger: manual continuation of the interrupted `2026-09-20T09:01:16.941Z`
+  heartbeat, after completed/released `KAL-OPS-007` prompt repair.
+- Action: `KAL-WEEKLY-002`, active; exact eight documentation/review/roadmap
+  paths registered before substantive edits. Base is the immediately preceding
+  reviewed prompt closeout `d62c591`; checkout clean and origin aligned.
+- Objective: finish the week's synthesis, resolve non-comparable score gates,
+  and require source/visual/route agreement before the next qualification.
+- Phase: learning complete and review-clean. Synthesis, rubric, learning entry
+  and September20/27 roadmap rescore complete. Operator81 tests,64 snapshots,
+  JSON/whitespace/scope/metrics pass; independent cycle1 PASS, no P0-P3.
+  Reviewer `01a0bea5-c01e-75d0-a408-dc6a3ae08784`, read-only80 tests and386
+  out-of-scope tracked files unchanged. Next: exact-path push/alignment.
+- Completion still required: actual commit/push evidence, not a promised
+  release. No new site, API spend or physical/family evidence.
+- Blockers: none. Next candidate after completion is RES015; no GSC wait.
+
 ## Run Checkpoint - September 20 Manual Recovery
 
 - Trigger: user asked to fix scheduled runs that fail to do real work and

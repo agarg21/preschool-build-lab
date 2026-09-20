@@ -49,6 +49,14 @@ honestly research-backed non-product guidance, but outcomes stay UNKNOWN.
 
 ## Shared Research And Review
 
+- **September20 weekly rule:** the synthesis in
+  `weekly/2026-09-20-parent-task-synthesis.md` retires a universal22/24 floor
+  across different tasks. Use the full13-dimensional applicability record,
+  explicit critical outputs and independent P0-P2 gate. RES015 must freeze one
+  mechanism/source lineage and trace text/visual/draft/proposed diagram/inbound
+  agreement; nonexistent surfaces are N/A, not tested. Critical conflict means
+  RESEARCH/defer. This changes neither historical scores nor source facts.
+
 - **September19 implementation status:** `KAL-IMP-013` has one released guide
   and original geometry map. NASA sources rechecked; dimensions/halving are
   labeled editorial with no physical test. Parent proxy22/26 and native81
@@ -66,7 +74,7 @@ honestly research-backed non-product guidance, but outcomes stay UNKNOWN.
   crawl and finalized page evidence against its actual release date; use query
   evidence only when available. Do not infer new-guide failure from a missing
   public row or compare its short life with the mature ramp as a format test.
-- **Weekly synthesis (existing weekly process, next due September20):**
+- **Weekly synthesis (September20 recovery, next due September27):**
   review repeated parent-task failures, source contradictions and guide
   observation evidence. Change one falsifiable rule/priority or retire a weak
   hypothesis. Reuse the learning ledger and weekly process; register a dated

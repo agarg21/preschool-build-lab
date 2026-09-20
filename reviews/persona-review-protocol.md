@@ -2,7 +2,7 @@
 
 State: reusable review protocol
 
-Last updated: 2026-08-01
+Last updated: 2026-09-20
 
 ## Purpose
 
@@ -99,6 +99,35 @@ search, or avoidable mobile clutter hides the start. This remains a proxy
 evaluation, not parent or child testing.
 
 ## Human And Evidence Gates
+
+### Comparable Rubrics And Critical Outputs
+
+For each task consider all13 dimensions: answerability; age/ability adaptation;
+materials/substitutions; setup/duration/cleanup; adult involvement; setting and
+space; mixed-age/difficulty; sensory/accessibility; educational purpose;
+safety/trust; mobile readability/interaction; detours/repetition; decision
+without another broad search. Score applicable dimensions0-2 with observed
+basis, explicit limitations and justified N/A exclusions. State the denominator.
+Do not compare aggregate scores across different tasks or denominators.
+
+Define required planning outputs and critical instructions before evaluation.
+Every critical instruction must be present, consistent, appropriately evidenced
+and executable in the evaluated desktop/mobile task. Any critical failure is
+a publication failure, whatever the total. Independent P0-P2 findings must be
+fixed; score1 limitations cannot excuse a critical missing output. No universal
+22/24 threshold applies to future different tasks. Preserve historical scores
+and task-specific criteria; do not lower a threshold to pass a failing page.
+Where no prior page exists, state no before-page baseline instead of inventing
+one. For an existing owner retain reproducible before-task evidence.
+
+Before qualifying a guide, freeze one mechanism/source lineage and trace
+materials, critical geometry, adult role, first start, stops and rescue across
+source text, source visuals, draft instructions, proposed diagram and inbound
+owners. Mark nonexistent surfaces N/A, not tested. Critical conflict/unknown
+means further research or defer. Before publication verify actual rendered
+surfaces agree. Keep this matrix in the action evidence, not as clutter on the
+parent-facing page. This rule follows the September20 weekly synthesis;
+it does not claim physical performance or measured family understanding.
 
 An independent reviewer may evaluate wording and evidence. It may not supply
 the missing human evidence.

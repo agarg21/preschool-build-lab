@@ -6,9 +6,21 @@ engagement strategy and gives the active Master chat one durable execution queue
 Control Room scheduling is paused until the user explicitly re-enables
 automation.
 
-Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
+Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 ## Current sequence
+
+0. `KAL-WEEKLY-002` recovers September20 synthesis in eight exact paths.
+   Full13-dimension/critical-output gate replaces a universal22/24 floor
+   prospectively; source/visual/route agreement required for next RES015.
+   Historical scores untouched. Gate-based horizonSeptember20-October17;
+   no numeric rank forecast. RES015 then RES016/017, RES018/019 deferred,
+   MON sensing and IDX unpromoted. LatestSept19 through17:253 impressions,
+   9clicks; ramp183/9, priority10/10. Query/new-guide rows unavailable.
+   Correct stale WEEKLY001 active flag from its existing release evidence.
+   No page, paid call or new implementation approval. Operator81 tests,
+   independent80 tests,64 snapshots and source/scope QA pass; independent
+   cycle1 PASS, no P0-P3. Review-clean, push pending.
 
 0. Completed `KAL-OPS-007`: repaired heartbeat continuity and conflicting
    sensor-only no-op/paused-automation guidance. Nine exact paths and one

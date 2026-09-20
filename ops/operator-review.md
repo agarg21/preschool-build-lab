@@ -1,5 +1,23 @@
 # Operator Review
 
+## KAL-WEEKLY-002 - September 20
+
+Eight exact documentation/review/roadmap paths; base
+`d62c5911aa20b3128adbff977fa1a24fc22956ab`. Recover incomplete weekly
+synthesis; retain scores, retire universal denominator rule, require critical
+output/source/visual/route agreement and preserve candidate gates. Existing
+WEEKLY001 stale active flag corrected from released evidence only. No site,
+generator, data, snapshot or workflow changes. Operator81 tests,64 snapshots,
+JSON,whitespace,metric reproduction,relative references,exact scope and
+protected outputs PASS. Different read-only reviewer Chandrasekhar
+`01a0bea5-c01e-75d0-a408-dc6a3ae08784` cycle1 PASS, no P0-P3. Independently
+80 non-writing tests,64 snapshots,arithmetic,scope/references pass;386
+out-of-scope tracked files unchanged. Sitemap's temporary-file test excluded
+by reviewer, covered by operator's81 tests. Reviewer permits verified factual
+closeout within eight paths; all substantive content/gates remain frozen.
+Learning complete and review-clean; push pending. No new production checks
+or human outcomes claimed.
+
 ## KAL-OPS-007 - September 20
 
 Independent read-only review of nine registered paths from clean base

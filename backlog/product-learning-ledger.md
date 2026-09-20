@@ -4,6 +4,32 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-20 - KAL-WEEKLY-002
+
+- Family decision/task: caregiver chooses and starts one coherent activity
+  without reconciling contradictory sources, pictures or inbound instructions.
+- Hypothesis: per-dimension critical-output gates and a cross-surface agreement
+  matrix expose defects a universal22/24 publication floor misses.
+- Sources/classes: September13-19 retained ledger/review/release records;
+  September12/18/19 finalized GSC metrics MEASURED within scope; source audits
+  SOURCE_BACKED within limits; scores/rule/priorities EDITORIAL_JUDGMENT.
+  No new external collection or human-use evidence.
+- Result: REJECT_HYPOTHESIS that totals with different denominators supply a
+  universal quality gate. PRESERVE qualified individual-guide direction.
+  Cup23/24 and helicopter22/26 are not comparative user-performance evidence.
+- Confidence: high for documented denominator/source-route conflicts; medium
+  for prospective rule utility; actual parent comprehension/ranks UNKNOWN.
+- Action: full13-dimension applicability record, explicit critical outputs,
+  source/visual/route matrix for next RES015. Retain all independent-review,
+  trust and publication gates; do not change historical scores.
+- Lesson: a locally clear guide can still inherit a wrong mechanism or route;
+  agreement and critical outputs matter more than one aggregate number.
+- Falsification: a critical conflict survives the matrix, N/A hides a required
+  instruction, or extra review structure creates parent-facing clutter.
+- Boundary: weekly desk synthesis only; no physical/browser retest, new page,
+  paid spend or family outcome. Detailed evidence and review status:
+  `weekly/2026-09-20-parent-task-synthesis.md` and `ops/operator-review.md`.
+
 ## 2026-09-19 - KAL-IMP-013
 
 - Decision/task: parent prepares one paper helicopter without a printer,
