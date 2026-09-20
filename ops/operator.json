@@ -1,11 +1,13 @@
 {
   "schema_version": 1,
   "slug": "kid-activity-lab",
-  "mission": "Build a practical kids activity site whose durable advantage is original, parent-useful, safely tested content.",
+  "mission": "Build a practical kids activity site whose durable advantage is original, parent-useful research synthesis with honestly labeled evidence; never imply testing that did not occur.",
   "lifecycle": "active",
   "autonomy": "reviewed-release",
-  "execution_mode": "manual-master-chat",
-  "automation_status": "paused-until-user-reenables",
+  "execution_mode": "master-chat-with-authorized-heartbeat-pilot",
+  "automation_status": "heartbeat-pilot-active-control-room-paused",
+  "autopilot_prompt": "ops/autopilot-prompt.md",
+  "pilot_ends_at": "2026-11-03T17:00:00-05:00",
   "commit_cadence": "risk-based-sequential-transactions",
   "control_room": "/Users/apoorvagarg/Documents/SEO Agent/seo-lab/operator",
   "central_config": "config/sites/kid-activity-lab.json",
@@ -16,14 +18,14 @@
     "cloud_capabilities": ["github", "public-web", "gsc-readonly-api", "repository-qa", "static-site-generation"],
     "local_dependencies": [
       {
-        "name": "semrush",
-        "reason": "Authenticated Chrome session",
-        "fallback": "Continue without Semrush and label the evidence unavailable or stale."
+        "name": "paid-keyword-enrichment",
+        "reason": "Semrush expired; DataForSEO requires an explicitly authorized batch budget",
+        "fallback": "Use dated retained estimates and current public-source research when sufficient; label missing evidence and do not infer new spend authority."
       },
       {
         "name": "parent-test-evidence",
         "reason": "Requires real observations supplied by the user",
-        "fallback": "Improve intake and tooling, but never invent test results."
+        "fallback": "Not a prerequisite for honestly research-backed non-product guidance. Keep family outcomes unknown; tested claims and product reviews remain gated."
       }
     ]
   }

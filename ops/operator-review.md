@@ -1,5 +1,33 @@
 # Operator Review
 
+## KAL-OPS-007 - September 20
+
+Independent read-only review of nine registered paths from clean base
+`f9be85d3cb91275bc122923b89b16f29ef5a4c2e`. External scope is only the
+existing heartbeat prompt, after review; preserve all schedule/target/status/
+notification settings. No product-learning or site improvement is claimed.
+Review scenarios: compaction with old backlog text, qualified build with
+unchanged GSC, research-first candidate, valid no-op, blocked reviewer, newer
+user redirect, expired pilot. Require retained evidence/privacy/safety/budget/
+native-QA/independent-review/release gates and no fabricated completion.
+
+Operator81 tests,64 snapshots,JSON,whitespace,nine-path scope,existing roadmap
+preservation and prompt-reference checks pass. Reviewer Anscombe
+`01a0be9c-e191-7bd1-817b-eb250eca440d` independently reproduced81 tests,
+64 snapshots,scope/JSON/whitespace and preserved prior items. Cycle1 FAIL:
+one P2, weekly synthesis had become optional behind a continuing work queue.
+Corrected: explicit seven-day obligation and overdue priority before new
+builds/research, after emergency/unfinished work. Eight other scenarios passed.
+Cycle2 PASS, no P0-P3; all nine scenario walkthroughs pass, including overdue
+weekly synthesis. Reviewer independently reran the full checks. Reviewed
+prompt SHA256 `89eb0d41ee8958d338bc56708028956f82742f4a7c419b223f7233e5a9480b38`.
+Installed via automation_update into the existing heartbeat; saved TOML prompt
+matches reviewed content except the app strips its single terminal newline.
+All other persisted fields except updated_at unchanged, including ID, kind,
+name, target, schedule, ACTIVE state and default notification preference.
+Reviewer permits factual QA/install/release closeout within scope. Push pending;
+scenario review is not evidence that a future heartbeat will complete.
+
 ## KAL-IMP-013 - September 19
 
 Frozen base `d6a3a51a6fee8292cd9b63fc66c67a8e7e514ffd`, exact21 paths;

@@ -1,5 +1,26 @@
 # Current Cycle
 
+## Run Checkpoint - September 20 Manual Recovery
+
+- Trigger: user asked to fix scheduled runs that fail to do real work and
+  continue working. The morning heartbeat `2026-09-20T09:01:16.941Z` remains
+  INCOMPLETE: it began weekly analysis then answered an older backlog request
+  after compaction. No completed learning artifact resulted from that run.
+- Selected action: `KAL-OPS-007`, active, prompt/protocol repair. Clean/aligned
+  base `f9be85d3cb91275bc122923b89b16f29ef5a4c2e`; exact nine paths and one
+  existing-automation prompt update are registered in the roadmap.
+- Phase: review-clean and prompt installed. Native81 tests,64 snapshots,
+  JSON/whitespace/scope/protected-output checks PASS; independent cycle2 PASS
+  closes one P2 about mandatory weekly cadence. Saved prompt content matches
+  reviewed file (app strips final newline only); all other settings unchanged
+  except updated_at. Next: exact-path push and alignment verification.
+- Required completion evidence: review PASS/PASS_WITH_P3, green QA, saved
+  prompt equality, reviewed commit and push alignment. No product-learning
+  credit for this infrastructure repair.
+- Follow-on: resume unfinished weekly synthesis in its own transaction; then
+  RES015 straw-rocket qualification. No site changes or new API budget here.
+- Blockers: none observed. No-op is not eligible while this work remains.
+
 ## September 19 Afternoon - KAL-IMP-013 Released
 
 Resumed the morning's roadmap-only registration; no existing content edit was

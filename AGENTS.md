@@ -54,6 +54,12 @@ The current strategic direction is:
 
 ## Start Every Work Session
 
+During the September 3-November 3, 2026 learning pilot, the same-thread
+heartbeat is authorized; Control Room remains paused. Follow
+`ops/autopilot-prompt.md`. Save the active invocation/action checkpoint at the
+top of `ops/current-cycle.md` before extended work; reread it after compaction.
+Only a newer user redirect supersedes it, not an older backlog request.
+
 1. Read this file.
 2. Read `strategy/current-strategy.md`.
 3. Read `ops/current-cycle.md`.
@@ -224,10 +230,13 @@ PY
   workflow paths changed, the native Pages run and action-specific production
   invariants. Stop on remote divergence or a production regression whose
   rollback scope is ambiguous.
-- GitHub Actions collects a normalized public-safe GSC snapshot daily. At run start, validate and compare every new snapshot with the prior snapshot and `ops/seo-roadmap.json`. The first snapshot establishes a baseline and cannot satisfy a changed-evidence gate. New data may unlock or reprioritize an item, but an unchanged healthy snapshot is housekeeping and should produce a no-op rather than manufactured work.
+- GitHub Actions collects a normalized public-safe GSC snapshot daily. At run start, validate and compare every new snapshot with the prior snapshot and `ops/seo-roadmap.json`. The first snapshot establishes a baseline and cannot satisfy a changed-evidence gate. New data may unlock or reprioritize an item, but an unchanged healthy snapshot is only a sensing no-op; continue independently eligible work under the pilot rules below.
 - Never commit GSC credentials, complete raw query exports, country/device rows, or user data. Treat Semrush as optional enrichment; GSC API evidence is the unattended first-party measurement source.
 - Sensor cadence is not a page-production quota. Healthy unchanged evidence
-  should still produce a no-op rather than manufactured work.
+  is a sensing no-op, not a reason to skip independently eligible research or
+  implementation. During the pilot, a whole-run no-op additionally requires
+  today's completed learning and no remaining eligible useful action; otherwise
+  finish one bounded action or report a concrete blocker/incomplete state.
 - Never invent parent-test observations, child quotes, photos, engagement data, or tested status to unblock an autonomous run.
 - Personas derived from queries, SERPs, or community questions are
   `RESEARCH_HYPOTHESIS` evidence. They never become parent-test evidence or

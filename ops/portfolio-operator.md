@@ -5,7 +5,9 @@ Migration date: 2026-07-17
 Kid Activity Lab remains enrolled in the central Control Room at
 `/Users/apoorvagarg/Documents/SEO Agent/seo-lab/operator/`, but Control Room
 scheduling is paused while the permanent Master chat operates the project
-manually. Automation may be re-enabled later by explicit user instruction.
+through this chat. The separately authorized September 3-November 3, 2026
+same-thread heartbeat pilot is active under `ops/autopilot-prompt.md`; this
+does not re-enable Control Room scheduling, dispatches or ledger access.
 
 This repository remains authoritative for strategy, implementation, parent-test
 evidence, content review, generation, validation, and release policy. Historical
@@ -24,7 +26,8 @@ observations, child quotes, photos, or tested status.
 The daily read-only GSC Action remains run-start housekeeping. Validate and
 compare a new snapshot with the prior snapshot and roadmap before choosing
 evidence-dependent work. Act when the evidence changes a gate or decision;
-otherwise record a healthy no-op.
+otherwise record a healthy sensing no-op and still evaluate the eligible work
+queue. A sensor no-op is not the outcome of a whole learning-pilot run.
 The first dated snapshot establishes the baseline; it is not changed evidence.
 When the current sensor and release evidence remain fresh and their inputs are
 unchanged, use the fast no-op path without repeating deployment or production

@@ -86,7 +86,14 @@ roadmap, commit, push, deploy, or mutate external accounts.
 
 ## Stop Rule
 
-Pause the agent loop when there is no useful next action without user input, real parent testing, Search Console data, Semrush/DataForSEO data, customer feedback, or another real-world signal.
+Pause only when no useful next action is possible with available authorized
+evidence and tools. Research-backed non-product work does not require family
+testing, fresh GSC or a paid subscription unless its specific gate needs it.
+During the active pilot use `ops/autopilot-prompt.md`: checkpoint the invocation
+and selected action, resume it after compaction, and require artifact-backed
+completion or a concrete blocked/incomplete outcome. A completed morning
+learning unit does not excuse skipping an eligible afternoon build/research
+task. Never manufacture work or bypass an evidence/review gate.
 
 ## End Of Run
 
