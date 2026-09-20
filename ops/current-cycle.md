@@ -4,19 +4,24 @@
 
 - Trigger: manual continuation of the interrupted `2026-09-20T09:01:16.941Z`
   heartbeat, after completed/released `KAL-OPS-007` prompt repair.
-- Action: `KAL-WEEKLY-002`, active; exact eight documentation/review/roadmap
+- Action: `KAL-WEEKLY-002`, COMPLETED; exact eight documentation/review/roadmap
   paths registered before substantive edits. Base is the immediately preceding
   reviewed prompt closeout `d62c591`; checkout clean and origin aligned.
 - Objective: finish the week's synthesis, resolve non-comparable score gates,
   and require source/visual/route agreement before the next qualification.
-- Phase: learning complete and review-clean. Synthesis, rubric, learning entry
+- Phase: released push-only. Synthesis, rubric, learning entry
   and September20/27 roadmap rescore complete. Operator81 tests,64 snapshots,
   JSON/whitespace/scope/metrics pass; independent cycle1 PASS, no P0-P3.
   Reviewer `01a0bea5-c01e-75d0-a408-dc6a3ae08784`, read-only80 tests and386
-  out-of-scope tracked files unchanged. Next: exact-path push/alignment.
-- Completion still required: actual commit/push evidence, not a promised
-  release. No new site, API spend or physical/family evidence.
-- Blockers: none. Next candidate after completion is RES015; no GSC wait.
+  out-of-scope tracked files unchanged. Reviewed `7d04746` pushed to main,
+  local/origin clean/aligned verified. No production deployment applies.
+- Completion evidence: `weekly/2026-09-20-parent-task-synthesis.md`, dated
+  learning entry, updated persona protocol, reviewed commit and actual push.
+  No new site, API spend or physical/family evidence.
+- Blockers: none. Next executable step is register exact RES015 paths/base,
+  inspect current straw-rocket sources/visuals and SERP bodies, and complete
+  one build/upgrade/preserve/defer/reject qualification decision. No GSC wait
+  or new user approval is needed for free public-source qualification.
 
 ## Run Checkpoint - September 20 Manual Recovery
 
