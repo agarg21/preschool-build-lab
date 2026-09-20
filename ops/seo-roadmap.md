@@ -10,11 +10,13 @@ Last rescored: 2026-09-13. Next rescore due: 2026-09-20.
 
 ## Current sequence
 
-0. Active `KAL-OPS-007`: repair heartbeat continuity and conflicting
+0. Completed `KAL-OPS-007`: repaired heartbeat continuity and conflicting
    sensor-only no-op/paused-automation guidance. Nine exact paths and one
    existing prompt update in JSON. No product-learning credit or site changes.
    The September20 morning weekly run is incomplete, not a successful no-op.
-   Resume its synthesis separately after reviewed prompt release, then RES015.
+   Independent cycle2 PASS and81 tests; reviewed `fb8fc7c` pushed, local/origin
+   clean/aligned. Existing prompt installed, content/settings verified.
+   Resume the synthesis separately, then RES015. No production deployment.
 
 1. Completed `KAL-IMP-013`, September19, resumed after snapshot-only fast-forward
    to `d6a3a51`. Exact21 paths registered in JSON. One helicopter guide/map
