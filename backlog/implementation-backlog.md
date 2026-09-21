@@ -4,16 +4,23 @@ The roadmap is authoritative. This backlog supplies implementation context; it
 does not independently schedule work. The Master / Operator is the single
 repository writer for a validated transaction.
 
-## Individual Page Queue - September 19
+## Individual Page Queue - September 21
+
+RES015 qualification is complete in the [straw-rocket decision pack](../seo/straw-rocket-qualification-2026-09-20.md),
+source-checked September21. Next is separately registered `KAL-IMP-014`:
+one template-based paper rocket, adult preparation/launch, original fit/air-path
+map and leak/jam recovery. Printer required; no silent no-printer or sleeve
+substitution. Publication still requires source/map agreement, full parent
+task/browser QA and independent review. No child-launch or age safety promise.
 
 `KAL-IMP-013` is released: one original paper-helicopter map
 and guide, no new card. Native81 tests and local parent/browser QA pass;
 independent cycle3 PASS, no P0-P3; reviewed `977d80d`, exact-SHA Pages35458096637
 and production checks pass. No-ruler interpretation remains an explicit proxy
-limitation. Next is RES015 qualification, not another build.
+limitation. RES015 has now nominated the bounded build above.
 
-One candidate is released and under observation; three require
-qualification first and two remain deferred. These are potential guides,
+One candidate is released and under observation; one is qualified for a
+conditional build, two require research and two remain deferred. These are potential guides,
 not six promised URLs. Titles below describe parent jobs; final URLs and
 keyword ownership are assigned only after qualification.
 
@@ -27,7 +34,7 @@ SERP samples are incomplete. Strong institutional competitors already exist.
 | Order / state | Proposed guide and parent job | Retained demand evidence | Next action and publication dependency |
 |---|---|---|---|
 | 1 / Released, observe | **Paper helicopter: fold, drop and try again.** Adult prepares one clip-free model; child releases and watches; parent checks a non-turning drop. | `paper helicopter` 2,900; `paper helicopter experiment` 90 | `KAL-IMP-013` released in `977d80d`; original map, parent-task, source, desktop/mobile, independent review and production checks passed. Observe post-release crawl and finalized page/query evidence; physical/family outcomes remain unknown. |
-| 2 / Research first | **Straw rocket: make a paper sleeve and launch.** Parent chooses materials, prepares one mechanism and diagnoses leaks or jams. | `straw rocket` 2,900; `straw rocket for kids` UNKNOWN | `KAL-RES-015`. Resolve sleeve geometry, launch/air-path controls and younger-child fit; prove useful parent guidance beyond the strong NASA/template results before nominating one guide. |
+| 2 / Conditional build | **Paper straw rocket: parent prepares and launches.** Child may decorate, count down or watch; parent checks fit and diagnoses leaks/jams. | `straw rocket` 2,900; `straw rocket for kids` UNKNOWN | `KAL-IMP-014`, nominated by completed RES015. NASA JPL template lineage, printer prerequisite, explicit taped nose and adult-only launch. Build one guide/map after exact-path registration; verify actual source/prose/diagram agreement and parent task before review/release. No guaranteed rank or physical result. |
 | 3 / Research first | **Paper chain: link one sheet into a longer chain.** Parent demonstrates an actual linked loop and offers an untimed build/retry. | `paper chain challenge` 390; `longest paper chain challenge` 70 | `KAL-RES-016`. Compare one-sheet length with existing book-wrap reach. Decide new guide versus existing-owner upgrade; declare link rules, adult cutting and material limits. |
 | 4 / Research first | **Foil boat: shape, float and recover.** Parent chooses a shallow-tray setup, checks an empty hull and changes one thing. | `aluminum foil boat experiment` 50; `foil boat challenge` 110 | `KAL-RES-017`. Reconcile three current owners and source cargo/material differences. An existing-page upgrade may be the correct outcome; source coins and KAL large cargo are not established equivalents. |
 | Deferred | **String-disc paper spinner.** Parent prepares the disc and helps with threading, winding and recovery. | `paper spinner` 720; `paper spinner toy` 70 | `KAL-RES-018`, deferred. Reopen only for evidence that coordination/cord/adult-control requirements fit the current audience. No automatic younger-age adaptation. |

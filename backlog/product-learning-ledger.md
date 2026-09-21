@@ -4,6 +4,30 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-21 - KAL-RES-015
+
+- Family decision/task: choose one paper rocket model, prepare and start it
+  with an adult launcher; recover a jam/leak without changing mechanism.
+- Hypothesis: sources describing straw rockets can be combined without
+  checking template and sleeve differences. REJECT_HYPOTHESIS.
+- Sources/classes: September21 JPL/Glenn, Scholastic, Buggy and Buddy and
+  Science Sparks body audit, rendered NASA template and selected source
+  images SOURCE_BACKED; September17 US Ads estimates retained TOOL_ESTIMATE;
+  four parent tasks RESEARCH_HYPOTHESIS; default/role selection editorial.
+- Result: completed qualification, conditional BUILD candidate IMP014.
+  Freeze JPL template, explicitly tape nose despite worksheet omission;
+  printer prerequisite, adult launch and clear fit/rescue. No public edits.
+- Confidence: high for observed source differences; medium for proposed
+  planning value; real use, safety outcomes and attainable rank UNKNOWN.
+- Reusable lesson: inspect linked visuals and prose separately; simplify the
+  parent sequence without silently deleting a critical step or prerequisite.
+- Falsification trigger: default/diagram disagreement, unclear fit/control,
+  inaccessible template or a critical parent-task failure blocks publication.
+- Boundary: research only, no physical/family test or new paid calls. No
+  unbuilt UI scores. Full pack `seo/straw-rocket-qualification-2026-09-20.md`;
+  actual QA/reviewer/release recorded in operator review. Next register and
+  execute one IMP014 build, not another generic qualification or GSC wait.
+
 ## 2026-09-20 - KAL-WEEKLY-002
 
 - Family decision/task: caregiver chooses and starts one coherent activity

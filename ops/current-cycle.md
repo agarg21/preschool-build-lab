@@ -1,5 +1,54 @@
 # Current Cycle
 
+## Run Checkpoint - September 21 Morning Recovery
+
+- Invocation: `2026-09-21T09:00:53.756Z`, scheduled heartbeat inside pilot.
+- Objective/action: finish interrupted `KAL-RES-015` qualification, not a page
+  build or an older compaction discussion. September20 registration is retained.
+- Base: `96e8629a88879991104f2fbe5f001c3ad353df32`; fetched origin, aligned0/0.
+  Only prior action's roadmap/current-cycle edits were dirty and are preserved.
+- Scope: same nine registered paths; retain September20 artifact filename and
+  label actual September21 completion/source checks. No site or paid API work.
+- Phase: qualification artifact complete;81 tests,65 snapshots,JSON/whitespace,
+  scope/reference/privacy/prior-item preservation PASS; independent cycle1
+  PASS, no P0-P3, reviewer `01a0c338-c647-7333-9c39-f218c89f5e3b` read-only.
+  Exact committed-range verification and push next; no production deployment.
+  One conditional BUILD candidate IMP014, JPL template/printer prerequisite,
+  adult-only launch, fit/air-path map and leak/jam recovery. Four source-derived
+  tasks; all13 future dimensions, no unbuilt UI score or family testing.
+- Required: native QA, independent read-only review, exact-path commit/push,
+  alignment and dated learning entry. No new snapshot since September20.
+- Blockers: none observed; unfinished eligible research takes priority.
+
+- Artifact: `seo/straw-rocket-qualification-2026-09-20.md`, completed/source-
+  checked September21. No source assets retained in repo, no paid calls/site
+  edits. September20 registration and interruption retained below as history.
+
+## Run Checkpoint - September 20 Afternoon Straw Rocket
+
+- Invocation: `2026-09-20T17:01:50.153Z`, scheduled heartbeat. This is the
+  active task, not an older automation/compaction discussion or backlog recap.
+- Action: `KAL-RES-015`, source/SERP/parent-task qualification only. Clean base
+  `96e8629a88879991104f2fbe5f001c3ad353df32` after inspected snapshot-only
+  fast-forward. Exact nine paths registered in roadmap before research edits.
+- Phase: gather evidence. Next: inspect NASA and alternate sleeve methods,
+  linked geometry, search intent and existing owner; draft one decision pack.
+- Completion still required: one supported candidate decision, agreement matrix,
+  source-derived parent tasks, learning entry, native QA, different independent
+  review, exact-path commit/push and alignment. Registration is not completion.
+- Limits: no site changes, new paid calls, accounts/indexing requests, safety
+  assurance or invented family/child evidence. No automation/config changes.
+- Sensing:65 snapshots validate. Sept20 collected14:22:29UTC, finalized through
+  Sept18, windowAug22-Sept18 versus priorAug21-Sept17:253->270 impressions,
+  9->9 clicks, position13.60->13.43. Ramp183->190/9clicks/11.58unchanged.
+  Priority inspections byte-identical10/10. Complete queries/new-guide rows
+  unavailable, not zero. New Duplo card row is newly visible, not prior zero.
+  Other changes: age4STEM2->5 impressions,pos8->9.4; magnet1->2/12->11.5;
+  games8->9/13.88->13.44; engineering15->19/6.87->7.42; originalpack3->4/
+  15.33->11.75; originalhub4->3/7.5->11.33. No causal or query-intent inference.
+- Blockers: none yet. Weekly synthesis already complete; useful research
+  remains, so this is not an eligible no-op.
+
 ## Run Checkpoint - September 20 Weekly Recovery
 
 - Trigger: manual continuation of the interrupted `2026-09-20T09:01:16.941Z`

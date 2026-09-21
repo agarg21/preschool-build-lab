@@ -1,5 +1,26 @@
 # Operator Review
 
+## KAL-RES-015 - September 21 Recovery
+
+Frozen base `96e8629a88879991104f2fbe5f001c3ad353df32`, nine exact registered
+paths: straw-rocket qualification, persona log, learning ledger, implementation
+backlog, research backlog, both roadmap mirrors, current cycle and this record.
+Preserved prior roadmap/checkpoint edits from interrupted September20 run.
+Source/visual/current-query audit nominates one template-based adult-launch
+build IMP014; no public paths, paid call or family outcome. Qualification
+complete; operator81 native tests,65 snapshot validations, JSON/whitespace,
+nine-path scope,53 unique IDs,51 unrelated prior item equality, local artifact
+references and targeted privacy checks PASS. No site/scripts/data/workflow/
+snapshot diffs. Different read-only reviewer Euclid
+`01a0c338-c647-7333-9c39-f218c89f5e3b` cycle1 PASS, no P0-P3, reviewed
+the full nine-path base-to-worktree range. Independently verified source
+seal difference, four visuals, all four parent-task contracts/seven sections,
+JSON/whitespace,65 snapshots,scope/IDs/prior-item equality. Native81 tests are
+operator-run, not independently rerun. Exact committed-range verification and
+push pending. Reviewer permits verified factual QA/review/release closeout
+within scope; no substantive changes under that permission. Source/privacy checks
+retain paraphrases/URLs/dates only, no private records, child names or quotes.
+
 ## KAL-WEEKLY-002 - September 20
 
 Eight exact documentation/review/roadmap paths; base

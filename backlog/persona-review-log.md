@@ -6,6 +6,18 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-21 - Straw Rocket Qualification
+
+`KAL-RES-015`, RESEARCH with conditional BUILD nomination `KAL-IMP-014`.
+Four procedure-derived tasks: prepare correct template model; recover jam/leak;
+include a younger observer without child launching; scan on phone with images
+unavailable. Source/visual matrix and every-section contract are in
+`seo/straw-rocket-qualification-2026-09-20.md` (completed September21).
+Printer required and adult retains launcher. NASA grades4-8 are not ages4-8.
+All13 rubric dimensions apply prospectively, denominator26; no before/after
+score or browser pass is invented for an unbuilt guide. Critical failure
+overrides totals. Actual outcomes, age fit and satisfaction remain UNKNOWN.
+
 ## 2026-09-19 - Helicopter Implementation Proxy
 
 `KAL-IMP-013`: the four RES014 tasks were exercised against the local guide
