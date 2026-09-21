@@ -12,7 +12,8 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 0. September21 recovery: `KAL-RES-015` qualification artifact complete,
    native81 tests/65 snapshots and independent cycle1 PASS, no findings.
-   Exact committed-range verification/push pending. Nine paths, unchanged base
+   Cycle2 exact-range PASS; reviewed `d1f4539` pushed, clean local/origin0/0
+   verified. COMPLETED, push-only; facts-only closeout follows. Nine paths, base
    `96e8629`. [Decision pack](../seo/straw-rocket-qualification-2026-09-20.md)
    nominates one conditional `KAL-IMP-014`: JPL template-based paper rocket,
    adult preparation/launch, printer prerequisite, original fit/air-path map
