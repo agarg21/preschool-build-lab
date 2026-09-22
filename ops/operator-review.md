@@ -18,8 +18,17 @@ independently confirmed88 tests,66 snapshots,71HTML/724links,22CSV rows,
 every-section keep, desktop/mobile/keyboard/200%text/image fallback.
 September22 recovery reran native QA, complete links/parse/scope and all four
 generators across114 site/data files byte-identically. Template HTTP200.
-Frozen commit confirmation and production release still pending. No physical
-or family outcome claimed. Verified factual closeout is within reviewed scope.
+Finalcycle3 PASS for full range
+`0604ac339c59848c7f4d5e7d1da72c374408cd2e..55efb753fdfa5fb1d4ed0e3b06d6dc9db07738e0`.
+P2-01 publication-date mismatch closed by five-path metadata-only correction;
+both schema dates and guide sitemap nowSeptember22; source checks stay21.
+No remaining P0-P3. Finalcycle3 strictly read-only, no test/generator execution.
+Released reviewed range September22; exact-SHA Pages35708817142 success,
+four production outputs HTTP200/byte-identical; canonical/H1/inbound/sitemap,
+1280/390/320 browser, keyboard,200%text, image/full-size, mobile touch,
+no-printer exit and blocked-image rescue PASS. No JS errors. No release marker
+exists. Local/origin aligned/clean verified. No physical/family outcome claimed.
+Reviewer permits this ten-document facts-only closeout; no new material change.
 
 ## KAL-RES-015 - September 21 Recovery
 

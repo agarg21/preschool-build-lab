@@ -14,7 +14,9 @@ printer prerequisite, adult-only launch and explicit fit/seal/stops/recovery.
 After score23/26 across all13 dimensions, no before baseline or human test.
 Setup time, individual fit and small phone diagram labels remain limitations;
 full-size map route and complete prose are present. No critical failure
-observed. PRESERVE subject to independent review/release; actual release
+observed. September22 production repeats the four tasks at1280/390/320 widths,
+including keyboard,200%text,touch,no-printer exit and missing-image recovery.
+Independent finalcycle3 PASS; PRESERVE the released guide. Actual release
 facts belong in `reviews/paper-straw-rocket-guide-implementation-review-2026-09-21.md`.
 
 ## 2026-09-21 - Straw Rocket Qualification

@@ -134,3 +134,31 @@ After release preserve the new guide until aligned finalized crawl/page/query
 evidence or a concrete task/trust defect warrants change. Next eligible
 substantive work is RES016 paper-chain ownership qualification, not another
 unresearched rocket variant. No fresh API budget implied.
+
+## September 22 Verified Release
+
+Finalcycle3 PASS by the same different reviewer for full range
+`0604ac339c59848c7f4d5e7d1da72c374408cd2e..55efb753fdfa5fb1d4ed0e3b06d6dc9db07738e0`.
+Two commits: implementation8e9bf59 and publication-metadata correction55efb75.
+P2-01 closed: actual publication/modification and guide sitemap dates22,
+source checks remain21. Five corrective paths, six additions/five removals;
+same21 total exact paths,383 protected files unchanged. No remaining findings.
+Cycle3 strictly read-only; no tests, generators, browser/source retesting or
+account writes. Prior substantive review applies; final88 tests and114-file
+idempotence operator-reconfirmed, not independently repeated.
+
+Reviewed head pushed; [exact-SHA Pages run](https://github.com/agarg21/preschool-build-lab/actions/runs/35708817142)
+succeeded September22 at09:10:11UTC. Live guide, diagram, library and sitemap
+return200 and exactly match release commit bytes. No release marker exists.
+Canonical/H1, one inbound library route,66 sitemap URLs and required content
+invariants pass. Production1280x900,390x844 and320x844 keyboard entry/jumps,
+200%text/heading clearance, image load/full-size route and no-overflow checks
+pass. Mobile touch no-printer exit reaches the helicopter; source PDF200;
+blocked-image rescue remains complete. Screenshots inspected for first view,
+diagram, rescue, enlarged text, cleanup and source limits; no incoherent overlap
+or clipping found, no JS errors. Small diagram labels still need full-size
+view. Four parent tasks remain planning proxies,23/26, not physical testing.
+
+Browser and previous local server closed. Local/origin clean0/0 verified after
+release. This subsequent documentation-only closeout records verified facts
+under reviewer permission; no new deployment or content is implied.

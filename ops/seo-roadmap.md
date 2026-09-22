@@ -10,14 +10,16 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 ## Current sequence
 
-0. `KAL-IMP-014` selected September21 afternoon, base `0604ac3`,21 paths
-   including registered inventory-test extension. One template-based rocket
-   guide/map and library route; no prior-guide edits. Native88 tests,66
-   snapshots,idempotence and local browser QA PASS; parent proxy23/26, not
-   family testing. Independent worktree review PASS, no P0-P3; September22
-   recovery reconfirmed native QA, scope and idempotence. Frozen commit
-   confirmation and exact-SHA release pending. Next
-   after release: RES016, then RES017; RES018/019 still deferred. WeeklySept27.
+0. `KAL-IMP-014` COMPLETED September22; base `0604ac3`,21 exact paths.
+   One template-based rocket guide/map and library route; no prior-guide edits.
+   Independent finalcycle3 full-range PASS, publication-date P2 corrected;
+   reviewed release `55efb75`, Pages35708817142 success, four production
+   outputs HTTP200/byte-match and desktop/mobile parent tasks PASS.
+   Native88 tests,66 snapshots,114-file idempotence,71HTML/724links pass.
+   Parent proxy23/26, not family testing. No release marker exists.
+   Next: separately register RES016 paper-chain ownership qualification,
+   then RES017; RES018/019 deferred. WeeklySept27. No generic requalification
+   or new paid budget. Ten-document factual release closeout is push-only.
 
 0. September21 recovery: `KAL-RES-015` qualification artifact complete,
    native81 tests/65 snapshots and independent cycle1 PASS, no findings.

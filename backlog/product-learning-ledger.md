@@ -4,6 +4,30 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-22 - KAL-IMP-014 Production Task Validation
+
+- Decision/task: caregiver identifies prerequisites, follows adult setup,
+  finds launch/stop rules and diagnoses a jam/leak on the released guide.
+- Hypothesis: the planning task remains answerable on a phone, with enlarged
+  text or without the diagram; no printer requires a clear different-activity
+  exit rather than an invented substitution.
+- Sources/classes: September21 reconciled JPL/Glenn procedure and RES015
+  tasks; September22 production browser/HTTP observations are software QA,
+  source-derived personas RESEARCH_HYPOTHESIS, disposition EDITORIAL_JUDGMENT.
+- Result: PRESERVE, four planning tasks pass at1280/390/320 widths; keyboard,
+  200%text, full-size map, mobile touch, no-printer exit and missing-image
+  rescue work. Proxy23/26 retained; no critical failure, no human test.
+- Confidence: high for deployed route/content agreement; medium for intended
+  planning utility. Physical fit/flight, time, satisfaction and safety UNKNOWN.
+- Action: released reviewed55efb75; exact-SHA Pages35708817142 success and
+  all four public outputs byte-match. Seven dedicated guides now released.
+- Reusable lesson: critical preparation and recovery must remain in text;
+  a diagram can explain the mechanism without becoming a required dependency.
+- Next falsification trigger: broken template/alternate route, hidden critical
+  instruction, prose/diagram disagreement or genuine user confusion.
+- Measurement boundary: current GSC predates release; missing guide/query rows
+  are unavailable, not zero. No rank or family-outcome inference. Next RES016.
+
 ## 2026-09-21 - KAL-IMP-014
 
 - Decision/task: parent prepares one template rocket, adult launches, child

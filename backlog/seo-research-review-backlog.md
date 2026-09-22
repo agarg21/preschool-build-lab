@@ -16,12 +16,12 @@ Historical supporting files:
 
 ## Candidate Qualification Queue - September 18
 
-Current September21 order: observe released `KAL-IMP-013`; completed
-`KAL-RES-015` nominates conditional build `KAL-IMP-014`, then research
+Current September22 order: observe released `KAL-IMP-013` and `KAL-IMP-014`;
+completed `KAL-RES-015` supplied the rocket build. Next research
 `KAL-RES-016`, `KAL-RES-017`. `KAL-RES-018` and `KAL-RES-019` are deferred.
-Afternoon: IMP014 now locally built, proxy23/26 and88 tests pass; independent
-review and release pending. Do not repeat RES015; after build disposition
-select the existing RES016 task and exact paths.
+IMP014 released55efb75, independent finalcycle3 PASS, Pages35708817142 and
+production bytes/desktop/mobile tasks verified. Proxy23/26 and88 tests pass.
+Do not repeat RES015; select the existing RES016 task and exact paths.
 This is an ordered backlog, not concurrent assignments or a page quota.
 Register exact paths/base when selecting each transaction. Planned deliverables
 below do not claim that new research has already been performed.
