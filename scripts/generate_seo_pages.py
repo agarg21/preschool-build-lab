@@ -2148,7 +2148,7 @@ def paper_straw_rocket_guide_html():
       @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
     </style>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Paper Straw Rocket","datePublished":"2026-09-21","dateModified":"2026-09-21","author":{"@type":"Organization","name":"Kid Activity Lab"},"image":"https://kidactivitylab.com/assets/paper-straw-rocket/fit-air-path.png"}
+      {"@context":"https://schema.org","@type":"Article","headline":"Paper Straw Rocket","datePublished":"2026-09-22","dateModified":"2026-09-22","author":{"@type":"Organization","name":"Kid Activity Lab"},"image":"https://kidactivitylab.com/assets/paper-straw-rocket/fit-air-path.png"}
     </script>
   </head>
   <body>

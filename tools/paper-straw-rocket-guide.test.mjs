@@ -11,7 +11,8 @@ test("rocket has one canonical article with no outcome schema", () => {
   assert.ok(html.includes(`rel="canonical" href="https://kidactivitylab.com${route}"`));
   const schema = JSON.parse(html.match(/application\/ld\+json">([\s\S]*?)<\/script>/)[1]);
   assert.equal(schema["@type"], "Article");
-  assert.equal(schema.datePublished, "2026-09-21");
+  assert.equal(schema.datePublished, "2026-09-22");
+  assert.equal(schema.dateModified, "2026-09-22");
   assert.ok(!("aggregateRating" in schema));
   assert.ok(!("totalTime" in schema));
 });
