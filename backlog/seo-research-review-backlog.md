@@ -19,6 +19,9 @@ Historical supporting files:
 Current September21 order: observe released `KAL-IMP-013`; completed
 `KAL-RES-015` nominates conditional build `KAL-IMP-014`, then research
 `KAL-RES-016`, `KAL-RES-017`. `KAL-RES-018` and `KAL-RES-019` are deferred.
+Afternoon: IMP014 now locally built, proxy23/26 and88 tests pass; independent
+review and release pending. Do not repeat RES015; after build disposition
+select the existing RES016 task and exact paths.
 This is an ordered backlog, not concurrent assignments or a page quota.
 Register exact paths/base when selecting each transaction. Planned deliverables
 below do not claim that new research has already been performed.

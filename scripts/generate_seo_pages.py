@@ -1276,6 +1276,15 @@ LEGACY_REDIRECTS = [
 
 MANUAL_SEO_TARGETS = [
     {
+        "path": "articles/paper-straw-rocket.html",
+        "page_type": "article",
+        "primary": "straw rocket",
+        "related": ["straw rocket for kids", "paper straw rocket"],
+        "evidence": "KAL-RES-015 September21 source/visual qualification; retained September17 DataForSEO US straw rocket2900 TOOL_ESTIMATE, child variant UNKNOWN. KAL-IMP-014 parent-led template guide; not family-tested. Organic difficulty and attainable rank UNKNOWN.",
+        "index_status": "index",
+        "first_2_month_impression_expectation": "UNKNOWN; no straw-rocket GSC baseline or traffic forecast.",
+    },
+    {
         "path": "articles/paper-helicopter-kids.html",
         "page_type": "article",
         "primary": "paper helicopter experiment",
@@ -2109,6 +2118,106 @@ def legacy_redirect_html(redirect):
 '''
 
 
+def paper_straw_rocket_guide_html():
+    return '''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Paper Straw Rocket: A Parent-Led Activity | Kid Activity Lab</title>
+    <meta name="description" content="Make a paper straw rocket with NASA's printable, adult setup and launch, a clear fit diagram, and checks for a stuck or leaking rocket. Printer required.">
+    <link rel="icon" href="data:,">
+    <link rel="canonical" href="https://kidactivitylab.com/articles/paper-straw-rocket.html">
+    <link rel="stylesheet" href="../styles.css?v=paper-bridge-1">
+    <style>
+      body { background: #fff; }
+      .rocket-guide { max-width: 760px; margin: 0 auto; }
+      .rocket-guide h1 { font-size: 2.5rem; letter-spacing: 0; }
+      .rocket-guide .hero { padding-bottom: 8px; }
+      .rocket-guide .content { padding-top: 0; }
+      .rocket-guide .start { border-top: 2px solid #176b62; margin-top: 20px; padding-top: 12px; }
+      .rocket-guide .start p { margin: 8px 0; }
+      .rocket-guide figure { margin: 24px 0; max-width: 650px; }
+      .rocket-guide figure img { aspect-ratio: 9 / 10; object-fit: contain; }
+      .rocket-guide figcaption { font-size: 0.9rem; }
+      .rocket-guide section { scroll-margin-top: 7rem; }
+      .rocket-guide .jump { display: flex; flex-wrap: wrap; gap: 8px 24px; }
+      .rocket-guide .jump a { padding: 8px 0; }
+      .rocket-guide a:focus-visible { outline: 3px solid #246b8f; outline-offset: 4px; }
+      @media (max-width: 600px) { .rocket-guide h1 { font-size: 2rem; } }
+      @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+    </style>
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"Article","headline":"Paper Straw Rocket","datePublished":"2026-09-21","dateModified":"2026-09-21","author":{"@type":"Organization","name":"Kid Activity Lab"},"image":"https://kidactivitylab.com/assets/paper-straw-rocket/fit-air-path.png"}
+    </script>
+  </head>
+  <body>
+    <header class="site-header"><nav class="nav" aria-label="Main navigation">
+      <a class="brand" href="/">Kid Activity Lab</a>
+      <div class="nav-links"><a href="/">Home</a><a href="../original/">Original</a><a href="../cards.html">Cards</a></div>
+    </nav></header>
+    <main><article class="rocket-guide">
+      <header class="hero">
+        <p class="kicker">Prepare | count down | watch</p>
+        <h1>Paper Straw Rocket</h1>
+        <p class="dek">Turn a paper sleeve into a small rocket. An adult builds and launches; your child can decorate, count down or watch.</p>
+        <div class="start">
+          <p><strong>Printer required.</strong> Get ordinary printer paper, a pencil, scissors, tape and a straight plastic drinking straw that fits inside the paper tube.</p>
+          <p><strong>Adult-led throughout:</strong> keep tools and the launcher with you. Choose a clear launch direction away from people and faces. If you cannot keep it clear, choose another activity.</p>
+          <p><strong>Research-backed, not family-tested by Kid Activity Lab.</strong> This is not a child-launch or independent-play activity.</p>
+        </div>
+        <nav class="jump" aria-label="On this page"><a href="#prepare">Make the rocket</a><a href="#launch">First launch</a><a href="#rescue">Stuck or leaking?</a></nav>
+      </header>
+      <div class="content">
+        <section id="prepare" aria-labelledby="prepare-title">
+          <h2 id="prepare-title">Adult setup: one paper model</h2>
+          <p><a href="https://d2pn8kiwq2w21t.cloudfront.net/documents/strawrocket_worksheet.pdf">Open NASA's rocket template (PDF)</a> and print page 1. Use its outlines, not the diagram below. No printer? Try our <a href="paper-helicopter-kids.html">paper helicopter</a> instead; it is a different activity, not a substitute rocket recipe.</p>
+          <ol class="steps">
+            <li><strong>Cut the parts.</strong> Cut out the body rectangle and both fin units, separating the fins at the middle scissors mark. A child can decorate the flat paper before the adult cuts.</li>
+            <li><strong>Roll the body.</strong> Roll the rectangle lengthwise around the pencil and tape the long seam. Remove the pencil to check the straw: it must slide inside without large gaps. Remake a pinched or loose tube rather than force it. Remove the straw and put the pencil back for the next steps.</li>
+            <li><strong>Add the fins.</strong> Tape each fin unit's center rectangle to an opposite side of the tube at its bottom opening. Nothing should extend below that end. Bend the four triangular fins apart into a cross when viewed from behind.</li>
+            <li><strong>Seal the nose.</strong> With the pencil still inside, twist the paper at the other end around its tip. Tape the twisted nose closed, then remove the pencil. The bottom stays open.</li>
+          </ol>
+          <p>Put the pencil, scissors and loose scraps away. Check that the finished sleeve slides off the straw freely and that tape does not cover its opening. This version uses a paper sleeve, not a second straw or pipette. Do not add a hard tip, clips or weights.</p>
+          <figure>
+            <img src="../assets/paper-straw-rocket/fit-air-path.png" alt="Side cutaway: the straw enters the open bottom of a paper sleeve and ends before its taped, closed nose. Air moves from the straw into the sleeve. Rear view: four fins surround a clear center opening. Remove the pencil before launch." width="900" height="1000">
+            <figcaption>Original KAL explanation, not to scale or a cutting template. The top cutaway omits fins so you can see the air path. Use NASA's printed outline for the parts. <a href="../assets/paper-straw-rocket/fit-air-path.png">Open the full-size diagram</a>.</figcaption>
+          </figure>
+        </section>
+        <section id="launch" aria-labelledby="launch-title">
+          <h2 id="launch-title">Count down, then watch</h2>
+          <p>The adult checks the clear direction, holds the straw with the rocket pointing away from everyone, and blows outward through the straw once. The paper sleeve leaves; the adult keeps the straw. Never aim at a person, including during a fit check.</p>
+          <p>Invite your child to count down or say, "Watch where the paper lands." Everyone waits outside the launch path until the adult lowers the straw and calls retrieval. Watching from a comfortable seat or declining is fine; no child needs to blow.</p>
+          <p><strong>Stop</strong> if anyone enters the path, a child mouths the materials, a straw or paper part is damaged, or adult control cannot continue. Do not launch toward faces, chase while holding a straw in the mouth, or use suction to clear a jam. Keep all launch equipment with the adult between tries.</p>
+        </section>
+        <section id="rescue" aria-labelledby="rescue-title">
+          <h2 id="rescue-title">Stuck or leaking?</h2>
+          <p>First lower the launcher and take it away from the mouth. These are inspection suggestions, not guaranteed fixes. Do not blow harder to overcome a problem.</p>
+          <dl class="bridge-troubleshooting">
+            <div><dt>Sleeve stays stuck</dt><dd>Slide it off by hand. Check for pinched paper or tape catching the straw. Remake the same paper tube if it cannot slide freely; do not force or enlarge it while it is in the mouth.</dd></div>
+            <div><dt>Air escapes; little movement</dt><dd>Inspect the nose and long seam for an opening. Retape an open seam, keeping the bottom clear. Replace torn paper. If the fit or seal remains unclear, end the trial.</dd></div>
+          </dl>
+        </section>
+        <section id="finish" aria-labelledby="finish-title">
+          <h2 id="finish-title">One more try, or finish</h2>
+          <p>After a working start, repeat once with the same setup and ask, "Did it land in the same place?" No distance contest or worksheet is needed. The enclosed air can push the sleeve off the straw; this is a paper model, not an engine-powered rocket.</p>
+          <p>Collect the rocket, straw, tape and paper offcuts. With younger siblings nearby, the adult manages the materials and retrieval; if that is not practical, stop. Preparation time, play duration and cleanup effort have not been measured.</p>
+        </section>
+        <section id="evidence" aria-labelledby="evidence-title">
+          <h2 id="evidence-title">Sources and limits</h2>
+          <p>The construction follows <a href="https://www.jpl.nasa.gov/edu/resources/project/make-a-straw-rocket/">NASA JPL's straw rocket</a> and linked template, checked September 21, 2026. Follow the webpage's taped-nose instruction even though the worksheet does not mention that tape. NASA describes school grades 4-8, not ages 4-8.</p>
+          <p><a href="https://www.grc.nasa.gov/www/k-12/TRC/Rockets/paper_rocket.html">NASA Glenn's paper-rocket guidance</a>, checked the same day, supports leak checks and warns against aiming toward anyone because of eye injury risk. Its alternative nose and fin pattern are not used here.</p>
+          <p>KAL's adult-only launch, child roles, stop/recovery sequence and diagram are editorial adaptations, not an age recommendation or safety certification. No physical or family test by KAL is recorded. Flight, comprehension, enjoyment, learning, repeatability, mess and safety outcomes remain unknown.</p>
+        </section>
+        <p><a href="../cards.html">Choose another activity</a></p>
+      </div>
+    </article></main>
+    <footer class="site-footer"><p>Kid Activity Lab</p></footer>
+  </body>
+</html>
+'''
+
+
 def paper_helicopter_guide_html():
     return '''<!doctype html>
 <html lang="en">
@@ -2861,6 +2970,9 @@ def main():
         path = SITE / redirect["path"]
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(legacy_redirect_html(redirect))
+    rocket_path = SITE / "articles" / "paper-straw-rocket.html"
+    rocket_path.parent.mkdir(parents=True, exist_ok=True)
+    rocket_path.write_text(paper_straw_rocket_guide_html())
     helicopter_path = SITE / "articles" / "paper-helicopter-kids.html"
     helicopter_path.parent.mkdir(parents=True, exist_ok=True)
     helicopter_path.write_text(paper_helicopter_guide_html())

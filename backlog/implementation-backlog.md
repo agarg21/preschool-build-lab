@@ -6,8 +6,12 @@ repository writer for a validated transaction.
 
 ## Individual Page Queue - September 21
 
+IMP014 is locally implemented in21 registered paths; native88 tests and
+desktop/mobile proxy23/26 pass. Independent review/release pending; do not
+claim a seventh live guide yet. After release select RES016 qualification.
+
 RES015 qualification is complete in the [straw-rocket decision pack](../seo/straw-rocket-qualification-2026-09-20.md),
-source-checked September21. Next is separately registered `KAL-IMP-014`:
+source-checked September21. It supplied the now-registered `KAL-IMP-014`:
 one template-based paper rocket, adult preparation/launch, original fit/air-path
 map and leak/jam recovery. Printer required; no silent no-printer or sleeve
 substitution. Publication still requires source/map agreement, full parent
@@ -34,7 +38,7 @@ SERP samples are incomplete. Strong institutional competitors already exist.
 | Order / state | Proposed guide and parent job | Retained demand evidence | Next action and publication dependency |
 |---|---|---|---|
 | 1 / Released, observe | **Paper helicopter: fold, drop and try again.** Adult prepares one clip-free model; child releases and watches; parent checks a non-turning drop. | `paper helicopter` 2,900; `paper helicopter experiment` 90 | `KAL-IMP-013` released in `977d80d`; original map, parent-task, source, desktop/mobile, independent review and production checks passed. Observe post-release crawl and finalized page/query evidence; physical/family outcomes remain unknown. |
-| 2 / Conditional build | **Paper straw rocket: parent prepares and launches.** Child may decorate, count down or watch; parent checks fit and diagnoses leaks/jams. | `straw rocket` 2,900; `straw rocket for kids` UNKNOWN | `KAL-IMP-014`, nominated by completed RES015. NASA JPL template lineage, printer prerequisite, explicit taped nose and adult-only launch. Build one guide/map after exact-path registration; verify actual source/prose/diagram agreement and parent task before review/release. No guaranteed rank or physical result. |
+| 2 / Local build, review pending | **Paper straw rocket: parent prepares and launches.** Child may decorate, count down or watch; parent checks fit and diagnoses leaks/jams. | `straw rocket` 2,900; `straw rocket for kids` UNKNOWN | `KAL-IMP-014`,21 paths registered. One guide/map and library link; local QA and23/26 proxy pass. Complete independent review and exact-SHA production verification before marking released. No guaranteed rank or physical result. |
 | 3 / Research first | **Paper chain: link one sheet into a longer chain.** Parent demonstrates an actual linked loop and offers an untimed build/retry. | `paper chain challenge` 390; `longest paper chain challenge` 70 | `KAL-RES-016`. Compare one-sheet length with existing book-wrap reach. Decide new guide versus existing-owner upgrade; declare link rules, adult cutting and material limits. |
 | 4 / Research first | **Foil boat: shape, float and recover.** Parent chooses a shallow-tray setup, checks an empty hull and changes one thing. | `aluminum foil boat experiment` 50; `foil boat challenge` 110 | `KAL-RES-017`. Reconcile three current owners and source cargo/material differences. An existing-page upgrade may be the correct outcome; source coins and KAL large cargo are not established equivalents. |
 | Deferred | **String-disc paper spinner.** Parent prepares the disc and helps with threading, winding and recovery. | `paper spinner` 720; `paper spinner toy` 70 | `KAL-RES-018`, deferred. Reopen only for evidence that coordination/cord/adult-control requirements fit the current audience. No automatic younger-age adaptation. |

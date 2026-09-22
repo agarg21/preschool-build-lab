@@ -4,6 +4,28 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-21 - KAL-IMP-014
+
+- Decision/task: parent prepares one template rocket, adult launches, child
+  may observe; diagnose jam/leak with no material or mechanism escalation.
+- Hypothesis: compact source-coherent prose plus an original cutaway makes
+  fit, start, stop and recovery answerable on desktop/mobile without broad search.
+- Evidence: September21 source recheck SOURCE_BACKED; four research-derived
+  parent tasks; rendered/browser/source agreement is proxy, not human testing.
+- Result: local23/26 across13 dimensions, no critical failure. PRESERVE
+  pending independent release gates. Native88 tests and desktop/mobile checks
+  pass; no physical flight, comprehension or satisfaction observation.
+- Confidence: high for rendered instruction/diagram agreement; medium for
+  planning utility; family, safety and ranking outcomes UNKNOWN.
+- Lesson: a fit check needs an explicit pencil-out/back-in sequence; scaling
+  text also requires scroll offsets to scale with the sticky header.
+- Falsification: contradictory map/template, obscured critical instruction,
+  review P0-P2 or production mismatch blocks release; later genuine user
+  confusion or aligned search evidence may reopen this guide.
+- Boundary: morning research applied, no new paid call or age/safety assurance.
+  Review/release in `reviews/paper-straw-rocket-guide-implementation-review-2026-09-21.md`.
+  Next after release: RES016, not another rocket variant or generic requalification.
+
 ## 2026-09-21 - KAL-RES-015
 
 - Family decision/task: choose one paper rocket model, prepare and start it

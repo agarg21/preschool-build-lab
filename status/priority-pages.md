@@ -1,6 +1,23 @@
 # Priority Page Status
 
-Last updated: 2026-09-19
+Last updated: 2026-09-21
+
+## September 21 Straw Rocket - Local Build
+
+`KAL-IMP-014` builds https://kidactivitylab.com/articles/paper-straw-rocket.html
+as one dedicated parent-running owner, with a printer-required JPL template,
+adult-only launch, original fit/air-path diagram and leak/jam recovery. No
+rocket card or earlier-guide changes. Local proxy23/26, not family testing;
+phone diagram labels have a full-size route, time/physical outcomes UNKNOWN.
+Native88 tests and local responsive/keyboard/fallback checks pass; independent
+review and production release pending. Six guides remain confirmed released
+until this seventh build passes deployment verification.
+Decision evidence: reviewed September21 RES015; September17 DataForSEO US
+straw rocket2900 TOOL_ESTIMATE, child variantUNKNOWN; no rank/traffic forecast.
+GSC baseline Sept21 through19:266impressions/9clicks, ramp187/9, inspection10/10.
+No new-guide row or complete query evidence is available, not zero.
+Review: `reviews/paper-straw-rocket-guide-implementation-review-2026-09-21.md`.
+Next: independent review/release; then RES016 paper-chain qualification.
 
 ## September 19 Helicopter Guide - Released
 

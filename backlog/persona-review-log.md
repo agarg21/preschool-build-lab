@@ -6,6 +6,17 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-21 - Straw Rocket Implementation Proxy
+
+`KAL-IMP-014`: four RES015 tasks exercised at1280x900/390x844 and320px,
+with200% text, keyboard routes and blocked-image stress. One template,
+printer prerequisite, adult-only launch and explicit fit/seal/stops/recovery.
+After score23/26 across all13 dimensions, no before baseline or human test.
+Setup time, individual fit and small phone diagram labels remain limitations;
+full-size map route and complete prose are present. No critical failure
+observed. PRESERVE subject to independent review/release; actual release
+facts belong in `reviews/paper-straw-rocket-guide-implementation-review-2026-09-21.md`.
+
 ## 2026-09-21 - Straw Rocket Qualification
 
 `KAL-RES-015`, RESEARCH with conditional BUILD nomination `KAL-IMP-014`.

@@ -1,5 +1,49 @@
 # Current Cycle
 
+## Run Checkpoint - September 22 Morning Release Recovery
+
+- Invocation: `2026-09-22T09:00:37.271Z`, scheduled heartbeat inside pilot.
+- Objective/action: finish the preserved `KAL-IMP-014` release, not repeat
+  qualification or answer the earlier compaction question. No new build scope.
+- Base: `0604ac339c59848c7f4d5e7d1da72c374408cd2e`; fetched origin, aligned.
+  The same 21 registered paths are dirty; no unrelated changes observed.
+- Phase: independent worktree review PASS, no P0-P3, reviewer
+  `01a0c4f5-bd2c-7b92-a738-b40d9858e72b`. Review left repository/accounts
+  unchanged; one test invoked a generator in temporary fixtures, a disclosed
+  exception to the strict no-generator instruction, not a repository write.
+- Next: rerun native QA/idempotence/scope, record review, commit exact paths,
+  obtain frozen-range confirmation, push and verify exact-SHA Pages plus four
+  production outputs and desktop/mobile parent tasks. Release not yet complete.
+- Sensing: no newer snapshot after fetch; September21 evidence remains latest.
+  No new paid calls, accounts, indexing or human/physical outcome claims.
+- Blockers: none. Weekly next due September27. After release, RES016 is next.
+
+## Run Checkpoint - September 21 Afternoon Build
+
+- Invocation: `2026-09-21T17:01:25.437Z`, scheduled heartbeat inside pilot.
+- Action: `KAL-IMP-014`, one qualified parent-led paper straw-rocket guide.
+- Base: `0604ac339c59848c7f4d5e7d1da72c374408cd2e`, clean/aligned after
+  inspected snapshot-only fast-forward. No unrelated dirty work.
+- Scope:20 original exact paths plus explicitly registered extension
+  `tools/site-architecture.test.mjs` (21 total): full QA caught hard-coded65
+  URL inventory; update to66 without weakening assertion. Four generators, four public outputs,
+  keyword CSV, one test, implementation review, status, four backlogs/logs,
+  two roadmap mirrors, current cycle and operator review. No other guide edits.
+- Phase: local implementation/QA complete.88 tests,66snapshots,94-output
+  idempotence and browser/keyboard/200%text/fallback PASS. Proxy23/26, not
+  physical/family testing; smaller phone diagram labels use full-size link.
+  Next: final links/scope and different independent read-only review.
+- Required: all13 persona dimensions, native QA, diagram idempotence, links,
+  desktop/mobile/keyboard/fallback, independent read-only review, exact-path
+  commit/push, exact-SHA Pages and production bytes/task verification.
+- Sensing:66 snapshots validate; Sept21 finalized-conservative through19,
+  28-day270->266 impressions,9clicks unchanged,13.43->13.67 position.
+  Ramp190->187/9clicks/11.58->11.81.10/10 priority indexed. Queries/new-guide
+  rows unavailable, not zero; overlapping windows do not imply daily change.
+- Limits: printer prerequisite, adult-only launch, explicit untested status;
+  no new paid calls, external accounts, indexing requests or invented outcomes.
+- Blockers: none. RES015 review/release complete; weekly next dueSept27.
+
 ## Run Checkpoint - September 21 Morning Recovery
 
 - Invocation: `2026-09-21T09:00:53.756Z`, scheduled heartbeat inside pilot.

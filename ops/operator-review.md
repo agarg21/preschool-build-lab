@@ -1,5 +1,26 @@
 # Operator Review
 
+## KAL-IMP-014 - September 21 Afternoon
+
+Base `0604ac339c59848c7f4d5e7d1da72c374408cd2e`.20 original exact paths plus
+registered inventory-test extension,21 total. One guide/map/library link;
+no new card or existing-guide changes. Operator88 tests,66 snapshots,
+94-file generator/diagram idempotence,local browser/keyboard/image-fallback
+checks pass. Proxy23/26 across13 dimensions; no human/flight test. Source
+and every-section review in the dedicated implementation review. Different
+independent reviewer `01a0c4f5-bd2c-7b92-a738-b40d9858e72b` cycle1 PASS,
+no P0-P3, complete base-to-worktree21-path scope including new files. All383
+out-of-scope tracked files unchanged. Repository/accounts remained read-only;
+disclosed exception: attempted test exclusion failed and a test invoked the
+sitemap generator in temporary fixtures, not repository outputs. Reviewer
+independently confirmed88 tests,66 snapshots,71HTML/724links,22CSV rows,
+66 sitemap URLs, source/prose/diagram agreement, four parent tasks23/26,
+every-section keep, desktop/mobile/keyboard/200%text/image fallback.
+September22 recovery reran native QA, complete links/parse/scope and all four
+generators across114 site/data files byte-identically. Template HTTP200.
+Frozen commit confirmation and production release still pending. No physical
+or family outcome claimed. Verified factual closeout is within reviewed scope.
+
 ## KAL-RES-015 - September 21 Recovery
 
 Frozen base `96e8629a88879991104f2fbe5f001c3ad353df32`, nine exact registered

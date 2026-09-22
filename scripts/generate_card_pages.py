@@ -409,6 +409,7 @@ def cards_index():
       </section>
 
       <p class="content"><a href="articles/paper-helicopter-kids.html">Paper Helicopter: full cut, fold and drop guide</a></p>
+      <p class="content"><a href="articles/paper-straw-rocket.html">Paper Straw Rocket: printable model with adult setup and launch</a></p>
 
       <section class="library-grid" aria-label="Activity cards">
 {cards}

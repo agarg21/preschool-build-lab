@@ -9,10 +9,11 @@ BASE_URL = "https://kidactivitylab.com"
 NON_CONTENT_HTML = {"googled495b3fc6f0765f8.html"}
 LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"}
 CONTENT_LASTMODS = {
+    "articles/paper-straw-rocket.html": "2026-09-21",
     "articles/paper-helicopter-kids.html": "2026-09-19",
     "articles/paper-cup-tower-kids.html": "2026-09-17",
     "cards/cup-tower.html": "2026-09-17",
-    "cards.html": "2026-09-19",
+    "cards.html": "2026-09-21",
     "articles/cardboard-ball-maze-kids.html": "2026-09-14",
     "articles/painter-tape-road-kids.html": "2026-09-15",
     "collections/engineering-activities-for-4-year-olds.html": "2026-09-17",
