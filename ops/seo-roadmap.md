@@ -11,8 +11,10 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 ## Current sequence
 
 0. September22 afternoon `KAL-RES-016`: [paper-chain qualification](../seo/paper-chain-qualification-2026-09-22.md)
-   completed as an artifact in nine registered paths, base `28cfb6d`;
-   independent cycle1 PASS, no findings; release evidence in operator review.
+   COMPLETED and released push-only in nine registered paths, base `28cfb6d`;
+   independent cycle2 full-range PASS, no findings; reviewed `5c00d4a` pushed,
+   clean local/origin0/0 verified. No deployment applies. Four-operator-file
+   facts-only closeout records release evidence.
    Decision UPGRADE existing card owner,
    conditional `KAL-IMP-015`, no new URL. Current desktop/mobile planning
    baseline6/26 with missing critical linking/recovery; no future/human score.
