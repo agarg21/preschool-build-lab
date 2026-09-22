@@ -4,6 +4,28 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-22 - KAL-RES-016 Paper Chain Ownership
+
+- Family decision/persona: beginner caregiver helps join two actual loops,
+  recover a failed joint and optionally define a fair one-sheet challenge.
+- Hypothesis: one-sheet length needs a new guide separate from existing chain
+  and book-reach owners. REJECT_HYPOTHESIS; the existing card cleanly fits.
+- Evidence/classes: six public bodies/source photo and source dates in
+  `seo/paper-chain-qualification-2026-09-22.md`; September22 live query sample
+  incomplete; retained September17 US390/70 TOOL_ESTIMATE, not additive.
+  Personas RESEARCH_HYPOTHESIS, architecture EDITORIAL_JUDGMENT, no human test.
+- Result: UPGRADE existing card candidate IMP015. Actual desktop/mobile
+  baseline6/26; missing linking/recovery is a critical failure, not a reason
+  to add another URL. No future score or new public implementation today.
+- Confidence: high for current missing output/source differences; medium for
+  proposed planning utility; ranking, dexterity and family outcomes UNKNOWN.
+- Lesson: specify the construction rule before optimizing a challenge;
+  same-material length variants can live under one existing activity owner.
+- Falsification: unclear loop illustration, unsupported dimensions, cluttered
+  start, or evidence of a distinct job that cannot fit this owner.
+- Boundary: research only; no paid spend, site change or safety certification.
+  Next after independent research review/release: register IMP015; then RES017.
+
 ## 2026-09-22 - KAL-IMP-014 Production Task Validation
 
 - Decision/task: caregiver identifies prerequisites, follows adult setup,

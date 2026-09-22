@@ -6,6 +6,20 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-22 - Paper Chain Qualification And Current-Card Baseline
+
+RES016 tasks derive from WTTW/S1-S2, teacher challenge rules/S3-S5 and KAL
+owner audit in `seo/paper-chain-qualification-2026-09-22.md`. P1 two connected
+loops, P2 optional one-sheet rules, P3 assistance/recovery, P4 phone start.
+Current live card inspected at1280x900/390x844 and keyboard route to engineering:
+missing second-loop threading and recovery, tall mobile tiles; no overflow.
+Current P1/P3/P4 proxy **6/26**, all13 applicable; optional future P2 challenge
+not imposed on the baseline. Critical instruction absent: IMPROVE regardless
+of total. Hub partly explains threading but has a different book-reach mission.
+Decision UPGRADE same card URL, conditional IMP015; no future after-score,
+real parent/child behavior, physical outcome or publication approval invented.
+Every-section and future acceptance gates are in the decision pack.
+
 ## 2026-09-21 - Straw Rocket Implementation Proxy
 
 `KAL-IMP-014`: four RES015 tasks exercised at1280x900/390x844 and320px,

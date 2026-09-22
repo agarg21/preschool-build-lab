@@ -16,6 +16,13 @@ Historical supporting files:
 
 ## Candidate Qualification Queue - September 18
 
+September22 afternoon: RES016 qualification artifact complete, independent
+research review PASS; release evidence in operator review.
+[Decision pack](../seo/paper-chain-qualification-2026-09-22.md) selects
+UPGRADE existing card owner via conditional IMP015, not a new URL. Do not
+repeat qualification absent a named new gap. Then RES017; deferred018/019
+and all prior guide observation gates remain unchanged.
+
 Current September22 order: observe released `KAL-IMP-013` and `KAL-IMP-014`;
 completed `KAL-RES-015` supplied the rocket build. Next research
 `KAL-RES-016`, `KAL-RES-017`. `KAL-RES-018` and `KAL-RES-019` are deferred.
@@ -38,7 +45,7 @@ audits can proceed without paid enrichment; no Semrush dependency remains.
 | ID / state | Question to resolve | Required research output | Promote, preserve or reject |
 |---|---|---|---|
 | `KAL-RES-015` / Completed September21 | Can a straw-rocket guide serve a caregiver-led task with one understandable design? | [Decision pack](../seo/straw-rocket-qualification-2026-09-20.md): current search/body/visual audit, source disagreement, frozen JPL template lineage, four tasks, all13 future dimensions and owner audit. | BUILD candidate IMP014: adult-only launch and printer prerequisite; no preschool safety endorsement. Reject interchangeable mechanisms. No generic repeat research; defer build only for a named critical source/prose/visual/task gap. |
-| `KAL-RES-016` / Planned, second research | Does a one-sheet linked-chain job justify a guide beyond the existing reach test? | Audit `site/cards/paper-chain-test.html` and the engineering book-wrap module. Compare Teachers are Terrific, WTTW and Little Bins leads; specify linked-loop rules, paper/tape limits, adult preparation, untimed start and broken/unlinked-loop rescue. Inspect one-sheet length versus decoration/countdown/reach intent without inventing overlap numbers. | Return exactly one architecture decision: upgrade an owner, nominate a distinct guide, or preserve. Do not create both a length guide and a reach guide from the same evidence. |
+| `KAL-RES-016` / Research review PASS | Does one-sheet length require another owner? | Six source bodies, live query-family sample, source/photo agreement, owner audit and desktop/mobile baseline6/26 in the dated decision pack. | UPGRADE existing card under conditional IMP015; one linked default and secondary one-sheet rules, no new URL or countdown page. Exact implementation registration follows reviewed research release. |
 | `KAL-RES-017` / Planned, third research | Can one boat workflow reconcile the card, engineering module and original pack? | Audit `site/cards/foil-boat-test.html`, the engineering foil module and Tiny Boat Cargo Test. Inspect Science Buddies/Discovery World source geometry and water/cargo boundaries; replace or recheck the Nebraska lead that returned404. Produce a mission/material matrix, empty-hull troubleshooting and source-supported cargo default with parent tasks. | Prefer an existing-owner upgrade where it fits. Nominate one guide only for a distinct supported job; defer if cargo substitutions or adult water/cleanup controls remain unsupported. No coin-to-block equivalence assumption. |
 | `KAL-RES-018` / Deferred | Is the string-disc mechanism suitable for this audience with defensible adult controls? | On reopening, check current Crayola/Wyndham leads, disc/hole/string geometry, winding and stop/recovery requirements; review current cord/material guidance and realistic participation/readiness. | Reopen only on new evidence supporting fit, or an explicit audience decision. Volume alone is insufficient; keep deferred if the useful task requires an unsupported younger-child adaptation. A different spinner mechanism needs its own evidence. |
 | `KAL-RES-019` / Deferred | Can balloon, line and space requirements be resolved into a bounded caregiver task? | On reopening, reconcile current official balloon/cord/latex guidance with Science Bob/museum procedure leads; identify adult inflation, anchor/space, fragments, cleanup and won't-move decisions. Inspect the result-page advantages a new guide would need to exceed. | Reopen only with new source evidence capable of closing these gates or an explicit priority instruction. Publication remains blocked by unresolved critical controls; do not inherit a publisher's age-three-up label. |
