@@ -1,5 +1,40 @@
 # Current Cycle
 
+## Run Checkpoint - September 23 Afternoon Foil Boat Research
+
+- Invocation: `2026-09-23T17:01:06.199Z`, heartbeat inside pilot; no newer redirect.
+- Objective/action: `KAL-RES-017`, reconcile the existing foil-boat owners,
+  source hull/cargo/water requirements and nominate at most one bounded action.
+- Base: `1aef9ca87e345daf78b41eaa042aa21b04c9fbf2`, clean main/origin aligned
+  after fetch; no incoming changes or unrelated dirty work. IMP015 is released.
+- Exact nine paths: `seo/foil-boat-qualification-2026-09-23.md`,
+  `backlog/persona-review-log.md`, `backlog/product-learning-ledger.md`,
+  `backlog/implementation-backlog.md`, `backlog/seo-research-review-backlog.md`,
+  `ops/seo-roadmap.json`, `ops/seo-roadmap.md`, `ops/current-cycle.md`,
+  `ops/operator-review.md`. No site/generator/data/API/account changes.
+- Phase: research artifact/native QA and independent cycle1 PASS, no findings.
+  Seven primary bodies, PDF/photo, live query sample, three owners plus
+  inbound age/library audit; current desktop/mobile card baseline6/26.
+  Decision UPGRADE existing owner via conditional IMP016, explicit no-cargo
+  empty-hull start/map/recovery/controls. Capacity extension deferred; no
+  new URL, claimed cargo equivalence or future/human score.
+- Completion requires dated decision pack, source/persona/every-section
+  evidence and learning entry; native94+JSON/whitespace/scope/source/privacy
+  QA, different independent read-only review and exact-path push/alignment.
+- Gates: no invented coin-to-block equivalence, safety/learning or family
+  outcomes. No new paid authority. New build must be a separate transaction.
+  Preserve all guide observation gates; weekly synthesis dueSeptember27.
+- Reviewer: `01a0cf43-8154-7651-bd3c-a853889388e3`, strict read-only, full
+  nine-path worktree. Seven bodies/ten supplied images, owner text,scope,
+  403 protected files, JSON/whitespace/score/CSV/snapshot arithmetic inspected.
+  Native94 results supplied, not independently rerun. Factual metadata allowed.
+- Sensing:67 snapshots validate; September22 finalized-conservative through20,
+  255/9/13.49 versus266/9/13.67; overlapping windows, inspections10/10.
+  Missing foil/query rows unavailable. No sensor change unlocks cargo claims.
+- Blockers: none. Next executable step: exact nine-path commit, final
+  committed-range review before push, then research release/alignment.
+  After release separately register IMP016; no requalification.
+
 ## Run Checkpoint - September 23 Morning Paper Chain Build
 
 - Invocation: `2026-09-23T09:02:04.795Z`; heartbeat inside pilot, no newer redirect.

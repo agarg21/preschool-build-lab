@@ -4,6 +4,34 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-23 Afternoon - KAL-RES-017 Foil Boat Materials
+
+- Family decision/persona: caregiver forms an empty foil boat, checks flotation,
+  chooses whether cargo is supported and understands adult control/exit.
+- Hypothesis: another URL or interchangeable large cargo closes the gap.
+  Rejected/unsupported respectively: existing card fits; sources do not
+  establish equivalence between coins, wooden blocks and mixed toys/lids.
+- Evidence/classes: seven primary bodies and source dates, PDF/photo, live
+  incomplete search sample and rendered current-owner task audit in
+  `seo/foil-boat-qualification-2026-09-23.md`. SOURCE_BACKED within limits;
+  retained September17 US50/110 TOOL_ESTIMATE, not additive or empty-hull
+  demand. Personas RESEARCH_HYPOTHESIS; architecture EDITORIAL_JUDGMENT.
+- Result: UPGRADE existing card candidate IMP016 with no-cargo default;
+  capacity extension remains deferred. Current planning proxy6/26 all13,
+  critical construction/control gaps. No after score or site implementation.
+  Independent cycle1 PASS, no findings, reviewer
+  `01a0cf43-8154-7651-bd3c-a853889388e3`, read-only. Native94 and scope/evidence
+  QA pass; final range/release evidence in operator review, not assumed here.
+- Confidence: high for copy/material conflict; medium for proposed planning
+  utility. Physical results, child fit, timing and safety outcomes UNKNOWN.
+- Reusable lesson: larger cargo changes fit/mass rather than automatically
+  making an equivalent challenge; narrow the promise when that gap persists.
+- Next falsification: specific source-supported cargo/control case, critical
+  diagram/procedure mismatch, genuine feedback or aligned query/page evidence.
+- Measurement boundary: no human test or predicted rank; query rows missing,
+  latest GSC throughSeptember20 overlaps prior28days. Next separate IMP016
+  registration; preserve other guide windows and weekly dueSeptember27.
+
 ## 2026-09-23 - KAL-IMP-015 Linked-Loop Planning
 
 - Decision/persona: help a beginner caregiver make two connected loops and

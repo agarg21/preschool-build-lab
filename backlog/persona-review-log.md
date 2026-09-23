@@ -6,6 +6,24 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-23 Afternoon - Foil Boat Qualification
+
+`KAL-RES-017`: source-derived P1 empty-hull construction/recovery, P2 cargo
+choice, P3 assisted start/exit and P4 phone setup. Live current card and both
+hub/pack boat modules inspected at1280x900/390x844; keyboard/touch related
+route works but lacks a boat anchor. Tall mobile tiles put parent controls
+after four steps; no horizontal overflow on inspected card/original pages.
+Current-card baseline6/26, all13 applicable, no N/A or future after-score.
+Critical missing construction/recovery and unsupported cargo equivalence:
+IMPROVE regardless of score. Seven primary bodies, source PDF/photo and
+owner/section evidence in `seo/foil-boat-qualification-2026-09-23.md`.
+Conditional IMP016 upgrades the existing owner to an explicit empty-boat
+start, no cargo; reconcile only boat-specific inbound promises. It does not
+answer a full capacity challenge. All human/physical/safety outcomes UNKNOWN.
+Independent cycle1 PASS, no findings, reviewer
+`01a0cf43-8154-7651-bd3c-a853889388e3`, read-only. Final range/release evidence
+in operator review; no public changes in this transaction.
+
 ## 2026-09-23 - Paper Chain Existing-Owner Upgrade
 
 `KAL-IMP-015`: RES016 P1/P3/P4 tasks on actual local1280/390/320 layouts,

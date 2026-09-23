@@ -10,6 +10,19 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 ## Current sequence
 
+0. September23 afternoon `KAL-RES-017` research artifact prepared from clean/aligned
+   `1aef9ca87e345daf78b41eaa042aa21b04c9fbf2`, nine research/operator paths
+   in JSON. [Foil-boat qualification](../seo/foil-boat-qualification-2026-09-23.md):
+   seven primary bodies, PDF/photo, live query sample, current owner/inbound
+   audit and desktop/mobile baseline6/26 across all13 dimensions.
+   UPGRADE existing card via conditional IMP016: explicit no-cargo empty-hull
+   start/map/recovery/controls and minimum boat-only inbound reconciliation.
+   Capacity extension deferred; no new URL or demand claim for narrower job.
+   Native94/67snapshot/scope/evidence QA and independent cycle1 PASS, no
+   findings; final committed-range review required before research push. Then
+   register IMP016 exact paths separately; no repeat generic qualification.
+   Morning IMP015 complete; weeklySeptember27 and guide windows preserved.
+
 0. September23 morning `KAL-IMP-015` COMPLETED from clean/aligned
    `5b572dd574713f3331436b3035d3b72461e369df`,21 exact paths in JSON
    (19 original plus two existing route tests registered after native failures).

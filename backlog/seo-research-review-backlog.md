@@ -16,6 +16,17 @@ Historical supporting files:
 
 ## Candidate Qualification Queue - September 18
 
+September23 afternoon overlay: RES017 [foil-boat pack](../seo/foil-boat-qualification-2026-09-23.md)
+passes independent cycle1 review with no findings. Final range/release evidence
+is in operator review. UPGRADE existing card via conditional
+IMP016: explicit no-cargo empty-hull start and minimum boat-only inbound
+reconciliation. Capacity extension deferred, not falsely solved by large
+pieces. Seven primary bodies, source PDF/photo, live query-family sample,
+three primary owners plus inbound age/library audit; baseline6/26 at desktop/
+mobile, no after-score or human test. After reviewed research release,
+register IMP016 exact scope. Do not repeat generic qualification or wait for
+query-thin GSC. Deferred018/019 and weeklySeptember27 unchanged.
+
 September22 afternoon: RES016 qualification artifact complete, independent
 research review PASS; release evidence in operator review.
 [Decision pack](../seo/paper-chain-qualification-2026-09-22.md) selects
@@ -46,7 +57,7 @@ audits can proceed without paid enrichment; no Semrush dependency remains.
 |---|---|---|---|
 | `KAL-RES-015` / Completed September21 | Can a straw-rocket guide serve a caregiver-led task with one understandable design? | [Decision pack](../seo/straw-rocket-qualification-2026-09-20.md): current search/body/visual audit, source disagreement, frozen JPL template lineage, four tasks, all13 future dimensions and owner audit. | BUILD candidate IMP014: adult-only launch and printer prerequisite; no preschool safety endorsement. Reject interchangeable mechanisms. No generic repeat research; defer build only for a named critical source/prose/visual/task gap. |
 | `KAL-RES-016` / Research review PASS | Does one-sheet length require another owner? | Six source bodies, live query-family sample, source/photo agreement, owner audit and desktop/mobile baseline6/26 in the dated decision pack. | UPGRADE existing card under conditional IMP015; one linked default and secondary one-sheet rules, no new URL or countdown page. Exact implementation registration follows reviewed research release. |
-| `KAL-RES-017` / Planned, third research | Can one boat workflow reconcile the card, engineering module and original pack? | Audit `site/cards/foil-boat-test.html`, the engineering foil module and Tiny Boat Cargo Test. Inspect Science Buddies/Discovery World source geometry and water/cargo boundaries; replace or recheck the Nebraska lead that returned404. Produce a mission/material matrix, empty-hull troubleshooting and source-supported cargo default with parent tasks. | Prefer an existing-owner upgrade where it fits. Nominate one guide only for a distinct supported job; defer if cargo substitutions or adult water/cleanup controls remain unsupported. No coin-to-block equivalence assumption. |
+| `KAL-RES-017` / Research review PASS | Can one boat workflow reconcile the card, engineering module and original pack? | Dated pack: seven primary bodies, PDF/photo, current search and three owners plus inbound copies; material/water matrix and baseline6/26 with all13 dimensions/sections. Nebraska still404, DiscoverE now accessible. | UPGRADE existing owner via conditional IMP016 with explicit no-cargo start/controls. Capacity remains deferred, no source coin/block equivalence, new URL or top-five promise. Exact implementation registration after reviewed research release; release evidence in operator review. |
 | `KAL-RES-018` / Deferred | Is the string-disc mechanism suitable for this audience with defensible adult controls? | On reopening, check current Crayola/Wyndham leads, disc/hole/string geometry, winding and stop/recovery requirements; review current cord/material guidance and realistic participation/readiness. | Reopen only on new evidence supporting fit, or an explicit audience decision. Volume alone is insufficient; keep deferred if the useful task requires an unsupported younger-child adaptation. A different spinner mechanism needs its own evidence. |
 | `KAL-RES-019` / Deferred | Can balloon, line and space requirements be resolved into a bounded caregiver task? | On reopening, reconcile current official balloon/cord/latex guidance with Science Bob/museum procedure leads; identify adult inflation, anchor/space, fragments, cleanup and won't-move decisions. Inspect the result-page advantages a new guide would need to exceed. | Reopen only with new source evidence capable of closing these gates or an explicit priority instruction. Publication remains blocked by unresolved critical controls; do not inherit a publisher's age-three-up label. |
 
