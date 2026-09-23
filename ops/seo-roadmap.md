@@ -10,17 +10,19 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 ## Current sequence
 
-0. September23 morning `KAL-IMP-015` REGISTERED from clean/aligned
+0. September23 morning `KAL-IMP-015` COMPLETED from clean/aligned
    `5b572dd574713f3331436b3035d3b72461e369df`,21 exact paths in JSON
    (19 original plus two existing route tests registered after native failures).
-   Execute RES016's existing paper-chain owner upgrade, not new qualification:
+   Released RES016's existing paper-chain owner upgrade, not new qualification:
    compact linked start, original map, rescue, optional one-sheet trial,
    card/library label correction and minimum book-reach closure consistency.
    Preserve canonical,66 URLs and all other guides. Native/browser/full13
    proxy checks pass:94tests,67snapshots,115-file idempotence,71HTML/817refs,
-   planning6->23/26, not human testing. Independent cycle1 PASS, no findings;
-   exact-path push and production verification still required. Then RES017; weeklySeptember27, chain
-   observationOctober7.
+   planning6->23/26, not human testing. Independent finalcycle2 full-range PASS,
+   no findings; reviewed `a601814` pushed, exact-SHA Pages35842446451 success,
+   five production byte-matches and desktop/mobile parent tasks verified.
+   Clean local/origin0/0; no release marker exists. Nine-doc factual closeout
+   permitted. Next RES017; weeklySeptember27, chain observationOctober7.
 
 0. September22 afternoon `KAL-RES-016`: [paper-chain qualification](../seo/paper-chain-qualification-2026-09-22.md)
    COMPLETED and released push-only in nine registered paths, base `28cfb6d`;

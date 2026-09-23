@@ -17,8 +17,10 @@ and pass their frozen outputs. Individual dexterity, unmeasured time and
 small phone diagram labels remain explicit limitations; full-size map and
 complete text exist. Every-section audit and dimension rationale in
 `reviews/paper-chain-implementation-review-2026-09-23.md`.
-IMPROVE same owner, not a new URL. Independent cycle1 PASS, no findings;
-reviewer concurs with all13 dimensions and P1-P4; release pending.
+IMPROVE same owner, not a new URL. Independent finalcycle2 PASS, no findings;
+reviewer concurs with all13 dimensions and P1-P4. Released `a601814`, exact-SHA
+Pages35842446451; production desktop/mobile tasks, keyboard,200%text and
+blocked-image checks pass. PRESERVE after verified release; no human test.
 
 ## 2026-09-22 - Paper Chain Qualification And Current-Card Baseline
 

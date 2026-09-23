@@ -17,7 +17,16 @@ registered base including untracked files. Read-only source/screenshot/topology,
 all13 rubric/sections, scope/JSON/whitespace/66URL and material-hash inspection;
 native/browser results supplied, not independently rerun. No writes, tests,
 generators, delegation or account mutation. Factual documentation closeout
-permitted. Exact-path commit/push and production verification next.
+permitted. Finalcycle2 PASS, no findings, full committed range
+`5b572dd574713f3331436b3035d3b72461e369df..a60181408a3e4c9df03c0a45019338b3cb2510a6`.
+Exactly21 paths; all12 material hashes unchanged from cycle1. Reviewed commit
+pushed, exact-SHA Pages35842446451 success09:21:48UTC; five outputs HTTP200/
+byte-match. Production canonical/H1/routes,1280/390/320,keyboard,touch,200%text,
+full-size map and blocked-image parent tasks PASS. No JS errors; no release
+marker exists, exact-SHA+bytes used instead. Clean local/origin0/0 verified.
+COMPLETED; factual nine-document closeout covered by reviewer allowance.
+Nonblocking Actions annotations concern Node20 action runtime/Ubuntu migration;
+no deployment failure or workflow change. Browser/server closed. Next RES017.
 
 ## KAL-RES-016 - September 22 Afternoon
 

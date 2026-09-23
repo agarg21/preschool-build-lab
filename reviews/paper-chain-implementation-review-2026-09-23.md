@@ -129,7 +129,21 @@ bodies, supplied screenshots/diagram, topology, baseline/rubric arithmetic,
 every section and material hashes. Concurred P1-P4 PASS and23/26 proxy.
 Native94/browser interactions remain operator-run evidence, not independently
 rerun. Factual registered-document release closeout permitted; no site changes
-after review without re-review. Commit/push and production checks pending.
-No deployment claimed yet. Preserve chain through October7 except verified defects; then
+after review without re-review. Finalcycle2 PASS for the full committed range
+`5b572dd574713f3331436b3035d3b72461e369df..a60181408a3e4c9df03c0a45019338b3cb2510a6`.
+Reviewer verified21 paths and all12 material hashes unchanged; no findings.
+
+COMPLETED: reviewed commit pushed. Exact-SHA [Pages35842446451](https://github.com/agarg21/preschool-build-lab/actions/runs/35842446451)
+succeeded September23 at09:21:48UTC. All five public outputs returned HTTP200
+and exact committed bytes. No release marker exists; exact-SHA deployment
+and affected-byte verification used instead. Production canonical/H1, library
+keyboard entry, book anchor/return, native disclosures, full-size map and
+P1-P4 desktop/mobile planning tasks pass.320px no overflow;200%text rescue
+clears sticky header; blocked image retains complete steps and rescue.
+No JS errors. Production screenshots inspected; local browser/server closed.
+Clean local/origin0/0 verified. Nine-document factual closeout is push-only;
+no new material or deployment is introduced by that closeout.
+
+Preserve chain through October7 except verified defects; then
 aligned finalized page/query evidence may inform a follow-up, never proxy
 score as family outcome. Next independent transaction RES017 foil research.
