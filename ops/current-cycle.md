@@ -1,5 +1,35 @@
 # Current Cycle
 
+## Run Checkpoint - September 23 Morning Paper Chain Build
+
+- Invocation: `2026-09-23T09:02:04.795Z`; heartbeat inside pilot, no newer redirect.
+- Action/objective: `KAL-IMP-015`, upgrade the existing paper-chain card from
+  completed RES016; compact linked start, original map, rescue and optional trial.
+- Base: `5b572dd574713f3331436b3035d3b72461e369df`, clean main/origin aligned,
+  fetched with no incoming changes. No unrelated dirty work.
+- Exact scope: 19 original paths plus registered native-test extension:
+  `tools/site-architecture.test.mjs`, `tools/preschool-engineering.test.mjs`.
+  21 total: four generators, five public outputs,
+  three tests, implementation review, priority status, implementation
+  backlog, persona and learning logs, roadmap JSON/Markdown, this checkpoint
+  and operator review. No new indexable URL or other-guide changes.
+- Phase: local implementation/QA complete.94 tests,67 snapshots,115-file
+  generator idempotence,71HTML/817refs/fragments, JSON/whitespace,390 protected
+  files pass. Parent proxy6->23/26 and optional P2/browser stress pass; no human
+  outcome. Different read-only reviewer Jason
+  `01a0cd8c-e4e6-7881-8d51-8895fd67ef85` cycle1 PASS, no findings;
+  source/diagram/parent tasks/full21-path scope inspected. Next exact-path
+  commit/push, exact-SHA Pages and production verification. No site changes
+  since review; verified factual documentation closeout allowed.
+- Required completion: full native QA, idempotence/output/link scope,
+  desktop/mobile/keyboard/enlarged-text/image-fallback tasks, all13-dimension
+  proxy review, different independent PASS/PASS_WITH_P3, exact-path push,
+  exact-SHA Pages and production bytes/tasks, durable factual closeout.
+- Limits: no paid calls, indexing, accounts, human/physical/safety outcomes.
+  Latest GSC September22 through20; missing query/new-guide rows unavailable.
+  Existing guide observation gates remain; weekly dueSeptember27.
+- Blockers: none. After this release, separately register RES017 foil research.
+
 ## Run Checkpoint - September 22 Afternoon Paper Chain
 
 - Invocation: `2026-09-22T17:01:06.266Z`, scheduled heartbeat inside pilot.

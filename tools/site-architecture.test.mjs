@@ -177,7 +177,9 @@ test("generated cards expose a restrained set of existing hub routes", () => {
   for (const file of cards) {
     const slug = path.basename(file, ".html");
     const html = read(file);
-    const section = html.match(/<section class="parent-strip" aria-label="Related activity pages">([\s\S]*?)<\/section>/);
+    const section = slug === "paper-chain-test"
+      ? html.match(/<section id="challenge" aria-label="Optional one-sheet challenge">([\s\S]*?)<\/section>/)
+      : html.match(/<section class="parent-strip" aria-label="Related activity pages">([\s\S]*?)<\/section>/);
     if (!section) {
       unroutedCards.push(slug);
       continue;
@@ -185,8 +187,11 @@ test("generated cards expose a restrained set of existing hub routes", () => {
     const links = [...section[1].matchAll(/href="([^"]+)"/g)].map((match) => match[1]);
     assert.ok(links.length >= 1 && links.length <= 3, `${path.basename(file)} has ${links.length} route links`);
     for (const href of links) {
-      const target = path.resolve(path.dirname(file), href);
-      const routePath = href.replace(/^\.\.\//, "");
+      const route = new URL(href, `${BASE_URL}/cards/${slug}.html`);
+      const routePath = route.pathname.slice(1);
+      const target = path.resolve(SITE, routePath);
+      assert.equal(route.origin, BASE_URL);
+      if (slug === "paper-chain-test") assert.equal(route.hash, "#paper-chain-test");
       assert.ok(target.startsWith(SITE), `${href} must remain inside site/`);
       assert.ok(fs.existsSync(target), `${href} must resolve to an existing page`);
       if (routePath === DIRECT_GUIDE_ROUTES.get(slug)) continue;

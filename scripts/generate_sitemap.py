@@ -13,10 +13,11 @@ CONTENT_LASTMODS = {
     "articles/paper-helicopter-kids.html": "2026-09-19",
     "articles/paper-cup-tower-kids.html": "2026-09-17",
     "cards/cup-tower.html": "2026-09-17",
-    "cards.html": "2026-09-21",
+    "cards.html": "2026-09-23",
+    "cards/paper-chain-test.html": "2026-09-23",
     "articles/cardboard-ball-maze-kids.html": "2026-09-14",
     "articles/painter-tape-road-kids.html": "2026-09-15",
-    "collections/engineering-activities-for-4-year-olds.html": "2026-09-17",
+    "collections/engineering-activities-for-4-year-olds.html": "2026-09-23",
     "collections/indoor-activities-for-preschoolers.html": "2026-08-05",
 }
 

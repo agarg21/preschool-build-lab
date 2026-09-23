@@ -6,6 +6,12 @@ repository writer for a validated transaction.
 
 ## Individual Page Queue - September 22
 
+September23 overlay: `KAL-IMP-015` is registered and locally implemented in21
+exact paths. Existing card upgraded, no new URL;94 native tests and
+desktop/mobile proxy23/26 pass. Independent cycle1 PASS, no findings;
+push/production verification still required. On release continue RES017,
+not repeated chain qualification.
+
 Afternoon RES016 [paper-chain decision pack](../seo/paper-chain-qualification-2026-09-22.md)
 passed independent research review and selects UPGRADE of the existing
 `/cards/paper-chain-test.html`, not an eighth

@@ -1,6 +1,21 @@
 # Priority Page Status
 
-Last updated: 2026-09-22
+Last updated: 2026-09-23
+
+## September 23 Paper Chain - Local Upgrade, Release Pending
+
+`KAL-IMP-015` upgrades `/cards/paper-chain-test.html` in place: explicit
+linked-loop start, original three-frame diagram, bounded repair and optional
+one-sheet rules. Same canonical and66 sitemap URLs; seven dedicated articles
+remain seven, not an eighth new page. Only card/library, chain hub closure/
+link label, diagram and sitemap outputs change. RES016 source qualification
+is released; September23 recheck and local94-test/browser QA pass. Parent
+planning proxy6->23/26, not family testing; independent cycle1 PASS, no findings.
+Exact-path push and production verification pending.
+Review: `reviews/paper-chain-implementation-review-2026-09-23.md`.
+Latest GSC throughSeptember20 predates this release; chain/query rows
+unavailable. Next after verified release: RES017 foil-boat research. Observe
+chain throughOctober7 except concrete defects; weekly remainsSeptember27.
 
 ## September 22 Straw Rocket - Released
 

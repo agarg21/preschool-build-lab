@@ -970,7 +970,8 @@ PAGES = [
                 "materials": "pre-cut paper strips, painter tape, one book",
                 "mission": "Build a paper chain long enough to wrap around the book and meet at the top.",
                 "adult_role": "Pre-cut wide strips and hold the book still while the child joins loops.",
-                "steps": ["Make and tape one paper loop.", "Thread each new strip through the last loop.", "Wrap the chain around the book."],
+                "steps": ["Make and tape one paper loop.", "Thread each open strip through the last loop, then overlap and tape that strip's own ends.", "Wrap the chain around the book."],
+                "link_text": "Open the linked-loop steps and diagram",
                 "test": "Do the two ends meet without pulling a loop apart?",
                 "redesign": "Add one loop or replace the narrowest loop with a wider strip.",
                 "rescue": "Use a smaller book or start with three large loops already joined.",
@@ -1410,7 +1411,8 @@ def engineering_activity_card(activity):
     steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
     link = ""
     if activity["url"]:
-        link = f'<a class="small-link" href="{esc(activity["url"])}">Open the base activity card</a>'
+        link_text = activity.get("link_text", "Open the base activity card")
+        link = f'<a class="small-link" href="{esc(activity["url"])}">{esc(link_text)}</a>'
     return f'''        <article class="seo-activity engineering-challenge" id="{esc(activity["slug"])}">
           <div>
             <p class="challenge-label">Challenge</p>

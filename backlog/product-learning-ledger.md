@@ -4,6 +4,29 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-23 - KAL-IMP-015 Linked-Loop Planning
+
+- Decision/persona: help a beginner caregiver make two connected loops and
+  recover separate rings, with an optional bounded one-sheet comparison.
+- Hypothesis: explicit open-strip threading before closure plus an original
+  three-frame map closes the demonstrated gap at the existing card URL.
+- Sources/classes: WTTW/Little Bins/Teachers are Terrific recheckedSeptember23;
+  links and September22 source lineage in RES016. SOURCE_BACKED procedure,
+  RESEARCH_HYPOTHESIS tasks, EDITORIAL_JUDGMENT dimensions/rules/rescue.
+- Result: local P1/P3/P4 planning proxy6->23/26, all13 dimensions, no critical
+  failure. New optional P2 rules assessed separately. IMPROVE existing owner,
+  not another article URL. Native94 and browser/fallback QA pass; independent
+  cycle1 PASS, no findings. Release still pending in implementation review.
+- Confidence: high for software/instruction agreement; medium for planning
+  usefulness. Physical fit, dexterity, time, satisfaction and safety UNKNOWN.
+- Lesson: show where an open strip goes before describing repetition; give
+  material-limited trials a repair rule so rescue does not change the trial.
+- Falsification: unclear threading/diagram, critical instruction hidden by
+  clutter, review finding, production mismatch or genuine later confusion.
+- Measurement boundary: not real user testing or rank evidence; latest GSC
+  predates release, missing chain/query rows unavailable. Observe this owner
+  throughOctober7 without blocking separately registered RES017 research.
+
 ## 2026-09-22 - KAL-RES-016 Paper Chain Ownership
 
 - Family decision/persona: beginner caregiver helps join two actual loops,

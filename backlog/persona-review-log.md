@@ -6,6 +6,20 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-23 - Paper Chain Existing-Owner Upgrade
+
+`KAL-IMP-015`: RES016 P1/P3/P4 tasks on actual local1280/390/320 layouts,
+keyboard,200%text and blocked image. Baseline6/26 ->23/26 across all13
+applicable dimensions; no N/A, real user test or physical outcome implied.
+Beginner threading/own-end closure, assistance, rescue/cleanup and plain
+phone start now answerable. P2 optional one-sheet rules evaluated separately
+and pass their frozen outputs. Individual dexterity, unmeasured time and
+small phone diagram labels remain explicit limitations; full-size map and
+complete text exist. Every-section audit and dimension rationale in
+`reviews/paper-chain-implementation-review-2026-09-23.md`.
+IMPROVE same owner, not a new URL. Independent cycle1 PASS, no findings;
+reviewer concurs with all13 dimensions and P1-P4; release pending.
+
 ## 2026-09-22 - Paper Chain Qualification And Current-Card Baseline
 
 RES016 tasks derive from WTTW/S1-S2, teacher challenge rules/S3-S5 and KAL

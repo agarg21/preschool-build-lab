@@ -132,7 +132,7 @@ test("chooser, engineering loop, and all nine challenges are complete", () => {
     for (const label of ["Kid mission:", "Adult setup:", "Test", "First change", "If the build stalls", "Stop:", "Parent check:"]) {
       assert.ok(body.includes(label), `${slug} is missing ${label}`);
     }
-    assert.match(body, /Open the base activity card/);
+    assert.match(body, slug === "paper-chain-test" ? /Open the linked-loop steps and diagram/ : /Open the base activity card/);
   }
 });
 
@@ -156,13 +156,17 @@ test("the visual and neighboring routes are explicit and bounded", () => {
   assert.match(html, /https:\/\/www\.headstart\.gov\/school-readiness\/teacher-time-series\/exploring-engineering-preschoolers/);
 });
 
-test("legacy activity cards retain the age-four route label", () => {
+test("activity cards retain their age-four hub or exact upgraded mission route", () => {
   for (const slug of challengeSlugs) {
     const card = fs.readFileSync(path.join(ROOT, "site", "cards", `${slug}.html`), "utf8");
-    assert.match(
-      card,
-      /href="\.\.\/collections\/engineering-activities-for-4-year-olds\.html">Engineering activities for 4 year olds<\/a>/,
-    );
+    if (slug === "paper-chain-test") {
+      assert.match(card, /href="\.\.\/collections\/engineering-activities-for-4-year-olds\.html#paper-chain-test">book-reach mission<\/a>/);
+    } else {
+      assert.match(
+        card,
+        /href="\.\.\/collections\/engineering-activities-for-4-year-olds\.html">Engineering activities for 4 year olds<\/a>/,
+      );
+    }
     assert.doesNotMatch(card, /Engineering activities for preschoolers ages 4-6/);
   }
 });

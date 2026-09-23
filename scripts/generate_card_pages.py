@@ -92,6 +92,10 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "paper-chain-test": {
+        "time": "Open-ended",
+        "materials": "paper, tape, adult-prepared strips",
+    },
     "cup-tower": {
         "time": "Open-ended",
         "mess": "Not measured",
@@ -284,7 +288,100 @@ def page(row, slug):
 '''
 
 
+def paper_chain_page():
+    return '''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Paper Chain: Make Linked Loops | Kid Activity Lab</title>
+    <meta name="description" content="Make a paper chain with a clear thread-then-close start, an original loop diagram, fixes for separate rings, and an optional one-sheet challenge. Adult preparation.">
+    <link rel="canonical" href="https://kidactivitylab.com/cards/paper-chain-test.html">
+    <link rel="stylesheet" href="../styles.css?v=nav-stable-2">
+    <style>
+      .chain-guide { max-width: 700px; margin: 0 auto; padding: 24px 20px 40px; }
+      .chain-guide h1 { font-size: 2rem; letter-spacing: 0; margin: 8px 0; }
+      .chain-guide h2 { font-size: 1.35rem; letter-spacing: 0; margin: 24px 0 8px; }
+      .chain-guide p, .chain-guide li { line-height: 1.5; }
+      .chain-guide p { margin: 10px 0; }
+      .chain-guide ol { padding-left: 1.5rem; margin: 10px 0; }
+      .chain-guide li { margin: 7px 0; }
+      .chain-guide .boundary { font-size: 0.9rem; color: #47534e; }
+      .chain-guide .start { border-top: 2px solid #176b62; margin-top: 18px; }
+      .chain-guide figure { margin: 24px 0; max-width: 580px; }
+      .chain-guide img { display: block; width: 100%; height: auto; aspect-ratio: 9 / 11; }
+      .chain-guide figcaption { font-size: 0.9rem; }
+      .chain-guide details { border-top: 1px solid #cad3ce; padding: 16px 0; }
+      .chain-guide summary { cursor: pointer; font-weight: 700; padding: 8px 0; }
+      .chain-guide section { scroll-margin-top: 7rem; }
+      .chain-guide a, .chain-guide summary { overflow-wrap: anywhere; }
+      .chain-guide a:focus-visible, .chain-guide summary:focus-visible { outline: 3px solid #246b8f; outline-offset: 3px; }
+      .chain-guide .jump { display: flex; flex-wrap: wrap; gap: 8px 24px; }
+      .chain-guide .jump a { padding: 8px 0; }
+    </style>
+  </head>
+  <body>
+    <header class="site-header"><nav class="nav" aria-label="Main navigation">
+      <a class="brand" href="/">Kid Activity Lab</a>
+      <div class="nav-links"><a href="/">Home</a><a href="../original/">Original</a><a href="../cards.html">Cards</a></div>
+    </nav></header>
+    <main><article class="chain-guide">
+      <p class="kicker">Paper + tape | Adult-guided</p>
+      <h1>Make a paper chain</h1>
+      <p>Turn two strips into linked loops. Then decide: add another, compare, or stop.</p>
+      <p class="boundary">Research-backed; not family-tested by Kid Activity Lab.</p>
+      <p><strong>Gather:</strong> ordinary paper, tape and scissors for the adult. Use a clear tabletop, with room to lay the chain down.</p>
+      <p><strong>Adult setup:</strong> cut strips roughly 15 cm long and 2 cm wide (about 6 by 3/4 inches). This is our starting suggestion, not a tested best size. Check that a strip curls and its ends overlap without forcing; adjust if needed. Prepare tape pieces and put scissors away.</p>
+      <section class="start" id="start" aria-labelledby="start-title">
+        <h2 id="start-title">First, link two loops</h2>
+        <ol>
+          <li>Curl one strip. Overlap <strong>its own ends</strong> and tape them together to close the first loop.</li>
+          <li>Pass a new, <strong>open strip through the hole</strong> in that loop.</li>
+          <li>Bring the new strip's own ends together and tape them. Now the two loops are linked, not taped to each other.</li>
+          <li>Repeat through the newest loop, or finish with two.</li>
+        </ol>
+        <p><strong>Say:</strong> "Can you put this strip through that loop?" Stay beside your child; hold the loop or handle the tape as needed. Choosing a strip or watching also counts as taking part.</p>
+        <p><strong>Keep it on the table:</strong> no wearing chains or hanging them across walkways. Stop if paper or tape goes in a mouth, the chain is pulled around a body, or play becomes unwanted or hard to control.</p>
+        <nav class="jump" aria-label="Activity help"><a href="#rescue">Loops not joining?</a><a href="#challenge">Try one sheet</a></nav>
+      </section>
+      <figure>
+        <img src="../assets/paper-chain/linked-loops.png" width="900" height="1100" alt="Three stages: close the first loop; pass an open strip through its hole; close that new strip around the first loop by joining its own ends. The two loops interlock but are not taped to each other.">
+        <figcaption>Original KAL explanation, not to scale or a cutting template. <a href="../assets/paper-chain/linked-loops.png">Open the full-size loop diagram</a>.</figcaption>
+      </figure>
+      <section id="rescue" aria-labelledby="rescue-title">
+        <h2 id="rescue-title">Loops not joining?</h2>
+        <p><strong>Two separate circles?</strong> Use a fresh open strip, pass it through the last loop, then close it. Closing it first leaves nothing to thread.</p>
+        <p><strong>Tape lifting or paper tearing?</strong> The adult can reattach the same joint. For a free build, replace torn paper or finish. In the one-sheet trial below, repair with the original pieces or end that attempt; no extra paper.</p>
+        <p><strong>Joining feels too fiddly?</strong> Let the adult hold and join while the child chooses, counts or watches. Skip tape handling if the feel bothers them. Offer the same roles to siblings; stop if everyone needs more help than you can give.</p>
+        <p><strong>Finish:</strong> lay the chain down gently and notice which loop connects to which. Gather all strips, tape and offcuts. No timer is needed; setup, play time and cleanup effort have not been measured.</p>
+      </section>
+      <section id="challenge" aria-label="Optional one-sheet challenge">
+        <details><summary>Optional: how long can one sheet reach?</summary>
+          <p>After a linked start, choose these rules together. This is our version of a one-sheet challenge, not a universal rule set.</p>
+          <ul>
+            <li>Use one sheet per attempt. For comparison, start each attempt with the same size and type of paper. The adult still cuts; choose strip sizes together.</li>
+            <li>Make interlocking loops only. Tape closes each loop; it does not extend the paper or join flat strips end-to-end.</li>
+            <li>Lay chains side by side from a common starting point, without stretching. Which reaches farther? More links need not mean more length if their sizes differ.</li>
+            <li>Repair only with that attempt's paper, or stop. A fresh sheet starts a new attempt. Changing the rules makes a different challenge.</li>
+          </ul>
+          <p>No race, ruler or printer needed. Prefer a target instead? Try the <a href="../collections/engineering-activities-for-4-year-olds.html#paper-chain-test">book-reach mission</a>; it uses the same loops without the one-sheet rule.</p>
+        </details>
+      </section>
+      <details><summary>Sources and what we haven't tested</summary>
+        <p><a href="https://www.wttw.com/kids/learn-and-play/activities/social-emotional-development/paper-chain">WTTW's Paper Chain</a> supports the thread-then-close sequence and an untimed assisted option. <a href="https://littlebinsforlittlehands.com/paper-chain-stem-challenge/">Little Bins' paper-chain challenge</a> supplies the one-sheet comparison idea. <a href="https://teachersareterrific.com/2015/08/the-paper-chain-an-easy-prep-stem-challenge.html">Teachers are Terrific's challenge</a> illustrates why the meaning of "chain" needs explicit rules. Sources checked September 23, 2026.</p>
+        <p>Strip dimensions, roles, rescue suggestions, limits and comparison rules here are KAL editorial choices. We have not physically or family-tested this version. Age alone does not establish fit; dexterity, time, enjoyment, learning, mess and safety outcomes remain unknown.</p>
+      </details>
+      <p><a href="../cards.html">Choose another activity</a></p>
+    </article></main>
+    <footer class="site-footer"><p>Kid Activity Lab</p></footer>
+  </body>
+</html>
+'''
+
+
 def quick_page(slug):
+    if slug == "paper-chain-test":
+        return paper_chain_page()
     activity = {**ACTIVITIES[slug], **QUICK_CARD_OVERRIDES.get(slug, {})}
     steps = activity["steps"]
     step_html = "\n".join(
