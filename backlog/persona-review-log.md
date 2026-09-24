@@ -6,6 +6,20 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-24 - Empty Foil Boat Existing-Owner Upgrade
+
+IMP016 implements RES017's narrower empty-hull task at the same URL. Actual
+1280/390/320 rendered proxy23/26 across all13 dimensions, no N/A; old6/26
+is historical and not directly comparable because cargo choice now resolves
+to no cargo rather than capacity testing. P1 hull/recovery, P2 omit cargo,
+P3 adult assistance/exit and P4 phone/image-failure tasks pass; no critical
+instruction absent. Age/handling fit, unmeasured timing and phone map labels
+each score1; full-size map and complete prose mitigate labels. Keyboard/touch,
+source open/close,200%text, image failure and inbound routes pass. Every-section
+table and rationale: `reviews/foil-boat-implementation-review-2026-09-24.md`.
+IMPROVE existing owner; independent cycle2 PASS, sole P3 labels closed, no
+open findings. Committed-range/release pending. Physical/family outcomes UNKNOWN.
+
 ## 2026-09-23 Afternoon - Foil Boat Qualification
 
 `KAL-RES-017`: source-derived P1 empty-hull construction/recovery, P2 cargo

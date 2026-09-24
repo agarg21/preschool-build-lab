@@ -1,5 +1,31 @@
 # Operator Review
 
+## KAL-IMP-016 - September 24 Morning
+
+Base `de3a6eb79e5fe10f99d05a82a1b5a8cf3be184de`, clean/aligned after fetch,
+23 registered paths. Existing empty-foil-boat card, original bitmap and minimum
+foil-only inbound reconciliation; no new URL. Source checks and all13
+narrowed-task proxy23/26, every-section and rendered browser evidence in
+`reviews/foil-boat-implementation-review-2026-09-24.md`. Old6/26 not a matched
+aggregate comparison; no physical/family test. Native101,95-file four-generator
+idempotence,71HTML/823refs/fragments, JSON/whitespace,66 unchanged sitemap URLs
+and only five lastmod changes pass. Other roadmap items/dates unchanged.
+Exact23 paths and393 protected tracked files verified; all eight other
+engineering and four other original-pack modules byte-identical. Ten Markdown
+relative links and67 public snapshots validate. No release marker exists in
+site or Pages workflow; exact-SHA deployment plus affected bytes required.
+Independent cycle1 PASS_WITH_P3, no P0-P2, Beauvoir
+`01a0d2b5-1f15-79e2-b990-65fbe2c26375`, strict read-only, full23-path worktree.
+One P3 age-hub suffix wording corrected via foil-only display labels and
+regression checks. Cycle2 PASS closes P3, no open P0-P3. All14 material hashes
+frozen; only expected three files changed,35 other defaults and393 protected
+files intact. Corrected screenshots/AST/JSON/scope/whitespace checked read-only;
+operator native/browser reruns supplied. Commit-range and exact-SHA release
+pending. No accounts,
+paid calls, query export, indexing, tracking or central-ledger changes.
+Next after release: separately audit original-pack general age/timing/material
+claims; no implicit permission for cargo variants. Weekly dueSeptember27.
+
 ## KAL-RES-017 - September 23 Afternoon
 
 Base `1aef9ca87e345daf78b41eaa042aa21b04c9fbf2`, clean/aligned after fetch,

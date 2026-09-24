@@ -110,7 +110,7 @@ test("chooser, engineering loop, and all nine challenges are complete", () => {
     [...chooser.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map((match) => [match[2], match[1]]),
     [
       ["Paper Bridge", "#paper-bridge"],
-      ["Foil Boat", "#foil-boat-test"],
+      ["Empty Foil Boat", "#foil-boat-test"],
       ["Wind Tower", "#wind-tower-test"],
       ["Cup Doorway", "#cup-tower"],
       ["Target Ramp", "#car-ramp-distance-test"],
@@ -132,7 +132,9 @@ test("chooser, engineering loop, and all nine challenges are complete", () => {
     for (const label of ["Kid mission:", "Adult setup:", "Test", "First change", "If the build stalls", "Stop:", "Parent check:"]) {
       assert.ok(body.includes(label), `${slug} is missing ${label}`);
     }
-    assert.match(body, slug === "paper-chain-test" ? /Open the linked-loop steps and diagram/ : /Open the base activity card/);
+    const linkLabel = slug === "paper-chain-test" ? /Open the linked-loop steps and diagram/
+      : slug === "foil-boat-test" ? /Open the empty-boat steps and diagram/ : /Open the base activity card/;
+    assert.match(body, linkLabel);
   }
 });
 
@@ -161,6 +163,8 @@ test("activity cards retain their age-four hub or exact upgraded mission route",
     const card = fs.readFileSync(path.join(ROOT, "site", "cards", `${slug}.html`), "utf8");
     if (slug === "paper-chain-test") {
       assert.match(card, /href="\.\.\/collections\/engineering-activities-for-4-year-olds\.html#paper-chain-test">book-reach mission<\/a>/);
+    } else if (slug === "foil-boat-test") {
+      assert.match(card, /href="\.\.\/collections\/engineering-activities-for-4-year-olds\.html#foil-boat-test">Back to the engineering chooser<\/a>/);
     } else {
       assert.match(
         card,

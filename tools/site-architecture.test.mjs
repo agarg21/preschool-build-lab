@@ -192,6 +192,7 @@ test("generated cards expose a restrained set of existing hub routes", () => {
       const target = path.resolve(SITE, routePath);
       assert.equal(route.origin, BASE_URL);
       if (slug === "paper-chain-test") assert.equal(route.hash, "#paper-chain-test");
+      if (slug === "foil-boat-test") assert.equal(route.hash, "#foil-boat-test");
       assert.ok(target.startsWith(SITE), `${href} must remain inside site/`);
       assert.ok(fs.existsSync(target), `${href} must resolve to an existing page`);
       if (routePath === DIRECT_GUIDE_ROUTES.get(slug)) continue;

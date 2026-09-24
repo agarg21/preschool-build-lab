@@ -4,6 +4,33 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-24 - KAL-IMP-016 Empty-Hull Planning
+
+- Decision/persona: caregiver makes one empty hull, understands adult control,
+  checks real flotation and chooses one repair or an immediate stop.
+- Hypothesis: explicit folds/map and no-cargo scope close the demonstrated
+  planning gap without another URL or unqualified material equivalence.
+- Sources/classes: RES017 lineage; September24 rechecked Science Buddies,
+  Discovery World, DiscoverE, CPSC and AAP bodies. SOURCE_BACKED mechanisms
+  and control context; RESEARCH_HYPOTHESIS tasks; EDITORIAL_JUDGMENT sizes,
+  diagram, roles and recovery. Physical/time/family outcomes UNKNOWN.
+- Result: existing-owner IMPROVE, narrowed-task rendered23/26 all13, no
+  critical failure. Not a matched comparison to historical6/26 cargo task.
+  Native101, generator/link/scope and desktop/mobile stress QA pass;
+  independent cycle2 PASS, sole P3 labels closed, no open findings.
+  Committed-range/release pending. No actual parent or child test.
+- Confidence: high for source/prose/map and route agreement; medium for
+  planning usefulness, not proof that the hull or adaptation works in practice.
+- Reusable lesson: removing an unsupported capacity promise requires its
+  inbound chooser/module copies to change too; a clear stop can be more honest
+  than inventing a substitute or adding water to force a result.
+- Next falsification: diagram/procedure mismatch, missed control, genuine
+  user confusion or source-supported cargo case. Capacity remains deferred.
+- Measurement boundary: GSC latestSeptember22 through20 is pre-release;
+  missing foil/query rows unavailable. Retained50/110 estimates do not measure
+  empty-hull demand. Preserve foil toOctober8 after release except defects;
+  next separately audit legacy pack general claims, weekly dueSeptember27.
+
 ## 2026-09-23 Afternoon - KAL-RES-017 Foil Boat Materials
 
 - Family decision/persona: caregiver forms an empty foil boat, checks flotation,

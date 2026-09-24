@@ -1,5 +1,32 @@
 # Current Cycle
 
+## Run Checkpoint - September 24 Morning Foil Boat Upgrade
+
+- Invocation: `2026-09-24T09:00:56.054Z`, active pilot; no newer redirect.
+- Action/objective: `KAL-IMP-016`, implement reviewed RES017 at the existing
+  foil-boat owner: empty-hull start/map/recovery and adult controls, no cargo.
+- Base: `de3a6eb79e5fe10f99d05a82a1b5a8cf3be184de`, clean main/origin0/0
+  after fetch, no incoming changes or unrelated dirty work.
+- Exact23 paths registered in roadmap: four generators, seven public outputs,
+  three tests, review artifact, priority status, implementation backlog,
+  persona/learning logs, both roadmaps, current cycle and operator review.
+- Phase: local implementation/QA and independent cycle2 PASS complete; sole
+  P3 label wording fixed, no open P0-P3. Reviewer Beauvoir
+  `01a0d2b5-1f15-79e2-b990-65fbe2c26375`, strict read-only, exact23 paths.
+  Next focused commit, final frozen-range review and exact-SHA production QA.
+  Native101,95-file generator idempotence,71HTML/823refs,66 unchanged URLs,
+  desktop/390/320/200%text/keyboard/touch/image-failure checks pass. Current
+  narrowed-task proxy23/26; old6/26 not a matched comparison; no human test.
+- Completion required: source/prose/map agreement, all13 parent-task dimensions,
+  desktop/mobile/keyboard/text/image failure, native/generator idempotence,
+  links/fragments/scope, different read-only review, exact-SHA Pages success
+  and production byte/task verification; final commit/alignment recorded.
+- Invariants: all other activities/guides unchanged; no cargo capacity,
+  size/depth safety assurance, physical/family outcomes, paid API or accounts.
+  Prior guide windows preserved; weekly synthesis dueSeptember27.
+- Blockers: none currently. No fresh GSC snapshot after fetch; missing query
+  evidence does not block this reviewed instruction/trust repair.
+
 ## Run Checkpoint - September 23 Afternoon Foil Boat Research
 
 - Invocation: `2026-09-23T17:01:06.199Z`, heartbeat inside pilot; no newer redirect.

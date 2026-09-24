@@ -299,16 +299,18 @@ ACTIVITIES = {
         "parent": "Do not shine flashlights into eyes.",
     },
     "foil-boat-test": {
-        "title": "Foil Boat Test",
+        "title": "Empty Foil Boat",
         "url": "../cards/foil-boat-test.html",
         "ages": "4-6",
-        "time": "8 min",
-        "mess": "medium",
-        "help": "medium",
-        "materials": "foil, water tray, pennies or blocks",
-        "best_for": "buoyancy, engineering, redesign",
-        "steps": ["Shape a foil boat.", "Float it.", "Add one piece.", "Change the boat."],
-        "parent": "Use a shallow water tray and supervise small pieces.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "Adult stays throughout",
+        "mess_label": "Mess: not measured",
+        "help_label": "Adult stays throughout",
+        "materials": "foil, shallow water tray, towel; no cargo",
+        "best_for": "noticing whether an empty hull floats, leans or leaks",
+        "steps": ["Raise the foil edges.", "Pinch corners without cutting.", "Adult checks empty flotation.", "Lift out, change one side or stop."],
+        "parent": "Adult controls water and stays beside the tray. Stop for mouthing, torn foil, spills or lost attention; empty and store the tray before leaving. Not family-tested; open the guide for folds, clearance and rescue.",
     },
     "straw-bridge": {
         "title": "Straw Bridge",
@@ -833,7 +835,7 @@ PAGES = [
         "tip": "Use one question per activity: What do you think will happen, and what changed when we tried again?",
         "start_block": {
             "title": "Start with the original age-4 STEM test pack",
-            "body": "Best first pick: start with the Kid Activity Lab original test pack. It has five 5-10 minute activities with parent jobs, read-aloud kid steps, stop rules, and notes to capture what actually worked.",
+            "body": "Start with the Kid Activity Lab original test pack for parent jobs, read-aloud steps and stop rules. The foil-boat activity is open-ended; its timing has not been measured.",
             "link_text": "Open the original age-4 STEM test pack",
             "url": "../collections/original-stem-activities-for-4-year-olds.html",
         },
@@ -841,7 +843,7 @@ PAGES = [
             ("I need low mess", "Ramp Detective or Shadow Builder", "Dry materials, fast reset, and easy to stop."),
             ("My child likes stories", "Bridge Rescue", "The toy crossing the river gives the test a reason."),
             ("I need movement but not chaos", "Windproof Tower", "Building and rebuilding gives energy a job."),
-            ("We can handle water", "Tiny Boat Cargo Test", "High engagement, but needs close supervision."),
+            ("We can handle water", "Empty Foil Boat", "No cargo; an adult controls water and stays throughout."),
             ("It is almost bedtime", "Shadow Builder", "Calm, low mess, and easy to end after two shadows."),
         ],
         "activity_overrides": {
@@ -872,13 +874,9 @@ PAGES = [
                 "best_for": "structure, stability, redesign",
             },
             "foil-boat-test": {
-                "title": "Tiny Boat Cargo Test",
-                "url": "../collections/original-stem-activities-for-4-year-olds.html#tiny-boat-cargo-test",
-                "link_text": "Open in original test pack",
-                "materials": "foil, shallow water tray, large cargo pieces",
-                "best_for": "buoyancy, water play, redesign",
-                "steps": ["Shape a foil boat.", "Float it.", "Add one large passenger.", "Pinch the sides higher."],
-                "parent": "Use one inch of water, large cargo only, and stay next to the tray.",
+                "title": "Empty Foil Boat",
+                "url": "../cards/foil-boat-test.html",
+                "link_text": "Open the empty-boat steps and diagram",
             },
             "ramp-texture-test": {
                 "materials": "ramp, towel or paper, toy car",
@@ -912,7 +910,7 @@ PAGES = [
         "chooser_label": "Preschool engineering activity chooser",
         "chooser": [
             ("Paper and a toy car", ("Paper Bridge", "#paper-bridge"), "Set two low books in place, then let the child own the bridge."),
-            ("A tray can get wet", ("Foil Boat", "#foil-boat-test"), "Stay beside the shallow tray and add large cargo one piece at a time."),
+            ("A tray can get wet", ("Empty Foil Boat", "#foil-boat-test"), "An adult stays beside the tray; try an empty hull, no cargo."),
             ("Blocks or cups are ready", [("Wind Tower", "#wind-tower-test"), ("Cup Doorway", "#cup-tower")], "Keep the build low and run one gentle test."),
             ("Toy cars are the hook", [("Target Ramp", "#car-ramp-distance-test"), ("Box Garage", "#box-garage")], "Set the boundary or target; let the child decide the change."),
             ("The child wants more building", [("Straw Bridge", "#straw-bridge"), ("Ball Maze", "#ball-maze-box")], "Handle cutting or tape and leave the layout decisions to the child."),
@@ -953,16 +951,17 @@ PAGES = [
             },
             "foil-boat-test": {
                 "slug": "foil-boat-test",
-                "title": "Foil Boat",
-                "materials": "foil, shallow tray, water, two large wooden blocks",
-                "mission": "Shape a boat that floats while carrying two large cargo blocks.",
-                "adult_role": "Add a shallow layer of water, place the tray on a wipeable surface, and stay beside it.",
-                "steps": ["Pinch the foil into an open boat.", "Float the empty boat.", "Add the blocks one at a time."],
-                "test": "Does the boat stay above the water with both blocks inside?",
-                "redesign": "Pinch the sides higher or make the bottom wider, then test again.",
-                "rescue": "Remove one block and widen the boat before the next try.",
-                "stop": "Stop if foil or cargo goes in a mouth, water leaves the tray area, or the child moves away from the setup.",
-                "parent": "Use large cargo only, keep water shallow, and empty the tray as soon as the activity ends.",
+                "title": "Empty Foil Boat",
+                "materials": "foil, shallow tray, water, towel; no cargo",
+                "mission": "Watch an empty foil boat: does it stay upright, lean or let water in?",
+                "adult_role": "Set the tray on a stable wipeable surface with a towel beneath; control the water and stay beside it throughout. Open the linked folds and diagram before starting.",
+                "steps": ["Raise all four foil edges; pinch corners without cutting.", "Adult lowers the empty boat and checks it floats clear of the tray bottom and sides.", "Watch, then ask the adult to lift it out before a change."],
+                "link_text": "Open the empty-boat steps and diagram",
+                "test": "Is it floating freely, rather than resting on the tray? No cargo-capacity test here.",
+                "redesign": "Adult lifts and drains onto the towel; try raising one low edge or flattening an uneven bottom.",
+                "rescue": "Replace torn foil or stop. If it cannot float freely in the shallow setup, choose a dry activity, not a deeper vessel.",
+                "stop": "Stop for mouthing, torn foil, spills, a moving tray, lost attention or wanting to leave.",
+                "parent": "Adult gathers foil, empties and stores the tray, and wipes spills before leaving. Shallow water still requires continuous adult supervision. Watching is an option; no family testing or safety outcome is claimed.",
             },
             "paper-chain-test": {
                 "slug": "paper-chain-test",
@@ -1396,8 +1395,8 @@ def activity_card(activity):
             <div class="source-tags">
               <span class="tag">{esc(activity["ages"])} years</span>
               <span class="tag">{esc(activity["time"])}</span>
-              <span class="tag">{esc(activity["mess"])} mess</span>
-              <span class="tag">{esc(activity["help"])} help</span>
+              <span class="tag">{esc(activity.get("mess_label", activity["mess"] + " mess"))}</span>
+              <span class="tag">{esc(activity.get("help_label", activity["help"] + " help"))}</span>
             </div>
           </div>
           <div class="activity-materials"><strong>Need</strong>{esc(activity["materials"])}</div>

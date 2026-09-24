@@ -6,6 +6,15 @@ repository writer for a validated transaction.
 
 ## Individual Page Queue - September 22
 
+September24 overlay: IMP016 local implementation/QA complete in23 exact paths.
+Existing foil owner and three inbound modules/library reconciled to no-cargo
+start/map/controls; no new URL. Native101 and rendered narrowed-task23/26
+pass, not matched old-task improvement or human testing. Independent cycle2
+PASS, P3 labels closed, no open findings. Commit-range/exact-SHA release pending.
+After release preserve foil throughOctober8;
+next separate audit lead is original-pack general age/timing/material language,
+not another cargo variant. Weekly dueSeptember27 stays unchanged.
+
 September23 afternoon overlay: RES017 [foil-boat qualification](../seo/foil-boat-qualification-2026-09-23.md)
 selects one conditional `KAL-IMP-016`: UPGRADE existing foil card, no new URL.
 Compact empty-boat start/map/free-floating check/recovery/adult controls; no
