@@ -10,15 +10,20 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 ## Current sequence
 
-0. September24 morning `KAL-IMP-016` local QA complete from clean/aligned `de3a6eb`,
+0. September24 morning `KAL-IMP-016` COMPLETED from clean/aligned `de3a6eb`,
    exact23 paths in JSON. Implement reviewed RES017 existing-owner no-cargo
    empty-hull start/map/recovery/adult controls and minimum foil-only inbound
    reconciliation. No new URL, generic template rewrite or cargo substitution.
    Native101,95-file idempotence,71HTML/823refs,66 unchanged URLs and rendered
    parent/keyboard/mobile/text/fallback checks pass. Narrowed-task23/26 is not
-   matched to old cargo-task6/26, nor human testing. Independent cycle2 PASS,
-   sole P3 wording fixed, no open P0-P3. Commit-range/exact-SHA release pending;
-   prior windows and weeklySeptember27 unchanged.
+   matched to old cargo-task6/26, nor human testing. Independent finalcycle3
+   full-range PASS, sole P3 wording fixed, no open P0-P3. Reviewed `d64e494`
+   pushed; exact-SHA Pages35981255384 success09:26:55UTC, seven public bytes,
+   five canonical/H1 and production desktop/mobile/stress/route checks pass.
+   No marker exists; clean local/origin0/0 verified. Nine-doc facts-only
+   closeout allowed. Next separately register original-pack general age-down/
+   timing/material audit, not cargo variants. Foil observationOctober8;
+   prior guide windows and weeklySeptember27 unchanged.
 
 0. September23 afternoon `KAL-RES-017` COMPLETED, released from clean/aligned
    `1aef9ca87e345daf78b41eaa042aa21b04c9fbf2`, nine research/operator paths

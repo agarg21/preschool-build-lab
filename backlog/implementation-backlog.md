@@ -6,12 +6,13 @@ repository writer for a validated transaction.
 
 ## Individual Page Queue - September 22
 
-September24 overlay: IMP016 local implementation/QA complete in23 exact paths.
+September24 overlay: IMP016 COMPLETED and released in23 exact paths.
 Existing foil owner and three inbound modules/library reconciled to no-cargo
 start/map/controls; no new URL. Native101 and rendered narrowed-task23/26
-pass, not matched old-task improvement or human testing. Independent cycle2
-PASS, P3 labels closed, no open findings. Commit-range/exact-SHA release pending.
-After release preserve foil throughOctober8;
+pass, not matched old-task improvement or human testing. Independent finalcycle3
+full-range PASS, P3 labels closed, no open findings. Reviewed `d64e494`,
+exact-SHA Pages35981255384, seven production byte-matches and parent tasks pass.
+Preserve foil throughOctober8;
 next separate audit lead is original-pack general age/timing/material language,
 not another cargo variant. Weekly dueSeptember27 stays unchanged.
 
@@ -60,7 +61,7 @@ and production checks pass. No-ruler interpretation remains an explicit proxy
 limitation. RES015 has now nominated the bounded build above.
 
 Helicopter, rocket and paper-chain work is released and under observation;
-foil boat has one conditional existing-owner upgrade and two candidates
+foil boat now has a released existing-owner upgrade and two candidates
 remain deferred. These are potential improvements,
 not six promised URLs. Titles below describe parent jobs; final URLs and
 keyword ownership are assigned only after qualification.
@@ -77,7 +78,7 @@ SERP samples are incomplete. Strong institutional competitors already exist.
 | 1 / Released, observe | **Paper helicopter: fold, drop and try again.** Adult prepares one clip-free model; child releases and watches; parent checks a non-turning drop. | `paper helicopter` 2,900; `paper helicopter experiment` 90 | `KAL-IMP-013` released in `977d80d`; original map, parent-task, source, desktop/mobile, independent review and production checks passed. Observe post-release crawl and finalized page/query evidence; physical/family outcomes remain unknown. |
 | 2 / Released, observe | **Paper straw rocket: parent prepares and launches.** Child may decorate, count down or watch; parent checks fit and diagnoses leaks/jams. | `straw rocket` 2,900; `straw rocket for kids` UNKNOWN | `KAL-IMP-014` released September22 in55efb75 after independent finalcycle3 PASS. One guide/map/library link;88 tests,23/26 proxy, exact-SHA Pages and production bytes/tasks pass. Observe without guaranteed rank or physical result. |
 | 3 / Released, observe | **Paper chain: make connected loops, then optionally compare length.** Parent demonstrates linking and offers an untimed build/recovery. | `paper chain challenge` 390; `longest paper chain challenge` 70 | IMP015 released September23 in a601814 at existing card URL; original map/rules/controls, independent finalcycle2 PASS,94 tests and exact-SHA production task verification. No sibling URL or physical/family-outcome claim. |
-| 4 / Conditional existing-owner upgrade | **Foil boat: shape an empty hull and recover.** Adult controls tray and checks free flotation; child can observe/choose. | `aluminum foil boat experiment`50; `foil boat challenge`110, not demand for this narrower precursor job | RES017 nominates IMP016: compact no-cargo start/map/controls and foil-only inbound reconciliation. Review/release research then register exact implementation paths. Capacity extension deferred; no coin/block equivalence, new URL or rank promise. |
+| 4 / Released, observe | **Foil boat: shape an empty hull and recover.** Adult controls tray and checks free flotation; child can observe/choose. | `aluminum foil boat experiment`50; `foil boat challenge`110, not demand for this narrower precursor job | IMP016 released September24 in d64e494 at existing card URL; no-cargo start/map/controls and foil-only inbound reconciliation. Independent finalcycle3 PASS,101tests, exact-SHA Pages35981255384 and seven production byte/task checks pass. Capacity extension deferred; no coin/block equivalence, new URL or rank promise. |
 | Deferred | **String-disc paper spinner.** Parent prepares the disc and helps with threading, winding and recovery. | `paper spinner` 720; `paper spinner toy` 70 | `KAL-RES-018`, deferred. Reopen only for evidence that coordination/cord/adult-control requirements fit the current audience. No automatic younger-age adaptation. |
 | Deferred | **Balloon rocket on a line.** Parent manages inflation, setup, launch, retrieval and cleanup. | `balloon rocket experiment` 1,000; `balloon rocket activity` 40 | `KAL-RES-019`, deferred. Balloon/cord/latex, anchor/space, fragment cleanup and failed-launch controls need authoritative reconciliation before qualification. |
 

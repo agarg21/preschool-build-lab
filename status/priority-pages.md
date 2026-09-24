@@ -2,17 +2,20 @@
 
 Last updated: 2026-09-24
 
-## September 24 Empty Foil Boat - Local QA Complete
+## September 24 Empty Foil Boat - Released
 
 `KAL-IMP-016` upgrades the existing `/cards/foil-boat-test.html`, not a new URL:
 one no-cargo fold/start, original diagram, adult water control, recovery and
 cleanup. Three inbound modules and library reconciled;66 sitemap URLs remain.
 Native101 and desktop/mobile/keyboard/200%text/image-fallback checks pass.
 Narrowed-task proxy23/26, not comparable to old cargo-task6/26 or human testing.
-Independent cycle2 PASS, P3 labels corrected, no open findings. Commit-range/
-release pending. Evidence: `reviews/foil-boat-implementation-review-2026-09-24.md`.
+Independent finalcycle3 full-range PASS, P3 labels corrected, no open findings.
+Reviewed `d64e494` pushed; exact-SHA Pages35981255384 success, seven public
+files byte-match and production desktop/mobile/keyboard/enlarged-text/image-
+fallback/route tasks pass. No release marker exists. Evidence:
+`reviews/foil-boat-implementation-review-2026-09-24.md`.
 Latest GSC throughSeptember20 predates this change; foil/query rows unavailable.
-After release observe foil throughOctober8 except defects. Next eligible work:
+Observe foil throughOctober8 except defects. Next eligible work:
 separately audit legacy original-pack general age/timing/material claims;
 weekly synthesis remainsSeptember27. No broader pack validation claimed.
 

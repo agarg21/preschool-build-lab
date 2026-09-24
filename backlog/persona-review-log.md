@@ -17,8 +17,10 @@ instruction absent. Age/handling fit, unmeasured timing and phone map labels
 each score1; full-size map and complete prose mitigate labels. Keyboard/touch,
 source open/close,200%text, image failure and inbound routes pass. Every-section
 table and rationale: `reviews/foil-boat-implementation-review-2026-09-24.md`.
-IMPROVE existing owner; independent cycle2 PASS, sole P3 labels closed, no
-open findings. Committed-range/release pending. Physical/family outcomes UNKNOWN.
+IMPROVE existing owner; independent finalcycle3 full-range PASS, sole P3 labels
+closed, no open findings. Reviewed `d64e494` released through exact-SHA
+Pages35981255384; seven production byte-matches and desktop/mobile/stress/
+route tasks pass. PRESERVE after release. Physical/family outcomes UNKNOWN.
 
 ## 2026-09-23 Afternoon - Foil Boat Qualification
 

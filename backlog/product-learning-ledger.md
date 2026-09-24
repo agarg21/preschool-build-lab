@@ -17,8 +17,10 @@ experience separate. A persona task is a proxy evaluation, not user testing.
 - Result: existing-owner IMPROVE, narrowed-task rendered23/26 all13, no
   critical failure. Not a matched comparison to historical6/26 cargo task.
   Native101, generator/link/scope and desktop/mobile stress QA pass;
-  independent cycle2 PASS, sole P3 labels closed, no open findings.
-  Committed-range/release pending. No actual parent or child test.
+  independent finalcycle3 full-range PASS, sole P3 labels closed, no open
+  findings. COMPLETED: reviewed `d64e494`, exact-SHA Pages35981255384 success,
+  seven public byte-matches and production desktop/mobile/stress/route tasks
+  pass. No actual parent or child test.
 - Confidence: high for source/prose/map and route agreement; medium for
   planning usefulness, not proof that the hull or adaptation works in practice.
 - Reusable lesson: removing an unsupported capacity promise requires its

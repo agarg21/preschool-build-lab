@@ -3,7 +3,7 @@
 Action `KAL-IMP-016`, invocation September24 morning, frozen base
 `de3a6eb79e5fe10f99d05a82a1b5a8cf3be184de`. Exact23 paths in roadmap;
 single Master writer. Existing URL/anchors, no new indexable page. Local QA
-complete; independent cycle2 PASS, committed-range/release checks pending.
+complete; independent finalcycle3 PASS, exact-SHA release verified below.
 
 ## Frozen Task And Evidence
 
@@ -70,9 +70,9 @@ No new paid calls, demand estimate, query-intent claim or ranking prediction.
   cover the top of inbound modules when programmatically scrolled into view;
   the new card's explicit jump targets retain visible headings.
   Screenshots retained locally at `/tmp/kal-imp016-*`, not public human evidence.
-- Publication still required: different read-only reviewer, exact reviewed SHA Pages run,
+- Publication gate, now satisfied below: different read-only reviewer, exact reviewed SHA Pages run,
   affected byte matches/canonical/H1/routes and production desktop/mobile
-  tasks. Marker checked only if one exists. Nothing released yet.
+  tasks. No marker exists; exact-SHA and affected bytes verified instead.
 
 ## Parent And Section Results
 
@@ -135,7 +135,26 @@ hashes match cycle1. AST/JSON/scope/whitespace independently checked;
 operator101-test/overflow reruns supplied. Material manifest SHA256
 `20341abf17cf3e1b7f73499597bfbd2aadec9e79f90c934bfc2b045cbbc66e6c`
 (sorted14 scripts/site/tools target paths, each SHA256, two spaces, path,
-newline). All23 hashes retained for frozen-range comparison. Commit and
-production release pending, not a completed action yet.
+newline). All23 hashes retained for frozen-range comparison.
 Latest67 snapshots throughSeptember20 remain unchanged; missing foil/query
-rows unavailable. Weekly dueSeptember27. No completion or deployment yet.
+rows unavailable. Weekly dueSeptember27.
+
+Finalcycle3 PASS, no P0-P3, full frozen base through
+`d64e49409214eb75624603a018295c1d8ca120d3`. Reviewer independently verified
+clean commit/direct parent, exact23 paths, all14 material hashes unchanged
+from cycle2,393 protected files, truthful nine-doc factual additions, unrelated
+roadmap state, JSON and range-whitespace. Native/browser evidence supplied,
+not rerun. Strict read-only; facts-only nine-document release closeout allowed.
+
+COMPLETED: reviewed commit pushed after fetch/no divergence. Exact-SHA
+[Pages35981255384](https://github.com/agarg21/preschool-build-lab/actions/runs/35981255384)
+succeeded September24 09:26:55UTC. All seven public files HTTP200 and byte-
+identical to that commit; five affected HTML canonical/H1 checks pass. No
+release marker exists. Production1280x900/390x844 parent tasks, keyboard/touch
+rescue, sources open/close, all age/pack/library inbound routes, engineering
+anchor, full map and dry-chain routes pass.320x740 with200%text remains320
+wide/body32px; blocked image retains full instructions. No observed JS errors.
+Production screenshots `/tmp/kal-imp016-prod-*`; these are interface QA,
+not family tests. Local/origin clean0/0 verified before factual closeout.
+Foil observation throughOctober8 except defects; next separate original-pack
+general-claim audit, no cargo release or whole-pack validation implied.
