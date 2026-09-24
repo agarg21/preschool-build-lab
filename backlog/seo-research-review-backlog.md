@@ -16,6 +16,14 @@ Historical supporting files:
 
 ## Candidate Qualification Queue - September 18
 
+September24 afternoon RES020: [legacy pack claim audit](../reviews/original-pack-claim-audit-2026-09-24.md)
+passed independent cycle1 review, no findings. Three current primary bodies, retained brief/
+review/history provenance and actual desktop/mobile parent task9/26 expose
+specific trust/choice failures. UPGRADE conditional IMP017, existing pack and
+four direct age-hub summaries only. No new demand or rank claim, paid batch,
+public change or human test. Don't repeat completed foil qualification.
+Deferred018/019 and weeklySeptember27 unchanged. Research release pending.
+
 September23 afternoon overlay: RES017 [foil-boat pack](../seo/foil-boat-qualification-2026-09-23.md)
 passes independent cycle1 review with no findings. Final range/release evidence
 is in operator review. UPGRADE existing card via conditional

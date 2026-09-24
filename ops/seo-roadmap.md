@@ -10,6 +10,17 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 ## Current sequence
 
+0. September24 afternoon `KAL-RES-020` audit ready at clean/aligned `043d20f`
+   after snapshot-only fast-forward. Audit original-pack general age-down,
+   timing/material certainty and parent decision clarity. Nine exact research/
+   operator paths in JSON; no site implementation. Three primary bodies and
+   retained provenance/current desktop/mobile9/26 identify critical trust gaps.
+   UPGRADE conditional IMP017, pack plus four direct age-hub copies; preserve
+   foil module and all dedicated guides. Native101/68snapshots/scope QA and
+   independent cycle1 PASS, no findings; committed-range/release pending.
+   Exact future15-path brief in dated audit, separate registration required.
+   Preserve guide windows and weeklySeptember27; no paid calls or accounts.
+
 0. September24 morning `KAL-IMP-016` COMPLETED from clean/aligned `de3a6eb`,
    exact23 paths in JSON. Implement reviewed RES017 existing-owner no-cargo
    empty-hull start/map/recovery/adult controls and minimum foil-only inbound

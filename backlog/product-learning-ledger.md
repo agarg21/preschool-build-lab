@@ -4,6 +4,33 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-24 Afternoon - KAL-RES-020 Claim Provenance
+
+- Family decision/persona: choose or decline a dry pack activity for age-four
+  plus younger mouthing sibling under a short time constraint; phone/watch stress.
+- Hypothesis: old review approval and an age-four label substantiate duration,
+  younger-sibling fit and harmless-material claims. REJECT_HYPOTHESIS.
+- Evidence/classes: AAP toy selection updated2024-12-19, choking prevention
+  updated2026-02-27 and CPSC child-safety page dateUNKNOWN, all accessedSept24;
+  historical brief/July2 review/blame and actual rendered task. SOURCE_BACKED
+  general checks only; editorial scores/repair choice EDITORIAL_JUDGMENT,
+  persona RESEARCH_HYPOTHESIS. No observations inferred from intake templates.
+- Result: current proxy9/26, all13, critical failure; UPGRADE existing pack and
+  four age-hub summaries through conditional IMP017. Exact future scope/QA in
+  `reviews/original-pack-claim-audit-2026-09-24.md`. Independent research
+  cycle1 PASS, no findings; frozen-range/release pending. No public edits
+  or future after-score.
+- Confidence: high for visible contradiction and missing retained support;
+  unknown actual duration, handling fit, injury/engagement/family outcomes.
+- Reusable lesson: a proposed stopping rule is not measured duration, and
+  positive AI review is not evidence that a material cannot hurt. Preserve
+  supported precautions without turning them into universal assurances.
+- Next falsification trigger: valid specific observations/source evidence,
+  a contradictory source, or repair that requires out-of-scope mechanism changes.
+- Measurement boundary: new GSC throughSept22,262impressions/9clicks,
+  pack3/0 unchanged; missing queries unavailable. Not a traffic-driven repair
+  or format experiment. Preserve foil/guide windows and weeklySept27.
+
 ## 2026-09-24 - KAL-IMP-016 Empty-Hull Planning
 
 - Decision/persona: caregiver makes one empty hull, understands adult control,

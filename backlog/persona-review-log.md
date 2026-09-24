@@ -6,6 +6,22 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-24 Afternoon - Original Pack Trust And Choice
+
+RES020 source-grounded task: age-four child with younger mouthing sibling,
+ten-minute budget, dry preference; choose/decline, identify materials/label
+checks, adult role, first step, stop/cleanup. Secondary phone/watch preference.
+Actual1280x900/390x844 proxy9/26, all13 applicable, no N/A. Critical fail from
+cup injury assurance, blanket age-down and unsupported conflicting durations;
+scores never override trust failures. First mobile activity y1238/steps y2044,
+no local jump links; text fits, keyboard/touch routes work. Incoming tower
+title hides beneath sticky header, P3 recoverable by scrolling.200% desktop
+text fits. No physical or family test, no future score. Every-section/claim
+matrix and source dates: `reviews/original-pack-claim-audit-2026-09-24.md`.
+IMPROVE via one conditional IMP017, preserve foil module and dedicated guides.
+Independent research cycle1 PASS, no findings; frozen-range/release pending.
+No implementation in this action.
+
 ## 2026-09-24 - Empty Foil Boat Existing-Owner Upgrade
 
 IMP016 implements RES017's narrower empty-hull task at the same URL. Actual
