@@ -17,7 +17,15 @@ independent cycle1 PASS, no P0-P3, Leibniz
 worktree. Independently checked source bodies/provenance/ten screenshots,
 JSON/whitespace/68snapshots/21links/410protected/55prioritems/57IDs/score9
 and two live HTML byte-matches. Operator101/browser interactions supplied,
-not rerun. Committed-range verification and push-only release pending.
+not rerun. Finalcycle2 PASS, no P0-P3, full
+`043d20f01f4057f5b1be1f1054189ef03561c1e4..2771f6c137babcb58fe74156b9d1c258b7d258f8`.
+Direct parent/clean commit, nine exact paths,410 protected files,21links,
+55 prior items/dates,57IDs,JSON/whitespace verified. Reversing only factual
+metadata in memory reproduced all nine cycle1 hashes; material audit unchanged.
+Reviewed commit pushed after fetch/no divergence; final clean local/origin0/0
+verified. COMPLETED research, push-only; no Pages or site change. Same-nine-
+path factual closeout permitted, including IMP017 ready for separate
+registration only. Current public defects remain until that repair is released.
 Sensing68 snapshots validate; September24 through22 vsSept22 through20,
 262vs255impressions/nineclicks,10/10priority. Pack3/0 unchanged, missing queries
 unavailable, no causal claim. This research selects one trust repair, not

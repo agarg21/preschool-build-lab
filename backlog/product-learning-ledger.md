@@ -16,10 +16,11 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   general checks only; editorial scores/repair choice EDITORIAL_JUDGMENT,
   persona RESEARCH_HYPOTHESIS. No observations inferred from intake templates.
 - Result: current proxy9/26, all13, critical failure; UPGRADE existing pack and
-  four age-hub summaries through conditional IMP017. Exact future scope/QA in
+  four age-hub summaries through ready-for-registration IMP017. Exact future scope/QA in
   `reviews/original-pack-claim-audit-2026-09-24.md`. Independent research
-  cycle1 PASS, no findings; frozen-range/release pending. No public edits
-  or future after-score.
+  finalcycle2 full-range PASS, no findings; reviewed `2771f6c` pushed and
+  clean local/origin0/0 verified. COMPLETED research. No public edits or
+  future after-score; next register/execute bounded repair under all gates.
 - Confidence: high for visible contradiction and missing retained support;
   unknown actual duration, handling fit, injury/engagement/family outcomes.
 - Reusable lesson: a proposed stopping rule is not measured duration, and

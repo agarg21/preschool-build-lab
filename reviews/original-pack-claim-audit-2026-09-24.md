@@ -199,6 +199,14 @@ files,55 unchanged prior items/dates,57 IDs, score arithmetic and both live
 HTML byte-matches. Native101 and browser interactions supplied, not rerun.
 Original pre-review-metadata artifact SHA256
 `d78246b3bb4905eaae0a8f30a685767e6a2c00121fde9272a5b4f91e9d44dce0`.
-Committed-range verification and push-only release pending. No site change or
-deployment applies to RES020; no site generators needed for this research.
+Finalcycle2 PASS, no P0-P3: full frozen base through
+`2771f6c137babcb58fe74156b9d1c258b7d258f8`. Reviewer verified direct-parent
+clean commit,9 paths,410 protected files,55 prior items/top-level dates,
+57IDs,21 links,JSON/whitespace; reversing factual metadata in memory reproduced
+all nine cycle1 hashes. Material research unchanged. Native101/browser
+interactions remain supplied evidence. Strict read-only maintained.
+COMPLETED: reviewed commit pushed, clean local/origin0/0 verified. Same-nine-
+path factual closeout permitted. IMP017 now ready for separate registration,
+not implemented or exempt from its gates. No site change or deployment applies
+to RES020; no site generators needed for this research.
 Current live defects remain until separately registered IMP017 is implemented.

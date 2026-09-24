@@ -10,15 +10,17 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 ## Current sequence
 
-0. September24 afternoon `KAL-RES-020` audit ready at clean/aligned `043d20f`
+0. September24 afternoon `KAL-RES-020` COMPLETED at clean/aligned `043d20f`
    after snapshot-only fast-forward. Audit original-pack general age-down,
    timing/material certainty and parent decision clarity. Nine exact research/
    operator paths in JSON; no site implementation. Three primary bodies and
    retained provenance/current desktop/mobile9/26 identify critical trust gaps.
-   UPGRADE conditional IMP017, pack plus four direct age-hub copies; preserve
+   UPGRADE IMP017 ready for separate registration, pack plus four direct age-hub copies; preserve
    foil module and all dedicated guides. Native101/68snapshots/scope QA and
-   independent cycle1 PASS, no findings; committed-range/release pending.
-   Exact future15-path brief in dated audit, separate registration required.
+   independent finalcycle2 full-range PASS, no findings. Reviewed `2771f6c`
+   pushed, clean local/origin0/0 verified; no site deployment. Same-nine-path
+   factual closeout allowed. Next register exact15-path build scope/base from
+   dated audit and execute under all gates; no repeat qualification/GSC wait.
    Preserve guide windows and weeklySeptember27; no paid calls or accounts.
 
 0. September24 morning `KAL-IMP-016` COMPLETED from clean/aligned `de3a6eb`,

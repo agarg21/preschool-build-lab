@@ -14,14 +14,19 @@
   `backlog/implementation-backlog.md`, `backlog/seo-research-review-backlog.md`,
   `ops/seo-roadmap.json`, `ops/seo-roadmap.md`, `ops/current-cycle.md`,
   `ops/operator-review.md`. No site/generator/data/account/paid/API writes.
-- Phase: audit artifact ready, UPGRADE conditional IMP017. Three primary bodies,
+- Phase: COMPLETED research, UPGRADE IMP017 ready for separate registration. Three primary bodies,
   retained provenance and actual1280/390 parent task9/26 identify critical
   claim/choice failures. Native101/68snapshots/JSON/whitespace/9path/410protected/
-  21links/57uniqueIDs/score9 checks pass. Independent cycle1 PASS, no findings,
+  21links/57uniqueIDs/score9 checks pass. Independent finalcycle2 PASS, no findings,
   Leibniz `01a0d465-66ac-79a1-b820-b64dccdb9215`, strictly read-only.
-  Next focused commit, frozen-range review and exact-path research push;
-  no implementation bundled.
-- Completion: dated claim/evidence matrix, all13 applicable-dimension and
+  Full frozen range through `2771f6c137babcb58fe74156b9d1c258b7d258f8`
+  reviewed; all nine prior hashes reproduce after reversing factual metadata
+  in memory. Reviewed commit pushed, clean local/origin0/0 verified. Push-only;
+  no site deployment applies. Same-nine-path factual closeout permitted.
+- Next executable step: separately register IMP017's proposed15-path trust/
+  choice repair from the audit, then implement with required native/browser/
+  source/review/release gates. No repeat qualification or GSC wait.
+- Completion evidence: dated claim/evidence matrix, all13 applicable-dimension and
   every-section proxy review, precise repair scope/gates, learning entry,
   native101/JSON/whitespace/scope checks, independent read-only review,
   exact-path push and final local/origin alignment. Research is not a build.
