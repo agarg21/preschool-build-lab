@@ -13,18 +13,28 @@
   age4 STEM HTML, sitemap, new trust test, dated implementation review,
   priority-page status, implementation/persona/learning logs, current cycle,
   operator review and both roadmap mirrors.
-- Phase: REVIEW-CLEAN, independent cycle1 PASS, no P0-P3, Pascal
+- Phase: COMPLETED and released, independent finalcycle2 PASS, no P0-P3, Pascal
   `01a0d7d5-b885-7e11-a445-f6978a47c4c4` strictly read-only. Native107,
   JSON/whitespace,68snapshots,95-file idempotence,71HTML/741localrefs,
   406protectedfiles and unchanged66URLs pass. Same-task proxy9->22/26,
   no human/physical outcomes. Desktop/mobile/320/200%text/keyboard/touch and
-  all anchor/details/inbound checks pass. Next: freeze exact commit, verify
-  full reviewed range, push and verify exact-SHA production. Nine-document
-  factual metadata updates allowed; six material files remain frozen.
+  all anchor/details/inbound checks pass. Full base through
+  `6365fd944bc92dd0a9cc4bba96593549018e1b78` reviewed; six material hashes
+  unchanged and nine cycle1 doc hashes reproduce after in-memory metadata reversal.
+- Release: reviewed6365fd9 pushed; exact-SHA Pages36117799024 success
+  September25 09:19:58UTC. Three public files HTTP200/byte-match, two
+  canonical/H1s,31same-site refs/10HTTP200targets, production1280/390/320,
+  all five anchors/notes, shared checks, inbound/footer, keyboard/touch and
+  200%text pass; no JS errors. Marker absent; SHA+bytes checked. Clean local/
+  origin0/0 verified. Same-nine-document factual closeout permitted.
+- Next executable step: register one bounded remaining dry-module source-
+  lineage audit before another mechanism rewrite, not repeat completed claim
+  qualification. Weekly synthesis dueSeptember27 remains prioritized when due.
 - Invariants: exact foil module and all dedicated guides unchanged, no new
   measured duration/age-fit/safety/family outcomes; preserve guide windows.
-  Repaired pages observe14days after release except defects. Weekly dueSept27.
-- Blockers: none. A checkpoint is not completed learning or a release.
+  Repaired pages observe throughOctober9 except defects. Weekly dueSept27.
+- Blockers: none; no unfinished release. Successful Pages run reports
+  nonblocking forced-Node24/upcoming-Ubuntu26 platform notices, no workflow edit.
 
 ## Run Checkpoint - September 24 Afternoon Pack Claim Audit
 

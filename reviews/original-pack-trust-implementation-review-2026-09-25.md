@@ -61,9 +61,10 @@ remain UNKNOWN. Dry-mechanism instructions are retained, not newly validated.
 
 ## Review And Release State
 
-Implementation/local QA complete; independent cycle1 PASS, no P0-P3. No production
-release claimed. Observation after release14days except defects; foil through
-October8, chain throughOctober7 and weeklySeptember27 preserved.
+COMPLETED and released; independent finalcycle2 full-range PASS, no P0-P3.
+Reviewed6365fd9, exact-SHA Pages36117799024 success and production verified.
+Observe repair throughOctober9 except defects; foil throughOctober8,
+chain throughOctober7 and weeklySeptember27 preserved.
 
 ## Same-Task Proxy Result
 
@@ -139,11 +140,9 @@ performance, actual accessibility/age fit and duration remain unmeasured.
   no repository package edits. A protected-file audit exceeded default Node
   buffer on an existing bitmap; rerun via git object hashes passed406files.
 
-Review must evaluate full15-path frozen diff, preserved modules/data, claims,
-source limits and supplied browser evidence. Release still requires reviewer
-PASS/PASS_WITH_P3, fresh fetch/no divergence, exact-path commit, exact-SHA
-Pages and production bytes/task checks. No release marker is known; verify
-its actual absence and use deployed SHA plus bytes if absent.
+Review gate covered full15-path frozen diff, preserved modules/data, claims,
+source limits and supplied browser evidence. Release gates below were met;
+no release marker exists, so deployed SHA plus public bytes were verified.
 
 ## Independent Cycle 1
 
@@ -164,6 +163,37 @@ Markdown links and exact15 paths including two new files pass operator checks.
 
 Reviewer permits only truthful review/QA/subsequent release metadata in the
 same nine documentation/state paths; six material file hashes frozen.
-No content/code/test/scope change covered. Full committed-range verification
-and production release still pending. Original pre-metadata review-artifact
+No content/code/test/scope change covered. Original pre-metadata review-artifact
 SHA256457ac2be643c1db853ef2b7652ff25eb93f070e4c817bce1e5f1504f040246ec.
+
+## Independent Cycle 2 And Release
+
+PASS, no P0-P3, same strictly read-only Pascal. Entire frozen range
+`81d89ceb5076027203713d61a546e350e5373273..6365fd944bc92dd0a9cc4bba96593549018e1b78`
+verified: direct child/current HEAD, clean,15 exact paths, all six material
+hashes match cycle1. In-memory metadata reversal reproduced all nine cycle1
+doc hashes.406protectedfiles/56otheritems/top-level fields unchanged;
+JSON/range-whitespace pass. Tests/browser remain supplied. Same-nine-doc
+truthful post-release closeout permitted, no material change.
+
+Reviewed6365fd9 pushed after fresh fetch1/0 and complete unpushed-range check.
+Exact-SHA [Pages36117799024](https://github.com/agarg21/preschool-build-lab/actions/runs/36117799024)
+succeeded September25 09:19:58UTC. Both revised HTML pages and sitemap
+HTTP200/byte-match; two canonical/H1 checks pass. Production link/fragment
+check31references across10same-site HTTP200targets. No marker exists in site
+or workflow; exact-SHA deployment plus public bytes used instead.
+
+Live1280/390 parent task: five anchored choices clear sticky header, five
+optional notes open/close, shared checks, age-hub inbound and footer pass.
+Actual keyboard Enter/Space and mobile taps pass;320px both pages and200%
+desktop text fit. No observed JS errors. Production screenshots
+`/tmp/kal-imp017-prod-*` inspected. Same choose-or-decline outputs present;
+no new physical or family evidence. Clean local/origin0/0 verified after push.
+No transient failure or retry needed. Successful Pages run warned of forced
+Node24 for older action versions and upcoming Ubuntu26 migration; nonblocking
+platform notices, not permission for a workflow change in this transaction.
+
+Decision: PRESERVE repaired claims throughOctober9 except defects. Next
+register one remaining dry-module source-lineage audit before changing its
+mechanism; do not repeat completed RES020 claim qualification. Weekly
+September27 remains due. No current blocker or unfinished release.

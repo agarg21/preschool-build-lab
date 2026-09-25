@@ -6,10 +6,13 @@ repository writer for a validated transaction.
 
 ## Individual Page Queue - September 22
 
-September25 IMP017 registered/implemented, independent cycle1 PASS, no findings.
+September25 IMP017 COMPLETED, independent finalcycle2 full-range PASS, no findings.
 Exact15 paths repair pack trust/choice and four age-hub copies; foil preserved.
 Local107tests, responsive/keyboard/touch checks and same-task22/26 pass.
-No publication yet. Finish committed-range/exact-SHA release before another build.
+Reviewed6365fd9 released; exact-SHA Pages36117799024 success, three public
+byte-matches and live parent/stress checks pass, clean local/origin0/0 verified.
+Observe repair throughOctober9; next one remaining dry-module source audit,
+not repeat claim qualification or an unqualified new page.
 This supersedes the readiness state below, not the original evidence.
 
 September24 afternoon: RES020 [original-pack audit](../reviews/original-pack-claim-audit-2026-09-24.md)

@@ -10,7 +10,7 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 ## Current sequence
 
-0. September25 morning `KAL-IMP-017` REGISTERED/in progress at clean aligned
+0. September25 morning `KAL-IMP-017` COMPLETED from clean aligned
    `81d89ce`; exact15 paths in JSON. Implement reviewed RES020 pack trust/
    choice repair and four age-specific overrides, preserving foil bytes and
    all dedicated guides. Native/generator/link/browser/independent review and
@@ -19,9 +19,12 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
    Weekly synthesis remains dueSeptember27. Implementation/local QA now pass:
    107tests,68snapshots,95-file idempotence,71HTML/741refs,406protectedfiles,
    unchanged66URLs and responsive/keyboard/touch checks. Same-task22/26 is
-   proxy only. Independent cycle1 PASS, no findings, Pascal read-only; six
-   material hashes frozen, nine-doc factual metadata permitted. Next full
-   committed-range check then exact-SHA release; not completed yet.
+   proxy only. Independent finalcycle2 full-range PASS, no findings, Pascal
+   read-only. Reviewed6365fd9 pushed; exact-SHA Pages36117799024 success,
+   three public byte-matches,31refs/10HTTP200targets and live desktop/mobile/
+   stress task pass. Marker absent; clean local/origin0/0 verified. Nine-doc
+   factual closeout permitted. Observe repairs throughOctober9; next register
+   one remaining dry-module source-lineage audit, not repeat claim qualification.
 
 0. September24 afternoon `KAL-RES-020` COMPLETED at clean/aligned `043d20f`
    after snapshot-only fast-forward. Audit original-pack general age-down,

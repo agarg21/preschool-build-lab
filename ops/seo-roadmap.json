@@ -3263,10 +3263,12 @@
       "id": "KAL-IMP-017",
       "title": "Repair original-pack trust boundaries and matching age-hub summaries",
       "kind": "implementation",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-09-25",
-      "phase": "independent-cycle1-pass-awaiting-reviewed-release",
-      "review": {"verdict": "PASS", "cycle": 1, "reviewer": "01a0d7d5-b885-7e11-a445-f6978a47c4c4", "read_only": true, "findings": [], "scope": "Full15-path working diff against registered base; six material hashes frozen; nine-doc factual metadata permitted"},
+      "phase": "released-production-verified",
+      "review": {"verdict": "PASS", "cycle": 2, "reviewer": "01a0d7d5-b885-7e11-a445-f6978a47c4c4", "read_only": true, "findings": [], "scope": "Full15-path base..6365fd944bc92dd0a9cc4bba96593549018e1b78; six material hashes match cycle1, nine doc hashes reproduce after in-memory metadata reversal; nine-doc factual closeout allowed"},
+      "release": {"commit": "6365fd944bc92dd0a9cc4bba96593549018e1b78", "pages_run": 36117799024, "conclusion": "success", "completed_at": "2026-09-25T09:19:58Z", "production": "Three outputs HTTP200/byte-match, two canonical/H1,31same-site refs/10HTTP200targets, desktop/mobile/320/200%text/keyboard/touch/anchors/details/inbound/shared-check task PASS; marker absent, SHA+bytes verified", "alignment": "clean local/origin0/0 verified after reviewed push"},
+      "next_executable_step": "Register one bounded remaining dry-module source-lineage audit, not repeat completed claim repair or build an unqualified guide. Weekly synthesisSeptember27 retains priority when due.",
       "implementation_review": "reviews/original-pack-trust-implementation-review-2026-09-25.md",
       "qa_result": "107 tests; JSON/whitespace;68snapshots;95-file generator idempotence;71HTML/741localrefs;406protectedfiles;66 unchanged URLs/two lastmods; desktop/mobile/320/200%text/keyboard/touch pass. Same-task proxy22/26; no family testing.",
       "base_commit": "81d89ceb5076027203713d61a546e350e5373273",
@@ -3300,7 +3302,7 @@
       "eligibility_gate": "RES020 independent review and push-only release, then separate registration. No repeat generic research, paid dependency or unavailable family-testing gate. Prioritize due weekly synthesis September27 when applicable.",
       "publication_gate": "All same-task critical outputs and every-section review, source/date limits, full native/generator/idempotence/link/browser QA, different independent PASS/PASS_WITH_P3 and exact-SHA Pages/production verification. No universal safety, new tested status or invented duration.",
       "measurement_boundary": "Current pack parent proxy9/26, not comparable to other tasks or human outcomes. GSC pack3impressions/0clicks throughSeptember22 is context only; no query/format/rank inference.",
-      "observation_window": "Preserve reviewed foil module throughOctober8, chain throughOctober7 and other guides; repaired pack general claims are a documented trust-defect exception, not license to rewrite foil."
+      "observation_window": "Observe repaired pack/age-hub claims throughOctober9 except concrete defects; preserve foil throughOctober8, chain throughOctober7 and other guides. Claim repair was a documented trust-defect exception, not license to rewrite foil."
     },
     {
       "id": "KAL-RES-018",
