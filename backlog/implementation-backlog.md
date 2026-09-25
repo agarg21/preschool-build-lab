@@ -6,6 +6,17 @@ repository writer for a validated transaction.
 
 ## Individual Page Queue - September 22
 
+September25 afternoon RES021 [bridge lineage audit](../reviews/bridge-rescue-lineage-audit-2026-09-25.md)
+selects one conditional IMP018: align existing pack Bridge Rescue with guide's
+gentle one-object comparison, remove stronger/crash contradictions, add depth
+link and explicit guide ridge/support cue with source/adaptation limits.
+Proposed16 paths and critical acceptance/QA in audit; register fresh exact
+scope separately after research release. Independent cycle1 PASS, no findings;
+final commit-range check and push-only release pending.
+No new page or new demand pass; no card/other-guide rewrite. Documented critical
+instruction/trust defects narrowly qualify observation exceptions; preserve
+morning shared checks, foil bytes and all unrelated protected surfaces.
+
 September25 IMP017 COMPLETED, independent finalcycle2 full-range PASS, no findings.
 Exact15 paths repair pack trust/choice and four age-hub copies; foil preserved.
 Local107tests, responsive/keyboard/touch checks and same-task22/26 pass.

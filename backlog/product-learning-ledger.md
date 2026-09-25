@@ -4,6 +4,32 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-25 Afternoon - KAL-RES-021 Handoff Is More Than A Link
+
+- Decision/persona: caregiver starts a paper bridge without video, needs one
+  consistent change, adult folding help and younger-sibling boundaries.
+- Hypothesis: adding the existing guide link alone resolves the old pack's
+  bridge-running gap. REJECT_HYPOTHESIS; UPGRADE one existing workflow.
+- Evidence: [dated audit](../reviews/bridge-rescue-lineage-audit-2026-09-25.md),
+  September25 Science Buddies/Teach Beside Me/Head Start/TERC bodies and two
+  source photos; publication dates UNKNOWN. SOURCE_BACKED geometry/process,
+  EDITORIAL_JUDGMENT adaptation and scoring; retained persona RESEARCH_HYPOTHESIS.
+- Result: actual1280/390 pack10/26 and separate guide20/26, all13, critical
+  instruction/handoff failures. Not matched before/after or human testing.
+  Conditional IMP018 brief aligns default and clarifies fold direction; no
+  second page, no implementation here. Native107 pass; independent cycle1
+  PASS, no findings, Kuhn read-only; final range/release pending.
+- Confidence: high in visible inconsistency/absent route and orientation cue;
+  medium in usefulness of proposed repair. Physical/family outcomes UNKNOWN.
+- Lesson: maintained depth helps only when inbound instructions agree, and
+  an isolated shape inset is not a complete support-to-fold setup map.
+- Falsification trigger: same-task parent proxy still cannot identify ridge
+  direction, gentle placement, stop or depth route after repair; conflicting source.
+- Measurement: scope is interface/source agreement, not ranking or physical
+  performance. GSC throughSeptember23 is pre-morning-repair and query-thin.
+  No paid research. Next separately register IMP018 after review/release;
+  preserve other experiments and weeklySeptember27 synthesis.
+
 ## 2026-09-25 - KAL-IMP-017 Honest Choose Or Decline
 
 - Decision/persona: caregiver chooses or declines a dry activity with an

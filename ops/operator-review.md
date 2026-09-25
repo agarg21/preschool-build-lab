@@ -1,5 +1,24 @@
 # Operator Review
 
+## KAL-RES-021 - September 25 Afternoon
+
+Frozen3335e88, initially clean2c0a8b0 then inspected snapshot-only ff.
+Nine exact research/operator paths, no public/generator/data/account/paid writes.
+Artifact `reviews/bridge-rescue-lineage-audit-2026-09-25.md`: four current source
+bodies/two photos, retained lineage, live1280/390 pack10/26 and separate guide
+20/26 all13 diagnostics, every-section matrix, conditional IMP018 existing-
+workflow repair. No before/after or family outcome inference. Native107,
+roadmap JSON/whitespace/69snapshots/exact9paths/415protected/57prioritems/
+59uniqueIDs/12links/score arithmetic/source-date-privacy checks pass;
+Independent cycle1 PASS, no P0-P3, Kuhn
+`01a0d98e-fd00-7170-8884-8d348b609d74`, strictly read-only. Independently
+checked four source bodies/two photos/four screenshots, site source and all
+listed structural QA except107native/browser interactions/live bytes/deep
+snapshot equality supplied by operator. Nine hashes frozen; only factual
+metadata updates allowed, final committed full-range check pending.
+ThroughSept23 data predates morning repair,
+priority10/10 identical including crawls. Weekly dueSeptember27 unchanged.
+
 ## KAL-IMP-017 - September 25 Morning
 
 Base `81d89ceb5076027203713d61a546e350e5373273`, clean/aligned after fetch.

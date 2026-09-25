@@ -16,6 +16,16 @@ Historical supporting files:
 
 ## Candidate Qualification Queue - September 18
 
+September25 afternoon RES021 [bridge lineage audit](../reviews/bridge-rescue-lineage-audit-2026-09-25.md)
+closes the named mechanism/handoff audit gap, not repeat generic qualification.
+Four source bodies/two photos and live pack/card/guide task identify incompatible
+pack defaults and missing explicit fold/support cue. UPGRADE conditional IMP018
+existing workflow; no second bridge URL, paid calls or new demand claims.
+Native107 pass; independent cycle1 PASS, no findings; final range/release pending.
+Next register/execute
+reviewed repair, not another generic bridge research pass. Deferred018/019 and
+weeklySeptember27 unchanged. Physical performance and family outcomes UNKNOWN.
+
 September24 afternoon RES020: [legacy pack claim audit](../reviews/original-pack-claim-audit-2026-09-24.md)
 passed independent finalcycle2 full-range review, no findings. Three current primary bodies, retained brief/
 review/history provenance and actual desktop/mobile parent task9/26 expose

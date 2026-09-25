@@ -1,5 +1,37 @@
 # Current Cycle
 
+## Run Checkpoint - September 25 Afternoon Bridge Lineage Audit
+
+- Invocation `2026-09-25T17:02:01.853Z`, checked17:02:12UTC, inside pilot;
+  no newer redirect. Morning IMP017 is released, not unfinished work.
+- Action `KAL-RES-021`: audit Bridge Rescue's retained mechanism/source lineage
+  and route to the existing dedicated bridge guide. Do not repeat the general
+  claim audit or qualify a second bridge URL.
+- Base `3335e88becf2019b65323956839999437a8d4f9e`; initially clean2c0a8b0,
+  inspected two snapshot-only incoming files then ff-only; no dirty work lost.
+- Exact nine paths: `reviews/bridge-rescue-lineage-audit-2026-09-25.md`,
+  `backlog/persona-review-log.md`, `backlog/product-learning-ledger.md`,
+  `backlog/implementation-backlog.md`, `backlog/seo-research-review-backlog.md`,
+  `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
+  `ops/seo-roadmap.md`. No site/code/data/paid/external-account changes.
+- Phase RESEARCH DONE, independent cycle1 PASS, release pending: four source bodies/two source
+  photos, actual1280/390 pack10/26 and separately inspected guide20/26 identify
+  critical default/handoff/fold-direction failures. Artifact/learning recorded;
+  UPGRADE conditional IMP018 existing-workflow repair, not another bridge URL.
+- Next executable step: commit exact reviewed paths, final range verification,
+  push and clean alignment. Kuhn `01a0d98e-fd00-7170-8884-8d348b609d74`
+  read-only PASS, no findings. Native107/69snapshots/JSON/whitespace/9paths/
+  415protected/57prioritems/59IDs/12links/score/privacy checks pass.
+  No completed-release claim yet; no implementation here.
+- Invariants: protected pack claims throughOctober9, foilOctober8, chainOctober7
+  and other guides unchanged. Any new implementation separately registered;
+  no invented physical, human, safety, demand or achievable-rank evidence.
+  Weekly synthesis remains dueSeptember27. No current blocker.
+- Sensing:69 snapshots validate; newSeptember25 through23 finalized-conservative
+  vsSeptember24 through22:262->271impressions,9clicks both,12.83->12.87position,
+  priority10/10. Pack3/0 and bridge card1/0 unchanged; full queries unavailable.
+  Overlapping28-day data predates morning repair; no attribution.
+
 ## Run Checkpoint - September 25 Morning Pack Trust Repair
 
 - Invocation: `2026-09-25T09:01:00.376Z`; current time checked09:01:05UTC,

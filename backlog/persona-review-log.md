@@ -6,6 +6,20 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-25 Afternoon - Bridge Handoff And Fold Direction
+
+RES021 [lineage audit](../reviews/bridge-rescue-lineage-audit-2026-09-25.md)
+tests retained bridge-interest persona: start from pack, no video, paper/two
+low books/large lightweight object, one shape change; folding-help/younger
+sibling stress. Live1280/390 pack-entry10/26 and separately inspected guide
+20/26, all13 applicable, both critical failures. NOT before/after or human
+testing. Pack has no guide link, incompatible crossing/crash/stronger defaults;
+guide's isolated inset/text omit explicit ridge/support relation. Four current
+source bodies/two source photos support a bounded repair, not measured success.
+Anchors/notes/card keyboard/touch route/text fit pass; three HTML byte-matches.
+IMPROVE through conditional IMP018, no new URL. Independent cycle1 PASS,
+no findings, Kuhn read-only; final commit-range check and release pending.
+
 ## 2026-09-25 - Pack Choose Or Decline Repair
 
 IMP017 repeats RES020's same age-four/younger-mouthing-sibling/ten-minute/dry

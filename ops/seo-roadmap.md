@@ -10,6 +10,19 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 ## Current sequence
 
+0. September25 afternoon `KAL-RES-021` research artifact ready, review/release
+   pending, independent cycle1 PASS/no findings, base3335e88 after snapshot-only ff. Nine exact paths. Four source
+   bodies/two photos and actual1280/390 pack10/26/separate guide20/26, all13,
+   identify critical default/handoff/fold-direction failures. UPGRADE conditional
+   `KAL-IMP-018`: existing pack/guide consistency and explicit ridge/support
+   cue, not new URL or repeat demand research. Proposed16-path brief in
+   [audit](../reviews/bridge-rescue-lineage-audit-2026-09-25.md); register build
+   separately after research review/release. Native107/JSON/whitespace pass;
+   scope415protected/57prioritems/59IDs/12links pass; final range/release pending.
+   69snapshots validate;271/9 through23,
+   priority10/10, no causal inference. Preserve all unrelated windows/shared
+   checks/foil. WeeklySeptember27 unchanged. Next exact commit/final review/push.
+
 0. September25 morning `KAL-IMP-017` COMPLETED from clean aligned
    `81d89ce`; exact15 paths in JSON. Implement reviewed RES020 pack trust/
    choice repair and four age-specific overrides, preserving foil bytes and
