@@ -6,6 +6,20 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-25 - Pack Choose Or Decline Repair
+
+IMP017 repeats RES020's same age-four/younger-mouthing-sibling/ten-minute/dry
+task, phone/watch stress. Actual local1280/390 proxy22/26 versus prior9/26;
+all13 applicable, no N/A. Critical outputs now present, including explicit
+decline when fixed time or material/attention fit is unavailable. Label fit,
+duration, individualized access and remaining prose length each score1;
+other nine score2. Not actual comprehension, human testing or physical proof.
+Five direct anchors, shared checks, five reversible notes, age-hub inbound/
+footer,320px,200%text and keyboard/touch pass. Full reasons/every-section:
+`reviews/original-pack-trust-implementation-review-2026-09-25.md`.
+IMPROVE; independent cycle1 PASS, no findings, Pascal read-only reviewed25
+screenshots and accepted task/every-section evidence. Production still pending.
+
 ## 2026-09-24 Afternoon - Original Pack Trust And Choice
 
 RES020 source-grounded task: age-four child with younger mouthing sibling,

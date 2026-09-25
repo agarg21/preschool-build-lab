@@ -4,6 +4,31 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-25 - KAL-IMP-017 Honest Choose Or Decline
+
+- Decision/persona: caregiver chooses or declines a dry activity with an
+  age-four child, younger mouthing sibling, short time window and phone/watch
+  constraints. Same frozen task as RES020.
+- Hypothesis: source-limited boundaries plus direct starts can support an
+  honest planning decision without invented durations or more activity pages.
+- Evidence/classes: September25 rechecked AAP toy selection (updated2024-12-19),
+  AAP choking prevention (updated2026-02-27), CPSC child safety (dateUNKNOWN);
+  URLs and lineage in implementation review. SOURCE_BACKED general checks,
+  EDITORIAL_JUDGMENT chooser/options, RESEARCH_HYPOTHESIS task. No human test.
+- Result: local same-task9->22/26, all13, critical outputs pass; IMPROVE existing
+  pack/four age-hub copies, preserve foil.107native tests and responsive QA
+  pass. Independent cycle1 PASS, no findings, Pascal read-only. Full-range/
+  release pending; do not call transaction complete yet.
+- Confidence: high in removed contradictions and interface outputs; medium
+  in planning usefulness. Actual duration, fit and family outcomes UNKNOWN.
+- Lesson: declining an activity is a valid planning output. Unmeasured time
+  must agree across the owner and inbound comparison table, not only one card.
+- Falsification trigger: new contradictory source, broken direct route,
+  valid timing evidence or a missing critical planning instruction.
+- Measurement boundary: no SEO attribution from overlapping pre-release GSC;
+  no proof that retained dry mechanisms work. Next finish independent review/
+  exact-SHA release; later audit one remaining dry-module source lineage.
+
 ## 2026-09-24 Afternoon - KAL-RES-020 Claim Provenance
 
 - Family decision/persona: choose or decline a dry pack activity for age-four

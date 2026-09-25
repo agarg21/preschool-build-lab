@@ -6,6 +6,12 @@ repository writer for a validated transaction.
 
 ## Individual Page Queue - September 22
 
+September25 IMP017 registered/implemented, independent cycle1 PASS, no findings.
+Exact15 paths repair pack trust/choice and four age-hub copies; foil preserved.
+Local107tests, responsive/keyboard/touch checks and same-task22/26 pass.
+No publication yet. Finish committed-range/exact-SHA release before another build.
+This supersedes the readiness state below, not the original evidence.
+
 September24 afternoon: RES020 [original-pack audit](../reviews/original-pack-claim-audit-2026-09-24.md)
 identifies unsupported cup-injury assurance, automatic younger-age adaptation,
 unmeasured conflicting durations, incomplete untested disclosure and a buried

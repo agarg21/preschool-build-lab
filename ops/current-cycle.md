@@ -1,5 +1,31 @@
 # Current Cycle
 
+## Run Checkpoint - September 25 Morning Pack Trust Repair
+
+- Invocation: `2026-09-25T09:01:00.376Z`; current time checked09:01:05UTC,
+  within pilot; no newer redirect. Action `KAL-IMP-017` implementing RES020.
+- Base: `81d89ceb5076027203713d61a546e350e5373273`, clean main/origin0/0
+  after fetch; no incoming changes or dirty work. No new snapshot since
+  validated September24 through22; query rows remain unavailable.
+- Objective: honest pack-wide age/material/time/evidence boundaries, direct
+  activity choices and consistent four age-hub summaries; no new page.
+- Exact15 paths registered in roadmap: pack HTML, SEO and sitemap generators,
+  age4 STEM HTML, sitemap, new trust test, dated implementation review,
+  priority-page status, implementation/persona/learning logs, current cycle,
+  operator review and both roadmap mirrors.
+- Phase: REVIEW-CLEAN, independent cycle1 PASS, no P0-P3, Pascal
+  `01a0d7d5-b885-7e11-a445-f6978a47c4c4` strictly read-only. Native107,
+  JSON/whitespace,68snapshots,95-file idempotence,71HTML/741localrefs,
+  406protectedfiles and unchanged66URLs pass. Same-task proxy9->22/26,
+  no human/physical outcomes. Desktop/mobile/320/200%text/keyboard/touch and
+  all anchor/details/inbound checks pass. Next: freeze exact commit, verify
+  full reviewed range, push and verify exact-SHA production. Nine-document
+  factual metadata updates allowed; six material files remain frozen.
+- Invariants: exact foil module and all dedicated guides unchanged, no new
+  measured duration/age-fit/safety/family outcomes; preserve guide windows.
+  Repaired pages observe14days after release except defects. Weekly dueSept27.
+- Blockers: none. A checkpoint is not completed learning or a release.
+
 ## Run Checkpoint - September 24 Afternoon Pack Claim Audit
 
 - Invocation: `2026-09-24T17:00:57.384Z`; time checked17:01:19UTC, within pilot.
