@@ -17,8 +17,9 @@ testing. Pack has no guide link, incompatible crossing/crash/stronger defaults;
 guide's isolated inset/text omit explicit ridge/support relation. Four current
 source bodies/two source photos support a bounded repair, not measured success.
 Anchors/notes/card keyboard/touch route/text fit pass; three HTML byte-matches.
-IMPROVE through conditional IMP018, no new URL. Independent cycle1 PASS,
-no findings, Kuhn read-only; final commit-range check and release pending.
+IMPROVE through ready-for-registration IMP018, no new URL. Independent
+finalcycle2 full-range PASS, no findings, Kuhn read-only. Reviewed740210e
+pushed, clean local/origin0/0 verified. COMPLETED research; no public change.
 
 ## 2026-09-25 - Pack Choose Or Decline Repair
 

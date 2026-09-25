@@ -14,15 +14,20 @@
   `backlog/implementation-backlog.md`, `backlog/seo-research-review-backlog.md`,
   `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
   `ops/seo-roadmap.md`. No site/code/data/paid/external-account changes.
-- Phase RESEARCH DONE, independent cycle1 PASS, release pending: four source bodies/two source
+- Phase COMPLETED research, independent finalcycle2 PASS: four source bodies/two source
   photos, actual1280/390 pack10/26 and separately inspected guide20/26 identify
   critical default/handoff/fold-direction failures. Artifact/learning recorded;
   UPGRADE conditional IMP018 existing-workflow repair, not another bridge URL.
-- Next executable step: commit exact reviewed paths, final range verification,
-  push and clean alignment. Kuhn `01a0d98e-fd00-7170-8884-8d348b609d74`
-  read-only PASS, no findings. Native107/69snapshots/JSON/whitespace/9paths/
-  415protected/57prioritems/59IDs/12links/score/privacy checks pass.
-  No completed-release claim yet; no implementation here.
+- Release: reviewed `740210ec4e0e7930b5353e5d459e4e183e4cb675` pushed after
+  fresh fetch1/0, clean local/origin0/0 verified. Kuhn
+  `01a0d98e-fd00-7170-8884-8d348b609d74` strictly read-only finalcycle2
+  full-range PASS, no findings. Nine cycle1 hashes reproduce after in-memory
+  metadata reversal. Native107/69snapshots/JSON/whitespace/9paths/415protected/
+  57prioritems/59IDs/12links/score/privacy checks pass. Push-only, no Pages.
+  Same-nine-path factual closeout permitted; no implementation here.
+- Next executable step: register IMP018 fresh base/exact16 proposed paths
+  (review date adjusted to actual run), execute bounded pack/guide defect repair
+  with all native/independent/production gates; do not repeat qualification.
 - Invariants: protected pack claims throughOctober9, foilOctober8, chainOctober7
   and other guides unchanged. Any new implementation separately registered;
   no invented physical, human, safety, demand or achievable-rank evidence.

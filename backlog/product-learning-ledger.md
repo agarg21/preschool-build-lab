@@ -17,8 +17,9 @@ experience separate. A persona task is a proxy evaluation, not user testing.
 - Result: actual1280/390 pack10/26 and separate guide20/26, all13, critical
   instruction/handoff failures. Not matched before/after or human testing.
   Conditional IMP018 brief aligns default and clarifies fold direction; no
-  second page, no implementation here. Native107 pass; independent cycle1
-  PASS, no findings, Kuhn read-only; final range/release pending.
+  second page, no implementation here. Native107 pass; independent finalcycle2
+  full-range PASS, no findings, Kuhn read-only. Reviewed740210e pushed, clean
+  local/origin0/0 verified. COMPLETED research, push-only.
 - Confidence: high in visible inconsistency/absent route and orientation cue;
   medium in usefulness of proposed repair. Physical/family outcomes UNKNOWN.
 - Lesson: maintained depth helps only when inbound instructions agree, and
@@ -27,7 +28,7 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   direction, gentle placement, stop or depth route after repair; conflicting source.
 - Measurement: scope is interface/source agreement, not ranking or physical
   performance. GSC throughSeptember23 is pre-morning-repair and query-thin.
-  No paid research. Next separately register IMP018 after review/release;
+  No paid research. Next separately register ready IMP018;
   preserve other experiments and weeklySeptember27 synthesis.
 
 ## 2026-09-25 - KAL-IMP-017 Honest Choose Or Decline

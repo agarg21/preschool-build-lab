@@ -15,7 +15,14 @@ Independent cycle1 PASS, no P0-P3, Kuhn
 checked four source bodies/two photos/four screenshots, site source and all
 listed structural QA except107native/browser interactions/live bytes/deep
 snapshot equality supplied by operator. Nine hashes frozen; only factual
-metadata updates allowed, final committed full-range check pending.
+metadata updates allowed. Finalcycle2 PASS, no P0-P3, full
+`3335e88becf2019b65323956839999437a8d4f9e..740210ec4e0e7930b5353e5d459e4e183e4cb675`.
+Direct-parent/exact9paths/clean commit verified; in-memory reversal of factual
+metadata reproduces nine cycle1 hashes,57 prior items/top-level fields unchanged.
+Reviewed740210e pushed after fresh fetch1/0; clean local/origin0/0 verified.
+COMPLETED research, push-only, no Pages/site change. Same-nine-path factual
+closeout permitted. Next separately register/execute ready IMP018; no public
+repair yet and no need to repeat qualification.
 ThroughSept23 data predates morning repair,
 priority10/10 identical including crawls. Weekly dueSeptember27 unchanged.
 

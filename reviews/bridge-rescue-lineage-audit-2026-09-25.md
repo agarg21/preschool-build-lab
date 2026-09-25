@@ -38,8 +38,8 @@ navigation. This is interface evidence, not physical activity testing.
 handoff and minimum guide geometry clarification. Reject the narrower
 hypothesis that adding a link alone closes the running gap. No new URL,
 new demand qualification, or wholesale mechanism rewrite is justified.
-Independent cycle1 PASS; final commit-range verification and release pending.
-Implementation is not performed.
+COMPLETED research: independent finalcycle2 PASS, reviewed740210e pushed and
+clean local/origin0/0 verified. Implementation is not performed.
 
 The current pack gives a small toy/car crossing, a guaranteed stronger second
 bridge and permission for a crash test. The guide instead gently places one
@@ -217,5 +217,11 @@ factual QA/review/commit/release metadata updates; final committed full-range
 verification still required. Cycle1 audit hash:
 `93157faa62328af506e50516ec427c359786d3ad2400b8413158f5aa74a7dfcb`.
 No site, generator, asset, data, account, paid tool or Control Room edits.
-Weekly synthesis dueSept27 unchanged. After reviewed release, separately
-register/execute IMP018, not repeat research. Push/final alignment pending.
+Finalcycle2 PASS, no P0-P3: complete
+`3335e88becf2019b65323956839999437a8d4f9e..740210ec4e0e7930b5353e5d459e4e183e4cb675`.
+Direct-parent/clean commit/exact9paths verified; in-memory reversal of only
+metadata reproduces all nine cycle1 hashes,57 prior items/top-level fields
+unchanged. Reviewed740210e pushed after fresh fetch1/0; clean local/origin0/0
+verified. COMPLETED, push-only, no Pages/site change. Reviewer permits same-
+nine-path facts-only closeout. Weekly dueSept27 unchanged. Next register/
+execute IMP018 separately with current base/exact paths, not repeat research.

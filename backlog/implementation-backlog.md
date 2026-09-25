@@ -11,8 +11,9 @@ selects one conditional IMP018: align existing pack Bridge Rescue with guide's
 gentle one-object comparison, remove stronger/crash contradictions, add depth
 link and explicit guide ridge/support cue with source/adaptation limits.
 Proposed16 paths and critical acceptance/QA in audit; register fresh exact
-scope separately after research release. Independent cycle1 PASS, no findings;
-final commit-range check and push-only release pending.
+scope separately; research release complete. Independent finalcycle2 full-range
+PASS, no findings; reviewed740210e pushed, clean local/origin0/0 verified.
+IMP018 is now ready for registration, not implemented or publication-approved.
 No new page or new demand pass; no card/other-guide rewrite. Documented critical
 instruction/trust defects narrowly qualify observation exceptions; preserve
 morning shared checks, foil bytes and all unrelated protected surfaces.
