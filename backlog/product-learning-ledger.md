@@ -15,9 +15,11 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   SOURCE_BACKED; adaptations/scores EDITORIAL_JUDGMENT; persona retained
   RESEARCH_HYPOTHESIS; physical/family/rank outcomes UNKNOWN. No paid spend.
 - Result: same-task pack10->22/26 and separately guide20->22/26, all13,
-  critical outputs present. Native109/rendered QA pass; independent cycle1
-  PASS_WITH_P3/no P0-P2. Enlarged-header anchor clearance P3 retained;
-  final-range review/release pending, not a completed transaction yet.
+  critical outputs present. Native109/rendered QA pass; independent finalcycle2
+  full-range PASS_WITH_P3/no P0-P2. Enlarged-header anchor clearance P3 retained.
+  Reviewed981929b released, exact-SHA Pages36232559027 success, three public
+  byte-matches and live desktop/mobile/stress task pass; clean local/origin0/0.
+  COMPLETED, same-nine-doc factual closeout permitted.
 - Confidence: high in instruction/route agreement, medium in practical
   usefulness. Not a measurement of comprehension, performance or satisfaction.
 - Lesson: a deeper guide only resolves a compact entry's task when materials,
@@ -26,7 +28,7 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   gentle placement, recovery or route. Reconsider bounded repair, not add prose.
 - Measurement: observe after release throughOctober10, preserving other windows;
   query-thin GSC throughSeptember23 is pre-repair, not impact evidence.
-  Next reviewer/release gates; weekly synthesis dueSeptember27 unchanged.
+  Next due weekly synthesisSeptember27; separately register P3 follow-up.
 
 ## 2026-09-25 Afternoon - KAL-RES-021 Handoff Is More Than A Link
 

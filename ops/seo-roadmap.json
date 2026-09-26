@@ -3332,7 +3332,8 @@
       "id": "KAL-IMP-018",
       "title": "Reconcile Bridge Rescue with maintained paper-bridge depth",
       "kind": "implementation",
-      "status": "in_progress",
+      "status": "completed",
+      "completed_on": "2026-09-26",
       "registered_on": "2026-09-26",
       "base_commit": "cbe7ec3c9f3e7202e7e19e3701bbc9bbf4eaceea",
       "exact_paths": ["site/collections/original-stem-activities-for-4-year-olds.html", "site/articles/paper-bridge-challenge-kids.html", "scripts/generate_sitemap.py", "site/sitemap.xml", "tools/paper-bridge-guide.test.mjs", "tools/original-pack-trust.test.mjs", "reviews/bridge-handoff-implementation-review-2026-09-26.md", "status/priority-pages.md", "backlog/implementation-backlog.md", "backlog/persona-review-log.md", "backlog/product-learning-ledger.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3348,7 +3349,7 @@
       "eligibility_gate": "RES021 independent PASS/PASS_WITH_P3 and push-only release, then separate registration. Named critical instruction/trust defects qualify only minimum observation-window exceptions. Weekly synthesis remains dueSeptember27 and takes priority when due.",
       "publication_gate": "All frozen critical outputs/every-section review, native/generator idempotence/exact scope/complete links/desktop-mobile keyboard-touch-text-image-fallback checks, different independent PASS/PASS_WITH_P3 and exact-SHA Pages/production bytes/tasks. No silent scope expansion.",
       "measurement_boundary": "Same RES021 frozen task repeated: pack10->22/26 and separate guide20->22/26 are proxy diagnostics, never human evidence or comparable across entry routes. Physical/family outcomes and rank impact UNKNOWN. GSC throughSeptember23 predates repair; guide row unavailable, not0. Observe repair throughOctober10; no paid batch or new query inference.",
-      "implementation_result": "Implemented exact15 paths; gentle default/depth route/explicit ridge direction and page-local enlarged-title wrapping. Native109/rendered/JSON/scope QA pass. Independent cycle1 PASS_WITH_P3 Boyle 01a0dcfe-8124-7f43-a099-cc769a9f22cd read-only, no P0-P2; enlarged-header anchor clearance retained. Artifact reviews/bridge-handoff-implementation-review-2026-09-26.md. Next exact-path commit, final-range review and exact-SHA Pages/production verification; not released yet.",
+      "implementation_result": "COMPLETED exact15 paths; gentle default/depth route/explicit ridge direction and page-local enlarged-title wrapping. Native109/rendered/JSON/scope QA pass. Independent finalcycle2 full cbe7ec3..981929bd5b9cb5145be52a87940dac6d541202f0 PASS_WITH_P3, Boyle 01a0dcfe-8124-7f43-a099-cc769a9f22cd read-only, no P0-P2; enlarged-header anchor clearance retained. Reviewed981929b pushed; exact-SHA Pages36232559027 success09:22:23UTC, three public byte-matches, canonical/H1/link and live desktop/mobile/stress task pass. Marker absent; clean local/origin0/0 verified. Artifact reviews/bridge-handoff-implementation-review-2026-09-26.md. Same-nine-doc factual closeout permitted. Next weekly synthesis dueSeptember27; register P3 follow-up separately.",
       "observation_window": "Preserve shared pack claims throughOctober9, exact foil throughOctober8, chainOctober7 and other guides; only named bridge defect correction. No new URL or card rewrite."
     },
     {

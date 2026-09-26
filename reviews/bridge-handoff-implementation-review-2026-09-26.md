@@ -127,4 +127,29 @@ protected files/items/modules, links/IDs and sitemap inventory/dates.
 Operator-supplied, not reviewer-rerun:109th test, generators/idempotence and
 complete touch/enlarged-text/image-blocked matrix. Six material hashes frozen.
 Only truthful QA/review/release metadata in same nine docs may proceed without
-substantive re-review. Exact base..commit review and production remain pending.
+substantive re-review.
+
+## Released Result
+
+Finalcycle2 PASS_WITH_P3, no P0-P2, same read-only reviewer; exact full range
+`cbe7ec3c9f3e7202e7e19e3701bbc9bbf4eaceea..981929bd5b9cb5145be52a87940dac6d541202f0`.
+Direct-parent clean commit, exact15 paths, six material hashes verified;
+in-memory metadata reversal reproduces all nine cycle1 document hashes.
+410 protected files/58 other items/top-level fields unchanged;108 non-writing
+tests/69snapshots/JSON/range whitespace independently pass. Full109 and final
+generator/link reruns are operator-supplied. P3 anchor clearance unchanged.
+
+Fresh fetch ahead1/behind0; reviewed981929b pushed. Exact-SHA
+[Pages36232559027](https://github.com/agarg21/preschool-build-lab/actions/runs/36232559027)
+success2026-09-26 09:22:23UTC. Node24/futureUbuntu26 notices nonblocking.
+Pack, guide and sitemap HTTP200 and exact reviewed-byte matches. Two expected
+canonical/single-H1 checks,30same-site refs and11uniqueHTTP200targets pass.
+Production Playwright1280/390: chooser Enter/touch, notes open/close, guide
+handoff at visible heading, back, first-start, fold orientation, recovery,
+adaptation/evidence and image loading pass; no page errors or normal overflow.
+320px/200%text/image-blocked both pages320/320; P3 heading-clearance limit
+retained. Screenshots `/tmp/kal-imp018-prod-*`, not repository artifacts.
+No release marker exists; exact-SHA Pages plus affected file bytes substitute.
+Clean local/origin0/0 verified. COMPLETED; reviewer permits only same-nine-doc
+truthful closeout. Observation throughOctober10, no physical/rank attribution;
+next due weekly synthesisSeptember27 and separately registered P3 follow-up.

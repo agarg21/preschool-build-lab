@@ -15,8 +15,10 @@ Critical stronger/crash/default/route/orientation failures closed in proxy.
 Actual1280/390 keyboard/touch/back/notes/anchor checks plus320/200%text/image
 failure: instructions actionable, title overflow found and corrected locally.
 Residual timing/individual-fit/access uncertainty and pack scrolling remain.
-IMPROVE implemented, independent cycle1 PASS_WITH_P3/no P0-P2; final-range
-review/release pending. Enlarged-header anchor clearance P3 retained; not real-family
+IMPROVE released, independent finalcycle2 full-range PASS_WITH_P3/no P0-P2.
+Reviewed981929b; exact-SHA Pages36232559027 success, three public byte-matches
+and repeated live desktop/mobile/stress task pass, clean local/origin0/0.
+COMPLETED. Enlarged-header anchor clearance P3 retained; not real-family
 testing, physical bridge validation or evidence of enjoyment/learning.
 
 ## 2026-09-25 Afternoon - Bridge Handoff And Fold Direction

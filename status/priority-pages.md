@@ -2,18 +2,22 @@
 
 Last updated: 2026-09-26
 
-## September 26 Bridge Handoff Repair - Reviewed, Release Pending
+## September 26 Bridge Handoff Repair - Released
 
 IMP018 aligns pack Bridge Rescue with the existing dedicated guide and makes
 fold direction explicit. No new URL. Two current source bodies/photo checked;
 same-task pack10->22/26, separate guide20->22/26 proxy, not family testing.
-Native109/local task QA passes; independent cycle1 PASS_WITH_P3/no P0-P2.
-Enlarged-header anchor clearance remains P3. Final-range/Pages/production pending.
+Native109/local task QA passes; independent finalcycle2 full-range
+PASS_WITH_P3/no P0-P2. Enlarged-header anchor clearance remains P3.
+Reviewed981929b released through exact-SHA Pages36232559027 success. Three
+public byte-matches, canonical/H1s,30refs/11HTTP200targets and live desktop/
+mobile/stress task pass. Marker absent; clean local/origin0/0 verified.
+COMPLETED; same-nine-doc factual closeout permitted.
 Evidence: `reviews/bridge-handoff-implementation-review-2026-09-26.md`.
 Latest retained GSC throughSept23:271impressions/9clicks, priority10/10;
 pack3/0 and bridge card1/0 unchanged; guide row unavailable, not zero.
-No ranking attribution. Planned observation throughOctober10, prior windows
-preserved. Next reviewer/release gates, then due weekly synthesisSeptember27.
+No ranking attribution. Observe throughOctober10, prior windows preserved.
+Next due weekly synthesisSeptember27; separately register P3 follow-up.
 
 ## September 25 Original Pack Trust Repair - Released
 

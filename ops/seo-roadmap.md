@@ -10,14 +10,17 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 ## Current sequence
 
-0. September26 `KAL-IMP-018` REVIEWED, final-range/release pending, from alignedcbe7ec3 after
+0. September26 `KAL-IMP-018` COMPLETED, from alignedcbe7ec3 after
    fetch, no incoming change. Exact15 paths in JSON implement reviewed RES021
    bridge pack/guide handoff and geometry repair, not a new URL. Preserve
    shared checks/foil/all unrelated guides; only named defect exceptions.
    Two rechecked source bodies/photo, same-task pack10->22/26 and separately
-   guide20->22/26 proxy. Native109/rendered QA and independent cycle1
-   PASS_WITH_P3/no P0-P2; enlarged-header anchor clearance follow-up retained.
-   Exact-range/production release still gated. WeeklySept27 unchanged.
+   guide20->22/26 proxy. Native109/rendered QA and independent finalcycle2
+   full-range PASS_WITH_P3/no P0-P2; enlarged-header anchor clearance retained.
+   Reviewed981929b pushed; exact-SHA Pages36232559027 success, three public
+   byte-matches,30refs/11HTTP200targets and live desktop/mobile/stress task pass.
+   Marker absent; clean local/origin0/0 verified. Nine-doc factual closeout
+   allowed. Next due weekly synthesisSeptember27; no additional bridge URL.
    Scope narrowed before edits: both owners are hand-maintained; SEO generator
    stays unchanged, but all generators still run for idempotence/scope QA.
 
