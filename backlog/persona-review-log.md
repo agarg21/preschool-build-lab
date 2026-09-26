@@ -6,6 +6,19 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-26 - Consistent Bridge Start And Depth
+
+IMP018 repeats RES021's same no-video, folding-help/younger-sibling task.
+[Full dimension/every-section record](../reviews/bridge-handoff-implementation-review-2026-09-26.md):
+pack-entry10->22/26 and separately guide-only20->22/26, all13, no N/A.
+Critical stronger/crash/default/route/orientation failures closed in proxy.
+Actual1280/390 keyboard/touch/back/notes/anchor checks plus320/200%text/image
+failure: instructions actionable, title overflow found and corrected locally.
+Residual timing/individual-fit/access uncertainty and pack scrolling remain.
+IMPROVE implemented, independent cycle1 PASS_WITH_P3/no P0-P2; final-range
+review/release pending. Enlarged-header anchor clearance P3 retained; not real-family
+testing, physical bridge validation or evidence of enjoyment/learning.
+
 ## 2026-09-25 Afternoon - Bridge Handoff And Fold Direction
 
 RES021 [lineage audit](../reviews/bridge-rescue-lineage-audit-2026-09-25.md)

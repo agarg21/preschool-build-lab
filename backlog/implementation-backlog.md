@@ -6,6 +6,17 @@ repository writer for a validated transaction.
 
 ## Individual Page Queue - September 22
 
+September26 IMP018 implemented under exact15 registered paths; no new page.
+Pack gentle default/handoff and guide fold/support direction agree, source
+limits retained. Same frozen proxy pack10->22/26 and guide20->22/26; no family
+test. [Implementation review](../reviews/bridge-handoff-implementation-review-2026-09-26.md).
+Independent cycle1 PASS_WITH_P3, no P0-P2; frozen commit/final-range review
+and production verification pending. P3 follow-up: text-scale-aware guide
+anchor clearance; no shared CSS edit authorized in this repair.
+This supersedes the ready-for-registration state below, not its evidence.
+No new demand pass. Next due weekly synthesisSeptember27; preserve all other
+windows and observe this repair throughOctober10 after release.
+
 September25 afternoon RES021 [bridge lineage audit](../reviews/bridge-rescue-lineage-audit-2026-09-25.md)
 selects one conditional IMP018: align existing pack Bridge Rescue with guide's
 gentle one-object comparison, remove stronger/crash contradictions, add depth

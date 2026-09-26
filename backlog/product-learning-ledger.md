@@ -4,6 +4,30 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-26 - KAL-IMP-018 One Default Across The Handoff
+
+- Decision/persona: caregiver starts a bridge from the pack without video,
+  needs folding help, a single comparison and younger-sibling boundaries.
+- Hypothesis: agreeing defaults plus explicit ridge/support text closes the
+  handoff failure without another URL. Supported in repeated proxy task.
+- Sources/classes: [dated implementation](../reviews/bridge-handoff-implementation-review-2026-09-26.md),
+  September26 Teach Beside Me/Science Buddies bodies and orientation photo
+  SOURCE_BACKED; adaptations/scores EDITORIAL_JUDGMENT; persona retained
+  RESEARCH_HYPOTHESIS; physical/family/rank outcomes UNKNOWN. No paid spend.
+- Result: same-task pack10->22/26 and separately guide20->22/26, all13,
+  critical outputs present. Native109/rendered QA pass; independent cycle1
+  PASS_WITH_P3/no P0-P2. Enlarged-header anchor clearance P3 retained;
+  final-range review/release pending, not a completed transaction yet.
+- Confidence: high in instruction/route agreement, medium in practical
+  usefulness. Not a measurement of comprehension, performance or satisfaction.
+- Lesson: a deeper guide only resolves a compact entry's task when materials,
+  action and stop boundaries agree; text must map shape to supports without art.
+- Falsification: source conflict or repeated task cannot identify orientation,
+  gentle placement, recovery or route. Reconsider bounded repair, not add prose.
+- Measurement: observe after release throughOctober10, preserving other windows;
+  query-thin GSC throughSeptember23 is pre-repair, not impact evidence.
+  Next reviewer/release gates; weekly synthesis dueSeptember27 unchanged.
+
 ## 2026-09-25 Afternoon - KAL-RES-021 Handoff Is More Than A Link
 
 - Decision/persona: caregiver starts a paper bridge without video, needs one

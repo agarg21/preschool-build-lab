@@ -65,3 +65,12 @@ test("source limits and existing SEO owners remain explicit", () => {
     assert.doesNotMatch(html, /name="robots" content="noindex/);
   }
 });
+
+test("Bridge Rescue aligns its gentle default and handoff with the existing guide", () => {
+  const bridge = article("bridge-rescue");
+  for (const text of ["One sheet of paper", "Two low closed books", "One large lightweight block or soft toy", "check suitability for every child", "both ends resting well", "Place the object gently", "Remove the object", "Stop if books slide", "move the books closer", "adult can place the object", "same paper kind, books, gap, object and placement", "neither version is promised to hold"]) assert.ok(bridge.includes(text), text);
+  assert.match(bridge, /href="\.\.\/articles\/paper-bridge-challenge-kids\.html#one-change"/);
+  assert.doesNotMatch(bridge, /stronger|crash|small toy|toy animal|drive or walk|second sheet|youtube|two toys|4-6 inches/i);
+  assert.equal([...bridge.matchAll(/<li>/g)].length, 6);
+  assert.equal([...bridge.matchAll(/<details/g)].length, 1);
+});

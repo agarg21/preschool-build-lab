@@ -15,13 +15,14 @@ test("paper bridge guide owns one singular search job", () => {
   assert.match(html, /<title>Paper Bridge Challenge for Kids \| Kid Activity Lab<\/title>/);
   assert.match(html, /<link rel="canonical" href="https:\/\/kidactivitylab\.com\/articles\/paper-bridge-challenge-kids\.html">/);
   assert.deepEqual(
-    [...html.matchAll(/<h1>(.*?)<\/h1>/g)].map((match) => match[1]),
+    [...html.matchAll(/<h1\b[^>]*>(.*?)<\/h1>/g)].map((match) => match[1]),
     ["Paper Bridge Challenge for Kids"],
   );
   assert.match(html, /<article class="bridge-article">/);
   const data = JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)?.[1] ?? "{}");
   assert.equal(data["@type"], "Article");
-  assert.equal(data.dateModified, "2026-09-12");
+  assert.equal(data.datePublished, "2026-09-12");
+  assert.equal(data.dateModified, "2026-09-26");
 });
 
 test("first start exposes the frozen parent decision", () => {
@@ -113,5 +114,12 @@ test("keyword inventory and sitemap contain the guide once", () => {
     .map((match) => match[1])
     .filter((entry) => entry.includes("paper-bridge-challenge-kids.html"));
   assert.equal(entries.length, 1);
-  assert.match(entries[0], /<lastmod>2026-09-12<\/lastmod>/);
+  assert.match(entries[0], /<lastmod>2026-09-26<\/lastmod>/);
+});
+
+test("fold direction is executable without the illustrative inset", () => {
+  const change = html.slice(html.indexOf('id="one-change"'), html.indexOf('id="troubleshooting"'));
+  for (const text of ["same kind and size", "Keep the same books, gap, object, and placement", "each ridge runs from one book across the gap to the other book", "both ends resting well on the covers", "editorial starting suggestion, not a required count", "not its position on the books"]) assert.ok(change.includes(text), text);
+  assert.match(html, /https:\/\/teachbesideme\.com\/easy-engineering-experiment\//);
+  assert.match(html, /editorial adaptations, not those sources' small-weight tests/);
 });
