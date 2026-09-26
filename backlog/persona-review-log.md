@@ -13,7 +13,9 @@ retained caregiver handoff, phone enlarged text, no video; direct-entry/back
 and image-failure stress. Four navigation dimensions4/8->8/8, nine N/A with
 reasons; not comparable to full activity22/26. Baseline heading hidden38.5px;
 after49.5px clear at390/200.36anchor checks at1280/390/320 and100/200 pass.
-IMPROVE locally; independent cycle1 PASS/no P0-P3, final-range/release pending.
+IMPROVE released; independent finalcycle2 full-range PASS/no P0-P3,
+reviewed0d7f7f4, exact-SHA Pages36258348272 success. Guide byte-match and live
+36anchors/sixhandoffs/back/fallback pass; clean local/origin0/0. COMPLETED.
 No real-user or comprehensive
 assistive-technology claim; other activity-planning dimensions not rescored.
 

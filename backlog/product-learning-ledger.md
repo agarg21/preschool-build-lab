@@ -15,8 +15,9 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   retained persona RESEARCH_HYPOTHESIS, scores EDITORIAL_JUDGMENT.
 - Result:390/200 overlap38.5px ->clear49.5px;36anchor combinations pass,
   native110 and unchanged generator outputs. Four-dimension proxy4->8/8,
-  nine N/A; independent cycle1 PASS/no P0-P3. Exact-range/release pending,
-  not completed yet.
+  nine N/A; independent finalcycle2 full-range PASS/no P0-P3. Reviewed0d7f7f4
+  released; exact-SHA Pages36258348272 success, guide byte-match and live
+  36anchors/sixhandoffs/back/fallback pass. Clean local/origin0/0; COMPLETED.
 - Confidence: high within tested viewport/root-text matrix; other fonts,
   browser zoom modes and real assistive-device performance not established.
 - Lesson: a fixed pixel anchor offset can fail when the sticky header grows
@@ -25,7 +26,7 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   overlap again or the larger offset harms normal entry; reopen bounded fix.
 - Measurement boundary: interface geometry only, not activity understanding,
   family outcomes or ranks. ThroughSeptember24 GSC predates repair.
-  Next independent/release gates; weekly synthesis remains dueSeptember27.
+  Next weekly synthesis remains dueSeptember27; morning P3 closed within matrix.
 
 ## 2026-09-26 - KAL-IMP-018 One Default Across The Handoff
 

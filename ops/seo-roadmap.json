@@ -3380,7 +3380,8 @@
       "id": "KAL-IMP-019",
       "title": "Keep bridge-guide anchor headings clear at enlarged text",
       "kind": "implementation",
-      "status": "in_progress",
+      "status": "completed",
+      "completed_on": "2026-09-26",
       "registered_on": "2026-09-26",
       "base_commit": "36b5aa6e465e641975aa576627f70af415588afd",
       "evidence_date": "2026-09-26",
@@ -3394,8 +3395,8 @@
       "measurement_boundary": "One no-video parent handoff with enlarged-text stress, not a new demand qualification or family/assistive-device test. Score only applicable dimensions with N/A reasons; no rank or satisfaction inference.",
       "observation_window": "Preserve IMP018 throughOctober10 and every other window. Verified layout defect permits only minimum bridge-guide correction; no content rework.",
       "reconsider_conditions": "Stop for target clipping, horizontal overflow, normal-layout regression, unexpected generator change, source/content drift, remote divergence or failed independent review. Reconsider offset if a supported viewport/font setup still clips headings.",
-      "implementation_result": "Page-local max(104px,6rem) clears morning P3 in local tests:390/200 baseline38.5px overlap becomes49.5px clear.36anchor checks/keyboard/touch/back/image-fallback and110native tests pass. All generators twice116files unchanged. Exact content/schema/SEO bytes preserved after removing style block. Narrow proxy4->8/8, not full activity/human evaluation. Links/exact11scope/417protected pass; independent cycle1 PASS/no P0-P3, Mencius 01a0deaf-1737-7670-9afb-5439ddd7c11f read-only. Final-range/release pending.",
-      "next_step": "Exact-path commit, final-range review and exact-SHA Pages/live verification. Weekly synthesis remains dueSeptember27."
+      "implementation_result": "COMPLETED page-local max(104px,6rem), morning P3 closed within tested matrix:390/200 overlap38.5px becomes49.5px clear.36anchor/keyboard/touch/back/image-fallback and110native tests pass; generators twice116files unchanged. Content/schema/SEO bytes preserved after removing style block. Narrow proxy4->8/8, not human/fullactivity evaluation. Exact11scope/417protected pass; independent finalcycle2 full36b5aa6..0d7f7f40571c9d219f5573e711e2c704e4b6d46a PASS/no P0-P3, Mencius 01a0deaf-1737-7670-9afb-5439ddd7c11f read-only. Reviewed0d7f7f4 pushed, exact-SHA Pages36258348272 success17:15:16UTC; guide HTTP200 byte-match/canonical/H1/links and live36anchor/sixhandoff/fallback pass. Marker absent; clean local/origin0/0 verified. Same-nine-doc factual closeout allowed.",
+      "next_step": "Weekly synthesis dueSeptember27; preserve all observation windows. Reopen only for new anchor failure in supported settings, not a new content pass."
     }
   ]
 }

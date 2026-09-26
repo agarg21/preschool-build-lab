@@ -2,12 +2,15 @@
 
 Last updated: 2026-09-26
 
-## September 26 Afternoon Bridge Anchor Repair - Reviewed
+## September 26 Afternoon Bridge Anchor Repair - Released
 
 IMP019 addresses morning P3 with guide-only text-relative anchor spacing.
 No content or new URL. Local36anchor/110native tests pass; normal spacing
-unchanged and enlarged heading clear. Independent cycle1 PASS/no P0-P3;
-final-range and production verification pending.
+unchanged and enlarged heading clear. Independent finalcycle2 full-range
+PASS/no P0-P3. Reviewed0d7f7f4 pushed; exact-SHA Pages36258348272 success,
+guide byte-match/canonical/H1/links and live36anchor/sixhandoff/back/fallback
+checks pass. Marker absent; clean local/origin0/0 verified. COMPLETED.
+Morning P3 closed within tested settings; no universal accessibility claim.
 Evidence `reviews/bridge-anchor-clearance-review-2026-09-26.md`.
 New GSC throughSept24:276impressions/9clicks,10/10priority unchanged;
 bridge guide row unavailable, full queries unavailable, no repair attribution.

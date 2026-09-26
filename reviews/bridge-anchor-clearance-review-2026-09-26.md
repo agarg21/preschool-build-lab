@@ -121,5 +121,31 @@ mobile keyboard/back and all eight screenshots. Complete36case/enlarged
 geometry/touch/image-blocking,110th temporary-fixture test and generators
 are operator-supplied, not independently rerun. No broad accessibility claim.
 Two material hashes frozen. Same-nine-doc factual QA/review/commit/release
-metadata permitted; exact-range review and production release still pending.
-Weekly synthesis stays dueSeptember27.
+metadata permitted.
+
+## Verified Release
+
+Finalcycle2 PASS/no P0-P3, same read-only reviewer, exact full range
+`36b5aa6e465e641975aa576627f70af415588afd..0d7f7f40571c9d219f5573e711e2c704e4b6d46a`.
+Direct-parent clean commit, exact11paths, both material hashes unchanged;
+in-memory factual-metadata reversal reproduces all nine cycle1 doc hashes.
+417protected/59prioritems/top-level fields and109non-writing tests/
+70snapshots/JSON/JSON-LD/XML/range whitespace independently pass.
+Link counts reconcile:833relative/root-local plus70absolute same-origin=903.
+Full110 and generators remain operator-supplied evidence.
+
+Fresh fetch1/0 before push. Reviewed0d7f7f4 pushed; exact-SHA
+[Pages36258348272](https://github.com/agarg21/preschool-build-lab/actions/runs/36258348272)
+success2026-09-26 17:15:16UTC. Nonblocking Node24/futureUbuntu26 notices;
+no workflow edit. Guide HTTP200 and exact reviewed SHA256
+`2e470500faeec6afc46007139fbc0326e913e038ef5abc25ef1c93c3dd7ca0ce`.
+Expected canonical/singleH1,11same-origin refs and9HTTP200targets pass.
+Production repeats all36anchor cases and six keyboard/touch/back cases:
+no clipping/overflow, normal104px retained,390/200 heading192.328px versus
+header142.828px.320/200 image-blocked text remains usable, no page errors.
+Live normal/enlarged screenshots visually checked at1280/390/320;
+`/tmp/kal-imp019-prod-*` are QA evidence, not repository artifacts.
+No release marker exists; exact-SHA deployment plus guide bytes verified.
+Clean local/origin0/0 verified. COMPLETED; same-nine-doc factual closeout
+permitted. Morning P3 closed within tested matrix, no universal guarantee.
+Next due weekly synthesisSeptember27; all observation windows unchanged.

@@ -11,18 +11,21 @@
   anchor review; priority status; implementation/persona/learning logs;
   current-cycle/operator-review/roadmap JSON/Markdown. No shared CSS or prose
   change. Same-day lastmod alreadySeptember26, so no sitemap edit expected.
-- Phase REVIEWED, cycle1 PASS/no P0-P3. Baseline390/200 heading
+- Phase COMPLETED, finalcycle2 full-range PASS/no P0-P3. Baseline390/200 heading
   overlaps38.5px; after page-local max(104px,6rem), clears49.5px.36anchor
   checks at1280/390/320 and100/200%text pass; Enter/touch/back/image-fallback
   pass. Narrow navigation proxy4->8/8, not full activity/human test.
   Native110/70snapshots/links71HTML833refs/exact11paths/417protected pass.
   Mencius read-only `01a0deaf-1737-7670-9afb-5439ddd7c11f`, two material
-  hashes frozen; same-nine-doc factual metadata allowed. Next exact-path commit,
-  final-range review and production verification. No current blocker.
-- Completion requires unchanged normal layout/content, readable anchor targets
-  at1280/390/320 and100/200%text, keyboard/touch/direct-entry/back checks,
-  native/generator-idempotence/links/scope QA, independent review, reviewed
-  commit, exact-SHA Pages/live task and byte verification, clean alignment.
+  hashes match; exact range36b5aa6..0d7f7f40571c9d219f5573e711e2c704e4b6d46a
+  and nine-doc metadata reversal verified. Reviewed0d7f7f4 pushed after fresh
+  fetch1/0; exact-SHA Pages36258348272 success17:15:16UTC. Guide HTTP200 byte
+  match, canonical/H1/11refs/9HTTP200targets and live36anchors/sixhandoffs/
+  back/image-fallback pass. Marker absent; SHA+bytes verified.
+  Clean local/origin0/0 verified; nine-doc facts-only closeout permitted.
+- Next executable step: weekly synthesis dueSeptember27; evaluate accumulated
+  default/handoff/anchor failures for a falsifiable reusable rule. Morning P3
+  closed within tested matrix; no pending release or current blocker.
 - Preserve all prior observation windows and all other pages; only layout
   defect exception. No new claims, pages, paid research or Control Room work.
   Next due weekly synthesis staysSeptember27. No current blocker.

@@ -9,7 +9,10 @@ repository writer for a validated transaction.
 September26 afternoon IMP019 implements the morning P3 guide-only anchor
 clearance correction under exact11 paths. Local36anchor/110native tests pass;
 normal offset/content unchanged, enlarged headings now clear. Independent
-cycle1 PASS/no P0-P3; final-range/release pending.
+finalcycle2 full-range PASS/no P0-P3. Reviewed0d7f7f4 released through exact-SHA
+Pages36258348272 success; guide byte-match/canonical/H1/link/live36anchor/
+sixhandoff/back/fallback checks pass. Clean local/origin0/0; COMPLETED.
+Morning P3 now closed within tested matrix; no shared-CSS expansion.
 [Review](../reviews/bridge-anchor-clearance-review-2026-09-26.md).
 No additional bridge content/new URL; next due weekly synthesisSeptember27.
 

@@ -14,8 +14,17 @@ cycle1 PASS/no P0-P3, Mencius `01a0deaf-1737-7670-9afb-5439ddd7c11f`,
 read-only;109non-writing tests/70snapshots/scope/HTML identity/18normal anchors/
 mobile keyboard/back/eight screenshots verified. Reviewer checker903refs;
 operator36case/enlarged/touch/image matrix,110th fixture test/generators supplied.
-Two material hashes frozen, nine-doc factual metadata allowed. Exact-range
-and release pending. New finalized
+Finalcycle2 PASS/no P0-P3 full
+`36b5aa6e465e641975aa576627f70af415588afd..0d7f7f40571c9d219f5573e711e2c704e4b6d46a`.
+Both material hashes match; in-memory review-metadata reversal reproduces all
+nine cycle1 docs. Direct-parent/exact11/417protected/59prioritems independently
+verified.903refs=833relative/root-local+70absolute same-origin. Reviewed0d7f7f4
+pushed after fresh fetch1/0; exact-SHA Pages36258348272 success17:15:16UTC.
+GuideHTTP200 reviewed-byte-match/canonical/H1/11refs/9HTTP200targets and live
+36anchors/sixkeyboard-touch-back cases/image-fallback pass. Marker absent;
+SHA+bytes verified. Clean local/origin0/0; COMPLETED, nine-doc factual closeout
+permitted. No remaining P3 within test matrix. Nonblocking Node24/futureUbuntu26
+notices, no workflow change. New finalized
 snapshot throughSeptember24:276/9,10/10priority identical; no query/causal claim.
 WeeklySeptember27 and every existing observation window preserved.
 
