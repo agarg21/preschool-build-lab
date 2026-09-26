@@ -6,6 +6,17 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-26 Afternoon - Read The Linked Folding Heading
+
+IMP019 [review](../reviews/bridge-anchor-clearance-review-2026-09-26.md):
+retained caregiver handoff, phone enlarged text, no video; direct-entry/back
+and image-failure stress. Four navigation dimensions4/8->8/8, nine N/A with
+reasons; not comparable to full activity22/26. Baseline heading hidden38.5px;
+after49.5px clear at390/200.36anchor checks at1280/390/320 and100/200 pass.
+IMPROVE locally; independent cycle1 PASS/no P0-P3, final-range/release pending.
+No real-user or comprehensive
+assistive-technology claim; other activity-planning dimensions not rescored.
+
 ## 2026-09-26 - Consistent Bridge Start And Depth
 
 IMP018 repeats RES021's same no-video, folding-help/younger-sibling task.

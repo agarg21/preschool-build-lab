@@ -123,3 +123,8 @@ test("fold direction is executable without the illustrative inset", () => {
   assert.match(html, /https:\/\/teachbesideme\.com\/easy-engineering-experiment\//);
   assert.match(html, /editorial adaptations, not those sources' small-weight tests/);
 });
+
+test("guide fragment clearance scales with enlarged text without changing the shared stylesheet", () => {
+  assert.match(html, /\.bridge-article \.content section\[id\]\s*\{\s*scroll-margin-top: max\(104px, 6rem\);\s*\}/);
+  assert.ok(html.indexOf("scroll-margin-top: max(104px, 6rem)") > html.indexOf('rel="stylesheet"'));
+});

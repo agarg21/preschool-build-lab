@@ -10,6 +10,14 @@ Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
 
 ## Current sequence
 
+0. September26 afternoon `KAL-IMP-019` REVIEWED from36b5aa6 after clean
+   snapshot-only fast-forward. Fix morning reviewer P3 enlarged-header anchor
+   clearance on the bridge guide only, exact11 paths in JSON. Baseline38.5px
+   overlap becomes49.5px clearance at390/200;36anchor checks and native110
+   pass. Page-scoped text-relative offset; no shared CSS/content/URL changes.
+   Independent cycle1 PASS/no P0-P3, exact11paths/417protected pass.
+   Final-range/production gates pending. WeeklySept27 stays due.
+
 0. September26 `KAL-IMP-018` COMPLETED, from alignedcbe7ec3 after
    fetch, no incoming change. Exact15 paths in JSON implement reviewed RES021
    bridge pack/guide handoff and geometry repair, not a new URL. Preserve

@@ -6,6 +6,13 @@ repository writer for a validated transaction.
 
 ## Individual Page Queue - September 22
 
+September26 afternoon IMP019 implements the morning P3 guide-only anchor
+clearance correction under exact11 paths. Local36anchor/110native tests pass;
+normal offset/content unchanged, enlarged headings now clear. Independent
+cycle1 PASS/no P0-P3; final-range/release pending.
+[Review](../reviews/bridge-anchor-clearance-review-2026-09-26.md).
+No additional bridge content/new URL; next due weekly synthesisSeptember27.
+
 September26 IMP018 implemented under exact15 registered paths; no new page.
 Pack gentle default/handoff and guide fold/support direction agree, source
 limits retained. Same frozen proxy pack10->22/26 and guide20->22/26; no family

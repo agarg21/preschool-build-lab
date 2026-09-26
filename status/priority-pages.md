@@ -2,6 +2,17 @@
 
 Last updated: 2026-09-26
 
+## September 26 Afternoon Bridge Anchor Repair - Reviewed
+
+IMP019 addresses morning P3 with guide-only text-relative anchor spacing.
+No content or new URL. Local36anchor/110native tests pass; normal spacing
+unchanged and enlarged heading clear. Independent cycle1 PASS/no P0-P3;
+final-range and production verification pending.
+Evidence `reviews/bridge-anchor-clearance-review-2026-09-26.md`.
+New GSC throughSept24:276impressions/9clicks,10/10priority unchanged;
+bridge guide row unavailable, full queries unavailable, no repair attribution.
+Prior observation windows preserved. Weekly synthesis dueSeptember27.
+
 ## September 26 Bridge Handoff Repair - Released
 
 IMP018 aligns pack Bridge Rescue with the existing dedicated guide and makes

@@ -1,5 +1,32 @@
 # Current Cycle
 
+## Run Checkpoint - September 26 Afternoon Enlarged-Text Navigation
+
+- Invocation `2026-09-26T17:01:06.365Z`; time checked17:01:19UTC, pilot active.
+  No newer redirect. Morning IMP018 complete; weekly synthesis dueSeptember27.
+- Action `KAL-IMP-019`: repair independently verified P3 guide anchor clearance.
+  Initial clean1d0b77e; inspected incoming two snapshot-only files, ff-only to
+  `36b5aa6e465e641975aa576627f70af415588afd`. No dirty work or divergence.
+- Exact11 paths in roadmap: bridge guide HTML and existing guide test; dated
+  anchor review; priority status; implementation/persona/learning logs;
+  current-cycle/operator-review/roadmap JSON/Markdown. No shared CSS or prose
+  change. Same-day lastmod alreadySeptember26, so no sitemap edit expected.
+- Phase REVIEWED, cycle1 PASS/no P0-P3. Baseline390/200 heading
+  overlaps38.5px; after page-local max(104px,6rem), clears49.5px.36anchor
+  checks at1280/390/320 and100/200%text pass; Enter/touch/back/image-fallback
+  pass. Narrow navigation proxy4->8/8, not full activity/human test.
+  Native110/70snapshots/links71HTML833refs/exact11paths/417protected pass.
+  Mencius read-only `01a0deaf-1737-7670-9afb-5439ddd7c11f`, two material
+  hashes frozen; same-nine-doc factual metadata allowed. Next exact-path commit,
+  final-range review and production verification. No current blocker.
+- Completion requires unchanged normal layout/content, readable anchor targets
+  at1280/390/320 and100/200%text, keyboard/touch/direct-entry/back checks,
+  native/generator-idempotence/links/scope QA, independent review, reviewed
+  commit, exact-SHA Pages/live task and byte verification, clean alignment.
+- Preserve all prior observation windows and all other pages; only layout
+  defect exception. No new claims, pages, paid research or Control Room work.
+  Next due weekly synthesis staysSeptember27. No current blocker.
+
 ## Run Checkpoint - September 26 Bridge Handoff Repair
 
 - Invocation `2026-09-26T09:01:04.856Z`; time checked09:01:12UTC, inside

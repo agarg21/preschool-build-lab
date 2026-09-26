@@ -3375,6 +3375,27 @@
       "eligibility_gate": "Reopen only with new source evidence capable of closing gates or explicit priority instruction, then register exact paths/base. No new paid authorization or safety assurance.",
       "decision_gate": "No publication while critical controls or maintainable parent utility are unresolved. Do not inherit an age-three-up label; improved demand alone does not remove deferral.",
       "measurement_boundary": "September17 US Ads balloon rocket experiment1000 and balloon rocket activity40. Retained controlled query was balloon rocket activity; incomplete SERP and unknown organic KD/rank/family outcomes. No guide approved."
+    },
+    {
+      "id": "KAL-IMP-019",
+      "title": "Keep bridge-guide anchor headings clear at enlarged text",
+      "kind": "implementation",
+      "status": "in_progress",
+      "registered_on": "2026-09-26",
+      "base_commit": "36b5aa6e465e641975aa576627f70af415588afd",
+      "evidence_date": "2026-09-26",
+      "evidence_class": "MEASURED browser geometry and EDITORIAL_JUDGMENT proxy evaluation; not human testing",
+      "evidence_refs": ["reviews/bridge-handoff-implementation-review-2026-09-26.md"],
+      "exact_paths": ["site/articles/paper-bridge-challenge-kids.html", "tools/paper-bridge-guide.test.mjs", "reviews/bridge-anchor-clearance-review-2026-09-26.md", "status/priority-pages.md", "backlog/implementation-backlog.md", "backlog/persona-review-log.md", "backlog/product-learning-ledger.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "user_problem": "A caregiver using enlarged text follows the pack's folding link but the sticky header partly hides the comparison heading; reviewer confirmed P3, scroll recovery required.",
+      "hypothesis": "A page-scoped text-relative anchor margin preserves normal entry while keeping guide destination headings below the enlarged header without script or content changes.",
+      "acceptance": "All existing guide fragment headings clear the sticky header at1280/390/320 and100/200percent root text; normal100percent offset unchanged; keyboard/touch/direct hash/back usable. No content, canonical, H1, schema, assets, shared CSS, other pages or66URL inventory changes.",
+      "qa_plan": "Native109-plus regression/jq/diff checks, all3generators twice and output scope, complete links/fragments, before/after browser geometry and screenshots, image-failure/back/direct-entry, different independent read-only review, exact-SHA Pages/production bytes and repeated persona task.",
+      "measurement_boundary": "One no-video parent handoff with enlarged-text stress, not a new demand qualification or family/assistive-device test. Score only applicable dimensions with N/A reasons; no rank or satisfaction inference.",
+      "observation_window": "Preserve IMP018 throughOctober10 and every other window. Verified layout defect permits only minimum bridge-guide correction; no content rework.",
+      "reconsider_conditions": "Stop for target clipping, horizontal overflow, normal-layout regression, unexpected generator change, source/content drift, remote divergence or failed independent review. Reconsider offset if a supported viewport/font setup still clips headings.",
+      "implementation_result": "Page-local max(104px,6rem) clears morning P3 in local tests:390/200 baseline38.5px overlap becomes49.5px clear.36anchor checks/keyboard/touch/back/image-fallback and110native tests pass. All generators twice116files unchanged. Exact content/schema/SEO bytes preserved after removing style block. Narrow proxy4->8/8, not full activity/human evaluation. Links/exact11scope/417protected pass; independent cycle1 PASS/no P0-P3, Mencius 01a0deaf-1737-7670-9afb-5439ddd7c11f read-only. Final-range/release pending.",
+      "next_step": "Exact-path commit, final-range review and exact-SHA Pages/live verification. Weekly synthesis remains dueSeptember27."
     }
   ]
 }

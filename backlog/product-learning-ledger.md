@@ -4,6 +4,29 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-26 Afternoon - KAL-IMP-019 Text Size Changes The Landing
+
+- Decision/persona: retained caregiver follows folding link with enlarged text
+  and must see the destination heading without corrective scrolling.
+- Hypothesis: page-scoped text-relative anchor clearance fixes enlarged header
+  overlap while preserving normal reading layout. Supported locally.
+- Evidence/classes: [dated review](../reviews/bridge-anchor-clearance-review-2026-09-26.md),
+  September26 measured Playwright geometry, morning independent P3 finding,
+  retained persona RESEARCH_HYPOTHESIS, scores EDITORIAL_JUDGMENT.
+- Result:390/200 overlap38.5px ->clear49.5px;36anchor combinations pass,
+  native110 and unchanged generator outputs. Four-dimension proxy4->8/8,
+  nine N/A; independent cycle1 PASS/no P0-P3. Exact-range/release pending,
+  not completed yet.
+- Confidence: high within tested viewport/root-text matrix; other fonts,
+  browser zoom modes and real assistive-device performance not established.
+- Lesson: a fixed pixel anchor offset can fail when the sticky header grows
+  with text. Test header/target geometry, not only link existence or overflow.
+- Falsification trigger: any supported font/viewport makes an anchor heading
+  overlap again or the larger offset harms normal entry; reopen bounded fix.
+- Measurement boundary: interface geometry only, not activity understanding,
+  family outcomes or ranks. ThroughSeptember24 GSC predates repair.
+  Next independent/release gates; weekly synthesis remains dueSeptember27.
+
 ## 2026-09-26 - KAL-IMP-018 One Default Across The Handoff
 
 - Decision/persona: caregiver starts a bridge from the pack without video,

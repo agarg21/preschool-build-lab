@@ -1,5 +1,24 @@
 # Operator Review
 
+## KAL-IMP-019 - September 26 Afternoon
+
+Base36b5aa6 after inspected two-file snapshot fast-forward, clean. Exact11
+registered paths; guide-only text-relative anchor margin, no shared CSS or
+content edits. Review `reviews/bridge-anchor-clearance-review-2026-09-26.md`.
+Measured390/200 baseline38.5px overlap ->49.5px clearance;36anchor combinations
+and Enter/touch/back/image-failure checks pass. Narrow navigation proxy4->8/8
+with nine explicit N/A, not morning22/26 or human testing. Native110/jq/diff,
+all3generators twice116files unchanged, HTML-minus-style byte identity pass.
+Scope11paths/417protected/59prioritems and71HTML/833refs pass. Independent
+cycle1 PASS/no P0-P3, Mencius `01a0deaf-1737-7670-9afb-5439ddd7c11f`,
+read-only;109non-writing tests/70snapshots/scope/HTML identity/18normal anchors/
+mobile keyboard/back/eight screenshots verified. Reviewer checker903refs;
+operator36case/enlarged/touch/image matrix,110th fixture test/generators supplied.
+Two material hashes frozen, nine-doc factual metadata allowed. Exact-range
+and release pending. New finalized
+snapshot throughSeptember24:276/9,10/10priority identical; no query/causal claim.
+WeeklySeptember27 and every existing observation window preserved.
+
 ## KAL-IMP-018 - September 26 Morning
 
 Base cbe7ec3, clean/aligned after fetch. Exact15 paths registered before edits;
