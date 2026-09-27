@@ -12,19 +12,22 @@
   `backlog/seo-research-review-backlog.md`, `status/priority-pages.md`,
   `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
   `ops/seo-roadmap.md`. No site/generator/data/paid/automation changes.
-- Phase REVIEWED, RELEASE PENDING. Dated synthesis preserves source-lineage rule, adds
+- Phase COMPLETED. Dated synthesis preserves source-lineage rule, adds
   scoped readable-arrival proof and promotes planned RES022 caregiver-question
   discovery after the completed cohort. No new activity/build approved.
   Native110/70snapshots/jq/whitespace/exact9paths/420protected/60prioritems/
-  62IDs/31references/privacy/date checks PASS. Gibbs read-only cycle1 PASS,
-  no P0-P3, `01a0e2c0-34fd-71c1-a4f8-84c2c99eb12a`. Next fresh fetch,
-  exact-path commit, final reviewed-range reconciliation then push/alignment.
-- Completion still requires reviewed push-only commit and alignment. Synthesis,
-  consistent September27/October4 review dates, planned next research and
-  independent working-tree PASS established; no live-site deployment applies.
+  62IDs/31references/privacy/date checks PASS. Gibbs read-only finalcycle2 PASS,
+  no P0-P3, `01a0e2c0-34fd-71c1-a4f8-84c2c99eb12a`; exact base..reviewed
+  `0d23c8c066925a88950a9d5a82120f5bef12dc74`, nine cycle1 hashes reconciled
+  by in-memory factual-metadata reversal, protocol unchanged. Reviewed commit
+  pushed after fresh fetch0/1; clean local/origin0/0 and remote SHA verified.
+- Consistent September27/October4 review dates; no live-site deployment applies.
+  Facts-only same-path closeout covered. Next executable step: separately
+  register RES022 caregiver-question discovery, existing-owner and query-family
+  audit. Do not repeat this synthesis or completed activity qualifications.
 - Keep every observation window, deferred control gate, historical score and
   evidence distinction. No fresh browser/user test or keyword estimate claimed.
-  No blocker. Next research is selected only after the synthesis, not built here.
+  No blocker. Next research is planned, not executed or built here.
 
 ## Run Checkpoint - September 26 Afternoon Enlarged-Text Navigation
 

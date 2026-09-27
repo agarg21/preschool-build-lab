@@ -3402,7 +3402,8 @@
       "id": "KAL-WEEKLY-003",
       "title": "Synthesize owner, default and navigation learning for the next research sequence",
       "kind": "strategy",
-      "status": "in_progress",
+      "status": "completed",
+      "completed_on": "2026-09-27",
       "registered_on": "2026-09-27",
       "base_commit": "986f5a8af15cee2d674eb6574fd5ceffa5ad6dac",
       "exact_paths": ["weekly/2026-09-27-owner-and-start-synthesis.md", "reviews/persona-review-protocol.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3417,8 +3418,9 @@
       "artifact": "weekly/2026-09-27-owner-and-start-synthesis.md",
       "decision": "Preserve source-lineage rule; require readable-arrival evidence for changed sticky-header handoffs. Promote previously unselected discovery to planned RES022, not a build or paid batch. Prior tasks/scores/windows unchanged.",
       "qa_result": "PASS native110/70snapshots/jq/whitespace/exact9paths/420protected/60prioritems/62IDs/31relative references/source-date-privacy checks",
-      "review": {"reviewer_id": "01a0e2c0-34fd-71c1-a4f8-84c2c99eb12a", "reviewer_name": "Gibbs", "read_only": true, "cycle": 1, "verdict": "PASS", "findings": [], "reviewed_base": "986f5a8af15cee2d674eb6574fd5ceffa5ad6dac", "reviewed_target": "frozen nine-path working tree; final committed range pending"},
-      "next_step": "Fresh fetch, exact-path commit, independent final range reconciliation and push-only alignment. After release separately register RES022; next weekly October4."
+      "review": {"reviewer_id": "01a0e2c0-34fd-71c1-a4f8-84c2c99eb12a", "reviewer_name": "Gibbs", "read_only": true, "cycle": 2, "verdict": "PASS", "findings": [], "reviewed_base": "986f5a8af15cee2d674eb6574fd5ceffa5ad6dac", "reviewed_target": "0d23c8c066925a88950a9d5a82120f5bef12dc74", "reconciliation": "All9 cycle1 hashes reproduced by in-memory reversal of factual metadata; protocol unchanged; exact9paths/420protected/60prioritems verified. Same-doc factual release closeout covered."},
+      "release": {"state": "push-only", "reviewed_commit": "0d23c8c066925a88950a9d5a82120f5bef12dc74", "alignment": "clean local/origin0/0 and remote main exact SHA verified", "site_changed": false},
+      "next_step": "Separately register RES022 caregiver-question discovery, existing-owner map and live query-family audit; no build preapproved. Next weekly October4."
     },
     {
       "id": "KAL-RES-022",

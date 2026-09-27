@@ -12,12 +12,13 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
-0. September27 `KAL-WEEKLY-003` REVIEWED, RELEASE PENDING from clean aligned986f5a8,
+0. September27 `KAL-WEEKLY-003` COMPLETED from clean aligned986f5a8,
    exact9 docs/protocol paths. [Synthesis](../weekly/2026-09-27-owner-and-start-synthesis.md)
    preserves lineage rule and adds scoped readable-arrival evidence; retained
    rocket/bridge checks show a lesson not consistently transferred. No site
    or new human/search evidence. Native110/structural QA and Gibbs read-only
-   cycle1 PASS, no findings. Final range reconciliation and push pending.
+   finalcycle2 full-range PASS, no findings. Reviewed0d23c8c pushed, clean
+   local/origin0/0 and remote SHA verified; push-only, facts-only closeout covered.
 1. After reviewed weekly release, `KAL-RES-022` is the next substantive action:
    separately register current caregiver-question discovery, existing-owner map
    and one query-family/ranking-body audit. Return a gated disposition, not an
