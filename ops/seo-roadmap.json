@@ -3426,7 +3426,8 @@
       "id": "KAL-RES-022",
       "title": "Discover the next individual-activity parent job from current caregiver questions",
       "kind": "research",
-      "status": "in_progress",
+      "status": "completed",
+      "completed_on": "2026-09-27",
       "registered_on": "2026-09-27",
       "base_commit": "0ef79b01c8847c1fd883f06461b3cd4159843d5b",
       "exact_paths": ["seo/caregiver-job-discovery-2026-09-27.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3446,9 +3447,9 @@
       "artifact": "seo/caregiver-job-discovery-2026-09-27.md",
       "decision": "DEFER standalone page; reject pictures/no-print alone as differentiation. Four question bodies, two incomplete query samples, five ranking bodies and external1280/390 task9/24 critical failure support one narrower mechanism/intent research lead, not build approval.",
       "qa_result": "PASS native110/71snapshots/jq/whitespace/exact9paths/423protected/61prioritems/63IDs/9new references/source/privacy checks",
-      "review": {"verdict": "PASS", "read_only": true, "reviewer_id": "01a0e3dc-1725-7e01-8766-af62d56abee0", "reviewer_name": "Helmholtz", "cycle": 1, "findings": [], "reviewed_base": "0ef79b01c8847c1fd883f06461b3cd4159843d5b", "reconciliation": "Nine working-path SHA256 hashes frozen; factual QA/review/release closeout permitted, substantive changes require re-review. Artifact hash retained in operator review."},
-      "release": {"state": "not_committed", "site_changed": false},
-      "next_step": "Complete independent review and push-only release; then separately register RES023 mechanism/intent qualification, not repeat broad caregiver discovery."
+      "review": {"verdict": "PASS", "read_only": true, "reviewer_id": "01a0e3dc-1725-7e01-8766-af62d56abee0", "reviewer_name": "Helmholtz", "cycle": 2, "findings": [], "reviewed_base": "0ef79b01c8847c1fd883f06461b3cd4159843d5b", "reviewed_target": "26324f107c08e9c38b26ec123315d2ad8b1c4d17", "reconciliation": "All nine cycle1 hashes reproduced by in-memory reversal of permitted factual metadata; research artifact unchanged. Direct parent/clean tree/exact scope verified. Same-path factual final release closeout permitted."},
+      "release": {"state": "push-only", "reviewed_commit": "26324f107c08e9c38b26ec123315d2ad8b1c4d17", "alignment": "clean local/origin alignment and remote main exact SHA verified", "site_changed": false},
+      "next_step": "Separately register RES023 mechanism/intent qualification, not repeat broad caregiver discovery. No build approved; next weeklyOctober4."
     },
     {
       "id": "KAL-RES-023",

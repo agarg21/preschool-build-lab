@@ -28,8 +28,9 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   changes, all observation windows preserved. GSC267/9 throughSeptember25 is
   descriptive, not causal; missing article/query rows are not zeros.
 - QA/review/release: native110/71snapshots/JSON/whitespace/scope/reference/
-  privacy PASS; Helmholtz independent read-only cycle1 PASS, no findings.
-  Push-only release pending; evidence in `ops/operator-review.md`.
+  privacy PASS; Helmholtz independent read-only finalcycle2 full-range PASS,
+  no findings. Reviewed26324f1 pushed; clean local/origin alignment and remote
+  SHA verified. COMPLETED push-only; evidence in `ops/operator-review.md`.
 
 ## 2026-09-27 - KAL-WEEKLY-003 Carry Arrival Evidence Forward
 

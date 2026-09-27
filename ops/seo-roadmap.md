@@ -12,13 +12,14 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
-0. September27 afternoon `KAL-RES-022` RESEARCH COMPLETE, release pending,
+0. September27 afternoon `KAL-RES-022` COMPLETED push-only,
    base0ef79b0. [Discovery pack](../seo/caregiver-job-discovery-2026-09-27.md):
    four public question bodies, two incomplete query samples, five ranking
    bodies; external desktop/mobile task9/24, not a KAL or human baseline.
    DEFER page; reject pictures/no-print alone as differentiation. Native110 and
-   structural QA PASS; Helmholtz independent read-only cycle1 PASS/no findings.
-   Push-only release remains required.
+   structural QA PASS; Helmholtz independent read-only finalcycle2 full-range
+   PASS/no findings. Reviewed26324f1 pushed, clean local/origin alignment and
+   remote SHA verified. Same-path factual closeout covered; no Pages applies.
 1. After reviewed RES022 release, separately register planned `KAL-RES-023`:
    resolve one-room non-reader hunt mechanism, actual parent utility and exact
    intent/demand gaps. Do not repeat generic discovery or assume broad volume
