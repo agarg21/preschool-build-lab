@@ -14,7 +14,24 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
-## Current Sequence - September 27
+## Current Sequence - September 27 Afternoon
+
+RES022 [discovery](../seo/caregiver-job-discovery-2026-09-27.md) has researched
+four public caregiver questions, two incomplete query samples and five ranking
+bodies. DEFER a standalone hunt page; reject no-print/pictures alone as new
+utility. External desktop/mobile proxy9/24 critical failure does not make the
+whole competitive field weak. Native110/structural QA and independent read-only
+cycle1 PASS/no findings. Push-only release pending.
+
+Next planned RES023, separately registered after reviewed release: qualify
+one-room non-reader observation/picture matching. Freeze one mechanism; source
+cue preparation, ambiguity, adult/area/stop/cleanup and recovery; test whether
+existing read-aloud guidance already solves the job; close exact intent/material
+demand fit. Return PRESERVE/REJECT/DEFER if incremental utility remains weak.
+No generic rediscovery, page approval, paid budget or family-test prerequisite.
+Keep RES018/019 deferred and windows/weeklyOctober4 unchanged.
+
+## Historical Morning Sequence - September 27
 
 `KAL-WEEKLY-003` [synthesis](../weekly/2026-09-27-owner-and-start-synthesis.md)
 promotes `KAL-RES-022` as the next research transaction, not an approved build.

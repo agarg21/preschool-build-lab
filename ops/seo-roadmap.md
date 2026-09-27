@@ -12,6 +12,19 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
+0. September27 afternoon `KAL-RES-022` RESEARCH COMPLETE, release pending,
+   base0ef79b0. [Discovery pack](../seo/caregiver-job-discovery-2026-09-27.md):
+   four public question bodies, two incomplete query samples, five ranking
+   bodies; external desktop/mobile task9/24, not a KAL or human baseline.
+   DEFER page; reject pictures/no-print alone as differentiation. Native110 and
+   structural QA PASS; Helmholtz independent read-only cycle1 PASS/no findings.
+   Push-only release remains required.
+1. After reviewed RES022 release, separately register planned `KAL-RES-023`:
+   resolve one-room non-reader hunt mechanism, actual parent utility and exact
+   intent/demand gaps. Do not repeat generic discovery or assume broad volume
+   qualifies a build. RES018/019 and every observation window remain deferred/
+   protected; next weeklyOctober4. Entries below are dated history.
+
 0. September27 `KAL-WEEKLY-003` COMPLETED from clean aligned986f5a8,
    exact9 docs/protocol paths. [Synthesis](../weekly/2026-09-27-owner-and-start-synthesis.md)
    preserves lineage rule and adds scoped readable-arrival evidence; retained
@@ -19,7 +32,7 @@ this is a gate/sequence review, not new demand or ranking evidence.
    or new human/search evidence. Native110/structural QA and Gibbs read-only
    finalcycle2 full-range PASS, no findings. Reviewed0d23c8c pushed, clean
    local/origin0/0 and remote SHA verified; push-only, facts-only closeout covered.
-1. After reviewed weekly release, `KAL-RES-022` is the next substantive action:
+1. Historical morning sequence: after reviewed weekly release, `KAL-RES-022` was the next substantive action:
    separately register current caregiver-question discovery, existing-owner map
    and one query-family/ranking-body audit. Return a gated disposition, not an
    automatic new article. No ready build remains in the completed cohort.

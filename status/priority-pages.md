@@ -2,6 +2,19 @@
 
 Last updated: 2026-09-27
 
+## September 27 Afternoon Discovery - Release Pending
+
+RES022 [pack](../seo/caregiver-job-discovery-2026-09-27.md) inspects four public
+questions, two incomplete query samples and five bodies. DEFER a new hunt page;
+no-print/pictures alone already served. Plan RES023 for one-room non-reader
+mechanism/intent qualification, with explicit demand and utility gaps. No build
+approved; seven guides/37cards unchanged. External task9/24 is proxy only.
+New GSC throughSeptember25:267impressions/9clicks,10/10priority indexed; no-cut
+new crawlSeptember27. Six article rows and full queries still unavailable.
+No rank/repair attribution. Native110/structural QA and independent read-only
+cycle1 PASS/no findings. Push-only release pending; no Pages applies.
+Observation windows and October4 weekly due date preserved.
+
 ## September 27 Weekly Synthesis - Released
 
 WEEKLY003 [synthesis](../weekly/2026-09-27-owner-and-start-synthesis.md) adds

@@ -4,6 +4,33 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-27 Afternoon - KAL-RES-022 Pictures Are Not A Differentiator
+
+- Family decision/task: caregiver of a non-reader needs a manageable indoor
+  start, recognizable cue and recovery without a printer or invented kit.
+- Hypothesis: current questions identify a distinct job worth qualification;
+  pictures/no-print alone provide sufficient information gain. First supported
+  only as a research lead; second rejected by existing coverage.
+- Sources/classes: [discovery pack](../seo/caregiver-job-discovery-2026-09-27.md),
+  four public question bodies and five ranking bodies accessedSeptember27;
+  SOURCE_BACKED descriptions, datedJuly29 TOOL_ESTIMATE broad family metrics,
+  MEASURED browser geometry, RESEARCH_HYPOTHESIS task, EDITORIAL_JUDGMENT score.
+- Result: DEFER standalone page. Narrow competitor task9/24 critical failure,
+  not a market-wide weakness; established no-print/observation guidance exists.
+  No KAL before-page and no real user or physical test.
+- Lesson: distinguish existing-object matching, hidden duplicates and sequential
+  location clues before promising a simple hunt. Pictures are not inherently
+  better than adult-spoken observation; test that assumption next.
+- Confidence: moderate on coverage; low on exact demand/incremental advantage.
+- Next trigger: RES023 mechanism/intent qualification after reviewed release;
+  reject or preserve if existing guidance already solves the job. No build.
+- Boundary: exact demand/rank/outcomes UNKNOWN; no new paid authority, no public
+  changes, all observation windows preserved. GSC267/9 throughSeptember25 is
+  descriptive, not causal; missing article/query rows are not zeros.
+- QA/review/release: native110/71snapshots/JSON/whitespace/scope/reference/
+  privacy PASS; Helmholtz independent read-only cycle1 PASS, no findings.
+  Push-only release pending; evidence in `ops/operator-review.md`.
+
 ## 2026-09-27 - KAL-WEEKLY-003 Carry Arrival Evidence Forward
 
 - Decision/persona: caregiver follows an activity handoff and must see the

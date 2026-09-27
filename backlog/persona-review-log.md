@@ -6,6 +6,22 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-27 Afternoon - Can A Non-Reader Start A Picture Hunt?
+
+RES022 [discovery pack](../seo/caregiver-job-discovery-2026-09-27.md) freezes
+cue/object, adult setup/role, bounded area and recovery outputs; no-printer and
+image-failure stress. One representative external page at1280x900/390x844:
+9/24, twelve dimensions, educational-purpose N/A because P1 requires no learning
+outcome. Critical missing runnable picture-cue set; read-aloud use recoverable.
+Every visible block audited; no KAL baseline or before/after score. Text survives
+blocked images; mobile390/390, desktop1280/1351 overflow observed. Tab only,
+no touch/print-output test, no real parent/child/physical trial.
+Decision RESEARCH/DEFER, not publisher-wide failure or proof a KAL page will win.
+Existing no-print/observation coverage rejects that differentiator alone.
+Next RES023 reconciles one mechanism and exact intent/utility gates; no build.
+Native110 and structural QA PASS; independent read-only cycle1 PASS/no findings.
+Push-only release pending in `ops/operator-review.md`.
+
 ## 2026-09-26 Afternoon - Read The Linked Folding Heading
 
 IMP019 [review](../reviews/bridge-anchor-clearance-review-2026-09-26.md):

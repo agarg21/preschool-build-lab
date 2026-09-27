@@ -1,5 +1,34 @@
 # Operator Review
 
+## KAL-RES-022 - September 27 Afternoon
+
+Frozen base0ef79b01c8847c1fd883f06461b3cd4159843d5b, clean after inspected
+snapshot-only fast-forward. Nine registered research/operator paths, Master
+sole writer. Four source-dated public questions, two incomplete search samples,
+five body audits and one rendered external task. No new page or paid research.
+Decision DEFER publication, reject no-print/picture-only differentiation,
+plan RES023 one-mechanism intent/utility qualification. No KAL before-page;
+external P1 score9/24 with critical failure, not user/physical evidence.
+Desktop/mobile/image-block screenshots inspected; Node REPL import failed,
+bounded Playwright CLI fallback completed after stopping a hanging decode.
+New GSC snapshot validates with71 total;267/9 throughSeptember25,10/10indexed.
+Only no-cut crawl timestamp changed; first whole-inspection-equality assertion
+failed and was replaced by explicit row comparison. No repository defect.
+Native110/110,71snapshots,jq/whitespace,exact9paths/423protected blob hashes,
+61prioritems/63uniqueIDs/top-level preservation/9new relative references PASS.
+Privacy regex initially matched .au/resource as a false username; bounded
+Reddit/user pattern and manual privacy/source check passed. No data edits.
+Independent cycle1 PASS, no P0-P3, Helmholtz read-only
+`01a0e3dc-1725-7e01-8766-af62d56abee0`. Complete diff, all four question bodies,
+four competitor bodies plus indexed LiteracyAhas extract, dates/CSV/GSC/owner/
+rubric/privacy/three screenshots checked. Native/snapshot-validator/protected
+hash/reference checks supplied by Master, not independently rerun. Reviewer
+did not reproduce browser geometry or input behavior. Nine SHA256 hashes frozen;
+research artifact cfbbcab3ce51febcc09220af5dd5859c2f5642e3e5b58519c4c1597327dc42ec.
+Factual QA/review/release metadata closeout allowed; claims/gates/scope require
+re-review. No commit/push yet. Docs-only, no generators/Pages required.
+Next after reviewed release: separately register RES023; preserve all windows.
+
 ## KAL-WEEKLY-003 - September 27
 
 Frozen base986f5a8af15cee2d674eb6574fd5ceffa5ad6dac, initial clean main/origin0/0
