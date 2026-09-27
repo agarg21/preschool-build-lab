@@ -2,7 +2,7 @@
 
 State: reusable review protocol
 
-Last updated: 2026-09-20
+Last updated: 2026-09-27
 
 ## Purpose
 
@@ -128,6 +128,26 @@ means further research or defer. Before publication verify actual rendered
 surfaces agree. Keep this matrix in the action evidence, not as clutter on the
 parent-facing page. This rule follows the September20 weekly synthesis;
 it does not claim physical performance or measured family understanding.
+
+### Readable Arrival For Changed Handoffs
+
+For a new or changed activity handoff under a sticky header, a valid link and
+no horizontal overflow are insufficient evidence of readable arrival. Freeze
+the source link and target heading; record viewport, text mode, input, header
+bottom, heading top and visual result. Exercise the actual route with keyboard
+and touch as relevant at desktop/mobile normal text and mobile200%root text.
+Check direct hash and back where part of the task. Require the heading and
+beginning of instructions visible without corrective scrolling, heading top
+at least header bottom, and no clipping/overflow. Visually inspect as well as
+measure. Record the tested mode; this is not universal browser-zoom or assistive
+technology validation. Use action-specific scope, not a compulsory whole-site
+matrix; justify N/A when no such route/header exists. Keep evidence out of the
+parent-facing page. Existing broader action QA and critical-failure gates remain.
+
+This prospective check follows the [September27 synthesis](../weekly/2026-09-27-owner-and-start-synthesis.md).
+Reconsider it if a reviewed route still hides its start in the recorded setup;
+reproduce font/browser/header conditions rather than infer comprehension or
+family satisfaction from geometry.
 
 An independent reviewer may evaluate wording and evidence. It may not supply
 the missing human evidence.

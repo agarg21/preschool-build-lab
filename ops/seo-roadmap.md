@@ -6,9 +6,24 @@ engagement strategy and gives the active Master chat one durable execution queue
 Control Room scheduling is paused until the user explicitly re-enables
 automation.
 
-Last rescored: 2026-09-20. Next rescore due: 2026-09-27.
+Last rescored: 2026-09-27. Next rescore due: 2026-10-04.
+Rolling28-day horizon: September27-October24. Historical scores unchanged;
+this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
+
+0. September27 `KAL-WEEKLY-003` REVIEWED, RELEASE PENDING from clean aligned986f5a8,
+   exact9 docs/protocol paths. [Synthesis](../weekly/2026-09-27-owner-and-start-synthesis.md)
+   preserves lineage rule and adds scoped readable-arrival evidence; retained
+   rocket/bridge checks show a lesson not consistently transferred. No site
+   or new human/search evidence. Native110/structural QA and Gibbs read-only
+   cycle1 PASS, no findings. Final range reconciliation and push pending.
+1. After reviewed weekly release, `KAL-RES-022` is the next substantive action:
+   separately register current caregiver-question discovery, existing-owner map
+   and one query-family/ranking-body audit. Return a gated disposition, not an
+   automatic new article. No ready build remains in the completed cohort.
+   RES018/019 stay deferred, MON/IDX sensing gates and observation windows stay.
+   The older current-sequence entries below are dated history, not active work.
 
 0. September26 afternoon `KAL-IMP-019` COMPLETED from36b5aa6 after clean
    snapshot-only fast-forward. Fix morning reviewer P3 enlarged-header anchor

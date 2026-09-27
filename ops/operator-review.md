@@ -1,5 +1,26 @@
 # Operator Review
 
+## KAL-WEEKLY-003 - September 27
+
+Frozen base986f5a8af15cee2d674eb6574fd5ceffa5ad6dac, initial clean main/origin0/0
+after fetch. Exact9 registered docs/protocol paths. Dated weekly artifact
+tests September20 lineage rule against September21-26 retained evidence,
+adds falsifiable readable-arrival proof and promotes planned RES022 discovery.
+No site/data/paid/Control Room changes or fresh human/browser/search claims.
+Historical actions/scores and protected observation windows preserved.
+Native110/110,70snapshot validator,jq/whitespace,exact9paths/420protected blob
+hashes/60prioritems/62IDs/31relative references/date/privacy checks PASS.
+Initial protected-byte script hit process-buffer ENOBUFS on an unchanged PNG;
+read-only blob-hash retry passed. No repository defect or write from that check.
+Independent cycle1 PASS, no P0/P1/P2/P3; Gibbs read-only
+`01a0e2c0-34fd-71c1-a4f8-84c2c99eb12a`. Independently inspected complete diff,
+retained sources/scores/prior rule/protocol, GSC values/window/inspection and
+article inventory, exact scope/60prioritems/IDs/top-level/queue/date gates.
+Master native/snapshot-validator/protected-hash/reference checks supplied,
+not independently rerun. Nine SHA-256 hashes frozen; factual metadata updates
+permitted, substantive changes require re-review. Final range reconciliation
+and release pending. Push-only; no Pages or production browser work applicable.
+
 ## KAL-IMP-019 - September 26 Afternoon
 
 Base36b5aa6 after inspected two-file snapshot fast-forward, clean. Exact11

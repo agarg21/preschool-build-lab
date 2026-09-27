@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "owner": "Kid Activity Lab Operator",
-  "last_rescored_on": "2026-09-20",
-  "next_rescore_due": "2026-09-27",
+  "last_rescored_on": "2026-09-27",
+  "next_rescore_due": "2026-10-04",
   "planning_horizon_days": 28,
   "items": [
     {
@@ -3397,6 +3397,43 @@
       "reconsider_conditions": "Stop for target clipping, horizontal overflow, normal-layout regression, unexpected generator change, source/content drift, remote divergence or failed independent review. Reconsider offset if a supported viewport/font setup still clips headings.",
       "implementation_result": "COMPLETED page-local max(104px,6rem), morning P3 closed within tested matrix:390/200 overlap38.5px becomes49.5px clear.36anchor/keyboard/touch/back/image-fallback and110native tests pass; generators twice116files unchanged. Content/schema/SEO bytes preserved after removing style block. Narrow proxy4->8/8, not human/fullactivity evaluation. Exact11scope/417protected pass; independent finalcycle2 full36b5aa6..0d7f7f40571c9d219f5573e711e2c704e4b6d46a PASS/no P0-P3, Mencius 01a0deaf-1737-7670-9afb-5439ddd7c11f read-only. Reviewed0d7f7f4 pushed, exact-SHA Pages36258348272 success17:15:16UTC; guide HTTP200 byte-match/canonical/H1/links and live36anchor/sixhandoff/fallback pass. Marker absent; clean local/origin0/0 verified. Same-nine-doc factual closeout allowed.",
       "next_step": "Weekly synthesis dueSeptember27; preserve all observation windows. Reopen only for new anchor failure in supported settings, not a new content pass."
+    },
+    {
+      "id": "KAL-WEEKLY-003",
+      "title": "Synthesize owner, default and navigation learning for the next research sequence",
+      "kind": "strategy",
+      "status": "in_progress",
+      "registered_on": "2026-09-27",
+      "base_commit": "986f5a8af15cee2d674eb6574fd5ceffa5ad6dac",
+      "exact_paths": ["weekly/2026-09-27-owner-and-start-synthesis.md", "reviews/persona-review-protocol.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-09-27",
+      "evidence_class": "Retained dated source/browser/review records; EDITORIAL_JUDGMENT synthesis, not fresh human evidence",
+      "user_problem": "Parents need a consistent usable start, not more competing URLs or contradictory entry instructions. The completed week's work must inform which research is worth doing next.",
+      "hypothesis": "Comparing source/owner/default/navigation failures can expose an untested assumption and produce a falsifiable rule or priority change rather than repeating completed qualification.",
+      "acceptance": "Trace September21-26 learning to durable artifacts; distinguish tasks/denominators/unknowns; test prior weekly rule; register at most one next evidence-qualified research task, no build; consistent last_rescored_on September27 and next_rescore_due October4, preserving protected windows.",
+      "qa_plan": "Native tests/jq/whitespace; parse changed JSON; reference/source/privacy/scope checks; independent read-only review, exact reviewed range, push-only and clean alignment. No site changes or Pages wait.",
+      "measurement_boundary": "Desk synthesis is not new browser, physical, family, demand or ranking evidence. Overlapping query-thin GSC stays descriptive only.",
+      "reconsider_conditions": "Reject a proposed rule already fully covered or contradicted by retained evidence; do not claim a new learning unit from recap alone. Stop on scope drift, unresolved P0-P2 or remote divergence.",
+      "artifact": "weekly/2026-09-27-owner-and-start-synthesis.md",
+      "decision": "Preserve source-lineage rule; require readable-arrival evidence for changed sticky-header handoffs. Promote previously unselected discovery to planned RES022, not a build or paid batch. Prior tasks/scores/windows unchanged.",
+      "qa_result": "PASS native110/70snapshots/jq/whitespace/exact9paths/420protected/60prioritems/62IDs/31relative references/source-date-privacy checks",
+      "review": {"reviewer_id": "01a0e2c0-34fd-71c1-a4f8-84c2c99eb12a", "reviewer_name": "Gibbs", "read_only": true, "cycle": 1, "verdict": "PASS", "findings": [], "reviewed_base": "986f5a8af15cee2d674eb6574fd5ceffa5ad6dac", "reviewed_target": "frozen nine-path working tree; final committed range pending"},
+      "next_step": "Fresh fetch, exact-path commit, independent final range reconciliation and push-only alignment. After release separately register RES022; next weekly October4."
+    },
+    {
+      "id": "KAL-RES-022",
+      "title": "Discover the next individual-activity parent job from current caregiver questions",
+      "kind": "research",
+      "status": "planned",
+      "evidence_date": "2026-09-27",
+      "evidence_class": "EDITORIAL_JUDGMENT priority from retained weekly synthesis; candidate demand and current questions not yet researched",
+      "evidence_refs": ["weekly/2026-09-27-owner-and-start-synthesis.md"],
+      "user_problem": "The qualified cohort is implemented; selecting another activity by volume or page count would skip the caregiver decision and existing-owner fit.",
+      "hypothesis": "Current public caregiver questions can identify at most one recurring planning or running job worth a separate search/source qualification, without presupposing another URL.",
+      "required_output": "Inspect3-5 current public caregiver questions; retain dated URLs and paraphrased constraints only. Map at most one recurring job to existing owners; inspect its live query family and representative ranking bodies. Return build/upgrade/preserve/defer/reject with exact unresolved gates and evidence classes.",
+      "eligibility_gate": "Next substantive research after reviewed WEEKLY003 release, unless a verified defect or unfinished release supersedes. Register actual date/base/exact paths, persona task, acceptance, QA, measurement and reconsider conditions before substantive edits. No repeat RES015-017/020-021 without named new gap.",
+      "publication_gate": "No page authorized here. New page requires distinct search-supported job, material demand, maintainable source layer, no clean existing fit and roadmap eligibility; implementation must be separately registered and independently reviewed.",
+      "measurement_boundary": "Qualitative anecdotes are not market demand; no current candidate estimate, weak-SERP, top-five, physical or family claim. Use free public sources and relevant dated retained estimates; new paid batch needs explicit budget. Preserve all observation windows and RES018/019 deferrals."
     }
   ]
 }

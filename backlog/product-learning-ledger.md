@@ -4,6 +4,34 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-27 - KAL-WEEKLY-003 Carry Arrival Evidence Forward
+
+- Decision/persona: caregiver follows an activity handoff and must see the
+  intended start under enlarged text; source-grounded retained task, no biography.
+- Hypothesis: explicit source-link/target geometry and visual evidence catch
+  hidden starts that generic link/text-fit checks miss. Prospective, not proven.
+- Sources/classes: [weekly synthesis](../weekly/2026-09-27-owner-and-start-synthesis.md)
+  traces September21-26 reviews; retained MEASURED browser geometry,
+  SOURCE_BACKED instruction audits, RESEARCH_HYPOTHESIS personas and
+  EDITORIAL_JUDGMENT scores/synthesis. No fresh human/browser/search evidence.
+- Result: rocket recorded enlarged-heading checks before bridge required a
+  follow-up for the same class of problem. Add a scoped readable-arrival record
+  to the protocol. Preserve source-lineage rule and reject score/wordcount-only
+  quality inference. Distinct task scores remain incomparable.
+- Action: promote previously unselected discovery to planned RES022, no build.
+  Inspect current caregiver questions, existing owners and one query family in
+  a separately registered transaction; material demand remains a publication gate.
+- Confidence/lesson: moderate, small retained sample. Carry observable route
+  success into the next review, not just the previous page's implementation.
+- Next falsification: a reviewed changed route hides its target in the recorded
+  setup; inspect font/browser/header conditions and revise the check.
+- Boundary: no activity performance, family satisfaction or ranking inference;
+  public-safe GSC omits six article rows/full queries. No fresh paid authority.
+  All observation windows preserved; next weekly review October4.
+- QA/reviewer/release: native110/70snapshots/JSON/whitespace/scope/reference/
+  privacy checks PASS; Gibbs read-only cycle1 PASS, no findings. Final range
+  reconciliation and push pending; release record in `ops/operator-review.md`.
+
 ## 2026-09-26 Afternoon - KAL-IMP-019 Text Size Changes The Landing
 
 - Decision/persona: retained caregiver follows folding link with enlarged text

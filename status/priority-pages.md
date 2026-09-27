@@ -1,6 +1,19 @@
 # Priority Page Status
 
-Last updated: 2026-09-26
+Last updated: 2026-09-27
+
+## September 27 Weekly Synthesis - Reviewed, Release Pending
+
+WEEKLY003 [synthesis](../weekly/2026-09-27-owner-and-start-synthesis.md) adds
+scoped readable-arrival evidence for changed handoffs. Seven article guides;
+the latest public-safe GSC still has only ramp's article row/all9clicks, so
+format superiority and other guides' performance remain unknown. No public
+page changed or browser task rerun today. Completed cohort preserved, including
+chainOctober7/foilOctober8/packOctober9/bridgeOctober10 observation windows.
+Next substantive action RES022: current caregiver questions, existing-owner map
+and one live query-family audit; no new page approved. Native110/structural QA
+PASS; Gibbs independent read-only cycle1 PASS, no findings. Final range/push
+pending. Next weekly review October4; no paid calls or Pages work.
 
 ## September 26 Afternoon Bridge Anchor Repair - Released
 

@@ -1,5 +1,31 @@
 # Current Cycle
 
+## Run Checkpoint - September 27 Weekly Learning Synthesis
+
+- Invocation `2026-09-27T09:04:44.508Z`; actual start checked11:56:15UTC,
+  pilot active. No newer redirect. IMP019 complete, no pending release.
+- Action `KAL-WEEKLY-003`, due weekly synthesis and rolling roadmap rescore.
+  Base `986f5a8af15cee2d674eb6574fd5ceffa5ad6dac`, clean main/origin0/0
+  after fetch; no incoming changes or dirty work.
+- Exact9 paths: `weekly/2026-09-27-owner-and-start-synthesis.md`,
+  `reviews/persona-review-protocol.md`, `backlog/product-learning-ledger.md`,
+  `backlog/seo-research-review-backlog.md`, `status/priority-pages.md`,
+  `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
+  `ops/seo-roadmap.md`. No site/generator/data/paid/automation changes.
+- Phase REVIEWED, RELEASE PENDING. Dated synthesis preserves source-lineage rule, adds
+  scoped readable-arrival proof and promotes planned RES022 caregiver-question
+  discovery after the completed cohort. No new activity/build approved.
+  Native110/70snapshots/jq/whitespace/exact9paths/420protected/60prioritems/
+  62IDs/31references/privacy/date checks PASS. Gibbs read-only cycle1 PASS,
+  no P0-P3, `01a0e2c0-34fd-71c1-a4f8-84c2c99eb12a`. Next fresh fetch,
+  exact-path commit, final reviewed-range reconciliation then push/alignment.
+- Completion still requires reviewed push-only commit and alignment. Synthesis,
+  consistent September27/October4 review dates, planned next research and
+  independent working-tree PASS established; no live-site deployment applies.
+- Keep every observation window, deferred control gate, historical score and
+  evidence distinction. No fresh browser/user test or keyword estimate claimed.
+  No blocker. Next research is selected only after the synthesis, not built here.
+
 ## Run Checkpoint - September 26 Afternoon Enlarged-Text Navigation
 
 - Invocation `2026-09-26T17:01:06.365Z`; time checked17:01:19UTC, pilot active.

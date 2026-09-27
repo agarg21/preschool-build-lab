@@ -14,7 +14,25 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
-## Candidate Qualification Queue - September 18
+## Current Sequence - September 27
+
+`KAL-WEEKLY-003` [synthesis](../weekly/2026-09-27-owner-and-start-synthesis.md)
+promotes `KAL-RES-022` as the next research transaction, not an approved build.
+RES015-017 and RES020-021 implementations are released; the dated qualification
+overlays below are history, not unfinished assignments. No generic repeat pass.
+
+RES022: separately register base/exact scope, inspect3-5 current public caregiver
+questions, retain only dated URLs/paraphrased constraints, map at most one
+recurring job to existing owners, then inspect its live query family and ranking
+bodies. Return build/upgrade/preserve/defer/reject with explicit unresolved gates.
+Small anecdotes are not demand; no topic, URL, weak-SERP or rank claim preapproved.
+Use free sources; another paid batch needs new budget. Keep RES018/019 deferred,
+product reviews firsthand-gated and all observation windows. New readable-arrival
+evidence requirement applies to changed handoffs; next weekly synthesis October4.
+Native110 and structural QA PASS; independent read-only cycle1 PASS, no findings.
+Final range reconciliation/push pending; release record in `ops/operator-review.md`.
+
+## Candidate Qualification Queue - September 18 (Historical Overlays)
 
 September25 afternoon RES021 [bridge lineage audit](../reviews/bridge-rescue-lineage-audit-2026-09-25.md)
 closes the named mechanism/handoff audit gap, not repeat generic qualification.
@@ -121,7 +139,9 @@ honestly research-backed non-product guidance, but outcomes stay UNKNOWN.
   observation evidence. Change one falsifiable rule/priority or retire a weak
   hypothesis. Reuse the learning ledger and weekly process; register a dated
   new transaction when due, rather than reopening released `KAL-WEEKLY-001`.
-- **Later discovery, unselected:** when the qualified queue is exhausted or
+- **Discovery promoted September27 to RES022:** the qualified cohort is exhausted;
+  execute the current sequence above in a separate transaction. Original trigger:
+  when the qualified queue is exhausted or
   rejected, inspect three to five current caregiver questions and map the
   repeated job to existing cards before choosing another demand batch. Do not
   preapprove unfamiliar activity names or spend based on backlog size.
