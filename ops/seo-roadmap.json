@@ -3483,7 +3483,8 @@
       "id": "KAL-RES-024",
       "title": "Audit parent discovery of an existing individual guide from the activity library",
       "kind": "research",
-      "status": "in_progress",
+      "status": "completed",
+      "completed_on": "2026-09-28",
       "registered_on": "2026-09-28",
       "base_commit": "ab0ee26db8bcdf50a48e74cfd50c8bcee2ef0a4c",
       "exact_paths": ["reviews/ramp-library-discovery-2026-09-28.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3504,8 +3505,10 @@
       "measurement_boundary": "Proxy usability task, not human satisfaction, physical performance or new demand. Preserve all observation windows; no public edit in research transaction, new paid batch or indexing request.",
       "artifact": "reviews/ramp-library-discovery-2026-09-28.md",
       "decision": "IMPROVE existing ramp journey. Library keyboard/touch reaches compact card8/22 with critical adult/rescue gaps and no direct guide link; Indoor Activities detour works, so guide not unreachable. Destination H1 clips at390/root200%, content431px. Separate bounded IMP020 repair, no new page or library redesign.",
-      "qa_result": "PASS native110/71snapshots/jq/whitespace/exact9paths/143protected/63prioritems/65IDs/8newreferences/source/privacy; browser route/screenshots/Back/no-video/large-text and five live-byte matches. Independent review pending.",
-      "next_step": "Complete independent read-only review and push-only release; then separately register IMP020 existing-ramp journey repair."
+      "qa_result": "PASS native110/71snapshots/jq/whitespace/exact9paths/143protected/63prioritems/65IDs/8newreferences/source/privacy; browser route/screenshots/Back/no-video/large-text and five live-byte matches. Independent cycle1 PASS,109 non-writing tests rerun.",
+      "review": {"verdict": "PASS", "read_only": true, "cycle": 1, "reviewer_id": "01a0e900-e16d-7e22-96eb-9109fdbee325", "reviewer_name": "Arendt", "findings": [], "reviewed_base": "ab0ee26db8bcdf50a48e74cfd50c8bcee2ef0a4c", "reviewed_target": "de3004c13ba23e5152839d28c65fb9f0ccde9634", "reconciliation": "All9 frozen hashes matched unchanged immediately before commit; same-path factual QA/review/release closeout covered. Material edits require re-review."},
+      "release": {"state": "push-only", "reviewed_commit": "de3004c13ba23e5152839d28c65fb9f0ccde9634", "alignment": "clean local/origin0/0 and remote main exact SHA verified", "site_changed": false},
+      "next_step": "Separately register IMP020 existing-ramp journey repair, not repeat audit or hunt qualification. Next weeklyOctober4."
     },
     {
       "id": "KAL-IMP-020",

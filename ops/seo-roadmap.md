@@ -12,13 +12,16 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
-0. September28 afternoon `KAL-RES-024` REVIEW_PENDING, baseab0ee26/exact9paths.
+0. September28 afternoon `KAL-RES-024` COMPLETED, baseab0ee26/exact9paths.
    [Ramp discovery audit](../reviews/ramp-library-discovery-2026-09-28.md):
    keyboard/touch library entry works; compact card8/22 lacks required adult
    setup/rescue and direct guide link. Indoor hub detour works; not unreachable.
    Guide H1 clips at390/root200% (431px extent). IMPROVE, no public edit.
-   Native110/71snapshots and browser evidence recorded; independent review and
-   structural checks/release remain. Older dated sequences are history.
+   Native110/71snapshots/structural/browser QA recorded; Arendt independent
+   read-only cycle1 PASS/no findings. All9 frozen hashes matched unchanged in
+   reviewedde3004c, pushed after fresh fetch/no divergence, clean local/origin
+   and remote SHA verified. Same-path factual closeout covered; no Pages.
+   Older dated sequences are history.
 1. Next separately register planned `KAL-IMP-020`, bounded existing ramp card
    start/depth handoff and destination large-text heading repair. No new URL,
    library redesign or guide-body expansion. Preserve all protected windows;

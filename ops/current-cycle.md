@@ -19,7 +19,7 @@
   manageable preparation; exact materials/rescue are guide-derived task probes,
   not a reported family biography. Guide owner:
   articles/cardboard-box-car-ramp-preschoolers.html.
-- Phase REVIEW_PENDING. Desktop keyboard/mobile touch reach ramp card, but no
+- Phase COMPLETED. Desktop keyboard/mobile touch reach ramp card, but no
   direct guide link or adult setup/rescue. Internal Indoor Activities detour
   works; guide is not unreachable. Card8/22 proxy critical failure, not human
   testing. Guide H1 clips at390px/root200%, measured431px content extent.
@@ -27,8 +27,12 @@
 - Browser Back/no-video/normal-text/large-text checks recorded. Node REPL
   failed; isolated Playwright fallback used and closed. Two harness navigation
   failures recorded; controlled DOMContentLoaded run succeeded. Native110 and
-  all71 snapshots PASS; no new GSC. Remaining: structural/privacy checks,
-  independent read-only review, exact-path push and local/origin verification.
+  all71 snapshots PASS; no new GSC. Exact9paths/143protected/63prioritems/65IDs/
+  8references/JSON/whitespace/privacy PASS. Arendt independent read-only cycle1
+  PASS/no P0-P3;109 non-writing native tests independently passed. All9 frozen
+  hashes matched unchanged in reviewed `de3004c13ba23e5152839d28c65fb9f0ccde9634`,
+  pushed after fresh fetch/no divergence. Clean local/origin0/0 and remote SHA
+  verified. Same-path factual closeout covered; documentation-only, no Pages.
   Preserve chainOct7/foilOct8/packOct9/bridgeOct10; weeklyOctober4. No blocker.
   Next transaction: register IMP020 exact implementation scope before edits.
 

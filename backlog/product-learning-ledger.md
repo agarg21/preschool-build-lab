@@ -27,8 +27,10 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   enlarged heading in a separately registered repair; preserve if reproduced
   evidence contradicts the finding. Do not generalize to all37cards.
 - Boundary: GSC unchanged September27/through25, not path analytics. All
-  windows stay; weeklyOctober4. Native110/71snapshots/browser checks recorded;
-  independent review, structural QA and push-only release pending.
+  windows stay; weeklyOctober4. Native110/71snapshots/structural/browser QA PASS;
+  Arendt independent read-only cycle1 PASS/no findings. Nine frozen hashes
+  unchanged in reviewedde3004c, pushed; clean local/origin and remote SHA
+  verified. COMPLETED push-only; same-path factual closeout covered.
 
 ## 2026-09-28 - KAL-RES-023 A Photograph Can Mean Two Different Jobs
 
