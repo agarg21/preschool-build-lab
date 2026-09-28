@@ -2,6 +2,17 @@
 
 Last updated: 2026-09-28
 
+## September 28 Afternoon Ramp Discovery - Review Pending
+
+RES024 [audit](../reviews/ramp-library-discovery-2026-09-28.md) finds a working
+library link but no direct ramp-card-to-guide link, generic compact adult setup
+and no rescue. Card8/22 is a critical task failure, not a family-test score.
+Indoor hub recovery works; guide not unreachable. Its H1 clips at390/root200%.
+Plan bounded IMP020 ramp journey repair; preserve seven guides/37cards and
+all protected windows. Native110/71snapshots/browser checks done; structural
+QA and independent review/release pending. GSC unchanged sinceSeptember27,
+through25; no journey/causal inference. No site edit or Pages in this action.
+
 ## September 28 Hunt Qualification - Released
 
 RES023 [audit](../seo/one-room-hunt-qualification-2026-09-28.md) DEFERs the

@@ -1,5 +1,25 @@
 # Operator Review
 
+## KAL-RES-024 - September 28 Afternoon
+
+Baseab0ee26db8bcdf50a48e74cfd50c8bcee2ef0a4c, clean after fetch/no incoming.
+Exact9 research/operator paths from roadmap; Master sole writer. Frozen ramp
+library discovery task, desktop1280x900 keyboard and mobile390x844 touch,
+Back/no-video/root200% and visible blocks. Card8/22 critical task gaps; internal
+Indoor hub detour works. Guide H1 clips at390/root200% with431px extent.
+Five live files200/byte-identical to base. No site edit, new page or paid call.
+Native110/71snapshot validation, changedJSON/whitespace and exact9paths PASS.
+Protected143 site/script/tool/data/workflow blobs match base;63 prior roadmap
+items and top-level fields preserved;65 unique IDs;8 new relative references
+resolve. No CSV change. Privacy/source review complete; independent review
+pending. One initial byte-comparison harness exceeded its output buffer; a
+git-blob hash comparison rerun passed. Candidate IMP020 only,
+no implementation in this transaction. No generators or Pages apply.
+Review must verify modest claims, evidence limits, rubric8/22, actual indirect
+route and text-fit evidence, prior roadmap items/windows and exact nine paths.
+Same-path factual QA/review/release closeout will be requested; no substantive
+post-review edits without another review. Release pending.
+
 ## KAL-RES-023 - September 28
 
 Base45daa60862f8eca7bde1b9688b477caafd624267, initial clean main/origin after

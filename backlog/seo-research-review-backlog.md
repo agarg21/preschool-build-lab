@@ -14,7 +14,19 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
-## Current Sequence - September 28
+## Current Sequence - September 28 Afternoon
+
+RES024 [ramp audit](../reviews/ramp-library-discovery-2026-09-28.md) provides
+observed IMPROVE evidence, not an assumed discovery failure. Library entry
+works by keyboard/touch; compact card lacks required adult/rescue/depth link.
+Indoor hub detour works. Guide enlarged H1 clips at390/root200%. Plan IMP020
+guide-consistent compact start/direct handoff and scoped heading fit, after
+separate exact-path implementation registration. No new guide or paid batch.
+Research native110/71snapshots/browser checks done; structural QA, independent
+review and push-only release pending. All observation windows/weeklyOct4 stay.
+Below is dated history, not another active hunt or discovery assignment.
+
+## September 28 Morning - Completed
 
 RES023 [qualification](../seo/one-room-hunt-qualification-2026-09-28.md) closes
 active hunt qualification: DEFER exact photo-to-existing-object page; reject

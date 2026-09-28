@@ -6,6 +6,20 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-28 Afternoon - Library Ramp Handoff
+
+RES024 [audit](../reviews/ramp-library-discovery-2026-09-28.md): source-grounded
+manageable-preparation task with guide-derived materials/adult/mission/rescue
+outputs, no-video stress. Desktop1280x900 Tab8/Enter and mobile390x844 touch
+reach the compact ramp card. Card-only8/22 over11dimensions; mixed-age and
+educational-purpose N/A with reasons. Critical adult/rescue gaps; no direct
+guide link. Internal Indoor hub recovery works, not an unreachable guide.
+All library/card block types and guide text sections audited; guide visual
+checks limited to start/rescue/arrival. Back/no-video work; root200% card fits,
+guide H1 clips to431px extent in requested390 viewport. Proxy, not human test.
+IMPROVE; planned IMP020 existing-ramp journey repair, not a new guide or global
+redesign. Native110/71snapshots PASS; independent review/release pending.
+
 ## 2026-09-28 - Photo Cue Or Photo-Making Task?
 
 RES023 [qualification](../seo/one-room-hunt-qualification-2026-09-28.md) freezes

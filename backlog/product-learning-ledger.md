@@ -4,6 +4,32 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-28 Afternoon - KAL-RES-024 Depth Needs A Direct Route
+
+- Decision/persona: manageable preschool start with cardboard/books/car;
+  library entry must yield materials, adult job, child mission and rescue,
+  without video dependency. Q2 supports preparation, exact probes guide-derived.
+- Hypothesis: parent can discover/start a fitting existing activity without
+  another broad search. Reachability supported through an internal detour;
+  direct, qualified compact start not supported. Do not claim unreachable.
+- Evidence: [audit](../reviews/ramp-library-discovery-2026-09-28.md), dated
+  September28 MEASURED keyboard/touch routes, screenshots/geometry/live bytes;
+  retained SOURCE_BACKED Q2, RESEARCH_HYPOTHESIS persona and EDITORIAL_JUDGMENT
+  scoring. No real caregiver, child or physical test.
+- Result: IMPROVE. Card8/22 critical adult/rescue gaps, no direct depth link.
+  Card -> Indoor hub -> guide works. Guide heading clips at390/root200%,
+  extent431px. Plan bounded existing-ramp IMP020 repair, no new page.
+- Confidence: high in observed links/clipping; moderate in rubric, unknown
+  human cost/preference or causal search impact. No after-state score.
+- Lesson: a maintained deep guide does not keep an older compact entry in
+  agreement automatically; test the actual selection-to-start route.
+- Falsification: working direct link, reconciled compact start and fitting
+  enlarged heading in a separately registered repair; preserve if reproduced
+  evidence contradicts the finding. Do not generalize to all37cards.
+- Boundary: GSC unchanged September27/through25, not path analytics. All
+  windows stay; weeklyOctober4. Native110/71snapshots/browser checks recorded;
+  independent review, structural QA and push-only release pending.
+
 ## 2026-09-28 - KAL-RES-023 A Photograph Can Mean Two Different Jobs
 
 - Decision/persona: retained low-preparation caregiver/non-reader task; adult

@@ -12,6 +12,18 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
+0. September28 afternoon `KAL-RES-024` REVIEW_PENDING, baseab0ee26/exact9paths.
+   [Ramp discovery audit](../reviews/ramp-library-discovery-2026-09-28.md):
+   keyboard/touch library entry works; compact card8/22 lacks required adult
+   setup/rescue and direct guide link. Indoor hub detour works; not unreachable.
+   Guide H1 clips at390/root200% (431px extent). IMPROVE, no public edit.
+   Native110/71snapshots and browser evidence recorded; independent review and
+   structural checks/release remain. Older dated sequences are history.
+1. Next separately register planned `KAL-IMP-020`, bounded existing ramp card
+   start/depth handoff and destination large-text heading repair. No new URL,
+   library redesign or guide-body expansion. Preserve all protected windows;
+   next weeklyOctober4. Do not repeat hunt qualification or this audit.
+
 0. September28 `KAL-RES-023` COMPLETED push-only,
    base45daa60, exact9paths. [Qualification](../seo/one-room-hunt-qualification-2026-09-28.md)
    DEFERs exact photo-to-object page; source7/20 desk proxy, critical gaps.
