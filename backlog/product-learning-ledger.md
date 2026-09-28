@@ -4,6 +4,32 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-28 - KAL-RES-023 A Photograph Can Mean Two Different Jobs
+
+- Decision/persona: retained low-preparation caregiver/non-reader task; adult
+  shows a cue and child identifies an existing object, no printer/collection.
+- Hypothesis: a source-reconciled photo-to-object default adds enough utility
+  over spoken observation to qualify a new guide. Not supported for promotion.
+- Evidence: [qualification](../seo/one-room-hunt-qualification-2026-09-28.md),
+  September28 SOURCE_BACKED bodies/visuals, limited indexed leads, retained
+  TOOL_ESTIMATE broad demand, RESEARCH_HYPOTHESIS personas and EDITORIAL_JUDGMENT
+  source-completeness score. No browser, physical or family trial today.
+- Result: DEFER exact page and close active qualification. REJECT_HYPOTHESIS
+  that evidence suffices to build. PBS already has real-object/property play;
+  current photo-query leads often mean taking pictures. Adjacent card guide
+  supplies setup/rescue but is not the candidate mechanism.
+- Lesson: distinguish producing photos from recognizing photo cues, and real
+  objects from duplicated drawings before transferring demand or instructions.
+- Confidence: moderate in non-promotion; latent exact demand/preference low.
+- Reopening trigger: distinct recurring intent/material demand plus maintained
+  exact procedure and incremental parent utility, or a newly observed existing
+  workflow failure. No repeated hunt qualification merely because cadence runs.
+- Next: RES024 separately registered existing-guide discovery task, no assumed
+  defect or new-page approval. All observation windows and weeklyOctober4 stay.
+- Boundary: source audit is today's learning;7/20 desk score is not comparable
+  to yesterday's9/24 rendered competitor score. Outcomes/rank UNKNOWN.
+- QA/review/release pending in `ops/operator-review.md`.
+
 ## 2026-09-27 Afternoon - KAL-RES-022 Pictures Are Not A Differentiator
 
 - Family decision/task: caregiver of a non-reader needs a manageable indoor

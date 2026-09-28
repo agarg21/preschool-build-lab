@@ -1,5 +1,29 @@
 # Current Cycle
 
+## Run Checkpoint - September 28 Hunt Qualification
+
+- Invocation `2026-09-28T09:01:36.626Z`; current time checked09:01:46UTC,
+  pilot active. No newer redirect. RES022 released; next weeklyOctober4.
+- Action `KAL-RES-023`, qualify one-room non-reader hunt mechanism and
+  incremental parent utility. Base `45daa60862f8eca7bde1b9688b477caafd624267`,
+  clean main/origin after fetch, no incoming commits.
+- Exact9 paths: `seo/one-room-hunt-qualification-2026-09-28.md`,
+  `backlog/product-learning-ledger.md`, `backlog/seo-research-review-backlog.md`,
+  `backlog/persona-review-log.md`, `status/priority-pages.md`,
+  `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
+  `ops/seo-roadmap.md`. No site/generator/data/paid/automation changes.
+- Phase QA/REVIEW. Five bodies plus one indexed-only lead and two source
+  visuals audited. Photo-taking intent differs from photo-cue recognition;
+  adjacent spoken/picture guidance already useful. Candidate7/20 desk proxy,
+  critical exact-cue/control gaps, not rendered or human testing.
+  Decision DEFER exact page, reject current build eligibility, close active
+  qualification with explicit reopening gates. Next RES024 planned existing-
+  guide discovery task; no assumed defect or new page.
+  Next executable step: native/JSON/scope/privacy/reference QA, independent
+  read-only review, exact reviewed push-only release/alignment. No blocker.
+  No new GSC sinceSeptember27;71validate, latest267/9 throughSeptember25.
+- Preserve all observation windows and RES018/019; no build presumed eligible.
+
 ## Run Checkpoint - September 27 Afternoon Caregiver Discovery
 
 - Invocation `2026-09-27T17:00:47.049Z`; time checked17:00:55UTC, pilot active.

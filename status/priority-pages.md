@@ -1,6 +1,17 @@
 # Priority Page Status
 
-Last updated: 2026-09-27
+Last updated: 2026-09-28
+
+## September 28 Hunt Qualification - Review Pending
+
+RES023 [audit](../seo/one-room-hunt-qualification-2026-09-28.md) DEFERs the
+photo-to-existing-object guide and closes active qualification; sources do not
+establish enough distinct utility/demand or exact controls to promote it.
+No page added. Next planned RES024 tests discovery of existing guides rather
+than repeating hunt research. Seven guides/37cards and all windows preserved.
+No new GSC sinceSeptember27;71snapshots validate, latest267/9 throughSeptember25.
+No causal conclusions or missing-query-as-zero inference. QA/review/release
+pending; documentation-only, no Pages. Weekly synthesis dueOctober4.
 
 ## September 27 Afternoon Discovery - Released
 
