@@ -22,8 +22,11 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   in production/new recorded viewport; reopen as a verified defect.
 - Boundary: overlapping GSC261/9 vs267/9 not causal; full queries missing.
   Protect ramp throughOctober13 except defects; all other windows unchanged.
-- QA: native113/72snapshots/local generator/idempotence/link/browser checks PASS.
-  Independent review and release pending, not yet COMPLETED.
+- QA: native113/72snapshots/generator/idempotence/link/browser checks PASS.
+  Mill independent read-only cycle1 PASS/no findings; reviewed85c1c0b pushed,
+  exact-SHA Pages36551177033 SUCCESS. Four live files200/byte-identical; live
+  four-mode task/metadata/links/image PASS after one image-readiness harness
+  retry. Clean local/origin/remote SHA verified. COMPLETED; factual closeout covered.
 
 ## 2026-09-28 Afternoon - KAL-RES-024 Depth Needs A Direct Route
 

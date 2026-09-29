@@ -2,17 +2,19 @@
 
 Last updated: 2026-09-29
 
-## September 29 Ramp Journey - Review Pending
+## September 29 Ramp Journey - Released
 
 IMP020 [repair](../reviews/ramp-journey-repair-2026-09-29.md): ramp card now has
 guide-consistent materials/adult/mission/rescue and a direct setup link. Guide
 heading fit repaired, body/search identity preserved. Seven guides/37cards,
 66sitemap URLs unchanged. Same-task proxy20/22, four local browser modes PASS;
-native113/72snapshots and local generator/link checks PASS. Independent review
-and exact-SHA Pages/production checks pending. Not a completed release.
+native113/72snapshots and local generator/link checks PASS. Mill independent
+read-only cycle1 PASS/no findings. Reviewed85c1c0b pushed; Pages36551177033
+SUCCESS, live four-file bytes and four-mode task/metadata/links/images PASS.
+Clean local/origin/remote SHA verified. COMPLETED; factual closeout covered.
 GSCSeptember28 through26:261impressions/9clicks, ramp179/8,10/10priorityindexed;
 overlapping windows not causal. Six guide rows/full queries unavailable, not0.
-After release protect ramp throughOctober13 except defects; other windows stay.
+Protect ramp throughOctober13 except defects; other windows stay.
 
 ## September 28 Afternoon Ramp Discovery - Released
 

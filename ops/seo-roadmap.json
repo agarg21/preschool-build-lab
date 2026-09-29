@@ -3514,7 +3514,8 @@
       "id": "KAL-IMP-020",
       "title": "Repair the existing ramp compact start, guide handoff and large-text arrival",
       "kind": "implementation",
-      "status": "in_progress",
+      "status": "completed",
+      "completed_on": "2026-09-29",
       "registered_on": "2026-09-29",
       "base_commit": "dbede53135f786f282858c4b09375ce14298ee7e",
       "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "tools/cardboard-ramp-first-start.test.mjs", "site/cards.html", "site/cards/cardboard-car-ramp.html", "site/articles/cardboard-box-car-ramp-preschoolers.html", "site/sitemap.xml", "reviews/ramp-journey-repair-2026-09-29.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3535,10 +3536,10 @@
       "reconsider_conditions": "Narrow if the direct-link absence or clipping no longer reproduces. Stop on generated-output spill, changed guide search ownership, unsupported claims, unresolved P0-P2, divergence or production regression.",
       "artifact": "reviews/ramp-journey-repair-2026-09-29.md",
       "decision": "IMPROVE implemented; same card task8/22 to20/22 over11dimensions, all critical outputs present. Four local browser modes fit and direct setup arrival exposes heading/first instruction; no new URL or guide body change.",
-      "qa_result": "PASS native113/72snapshots/local four-mode browser/generator idempotence/71HTML834links/16exactpaths/421protected/64prioritems/65IDs/JSON/source/privacy; independent review pending",
-      "review": {"verdict": "PENDING", "cycle": 1},
-      "release": {"state": "pending", "site_changed": true},
-      "next_step": "Complete independent review then exact-SHA Pages and production task/bytes verification. After release register one free3-5 caregiver-question discovery outside closed photo-hunt hypothesis; distinct unresolved output/owner fit before qualification. WeeklyOctober4."
+      "qa_result": "PASS native113/72snapshots/local and live four-mode browser/generator idempotence/71HTML834links/16exactpaths/421protected/64prioritems/65IDs/JSON/source/privacy; four live files200/byte-identical and canonical/H1/link checks. One live image-readiness harness retry, no product regression.",
+      "review": {"verdict": "PASS", "read_only": true, "cycle": 1, "reviewer_id": "01a0ec88-ec1a-7901-b324-6002fe2517ab", "reviewer_name": "Mill", "findings": [], "reviewed_base": "dbede53135f786f282858c4b09375ce14298ee7e", "reviewed_target": "85c1c0bc7e0e85ccbfac26162de1a36261a1d3d2", "reconciliation": "All16 frozen SHA256 matched unchanged before commit. Same-path factual QA/review/release closeout covered; substantive edits require re-review. Independently reran four browser modes and112 non-writing tests."},
+      "release": {"state": "deployed", "reviewed_commit": "85c1c0bc7e0e85ccbfac26162de1a36261a1d3d2", "pages_run": "https://github.com/agarg21/preschool-build-lab/actions/runs/36551177033", "pages_result": "success", "marker": "absent; exact-SHA deployment and four affected live-file byte matches verified", "alignment": "clean local/origin0/0 and remote main exact SHA verified at reviewed release", "site_changed": true},
+      "next_step": "Register one free3-5 current caregiver-question discovery outside closed photo-hunt hypothesis; distinct unresolved planning output and owner fit before qualification. Do not repeat completed ramp audit. Ramp observationOctober13 except defects; weeklyOctober4."
     }
   ]
 }

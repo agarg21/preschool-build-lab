@@ -16,7 +16,11 @@ Desktop1280x900 keyboard,390x844 touch,390/root200% and320x844 fit; direct setup
 arrival clears header and exposes first instruction, Back/no-video work.
 Every changed card block/library entry and guide heading handoff audited;
 unchanged guide content retains RES024 audit. Proxy only, no human outcomes.
-Native113/72snapshots/local QA PASS; independent review/release pending.
+Native113/72snapshots/local QA PASS; Mill independent read-only cycle1 PASS,
+agrees20/22 and independently reruns four modes. Reviewed85c1c0b pushed;
+Pages36551177033 SUCCESS, four live bytes match, live four-mode task/metadata/
+links/images PASS. One image-readiness harness retry, no site change. Clean
+local/origin/remote SHA verified. COMPLETED; same-path factual closeout covered.
 
 ## 2026-09-28 Afternoon - Library Ramp Handoff
 

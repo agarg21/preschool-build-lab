@@ -8,11 +8,20 @@ Compact ramp start/library summary, guide heading CSS/setup anchor, two sitemap
 dates, three regression tests and evidence/status records. No other site edit.
 Native113/72snapshots/local four-mode browser task, idempotence and71HTML/834
 local links/assets/fragments PASS. Same card task8/22 ->20/22, proxy only;
-guide body/metadata unchanged. Review cycle1 pending; release not authorized
-until independent PASS/PASS_WITH_P3. Exact-SHA Pages/production task and four
-file bytes required. No release marker found in site or Pages workflow;
-verify exact deployment SHA plus affected bytes instead. Factual closeout
-may record actual review/release evidence; no unsupported completion claim.
+guide body/metadata unchanged. Mill independent read-only cycle1 PASS/no P0-P3,
+reviewer01a0ec88-ec1a-7901-b324-6002fe2517ab. Independently verified112non-writing
+tests/72snapshots/71HTML834references/421protected/64prioritems65IDs/source/
+rubric20of22,13provided and6independent screenshots; reran four browser modes,
+Tab8 thenTab5/Enter, touch/Back/directhash/blockednetwork. Idempotence supplied.
+All16frozen hashes matched unchanged immediately before reviewed commit
+85c1c0bc7e0e85ccbfac26162de1a36261a1d3d2; complete base-to-commit range inspected,
+fresh fetch/no divergence and exact-path push. Clean local/origin0/0 and remote
+SHA verified. Pages36551177033 SUCCESS for exact reviewed SHA; no release marker
+exists. Four live files200/byte-identical and three canonical/H1/link surfaces
+PASS; live four-mode task/no-video/Back/image/arrival checks PASS. First image
+assertion raced decode; temporary harness fixed and one retry PASS, no product
+edit. Production screenshots viewed. COMPLETED; no blocker. Same-path factual
+QA/review/release closeout explicitly covered; substantive changes need review.
 
 ## KAL-RES-024 - September 28 Afternoon
 

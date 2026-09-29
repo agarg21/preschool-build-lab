@@ -7,7 +7,7 @@
 - Baseline clean89521ba. Fetched/inspected incoming dbede53: September28
   GSC JSON/Markdown only. Fast-forwarded cleanly to
   `dbede53135f786f282858c4b09375ce14298ee7e`.
-- Phase REVIEW_PENDING. Objective: same frozen library -> ramp card -> guide
+- Phase COMPLETED. Objective: same frozen library -> ramp card -> guide
   materials/adult/mission/rescue task, no video dependency; fix guide large text.
 - Exact16 paths: `scripts/generate_card_pages.py`,
   `scripts/generate_sitemap.py`, `tools/cardboard-ramp-first-start.test.mjs`,
@@ -27,10 +27,17 @@
   library summary reconciled. Guide-only heading CSS/setup anchor repaired.
   Same task8/22 ->20/22 over11dimensions, proxy only. Four local browser modes
   PASS, no overflow/errors; enlarged heading/start clear of sticky header.
-- Next executable step: freeze16paths, complete independent read-only review,
-  then exact-path release and exact-SHA Pages/production task/bytes verification.
-  Native113/72snapshots, generators/idempotence and71HTML/834links PASS.
-  No blocker, paid calls, new URL or completed release claim yet.
+- Native113/72snapshots, generators/idempotence and71HTML/834links PASS.
+  Mill independent read-only cycle1 PASS/no findings; all16frozen hashes match
+  reviewed85c1c0bc7e0e85ccbfac26162de1a36261a1d3d2, pushed after fresh fetch.
+  Exact-SHA Pages36551177033 SUCCESS, four live files200/byte-identical;
+  live four-mode task/metadata/links/images PASS. Image-readiness harness race
+  fixed, one retry PASS; no product regression. No release marker exists.
+  Clean local/origin0/0 and remote SHA verified at reviewed release. Same-path
+  factual closeout covered; no blocker, paid calls or new URL.
+- Next executable step: separately register free3-5 current caregiver-question
+  discovery outside closed photo-hunt hypothesis; name unresolved planning
+  output and existing-owner fit before qualification, not another ramp audit.
 - Preserve chainOct7/foilOct8/packOct9/bridgeOct10; new ramp observation through
   October13 after release, except verified defects. New GSC throughSep26:
   261/9 overall vs267/9; ramp179/8 vs183/9; home11/1 vs11/0. Overlapping windows,

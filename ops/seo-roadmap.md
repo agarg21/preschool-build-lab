@@ -12,13 +12,16 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
-0. September29 `KAL-IMP-020` REVIEW_PENDING, base dbede53/exact16paths.
+0. September29 `KAL-IMP-020` COMPLETED, base dbede53/exact16paths.
    [Repair](../reviews/ramp-journey-repair-2026-09-29.md) implements compact ramp
    start/rescue/direct setup handoff and local heading fit; no new URL/body
    expansion. Same task8/22 ->20/22; four local browser modes and native113/
-   72snapshots/generator/link QA PASS. Independent review and production release
-   pending; finish this transaction first. Ramp windowOctober13 except defects.
-1. After release, register free3-5 current caregiver-question discovery outside
+   72snapshots/generator/link QA PASS. Mill independent read-only cycle1 PASS,
+   all16frozen hashes matched reviewed85c1c0b, pushed. Exact-SHA Pages36551177033
+   SUCCESS; four live files200/byte-identical and live four-mode task/metadata/
+   links/images PASS. Clean local/origin/remote SHA verified; factual closeout
+   covered. Ramp windowOctober13 except defects, no new page or blocker.
+1. Next register free3-5 current caregiver-question discovery outside
    closed photo-hunt hypothesis. Name distinct unresolved output and owner fit
    before a new qualification. No paid batch/new-page approval. WeeklyOctober4.
    Older dated sequences below are history, not active instructions.

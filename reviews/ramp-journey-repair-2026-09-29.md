@@ -150,5 +150,36 @@ sitemap remains66URLs with only card/library dates changed. Guide normalized
 bytes match base after removing this action's style and setup id. Exact-path,
 JSON, whitespace, source/privacy checks PASS;16exactpaths,421protected tracked
 files,64priorroadmap items and65unique IDs verified at freeze. No CSV changed.
-Independent review and exact-SHA Pages/production verification pending; not
-COMPLETED yet. No new page, paid call, indexing request or automation change.
+Mill independent read-only cycle1 PASS, no P0-P3 findings, reviewer
+`01a0ec88-ec1a-7901-b324-6002fe2517ab`. Independently confirmed112 non-writing
+tests,72snapshots,71HTML/834references,421protected files,64prioritems/65IDs,
+guide normalized bytes/sitemap scope, source lineage/section audit and20/22.
+Reran all four local browser modes, actual desktop Tab8 thenTab5/Enter, Back,
+direct hash and blocked network; inspected13 supplied and6 independent shots.
+Generator idempotence is Master evidence, not reviewer-reproduced. An initial
+reviewer pre-load CSS measurement raced load; settled reruns passed.
+All16 reviewer-frozen SHA256 matched unchanged immediately before committing
+`85c1c0bc7e0e85ccbfac26162de1a36261a1d3d2`. Factual same-path closeout covered;
+substantive changes require re-review. No new page, paid call or indexing action.
+
+### Production Release
+
+- Fresh fetch/no divergence; exact16paths staged, full unpushed range inspected,
+  committed/pushed. Clean local/origin0/0 and remote SHA verified at85c1c0b.
+- [Exact-SHA Pages run](https://github.com/agarg21/preschool-build-lab/actions/runs/36551177033)
+  SUCCESS for85c1c0bc7e0e85ccbfac26162de1a36261a1d3d2. Workflow has no release
+  marker; exact deployment SHA plus affected-file byte equality used.
+- September29 live card/library/guide/sitemap: HTTP200, SHA256 equals reviewed
+  files. Three HTML pages have one H1, expected canonical and valid local-target
+  links (43/10/12 respectively); full local fragments already verified.
+- Live four-mode task PASS with the same geometry table, no page errors,
+  loaded original image, actual keyboard/touch/Back/direct-hash/no-video.
+  Production desktop/mobile card and enlarged arrival/root screenshots viewed.
+- First live harness assertion checked image.complete immediately after DOM
+  content loaded. Corrected temporary harness to await image.decode; one retry
+  PASS. No product code change, broken image or production regression observed.
+- COMPLETED. Ramp observation throughOctober13 except verified defects;
+  other windows and weeklyOctober4 stay. No causal SEO/human outcome inference.
+  No blocker. Next separately register free3-5 current caregiver-question
+  discovery outside the closed photo-hunt hypothesis, defining unresolved
+  planning output and existing-owner fit before qualification.
