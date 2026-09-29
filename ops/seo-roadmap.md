@@ -12,6 +12,17 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
+0. September29 `KAL-IMP-020` REVIEW_PENDING, base dbede53/exact16paths.
+   [Repair](../reviews/ramp-journey-repair-2026-09-29.md) implements compact ramp
+   start/rescue/direct setup handoff and local heading fit; no new URL/body
+   expansion. Same task8/22 ->20/22; four local browser modes and native113/
+   72snapshots/generator/link QA PASS. Independent review and production release
+   pending; finish this transaction first. Ramp windowOctober13 except defects.
+1. After release, register free3-5 current caregiver-question discovery outside
+   closed photo-hunt hypothesis. Name distinct unresolved output and owner fit
+   before a new qualification. No paid batch/new-page approval. WeeklyOctober4.
+   Older dated sequences below are history, not active instructions.
+
 0. September28 afternoon `KAL-RES-024` COMPLETED, baseab0ee26/exact9paths.
    [Ramp discovery audit](../reviews/ramp-library-discovery-2026-09-28.md):
    keyboard/touch library entry works; compact card8/22 lacks required adult

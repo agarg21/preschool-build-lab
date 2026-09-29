@@ -141,3 +141,43 @@ test("sitemap records the ramp page update once", () => {
   assert.equal(entries.length, 1);
   assert.match(entries[0], /<lastmod>2026-09-04<\/lastmod>/);
 });
+
+test("ramp compact start reconciles materials, adult role and evidence without video dependency", () => {
+  const card = fs.readFileSync(path.join(ROOT, "site/cards/cardboard-car-ramp.html"), "utf8");
+  assert.match(card, /<h1>Cardboard Car Ramp<\/h1>/);
+  assert.match(card, /two broad sturdy closed books/);
+  assert.match(card, /one toy car with freely turning wheels/);
+  assert.match(card, /Stack the two books flat on the floor/);
+  assert.match(card, /Test one car yourself/);
+  assert.match(card, /without pushing/);
+  assert.match(card, /point to a car for the adult to roll/);
+  assert.match(card, /If the car stops:/);
+  assert.match(card, /try a shorter piece of cardboard/);
+  assert.match(card, /Stop for climbing, throwing or mouthing/);
+  assert.match(card, /Cleanup:/);
+  assert.match(card, /Research-backed, not family-tested by Kid Activity Lab/);
+  assert.match(card, /Setup time and play duration are not measured/);
+  assert.match(card, /https:\/\/www.youtube.com\/watch\?v=78jYFo3Xsgg/);
+  assert.doesNotMatch(card, /<iframe|2 minutes|age 3-5/);
+});
+
+test("ramp depth link lands at a named setup with scoped text-fit and arrival CSS", () => {
+  const card = fs.readFileSync(path.join(ROOT, "site/cards/cardboard-car-ramp.html"), "utf8");
+  assert.match(card, /href="\.\.\/articles\/cardboard-box-car-ramp-preschoolers.html#ramp-start">Full setup and troubleshooting/);
+  assert.match(html, /id="ramp-start" class="quick-card"/);
+  assert.match(html, /\.hero h1, \.content h2, \.content h3 \{ overflow-wrap: anywhere; \}/);
+  assert.match(html, /#ramp-start h2 \{ font-size: 1.35rem;/);
+  assert.match(html, /#ramp-start \{ scroll-margin-top: calc\(4rem \+ 50px\); \}/);
+  assert.doesNotMatch(html, /overflow-x:\s*hidden/);
+});
+
+test("ramp library summary and sitemap align with the compact repair", () => {
+  const library = fs.readFileSync(path.join(ROOT, "site/cards.html"), "utf8");
+  assert.match(library, /href="cards\/cardboard-car-ramp.html"><strong>Cardboard Car Ramp<\/strong><span>Open-ended · flat stiff cardboard, two broad closed books, one toy car/);
+  const sitemap = fs.readFileSync(path.join(ROOT, "site/sitemap.xml"), "utf8");
+  for (const route of ["cards.html", "cards/cardboard-car-ramp.html"]) {
+    const entry = [...sitemap.matchAll(/<url>([\s\S]*?)<\/url>/g)].find(m => m[1].includes(`<loc>https://kidactivitylab.com/${route}</loc>`));
+    assert.ok(entry);
+    assert.match(entry[1], /<lastmod>2026-09-29<\/lastmod>/);
+  }
+});

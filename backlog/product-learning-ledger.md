@@ -4,6 +4,27 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-29 - KAL-IMP-020 Compact Start Before Depth
+
+- Decision/persona: frozen RES024 manageable preschool ramp start from library;
+  materials/adult/mission/rescue, no video dependency and enlarged-text stress.
+- Hypothesis: guide-consistent compact instructions and a direct setup handoff
+  remove observed detour/clipping without adding another URL or guide prose.
+- Evidence: [repair](../reviews/ramp-journey-repair-2026-09-29.md), September29
+  MEASURED local browser route/geometry; SOURCE_BACKED PNC/PEEP broad mechanism
+  and maintained guide; EDITORIAL_JUDGMENT controls/scores, persona hypothesis.
+- Result: IMPROVE implemented; same card-only8/22 ->20/22,11dimensions; critical
+  outputs present, no overflow in four modes. Human and physical outcomes UNKNOWN.
+- Confidence: high in route/fit, moderate in rubric, no SEO or satisfaction claim.
+- Lesson: a short complete first start can coexist with one direct depth link;
+  readable arrival needs heading and instruction geometry, not only valid URLs.
+- Falsification: missing required output, clipped heading or hidden first step
+  in production/new recorded viewport; reopen as a verified defect.
+- Boundary: overlapping GSC261/9 vs267/9 not causal; full queries missing.
+  Protect ramp throughOctober13 except defects; all other windows unchanged.
+- QA: native113/72snapshots/local generator/idempotence/link/browser checks PASS.
+  Independent review and release pending, not yet COMPLETED.
+
 ## 2026-09-28 Afternoon - KAL-RES-024 Depth Needs A Direct Route
 
 - Decision/persona: manageable preschool start with cardboard/books/car;

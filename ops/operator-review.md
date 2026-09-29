@@ -1,5 +1,19 @@
 # Operator Review
 
+## KAL-IMP-020 - September 29
+
+Base dbede53135f786f282858c4b09375ce14298ee7e after inspected GSC-only incoming
+commit/clean fast-forward. Registered16 exact paths; Master sole writer.
+Compact ramp start/library summary, guide heading CSS/setup anchor, two sitemap
+dates, three regression tests and evidence/status records. No other site edit.
+Native113/72snapshots/local four-mode browser task, idempotence and71HTML/834
+local links/assets/fragments PASS. Same card task8/22 ->20/22, proxy only;
+guide body/metadata unchanged. Review cycle1 pending; release not authorized
+until independent PASS/PASS_WITH_P3. Exact-SHA Pages/production task and four
+file bytes required. No release marker found in site or Pages workflow;
+verify exact deployment SHA plus affected bytes instead. Factual closeout
+may record actual review/release evidence; no unsupported completion claim.
+
 ## KAL-RES-024 - September 28 Afternoon
 
 Baseab0ee26db8bcdf50a48e74cfd50c8bcee2ef0a4c, clean after fetch/no incoming.

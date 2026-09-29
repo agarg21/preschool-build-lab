@@ -1,5 +1,41 @@
 # Current Cycle
 
+## Run Checkpoint - September 29 Ramp Journey Repair
+
+- Invocation `2026-09-29T09:02:58.112Z`; time09:03:07UTC, pilot active.
+  No newer redirect. Action KAL-IMP-020; RES024 released, weekly dueOctober4.
+- Baseline clean89521ba. Fetched/inspected incoming dbede53: September28
+  GSC JSON/Markdown only. Fast-forwarded cleanly to
+  `dbede53135f786f282858c4b09375ce14298ee7e`.
+- Phase REVIEW_PENDING. Objective: same frozen library -> ramp card -> guide
+  materials/adult/mission/rescue task, no video dependency; fix guide large text.
+- Exact16 paths: `scripts/generate_card_pages.py`,
+  `scripts/generate_sitemap.py`, `tools/cardboard-ramp-first-start.test.mjs`,
+  `site/cards.html`, `site/cards/cardboard-car-ramp.html`,
+  `site/articles/cardboard-box-car-ramp-preschoolers.html`, `site/sitemap.xml`,
+  `reviews/ramp-journey-repair-2026-09-29.md`,
+  `backlog/product-learning-ledger.md`, `backlog/persona-review-log.md`,
+  `backlog/seo-research-review-backlog.md`, `status/priority-pages.md`,
+  `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
+  `ops/seo-roadmap.md`. Generated outputs only card/library/sitemap. Guide
+  hand-maintained heading CSS plus setup-section id/scroll-margin only;
+  preserve body text/metadata and all URLs. Direct link targets setup heading
+  so large-text arrival exposes instructions rather than the tall page hero.
+  Initial local QA found another overflowing word in troubleshooting H2;
+  wrap all guide headings locally and size the setup H2 for readable arrival.
+- Implemented compact card/default/rescue/direct depth and honest time boundary;
+  library summary reconciled. Guide-only heading CSS/setup anchor repaired.
+  Same task8/22 ->20/22 over11dimensions, proxy only. Four local browser modes
+  PASS, no overflow/errors; enlarged heading/start clear of sticky header.
+- Next executable step: freeze16paths, complete independent read-only review,
+  then exact-path release and exact-SHA Pages/production task/bytes verification.
+  Native113/72snapshots, generators/idempotence and71HTML/834links PASS.
+  No blocker, paid calls, new URL or completed release claim yet.
+- Preserve chainOct7/foilOct8/packOct9/bridgeOct10; new ramp observation through
+  October13 after release, except verified defects. New GSC throughSep26:
+  261/9 overall vs267/9; ramp179/8 vs183/9; home11/1 vs11/0. Overlapping windows,
+  not causal/traffic-path evidence; complete queries/other guide rows missing.
+
 ## Run Checkpoint - September 28 Afternoon Library Discovery
 
 - Invocation `2026-09-28T17:00:08.331Z`; time checked17:00:45UTC, pilot active.

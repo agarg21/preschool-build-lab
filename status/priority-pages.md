@@ -1,6 +1,18 @@
 # Priority Page Status
 
-Last updated: 2026-09-28
+Last updated: 2026-09-29
+
+## September 29 Ramp Journey - Review Pending
+
+IMP020 [repair](../reviews/ramp-journey-repair-2026-09-29.md): ramp card now has
+guide-consistent materials/adult/mission/rescue and a direct setup link. Guide
+heading fit repaired, body/search identity preserved. Seven guides/37cards,
+66sitemap URLs unchanged. Same-task proxy20/22, four local browser modes PASS;
+native113/72snapshots and local generator/link checks PASS. Independent review
+and exact-SHA Pages/production checks pending. Not a completed release.
+GSCSeptember28 through26:261impressions/9clicks, ramp179/8,10/10priorityindexed;
+overlapping windows not causal. Six guide rows/full queries unavailable, not0.
+After release protect ramp throughOctober13 except defects; other windows stay.
 
 ## September 28 Afternoon Ramp Discovery - Released
 

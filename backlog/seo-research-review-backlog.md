@@ -14,7 +14,20 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
-## Current Sequence - September 28 Afternoon
+## Current Sequence - September 29
+
+IMP020 [repair](../reviews/ramp-journey-repair-2026-09-29.md) implemented from
+RES024's actual failure: compact adult start/rescue, direct setup handoff,
+honest duration and local guide heading fit. No new guide. Same task20/22,
+four browser modes PASS; native113/72snapshots/local QA PASS. Independent review
+and production release pending. Finish this transaction before new research.
+After release: register one free, dated3-5 caregiver-question discovery unit
+outside the closed photo-hunt hypothesis; identify a distinct unresolved
+planning output and existing-owner fit before choosing any new qualification.
+Do not repeat RES023/024 or infer page demand from repaired navigation.
+Preserve all observation windows, new rampOctober13; weeklyOctober4.
+
+## September 28 Afternoon - Completed
 
 RES024 [ramp audit](../reviews/ramp-library-discovery-2026-09-28.md) provides
 observed IMPROVE evidence, not an assumed discovery failure. Library entry

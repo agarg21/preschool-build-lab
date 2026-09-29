@@ -92,6 +92,10 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "cardboard-car-ramp": {
+        "time": "Open-ended",
+        "materials": "flat stiff cardboard, two broad closed books, one toy car",
+    },
     "paper-chain-test": {
         "time": "Open-ended",
         "materials": "paper, tape, adult-prepared strips",
@@ -206,6 +210,8 @@ def related_routes_html(slug):
 
 
 def page(row, slug):
+    if slug == "cardboard-car-ramp":
+        return ramp_card_page(row)
     steps = [row[f"kid_step_{i}"] for i in range(1, 5) if row.get(f"kid_step_{i}")]
     step_html = "\n".join(
         f'''          <div class="step-tile">
@@ -283,6 +289,58 @@ def page(row, slug):
     <footer class="site-footer">
       <p><a href="../cards.html">Back to activity cards</a></p>
     </footer>
+  </body>
+</html>
+'''
+
+
+def ramp_card_page(row):
+    routes = related_routes_html("cardboard-car-ramp")
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cardboard Car Ramp Activity Card | Kid Activity Lab</title>
+    <meta name="description" content="A no-cut cardboard car ramp start: materials, adult setup, a first roll and one rescue. Open the full guide for more help. Research-backed, not family-tested.">
+    <link rel="canonical" href="https://kidactivitylab.com/cards/cardboard-car-ramp.html">
+    <link rel="stylesheet" href="../styles.css?v=nav-stable-2">
+    <style>
+      .ramp-card {{ max-width: 720px; margin: 0 auto; padding: 20px; overflow-wrap: anywhere; }}
+      .ramp-card h1 {{ font-size: 2rem; line-height: 1.15; letter-spacing: 0; margin: 8px 0 16px; }}
+      .ramp-card h2 {{ font-size: 1.2rem; margin: 20px 0 8px; }}
+      .ramp-card p, .ramp-card li {{ line-height: 1.5; }}
+      .ramp-card p {{ margin: 10px 0; }}
+      .ramp-card ol {{ padding-left: 1.5rem; margin: 8px 0; }}
+      .ramp-card li {{ margin: 8px 0; }}
+      .ramp-card .evidence {{ font-size: 0.9rem; }}
+      .ramp-card .parent-strip {{ margin-top: 18px; }}
+      .ramp-card a:focus-visible {{ outline: 3px solid #176b62; outline-offset: 3px; }}
+    </style>
+  </head>
+  <body>
+    <header class="site-header"><nav class="nav" aria-label="Main navigation">
+      <a class="brand" href="/">Kid Activity Lab</a>
+      <div class="nav-links"><a href="/">Home</a><a href="../original/">Original</a><a href="../cards.html">Cards</a></div>
+    </nav></header>
+    <main><article class="ramp-card">
+      <p class="kicker">Adult-guided · Open-ended</p>
+      <h1>Cardboard Car Ramp</h1>
+      <p><strong>Use:</strong> one flat, stiff piece of cardboard, two broad sturdy closed books, and one toy car with freely turning wheels. No cutting or glue.</p>
+      <h2>Adult setup</h2>
+      <ol>
+        <li>Stack the two books flat on the floor. Clear a landing area away from feet, breakable objects and stairs.</li>
+        <li>Rest one end of the cardboard on the books and the other on the floor. Test one car yourself; hold the cardboard if it slips.</li>
+      </ol>
+      <p><strong>Kid mission:</strong> Choose a car. Let it roll from the top without pushing. Or point to a car for the adult to roll.</p>
+      <p><strong>If the car stops:</strong> try a shorter piece of cardboard or move the support closer to the middle. Keep the support low.</p>
+      <p><strong>Parent check:</strong> Supervise directly and use toys appropriate for every child who can reach them. Stop for climbing, throwing or mouthing. No stairs or furniture.</p>
+      <p><a href="../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start">Full setup and troubleshooting</a></p>
+      <p><strong>Cleanup:</strong> put the books and car away; store the flat cardboard or recycle it.</p>
+      <p class="evidence">Research-backed, not family-tested by Kid Activity Lab. Setup time and play duration are not measured. This is a compact version of our full guide; its sources and optional comparisons are there.</p>
+      <p class="evidence"><strong>Original inspiration:</strong> <a href="{esc(row['source_url'])}">source video</a> (optional).</p>{routes}
+    </article></main>
+    <footer class="site-footer"><p><a href="../cards.html">Back to activity cards</a></p></footer>
   </body>
 </html>
 '''

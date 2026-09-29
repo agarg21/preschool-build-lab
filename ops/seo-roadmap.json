@@ -3514,7 +3514,16 @@
       "id": "KAL-IMP-020",
       "title": "Repair the existing ramp compact start, guide handoff and large-text arrival",
       "kind": "implementation",
-      "status": "planned",
+      "status": "in_progress",
+      "registered_on": "2026-09-29",
+      "base_commit": "dbede53135f786f282858c4b09375ce14298ee7e",
+      "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "tools/cardboard-ramp-first-start.test.mjs", "site/cards.html", "site/cards/cardboard-car-ramp.html", "site/articles/cardboard-box-car-ramp-preschoolers.html", "site/sitemap.xml", "reviews/ramp-journey-repair-2026-09-29.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "declared_generated_outputs": ["site/cards.html", "site/cards/cardboard-car-ramp.html", "site/sitemap.xml"],
+      "evidence_class": "MEASURED September28 browser route/text fit; SOURCE_BACKED retained parent preparation constraint and maintained guide reconciliation; EDITORIAL_JUDGMENT compact wording; outcomes UNKNOWN",
+      "qa_plan": "Native tests/jq/diff check; all3generators twice/hash idempotence and exact outputs; all local links/fragments; changedJSON parse; source/privacy/scope/prioritems checks; desktop1280/mobile390 keyboard/touch/Back/blocked-video/root200%, visual fit; independent read-only review; exact-SHA Pages and production affected URLs/bytes/task; final alignment.",
+      "measurement_plan": "Re-run RES024 frozen task and card-only11dimension rubric8/22 baseline. Record actual two-link guide handoff and enlarged text geometry/screenshots, no human or SEO causal claim. GSC sensing housekeeping only.",
+      "production_invariants": "Seven guide URLs and37cards unchanged; guide title/H1/canonical/body text/structured data preserved; guide scoped heading CSS plus setup-section id/scroll-margin for readable arrival only. Other cards/collections and protected assets unchanged; sitemap date changes only card/library,66URLs retained. No paid/API/indexing/automation change.",
+      "observation_window": "Ramp journey throughOctober13 after release except verified defects; preserve chainOctober7/foilOctober8/packOctober9/bridgeOctober10; weeklyOctober4.",
       "evidence_date": "2026-09-28",
       "evidence_refs": ["reviews/ramp-library-discovery-2026-09-28.md"],
       "user_problem": "A parent selecting the first ramp library card gets generic setup with unqualified timing and no direct detailed-guide handoff; the existing guide H1 also clips on390px mobile at doubled root text.",
@@ -3523,7 +3532,13 @@
       "eligibility_gate": "After reviewed RES024 release, register exact paths/base/source reconciliation and declared generated outputs before implementation. This verified usability/trust-boundary repair takes priority over speculative new research, unless a higher-severity defect or unfinished release intervenes.",
       "acceptance": "Same frozen RES024 task: materials/adult setup/first mission and direct depth for rescue; desktop keyboard/mobile touch/Back/no-video and normal/root200% text; heading and start readable without hiding overflow. All generators/idempotence/exact outputs/full local links/fragments/native tests, independent review and exact-SHA Pages production verification.",
       "measurement_boundary": "Proxy task regression only; no human outcome, duration, safety-in-practice or SEO uplift claim. No paid call, new URL, global library redesign, product recommendation or unrelated guide rewrite. Preserve chainOct7/foilOct8/packOct9/bridgeOct10; weeklyOct4.",
-      "reconsider_conditions": "Narrow if the direct-link absence or clipping no longer reproduces. Stop on generated-output spill, changed guide search ownership, unsupported claims, unresolved P0-P2, divergence or production regression."
+      "reconsider_conditions": "Narrow if the direct-link absence or clipping no longer reproduces. Stop on generated-output spill, changed guide search ownership, unsupported claims, unresolved P0-P2, divergence or production regression.",
+      "artifact": "reviews/ramp-journey-repair-2026-09-29.md",
+      "decision": "IMPROVE implemented; same card task8/22 to20/22 over11dimensions, all critical outputs present. Four local browser modes fit and direct setup arrival exposes heading/first instruction; no new URL or guide body change.",
+      "qa_result": "PASS native113/72snapshots/local four-mode browser/generator idempotence/71HTML834links/16exactpaths/421protected/64prioritems/65IDs/JSON/source/privacy; independent review pending",
+      "review": {"verdict": "PENDING", "cycle": 1},
+      "release": {"state": "pending", "site_changed": true},
+      "next_step": "Complete independent review then exact-SHA Pages and production task/bytes verification. After release register one free3-5 caregiver-question discovery outside closed photo-hunt hypothesis; distinct unresolved output/owner fit before qualification. WeeklyOctober4."
     }
   ]
 }

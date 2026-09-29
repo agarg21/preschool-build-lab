@@ -6,6 +6,18 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-29 - Ramp Compact Start Repair
+
+IMP020 [repair](../reviews/ramp-journey-repair-2026-09-29.md) repeats the frozen
+RES024 task, not a new biography. Card-only8/22 ->20/22 over11dimensions;
+materials alternatives and broader accessibility retain1; mixed-age and
+educational-purpose N/A as before. Critical adult/start/rescue gaps resolved.
+Desktop1280x900 keyboard,390x844 touch,390/root200% and320x844 fit; direct setup
+arrival clears header and exposes first instruction, Back/no-video work.
+Every changed card block/library entry and guide heading handoff audited;
+unchanged guide content retains RES024 audit. Proxy only, no human outcomes.
+Native113/72snapshots/local QA PASS; independent review/release pending.
+
 ## 2026-09-28 Afternoon - Library Ramp Handoff
 
 RES024 [audit](../reviews/ramp-library-discovery-2026-09-28.md): source-grounded
