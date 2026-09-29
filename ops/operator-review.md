@@ -1,5 +1,20 @@
 # Operator Review
 
+## KAL-RES-025 - September 29 Afternoon
+
+Clean c1e847c; fetched/inspected GSC-only035a4b6 and fast-forwarded without
+conflict. Base035a4b6a7f22c688d40f9e6be1de2484de46519d. Nine registered research/
+operator paths, no site/script/tool/data/workflow changes. Four question bodies,
+five guidance bodies and incomplete unranked search samples; no paid call,
+retained usernames/quotes/private details, or new medical/developmental claims.
+Publication dates explicitly provisional where index and relative labels differ.
+P1 source-completeness8/20,10dimensions, no browser/physical/human test. RESEARCH
+one candidate, DEFER publication, reject no-print novelty. Same-task scoring not
+compared to morning ramp rubric. New GSC73 validate; freshness/limitations in
+artifact. Native113/jq/whitespace/JSON/source/privacy/exact9paths/431protected/
+65prioritems/67uniqueIDs/10newreferences PASS; no CSV change. Independent review
+pending; push-only release after PASS/PASS_WITH_P3. No generators or Pages needed.
+
 ## KAL-IMP-020 - September 29
 
 Base dbede53135f786f282858c4b09375ce14298ee7e after inspected GSC-only incoming

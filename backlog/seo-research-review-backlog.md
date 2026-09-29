@@ -14,7 +14,20 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
-## Current Sequence - September 29
+## Current Sequence - September 29 Afternoon
+
+RES025 [discovery](../seo/caregiver-job-discovery-2026-09-29.md) identifies a
+manageable adult-role job across current pretend-play questions. Restaurant is
+one research probe, not demonstrated repeated exact demand. Five guidance bodies
+include simpler PBS counterevidence: no-print alone is not differentiation.
+RESEARCH one qualification; DEFER publication. No public edit or paid calls.
+QA/review/push-only release pending. Then separately register RES026: exact
+activity versus participation-advice intent, S2/BC source lineage, one role/
+start/choice/stall/end mechanism, controls, existing-owner fit and incremental
+utility. No generic discovery repeat; close/defer if material demand or utility
+cannot be established. Existing observations and weeklyOctober4 preserved.
+
+## September 29 Morning - Completed
 
 IMP020 [repair](../reviews/ramp-journey-repair-2026-09-29.md) implemented from
 RES024's actual failure: compact adult start/rescue, direct setup handoff,

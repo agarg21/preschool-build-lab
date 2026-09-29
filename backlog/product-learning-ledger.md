@@ -4,6 +4,31 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-29 Afternoon - KAL-RES-025 Adult Role Is A Planning Output
+
+- Decision/persona: Q1/Q3 adult participation burden, Q2 partner fit and Q4
+  familiar-material first exchange; P1 needs role/start/choice/stall/end and
+  controls. No-printer/new-purchase is an editorial stress, not reported by all.
+- Hypothesis: repeated questions identify distinct activity utility beyond
+  current owners. Supported for further qualification, not exact page demand.
+- Evidence: [discovery](../seo/caregiver-job-discovery-2026-09-29.md), four public
+  bodies/five guidance bodies, source-datedSeptember29. Indexed publication
+  dates are provisional; relative body labels differ. SOURCE_BACKED question
+  context, RESEARCH_HYPOTHESIS personas, EDITORIAL_JUDGMENT disposition.
+- Result: RESEARCH bounded adult-role restaurant candidate; DEFER publication.
+  REJECT no-print novelty: PBS already offers household-toy substitutions.
+  S1source-completeness8/20,10dimensions, critical controls/ending gaps; no KAL
+  baseline, rendered test or actual parent outcome. Other sources not blanket-failed.
+- Confidence: moderate in recurring participation constraint, low in exact
+  restaurant demand and incremental utility. Small selected sample not market size.
+- Lesson: low material preparation does not imply low adult improvisation;
+  test both, without promising independence or prescribing family interaction.
+- Next falsification: RES026 compares exact intent and existing simpler answers;
+  close/defer if no distinct utility/material demand or reconciled controls.
+- Measurement: GSC385/10 throughSep27 predates morning repair, not attribution;
+  missing query/other article rows not0. All observation windows/weeklyOct4 stay.
+  QA/review/push-only release pending, not contract-completed yet.
+
 ## 2026-09-29 - KAL-IMP-020 Compact Start Before Depth
 
 - Decision/persona: frozen RES024 manageable preschool ramp start from library;

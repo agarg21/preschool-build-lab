@@ -6,6 +6,19 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-29 Afternoon - Bounded Adult Pretend Role
+
+RES025 [discovery](../seo/caregiver-job-discovery-2026-09-29.md) derives four
+task lenses from four question bodies; no fictional biographies. P1 role/start/
+choice/stall/end/controls with no-printer/new-purchase editorial stress. S1 PBS
+source-completeness desk score8/20 across10dimensions; mixed-age, educational
+goal and unrendered mobile N/A. Critical controls/ending gaps prevent promotion;
+not a KAL baseline, human test or blanket competitor failure. S2 already offers
+household substitutions, rejecting no-print novelty. Extracted S1 sections
+audited; existing pages checked for ownership only. P1/P3/P4 RESEARCH, P2
+adaptation DEFER; exact restaurant candidate publication DEFER. No browser test
+this run. Independent review and release pending.
+
 ## 2026-09-29 - Ramp Compact Start Repair
 
 IMP020 [repair](../reviews/ramp-journey-repair-2026-09-29.md) repeats the frozen

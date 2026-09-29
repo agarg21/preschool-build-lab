@@ -2,6 +2,17 @@
 
 Last updated: 2026-09-29
 
+## September 29 Afternoon Discovery - Review Pending
+
+RES025 [discovery](../seo/caregiver-job-discovery-2026-09-29.md): four public
+question bodies suggest manageable adult participation as a planning output.
+RESEARCH restaurant role/start/ending candidate; DEFER publication. No-print
+novelty rejected by existing PBS answer. No site change; seven guides/37cards
+and all observations preserved. Latest GSC throughSep27:385/10, ramp298/8,
+10/10priority indexed. Overlapping windows and missing full queries/six guide
+rows prevent attribution; data predates this morning's ramp repair. Sitemap
+61/July5 remains stale versus66URLs. Independent review/release pending.
+
 ## September 29 Ramp Journey - Released
 
 IMP020 [repair](../reviews/ramp-journey-repair-2026-09-29.md): ramp card now has

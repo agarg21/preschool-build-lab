@@ -3540,6 +3540,45 @@
       "review": {"verdict": "PASS", "read_only": true, "cycle": 1, "reviewer_id": "01a0ec88-ec1a-7901-b324-6002fe2517ab", "reviewer_name": "Mill", "findings": [], "reviewed_base": "dbede53135f786f282858c4b09375ce14298ee7e", "reviewed_target": "85c1c0bc7e0e85ccbfac26162de1a36261a1d3d2", "reconciliation": "All16 frozen SHA256 matched unchanged before commit. Same-path factual QA/review/release closeout covered; substantive edits require re-review. Independently reran four browser modes and112 non-writing tests."},
       "release": {"state": "deployed", "reviewed_commit": "85c1c0bc7e0e85ccbfac26162de1a36261a1d3d2", "pages_run": "https://github.com/agarg21/preschool-build-lab/actions/runs/36551177033", "pages_result": "success", "marker": "absent; exact-SHA deployment and four affected live-file byte matches verified", "alignment": "clean local/origin0/0 and remote main exact SHA verified at reviewed release", "site_changed": true},
       "next_step": "Register one free3-5 current caregiver-question discovery outside closed photo-hunt hypothesis; distinct unresolved planning output and owner fit before qualification. Do not repeat completed ramp audit. Ramp observationOctober13 except defects; weeklyOctober4."
+    },
+    {
+      "id": "KAL-RES-025",
+      "title": "Discover a distinct parent activity-planning job beyond the closed photo-hunt hypothesis",
+      "kind": "research",
+      "status": "in_progress",
+      "registered_on": "2026-09-29",
+      "base_commit": "035a4b6a7f22c688d40f9e6be1de2484de46519d",
+      "exact_paths": ["seo/caregiver-job-discovery-2026-09-29.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-09-29",
+      "evidence_class": "SOURCE_BACKED dated public questions and maintained guidance; RESEARCH_HYPOTHESIS persona; EDITORIAL_JUDGMENT candidate disposition; exact demand UNKNOWN unless evidenced",
+      "user_problem": "The next distinct activity job is not yet established; another generic low-preparation or photo-hunt page may duplicate existing guidance.",
+      "hypothesis": "Three to five current caregiver questions expose a repeated concrete planning output not cleanly served by existing KAL owners; reject or defer if constraints do not establish distinct utility.",
+      "acceptance": "Inspect3-5 public question bodies with URL/date/paraphrased constraints only; map existing owners and representative free guidance; freeze one source-grounded task; explicit research/preserve/defer/reject and unresolved publication gates. No new page or repeated closed qualification.",
+      "qa_plan": "Native tests/jq/diff check, validate new GSC versus prior, JSON/source/privacy/reference/exact-path/protected-file checks; task and every-section review with N/A reasons; independent read-only review and reviewed push-only release/alignment.",
+      "measurement_plan": "Qualitative recurrence and source completeness, not market prevalence or outcome estimates. Score only evaluated evidence/surface with denominator and limits; no invented before-page baseline.",
+      "production_invariants": "All site/scripts/tools/data/workflow bytes unchanged; no paid calls, indexing requests, external posting or automation edits.",
+      "observation_window": "Preserve rampOctober13, chainOctober7, foilOctober8, packOctober9, bridgeOctober10; weeklyOctober4.",
+      "reconsider_conditions": "Preserve existing answer if sufficient; defer weak demand or unresolved critical instructions. Stop on source/privacy failure, divergence, scope drift or unresolved P0-P2. Research completion is not build authority.",
+      "artifact": "seo/caregiver-job-discovery-2026-09-29.md",
+      "decision": "RESEARCH bounded adult-role restaurant candidate; DEFER publication. Four question bodies suggest manageable adult participation, not repeated exact restaurant demand. Five guidance bodies; PBS counterexample rejects no-print novelty. S1 source-completeness8/20 over10dimensions, not KAL/browser/human test.",
+      "qa_result": "PASS native113/73snapshots/jq/whitespace/JSON/source/privacy/exact9paths/431protected/65prioritems/67IDs/10references; no CSV/site edits",
+      "review": {"verdict": "PENDING", "cycle": 1},
+      "release": {"state": "pending", "site_changed": false},
+      "next_step": "After reviewed push-only release separately register RES026 exact intent/source/utility qualification, not repeat discovery. Preserve all observation windows; weeklyOctober4."
+    },
+    {
+      "id": "KAL-RES-026",
+      "title": "Qualify bounded adult-role restaurant play against existing simpler answers",
+      "kind": "research",
+      "status": "planned",
+      "evidence_date": "2026-09-29",
+      "evidence_refs": ["seo/caregiver-job-discovery-2026-09-29.md"],
+      "user_problem": "Some caregivers need a manageable role in pretend play; no-print props alone already have established guidance. Exact restaurant activity demand and incremental utility remain unresolved.",
+      "hypothesis": "A child-led scene with one bounded adult role, first exchange, stall and ending adds meaningful utility beyond existing role-rotation and learning-oriented restaurant activities.",
+      "required_output": "Separate restaurant-activity intent from adult-participation advice; inspect S2 and BC government lead; reconcile one minimal mechanism including materials/readiness/adult presence/choice/stall/stop/cleanup; compare existing KAL owner fit and external answers; return build/upgrade/preserve/defer/reject with explicit material-demand and originality gates.",
+      "eligibility_gate": "After independently reviewed RES025 release, register actual base/exact paths/QA/measurement/acceptance before substantive work. Free sources and retained evidence; no new paid authorization. Do not repeat generic discovery.",
+      "publication_gate": "No build approved. Require distinct search-supported job, material demand for actual activity rather than product/advice intent, maintainable source controls, incremental parent utility, no clean existing owner and separate reviewed implementation.",
+      "measurement_boundary": "No guaranteed reduced effort, independent play, enjoyment, developmental benefit or safety. Exact volume/rank UNKNOWN. Preserve existing page observations and weeklyOctober4; no medical-play or real-food expansion."
     }
   ]
 }
