@@ -12,12 +12,13 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
-0. September29 afternoon `KAL-RES-025` REVIEW_PENDING, base035a4b6/exact9paths.
+0. September29 afternoon `KAL-RES-025` COMPLETED, base035a4b6/exact9paths.
    [Discovery](../seo/caregiver-job-discovery-2026-09-29.md): four questions,
    five guidance bodies; manageable adult-role hypothesis, not exact demand.
    RESEARCH restaurant qualification; DEFER publication. No-print novelty
    rejected by PBS counterevidence. Source-only8/20, not rendered/human baseline.
-   No public or paid edit; native/review/push-only release to finish first.
+   No public or paid edit; native113 tests and independent James PASS.
+   Reviewed d614e65 pushed, clean local/origin alignment verified; no Pages.
 1. Next planned RES026: exact activity/advice intent, S2/BC source reconciliation,
    role/start/choice/stall/end and controls, material demand and existing-owner
    fit. Do not repeat discovery or build without qualification. WeeklyOctober4;

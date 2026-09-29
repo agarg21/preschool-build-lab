@@ -3545,7 +3545,8 @@
       "id": "KAL-RES-025",
       "title": "Discover a distinct parent activity-planning job beyond the closed photo-hunt hypothesis",
       "kind": "research",
-      "status": "in_progress",
+      "status": "completed",
+      "completed_on": "2026-09-29",
       "registered_on": "2026-09-29",
       "base_commit": "035a4b6a7f22c688d40f9e6be1de2484de46519d",
       "exact_paths": ["seo/caregiver-job-discovery-2026-09-29.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3562,9 +3563,9 @@
       "artifact": "seo/caregiver-job-discovery-2026-09-29.md",
       "decision": "RESEARCH bounded adult-role restaurant candidate; DEFER publication. Four question bodies suggest manageable adult participation, not repeated exact restaurant demand. Five guidance bodies; PBS counterexample rejects no-print novelty. S1 source-completeness8/20 over10dimensions, not KAL/browser/human test.",
       "qa_result": "PASS native113/73snapshots/jq/whitespace/JSON/source/privacy/exact9paths/431protected/65prioritems/67IDs/10references; no CSV/site edits",
-      "review": {"verdict": "PENDING", "cycle": 1},
-      "release": {"state": "pending", "site_changed": false},
-      "next_step": "After reviewed push-only release separately register RES026 exact intent/source/utility qualification, not repeat discovery. Preserve all observation windows; weeklyOctober4."
+      "review": {"verdict": "PASS", "cycle": 1, "read_only": true, "reviewer_id": "01a0ee2a-9590-7a90-bed3-4e75e708dd17", "reviewer_name": "James", "findings": [], "reviewed_base": "035a4b6a7f22c688d40f9e6be1de2484de46519d", "reviewed_target": "d614e65bf430813427a50710fb6c01380ab58263", "reconciliation": "All9 frozen SHA256 matched before commit. Same-path factual closeout allowed. Independently112 non-writing tests,73snapshots and scope/JSON/reference checks; fixture-writing113th test Master-run. S1 reviewer direct fetch timed out, indexed body exposed. First reviewer capacity failure recovered."},
+      "release": {"state": "pushed", "reviewed_commit": "d614e65bf430813427a50710fb6c01380ab58263", "site_changed": false, "pages": "not applicable; research/operator-only", "alignment": "clean local/origin0/0 and remote main exact SHA verified at reviewed release"},
+      "next_step": "Separately register RES026 exact intent/source/utility qualification, not repeat discovery. Preserve all observation windows; weeklyOctober4."
     },
     {
       "id": "KAL-RES-026",

@@ -27,7 +27,10 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   close/defer if no distinct utility/material demand or reconciled controls.
 - Measurement: GSC385/10 throughSep27 predates morning repair, not attribution;
   missing query/other article rows not0. All observation windows/weeklyOct4 stay.
-  QA/review/push-only release pending, not contract-completed yet.
+  Native113 tests/73snapshot validations and scope/privacy/JSON checks PASS.
+  Independent James PASS;112 non-writing tests reproduced. Reviewed research
+  pushed as d614e65; clean local/origin0/0 and remote main SHA verified. COMPLETED
+  research, no website change or publication-gate promotion.
 
 ## 2026-09-29 - KAL-IMP-020 Compact Start Before Depth
 

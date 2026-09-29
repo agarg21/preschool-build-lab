@@ -21,7 +21,8 @@ manageable adult-role job across current pretend-play questions. Restaurant is
 one research probe, not demonstrated repeated exact demand. Five guidance bodies
 include simpler PBS counterevidence: no-print alone is not differentiation.
 RESEARCH one qualification; DEFER publication. No public edit or paid calls.
-QA/review/push-only release pending. Then separately register RES026: exact
+Native113 tests PASS, independent James PASS; reviewed d614e65 pushed with
+clean local/origin alignment. Next separately register RES026: exact
 activity versus participation-advice intent, S2/BC source lineage, one role/
 start/choice/stall/end mechanism, controls, existing-owner fit and incremental
 utility. No generic discovery repeat; close/defer if material demand or utility

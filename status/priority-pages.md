@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-29
 
-## September 29 Afternoon Discovery - Review Pending
+## September 29 Afternoon Discovery - Released
 
 RES025 [discovery](../seo/caregiver-job-discovery-2026-09-29.md): four public
 question bodies suggest manageable adult participation as a planning output.
@@ -11,7 +11,8 @@ novelty rejected by existing PBS answer. No site change; seven guides/37cards
 and all observations preserved. Latest GSC throughSep27:385/10, ramp298/8,
 10/10priority indexed. Overlapping windows and missing full queries/six guide
 rows prevent attribution; data predates this morning's ramp repair. Sitemap
-61/July5 remains stale versus66URLs. Independent review/release pending.
+61/July5 remains stale versus66URLs. Native113tests and independent James PASS;
+reviewed d614e65 pushed, clean local/origin alignment verified. No Pages needed.
 
 ## September 29 Ramp Journey - Released
 
