@@ -21,7 +21,8 @@ DEFERs publication and rejects current build eligibility: existing role/prompts/
 start assistance are counterevidence; exact demand, incremental value and
 critical controls remain unresolved. Close active restaurant research; reopen
 only for named new evidence. No new page/module, paid batch or parenting advice.
-QA/review/release pending. Then separately register RES027 current ball-maze
+Native113tests and independent Rawls PASS; reviewed9f84a80 pushed with clean
+local/origin alignment. Next separately register RES027 current ball-maze
 library/card/guide journey audit from retained source-derived task, desktop/
 mobile and enlarged text. Observe actual failure or preserve, never assume one.
 All protected windows and next weeklyOctober4 unchanged.

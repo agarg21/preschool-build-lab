@@ -3571,7 +3571,8 @@
       "id": "KAL-RES-026",
       "title": "Qualify bounded adult-role restaurant play against existing simpler answers",
       "kind": "research",
-      "status": "in_progress",
+      "status": "completed",
+      "completed_on": "2026-09-30",
       "registered_on": "2026-09-30",
       "base_commit": "9eae14f21649007af42a77bb43e74c126a90c08f",
       "exact_paths": ["seo/pretend-restaurant-qualification-2026-09-30.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3593,9 +3594,10 @@
       "artifact": "seo/pretend-restaurant-qualification-2026-09-30.md",
       "decision": "DEFER publication; REJECT current build eligibility and close active qualification. Stronger existing answers supply roles/prompts/start support. Exact demand, incremental utility and critical controls unresolved. S2 source desk9/20, not KAL/browser/human baseline.",
       "reopen_gate": "New exact activity-intent/material-demand evidence plus a distinct planning output and source-complete mechanism; do not repeat generic discovery or reopen from cadence alone.",
-      "review": {"verdict": "PENDING", "cycle": 1},
-      "release": {"state": "pending", "site_changed": false},
-      "next_step": "After reviewed release, register RES027 current ball-maze library/card/guide task with enlarged-text stress. Preserve observation windows and weeklyOctober4."
+      "qa_result": "PASS native113tests/73snapshots/jq/whitespace/JSON/source/privacy/exact9paths/432unchanged out-of-scope files/66unchanged prior actions/68unique IDs/11relative references. Helper buffer/path-encoding errors corrected and rerun; no CSV/site edits.",
+      "review": {"verdict": "PASS", "cycle": 1, "read_only": true, "reviewer_id": "01a0f192-439a-77d3-b4b0-28b7952b6305", "reviewer_name": "Rawls", "findings": [], "reviewed_base": "9eae14f21649007af42a77bb43e74c126a90c08f", "reviewed_target": "9f84a8006e25a1471f605e2093c6ea4e625ac80b", "reconciliation": "All9 frozen SHA256 matched before commit. Same-path factual closeout allowed. Independently112 non-writing tests/73snapshots and source/structure/scope checks; fixture-writing113th test Master-run."},
+      "release": {"state": "pushed", "reviewed_commit": "9f84a8006e25a1471f605e2093c6ea4e625ac80b", "site_changed": false, "pages": "not applicable; research/operator-only", "alignment": "clean local/origin0/0 and remote main exact SHA verified at reviewed release"},
+      "next_step": "Register RES027 current ball-maze library/card/guide task with enlarged-text stress. Preserve observation windows and weeklyOctober4."
     },
     {
       "id": "KAL-RES-027",
