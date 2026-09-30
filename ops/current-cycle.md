@@ -1,5 +1,38 @@
 # Current Cycle
 
+## Run Checkpoint - September 30 Restaurant Qualification
+
+- Invocation `2026-09-30T09:00:51.841Z`; time checked 09:00:59 UTC, pilot active.
+  No newer redirect. RES025 complete; weekly synthesis next due October 4.
+- Clean main and fetched origin aligned at `9eae14f21649007af42a77bb43e74c126a90c08f`;
+  no incoming commits or dirty work. Action KAL-RES-026, phase REVIEW_PENDING.
+- Objective: resolve exact activity/advice intent, source-complete minimal
+  restaurant mechanism, incremental utility and existing-owner fit. Do not
+  repeat general discovery or infer demand from the previous four questions.
+- Exact nine paths: `seo/pretend-restaurant-qualification-2026-09-30.md`,
+  `backlog/product-learning-ledger.md`, `backlog/persona-review-log.md`,
+  `backlog/seo-research-review-backlog.md`, `status/priority-pages.md`,
+  `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
+  `ops/seo-roadmap.md`. No site/generator/data/tool/automation changes.
+- Frozen P1 from RES025: parent and preschooler who already wants pretend play;
+  identify one adult role, first exchange, child choice, stall response, ending
+  and material boundaries. No printer/new purchase is an editorial stress.
+- Result: DEFER publication, reject current build eligibility and close active
+  qualification. Existing roles/prompts/start support weaken incremental-utility
+  hypothesis; exact demand and critical controls remain unproven. S2 desk task
+  9/20 over ten dimensions, critical fail; no human/browser test or KAL baseline.
+- BC government endpoint failed; district-hosted full booklet and restaurant
+  page renders inspected. No byte-equivalence or source authority transferred.
+- Native 113 tests, jq and whitespace PASS; source/privacy review complete.
+- Next executable step: independent read-only review, then
+  push-only release. Next transaction RES027 evaluates current library/card/
+  guide ball-maze journey at desktop/mobile/enlarged text; no assumed defect.
+- Completion still requires dated artifact, persona/section/evidence audit,
+  native tests/jq/diff/JSON/privacy/scope QA, independent read-only PASS and
+  exact-path push-only release/alignment. No current technical blocker.
+- Preserve ramp October 13, chain October 7, foil October 8, pack October 9,
+  bridge October 10. No new GSC snapshot since September 29; no fresh paid authority.
+
 ## Run Checkpoint - September 29 Afternoon Parent-Job Discovery
 
 - Invocation `2026-09-29T17:01:41.195Z`; time checked17:01:51UTC, pilot active.

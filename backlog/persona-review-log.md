@@ -6,6 +6,18 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-30 - Restaurant Qualification, Not A New Page
+
+RES026 [qualification](../seo/pretend-restaurant-qualification-2026-09-30.md):
+frozen P1 from RES025, role/start/choice/stall/ending/controls, no-print editorial
+stress. S2 source-completeness9/20 over10dimensions; mixed-age, educational goal
+and unrendered mobile excluded with reasons. Critical controls/ending unresolved.
+No comparison to KAL or measured improvement from S1. P1/P3 exact guide DEFER;
+P2 adaptation DEFER; P4 existing material answer PRESERVE, novelty rejected.
+Source sections and existing owner fit audited; BC two PDF pages visually
+inspected, not mobile website QA. No parent/child test. Active qualification
+closed pending named new evidence; independent review/release pending.
+
 ## 2026-09-29 Afternoon - Bounded Adult Pretend Role
 
 RES025 [discovery](../seo/caregiver-job-discovery-2026-09-29.md) derives four

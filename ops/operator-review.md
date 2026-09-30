@@ -1,5 +1,18 @@
 # Operator Review
 
+## KAL-RES-026 - September 30
+
+Clean fetched main/origin at9eae14f21649007af42a77bb43e74c126a90c08f, no incoming
+snapshot or dirty work. Nine registered research/operator paths. Source audit
+and incomplete current query samples: DEFER publication, reject present build
+eligibility, close active qualification. PBS roles and BC start support already
+exist; Fuzzigram also supplies prompts. Missing controls and exact demand are
+not filled with imagined family tests. BC government failures recovered through
+attributed district-hosted copy, with restaurant page renders inspected; no
+byte-equivalence claim. S2 desk9/20,10dimensions, no browser or physical test.
+73snapshot validations PASS; full native QA, independent review and push-only
+release pending. No site/generator/tool/data/paid/automation changes.
+
 ## KAL-RES-025 - September 29 Afternoon
 
 Clean c1e847c; fetched/inspected GSC-only035a4b6 and fast-forwarded without

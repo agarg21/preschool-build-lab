@@ -1,6 +1,16 @@
 # Priority Page Status
 
-Last updated: 2026-09-29
+Last updated: 2026-09-30
+
+## September 30 Restaurant Qualification - Review Pending
+
+RES026 [qualification](../seo/pretend-restaurant-qualification-2026-09-30.md)
+DEFERs publication; existing role and prompt answers weaken novelty. No material
+exact demand or source-complete adaptation established. Active qualification
+closed until named new evidence, not another discovery rerun. No public changes;
+seven guides/37cards and all observation windows preserved. Latest GSC still
+September29; no new signal today. Next separate task: current ball-maze journey
+audit, not an assumed defect/build. Native QA/review/push-only release pending.
 
 ## September 29 Afternoon Discovery - Released
 

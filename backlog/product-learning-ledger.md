@@ -4,6 +4,32 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-30 - KAL-RES-026 Existing Role Support Changes The Decision
+
+- Family decision/task: parent and preschooler already seeking pretend play;
+  find adult role, first exchange, child choice, stall, ending and controls.
+  No printer/new purchase is an editorial stress, not a measured requirement.
+- Hypothesis: one bounded restaurant role adds distinct useful guidance beyond
+  existing answers. [Qualification](../seo/pretend-restaurant-qualification-2026-09-30.md)
+  finds roles, prompts and start assistance already supplied; incremental value
+  is unproven. REJECT present build eligibility, DEFER publication.
+- Evidence: September30 current query samples, PBS indexed directions, BC
+  district-hosted booklet text/renders, Fuzzigram/Offline Kids bodies and museum
+  indexed body. SOURCE_BACKED procedures, RESEARCH_HYPOTHESIS task from RES025,
+  EDITORIAL_JUDGMENT disposition. Prior question date limits retained, no new
+  community sample or demand count. No paid metrics.
+- Result/confidence: S2 source-completeness9/20, critical controls/ending gaps;
+  high confidence in duplication risk, moderate deferral, low exact demand and
+  actual usefulness. No KAL before baseline, human/browser or physical test.
+- Lesson: evaluate the strongest simple answer, not just elaborate craft pages;
+  missing a closing line alone does not establish a new indexable parent job.
+- Next falsification: new exact activity demand and distinct planning output,
+  plus source-complete mechanism. Close this loop until then, not daily repeats.
+- Measurement boundary: no causal SEO, reduced-effort, developmental, duration
+  or safety outcome; GSC unchanged since RES025. Existing windows preserved.
+  Next separate task is current ball-maze library-to-guide execution audit.
+  Native QA, independent review and release pending.
+
 ## 2026-09-29 Afternoon - KAL-RES-025 Adult Role Is A Planning Output
 
 - Decision/persona: Q1/Q3 adult participation burden, Q2 partner fit and Q4

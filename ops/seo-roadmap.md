@@ -12,6 +12,17 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
+0. September 30 `KAL-RES-026`, research/review in progress. Exact nine paths,
+   base9eae14f. [Qualification](../seo/pretend-restaurant-qualification-2026-09-30.md)
+   DEFERs publication and closes active restaurant qualification. Existing
+   roles/prompts/start support already help; material exact demand, incremental
+   utility and adaptation controls remain unresolved. S2 desk9/20, not human
+   or KAL baseline. Native QA, independent review and push-only release next.
+1. After release, separately register RES027 current library/card/ball-maze
+   guide journey audit using retained task and enlarged-text stress. No assumed
+   failure or build. Reopen restaurant only on named new evidence, not cadence.
+   Protected windows and weeklyOctober4 unchanged. Below is dated history.
+
 0. September29 afternoon `KAL-RES-025` COMPLETED, base035a4b6/exact9paths.
    [Discovery](../seo/caregiver-job-discovery-2026-09-29.md): four questions,
    five guidance bodies; manageable adult-role hypothesis, not exact demand.

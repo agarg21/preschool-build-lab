@@ -14,7 +14,19 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
-## Current Sequence - September 29 Afternoon
+## Current Sequence - September 30
+
+RES026 [qualification](../seo/pretend-restaurant-qualification-2026-09-30.md)
+DEFERs publication and rejects current build eligibility: existing role/prompts/
+start assistance are counterevidence; exact demand, incremental value and
+critical controls remain unresolved. Close active restaurant research; reopen
+only for named new evidence. No new page/module, paid batch or parenting advice.
+QA/review/release pending. Then separately register RES027 current ball-maze
+library/card/guide journey audit from retained source-derived task, desktop/
+mobile and enlarged text. Observe actual failure or preserve, never assume one.
+All protected windows and next weeklyOctober4 unchanged.
+
+## September 29 Afternoon - Completed
 
 RES025 [discovery](../seo/caregiver-job-discovery-2026-09-29.md) identifies a
 manageable adult-role job across current pretend-play questions. Restaurant is
