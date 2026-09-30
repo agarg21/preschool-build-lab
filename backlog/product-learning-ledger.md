@@ -4,6 +4,34 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-09-30 Afternoon - KAL-RES-027 Existing Ball Maze Handoff
+
+- Decision/persona: source-derived caregiver must judge readiness and run a
+  no-cut three-block lid maze; younger child can reach materials. Direct
+  materials, adult role, mission, stop, one-wall change, rescue and cleanup.
+- Hypothesis: current library -> compact card -> guide provides the task with
+  readable enlarged-text arrival. Reachability and guide controls hold, but
+  [journey audit](../reviews/ball-maze-library-journey-2026-09-30.md) finds
+  461/390 library overflow at root200%, a direct `#first-run` heading hidden
+  39px by the sticky header, and a card depth link at y2310.
+- Evidence: September30 local Playwright keyboard/touch/geometry is MEASURED;
+  retained September14 sources are SOURCE_BACKED within scope; persona is
+  RESEARCH_HYPOTHESIS; 22/26 score and priority are EDITORIAL_JUDGMENT. No
+  family test or current exact-query demand is established.
+- Result/confidence: IMPROVE existing journey; no new page. High confidence in
+  route/overflow, moderate in scan-cost interpretation, unknown human impact.
+- Lesson: test text settings before a fragment jump; injecting them afterward
+  can conceal a sticky-header overlap. A full guide alone does not ensure its
+  inbound route is readable or quick to find on a phone.
+- Next falsification: a narrower reproduced browser test showing the overflow
+  is harness-only, or a separately reviewed fix demonstrating 390px fit and
+  true enlarged-text fragment clearance. Earlier depth handoff is secondary.
+- Measurement boundary: 387/10 GSC throughSeptember28, ball-maze card1/0,
+  no route analytics/query attribution. No comprehension, duration, enjoyment,
+  learning, safety or physical-use claim. Protected windows/weeklyOctober4 stay.
+  Native113/74snapshot and scope QA PASS; Pasteur cycle2 independent PASS after
+  P2/P3 corrections. Push-only release pending; state in operator review.
+
 ## 2026-09-30 - KAL-RES-026 Existing Role Support Changes The Decision
 
 - Family decision/task: parent and preschooler already seeking pretend play;

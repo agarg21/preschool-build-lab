@@ -1,5 +1,42 @@
 # Current Cycle
 
+## Run Checkpoint - September 30 Afternoon Ball Maze Journey
+
+- Invocation `2026-09-30T17:01:24.119Z`; checked 17:01:42 UTC, pilot active.
+  No newer redirect. RES026 released; weekly synthesis next due October 4.
+- Clean baseline `79987d8c35f99ac0d6f193fe39b297820f7f4420`.
+  Fetched and inspected incoming GSC-only `bb93ea3`; fast-forwarded without
+  divergence or dirty conflict. Action KAL-RES-027, now reviewed for release.
+- Objective: test current library -> compact Ball Maze Box card -> dedicated
+  guide parent journey under the September 14 source-derived task, with a
+  younger child able to reach materials. No assumed defect or new page.
+- Exact nine paths: `reviews/ball-maze-library-journey-2026-09-30.md`,
+  `backlog/product-learning-ledger.md`, `backlog/persona-review-log.md`,
+  `backlog/seo-research-review-backlog.md`, `status/priority-pages.md`,
+  `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
+  `ops/seo-roadmap.md`. Site, generator, tests and sensor outputs read-only.
+- Next executable step: fresh fetch/no-divergence gate, inspect complete
+  unpushed range and exact nine reviewed paths, then push docs-only release.
+- Browser audit corrected after reviewer cycle1 P2: 22/26 whole journey;
+  two-link route and guide controls work, but library game promotion overflows
+  461/390 at mobile/root200%, true enlarged direct hash hides first-run heading
+  by39px, and card's guide link starts y1466 mobile/y2310 enlarged. Decision
+  IMPROVE the existing route in a separate implementation. Evidence in
+  `reviews/ball-maze-library-journey-2026-09-30.md`; no site changes.
+- Phase REVIEWED_PENDING_RELEASE: native113 tests,74 snapshot validations,
+  roadmap JSON parse, exact9 scope and diff whitespace PASS. Pasteur cycle1
+  FAIL/P2 erroneous fragment sequencing and P3 grid count, both corrected;
+  cycle2 read-only PASS/no P0-P3. Next fetch/inspect/release exact reviewed
+  docs, then factual closeout. No new page approved.
+- Completion requires new evidence artifact, focused/full native QA, changed
+  JSON/privacy/scope checks, independent read-only PASS and reviewed exact-path
+  push-only release/alignment. No current blocker.
+- September 30 GSC collected 16:32 UTC, finalized through September 28:
+  387/10 overall, ramp 298/8, all 10 priority URLs indexed. Query/device/
+  country rows absent; no attribution to yesterday's ramp edit. Preserve
+  ramp October 13, chain October 7, foil October 8, pack October 9 and bridge
+  October 10, with verified defects as exceptions.
+
 ## Run Checkpoint - September 30 Restaurant Qualification
 
 - Invocation `2026-09-30T09:00:51.841Z`; time checked 09:00:59 UTC, pilot active.

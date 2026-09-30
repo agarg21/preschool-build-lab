@@ -14,7 +14,18 @@ Historical supporting files:
 - `seo/`
 - `reviews/`
 
-## Current Sequence - September 30
+## Current Sequence - September 30 Afternoon
+
+RES027 [journey audit](../reviews/ball-maze-library-journey-2026-09-30.md)
+finds the existing library/card/guide route functional and guide controls
+complete, but library card-game promotion overflows 390px at root200%, a
+true enlarged-text fragment hides the first-run heading, and the compact
+card's full-guide link sits below the first mobile screen.
+IMPROVE the existing route in a separately registered transaction; no new
+ball-maze page or generalized card redesign. Current browser task22/26 is a
+proxy, not family testing. Preserve all observation windows and weeklyOctober4.
+
+## September 30 Earlier Sequence
 
 RES026 [qualification](../seo/pretend-restaurant-qualification-2026-09-30.md)
 DEFERs publication and rejects current build eligibility: existing role/prompts/

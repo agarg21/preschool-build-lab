@@ -6,6 +6,22 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-09-30 Afternoon - Ball Maze Library Handoff
+
+RES027 [journey audit](../reviews/ball-maze-library-journey-2026-09-30.md)
+uses the September14 source-derived no-cut maze task, with younger-child reach
+as stress. Whole library/card/guide route **22/26 across all13 dimensions**;
+no N/A. Critical materials/adult/start/stop/rescue/cleanup available through
+the guide, so no automatic task failure. Desktop keyboard and 390px touch
+reach guide, Back returns card, image loads and browser logs are clean.
+At root200% the library game promotion widens page to461px versus390px client;
+a true direct `#first-run` jump leaves its heading at104px behind a143px header,
+though the first step is visible; card guide link falls at y2310.
+IMPROVE existing route, no new guide or page. Browser emulation and rubric are
+proxy evidence, not human use or assistive-technology certification. Native QA,
+independent Pasteur cycle2 PASS after corrected fragment evidence; push-only
+release evidence will reside in operator review.
+
 ## 2026-09-30 - Restaurant Qualification, Not A New Page
 
 RES026 [qualification](../seo/pretend-restaurant-qualification-2026-09-30.md):

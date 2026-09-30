@@ -3603,13 +3603,30 @@
       "id": "KAL-RES-027",
       "title": "Audit current ball-maze library-to-guide parent journey",
       "kind": "research",
-      "status": "planned",
+      "status": "review_clean_pending_release",
+      "registered_on": "2026-09-30",
+      "base_commit": "bb93ea3",
+      "exact_paths": ["reviews/ball-maze-library-journey-2026-09-30.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-09-30",
+      "evidence_class": "MEASURED local browser DOM and interaction; SOURCE_BACKED retained guide lineage; RESEARCH_HYPOTHESIS persona; EDITORIAL_JUDGMENT scoring; human outcomes UNKNOWN",
+      "acceptance": "Freeze September14 caregiver task and younger-child stress; run library/card/guide navigation on desktop/mobile normal and mobile enlarged text, keyboard/touch, direct fragments and Back; record exact visible content/geometry/error observations and 13-dimension every-section review. Return observed IMPROVE/PRESERVE with next gate, not an assumed fix.",
+      "qa_plan": "Native tests, jq, diff check, GSC snapshot validation, browser screenshots/DOM, JSON/reference/privacy/exact-scope checks and independent read-only review; docs-only push after PASS.",
+      "measurement_plan": "Proxy task answerability and layout observations in named browser modes; no family comprehension, duration, safety-in-practice or causal SEO claims.",
+      "production_invariants": "All site/scripts/tools/data/workflow bytes unchanged; no new URL, paid calls, indexing, posting or automation edits.",
+      "observation_window": "RampOctober13, chainOctober7, foilOctober8, packOctober9, bridgeOctober10; weeklyOctober4. Verified defects may be separately scoped.",
+      "reconsider_conditions": "If no reproduced failure, PRESERVE and stop. If critical route or trust failure, register a separate exact-path implementation action after reviewed research; stop on divergence or P0-P2.",
       "evidence_refs": ["reviews/ball-maze-guide-implementation-review-2026-09-14.md", "seo/pretend-restaurant-qualification-2026-09-30.md"],
       "user_problem": "Current library-entry-to-guide execution at enlarged text has not been established by the earlier direct-guide review; no defect is assumed.",
       "hypothesis": "A caregiver can judge readiness and run the maintained three-block/foam-ball setup via library and compact card without losing critical controls or readable guide arrival.",
       "required_output": "Freeze original source-derived task with younger-child stress; current desktop/mobile normal and enlarged-text keyboard/touch route, direct fragment/back, materials/adult control/start/rescue/cleanup; every-section and13dimension review with explicit denominator. Return observed IMPROVE/PRESERVE; no page edit in research.",
       "eligibility_gate": "After RES026 release register fresh base/exact paths/QA/measurement. Audit actual route rather than repeat September14 direct-guide review; no new demand research, paid call or build authorization.",
-      "measurement_boundary": "Proxy interaction and source consistency only, not human comprehension, outcomes or SEO effect; preserve all protected windows and weeklyOctober4."
+      "measurement_boundary": "Proxy interaction and source consistency only, not human comprehension, outcomes or SEO effect; preserve all protected windows and weeklyOctober4.",
+      "artifact": "reviews/ball-maze-library-journey-2026-09-30.md",
+      "decision": "IMPROVE existing journey: unfragmented route and core guide controls work; root200% mobile library game promotion overflows 461/390 and true direct hash hides first-run heading39px. Card depth link is below first viewport. No new page; proxy22/26.",
+      "qa_result": "Native113 tests,74 public snapshot validations, jq JSON parse and git diff --check PASS; local three-mode browser route/geometry/Back/fragment/image/errors audited. Exact9 scope/privacy/references PASS; cycle1 P2/P3 corrected, cycle2 PASS.",
+      "review_cycles": [{"cycle": 1, "reviewer_id": "01a0f352-5979-7ed0-8f8e-ae951fed1f7c", "reviewer_name": "Pasteur", "verdict": "FAIL", "findings": ["P2 true enlarged-text fragment heading hidden by sticky header, not clear as originally reported", "P3 36 visible library grid links versus 37 card files"], "resolution": "Master reproduced style-before-hash heading104/header143, corrected score to22/26 and explicit handoff gate; clarified 36 grid links/37 files. Cycle2 required."}],
+      "review": {"verdict": "PASS", "cycle": 2, "read_only": true, "reviewer_id": "01a0f352-5979-7ed0-8f8e-ae951fed1f7c", "reviewer_name": "Pasteur", "findings": [], "reviewed_base": "bb93ea3", "reconciliation": "Cycle1 P2/P3 corrected; cycle2 exact9 scope, prior items, unique IDs, six refs, JSON and whitespace PASS. Cycle1 independently113 tests/74 snapshots; browser matrix not rerun cycle2. Same-path factual closeout allowed."},
+      "next_step": "After push-only research release, separately register bounded existing-route repair. Reproduce 390/root200% library fit and true enlarged-text fragment heading clearance; improve card handoff only without weakening start. Preserve all observation windows and weeklyOctober4."
     }
   ]
 }

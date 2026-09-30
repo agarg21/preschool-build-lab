@@ -1,5 +1,28 @@
 # Operator Review
 
+## KAL-RES-027 - September 30 Afternoon
+
+Base `bb93ea3`, clean before checkpoint after inspected GSC-only fast-forward.
+Exact nine docs/operator paths registered; no site/data/generator/tool/workflow
+change. Three-mode local browser task, direct fragment, Back, image and error
+checks completed. IMPROVE existing library/card handoff: root200% 461/390
+overflow comes from game promotion; true direct hash hides the guide's
+first-run heading39px under sticky header; card depth link late.
+Whole-journey22/26 proxy; core instructions present in guide but fragment
+readable-arrival gate fails. No human, physical, assistive-technology or
+SEO-attribution claim. Native113 tests,
+74 snapshot validations, roadmap JSON parse and diff whitespace PASS;
+independent read-only verdict and release pending. Preserve windows and
+weeklyOctober4. Pasteur cycle1 independent FAIL: P2 false enlarged-fragment
+clearance from applying style after hash, P3 37-versus36 visible grid count.
+Master reproduced heading104/header143 with style-before-hash and inspected
+clipped screenshot; corrected all task/score/next-gate records. Pasteur cycle2
+read-only PASS/no P0-P3; independently checked exact9 scope, prior-item
+immutability, unique IDs, six new refs, JSON and whitespace. Cycle1 independently
+ran113 native tests/74 snapshots; browser matrix not rerun cycle2. Same-path
+factual release closeout allowed, substantive edits would require another review.
+Reviewed release pending.
+
 ## KAL-RES-026 - September 30
 
 Clean fetched main/origin at9eae14f21649007af42a77bb43e74c126a90c08f, no incoming
