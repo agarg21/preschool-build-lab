@@ -23,7 +23,9 @@ true enlarged-text fragment hides the first-run heading, and the compact
 card's full-guide link sits below the first mobile screen.
 IMPROVE the existing route in a separately registered transaction; no new
 ball-maze page or generalized card redesign. Current browser task22/26 is a
-proxy, not family testing. Preserve all observation windows and weeklyOctober4.
+proxy, not family testing. Native113/74snapshot PASS; Pasteur cycle2 PASS;
+reviewed `007fc9f` pushed, docs-only. Preserve all observation windows and
+weeklyOctober4. Next separately register exact-path repair, not another page.
 
 ## September 30 Earlier Sequence
 

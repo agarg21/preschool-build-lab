@@ -12,7 +12,7 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
-0. September30 afternoon `KAL-RES-027` REVIEWED_PENDING_RELEASE,
+0. September30 afternoon `KAL-RES-027` COMPLETED,
    basebb93ea3/exact9paths.
    [Journey audit](../reviews/ball-maze-library-journey-2026-09-30.md):
    keyboard/touch library-card-guide route works; current guide supplies
@@ -20,9 +20,10 @@ this is a gate/sequence review, not new demand or ranking evidence.
    true enlarged direct hash hides first-run heading39px; mobile card guide
    link sits at y1466 normal/y2310 enlarged. IMPROVE scoped existing route,
    not another page. Proxy22/26, no human or SEO outcome.
-   Native113/74snapshot/jq/whitespace PASS; push-only release pending after
-   Pasteur cycle2 read-only PASS/no findings. Next separately register an
-   exact-path existing-route repair of the confirmed defects.
+   Native113/74snapshot/jq/whitespace PASS; Pasteur cycle2 read-only PASS/no
+   findings. Reviewed `007fc9f` pushed, clean local/origin/remote exact SHA;
+   docs-only, no Pages. Next separately register an exact-path existing-route
+   repair of the confirmed defects.
    Observation windows and weeklyOctober4 unchanged. History follows.
 
 0. September 30 `KAL-RES-026` COMPLETED. Exact nine paths,

@@ -151,5 +151,6 @@ from this audit.
 Independent Pasteur read-only cycle1 identified the false post-navigation
 enlarged-text clearance and 36-versus-37 count; both were reproduced/corrected.
 Cycle2 PASS/no findings after exact-scope, rubric, JSON, reference and privacy
-review. This review did not repeat the browser matrix in cycle2. Release is
-pending the fresh-fetch/no-divergence and exact-path push gate.
+review. This review did not repeat the browser matrix in cycle2. Reviewed
+research commit `007fc9ffaf2e3b724f1c6c6da625317d60463131` was pushed to
+`main` after a fresh fetch/no-divergence check. Push-only; no Pages run applies.

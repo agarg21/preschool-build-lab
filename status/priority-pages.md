@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-30
 
-## September 30 Ball Maze Journey - Reviewed
+## September 30 Ball Maze Journey - Released
 
 RES027 [audit](../reviews/ball-maze-library-journey-2026-09-30.md): existing
 library -> card -> guide reaches the source-derived task, but the library's
@@ -13,7 +13,8 @@ no new page, SEO attribution or family-use claim. Seven
 guides/37cards and observation windows remain. GSC September30 snapshot
 throughSeptember28:387/10 overall, ball-maze card1/0, full query rows absent.
 Native113/74snapshot/jq/whitespace PASS; Pasteur cycle2 independent read-only
-PASS/no findings after cycle1 correction. Push-only release pending.
+PASS/no findings after cycle1 correction. Reviewed `007fc9f` pushed and
+local/origin/remote matched; docs-only, no Pages run.
 
 ## September 30 Restaurant Qualification - Released
 

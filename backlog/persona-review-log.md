@@ -19,8 +19,8 @@ a true direct `#first-run` jump leaves its heading at104px behind a143px header,
 though the first step is visible; card guide link falls at y2310.
 IMPROVE existing route, no new guide or page. Browser emulation and rubric are
 proxy evidence, not human use or assistive-technology certification. Native QA,
-independent Pasteur cycle2 PASS after corrected fragment evidence; push-only
-release evidence will reside in operator review.
+independent Pasteur cycle2 PASS after corrected fragment evidence; reviewed
+`007fc9f` pushed, with docs-only release/alignment in operator review.
 
 ## 2026-09-30 - Restaurant Qualification, Not A New Page
 

@@ -3603,7 +3603,7 @@
       "id": "KAL-RES-027",
       "title": "Audit current ball-maze library-to-guide parent journey",
       "kind": "research",
-      "status": "review_clean_pending_release",
+      "status": "completed",
       "registered_on": "2026-09-30",
       "base_commit": "bb93ea3",
       "exact_paths": ["reviews/ball-maze-library-journey-2026-09-30.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3626,6 +3626,7 @@
       "qa_result": "Native113 tests,74 public snapshot validations, jq JSON parse and git diff --check PASS; local three-mode browser route/geometry/Back/fragment/image/errors audited. Exact9 scope/privacy/references PASS; cycle1 P2/P3 corrected, cycle2 PASS.",
       "review_cycles": [{"cycle": 1, "reviewer_id": "01a0f352-5979-7ed0-8f8e-ae951fed1f7c", "reviewer_name": "Pasteur", "verdict": "FAIL", "findings": ["P2 true enlarged-text fragment heading hidden by sticky header, not clear as originally reported", "P3 36 visible library grid links versus 37 card files"], "resolution": "Master reproduced style-before-hash heading104/header143, corrected score to22/26 and explicit handoff gate; clarified 36 grid links/37 files. Cycle2 required."}],
       "review": {"verdict": "PASS", "cycle": 2, "read_only": true, "reviewer_id": "01a0f352-5979-7ed0-8f8e-ae951fed1f7c", "reviewer_name": "Pasteur", "findings": [], "reviewed_base": "bb93ea3", "reconciliation": "Cycle1 P2/P3 corrected; cycle2 exact9 scope, prior items, unique IDs, six refs, JSON and whitespace PASS. Cycle1 independently113 tests/74 snapshots; browser matrix not rerun cycle2. Same-path factual closeout allowed."},
+      "release": {"state": "pushed", "reviewed_commit": "007fc9ffaf2e3b724f1c6c6da625317d60463131", "site_changed": false, "pages": "not applicable; research/operator-only", "alignment": "clean local/origin0/0 and remote main exact reviewed SHA verified before same-path factual closeout"},
       "next_step": "After push-only research release, separately register bounded existing-route repair. Reproduce 390/root200% library fit and true enlarged-text fragment heading clearance; improve card handoff only without weakening start. Preserve all observation windows and weeklyOctober4."
     }
   ]

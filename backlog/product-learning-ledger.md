@@ -30,7 +30,8 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   no route analytics/query attribution. No comprehension, duration, enjoyment,
   learning, safety or physical-use claim. Protected windows/weeklyOctober4 stay.
   Native113/74snapshot and scope QA PASS; Pasteur cycle2 independent PASS after
-  P2/P3 corrections. Push-only release pending; state in operator review.
+  P2/P3 corrections. Reviewed `007fc9f` pushed; docs-only, no Pages run.
+  Same-path factual closeout and alignment recorded in operator review.
 
 ## 2026-09-30 - KAL-RES-026 Existing Role Support Changes The Decision
 

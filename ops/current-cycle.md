@@ -15,22 +15,22 @@
   `backlog/seo-research-review-backlog.md`, `status/priority-pages.md`,
   `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
   `ops/seo-roadmap.md`. Site, generator, tests and sensor outputs read-only.
-- Next executable step: fresh fetch/no-divergence gate, inspect complete
-  unpushed range and exact nine reviewed paths, then push docs-only release.
+- Next executable step: separately register bounded existing-route repair for
+  verified library root200% overflow and guide fragment heading obstruction;
+  inspect generator ownership if card depth-link placement enters scope.
 - Browser audit corrected after reviewer cycle1 P2: 22/26 whole journey;
   two-link route and guide controls work, but library game promotion overflows
   461/390 at mobile/root200%, true enlarged direct hash hides first-run heading
   by39px, and card's guide link starts y1466 mobile/y2310 enlarged. Decision
   IMPROVE the existing route in a separate implementation. Evidence in
   `reviews/ball-maze-library-journey-2026-09-30.md`; no site changes.
-- Phase REVIEWED_PENDING_RELEASE: native113 tests,74 snapshot validations,
+- Phase COMPLETED: native113 tests,74 snapshot validations,
   roadmap JSON parse, exact9 scope and diff whitespace PASS. Pasteur cycle1
   FAIL/P2 erroneous fragment sequencing and P3 grid count, both corrected;
-  cycle2 read-only PASS/no P0-P3. Next fetch/inspect/release exact reviewed
-  docs, then factual closeout. No new page approved.
-- Completion requires new evidence artifact, focused/full native QA, changed
-  JSON/privacy/scope checks, independent read-only PASS and reviewed exact-path
-  push-only release/alignment. No current blocker.
+  cycle2 read-only PASS/no P0-P3. Reviewed `007fc9f` pushed after fresh
+  fetch/no divergence, exact9-path staged and unpushed-range inspection;
+  local/origin/remote matched. This is same-path factual closeout. No new page
+  approved or current blocker; docs-only, no Pages run.
 - September 30 GSC collected 16:32 UTC, finalized through September 28:
   387/10 overall, ramp 298/8, all 10 priority URLs indexed. Query/device/
   country rows absent; no attribution to yesterday's ramp edit. Preserve
