@@ -544,6 +544,12 @@ h1 {
   }
 }
 
+@media (max-width: 340px) {
+  .maze-guide-hero h1 {
+    font-size: 1.7rem;
+  }
+}
+
 .content h2 {
   margin: 36px 0 10px;
   font-size: 1.75rem;

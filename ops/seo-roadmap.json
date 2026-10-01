@@ -3653,5 +3653,27 @@
       "completed_on": "2026-10-01",
       "next_step": "Separately register the pre-existing 320px/root200% guide H1 overflow P3 for a bounded fit repair; retain late card-link question as a separate evidence gate and weekly synthesis October4."
     }
+    ,{
+      "id": "KAL-IMP-022",
+      "title": "Repair ball-maze guide H1 at 320px enlarged text",
+      "kind": "implementation",
+      "status": "review_pending",
+      "registered_on": "2026-10-01",
+      "base_commit": "564b8551634bd458c2d4898868bb74abba2b1e41",
+      "exact_paths": ["site/styles.css", "scripts/generate_seo_pages.py", "site/articles/cardboard-ball-maze-kids.html", "tools/ball-maze-guide.test.mjs", "reviews/ball-maze-narrow-heading-repair-2026-10-01.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-01",
+      "evidence_class": "MEASURED independent IMP021 reviewer browser geometry at 320px/root200%; SOURCE_BACKED retained ball-maze task; RESEARCH_HYPOTHESIS persona; EDITORIAL_JUDGMENT scoped H1 fit; family outcomes UNKNOWN",
+      "user_problem": "At 320px with 200% root text, the ball-maze guide H1 expands the document to348px and clips the first-screen activity identity.",
+      "hypothesis": "A guide-scoped narrow-screen H1 size contains the whole word at320px/root200% while keeping wider desktop/mobile typography, first decision panel, activity content and SEO identity unchanged.",
+      "acceptance": "Guide scroll/client width 320/320 at320px/root200%, H1 entirely visible with no overlap; desktop1280, mobile390, mobile390/root200 and mobile320 normal still fit; first panel/start/adult/stop remain readable, keyboard/touch, direct hash/Back/image/error checks pass. No new URL/body copy/card/library change.",
+      "qa_plan": "Always git diff --check, jq empty and node --test tools/*.test.mjs; all3generators twice/idempotence and exact output scope; full local links/fragments; parse changed JSON, source/privacy/claim checks; local desktop/mobile/320-root200 visual, keyboard/touch/Back/true-hash and error QA; independent read-only review; exact-SHA Pages and production bytes/task verification.",
+      "measurement_plan": "Compare reviewer 348/320 baseline with local/live 320/320 and keep IMP021's 24/26 same-task proxy unless a scored dimension genuinely changes. No human, physical or causal SEO outcome inference.",
+      "production_invariants": "37 cards, seven guide URLs, 66 sitemap URLs unchanged; only guide stylesheet cache token may change in generated HTML. H1 wording, title, canonical, JSON-LD, guide body/source/safety claims unchanged; no paid tool, indexing, outreach or automation change.",
+      "observation_window": "Preserve rampOct13, chainOct7, foilOct8, packOct9, bridgeOct10; weeklyOct4. Verified accessibility defect exception only.",
+      "reconsider_conditions": "Stop/narrow if wrapping fails, other guides/layouts change, first-screen start/stop becomes hidden, content or output scope shifts, P0-P2 review findings remain, origin diverges or live rollout regresses.",
+      "evidence_refs": ["reviews/ball-maze-journey-repair-2026-10-01.md", "reviews/persona-review-protocol.md"],
+      "review": {"verdict": "PASS", "cycle": 1, "read_only": true, "reviewer_id": "01a0f88f-0dce-7fb0-8e3f-efa68fd1086d", "reviewer_name": "Hypatia", "findings": [], "reconciliation": "Independent old348/320/new320/320 whole-word, five modes, true hash/image/clean logs, 113 tests, JSON/whitespace PASS; full links and generators Master-run only."},
+      "next_step": "Independent PASS/no findings; fresh fetch/no divergence, inspect exact13 unpushed scope, push and verify exact-SHA Pages plus live affected bytes and parent task."
+    }
   ]
 }

@@ -4,6 +4,16 @@ The roadmap is authoritative. This backlog supplies implementation context; it
 does not independently schedule work. The Master / Operator is the single
 repository writer for a validated transaction.
 
+## October 1 Narrow Ball Maze Heading
+
+IMP022 [repair](../reviews/ball-maze-narrow-heading-repair-2026-10-01.md)
+closes independent IMP021 P3 348/320 guide overflow at320px/root200% with a
+guide-only narrow H1 size. Whole-word title and320/320 fit pass locally; a
+mid-word wrapping trial was rejected. Same parent task/content and24/26 proxy
+remain, with five-mode browser/native113/generator/link QA pass. Independent
+read-only Hypatia PASS/no findings; exact-SHA Pages/live task pending. No new page, broader
+guide rewrite, card handoff change or observation-window reset.
+
 ## October 1 Ball Maze Route Repair
 
 IMP021 is released: [same-task repair](../reviews/ball-maze-journey-repair-2026-10-01.md)

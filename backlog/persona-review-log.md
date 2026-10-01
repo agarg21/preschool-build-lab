@@ -6,6 +6,19 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-10-01 Afternoon - Ball Maze Whole-Word Heading
+
+IMP022 [narrow-heading repair](../reviews/ball-maze-narrow-heading-repair-2026-10-01.md)
+adds a 320px/root200% stress to the unchanged source-derived maze caregiver
+task and younger-child reach constraint. Before: H1 caused348/320 document
+overflow. After: whole-word title and320/320 fit; first panel remains
+scrollable, not clipped. Five local desktop/mobile/enlarged modes, route,
+keyboard/touch/Back/true hash/image/controls/errors pass. Original IMP021
+whole-route proxy **24/26, 13 applicable, no N/A** stays unchanged because
+this narrower stress was not in its denominator. No human or physical test,
+assistive-technology certification or SEO attribution. Hypatia independent
+read-only PASS/no findings; production verification pending.
+
 ## 2026-10-01 Morning - Ball Maze Enlarged-Text Repair
 
 IMP021 [same-task repair](../reviews/ball-maze-journey-repair-2026-10-01.md)

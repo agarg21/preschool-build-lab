@@ -4,6 +4,32 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-01 Afternoon - KAL-IMP-022 Narrow Guide Identity
+
+- Decision/persona: retained source-derived caregiver judges a no-cut lid
+  maze and starts a wide path; younger-child material reach is the stress.
+- Hypothesis: scoped 320px H1 sizing can keep the whole activity name visible
+  at root200% without changing the task or wider layout. [Repair](../reviews/ball-maze-narrow-heading-repair-2026-10-01.md)
+  shows guide348/320 ->320/320; discarded mid-word wrap trial.
+- Evidence: Copernicus October1 independent P3 and same-day local browser
+  geometry `MEASURED`; retained guide facts `SOURCE_BACKED`; persona
+  `RESEARCH_HYPOTHESIS`; visual/priority decision `EDITORIAL_JUDGMENT`;
+  family outcomes `UNKNOWN`.
+- Result/confidence: IMPROVE existing page, no new URL. High confidence in
+  the five tested browser layouts, unknown parent comprehension or satisfaction.
+  IMP021 24/26 across13 dimensions remains the proxy, not a new score gain.
+- Lesson: fitting the viewport is insufficient when a rule breaks activity
+  names mid-word. Check screenshots and whole-word readability at the stress
+  size before treating geometry alone as success.
+- Next falsification: live 320/root200% overflow or title clipping, a different
+  guide affected by the scoped CSS, or a source-grounded parent task where the
+  now-long first screen prevents reaching a critical instruction.
+- Measurement boundary: no new GSC snapshot, no search attribution, human or
+  physical test. Native113/71HTML/764 references, generator exact-output and
+  five-mode local browser QA pass; Hypatia independent cycle1 PASS/no findings,
+  including reproduced width, five modes and 113 tests. Pages pending. Preserve
+  rampOct13, chainOct7, foilOct8, packOct9, bridgeOct10, weeklyOct4.
+
 ## 2026-10-01 Morning - KAL-IMP-021 Ball Maze Readable Arrival
 
 - Decision/persona: source-derived caregiver judges a no-cut lid maze and starts

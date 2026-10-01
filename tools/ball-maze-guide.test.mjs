@@ -63,6 +63,10 @@ test("wide path and one-wall change keep their boundaries", () => {
     fs.readFileSync(path.join(ROOT, "site", "styles.css"), "utf8"),
     /\.maze-article section\[id\] \{\s*scroll-margin-top: 7rem;/,
   );
+  assert.match(
+    fs.readFileSync(path.join(ROOT, "site", "styles.css"), "utf8"),
+    /@media \(max-width: 340px\) \{\s*\.maze-guide-hero h1 \{\s*font-size: 1\.7rem;/,
+  );
 });
 
 test("visual and compact routes agree with the guide", () => {

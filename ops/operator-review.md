@@ -1,5 +1,22 @@
 # Operator Review
 
+## KAL-IMP-022 - October 1 Afternoon
+
+Base564b855, clean/fetched/aligned; exact13 paths registered. Verified
+IMP021 reviewer P3 on existing guide: 320px/root200% document348/320.
+Candidate word-wrap yielded geometry fit but split “Cardboard”; rejected.
+Final guide-scoped narrow H1 size preserves whole-word title and320/320 fit.
+Other four modes/route/Back/true hash/image/controls/keyboard/touch/error
+checks pass. Guide content, title wording, canonical, JSON-LD and sitemap
+unchanged; only stylesheet cache token generated. Three generators twice,
+same diff hash, native113, 71HTML/764 links-assets-fragments, JSON/whitespace
+PASS. Source-derived proxy24/26 unchanged, no human or SEO result. Hypatia
+independent read-only cycle1 PASS/no P0-P3; old348/320 and new320/320 with
+whole words, five viewports, true hash/image/clean logs,113 tests, JSON and
+whitespace independently checked. Full link scan/generators Master-run only.
+Exact-SHA Pages/live checks pending. WeeklyOct4 and
+observation windows preserved; no release claim yet.
+
 ## KAL-IMP-021 - October 1 Morning
 
 Base99593dc, clean/fetched/aligned before edits; exact18 paths registered after

@@ -1,5 +1,43 @@
 # Current Cycle
 
+## Run Checkpoint - October 1 Afternoon Ball Maze Narrow Heading
+
+- Invocation `2026-10-01T17:01:37.443Z`; checked 17:01:51 UTC, pilot active.
+  No newer redirect. Morning IMP021 completed; weekly synthesis due October 4.
+- Clean main/origin aligned at `564b8551634bd458c2d4898868bb74abba2b1e41`
+  after fetch, no incoming/dirty changes. Action `KAL-IMP-022`, REVIEWED.
+- Objective: repair independent IMP021 review's pre-existing guide H1 348/320
+  overflow at 320px/root200% without changing the source-derived ball-maze
+  task, search owner, article body, card/library, or wider-view typography.
+- Exact13 paths: `site/styles.css`, `scripts/generate_seo_pages.py`,
+  `site/articles/cardboard-ball-maze-kids.html`,
+  `tools/ball-maze-guide.test.mjs`,
+  `reviews/ball-maze-narrow-heading-repair-2026-10-01.md`,
+  `backlog/product-learning-ledger.md`, `backlog/persona-review-log.md`,
+  `backlog/implementation-backlog.md`, `status/priority-pages.md`,
+  `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
+  `ops/seo-roadmap.md`. No sitemap date change (guide already changed today).
+- Reproduced reviewer348/320 baseline. A mid-word wrapping trial fit but failed
+  visual quality; final narrow H1 size keeps whole words and guide320/320.
+  Generator-owned token and focused test updated; three generators twice,
+  byte-idempotent and guide-token-only generated output. Native113, roadmap
+  JSON/whitespace and 71HTML/764 local refs PASS; five-mode local route,
+  keyboard/touch/Back/true hash/image/controls/error and screenshots PASS.
+  Evidence and every-section check in
+  `reviews/ball-maze-narrow-heading-repair-2026-10-01.md`.
+  Hypatia independent read-only cycle1 PASS/no P0-P3, independently reproduced
+  old348/320 and new320/320 intact words, five modes, true hash/image/logs,
+  113 tests, JSON/whitespace; generators and full links Master-run only.
+  Next: fresh fetch, exact13-path push/Pages/live QA.
+- Completion still needs reviewed
+  exact-path push, exact-SHA Pages success, live affected-byte/parent-task
+  verification and final local/origin alignment. No current blocker.
+- Measurement: reuse IMP021 source-derived caregiver/younger-child task and
+  local 13-dimension proxy; no new SEO demand, family test, or outcome claim.
+  Preserve rampOct13, chainOct7, foilOct8, packOct9, bridgeOct10, weeklyOct4.
+  GSC sensing: no new snapshot since morning's validated Sep30/74 baseline;
+  unchanged GSC is not a reason to skip this verified defect.
+
 ## Run Checkpoint - October 1 Morning Ball Maze Text Fit
 
 - Invocation `2026-10-01T09:02:05.645Z`; time checked 09:02:17 UTC, pilot
