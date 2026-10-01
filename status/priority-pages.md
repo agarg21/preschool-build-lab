@@ -2,7 +2,7 @@
 
 Last updated: 2026-10-01
 
-## October 1 Ball Maze Narrow Heading - In Review
+## October 1 Ball Maze Narrow Heading - Released
 
 IMP022 [repair](../reviews/ball-maze-narrow-heading-repair-2026-10-01.md)
 addresses the pre-existing 320px/root200% guide H1 overflow P3 from IMP021.
@@ -10,7 +10,10 @@ Local guide 348/320 ->320/320 with whole-word H1; five-mode route, task,
 native113, generator and local link QA pass. Unchanged 24/26 proxy, not a
 human-result improvement. Only guide stylesheet token generated; 37 cards,
 seven guides/66 sitemap URLs and article copy remain. Hypatia independent
-read-only PASS/no findings; exact-SHA Pages and live QA pending; windows stay.
+read-only PASS/no findings. Reviewed15f79f2, exact-SHA Pages36904544401
+success, five HTTP200/byte-matched files and five-mode live task pass.
+GSC Oct1 validated75 files, throughSep29 overall380/10; no SEO attribution.
+Protected windows stay.
 
 ## October 1 Ball Maze Route Repair - Released
 

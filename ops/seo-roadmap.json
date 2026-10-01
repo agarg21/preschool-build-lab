@@ -3657,7 +3657,7 @@
       "id": "KAL-IMP-022",
       "title": "Repair ball-maze guide H1 at 320px enlarged text",
       "kind": "implementation",
-      "status": "review_pending",
+      "status": "completed",
       "registered_on": "2026-10-01",
       "base_commit": "564b8551634bd458c2d4898868bb74abba2b1e41",
       "exact_paths": ["site/styles.css", "scripts/generate_seo_pages.py", "site/articles/cardboard-ball-maze-kids.html", "tools/ball-maze-guide.test.mjs", "reviews/ball-maze-narrow-heading-repair-2026-10-01.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3673,7 +3673,9 @@
       "reconsider_conditions": "Stop/narrow if wrapping fails, other guides/layouts change, first-screen start/stop becomes hidden, content or output scope shifts, P0-P2 review findings remain, origin diverges or live rollout regresses.",
       "evidence_refs": ["reviews/ball-maze-journey-repair-2026-10-01.md", "reviews/persona-review-protocol.md"],
       "review": {"verdict": "PASS", "cycle": 1, "read_only": true, "reviewer_id": "01a0f88f-0dce-7fb0-8e3f-efa68fd1086d", "reviewer_name": "Hypatia", "findings": [], "reconciliation": "Independent old348/320/new320/320 whole-word, five modes, true hash/image/clean logs, 113 tests, JSON/whitespace PASS; full links and generators Master-run only."},
-      "next_step": "Independent PASS/no findings; fresh fetch/no divergence, inspect exact13 unpushed scope, push and verify exact-SHA Pages plus live affected bytes and parent task."
+      "release": {"state": "pushed", "reviewed_commit": "15f79f2a514536459b0418f4e7765a828263ae8d", "site_changed": true, "pages_run": 36904544401, "pages_conclusion": "success", "release_marker": "absent; exact-SHA Pages and five live file byte-matches used", "production": "Five affected/route files HTTP200 byte-identical; three HTML canonical/H1/link surfaces and five-mode desktop/mobile/root200% route, keyboard/touch/Back/true hash/image/controls/width/clean-log task PASS. Live 320/root200% whole-word guide320/320, heading224/header143. Disjoint incoming GSC-only 9b570e5 inspected and fast-forwarded before release."},
+      "completed_on": "2026-10-01",
+      "next_step": "Observe this verified heading fit without inferring family or SEO outcomes; separately evaluate late compact-card depth-link scan cost only with a source-grounded task. Weekly synthesis due October4; protected windows unchanged."
     }
   ]
 }

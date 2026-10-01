@@ -88,7 +88,22 @@ rule. Hypatia independent read-only cycle1 `PASS`, no P0-P3: it independently
 reproduced old348/320 and new320/320 with intact words, five viewport modes,
 true hash, image, clean browser logs, 113 tests, JSON and whitespace. The
 full-site link scan and generators were Master-run, not independently rerun.
-Exact-SHA Pages/live verification remains pending at this writing.
+Reviewed `15f79f2a514536459b0418f4e7765a828263ae8d` was pushed after
+inspected, disjoint GSC-only fast-forward `9b570e5` and fresh no-divergence
+preflight. Exact-SHA Pages run `36904544401` succeeded. No release-marker
+file exists; run SHA and five public file byte matches verify deployment.
+Live CSS, guide, sitemap, library and compact card returned HTTP 200 with
+identical bytes; three HTML canonical/H1/link surfaces passed. Production
+five-mode library/card/guide, desktop keyboard focus/Enter, mobile touch,
+Back, first-run hash, image decode, required controls, document widths and
+console/page errors passed. Live 320/root200% guide is320/320 with intact
+title words; fragment heading224/header143, first step385. Screenshot inspected.
+This is browser evidence only, not a parent or assistive-technology test.
+
+The new October 1 public-safe GSC snapshot validates as file75, finalized
+through September29: 380 impressions/10 clicks overall and ramp292/8.
+Ball-maze compact card remains1/0; full query rows absent, so no causal search
+or guide-demand inference follows from this release.
 
 Reconsider if production 320/root200% still overflows, another viewport or
 guide changes, a critical start/stop is obscured, or independent review finds

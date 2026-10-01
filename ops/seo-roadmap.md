@@ -12,7 +12,7 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
-0. October1 afternoon `KAL-IMP-022` REVIEWED on clean aligned564b855.
+0. October1 afternoon `KAL-IMP-022` COMPLETED, reviewed `15f79f2`.
    Repair Copernicus's IMP021 P3: guide H1 overflows348/320 at320/root200%.
    Exact13 paths in JSON/current-cycle; scoped narrow-screen heading size and generator-owned
    cache token only, no content/URL/card/library/sitemap-date change. Reuse
@@ -20,8 +20,12 @@ this is a gate/sequence review, not new demand or ranking evidence.
    weeklyOctober4. Reproduced348/320; rejected ugly mid-word wrap; final
    whole-word 320/320 fit, five-mode local route/native113/generator/link QA
    pass. Hypatia independent read-only cycle1 PASS/no P0-P3, browser and113
-   native tests independently reproduced. Exact-SHA Pages/live release pending. Morning
-   IMP021 remains completed.
+   native tests independently reproduced. Disjoint GSC-only9b570e5 inspected
+   and fast-forwarded before release. Exact-SHA Pages36904544401 SUCCESS,
+   five live HTTP200/byte-identical files, three canonical/H1/link surfaces
+   and five-mode production task PASS; no release marker exists. Final
+   alignment check follows docs-only factual closeout. Morning IMP021 remains
+   completed. New GSC75 throughSep29, overall380/10, no attribution.
 
 0. October1 morning `KAL-IMP-021` COMPLETED, reviewed `88718a6`.
    Repair only RES027's verified library promo overflow and ball-maze

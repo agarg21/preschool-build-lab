@@ -14,8 +14,17 @@ PASS. Source-derived proxy24/26 unchanged, no human or SEO result. Hypatia
 independent read-only cycle1 PASS/no P0-P3; old348/320 and new320/320 with
 whole words, five viewports, true hash/image/clean logs,113 tests, JSON and
 whitespace independently checked. Full link scan/generators Master-run only.
-Exact-SHA Pages/live checks pending. WeeklyOct4 and
-observation windows preserved; no release claim yet.
+Pre-push fetch found disjoint GSC-only9b570e5, inspected and cleanly
+fast-forwarded. Exact13 staged paths, complete unpushed range, no unstaged
+edits, secret/privacy/unsafe-claim and whitespace checks passed. Reviewed
+`15f79f2a514536459b0418f4e7765a828263ae8d` pushed. Exact-SHA Pages
+run36904544401 SUCCESS, no release marker. Five live CSS/guide/sitemap/library/
+card files HTTP200 and byte-identical; three HTML canonical/H1/link surfaces
+and five-mode parent route, desktop keyboard/touch mobile, Back/true hash/
+image/controls/width/error checks PASS. Live320/root200% title whole-word and
+guide320/320; screenshot inspected. Oct1 GSC75 validated throughSep29,
+overall380/10, no causal claim. WeeklyOct4/windows preserved. This is
+same-path factual closeout; final alignment check follows closeout push.
 
 ## KAL-IMP-021 - October 1 Morning
 

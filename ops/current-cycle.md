@@ -5,7 +5,9 @@
 - Invocation `2026-10-01T17:01:37.443Z`; checked 17:01:51 UTC, pilot active.
   No newer redirect. Morning IMP021 completed; weekly synthesis due October 4.
 - Clean main/origin aligned at `564b8551634bd458c2d4898868bb74abba2b1e41`
-  after fetch, no incoming/dirty changes. Action `KAL-IMP-022`, REVIEWED.
+  after initial fetch, no incoming/dirty changes. Action `KAL-IMP-022`,
+  COMPLETED. During pre-push fetch, inspected disjoint GSC-only incoming
+  `9b570e5`, then clean fast-forwarded; no overlap with exact13 paths.
 - Objective: repair independent IMP021 review's pre-existing guide H1 348/320
   overflow at 320px/root200% without changing the source-derived ball-maze
   task, search owner, article body, card/library, or wider-view typography.
@@ -28,15 +30,20 @@
   Hypatia independent read-only cycle1 PASS/no P0-P3, independently reproduced
   old348/320 and new320/320 intact words, five modes, true hash/image/logs,
   113 tests, JSON/whitespace; generators and full links Master-run only.
-  Next: fresh fetch, exact13-path push/Pages/live QA.
-- Completion still needs reviewed
-  exact-path push, exact-SHA Pages success, live affected-byte/parent-task
-  verification and final local/origin alignment. No current blocker.
+  Reviewed `15f79f2` exact13-path commit pushed after fresh no-divergence
+  fetch. Exact-SHA Pages36904544401 SUCCESS, no release marker. Five live files
+  HTTP200/byte-match; three HTML canonical/H1/link surfaces and five-mode
+  production parent route/keyboard/touch/Back/true hash/image/controls/
+  widths/clean errors PASS. Live320/root200% guide320/320, whole words,
+  heading224/header143, first step385; screenshot inspected. Docs-only factual
+  closeout and final alignment check follow; no blocker.
 - Measurement: reuse IMP021 source-derived caregiver/younger-child task and
   local 13-dimension proxy; no new SEO demand, family test, or outcome claim.
   Preserve rampOct13, chainOct7, foilOct8, packOct9, bridgeOct10, weeklyOct4.
-  GSC sensing: no new snapshot since morning's validated Sep30/74 baseline;
-  unchanged GSC is not a reason to skip this verified defect.
+  GSC sensing: new Oct1 snapshot validated with 75 files after disjoint
+  fast-forward; finalized throughSep29, overall380/10, ramp292/8 and compact
+  ball-maze card1/0. Missing full queries/six guide rows are not zero. This
+  is not route analytics or causal evidence; preserve all windows.
 
 ## Run Checkpoint - October 1 Morning Ball Maze Text Fit
 
