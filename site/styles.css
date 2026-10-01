@@ -335,7 +335,7 @@ h1 {
 }
 
 .maze-article section[id] {
-  scroll-margin-top: 104px;
+  scroll-margin-top: 7rem;
 }
 
 .road-guide-hero {
@@ -1339,7 +1339,8 @@ th {
 
 .game-promo-link {
   font-weight: 850;
-  white-space: nowrap;
+  white-space: normal;
+  overflow-wrap: anywhere;
 }
 
 .indoor-visual,

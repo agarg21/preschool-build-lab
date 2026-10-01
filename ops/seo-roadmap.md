@@ -12,6 +12,20 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
+0. October1 morning `KAL-IMP-021` REVIEWED on clean aligned99593dc.
+   Repair only RES027's verified library promo overflow and ball-maze
+   first-run hash clearance using scoped CSS, two stylesheet cache tokens and
+   generator-owned sitemap dates. Exact18 paths in JSON/current-cycle, including
+   two native tests with three stale assertions; no
+   activity wording, card layout or new URL. Frozen 22/26 proxy is a baseline,
+   not a parent-test result. Native/browser/independent review and exact-SHA
+   Local native113, generators twice/idempotence, exact output, 71HTML/764
+   local references and four-mode browser task PASS. Same-task proxy22/26->
+   24/26; card depth link unchanged. Copernicus independent read-only
+   `PASS_WITH_P3`/no P0-P2. P3: pre-existing 320px/root200% guide H1 348/320
+   overflow; separately scope. Exact-SHA Pages release and live task pending.
+   All windows/weeklyOctober4 preserved.
+
 0. September30 afternoon `KAL-RES-027` COMPLETED,
    basebb93ea3/exact9paths.
    [Journey audit](../reviews/ball-maze-library-journey-2026-09-30.md):

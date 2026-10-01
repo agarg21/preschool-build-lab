@@ -175,9 +175,9 @@ test("ramp library summary and sitemap align with the compact repair", () => {
   const library = fs.readFileSync(path.join(ROOT, "site/cards.html"), "utf8");
   assert.match(library, /href="cards\/cardboard-car-ramp.html"><strong>Cardboard Car Ramp<\/strong><span>Open-ended · flat stiff cardboard, two broad closed books, one toy car/);
   const sitemap = fs.readFileSync(path.join(ROOT, "site/sitemap.xml"), "utf8");
-  for (const route of ["cards.html", "cards/cardboard-car-ramp.html"]) {
+  for (const [route, lastmod] of [["cards.html", "2026-10-01"], ["cards/cardboard-car-ramp.html", "2026-09-29"]]) {
     const entry = [...sitemap.matchAll(/<url>([\s\S]*?)<\/url>/g)].find(m => m[1].includes(`<loc>https://kidactivitylab.com/${route}</loc>`));
     assert.ok(entry);
-    assert.match(entry[1], /<lastmod>2026-09-29<\/lastmod>/);
+    assert.match(entry[1], new RegExp(`<lastmod>${lastmod}<\\/lastmod>`));
   }
 });

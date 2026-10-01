@@ -1,5 +1,43 @@
 # Current Cycle
 
+## Run Checkpoint - October 1 Morning Ball Maze Text Fit
+
+- Invocation `2026-10-01T09:02:05.645Z`; time checked 09:02:17 UTC, pilot
+  active. No newer redirect. Prior RES027 completed; weekly due October 4.
+- Clean main/origin aligned at `99593dc5b2ffd3d4b2e1dbe60f17da27a1ea76b5`
+  after fetch; no incoming/dirty changes. Action `KAL-IMP-021`, phase REVIEW.
+- Objective: repair RES027's measured 461/390 mobile/root200% library promo
+  overflow and first-run direct-fragment heading hidden39px under sticky header.
+  Preserve the working library/card/guide task and all activity content.
+- Exact18 paths (expanded for three stale native assertions): `site/styles.css`, `scripts/generate_card_pages.py`,
+  `scripts/generate_seo_pages.py`, `scripts/generate_sitemap.py`, `site/cards.html`,
+  `site/articles/cardboard-ball-maze-kids.html`, `site/sitemap.xml`,
+  `tools/ball-maze-guide.test.mjs`, `tools/cardboard-ramp-first-start.test.mjs`,
+  `reviews/ball-maze-journey-repair-2026-10-01.md`,
+  `backlog/product-learning-ledger.md`, `backlog/persona-review-log.md`,
+  `backlog/implementation-backlog.md`, `status/priority-pages.md`,
+  `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
+  `ops/seo-roadmap.md`. No card generator output beyond library.
+- Minimal scoped CSS, generator-owned cache tokens/two sitemap dates and
+  three stale native assertions done. Three generators twice/idempotent;
+  two HTML token-only and two sitemap-date-only outputs, 66 URLs stable.
+  Native113, JSON/whitespace and 71HTML/764 local references PASS. Four-mode
+  local browser route, keyboard/touch/Back/true hash/image/error/visual fit
+  PASS. Same-task proxy22/26->24/26; card link remains late. Dated evidence
+  and every-section audit in `reviews/ball-maze-journey-repair-2026-10-01.md`.
+  Copernicus independent read-only `PASS_WITH_P3` (no P0-P2), 108 non-writing
+  tests and broader 71HTML/834-reference check. P3: pre-existing guide H1
+  348/320 overflow at 320px/root200%, separately scoped follow-up, not this
+  registered 390px stress. Next: fresh fetch, exact-path push, exact-SHA Pages
+  and live affected URLs/tasks.
+- Completion still requires exact-SHA Pages success,
+  live affected URL/desktop-mobile task checks and local/origin alignment.
+  No blocker now; this checkpoint is not completion.
+- GSC sensing: no new snapshot after September30; all74 validated. Latest
+  finalized through September28,387/10 overall; ball-maze card1/0 is not
+  journey analytics or page-demand proof. Protect rampOctober13,
+  chainOctober7, foilOctober8, packOctober9, bridgeOctober10; weeklyOctober4.
+
 ## Run Checkpoint - September 30 Afternoon Ball Maze Journey
 
 - Invocation `2026-09-30T17:01:24.119Z`; checked 17:01:42 UTC, pilot active.

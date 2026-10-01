@@ -4,6 +4,19 @@ The roadmap is authoritative. This backlog supplies implementation context; it
 does not independently schedule work. The Master / Operator is the single
 repository writer for a validated transaction.
 
+## October 1 Ball Maze Route Repair
+
+IMP021 is in review: [same-task repair](../reviews/ball-maze-journey-repair-2026-10-01.md)
+wraps the unrelated library game-promo link and gives guide section anchors a
+text-relative offset. Local root200% library fit 461/390 -> 390/390;
+first-run true-hash heading104/header143 ->224/143. Proxy22/26->24/26;
+late compact-card guide link stays a separate scan-cost question, not an
+automatic next build. Exact18 paths/native113/local browser/generator/link QA
+passed. Copernicus independent `PASS_WITH_P3`, no P0-P2; pre-existing
+320px/root200% guide H1 348/320 overflow is a separate heading-fit repair,
+not a failure of registered 390px stress. Exact-SHA Pages/live task pending.
+No new URL, procedure, claim, or demand inference. Preserve windows/weeklyOct4.
+
 ## Individual Page Queue - September 22
 
 September26 afternoon IMP019 implements the morning P3 guide-only anchor

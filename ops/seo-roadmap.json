@@ -3628,6 +3628,28 @@
       "review": {"verdict": "PASS", "cycle": 2, "read_only": true, "reviewer_id": "01a0f352-5979-7ed0-8f8e-ae951fed1f7c", "reviewer_name": "Pasteur", "findings": [], "reviewed_base": "bb93ea3", "reconciliation": "Cycle1 P2/P3 corrected; cycle2 exact9 scope, prior items, unique IDs, six refs, JSON and whitespace PASS. Cycle1 independently113 tests/74 snapshots; browser matrix not rerun cycle2. Same-path factual closeout allowed."},
       "release": {"state": "pushed", "reviewed_commit": "007fc9ffaf2e3b724f1c6c6da625317d60463131", "site_changed": false, "pages": "not applicable; research/operator-only", "alignment": "clean local/origin0/0 and remote main exact reviewed SHA verified before same-path factual closeout"},
       "next_step": "After push-only research release, separately register bounded existing-route repair. Reproduce 390/root200% library fit and true enlarged-text fragment heading clearance; improve card handoff only without weakening start. Preserve all observation windows and weeklyOctober4."
+    },
+    {
+      "id": "KAL-IMP-021",
+      "title": "Repair enlarged-text library promotion and ball-maze fragment arrival",
+      "kind": "implementation",
+      "status": "review_pending",
+      "registered_on": "2026-10-01",
+      "base_commit": "99593dc5b2ffd3d4b2e1dbe60f17da27a1ea76b5",
+      "exact_paths": ["site/styles.css", "scripts/generate_card_pages.py", "scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/cards.html", "site/articles/cardboard-ball-maze-kids.html", "site/sitemap.xml", "tools/ball-maze-guide.test.mjs", "tools/cardboard-ramp-first-start.test.mjs", "reviews/ball-maze-journey-repair-2026-10-01.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-09-30",
+      "evidence_class": "MEASURED RES027 desktop/mobile/root200% route and geometry; SOURCE_BACKED retained ball-maze task lineage; RESEARCH_HYPOTHESIS persona; EDITORIAL_JUDGMENT narrow CSS fix; family outcomes UNKNOWN",
+      "user_problem": "At mobile root200% the card library promo overflows 461/390; a true #first-run jump on the ball-maze guide places its heading39px behind the sticky header.",
+      "hypothesis": "Scoped link wrapping and text-relative maze-section scroll margin restore 390px fit and readable fragment arrival without changing activity content, SEO owner or other page layouts.",
+      "acceptance": "Same RES027 parent task; library/card/guide route works with keyboard/touch and Back at desktop1280/mobile390/root200%; root200% library and guide have no horizontal overflow or clipped text; true hash navigation after text scaling places heading below header with first step visible; all material/adult/stop/rescue/cleanup and untested boundaries unchanged. No new URL/copy/card layout.",
+      "qa_plan": "Always git diff --check, jq empty and node --test tools/*.test.mjs; run all3generators twice with idempotence/exact output checks and complete local link/fragment checks; parse changed JSON; CSS selector/content/SEO/privacy scope checks; desktop/mobile/root200% keyboard/touch/Back/direct-hash visual QA; independent read-only review; exact pushed-SHA Pages and live affected URL/bytes/task verification.",
+      "measurement_plan": "Re-run same RES027 13-dimension proxy and exact geometry/screenshots, compare 22/26 baseline; GSC sensing only, no human or causal search inference.",
+      "production_invariants": "37card files, seven guide URLs and66 sitemap URLs stable; only library and ball-maze guide HTML stylesheet-version changes and corresponding sitemap lastmods; title/H1/canonical/body/JSON-LD/source claims and all other generated outputs unchanged. No paid tool, indexing, outreach or automation change.",
+      "observation_window": "Preserve rampOctober13, chainOctober7, foilOctober8, packOctober9, bridgeOctober10; weeklyOctober4. Verified defect repair exception only.",
+      "reconsider_conditions": "Narrow or stop if minimal CSS fails, changes other pages/outputs, true fragment remains hidden, claims/content shift, P0-P2 review findings remain, remote diverges, or production regresses ambiguously.",
+      "evidence_refs": ["reviews/ball-maze-library-journey-2026-09-30.md", "reviews/persona-review-protocol.md"],
+      "review": {"verdict": "PASS_WITH_P3", "cycle": 1, "read_only": true, "reviewer_id": "01a0f6c8-0580-7801-8534-fdf62d5fff22", "reviewer_name": "Copernicus", "findings": ["P3 pre-existing guide H1 348/320 overflow at 320px/root200%; separately scope heading-fit repair"], "reconciliation": "No P0-P2; independent 108 non-writing tests, 71HTML/834 broader local references, exact18 scope/68 prior roadmap items and 390px enlarged browser task PASS."},
+      "next_step": "Independent PASS_WITH_P3; fresh fetch/no divergence, inspect complete unpushed range, stage exact18, push, monitor exact-SHA Pages and verify live affected URLs/task. Separately register 320px/root200% guide H1 P3."
     }
   ]
 }

@@ -61,7 +61,7 @@ test("wide path and one-wall change keep their boundaries", () => {
   assert.doesNotMatch(html, /marble|bead|ping-pong|scissors|hot glue/i);
   assert.match(
     fs.readFileSync(path.join(ROOT, "site", "styles.css"), "utf8"),
-    /\.maze-article section\[id\] \{\s*scroll-margin-top: 104px;/,
+    /\.maze-article section\[id\] \{\s*scroll-margin-top: 7rem;/,
   );
 });
 
@@ -109,5 +109,5 @@ test("keyword inventory and sitemap contain the guide once", () => {
     .map((match) => match[1])
     .filter((entry) => entry.includes("cardboard-ball-maze-kids.html"));
   assert.equal(entries.length, 1);
-  assert.match(entries[0], /<lastmod>2026-09-14<\/lastmod>/);
+  assert.match(entries[0], /<lastmod>2026-10-01<\/lastmod>/);
 });

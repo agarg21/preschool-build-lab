@@ -1,5 +1,25 @@
 # Operator Review
 
+## KAL-IMP-021 - October 1 Morning
+
+Base99593dc, clean/fetched/aligned before edits; exact18 paths registered after
+two stale native tests entered scope. Source-derived RES027 caregiver task and
+younger-child stress retained. Two verified defects repaired only by scoped
+library-link wrapping and guide text-relative anchor clearance. Local library
+root200% 461/390 ->390/390; true fragment heading104/header143 ->224/143.
+Four-mode desktop/mobile/narrow/enlarged route, keyboard/touch/Back/true hash,
+image/visual text fit and clean browser logs pass. Same-task proxy22/26->24/26,
+no human or physical result. Three generators twice/idempotent, only two HTML
+cache tokens/two sitemap dates changed, 66 URLs stable; native113, 71HTML/764
+local links/assets/fragments, roadmap JSON and whitespace pass. No new page,
+activity claim, paid tool, indexing request or automation change. Independent
+read-only Copernicus cycle1 `PASS_WITH_P3`, no P0-P2. Reviewer independently
+ran108 non-writing tests, 71HTML/834 broader local references, checked exact18
+scope/68 prior roadmap items and reproduced 390px enlarged arrival. P3 is a
+pre-existing guide H1 overflow at320px/root200% (348/320), for separate
+heading-fit scope. Exact-SHA Pages/live production checks pending. Protected
+windows and weeklyOctober4 unchanged. This is not a release claim.
+
 ## KAL-RES-027 - September 30 Afternoon
 
 Base `bb93ea3`, clean before checkpoint after inspected GSC-only fast-forward.

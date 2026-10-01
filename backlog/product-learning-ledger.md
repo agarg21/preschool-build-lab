@@ -4,6 +4,36 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-01 Morning - KAL-IMP-021 Ball Maze Readable Arrival
+
+- Decision/persona: source-derived caregiver judges a no-cut lid maze and starts
+  one wide path; younger-child material reach is the stress. Required materials,
+  adult role, mission, stop, rescue, adaptation, and cleanup are unchanged.
+- Hypothesis: wrapping the library game link and text-relative guide section
+  offset restore 390px enlarged-text fit and readable `#first-run` arrival.
+  [Repair](../reviews/ball-maze-journey-repair-2026-10-01.md) shows 461/390 ->
+  390/390 library width and heading104/header143 -> heading224/header143.
+- Evidence: September30 RES027 and retained September14 sources
+  `SOURCE_BACKED`; October1 local browser geometry `MEASURED`; persona
+  `RESEARCH_HYPOTHESIS`; priority and 22/26 -> 24/26 proxy
+  `EDITORIAL_JUDGMENT`. Family outcomes `UNKNOWN`.
+- Result/confidence: IMPROVE the existing route, not a new page. High confidence
+  in tested fit/fragment geometry, moderate in reduced scan difficulty,
+  unknown real-parent impact. The late card guide link remains unchanged.
+- Lesson: verify text settings before navigation; clear the actual sticky
+  header without rewriting activity instructions. A separate unrelated link
+  can break the route's mobile width.
+- Next falsification: live enlarged-text journey fails, another layout regresses,
+  or a source-grounded task shows the late card handoff blocks the decision.
+- Measurement boundary: no human/physical test or search causal claim; latest
+  finalized GSC throughSeptember28 387/10 overall, card1/0, query rows absent.
+  Native113, link/fragment764, generators/idempotence/scope, local four-mode
+  browser and JSON/whitespace PASS. Copernicus independent `PASS_WITH_P3`, no
+  P0-P2; pre-existing 320px/root200% guide H1 overflow is a separate gate.
+  Pages/live check pending. Preserve
+  rampOctober13, chainOctober7, foilOctober8, packOctober9, bridgeOctober10,
+  weeklyOctober4.
+
 ## 2026-09-30 Afternoon - KAL-RES-027 Existing Ball Maze Handoff
 
 - Decision/persona: source-derived caregiver must judge readiness and run a

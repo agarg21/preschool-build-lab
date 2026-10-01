@@ -6,6 +6,20 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-10-01 Morning - Ball Maze Enlarged-Text Repair
+
+IMP021 [same-task repair](../reviews/ball-maze-journey-repair-2026-10-01.md)
+repeats RES027's source-derived no-cut lid-maze decision and younger-child
+reach stress. Whole library/card/guide proxy **22/26 -> 24/26 across all 13
+dimensions**, no N/A: mobile interaction0->2 after library root200% fits
+390/390 rather than461/390 and true direct hash puts heading224 below
+header143 rather than heading104 behind it. Desktop keyboard, 390/320 touch,
+Back, image, errors and first step checked locally. Sensory fit and the late
+card link retain1 each; no human, physical, SEO-attribution or assistive-tech
+claim. Native113, links/fragments764 and generator QA pass; Copernicus
+independent `PASS_WITH_P3`/no P0-P2. Older 320px/root200% guide H1 overflow
+needs a separate repair; live release pending.
+
 ## 2026-09-30 Afternoon - Ball Maze Library Handoff
 
 RES027 [journey audit](../reviews/ball-maze-library-journey-2026-09-30.md)

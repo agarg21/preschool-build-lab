@@ -2456,7 +2456,7 @@ def ball_maze_guide_html():
     <meta name="description" content="Make a no-cut cardboard ball maze with a shallow box lid, three chunky blocks, and one large lightweight ball. Get clear setup, rescue, stop, and reset steps.">
     <link rel="icon" href="data:,">
     <link rel="canonical" href="https://kidactivitylab.com/articles/cardboard-ball-maze-kids.html">
-    <link rel="stylesheet" href="../styles.css?v=ball-maze-guide-1">
+    <link rel="stylesheet" href="../styles.css?v=ball-maze-guide-2">
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
