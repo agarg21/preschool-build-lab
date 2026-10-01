@@ -109,8 +109,17 @@ expectations. Independent read-only reviewer Copernicus returned
 references, exact18 scope and 68 prior roadmap items, plus browser reproduction.
 The P3 is a pre-existing guide H1 overflow at 320px **and** doubled root text
 (348/320), not caused by this patch or a failure of the registered 390px stress.
-It needs a separately scoped heading-fit repair. Exact-SHA Pages/live
-verification remains pending at this writing.
+It needs a separately scoped heading-fit repair. Reviewed commit
+`88718a6fef652a4c544461ca975f74e376799b7a` was pushed to `main` and
+exact-SHA Pages run `36844955159` succeeded. No release-marker file exists;
+the run SHA and bytes are the deployment evidence. Live CSS, library, guide,
+sitemap, and compact card returned HTTP 200 and byte-matched the reviewed
+commit. Canonical/H1/link surfaces passed. The same live four-mode route,
+keyboard focus/Enter, touch, Back, true fragment, image decode, required
+controls, widths, and clean browser logs passed. The live enlarged fragment
+measured heading224/header143 and first step385. An initial live harness had
+a JavaScript syntax error before running; corrected harness passed with no
+product edit. This does not claim the separate 320px/200% guide stress passes.
 
 Reconsider if production text scaling still hides the heading, the reviewed
 output scope changes, or a new task audit shows the late card link prevents a

@@ -17,8 +17,17 @@ read-only Copernicus cycle1 `PASS_WITH_P3`, no P0-P2. Reviewer independently
 ran108 non-writing tests, 71HTML/834 broader local references, checked exact18
 scope/68 prior roadmap items and reproduced 390px enlarged arrival. P3 is a
 pre-existing guide H1 overflow at320px/root200% (348/320), for separate
-heading-fit scope. Exact-SHA Pages/live production checks pending. Protected
-windows and weeklyOctober4 unchanged. This is not a release claim.
+heading-fit scope. Fresh pre-push fetch found no divergence; exact18 staged
+paths, complete one-commit unpushed range, whitespace, secrets/privacy and
+unsafe-claim checks passed. Reviewed `88718a6fef652a4c544461ca975f74e376799b7a`
+pushed. Exact-SHA Pages36844955159 SUCCESS; no release-marker file exists.
+Five live CSS/library/guide/sitemap/card files HTTP200 and byte-identical.
+Three HTML canonicals/H1s/link surfaces valid; live four-mode keyboard/touch/
+Back/true hash/image/controls/width/clean-log task PASS. Live enlarged
+heading224/header143, first step385. Initial browser harness syntax error
+occurred before execution; corrected harness passed, no product edit. Protected
+windows/weeklyOctober4 unchanged. Same-path factual closeout only; final
+local/origin/remote alignment to be checked after closeout push.
 
 ## KAL-RES-027 - September 30 Afternoon
 

@@ -3633,7 +3633,7 @@
       "id": "KAL-IMP-021",
       "title": "Repair enlarged-text library promotion and ball-maze fragment arrival",
       "kind": "implementation",
-      "status": "review_pending",
+      "status": "completed",
       "registered_on": "2026-10-01",
       "base_commit": "99593dc5b2ffd3d4b2e1dbe60f17da27a1ea76b5",
       "exact_paths": ["site/styles.css", "scripts/generate_card_pages.py", "scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/cards.html", "site/articles/cardboard-ball-maze-kids.html", "site/sitemap.xml", "tools/ball-maze-guide.test.mjs", "tools/cardboard-ramp-first-start.test.mjs", "reviews/ball-maze-journey-repair-2026-10-01.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3649,7 +3649,9 @@
       "reconsider_conditions": "Narrow or stop if minimal CSS fails, changes other pages/outputs, true fragment remains hidden, claims/content shift, P0-P2 review findings remain, remote diverges, or production regresses ambiguously.",
       "evidence_refs": ["reviews/ball-maze-library-journey-2026-09-30.md", "reviews/persona-review-protocol.md"],
       "review": {"verdict": "PASS_WITH_P3", "cycle": 1, "read_only": true, "reviewer_id": "01a0f6c8-0580-7801-8534-fdf62d5fff22", "reviewer_name": "Copernicus", "findings": ["P3 pre-existing guide H1 348/320 overflow at 320px/root200%; separately scope heading-fit repair"], "reconciliation": "No P0-P2; independent 108 non-writing tests, 71HTML/834 broader local references, exact18 scope/68 prior roadmap items and 390px enlarged browser task PASS."},
-      "next_step": "Independent PASS_WITH_P3; fresh fetch/no divergence, inspect complete unpushed range, stage exact18, push, monitor exact-SHA Pages and verify live affected URLs/task. Separately register 320px/root200% guide H1 P3."
+      "release": {"state": "pushed", "reviewed_commit": "88718a6fef652a4c544461ca975f74e376799b7a", "site_changed": true, "pages_run": 36844955159, "pages_conclusion": "success", "release_marker": "absent; exact-SHA Pages success and five live file byte-matches used", "production": "Five live affected/route files HTTP200 and byte-identical; canonical/H1/links and desktop/mobile/root200%/320px route, keyboard/touch/Back/true hash/image/controls/width/error checks PASS. Same-path factual closeout only."},
+      "completed_on": "2026-10-01",
+      "next_step": "Separately register the pre-existing 320px/root200% guide H1 overflow P3 for a bounded fit repair; retain late card-link question as a separate evidence gate and weekly synthesis October4."
     }
   ]
 }

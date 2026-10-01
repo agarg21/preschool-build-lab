@@ -30,7 +30,9 @@ experience separate. A persona task is a proxy evaluation, not user testing.
   Native113, link/fragment764, generators/idempotence/scope, local four-mode
   browser and JSON/whitespace PASS. Copernicus independent `PASS_WITH_P3`, no
   P0-P2; pre-existing 320px/root200% guide H1 overflow is a separate gate.
-  Pages/live check pending. Preserve
+  Reviewed88718a6 and exact-SHA Pages36844955159 success; five live
+  HTTP200/byte matches and four-mode task/metadata checks PASS. No release
+  marker exists, exact run/bytes used. Preserve
   rampOctober13, chainOctober7, foilOctober8, packOctober9, bridgeOctober10,
   weeklyOctober4.
 

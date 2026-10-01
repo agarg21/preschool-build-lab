@@ -5,7 +5,7 @@
 - Invocation `2026-10-01T09:02:05.645Z`; time checked 09:02:17 UTC, pilot
   active. No newer redirect. Prior RES027 completed; weekly due October 4.
 - Clean main/origin aligned at `99593dc5b2ffd3d4b2e1dbe60f17da27a1ea76b5`
-  after fetch; no incoming/dirty changes. Action `KAL-IMP-021`, phase REVIEW.
+  after fetch; no incoming/dirty changes. Action `KAL-IMP-021`, phase COMPLETED.
 - Objective: repair RES027's measured 461/390 mobile/root200% library promo
   overflow and first-run direct-fragment heading hidden39px under sticky header.
   Preserve the working library/card/guide task and all activity content.
@@ -28,11 +28,16 @@
   Copernicus independent read-only `PASS_WITH_P3` (no P0-P2), 108 non-writing
   tests and broader 71HTML/834-reference check. P3: pre-existing guide H1
   348/320 overflow at 320px/root200%, separately scoped follow-up, not this
-  registered 390px stress. Next: fresh fetch, exact-path push, exact-SHA Pages
-  and live affected URLs/tasks.
-- Completion still requires exact-SHA Pages success,
-  live affected URL/desktop-mobile task checks and local/origin alignment.
-  No blocker now; this checkpoint is not completion.
+  registered 390px stress. Reviewed `88718a6` pushed with exact18 paths after
+  fresh fetch/no divergence. Exact-SHA Pages run36844955159 SUCCESS; no release
+  marker exists. Five live files HTTP200/byte-match; canonical/H1/links,
+  four-mode live task, keyboard/touch/Back/true hash/image/controls/widths/error
+  checks PASS. Live enlarged heading224/header143, first step385. Initial live
+  harness syntax error corrected before browser execution. Docs-only factual
+  closeout follows; final local/origin alignment to be checked afterward.
+- Next eligible step: separately register the reviewer P3 320px/root200% guide
+  H1 fit audit/repair if evidence and exact scope qualify; do not fold the late
+  card-link question into that work. Weekly synthesis remains due October4.
 - GSC sensing: no new snapshot after September30; all74 validated. Latest
   finalized through September28,387/10 overall; ball-maze card1/0 is not
   journey analytics or page-demand proof. Protect rampOctober13,

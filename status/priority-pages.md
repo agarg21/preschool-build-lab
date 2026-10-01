@@ -2,7 +2,7 @@
 
 Last updated: 2026-10-01
 
-## October 1 Ball Maze Route Repair - In Review
+## October 1 Ball Maze Route Repair - Released
 
 IMP021 [repair](../reviews/ball-maze-journey-repair-2026-10-01.md) narrows
 RES027's measured library overflow and guide hash obstruction. Local four-mode
@@ -11,7 +11,9 @@ Seven guides, 37 cards, 66 sitemap URLs and all activity content remain.
 Native113, complete local links/fragments, generator idempotence/scope and
 browser QA passed. Copernicus independent `PASS_WITH_P3`, no P0-P2; pre-existing
 guide H1 overflow at320px/root200% needs separate scope. Exact-SHA production
-verification still required. Card guide-link position not changed.
+verification passed: reviewed88718a6, exact-SHA Pages36844955159 success,
+five HTTP200/byte-identical files and four-mode live task/metadata. No marker
+exists; exact run/bytes used. Card guide-link position not changed.
 
 ## September 30 Ball Maze Journey - Released
 
