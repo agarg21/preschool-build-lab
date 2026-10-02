@@ -4,6 +4,16 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-02 Afternoon - KAL-IMP-023 Card Handoff Repair
+
+- Decision/persona: retained source-derived caregiver must decide no-cut Ball Maze fit, start a wide three-wall path and find rescue/cleanup; younger-child reach is the stress.
+- Hypothesis: one scoped existing-card change moves the guide route and adult stop earlier on mobile without losing materials, four-step start, search owner or trust boundary. [Repair review](../reviews/ball-maze-card-handoff-repair-2026-10-02.md) measures guide link1466->232 at390px and2310->413 atroot200%; stop1207->705/1639->1398.
+- Sources/classes: Sep14 maintained mechanism `SOURCE_BACKED`; RES028 and Oct2 browser geometry plus public-safe GSC `MEASURED` in scope; persona `RESEARCH_HYPOTHESIS`; layout/score `EDITORIAL_JUDGMENT`; family outcomes `UNKNOWN`.
+- Result/confidence/action: IMPROVE existing card, not another page. Card-only proxy8/24->11/24 across12 applicable dimensions, but still fails rescue/cleanup and keeps safety/trust1; whole-route24/26->25/26 across13. High confidence in tested layout/route, moderate in proxy task value, unknown human/SEO effect. Native113/generator/links/browser QA and Copernicus independent read-only PASS/no findings; release pending.
+- Lesson: move the maintained depth route ahead of a long mobile execution sequence and keep the adult stop before steps; at enlarged text, earlier critical access may increase total page height.
+- Next falsification: browser/live link or stop moves below tested bound, material/step content drifts, reviewer finds unsupported fit claim, or family evidence later shows the early route does not aid the decision.
+- Measurement boundary: no parent/child test, safety in practice, duration, enjoyment, comprehension, engagement, learning or causal search effect; observation windows and weeklyOct4 preserved.
+
 ## 2026-10-02 Morning - KAL-RES-028 Card-Only Handoff
 
 - Decision/persona: retained source-derived caregiver judges a no-cut lid maze and begins one wide path; a younger child can reach materials. Test compact card alone, then its maintained guide handoff.

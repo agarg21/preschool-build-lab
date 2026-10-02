@@ -1,5 +1,25 @@
 # Operator Review
 
+## KAL-IMP-023 - October 2 Afternoon (Pending Independent Review)
+
+Clean baseline833afed; inspected GSC-only incoming21d4eb9 and fast-forwarded
+without divergence/conflict. Exact15 paths registered before substantive edit.
+RES028 source-derived card/guide task retained. One-card generator variant
+puts direct guide/readiness/untested block early, existing parent stop before
+steps and scoped mobile compact tiles; no guide/other-card search owner change.
+Local guide link390 y1466->232/root200 y2310->413, stop390 y1207->705 ending
+836. At enlarged text, total document height grows but link is first screen;
+no overflow. Card-only proxy8/24->11/24, full route24/26->25/26; family
+outcomes UNKNOWN. Three generators twice/idempotent and exact generated scope,
+native113,76 public snapshots, 71HTML/834 refs, roadmap JSON/whitespace and
+four-mode browser keyboard/touch/Back/guide-control/error checks PASS.
+Copernicus independent read-only cycle1 PASS/no P0-P3; verified exact15
+scope/71 prior items unchanged, generated one-card output, four retained
+steps/stop, score arithmetic, 108 non-writing tests, 71HTML/834 refs and
+four browser modes/Back/width/error. Master ran generators, all113 tests and
+76 snapshot validations. Exact-path stage/push, exact-SHA Pages and live
+task/bytes still required. WeeklyOct4/windows unchanged.
+
 ## KAL-RES-028 - October 2 Morning
 
 Clean fetched/aligned base4b07e26, exact nine research/operator paths

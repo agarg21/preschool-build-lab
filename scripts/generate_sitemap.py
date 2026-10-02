@@ -15,6 +15,7 @@ CONTENT_LASTMODS = {
     "cards/cup-tower.html": "2026-09-17",
     "cards.html": "2026-10-01",
     "cards/cardboard-car-ramp.html": "2026-09-29",
+    "cards/ball-maze-box.html": "2026-10-02",
     "cards/foil-boat-test.html": "2026-09-24",
     "ages/stem-activities-for-4-year-olds.html": "2026-09-25",
     "collections/original-stem-activities-for-4-year-olds.html": "2026-09-26",

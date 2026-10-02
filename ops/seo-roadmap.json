@@ -3704,5 +3704,30 @@
       "completed_on": "2026-10-02",
       "next_step": "Separately register bounded card handoff/layout implementation without weakening start/stop or guide ownership. Weekly synthesis Oct4; protected windows unchanged."
     }
+    ,{
+      "id": "KAL-IMP-023",
+      "title": "Repair Ball Maze compact-card first decision and guide handoff",
+      "kind": "implementation",
+      "status": "in_progress",
+      "registered_on": "2026-10-02",
+      "base_commit": "21d4eb9f8ca71e7f682ac37a39f54cab3a2b4fe9",
+      "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "site/cards/ball-maze-box.html", "site/styles.css", "site/sitemap.xml", "tools/ball-maze-guide.test.mjs", "reviews/ball-maze-card-handoff-repair-2026-10-02.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-02",
+      "evidence_class": "MEASURED RES028 local card/link/stop geometry and October2 public-safe GSC within limits; SOURCE_BACKED retained September14 guide setup; RESEARCH_HYPOTHESIS caregiver task; EDITORIAL_JUDGMENT compact layout; human outcomes UNKNOWN",
+      "user_problem": "At390px mobile the card's adult stop begins y1207 and full-guide link y1466 (root200% y1639/y2310), while complete fit/rescue/adaptation/cleanup live in the guide.",
+      "hypothesis": "A scoped compact-card layout can expose the maintained guide and direct adult boundary earlier on mobile without weakening three-wall start, materials or guide ownership and without changing other generated pages.",
+      "acceptance": "Early guide/readiness route before tall execution sequence, parent stop before steps, all three materials/time and four-step start retained; guide stays canonical depth. Test 1280 desktop keyboard,390 mobile touch,390/root200%,320/root200% for link/stop/steps positions, text fit, no overflow, route/Back, clean errors; no unrelated generated-page changes.",
+      "qa_plan": "Always git diff --check, jq empty, node --test tools/*.test.mjs; run all three generators twice and prove idempotence/exact generated output, complete local links/fragments; parse changed JSON, source/privacy/claim/scope checks; action-specific desktop/mobile/enlarged screenshot, keyboard/touch/Back/error QA; independent read-only review; fresh no-divergence fetch and exact-SHA Pages/live URL/bytes/task release verification.",
+      "measurement_plan": "Compare frozen RES028 card link/stop/step document y-positions and card-only13-dimension task under same modes; record technical scan improvement only, no parent behavior, physical result or SEO causality.",
+      "production_invariants": "37 card files, seven guides, 66 sitemap URLs; only Ball Maze card generated HTML and its sitemap lastmod change, CSS selectors scoped to maze card; no guide body/title/canonical/JSON-LD, other card, hub, data, workflow or automation change. Exact source materials/adult control/mission/stop retained; untested and UNKNOWN outcomes clear.",
+      "observation_window": "Preserve rampOct13, chainOct7, foilOct8, packOct9, bridgeOct10; weekly synthesis Oct4. This separately scoped existing-card task repair does not reset other windows.",
+      "reconsider_conditions": "Reject or narrow if guide route is not earlier in tested mobile modes, stop/material/start becomes hidden or contradictory, other generated pages drift, text overflows, review P0-P2 remains, remote diverges or production regresses ambiguously.",
+      "evidence_refs": ["reviews/ball-maze-card-handoff-2026-10-02.md", "reviews/ball-maze-guide-implementation-review-2026-09-14.md", "reviews/persona-review-protocol.md"],
+      "artifact": "reviews/ball-maze-card-handoff-repair-2026-10-02.md",
+      "decision": "IMPROVE existing Ball Maze compact card only: early guide/readiness/untested route, existing adult stop before condensed steps; no new URL/search owner. Card-only proxy8/24->11/24 still critical rescue/cleanup gap; whole route24/26->25/26, editorial not human outcome.",
+      "qa_result": "Three generators twice/byte-idempotent; only target card/sitemap lastmod generated, scoped CSS; native113,76 public snapshots,71HTML/834 local links-assets-fragments, JSON/whitespace PASS. Four-mode local browser link/stop/step geometry, keyboard Enter/mobile tap/Back, guide controls, text fit and clean errors PASS.",
+      "review": {"verdict":"PASS","cycle":1,"read_only":true,"reviewer_id":"01a0f6c8-0580-7801-8534-fdf62d5fff22","reviewer_name":"Copernicus","findings":[],"reconciliation":"Exact15 scope/71 prior actions, one-card generator output, four unchanged steps and original stop, card-only/whole-route scores,108 non-writing tests, JSON/whitespace,71HTML/834 refs, four-mode browser route/Back/width/error PASS. Generators and five fixture-writing tests Master-run only."},
+      "next_step": "Obtain independent read-only review of exact15-path implementation; release only PASS/PASS_WITH_P3 with exact-SHA Pages and production task checks. Preserve weeklyOct4/windows."
+    }
   ]
 }

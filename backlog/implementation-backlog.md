@@ -1,5 +1,16 @@
 # Implementation Backlog
 
+## October 2 Ball Maze Card Handoff
+
+IMP023 [scoped repair](../reviews/ball-maze-card-handoff-repair-2026-10-02.md)
+implements RES028's early guide/readiness route, same parent stop before
+steps, compact mobile tiles and untested label on the existing Ball Maze card.
+No new URL/guide body/search owner or other card change. Local link1466->232
+at390,2310->413 atroot200; normal stop ends y836, enlarged stop needs
+scrolling. Native/generator/link/browser QA and Copernicus independent
+read-only PASS/no findings; exact-SHA production release pending.
+WeeklyOct4/windows unchanged.
+
 The roadmap is authoritative. This backlog supplies implementation context; it
 does not independently schedule work. The Master / Operator is the single
 repository writer for a validated transaction.

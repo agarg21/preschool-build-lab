@@ -1,5 +1,47 @@
 # Current Cycle
 
+## Run Checkpoint - October 2 Afternoon Ball Maze Card Handoff Repair
+
+- Invocation `2026-10-02T17:11:48.279Z`; time checked 17:11:54 UTC,
+  pilot active, no newer redirect. Clean baseline `833afed`; fetched and
+  inspected disjoint GSC-only `21d4eb9`, fast-forwarded cleanly to
+  `21d4eb9f8ca71e7f682ac37a39f54cab3a2b4fe9`, no dirty conflict.
+- Objective/action: `KAL-IMP-023`, in progress. Apply the reviewed RES028
+  existing-card handoff finding: put the guide route/readiness early, keep
+  adult stop before the compact start, reduce mobile tile scan height. No new
+  URL, guide body rewrite, search-owner move or measured-family claim.
+- Exact 15 paths: `scripts/generate_card_pages.py`,
+  `scripts/generate_sitemap.py`, `site/cards/ball-maze-box.html`,
+  `site/styles.css`, `site/sitemap.xml`, `tools/ball-maze-guide.test.mjs`,
+  `reviews/ball-maze-card-handoff-repair-2026-10-02.md`,
+  `backlog/product-learning-ledger.md`, `backlog/persona-review-log.md`,
+  `backlog/implementation-backlog.md`, `status/priority-pages.md`,
+  `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
+  `ops/seo-roadmap.md`. Other site pages and the guide are protected.
+- Next executable step: implement generator-owned one-card variant and scoped
+  CSS; run three generators twice/idempotence/output scope, full native/link
+  QA and desktop/mobile/root200% task screenshots/keyboard/touch/Back/error
+  checks. Then independent read-only review, exact-path commit/push,
+  exact-SHA Pages and affected production task verification.
+- Completion evidence still required: local measured link/stop/step geometry,
+  retained materials/adult/mission/stop/rescue route, no overflow or other
+  generator drift, review PASS/PASS_WITH_P3, release and alignment.
+- GSC sensing: new Oct2 snapshot validated (76 files), finalized through
+  Sep30; overall383/11 vs Oct1 380/10, ramp294/9 vs292/8, compact Ball Maze
+  card1/0 unchanged. No query rows/route analytics/causal inference. Preserve
+  rampOct13, chainOct7, foilOct8, packOct9, bridgeOct10 and weeklyOct4.
+- Local candidate: guide link y1466->232 at390 and2310->413 at root200%; stop
+  y1207->705 (ends836 before first fold) and1639->1398 enlarged. At320/root200
+  link2845->528, no width overflow. Enlarged card total height grows, but
+  critical route is earlier. Card-only proxy8/24->11/24 (still critical
+  rescue/cleanup gap); full route24/26->25/26, editorial not human outcome.
+  Three generators twice/byte-idempotent, only target card and sitemap lastmod
+  generated change; CSS maze-scoped. Native113,76 GSC validations,
+  71HTML/834 local refs, JSON/whitespace and four-mode browser/keyboard/touch/
+  Back/clean logs PASS. Copernicus independent read-only PASS/no P0-P3;
+  independently verified scope/score/108 non-writing tests/refs/four modes.
+  Production release pending.
+
 ## Run Checkpoint - October 2 Morning Ball Maze Card Handoff
 
 - Invocation `2026-10-02T09:13:01.941Z`; pilot active, no newer redirect.

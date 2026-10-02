@@ -6,6 +6,10 @@ Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a
 recoverable answer that requires unnecessary interpretation or outside work;
 and `2` for a direct, actionable, appropriately qualified, traceable answer.
 
+## 2026-10-02 Afternoon - Ball Maze Early Guide Handoff
+
+IMP023 [same-task repair](../reviews/ball-maze-card-handoff-repair-2026-10-02.md): retained no-cut lid/three-wall/adult-selected ball decision, with younger-child reach stress. Card-only proxy **8/24 -> 11/24** over12 applicable dimensions (sensory/accessibility N/A); ability check and early guide route improve scored dimensions, but safety/trust remains1 and card-only rescue/cleanup critical gaps remain. Whole card-to-guide route **24/26 -> 25/26** across all13, detours1->2; not comparable to card-only score. At390 mobile, guide link1466->232 and full stop ends y836; atroot200 link2310->413, stop below fold. Desktop Enter, mobile touch/Back, guide controls, widths and clean logs pass locally. No human, physical, SEO or assistive-technology outcome. Copernicus independent read-only PASS/no findings; release pending.
+
 ## 2026-10-02 Morning - Ball Maze Compact Card And Guide Handoff
 
 RES028 [card-only audit](../reviews/ball-maze-card-handoff-2026-10-02.md) applies the retained September14 source-derived no-cut, three-wall, adult-selected foam-ball task with younger-child reach stress. Card alone **8/24 across12 applicable dimensions**; sensory/accessibility N/A because no specific need is in this frozen task. Critical fit, rescue, adaptation and cleanup outputs reside only in the guide. The whole internal route remains answerable, but the working guide link starts at y1466 on 390px mobile, y2310 at root200%; stop starts y1207/y1639. Desktop keyboard and mobile touch reach guide, widths fit and logs are clean. IMPROVE card handoff in a separate action; no new URL, family-test or abandonment claim. Native113/75snapshots and Hypatia independent read-only PASS/no findings. Push-only release/alignment in operator record.

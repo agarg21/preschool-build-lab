@@ -188,9 +188,9 @@ def related_routes(slug):
     return routes[:MAX_RELATED_ROUTES]
 
 
-def related_routes_html(slug):
+def related_routes_html(slug, include_guide=True):
     links = []
-    guide = GUIDE_ROUTES.get(slug)
+    guide = GUIDE_ROUTES.get(slug) if include_guide else None
     if guide:
         links.append(
             f'<a href="../{esc(guide["path"])}">{esc(guide["label"])}</a>'
@@ -551,7 +551,23 @@ def quick_page(slug):
     )
     description = activity.get("description", description)
     kicker = activity.get("kicker", f"{activity['time']} · age {activity['ages']}")
-    routes = related_routes_html(slug)
+    is_ball_maze = slug == "ball-maze-box"
+    routes = related_routes_html(slug, include_guide=not is_ball_maze)
+    parent_check = f'''
+
+        <section class="parent-strip" aria-label="Parent check">
+          <strong>Parent check:</strong> {esc(activity['parent'])}
+        </section>'''
+    early_parent_check = parent_check if is_ball_maze else ""
+    late_parent_check = "" if is_ball_maze else parent_check
+    early_guide = '''
+
+        <section class="maze-card-decision" aria-label="Decide before starting">
+          <p><a href="../articles/cardboard-ball-maze-kids.html">Full Cardboard Ball Maze guide</a> for fit, rescue, and cleanup.</p>
+          <p>Fit: can the child move chunky blocks and follow a stop cue? Not family-tested by Kid Activity Lab.</p>
+        </section>''' if is_ball_maze else ""
+    card_class = "kid-card maze-card" if is_ball_maze else "kid-card"
+    css_version = "ball-maze-card-1" if is_ball_maze else "nav-stable-2"
     return f'''<!doctype html>
 <html lang="en">
   <head>
@@ -560,7 +576,7 @@ def quick_page(slug):
     <title>{esc(activity['title'])} Activity Card | Kid Activity Lab</title>
     <meta name="description" content="{esc(description)}">
     <link rel="canonical" href="https://kidactivitylab.com/cards/{esc(slug)}.html">
-    <link rel="stylesheet" href="../styles.css?v=nav-stable-2">
+    <link rel="stylesheet" href="../styles.css?v={css_version}">
   </head>
   <body>
     <header class="site-header">
@@ -575,21 +591,17 @@ def quick_page(slug):
     </header>
 
     <main class="card-shell">
-      <article class="kid-card">
+      <article class="{card_class}">
         <p class="kicker">{esc(kicker)}</p>
-        <h1>{esc(activity['title'])}</h1>
+        <h1>{esc(activity['title'])}</h1>{early_guide}
 
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
-        </div>
+        </div>{early_parent_check}
 
         <section class="steps-grid" aria-label="Steps">
 {step_html}
-        </section>
-
-        <section class="parent-strip" aria-label="Parent check">
-          <strong>Parent check:</strong> {esc(activity['parent'])}
-        </section>
+        </section>{late_parent_check}
 
         <section class="parent-strip" aria-label="Best for">
           <strong>Best for:</strong> {esc(activity['best_for'])}.

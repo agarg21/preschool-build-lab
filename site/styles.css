@@ -760,6 +760,21 @@ th {
   padding: 14px;
 }
 
+.maze-card-decision {
+  border-left: 6px solid var(--green);
+  background: var(--mint);
+  padding: 12px 14px;
+  margin-top: 18px;
+}
+
+.maze-card-decision p {
+  margin: 0;
+}
+
+.maze-card-decision p + p {
+  margin-top: 6px;
+}
+
 .library-grid {
   max-width: var(--max);
   margin: 0 auto;
@@ -1919,6 +1934,24 @@ th {
   .card-meta,
   .steps-grid {
     grid-template-columns: 1fr;
+  }
+
+  .maze-card .meta-tile {
+    min-height: 0;
+  }
+
+  .maze-card .step-tile {
+    min-height: 0;
+    display: grid;
+    grid-template-columns: 38px minmax(0, 1fr);
+    align-items: center;
+    gap: 12px;
+  }
+
+  .maze-card .step-tile p {
+    margin: 0;
+    font-size: 1.15rem;
+    line-height: 1.25;
   }
 
   .game-hero-visual img,

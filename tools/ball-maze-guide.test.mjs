@@ -78,13 +78,21 @@ test("visual and compact routes agree with the guide", () => {
   assert.match(html, /AI-generated setup illustration/);
 
   const card = fs.readFileSync(CARD_PATH, "utf8");
+  assert.match(card, /<article class="kid-card maze-card">/);
+  assert.match(card, /styles\.css\?v=ball-maze-card-1/);
   assert.match(card, /href="\.\.\/articles\/cardboard-ball-maze-kids\.html">Full Cardboard Ball Maze guide<\/a>/);
+  assert.equal([...card.matchAll(/href="\.\.\/articles\/cardboard-ball-maze-kids\.html"/g)].length, 1);
+  assert.ok(card.indexOf('aria-label="Decide before starting"') < card.indexOf('class="card-meta"'));
+  assert.ok(card.indexOf('aria-label="Parent check"') < card.indexOf('aria-label="Steps"'));
+  assert.match(card, /move chunky blocks and follow a stop cue/);
+  assert.match(card, /not family-tested by Kid Activity Lab/i);
   assert.match(card, /Open-ended/);
   assert.match(card, /large lightweight ball/);
   assert.match(card, /Set three blocks as wide walls/);
   assert.doesNotMatch(card, /8 min|ping-pong|planning, slopes, hand control/i);
   const related = card.match(/<section class="parent-strip" aria-label="Related activity pages">([\s\S]*?)<\/section>/)?.[1] ?? "";
-  assert.equal([...related.matchAll(/<a /g)].length, 2);
+  assert.equal([...related.matchAll(/<a /g)].length, 1);
+  assert.match(fs.readFileSync(path.join(ROOT, "site", "styles.css"), "utf8"), /\.maze-card \.step-tile \{/);
 
   const cardIndex = fs.readFileSync(CARD_INDEX_PATH, "utf8");
   const indexEntry = cardIndex.match(/<a class="mini-card" href="cards\/ball-maze-box\.html">[\s\S]*?<\/a>/)?.[0] ?? "";
@@ -114,4 +122,8 @@ test("keyword inventory and sitemap contain the guide once", () => {
     .filter((entry) => entry.includes("cardboard-ball-maze-kids.html"));
   assert.equal(entries.length, 1);
   assert.match(entries[0], /<lastmod>2026-10-01<\/lastmod>/);
+  const cardEntry = [...sitemap.matchAll(/<url>([\s\S]*?)<\/url>/g)]
+    .map((match) => match[1])
+    .find((entry) => entry.includes("cards/ball-maze-box.html"));
+  assert.match(cardEntry ?? "", /<lastmod>2026-10-02<\/lastmod>/);
 });

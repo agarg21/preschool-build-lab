@@ -12,6 +12,20 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
+0. October2 afternoon `KAL-IMP-023` IN PROGRESS, base `21d4eb9`, exact15
+   paths in JSON/current-cycle. Reviewed RES028 card-only failure and mobile
+   link y1466/y2310 qualify one scoped existing-card handoff/layout repair:
+   early guide/readiness route, adult stop ahead of start, compact mobile
+   tiles. No new URL, guide body, search owner or outcome claim. Native,
+   generator/native113/71HTML-834refs/four-mode browser QA PASS; only target
+   generated card and one sitemap lastmod changed. Guide link1466->232 at390,
+   2310->413 root200; normal stop ends836. Card-only proxy8->11/24, full
+   route24->25/26, no human outcome. Copernicus independent read-only PASS/
+   no findings, including 108 non-writing tests, refs and four modes.
+   Exact-SHA release pending.
+   New valid GSC76 throughSep30 overall383/11, card1/0; not causal evidence.
+   WeeklyOct4 and protected windows unchanged.
+
 0. October2 morning `KAL-RES-028` COMPLETED, base `4b07e26`, exact nine
    research/operator paths in JSON and current-cycle. Card-only source-derived
    Ball Maze decision and guide-handoff scan cost at desktop/mobile/enlarged
