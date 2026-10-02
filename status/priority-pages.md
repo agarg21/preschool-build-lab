@@ -2,7 +2,7 @@
 
 Last updated: 2026-10-02
 
-## October 2 Ball Maze Card Handoff Repair - Local Candidate
+## October 2 Ball Maze Card Handoff Repair - Released
 
 IMP023 [local review](../reviews/ball-maze-card-handoff-repair-2026-10-02.md)
 puts the existing guide route and ability/untested check before the card
@@ -10,7 +10,9 @@ materials, the same adult stop before steps, and shortens mobile step tiles.
 Normal390 guide link232/stop ends836; root200 guide link413, stop needs
 scrolling. Card-only critical rescue/cleanup remain in the guide; no new
 page/claim or SEO outcome. Native113, generator/links/browser QA and
-Copernicus independent read-only PASS/no findings; Pages release pending.
+Copernicus independent read-only PASS/no findings; reviewed `a8018c7`
+released by exact-SHA Pages `37054589106` success. Four affected live files
+byte-match and four-mode task passes. No release marker exists.
 WeeklyOct4/windows stay.
 
 ## October 2 Ball Maze Card Handoff - Released Research

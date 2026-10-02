@@ -1,6 +1,6 @@
 # Operator Review
 
-## KAL-IMP-023 - October 2 Afternoon (Pending Independent Review)
+## KAL-IMP-023 - October 2 Afternoon (Released)
 
 Clean baseline833afed; inspected GSC-only incoming21d4eb9 and fast-forwarded
 without divergence/conflict. Exact15 paths registered before substantive edit.
@@ -17,8 +17,15 @@ Copernicus independent read-only cycle1 PASS/no P0-P3; verified exact15
 scope/71 prior items unchanged, generated one-card output, four retained
 steps/stop, score arithmetic, 108 non-writing tests, 71HTML/834 refs and
 four browser modes/Back/width/error. Master ran generators, all113 tests and
-76 snapshot validations. Exact-path stage/push, exact-SHA Pages and live
-task/bytes still required. WeeklyOct4/windows unchanged.
+76 snapshot validations. Reviewed exact15-path commit
+`a8018c787a7598d81584a4bceec78885e715c283` pushed on main after
+fresh no-divergence fetch and private-data/unsafe-claim scan. Exact-SHA Pages
+run `37054589106` succeeded; no release marker exists. Live card, CSS,
+sitemap and guide HTTP200/byte-match, card/guide canonical/H1 and one guide
+link, guide sections, sitemap lastmod, image and four-mode task/keyboard/touch/
+Back/width/clean-error checks PASS. Live geometry matches local. Factual
+same-path docs-only closeout follows; check local/origin/remote alignment
+after its push. WeeklyOct4/windows unchanged.
 
 ## KAL-RES-028 - October 2 Morning
 

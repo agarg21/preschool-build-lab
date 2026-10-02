@@ -6,7 +6,7 @@
   pilot active, no newer redirect. Clean baseline `833afed`; fetched and
   inspected disjoint GSC-only `21d4eb9`, fast-forwarded cleanly to
   `21d4eb9f8ca71e7f682ac37a39f54cab3a2b4fe9`, no dirty conflict.
-- Objective/action: `KAL-IMP-023`, in progress. Apply the reviewed RES028
+- Objective/action: `KAL-IMP-023`, COMPLETED. Apply the reviewed RES028
   existing-card handoff finding: put the guide route/readiness early, keep
   adult stop before the compact start, reduce mobile tile scan height. No new
   URL, guide body rewrite, search-owner move or measured-family claim.
@@ -18,14 +18,13 @@
   `backlog/implementation-backlog.md`, `status/priority-pages.md`,
   `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`,
   `ops/seo-roadmap.md`. Other site pages and the guide are protected.
-- Next executable step: implement generator-owned one-card variant and scoped
-  CSS; run three generators twice/idempotence/output scope, full native/link
-  QA and desktop/mobile/root200% task screenshots/keyboard/touch/Back/error
-  checks. Then independent read-only review, exact-path commit/push,
-  exact-SHA Pages and affected production task verification.
-- Completion evidence still required: local measured link/stop/step geometry,
-  retained materials/adult/mission/stop/rescue route, no overflow or other
-  generator drift, review PASS/PASS_WITH_P3, release and alignment.
+- Next executable step: October 4 weekly synthesis, unless a verified
+  production/trust defect or unfinished release takes priority. Preserve all
+  page-specific observation windows; no new page follows from this repair.
+- Completion evidence: local measured link/stop/step geometry, retained
+  materials/adult/mission/stop/rescue route, no overflow or other generator
+  drift, Copernicus PASS, reviewed `a8018c7`, exact-SHA Pages run
+  `37054589106` success and four affected live byte/task checks PASS.
 - GSC sensing: new Oct2 snapshot validated (76 files), finalized through
   Sep30; overall383/11 vs Oct1 380/10, ramp294/9 vs292/8, compact Ball Maze
   card1/0 unchanged. No query rows/route analytics/causal inference. Preserve
@@ -40,7 +39,11 @@
   71HTML/834 local refs, JSON/whitespace and four-mode browser/keyboard/touch/
   Back/clean logs PASS. Copernicus independent read-only PASS/no P0-P3;
   independently verified scope/score/108 non-writing tests/refs/four modes.
-  Production release pending.
+  Reviewed `a8018c787a7598d81584a4bceec78885e715c283` pushed; exact-SHA
+  Pages `37054589106` succeeded. Card, CSS, sitemap and guide HTTP200 and
+  byte-match; canonical/H1/link/section/image and four-mode live task PASS.
+  No release marker exists. Same-path factual closeout is docs-only; final
+  alignment is recorded in operator review after its push.
 
 ## Run Checkpoint - October 2 Morning Ball Maze Card Handoff
 

@@ -12,7 +12,7 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
-0. October2 afternoon `KAL-IMP-023` IN PROGRESS, base `21d4eb9`, exact15
+0. October2 afternoon `KAL-IMP-023` COMPLETED, base `21d4eb9`, exact15
    paths in JSON/current-cycle. Reviewed RES028 card-only failure and mobile
    link y1466/y2310 qualify one scoped existing-card handoff/layout repair:
    early guide/readiness route, adult stop ahead of start, compact mobile
@@ -22,7 +22,9 @@ this is a gate/sequence review, not new demand or ranking evidence.
    2310->413 root200; normal stop ends836. Card-only proxy8->11/24, full
    route24->25/26, no human outcome. Copernicus independent read-only PASS/
    no findings, including 108 non-writing tests, refs and four modes.
-   Exact-SHA release pending.
+   Reviewed `a8018c7` released by exact-SHA Pages `37054589106` success;
+   four affected live files HTTP200/byte-match and four-mode task PASS. No
+   release marker exists. Docs-only factual closeout follows.
    New valid GSC76 throughSep30 overall383/11, card1/0; not causal evidence.
    WeeklyOct4 and protected windows unchanged.
 

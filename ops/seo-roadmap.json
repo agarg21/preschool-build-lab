@@ -3708,7 +3708,7 @@
       "id": "KAL-IMP-023",
       "title": "Repair Ball Maze compact-card first decision and guide handoff",
       "kind": "implementation",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-02",
       "base_commit": "21d4eb9f8ca71e7f682ac37a39f54cab3a2b4fe9",
       "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "site/cards/ball-maze-box.html", "site/styles.css", "site/sitemap.xml", "tools/ball-maze-guide.test.mjs", "reviews/ball-maze-card-handoff-repair-2026-10-02.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3727,7 +3727,9 @@
       "decision": "IMPROVE existing Ball Maze compact card only: early guide/readiness/untested route, existing adult stop before condensed steps; no new URL/search owner. Card-only proxy8/24->11/24 still critical rescue/cleanup gap; whole route24/26->25/26, editorial not human outcome.",
       "qa_result": "Three generators twice/byte-idempotent; only target card/sitemap lastmod generated, scoped CSS; native113,76 public snapshots,71HTML/834 local links-assets-fragments, JSON/whitespace PASS. Four-mode local browser link/stop/step geometry, keyboard Enter/mobile tap/Back, guide controls, text fit and clean errors PASS.",
       "review": {"verdict":"PASS","cycle":1,"read_only":true,"reviewer_id":"01a0f6c8-0580-7801-8534-fdf62d5fff22","reviewer_name":"Copernicus","findings":[],"reconciliation":"Exact15 scope/71 prior actions, one-card generator output, four unchanged steps and original stop, card-only/whole-route scores,108 non-writing tests, JSON/whitespace,71HTML/834 refs, four-mode browser route/Back/width/error PASS. Generators and five fixture-writing tests Master-run only."},
-      "next_step": "Obtain independent read-only review of exact15-path implementation; release only PASS/PASS_WITH_P3 with exact-SHA Pages and production task checks. Preserve weeklyOct4/windows."
+      "release": {"state":"pushed","reviewed_commit":"a8018c787a7598d81584a4bceec78885e715c283","pages_run":"37054589106","pages_conclusion":"success","release_marker":"absent","live_verification":"Card, CSS, sitemap and guide HTTP200/byte-identical; canonical/H1/link/sitemap date, guide sections, image, four-mode keyboard/touch/Back/width/error task PASS; no human or SEO outcome inferred."},
+      "completed_on": "2026-10-02",
+      "next_step": "October4 weekly synthesis unless verified defect/unfinished release takes priority; preserve rampOct13, chainOct7, foilOct8, packOct9 and bridgeOct10 windows."
     }
   ]
 }

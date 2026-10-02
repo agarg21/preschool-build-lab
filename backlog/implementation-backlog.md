@@ -8,7 +8,8 @@ steps, compact mobile tiles and untested label on the existing Ball Maze card.
 No new URL/guide body/search owner or other card change. Local link1466->232
 at390,2310->413 atroot200; normal stop ends y836, enlarged stop needs
 scrolling. Native/generator/link/browser QA and Copernicus independent
-read-only PASS/no findings; exact-SHA production release pending.
+read-only PASS/no findings; reviewed `a8018c7` released by exact-SHA Pages
+`37054589106` success, four affected live bytes and four-mode task PASS.
 WeeklyOct4/windows unchanged.
 
 The roadmap is authoritative. This backlog supplies implementation context; it

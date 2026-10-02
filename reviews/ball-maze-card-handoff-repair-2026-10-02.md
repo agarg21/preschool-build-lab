@@ -133,7 +133,7 @@ arithmetic, 108 non-writing native tests, JSON/whitespace, 71 HTML/834
 references, and desktop plus three mobile/text-mode browser routes/Back,
 widths and errors. It did not run generators or fixture-writing tests;
 Master ran all 113 native tests, generators twice and 76 snapshot validations.
-Exact-SHA Pages run and live affected-URL/task evidence remain pending.
+Reviewed commit `a8018c787a7598d81584a4bceec78885e715c283` was pushed to main. Its exact-SHA Pages run [37054589106](https://github.com/agarg21/preschool-build-lab/actions/runs/37054589106) succeeded. No release marker exists; the live card, stylesheet, sitemap and guide each returned HTTP 200 and byte-matched the reviewed local file. Card and guide canonicals/H1s, one guide link, October 2 card sitemap lastmod, and guide section links passed. Live desktop keyboard, 390px mobile, 390px/root200% and 320px/root200% touch/Back, image, width and clean-error checks passed; screenshots were inspected. Live normal-mobile guide link y232 and stop y705-836, and enlarged link y413/y528, matched local geometry. Same-path factual closeout follows; no human-use or SEO outcome is inferred.
 Reconsider if production or later evidence finds a P0-P2 issue,
 production fails a width/route/stop check, the new route cannibalizes guide
 ownership, or the enlarged-text scan tradeoff proves unacceptable for a
