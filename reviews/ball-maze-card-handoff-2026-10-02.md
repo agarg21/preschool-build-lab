@@ -81,11 +81,17 @@ Separately register a bounded existing-card implementation only. Candidate accep
 ## Independent Review And Release Gate
 
 Hypatia (`01a0f88f-0dce-7fb0-8e3f-efa68fd1086d`) independently reviewed
-the frozen nine-path diff read-only: **PASS, no P0-P3 findings**. The reviewer
+the frozen nine-path diff read-only: cycle-one **PASS**, with no findings. The reviewer
 recomputed 8/24 and the N/A, checked every-section/evidence boundaries,
 roadmap IDs/references, JSON, whitespace and protected site scope, and
 reproduced four-mode geometry plus card-to-guide/Back. It did not run
 generators or fixture-writing tests; Master ran all 113 native tests and
 validated 75 public-safe GSC snapshots. Exact-path privacy/reference checks
-found no missing local references or credential-shaped content. Push-only
-research release and final alignment remain pending until verified.
+found no missing local references or credential-shaped content. A second
+read-only final-diff check returned `PASS_WITH_P3`: the draft artifact said
+release/alignment were recorded while they were still pending. That status
+wording was corrected before commit; no P0-P2 or substantive issue remained.
+Reviewed research commit `c7b83ad2a2827604286e8d0cf50e06c6c9c79ead`
+was pushed to `main` with exactly nine paths after a fresh no-divergence fetch.
+Local, origin and remote main matched with a clean worktree. Docs-only release;
+Pages did not run. Same-path factual closeout follows.

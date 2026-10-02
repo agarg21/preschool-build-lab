@@ -12,14 +12,17 @@ this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
 
-0. October2 morning `KAL-RES-028` REVIEWED, base `4b07e26`, exact nine
+0. October2 morning `KAL-RES-028` COMPLETED, base `4b07e26`, exact nine
    research/operator paths in JSON and current-cycle. Card-only source-derived
    Ball Maze decision and guide-handoff scan cost at desktop/mobile/enlarged
    text; assess PRESERVE/IMPROVE without changing the site. No new demand or
    family-use inference. Card-only8/24 across12 applicable dimensions;
    full route works but mobile guide link at y1466/y2310 after late stop.
    Native113/75snapshots/JSON/whitespace/scope/privacy/references PASS;
-   Hypatia independent read-only PASS/no findings. Push-only release pending.
+   Hypatia cycle1 PASS; final-diff P3 status wording corrected before commit,
+   no P0-P2. Reviewed c7b83ad pushed, clean local/origin/remote exact SHA;
+   docs-only, no Pages. Next separately register bounded card handoff/layout
+   build, not a new URL.
    WeeklyOct4 and protected observation windows unchanged.
 
 0. October1 afternoon `KAL-IMP-022` COMPLETED, reviewed `15f79f2`.

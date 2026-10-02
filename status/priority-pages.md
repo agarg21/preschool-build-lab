@@ -2,7 +2,7 @@
 
 Last updated: 2026-10-02
 
-## October 2 Ball Maze Card Handoff - Reviewed Research
+## October 2 Ball Maze Card Handoff - Released Research
 
 RES028 [card-only audit](../reviews/ball-maze-card-handoff-2026-10-02.md):
 full guide route works, but compact-card complete planning outputs need the
@@ -10,7 +10,7 @@ guide and the direct link falls at y1466 mobile/y2310 enlarged. Separate
 bounded card handoff/layout improvement is an evidence-backed candidate; no
 site bytes, URL, SEO demand or human-outcome change. Native113/75snapshots,
 exact scope and Hypatia independent read-only PASS/no findings; push-only
-release/alignment in operator record. WeeklyOct4 and windows retained.
+release c7b83ad/alignment in operator record. WeeklyOct4 and windows retained.
 
 ## October 1 Ball Maze Narrow Heading - Released
 

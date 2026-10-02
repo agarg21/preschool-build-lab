@@ -3681,7 +3681,7 @@
       "id": "KAL-RES-028",
       "title": "Evaluate Ball Maze compact-card decision and full-guide handoff",
       "kind": "research",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-02",
       "base_commit": "4b07e2684c9727945b13cb38a8d222c3d98ef915",
       "exact_paths": ["reviews/ball-maze-card-handoff-2026-10-02.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3699,8 +3699,10 @@
       "artifact": "reviews/ball-maze-card-handoff-2026-10-02.md",
       "decision": "IMPROVE existing card handoff in a separately registered build; card-only complete-task proxy8/24 across12 applicable dimensions, critical guide-only depth, working but late link at y1466/y2310 mobile; no new URL or human/search outcome inference.",
       "qa_result": "Native113 tests,75 public snapshot validations, roadmap JSON, git diff --check, exact9 scope/privacy/67 local references PASS; four-mode local card/guide screenshot geometry, widths, fifth-Tab/Enter, touch/Back and errors PASS.",
-      "review": {"verdict":"PASS","cycle":1,"read_only":true,"reviewer_id":"01a0f88f-0dce-7fb0-8e3f-efa68fd1086d","reviewer_name":"Hypatia","findings":[],"reconciliation":"Independently recomputed8/24, N/A and critical guide-only outputs; checked all9 paths, roadmap IDs/refs, JSON/whitespace, protected site scope, four-mode geometry and route/Back. No generators or fixture-writing tests."},
-      "next_step": "Release exact nine-path reviewed research push-only; then separately register bounded card handoff/layout implementation. Weekly synthesis Oct4; protected windows unchanged."
+      "review": {"verdict":"PASS_WITH_P3","cycle":2,"read_only":true,"reviewer_id":"01a0f88f-0dce-7fb0-8e3f-efa68fd1086d","reviewer_name":"Hypatia","findings":["P3 draft artifact said release/alignment recorded before push; corrected before commit"],"reconciliation":"Cycle1 PASS independently recomputed8/24, N/A and critical guide-only outputs; checked all9 paths, IDs/refs, JSON/whitespace, site scope, four-mode geometry and route/Back. Cycle2 status-wording P3 corrected precommit; no P0-P2. No generators or fixture-writing tests."},
+      "release": {"state":"pushed","reviewed_commit":"c7b83ad2a2827604286e8d0cf50e06c6c9c79ead","site_changed":false,"pages":"not applicable; research/operator-only","alignment":"clean local/origin0/0 and remote main exact SHA verified before factual closeout"},
+      "completed_on": "2026-10-02",
+      "next_step": "Separately register bounded card handoff/layout implementation without weakening start/stop or guide ownership. Weekly synthesis Oct4; protected windows unchanged."
     }
   ]
 }

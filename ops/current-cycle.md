@@ -5,7 +5,7 @@
 - Invocation `2026-10-02T09:13:01.941Z`; pilot active, no newer redirect.
   Clean main/origin aligned at `4b07e2684c9727945b13cb38a8d222c3d98ef915`
   after fetch; no incoming or unrelated dirty work. Weekly synthesis due Oct4.
-- Objective/action: `KAL-RES-028`, in progress. Test the compact Ball Maze
+- Objective/action: `KAL-RES-028`, COMPLETED. Test the compact Ball Maze
   card as a standalone parent decision surface, then its guide handoff at
   desktop/mobile/enlarged text. This is a distinct card-only scan-cost question
   after completed route and text-fit repairs, not an assumed defect/build.
@@ -29,8 +29,12 @@
   desktop fifth Tab/Enter and mobile touch/Back reach guide. IMPROVE existing
   card handoff in a separate action; no site edit or new URL. Native113, 75
   GSC snapshot validations, roadmap JSON, exact scope/privacy/references and
-  whitespace PASS. Hypatia independent read-only PASS/no P0-P3, reproduced
-  four-mode geometry/route and score. Push-only release/alignment pending.
+  whitespace PASS. Hypatia independent read-only cycle1 PASS/no findings;
+  final-diff cycle2 PASS_WITH_P3 status wording corrected precommit, no P0-P2.
+  Reviewed exact9 research commit `c7b83ad` pushed after fresh0/0 fetch;
+  clean local/origin0/0 and remote exact SHA confirmed. Docs-only, no Pages.
+  Next separately register a compact-card handoff/layout build, preserving
+  guide owner/start/stop; weekly synthesis remains due Oct4.
 
 ## Run Checkpoint - October 1 Afternoon Ball Maze Narrow Heading
 
