@@ -1,5 +1,15 @@
 # SEO Research & Review Backlog
 
+## October 2 Ball Maze Card Handoff
+
+RES028 [card-only audit](../reviews/ball-maze-card-handoff-2026-10-02.md)
+finds full guide route working but late on mobile; the card alone omits the
+ability-based fit, rescue, younger-child adaptation and cleanup held in the
+guide. IMPROVE existing card handoff only after separate implementation
+registration; no new URL, guide expansion, demand claim, paid batch or search
+owner change. Native113/75snapshots and Hypatia independent read-only PASS;
+push-only release/alignment in operator record. WeeklyOct4/windows kept.
+
 This is the active combined backlog for the three-agent operating system.
 
 The roadmap is authoritative. This file is supporting evidence, not an

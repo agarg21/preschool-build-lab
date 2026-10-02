@@ -1,5 +1,22 @@
 # Operator Review
 
+## KAL-RES-028 - October 2 Morning
+
+Clean fetched/aligned base4b07e26, exact nine research/operator paths
+registered. Retained September14 source-derived task, card-only baseline and
+four-mode local browser audit show a working guide route but a long mobile
+scan to the guide link; no site/data/workflow edit. Card-only8/24 over12
+applicable dimensions, sensory/accessibility N/A, with critical guide-only
+depth. This is proxy/browser evidence, not parent behavior or new SEO demand.
+Native113,75 snapshot validations, roadmap JSON, diff whitespace,
+exact9 scope,67 local references and privacy/claim audit PASS. Explicit
+desktop fifth-Tab/Enter and mobile touch/Back rerun confirmed route after an
+initial harness synchronization error; no product defect inferred. Hypatia
+independent read-only cycle1 PASS/no P0-P3; independently recalculated score,
+checked nine paths/references/JSON/scope and reproduced four-mode geometry
+and card-to-guide/Back. It did not run generators or fixture-writing tests.
+Reviewed docs-only release pending; weeklyOct4/windows unchanged.
+
 ## KAL-IMP-022 - October 1 Afternoon
 
 Base564b855, clean/fetched/aligned; exact13 paths registered. Verified

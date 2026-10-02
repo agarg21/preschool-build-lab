@@ -4,6 +4,16 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-02 Morning - KAL-RES-028 Card-Only Handoff
+
+- Decision/persona: retained source-derived caregiver judges a no-cut lid maze and begins one wide path; a younger child can reach materials. Test compact card alone, then its maintained guide handoff.
+- Hypothesis: current card supplies full fit/start/recover/close outputs or a clear early depth route without avoidable mobile scan cost. [Audit](../reviews/ball-maze-card-handoff-2026-10-02.md) finds card-only critical gaps and a working but late guide link.
+- Sources/classes: September14 maintained guide lineage `SOURCE_BACKED`; October2 local browser geometry and validated October1 GSC snapshot `MEASURED`; persona `RESEARCH_HYPOTHESIS`; score/priority `EDITORIAL_JUDGMENT`; family outcomes `UNKNOWN`.
+- Result/confidence/action: IMPROVE existing card handoff in a separate action, preserve guide/URL. High confidence in tested layout/route; moderate in proxy scan-cost interpretation; no confidence claim about actual parent behavior or SEO effect. Card-only8/24 over12 relevant dimensions; guide route remains answerable.
+- Lesson: a functioning depth link can be late enough that compact mobile execution and complete planning are different jobs. Keep the direct stop and early guide route visible without duplicating maintained depth.
+- Next falsification: independent review disproves a material scan cost, earlier placement obscures stop/materials, or tested route/text mode regresses.
+- Measurement boundary: no parent/child test, physical activity, abandonment/engagement, safety-in-practice or causal search attribution. Protected windows and weeklyOct4 unchanged. Native113/75snapshots/JSON/whitespace and exact-scope/privacy/reference QA PASS; Hypatia independent read-only PASS/no findings. Push-only release/alignment in operator record.
+
 ## 2026-10-01 Afternoon - KAL-IMP-022 Narrow Guide Identity
 
 - Decision/persona: retained source-derived caregiver judges a no-cut lid
