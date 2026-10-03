@@ -3735,7 +3735,7 @@
       "id": "KAL-RES-029",
       "title": "Discover one current preschool making or exploring parent job",
       "kind": "research",
-      "status": "review_clean",
+      "status": "completed",
       "registered_on": "2026-10-03",
       "base_commit": "0cc6cc52ee55548bc401c31e3631221d19d7bc54",
       "exact_paths": ["seo/caregiver-job-discovery-2026-10-03.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3754,7 +3754,9 @@
       "decision": "RESEARCH one separately registered exact lacing-card intent/demand/incremental-decision qualification; DEFER any new URL or site edit. Four constrained questions are not exact demand; three opened lacing how-tos already serve basic setup. Reject page if utility or safety/ability controls cannot be reconciled.",
       "qa_result": "Native113, roadmap JSON, git diff --check, eight-path scope, local references and source/privacy/claim checks PASS; no site/data/workflow change.",
       "review": {"verdict":"PASS_WITH_P3","cycle":1,"read_only":true,"reviewer_id":"01a10104-6a3c-7671-8be6-7f4e89550932","reviewer_name":"Linnaeus","findings":["P3: exploratory query strings and selected opened bodies are not mapped one-to-one; later exact qualification must record query-to-URL attribution. No P0-P2."],"reconciliation":"Checked four question bodies, cited guidance, dates, owner map, GSC limits, privacy, scope, JSON, 113 native tests and local references; DEFER decision remains supported."},
-      "next_step": "Docs-only exact-path push/alignment, then October4 weekly synthesis. Later lacing qualification needs separate registration and query-to-URL map."
+      "release": {"state":"pushed","reviewed_commit":"d6384cdada4477ad739ae12c45625f37a149e14b","site_changed":false,"pages":"not applicable; research/operator-only","alignment":"clean local/origin0/0 and remote main exact SHA verified before factual closeout"},
+      "completed_on": "2026-10-03",
+      "next_step": "October4 weekly synthesis. Later lacing qualification needs separate registration and query-to-URL map; no page approved."
     }
   ]
 }
