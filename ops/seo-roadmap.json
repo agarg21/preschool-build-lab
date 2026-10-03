@@ -3762,7 +3762,7 @@
       "id": "KAL-RES-030",
       "title": "Qualify exact lacing-card activity job and incremental decision value",
       "kind": "research",
-      "status": "review_clean",
+      "status": "completed",
       "registered_on": "2026-10-03",
       "base_commit": "dae755dbe037210ebc265d098a7474abde853a64",
       "exact_paths": ["seo/lacing-card-qualification-2026-10-03.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3778,8 +3778,12 @@
       "reconsider_conditions": "Reject dedicated URL if exact intent/demand is unsubstantiated, current pages already answer proposed utility, source/cord controls remain unresolved, or owner fit is not distinct; do not broaden to generic craft roundup.",
       "evidence_refs": ["seo/caregiver-job-discovery-2026-10-03.md", "reviews/persona-review-protocol.md", "seo/activity-cluster-research-protocol.md"],
       "artifact": "seo/lacing-card-qualification-2026-10-03.md",
-      "next_step": "Fresh-fetch/no-divergence gate, exact-eight-path docs-only commit/push and alignment; then October 4 weekly synthesis.",
-      "decision": "REJECT_HYPOTHESIS for present dedicated-page eligibility; PRESERVE broader quiet-craft question. Three query samples mix printables, shopping and DIY, and current opened bodies already answer the basic start/adaptation; exact demand and incremental task value are not established."
+      "next_step": "October 4 weekly synthesis: change a falsifiable rule/priority or retire a hypothesis; do not reopen lacing on cadence.",
+      "decision": "REJECT_HYPOTHESIS for present dedicated-page eligibility; PRESERVE broader quiet-craft question. Three query samples mix printables, shopping and DIY, and current opened bodies already answer the basic start/adaptation; exact demand and incremental task value are not established.",
+      "review": "Lagrange cycle1 PASS_WITH_P3; search-tool/time provenance corrected; cycle2 final-diff PASS, no P0-P2",
+      "qa": "native113, GSC77, roadmap JSON, whitespace, 67 local references, exact eight-path/source/privacy/claim scope PASS",
+      "release": {"state":"pushed","reviewed_commit":"6777b6a815b4605ce52edfb7468a1aba29887d0c","site_changed":false,"pages":"not applicable; research/operator-only","alignment":"clean local/origin0/0 and remote main exact SHA verified before factual closeout"},
+      "completed_on": "2026-10-03"
     }
   ]
 }
