@@ -3757,6 +3757,29 @@
       "release": {"state":"pushed","reviewed_commit":"d6384cdada4477ad739ae12c45625f37a149e14b","site_changed":false,"pages":"not applicable; research/operator-only","alignment":"clean local/origin0/0 and remote main exact SHA verified before factual closeout"},
       "completed_on": "2026-10-03",
       "next_step": "October4 weekly synthesis. Later lacing qualification needs separate registration and query-to-URL map; no page approved."
+    },
+    {
+      "id": "KAL-RES-030",
+      "title": "Qualify exact lacing-card activity job and incremental decision value",
+      "kind": "research",
+      "status": "review_clean",
+      "registered_on": "2026-10-03",
+      "base_commit": "dae755dbe037210ebc265d098a7474abde853a64",
+      "exact_paths": ["seo/lacing-card-qualification-2026-10-03.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-03",
+      "evidence_class": "Live query/result/body samples TOOL_ESTIMATE only for search-result existence and RESEARCH_HYPOTHESIS for intent; maintained activity instructions SOURCE_BACKED within limits; current site and public-safe GSC MEASURED only for their scope; page decision EDITORIAL_JUDGMENT; exact volume/rank/outcomes UNKNOWN",
+      "user_problem": "RES029 found a constrained quiet craft decision and possible lacing-card mechanism, but exact demand, current SERP owner/overlap, adult-material controls and incremental value are unresolved; its independent P3 requires query-to-URL attribution.",
+      "hypothesis": "An exact-query and source/owner audit will either qualify one distinct, maintainable lacing-card activity job beyond existing how-tos or reject the dedicated-page hypothesis without repeating generic discovery.",
+      "acceptance": "For at least two exact/DIY lacing query variants, record separate dated query-to-URL result types and inspect representative bodies; state ranks/locale/volume limitations, existing KAL owner fit, no-bead/no-needle mechanism, adult cutting/punching, cord/material, readiness, rescue/cleanup controls, and task/secondary stress. Decide BUILD/UPGRADE/PRESERVE/DEFER/REJECT with falsification and no anecdotal-demand or top-five inference.",
+      "qa_plan": "git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs, node tools/gsc-snapshot.mjs --validate-existing; parse changed JSON; exact eight-path/local-reference/source/privacy/claim checks; independent different read-only reviewer; docs-only release if PASS/PASS_WITH_P3.",
+      "measurement_plan": "Research gate only: exact query intent and incremental task output; no traffic, family outcome or rank forecast. Later publication requires separately registered action and measurement boundary.",
+      "production_invariants": "No site, generator, data, workflow, automation, indexing, paid API, external posting or parent/child claims change; protected page windows unchanged.",
+      "observation_window": "Preserve rampOct13, chainOct7, foilOct8, packOct9, bridgeOct10; weekly synthesis due Oct4.",
+      "reconsider_conditions": "Reject dedicated URL if exact intent/demand is unsubstantiated, current pages already answer proposed utility, source/cord controls remain unresolved, or owner fit is not distinct; do not broaden to generic craft roundup.",
+      "evidence_refs": ["seo/caregiver-job-discovery-2026-10-03.md", "reviews/persona-review-protocol.md", "seo/activity-cluster-research-protocol.md"],
+      "artifact": "seo/lacing-card-qualification-2026-10-03.md",
+      "next_step": "Fresh-fetch/no-divergence gate, exact-eight-path docs-only commit/push and alignment; then October 4 weekly synthesis.",
+      "decision": "REJECT_HYPOTHESIS for present dedicated-page eligibility; PRESERVE broader quiet-craft question. Three query samples mix printables, shopping and DIY, and current opened bodies already answer the basic start/adaptation; exact demand and incremental task value are not established."
     }
   ]
 }

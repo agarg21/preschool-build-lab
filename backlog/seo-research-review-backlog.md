@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 3 Lacing-Card Qualification
+
+RES030 [exact query/body qualification](../seo/lacing-card-qualification-2026-10-03.md) maps three separate search strings to result types and opened bodies. `REJECT_HYPOTHESIS` for a dedicated indexable page now: printable/shopping/DIY intent overlaps, basic DIY and adaptation are already supplied, exact demand and incremental decision value are unproven. No fine-motor-page expansion, card or new URL follows. Reopen only for named first-party/independent demand and a specific unanswered task output; never rerun on cadence. Native/reviewer/release record in `ops/operator-review.md`; weekly October 4 and protected windows stay.
+
 ## October 3 Quiet Craft Discovery
 
 RES029 [dated question and live-result pass](../seo/caregiver-job-discovery-2026-10-03.md): four constrained public questions support a quiet/low-mess preschool creative decision, not exact lacing-card demand. Three opened lacing bodies already supply DIY steps and adaptations. RESEARCH one separately registered exact lacing-card intent/demand/incremental-decision qualification only; DEFER any URL or site change. Reject dedicated page if it merely repeats existing how-tos, safety controls cannot be reconciled, or exact material demand remains unsupported. No paid calls; weeklyOctober4 and protected windows preserved.

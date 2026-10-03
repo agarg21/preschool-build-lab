@@ -4,6 +4,16 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-03 Afternoon - KAL-RES-030 Lacing-Card Qualification
+
+- Decision/persona: caregiver with a preschooler around four needs a quiet, reusable dry craft at a small carpeted table; younger-child reach and limited adult attention are the stress. Decide whether lacing fits, prepare/show a first move, rescue a stalled thread and put materials away. This is a proxy task, not human testing.
+- Falsifiable hypothesis: exact lacing queries and current answers leave a distinct, source-supportable parent decision worth one dedicated KAL URL beyond generic DIY steps.
+- Sources/classes: October 3 [three separately mapped query samples and opened bodies](../seo/lacing-card-qualification-2026-10-03.md) are tool observations/`RESEARCH_HYPOTHESIS` for intent, not measured ranks or volume; publisher instructions and CPSC cord/younger-child guidance are `SOURCE_BACKED` within limits; KAL owner map and finalized October 3 GSC are `MEASURED` only for their stated scope; decision `EDITORIAL_JUDGMENT`; family/SEO outcomes `UNKNOWN`.
+- Result/confidence/action: `REJECT_HYPOTHESIS` for present dedicated-page eligibility; preserve broader quiet-craft question. High confidence current bodies already give basic DIY and KAL has no lacing route; medium mixed-intent interpretation; low exact-demand/rank inference. No site edit or paid call. Review/QA/release state is in `ops/operator-review.md`.
+- Lesson: missing site coverage plus a plausible material does not beat runnable, illustrated existing answers; resolve exact demand and truly additional planning output before creating a page.
+- Next falsification trigger: first-party exact/near-exact lacing queries, independent current demand estimate, or repeated specific caregiver questions plus a fresh body pass revealing an unmet go/no-go or rescue need. A build requires separate registration.
+- Measurement boundary: no complete US Google ranks, numeric exact volume, parent/child test, duration, engagement, development, safety-in-practice or top-five forecast. Weekly October 4 synthesis and protected observation windows remain.
+
 ## 2026-10-03 Morning - KAL-RES-029 Quiet Craft Discovery
 
 - Decision/persona: source-derived caregiver/program leader with a preschooler needs a quiet, reusable, low-mess craft in small/carpeted space; younger-child reach and limited adult attention stress the task. Four [dated public questions](../seo/caregiver-job-discovery-2026-10-03.md) are qualitative, not measured demand.
