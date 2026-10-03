@@ -4,6 +4,16 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-03 Morning - KAL-RES-029 Quiet Craft Discovery
+
+- Decision/persona: source-derived caregiver/program leader with a preschooler needs a quiet, reusable, low-mess craft in small/carpeted space; younger-child reach and limited adult attention stress the task. Four [dated public questions](../seo/caregiver-job-discovery-2026-10-03.md) are qualitative, not measured demand.
+- Hypothesis: the shared constraint might reveal one singular activity-running job that existing KAL pages do not own. Focused live results show lacing cards as a possible mechanism, but already contain complete DIY instructions and adaptations.
+- Sources/classes: October3 inspected public question URLs `RESEARCH_HYPOTHESIS`; three lacing how-to/provider bodies and one different contained-paint sheet `SOURCE_BACKED` within limits; current site/October2 finalized GSC `MEASURED` only for existing surfaces; candidate selection `EDITORIAL_JUDGMENT`; exact demand, outcomes and rank `UNKNOWN`.
+- Result/confidence/action: RESEARCH narrow lacing-card qualification, DEFER page/change. Moderate confidence in constraint pattern and existing how-to counterevidence; low confidence in exact search demand or incremental KAL value. No no-mess, safe-for-all, independent-play or engagement claim.
+- Lesson: a missing creative lane and a plausible DIY mechanism do not establish an indexable job; compare the parent decision against already runnable results before adding a page.
+- Next falsification: exact query/intent evidence is absent, stronger current bodies cover proposed controls, or source-reconciled adult/cord/ability/rescue boundaries cannot be established; reject dedicated URL rather than broaden scope.
+- Measurement boundary: no paid metrics, complete rankings, family testing, duration, safety in practice, development, SEO forecast or causal traffic effect. October4 synthesis and protected observation windows retained.
+
 ## 2026-10-02 Afternoon - KAL-IMP-023 Card Handoff Repair
 
 - Decision/persona: retained source-derived caregiver must decide no-cut Ball Maze fit, start a wide three-wall path and find rescue/cleanup; younger-child reach is the stress.

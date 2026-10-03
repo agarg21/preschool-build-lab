@@ -3730,6 +3730,31 @@
       "release": {"state":"pushed","reviewed_commit":"a8018c787a7598d81584a4bceec78885e715c283","pages_run":"37054589106","pages_conclusion":"success","release_marker":"absent","live_verification":"Card, CSS, sitemap and guide HTTP200/byte-identical; canonical/H1/link/sitemap date, guide sections, image, four-mode keyboard/touch/Back/width/error task PASS; no human or SEO outcome inferred."},
       "completed_on": "2026-10-02",
       "next_step": "October4 weekly synthesis unless verified defect/unfinished release takes priority; preserve rampOct13, chainOct7, foilOct8, packOct9 and bridgeOct10 windows."
+    },
+    {
+      "id": "KAL-RES-029",
+      "title": "Discover one current preschool making or exploring parent job",
+      "kind": "research",
+      "status": "review_clean",
+      "registered_on": "2026-10-03",
+      "base_commit": "0cc6cc52ee55548bc401c31e3631221d19d7bc54",
+      "exact_paths": ["seo/caregiver-job-discovery-2026-10-03.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-03",
+      "evidence_class": "Current public caregiver questions as qualitative RESEARCH_HYPOTHESIS; dated current guidance/SERP bodies SOURCE_BACKED within limits; existing site and public-safe GSC MEASURED only for their stated scope; editorial owner decision EDITORIAL_JUDGMENT; parent/child outcomes UNKNOWN",
+      "user_problem": "The next distinct individual-activity opportunity is unselected after closed hunt and restaurant qualifications; choose from actual constrained caregiver decisions rather than produce pages from cadence.",
+      "hypothesis": "A small current question set outside those closed jobs will reveal one sufficiently distinct planning task worth focused SERP/owner qualification, or falsify the assumption that another near-term page is warranted.",
+      "acceptance": "Inspect 3-5 dated accessible public caregiver questions, retain URL/date/paraphrased decision/constraints only, derive one frozen task and stress constraint, map existing owners, inspect focused live query family and representative ranking bodies only if distinct, return BUILD/UPGRADE/PRESERVE/DEFER/REJECT with exact open gates and no market-demand inference from anecdotes.",
+      "qa_plan": "git diff --check, jq empty ops/seo-roadmap.json, node --test tools/*.test.mjs; parse changed JSON; check all cited source URLs, privacy, evidence classes, eight-path scope; different independent read-only review; no Pages because no site/workflow edit.",
+      "measurement_plan": "Learning decision and next falsification only; no rank, traffic, family outcome or publication measurement from this discovery.",
+      "production_invariants": "No site, generator, data, workflow, automation, indexing, paid API or external posting changes; existing page/guide ownership and claims unchanged.",
+      "observation_window": "Preserve rampOct13, chainOct7, foilOct8, packOct9, bridgeOct10 and weekly synthesis due Oct4.",
+      "reconsider_conditions": "Reject or narrow if questions are inaccessible/duplicate/too broad, no distinct parent task emerges, an existing owner already answers it, SERP bodies close the proposed gap or source boundaries are unresolved.",
+      "evidence_refs": ["weekly/2026-09-27-owner-and-start-synthesis.md", "seo/caregiver-job-discovery-2026-09-29.md", "seo/pretend-restaurant-qualification-2026-09-30.md"],
+      "artifact": "seo/caregiver-job-discovery-2026-10-03.md",
+      "decision": "RESEARCH one separately registered exact lacing-card intent/demand/incremental-decision qualification; DEFER any new URL or site edit. Four constrained questions are not exact demand; three opened lacing how-tos already serve basic setup. Reject page if utility or safety/ability controls cannot be reconciled.",
+      "qa_result": "Native113, roadmap JSON, git diff --check, eight-path scope, local references and source/privacy/claim checks PASS; no site/data/workflow change.",
+      "review": {"verdict":"PASS_WITH_P3","cycle":1,"read_only":true,"reviewer_id":"01a10104-6a3c-7671-8be6-7f4e89550932","reviewer_name":"Linnaeus","findings":["P3: exploratory query strings and selected opened bodies are not mapped one-to-one; later exact qualification must record query-to-URL attribution. No P0-P2."],"reconciliation":"Checked four question bodies, cited guidance, dates, owner map, GSC limits, privacy, scope, JSON, 113 native tests and local references; DEFER decision remains supported."},
+      "next_step": "Docs-only exact-path push/alignment, then October4 weekly synthesis. Later lacing qualification needs separate registration and query-to-URL map."
     }
   ]
 }

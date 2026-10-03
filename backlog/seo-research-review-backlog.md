@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 3 Quiet Craft Discovery
+
+RES029 [dated question and live-result pass](../seo/caregiver-job-discovery-2026-10-03.md): four constrained public questions support a quiet/low-mess preschool creative decision, not exact lacing-card demand. Three opened lacing bodies already supply DIY steps and adaptations. RESEARCH one separately registered exact lacing-card intent/demand/incremental-decision qualification only; DEFER any URL or site change. Reject dedicated page if it merely repeats existing how-tos, safety controls cannot be reconciled, or exact material demand remains unsupported. No paid calls; weeklyOctober4 and protected windows preserved.
+
 ## October 2 Ball Maze Card Handoff
 
 RES028 [card-only audit](../reviews/ball-maze-card-handoff-2026-10-02.md)
