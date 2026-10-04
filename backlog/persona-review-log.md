@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## 2026-10-04 Afternoon - Tape Road Card-To-Guide Task
+
+`KAL-RES-031` [read-only audit](../reviews/tape-road-card-guide-handoff-2026-10-04.md) freezes the September15 unknown-floor/younger-child task and applies every-section review to the existing compact card and guide. At 1280 normal, 390 normal, 390/root200% and 320/root200% text-fit stress, the card stays in width but the guide link follows video, full child steps, late parent stop and source: y1253/y1727/y3069/y3710 respectively. Desktop Enter and mobile touch reach a readable guide; mobile Back works. Card-only7/24 and whole route20/24, 12 applicable dimensions, sensory/accessibility N/A; critical card-only fallback/rescue and depth-route order trigger `IMPROVE` of existing card in a separate action. This proxy does not measure parent behavior or physical outcomes; Pauli independent read-only `PASS_WITH_P3`, no P0-P2; push-only release pending.
+
 These records evaluate concrete tasks against the current product. Personas
 are evidence-grounded hypotheses, not fictional testimonials or human tests.
 Scores use `0` for missing, misleading, unusable, or unsupported; `1` for a

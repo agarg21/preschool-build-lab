@@ -4,6 +4,16 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-04 Afternoon - KAL-RES-031 Tape Road Depth Route
+
+- Decision/persona: `IMPROVE` the existing compact-card handoff in a separate action. A source-derived caregiver with uncertain floor finish must choose a surface/board, start one drive-and-park mission, stop, rescue and clean up; a younger child can reach the setup. [Dated audit](../reviews/tape-road-card-guide-handoff-2026-10-04.md) freezes outputs and the secondary stress.
+- Falsifiable hypothesis: a card lacking the unknown-floor fallback and rescue can still expose its maintained guide before the full step sequence/media detour. Current live card does not: link y1253 desktop, y1727 mobile, y3069 at 390/root200%; guide arrival itself is readable.
+- Sources/classes: September15 publisher reconciliation and October4 recheck of The Genius of Play, 3M and FrogTape public pages `SOURCE_BACKED` within product/context limits; October4 production DOM/route/width and GSC `MEASURED` in scope; caregiver task `RESEARCH_HYPOTHESIS`; score and priority `EDITORIAL_JUDGMENT`; family/SEO outcomes `UNKNOWN`.
+- Result/confidence: card-only7/24 and whole route20/24 across12 applicable dimensions, sensory/accessibility N/A. Critical card-only surface/rescue gap and late depth link override total. High confidence in browser order/geometry, moderate proxy planning interpretation, no claim of actual abandonment. Preserve guide/URL; do not edit site in this transaction. Native113/GSC78/JSON/refs/scope PASS; Pauli independent read-only `PASS_WITH_P3`, no P0-P2, sole stale-QA P3 corrected; push-only release pending.
+- Lesson: the guide can have the complete decision and readable arrival while the card still asks a parent to pass child steps before finding that depth. Conditional discoverable-depth rule applies here; it is not a blanket top-link mandate.
+- Next falsification trigger: reviewer disproves gap; a later separately registered card change cannot expose guide/stop ahead of steps at normal/enlarged mobile, or future genuine parent evidence contradicts the proxy. Preserve all page observation windows; next weekly Oct11.
+- Measurement boundary: no parent/child test, timing, click analytics, surface performance, safety outcome, engagement, learning, rank forecast or causal GSC inference. No new page or paid call.
+
 ## 2026-10-04 - KAL-WEEKLY-004 Discoverable Depth
 
 - Decision/persona: a source-grounded caregiver selects an existing activity through a compact card and needs the maintained guide when the card lacks a critical fit, rescue or cleanup output. The next test is Tape Road from card to guide; surface uncertainty and a younger child's reach stress the retained task.
