@@ -1,5 +1,13 @@
 # Current Cycle
 
+## Run Checkpoint - October 4 Weekly Synthesis
+
+- Invocation `2026-10-04T09:00:29.126Z`; time checked 09:00:37UTC/05:00EDT. Pilot active; no newer redirect. Clean/aligned base `96954528b695cece690277bf8658a4e542c93747`; fetched origin, 0/0 divergence, no incoming or dirty work.
+- Objective/action: `KAL-WEEKLY-004`, review-clean synthesis. September27 readable-arrival rule holds within observed ramp/Ball Maze repairs but does not cover how soon a parent finds the guide route. Add conditional discoverable-depth gate for incomplete compact cards; prioritize a separately registered read-only Tape Road card-to-guide task audit, not an assumed repair or new page.
+- Exact seven paths: `weekly/2026-10-04-decision-synthesis.md`, `backlog/product-learning-ledger.md`, `backlog/seo-research-review-backlog.md`, `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`, `ops/seo-roadmap.md`. No site, data, generator, strategy, workflow, automation or Control Room paths.
+- Next executable step: fresh-fetch/no-divergence gate, inspect and stage exact seven paths, docs-only commit/push, verify alignment and factual closeout. Later separately register the Tape Road audit. No paid call.
+- Completion still required: exact-path docs-only push and final alignment. Native113, GSC77, roadmap JSON, whitespace, 69 local references, source/score/metric/privacy and exact scope PASS. Lovelace independent read-only PASS/no P0-P3, including unique IDs and sitemap count. [Synthesis](../weekly/2026-10-04-decision-synthesis.md) traces the dated week, retains distinct scores, tests prior rule, records conditional new gate and falsification. Protected rampOct13, chainOct7, foilOct8, packOct9, bridgeOct10 windows remain; next weeklyOctober11.
+
 ## Run Checkpoint - October 3 Afternoon Lacing-Card Qualification
 
 - Invocation `2026-10-03T17:00:56.349Z`; checked17:01:02UTC/13:01EDT, pilot active, no newer redirect. Clean `5461117` baseline; fetched disjoint GSC-only `dae755d` and fast-forwarded without divergence/conflict to `dae755dbe037210ebc265d098a7474abde853a64`.

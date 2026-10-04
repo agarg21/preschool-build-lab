@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "owner": "Kid Activity Lab Operator",
-  "last_rescored_on": "2026-09-27",
-  "next_rescore_due": "2026-10-04",
+  "last_rescored_on": "2026-10-04",
+  "next_rescore_due": "2026-10-11",
   "planning_horizon_days": 28,
   "items": [
     {
@@ -3784,6 +3784,30 @@
       "qa": "native113, GSC77, roadmap JSON, whitespace, 67 local references, exact eight-path/source/privacy/claim scope PASS",
       "release": {"state":"pushed","reviewed_commit":"6777b6a815b4605ce52edfb7468a1aba29887d0c","site_changed":false,"pages":"not applicable; research/operator-only","alignment":"clean local/origin0/0 and remote main exact SHA verified before factual closeout"},
       "completed_on": "2026-10-03"
+    },
+    {
+      "id": "KAL-WEEKLY-004",
+      "title": "Synthesize owner, task handoff and rejected-page learning for the next question",
+      "kind": "weekly-learning-synthesis",
+      "status": "review_clean",
+      "registered_on": "2026-10-04",
+      "base_commit": "96954528b695cece690277bf8658a4e542c93747",
+      "exact_paths": ["weekly/2026-10-04-decision-synthesis.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-04",
+      "evidence_class": "Retained dated source/review/browser/release records and latest/prior finalized public-safe GSC; synthesis EDITORIAL_JUDGMENT, no new family or search-demand measurement",
+      "user_problem": "A week of page handoff repairs and rejected singular-page probes can turn into either a page quota or repeated low-yield discovery unless the operator extracts a testable decision rule and next evidence-eligible question.",
+      "hypothesis": "Tracing September 27-October 3 task failures and qualification closures will identify a falsifiable owner/arrival/decision-value rule or retire a weak page-production assumption, changing the next research priority.",
+      "acceptance": "Trace the previous seven days to dated entries and releases, test prior weekly rule, identify repeated failures/contradictions/weak assumptions, produce a falsifiable rule/priority/retirement and one next evidence-eligible question; preserve exact task denominators and all observation windows; no page or paid call.",
+      "qa_plan": "git diff --check; jq empty ops/seo-roadmap.json; node --test tools/*.test.mjs; validate public-safe snapshots; source/score/metric/reference/privacy/exact-seven-path checks; independent different read-only reviewer; docs-only release and alignment.",
+      "measurement_plan": "Weekly synthesis is a research decision, not a new family test, search estimate, traffic effect or rank forecast. Falsify its rule in the next independently registered task/release rather than claiming a measured gain now.",
+      "production_invariants": "No site, data, generator, strategy, workflow, automation, indexing, external account, paid API, parent/child claim or Control Room change; protected page windows retained.",
+      "observation_window": "Preserve rampOct13, chainOct7, foilOct8, packOct9, bridgeOct10; next weekly synthesis/rescore October11.",
+      "reconsider_conditions": "Reject generic recap, duplicated prior rule or priority unsupported by dated evidence; stop on remote divergence, P0-P2 reviewer finding or scope drift.",
+      "artifact": "weekly/2026-10-04-decision-synthesis.md",
+      "next_step": "Fresh-fetch/no-divergence gate, exact-seven-path docs-only push and alignment; separately register the read-only Tape Road route audit.",
+      "decision": "Preserve September27 readable-arrival rule; add conditional discoverable-depth gate for compact cards missing critical guide-held outputs. Next priority is one read-only Tape Road card-to-guide task audit, not a presumed repair or new URL.",
+      "next_rescore_due": "2026-10-11",
+      "next_eligible_action": "Separately register a source-grounded Tape Road card-to-guide desktop/mobile/enlarged-text audit; return PRESERVE or measured IMPROVE brief."
     }
   ]
 }

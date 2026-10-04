@@ -4,6 +4,16 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-04 - KAL-WEEKLY-004 Discoverable Depth
+
+- Decision/persona: a source-grounded caregiver selects an existing activity through a compact card and needs the maintained guide when the card lacks a critical fit, rescue or cleanup output. The next test is Tape Road from card to guide; surface uncertainty and a younger child's reach stress the retained task.
+- Falsifiable hypothesis: readable destination arrival plus a direct link is insufficient when a card's required depth route appears only after its full steps or unrelated media; a conditional early-depth gate will expose such failures without making every card longer.
+- Sources/classes: [weekly synthesis](../weekly/2026-10-04-decision-synthesis.md) traces September27-October3 dated source/task/browser/release records; browser geometry and public-safe GSC were `MEASURED` in their original scopes; source instructions `SOURCE_BACKED` only within cited reviews; caregiver task `RESEARCH_HYPOTHESIS`; rule/priority `EDITORIAL_JUDGMENT`; actual family/SEO effects `UNKNOWN`.
+- Result/confidence/action: extend the September27 readable-arrival rule with conditional discoverable-depth evidence; prioritize one separately registered read-only Tape Road card-to-guide audit, with `PRESERVE` a valid outcome. Moderate confidence from ramp and Ball Maze route failures, low confidence in generality beyond those owners. No site edit, new URL, paid call or page-format rejection. QA/reviewer/release are recorded in `ops/operator-review.md`.
+- Reusable lesson: a complete canonical guide, a working link and a readable destination are three different conditions; measure the parent's entry-to-start route before calling an existing workflow usable.
+- Next falsification trigger: a card with an early labeled guide link still fails its concrete task, or an otherwise complete card loses clarity when depth is moved ahead of execution. Test Tape Road rather than assume the pattern repeats.
+- Measurement boundary: historical card-only8->20/22 ramp and8->11/24 Ball Maze scores are different tasks; whole-route24->25/26 is not card-only. No new human test, click-path measurement, ranking estimate, duration, safety outcome or causal GSC finding. Protected windows and next weekly October11 remain.
+
 ## 2026-10-03 Afternoon - KAL-RES-030 Lacing-Card Qualification
 
 - Decision/persona: caregiver with a preschooler around four needs a quiet, reusable dry craft at a small carpeted table; younger-child reach and limited adult attention are the stress. Decide whether lacing fits, prepare/show a first move, rescue a stalled thread and put materials away. This is a proxy task, not human testing.

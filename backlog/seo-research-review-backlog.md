@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 4 Entry-To-Start Priority
+
+WEEKLY004 [dated synthesis](../weekly/2026-10-04-decision-synthesis.md) preserves the September27 readable-arrival rule and adds a conditional discoverable-depth check when a compact card lacks a critical output held by its guide. **Next question:** separately register a read-only Tape Road card -> guide persona-task audit with desktop/mobile/enlarged-text route, critical outputs and source/owner agreement. Return `PRESERVE` or one measured `IMPROVE` brief; the card's video-first and link-after-steps order are observations, not a defect finding. No new URL, automatic edit, paid batch or repeated photo/restaurant/lacing qualification. October11 weekly review and protected windows stay.
+
 ## October 3 Lacing-Card Qualification
 
 RES030 [exact query/body qualification](../seo/lacing-card-qualification-2026-10-03.md) maps three separate search strings to result types and opened bodies. `REJECT_HYPOTHESIS` for a dedicated indexable page now: printable/shopping/DIY intent overlaps, basic DIY and adaptation are already supplied, exact demand and incremental decision value are unproven. No fine-motor-page expansion, card or new URL follows. Reopen only for named first-party/independent demand and a specific unanswered task output; never rerun on cadence. Native/reviewer/release record in `ops/operator-review.md`; weekly October 4 and protected windows stay.
