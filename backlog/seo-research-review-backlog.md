@@ -2,7 +2,7 @@
 
 ## 2026-10-04 Afternoon - Tape Road Handoff Audit
 
-`KAL-RES-031` [dated persona/section audit](../reviews/tape-road-card-guide-handoff-2026-10-04.md) measures a working but late compact-card guide route; current guide answers the retained surface/start/stop/rescue job. `IMPROVE` only the existing card handoff in a separate registered build, not a new URL or refreshed qualification. Pauli independent read-only `PASS_WITH_P3`, no P0-P2; push-only release pending. The Oct4 finalized-through-Oct2 GSC card2/0 and guide1/0 with missing full query rows cannot establish route use, demand, ranking opportunity or effect. Preserve observation windows and October11 weekly.
+`KAL-RES-031` [dated persona/section audit](../reviews/tape-road-card-guide-handoff-2026-10-04.md) measures a working but late compact-card guide route; current guide answers the retained surface/start/stop/rescue job. `IMPROVE` only the existing card handoff in a separate registered build, not a new URL or refreshed qualification. Pauli independent read-only `PASS_WITH_P3`, no P0-P2; reviewed `05e1665` pushed/aligned docs-only. The Oct4 finalized-through-Oct2 GSC card2/0 and guide1/0 with missing full query rows cannot establish route use, demand, ranking opportunity or effect. Preserve observation windows and October11 weekly.
 
 ## October 4 Entry-To-Start Priority
 

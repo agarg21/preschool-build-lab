@@ -9,11 +9,15 @@
       "id": "KAL-RES-031",
       "title": "Audit Tape Road compact card to guide handoff",
       "kind": "research-persona-audit",
-      "status": "review_passed",
+      "status": "completed",
+      "completed_on": "2026-10-04",
+      "implementation_state": "Read-only audit reviewed and pushed; clean local/origin alignment verified before factual closeout",
+      "release_commit": "05e16652717c8512879345cc65f116157215a412",
+      "release_state": "push-only",
       "review_outcome": "PASS_WITH_P3",
       "review_cycles": 1,
       "reviewer_task": "01a107e7-7096-7722-a7de-74c13ca208f8",
-      "qa_summary": "Native113, GSC78, roadmap JSON, whitespace, 71 HTML/743 local links/fragments, Markdown references, score arithmetic, unique IDs, exact nine paths, privacy/secret scan PASS. Pauli read-only PASS_WITH_P3; stale QA mirror wording corrected, no P0-P2. Release pending.",
+      "qa_summary": "Native113, GSC78, roadmap JSON, whitespace, 71 HTML/743 local links/fragments, Markdown references, score arithmetic, unique IDs, exact nine paths, privacy/secret scan PASS. Pauli read-only PASS_WITH_P3; stale QA mirror wording corrected, no P0-P2. Reviewed 05e1665 pushed/aligned; docs-only.",
       "selected_on": "2026-10-04",
       "evidence_date": "2026-10-04",
       "frozen_base": "24c101f",
@@ -27,7 +31,7 @@
       "production_invariants": "No site, generator, data, snapshot, workflow, tracking, indexing, account, paid call, tested-status or family-outcome changes; preserve guide ownership and observation windows.",
       "observation_window": "Read-only audit does not reset ramp Oct13, chain Oct7, foil Oct8, pack Oct9 or bridge Oct10. Next weekly synthesis Oct11.",
       "reconsider_conditions": "Revisit the IMPROVE brief if independent review disproves the planning gap, a later early route buries the stop, or genuine parent evidence contradicts the proxy; separately register any build.",
-      "next_eligible_action": "After audit, separately register a bounded existing-card repair only if supported; otherwise continue next eligible candidate without repeating this audit."
+      "next_eligible_action": "Separately register a bounded Tape Road existing-card early-guide/readiness/stop handoff repair from this audit; preserve guide/URL and observation windows."
     },
     {
       "id": "KAL-WEEKLY-002",
