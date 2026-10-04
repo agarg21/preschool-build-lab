@@ -3789,7 +3789,7 @@
       "id": "KAL-WEEKLY-004",
       "title": "Synthesize owner, task handoff and rejected-page learning for the next question",
       "kind": "weekly-learning-synthesis",
-      "status": "review_clean",
+      "status": "completed",
       "registered_on": "2026-10-04",
       "base_commit": "96954528b695cece690277bf8658a4e542c93747",
       "exact_paths": ["weekly/2026-10-04-decision-synthesis.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3804,10 +3804,14 @@
       "observation_window": "Preserve rampOct13, chainOct7, foilOct8, packOct9, bridgeOct10; next weekly synthesis/rescore October11.",
       "reconsider_conditions": "Reject generic recap, duplicated prior rule or priority unsupported by dated evidence; stop on remote divergence, P0-P2 reviewer finding or scope drift.",
       "artifact": "weekly/2026-10-04-decision-synthesis.md",
-      "next_step": "Fresh-fetch/no-divergence gate, exact-seven-path docs-only push and alignment; separately register the read-only Tape Road route audit.",
+      "next_step": "Separately register the read-only Tape Road card-to-guide audit; PRESERVE is valid and no defect or new URL is presumed.",
       "decision": "Preserve September27 readable-arrival rule; add conditional discoverable-depth gate for compact cards missing critical guide-held outputs. Next priority is one read-only Tape Road card-to-guide task audit, not a presumed repair or new URL.",
       "next_rescore_due": "2026-10-11",
-      "next_eligible_action": "Separately register a source-grounded Tape Road card-to-guide desktop/mobile/enlarged-text audit; return PRESERVE or measured IMPROVE brief."
+      "next_eligible_action": "Separately register a source-grounded Tape Road card-to-guide desktop/mobile/enlarged-text audit; return PRESERVE or measured IMPROVE brief.",
+      "review": "Lovelace independent read-only PASS, no P0-P3 findings",
+      "qa": "native113, GSC77, roadmap JSON, whitespace, 69 local references, source/score/metric/privacy and exact seven-path scope PASS",
+      "release": {"state":"pushed","reviewed_commit":"1958b710c51d3ef6012d24d4299e4e90f64f6f01","site_changed":false,"pages":"not applicable; research/operator-only","alignment":"clean local/origin0/0 and remote main exact SHA verified before factual closeout"},
+      "completed_on": "2026-10-04"
     }
   ]
 }
