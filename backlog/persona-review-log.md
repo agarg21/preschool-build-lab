@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## 2026-10-05 - Tape Road Early Guide And Stop
+
+IMP024 [same-task implementation review](../reviews/tape-road-card-handoff-repair-2026-10-05.md) reuses the October4 unknown-floor/younger-child reach task. Card-only proxy7->16/24 and full route20->23/24 across12 applicable dimensions (sensory/accessibility N/A); card-only rescue and younger-child detail still depend on the maintained guide. Link y1253->240 desktop, y1727->232 mobile, y3069->413 at390/root200%; parent stop precedes all four unchanged child steps, video follows, and full-guide arrival clears the sticky header. Local widths, keyboard/touch/Back, blocked-video route and sampled errors pass; score is not a human result. Anscombe independent cycle2 read-only PASS/no P0-P3; exact-SHA release pending.
+
 ## 2026-10-04 Afternoon - Tape Road Card-To-Guide Task
 
 `KAL-RES-031` [read-only audit](../reviews/tape-road-card-guide-handoff-2026-10-04.md) freezes the September15 unknown-floor/younger-child task and applies every-section review to the existing compact card and guide. At 1280 normal, 390 normal, 390/root200% and 320/root200% text-fit stress, the card stays in width but the guide link follows video, full child steps, late parent stop and source: y1253/y1727/y3069/y3710 respectively. Desktop Enter and mobile touch reach a readable guide; mobile Back works. Card-only7/24 and whole route20/24, 12 applicable dimensions, sensory/accessibility N/A; critical card-only fallback/rescue and depth-route order trigger `IMPROVE` of existing card in a separate action. This proxy does not measure parent behavior or physical outcomes; Pauli independent read-only `PASS_WITH_P3`, no P0-P2; reviewed `05e1665` pushed/aligned docs-only.

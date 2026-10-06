@@ -188,7 +188,7 @@ def related_routes(slug):
     return routes[:MAX_RELATED_ROUTES]
 
 
-def related_routes_html(slug, include_guide=True):
+def related_routes_html(slug, include_guide=True, max_links=MAX_RELATED_ROUTES):
     links = []
     guide = GUIDE_ROUTES.get(slug) if include_guide else None
     if guide:
@@ -199,7 +199,7 @@ def related_routes_html(slug, include_guide=True):
         f'<a href="../{esc(route["path"])}">{esc(route.get("route_label", route["h1"]).rstrip("."))}</a>'
         for route in related_routes(slug)
     )
-    links = links[:MAX_RELATED_ROUTES]
+    links = links[:max_links]
     if not links:
         return ""
     return f'''
@@ -212,6 +212,7 @@ def related_routes_html(slug, include_guide=True):
 def page(row, slug):
     if slug == "cardboard-car-ramp":
         return ramp_card_page(row)
+    is_tape_road = slug == "tape-road"
     steps = [row[f"kid_step_{i}"] for i in range(1, 5) if row.get(f"kid_step_{i}")]
     step_html = "\n".join(
         f'''          <div class="step-tile">
@@ -227,7 +228,7 @@ def page(row, slug):
             meta_values.append(("Time", row["time"]))
         else:
             meta_values.append(("Need", label))
-    meta_values.append(("Mess", f"{row['mess']}"))
+    meta_values.append(("Mess", "Not measured" if is_tape_road else row["mess"]))
     meta_values = meta_values[:4]
     meta_html = "\n".join(
         f'          <div class="meta-tile"><strong>{esc(label)}</strong>{esc(value)}</div>'
@@ -238,7 +239,35 @@ def page(row, slug):
         f"{row['activity_title']} activity card for preschoolers: "
         f"{description_steps}."
     )
-    routes = related_routes_html(slug)
+    routes = related_routes_html(
+        slug, include_guide=not is_tape_road,
+        max_links=2 if is_tape_road else MAX_RELATED_ROUTES,
+    )
+    safety_note = (
+        "Adult stays close, keeps loose tape and the roll out of reach, and removes the tape at the end. "
+        "Stop for peeling, chewing, wrapping, throwing, mouthing, leaving the activity area, or any surface change."
+        if is_tape_road else row["safety_note"]
+    )
+    guide_decision = '''
+
+        <section class="tape-road-decision" aria-label="Decide before starting">
+          <p><a href="../articles/painter-tape-road-kids.html">Full Painter&#x27;s Tape Road guide</a> for fit, board fallback, rescue, and cleanup.</p>
+          <p>Adult chooses tape for the surface: follow the tape maker's guidance, test one strip in an inconspicuous area, then remove it and check the surface. If the floor or finish is unknown or unsuitable, use a large cardboard sheet, table, or tray you are willing to tape. Research-backed, not family-tested by Kid Activity Lab.</p>
+        </section>''' if is_tape_road else ""
+    parent_check = f'''
+
+        <section class="parent-strip" aria-label="Parent check">
+          <strong>Parent check:</strong> {esc(safety_note)}
+        </section>'''
+    video = f'''
+
+        <iframe class="video-frame" src="{esc(row['embed_url'])}" title="{esc(row['title'])}" loading="lazy" allowfullscreen></iframe>'''
+    early_parent_check = parent_check if is_tape_road else ""
+    late_parent_check = "" if is_tape_road else parent_check
+    early_video = "" if is_tape_road else video
+    late_video = video if is_tape_road else ""
+    card_class = "kid-card tape-road-card" if is_tape_road else "kid-card"
+    css_version = "tape-road-card-1" if is_tape_road else "nav-stable-2"
     return f'''<!doctype html>
 <html lang="en">
   <head>
@@ -247,7 +276,7 @@ def page(row, slug):
     <title>{esc(row['activity_title'])} Activity Card | Kid Activity Lab</title>
     <meta name="description" content="{esc(description)}">
     <link rel="canonical" href="https://kidactivitylab.com/cards/{esc(slug)}.html">
-    <link rel="stylesheet" href="../styles.css?v=nav-stable-2">
+    <link rel="stylesheet" href="../styles.css?v={css_version}">
   </head>
   <body>
     <header class="site-header">
@@ -262,23 +291,17 @@ def page(row, slug):
     </header>
 
     <main class="card-shell">
-      <article class="kid-card">
+      <article class="{card_class}">
         <p class="kicker">{esc(row['time'])} · age {esc(row['age'])}</p>
-        <h1>{esc(row['activity_title'])}</h1>
-
-        <iframe class="video-frame" src="{esc(row['embed_url'])}" title="{esc(row['title'])}" loading="lazy" allowfullscreen></iframe>
+        <h1>{esc(row['activity_title'])}</h1>{guide_decision}{early_video}
 
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
-        </div>
+        </div>{early_parent_check}
 
         <section class="steps-grid" aria-label="Steps">
 {step_html}
-        </section>
-
-        <section class="parent-strip" aria-label="Parent check">
-          <strong>Parent check:</strong> {esc(row['safety_note'])}
-        </section>
+        </section>{late_parent_check}{late_video}
 
         <section class="parent-strip" aria-label="Source">
           <strong>Source idea:</strong> adapted from a creator video and simplified into a kid card. <a href="{esc(row['source_url'])}">Watch the source video</a>.
