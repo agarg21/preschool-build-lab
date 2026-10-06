@@ -2,7 +2,7 @@
 
 ## 2026-10-05 - Tape Road Early Guide And Stop
 
-IMP024 [same-task implementation review](../reviews/tape-road-card-handoff-repair-2026-10-05.md) reuses the October4 unknown-floor/younger-child reach task. Card-only proxy7->16/24 and full route20->23/24 across12 applicable dimensions (sensory/accessibility N/A); card-only rescue and younger-child detail still depend on the maintained guide. Link y1253->240 desktop, y1727->232 mobile, y3069->413 at390/root200%; parent stop precedes all four unchanged child steps, video follows, and full-guide arrival clears the sticky header. Local widths, keyboard/touch/Back, blocked-video route and sampled errors pass; score is not a human result. Anscombe independent cycle2 read-only PASS/no P0-P3; exact-SHA release pending.
+IMP024 [same-task implementation review](../reviews/tape-road-card-handoff-repair-2026-10-05.md) reuses the October4 unknown-floor/younger-child reach task. Card-only proxy7->16/24 and full route20->23/24 across12 applicable dimensions (sensory/accessibility N/A); card-only rescue and younger-child detail still depend on the maintained guide. Link y1253->240 desktop, y1727->232 mobile, y3069->413 at390/root200%; parent stop precedes all four unchanged child steps, video follows, and full-guide arrival clears the sticky header. Local and live widths, keyboard/touch/Back, blocked-video route and sampled errors pass; score is not a human result. Anscombe independent cycle2 read-only PASS/no P0-P3; reviewed `867de42` released via exact-SHA Pages `37500764705`, live bytes and four-mode task verified.
 
 ## 2026-10-04 Afternoon - Tape Road Card-To-Guide Task
 

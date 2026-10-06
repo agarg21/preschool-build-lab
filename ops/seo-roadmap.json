@@ -3817,7 +3817,7 @@
       "id": "KAL-IMP-024",
       "title": "Repair Tape Road compact-card guide and readiness handoff",
       "kind": "existing-card-implementation",
-      "status": "release_ready",
+      "status": "completed",
       "registered_on": "2026-10-05",
       "base_commit": "c00ac7d01f662a21857f608d170eb53ad6429e39",
       "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "site/cards/tape-road.html", "site/styles.css", "site/sitemap.xml", "tools/tape-road-handoff.test.mjs", "reviews/tape-road-card-handoff-repair-2026-10-05.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3833,9 +3833,11 @@
       "reconsider_conditions": "Reconsider if the early route hides a critical stop, introduces unsupported universal surface/safety or mess claims, makes the compact card cluttered, fails enlarged-text/navigation QA, or independent review finds P0-P2. Do not release on divergence or Pages regression.",
       "evidence_refs": ["reviews/tape-road-card-guide-handoff-2026-10-04.md", "weekly/2026-10-04-decision-synthesis.md"],
       "artifact": "reviews/tape-road-card-handoff-repair-2026-10-05.md",
-      "next_step": "Fresh fetch, verify no divergence, inspect and stage only exact 15 reviewed paths, commit/push, then require exact-SHA Pages and live byte/task verification.",
+      "next_step": "At the next heartbeat re-evaluate the roadmap and newest evidence for one eligible action; preserve ramp Oct13, chain Oct7, foil Oct8, pack Oct9, bridge Oct10 and weekly Oct11.",
       "decision": "Local candidate improves only the existing Tape Road card handoff; card-only proxy7->16/24 with critical guide-held rescue, whole-route20->23/24 across12 applicable dimensions. No new URL or family/SEO outcome.",
-      "qa_result": "Local native116, GSC80 after disjoint 33141bf fast-forward, three generators twice/byte-idempotent, 71HTML/834 local refs, desktop/mobile/enlarged route/width/keyboard/touch/Back/blocked-video/error QA PASS. Mencius cycle1 PASS_WITH_P3/no P0-P2; both P3s corrected. Anscombe cycle2 independent read-only PASS/no P0-P3. Release pending."
+      "qa_result": "Native116, GSC80, JSON/whitespace, three generators twice/byte-idempotent, 71HTML/834 local refs, source/privacy and exact15 scope PASS. Mencius cycle1 PASS_WITH_P3/no P0-P2; both P3s corrected. Anscombe cycle2 independent read-only PASS/no P0-P3. Exact-SHA Pages37500764705 success; four live HTTP200 byte matches and four-mode desktop/mobile/enlarged task PASS.",
+      "release": {"state":"production_verified","reviewed_commit":"867de424f0d8d69c94698e57651b79d193a6c08f","pages_run":37500764705,"pages_conclusion":"success","live_bytes":"card, CSS, sitemap and unchanged guide matched local; no release marker exists","task":"four-mode widths, early route, keyboard/touch/Back, H1 clearance and no sampled errors pass","measurement_boundary":"No family, physical or SEO effect measured; GSC windows overlap and query data are incomplete."},
+      "completed_on": "2026-10-06"
     },
     {
       "id": "KAL-WEEKLY-004",

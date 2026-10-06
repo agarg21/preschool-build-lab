@@ -2,9 +2,9 @@
 
 Last updated: 2026-10-06
 
-## October 5 Tape Road Card Repair - Release Ready
+## October 5 Tape Road Card Repair - Released October 6
 
-`KAL-IMP-024` [same-task review](../reviews/tape-road-card-handoff-repair-2026-10-05.md) implements the RES031 early guide/surface/stop brief on the existing compact card. Local guide link y1727->232 mobile/y3069->413 root200%; adult stop before unchanged four steps, optional video after; mess `Not measured`. Card-only proxy7->16/24 but rescue/younger-child detail remains guide-held; whole-route20->23/24, no parent-use or SEO effect. Native116, generator/link/browser QA pass; Anscombe independent cycle2 read-only PASS/no P0-P3. Exact-SHA Pages release pending; no new URL/guide rewrite or observation-window reset.
+`KAL-IMP-024` [same-task review](../reviews/tape-road-card-handoff-repair-2026-10-05.md) implements the RES031 early guide/surface/stop brief on the existing compact card. Guide link y1727->232 mobile/y3069->413 root200%; adult stop before unchanged four steps, optional video after; mess `Not measured`. Card-only proxy7->16/24 but rescue/younger-child detail remains guide-held; whole-route20->23/24, no parent-use or SEO effect. Native116, generator/link/browser QA pass; Anscombe independent cycle2 read-only PASS/no P0-P3. Reviewed `867de42` released through exact-SHA Pages `37500764705`; live card/CSS/sitemap/unchanged guide bytes match and four-mode task passes. No new URL/guide rewrite or observation-window reset.
 
 ## October 4 Afternoon Tape Road Handoff Overlay
 
