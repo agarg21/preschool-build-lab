@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## 2026-10-07 - Paper-Chain Due-Window Route
+
+`KAL-RES-032` [dated audit](../reviews/paper-chain-observation-2026-10-07.md) reuses the RES016 P1/P3/P4 linked-start and recovery caregiver task with optional P2 book-reach stress. Primary card proxy remains23/26 across all13 applicable dimensions; no N/A and no new human score. Library keyboard/mobile entry, thread-before-close, stop, rescue, one-sheet disclosure, blocked-image prose, source boundary and card widths pass. The optional book route reaches the exact hub fragment but its H2 y35 is covered by sticky header bottoms61 desktop/93 mobile; at root200% the H2 y55-148 meets header143 and the hub document widens516px against 390/320. Critical readable-arrival override: `PRESERVE` card, `IMPROVE` hub in a separately registered repair. Research action changes no site bytes and makes no parent or SEO outcome claim.
+
 ## 2026-10-05 - Tape Road Early Guide And Stop
 
 IMP024 [same-task implementation review](../reviews/tape-road-card-handoff-repair-2026-10-05.md) reuses the October4 unknown-floor/younger-child reach task. Card-only proxy7->16/24 and full route20->23/24 across12 applicable dimensions (sensory/accessibility N/A); card-only rescue and younger-child detail still depend on the maintained guide. Link y1253->240 desktop, y1727->232 mobile, y3069->413 at390/root200%; parent stop precedes all four unchanged child steps, video follows, and full-guide arrival clears the sticky header. Local and live widths, keyboard/touch/Back, blocked-video route and sampled errors pass; score is not a human result. Anscombe independent cycle2 read-only PASS/no P0-P3; reviewed `867de42` released via exact-SHA Pages `37500764705`, live bytes and four-mode task verified.

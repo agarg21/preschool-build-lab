@@ -1,0 +1,58 @@
+# Paper-Chain Due-Window Observation
+
+Action `KAL-RES-032`, October 7, 2026. Frozen base `f1113752a4458ae85d084714ffea0173eb6e7d56`; research/operator-only eight-path transaction. Decision: **PRESERVE the existing paper-chain card and linked-loop default; IMPROVE the engineering hub's book-reach arrival in a separately registered repair.** No page, source data, generator, or URL changes in this action. This is a source-derived planning proxy and live browser observation, not a family/child or physical paper test.
+
+## Task And Evidence
+
+- Retain [RES016's P1/P3/P4 task](../seo/paper-chain-qualification-2026-09-22.md) and [IMP015's reviewed implementation](paper-chain-implementation-review-2026-09-23.md). A caregiver of a preschooler who can join or watch with adult help has paper, tape and adult scissors. Required outputs: prepare one workable strip, make the first closed loop, thread an *open* next strip through it before closing its own ends, offer a child role, stop, fix separate circles or a lifting joint, and clean up without another broad search. The adult decides dexterity and controls scissors/tape; no duration or outcome is presumed. Secondary P2 stress: choose the optional one-sheet comparison, then follow its separate book-reach alternative to the named mission. Image unavailable and narrow/enlarged text stress the route. Success requires a readable destination heading and mission, not merely a correct URL; failure is a hidden heading, horizontal text overflow, missing critical linking instruction, or unsupported assurance.
+- `SOURCE_BACKED` within context: [WTTW paper chain](https://www.wttw.com/kids/learn-and-play/activities/social-emotional-development/paper-chain) still presents first-circle, open-strip-through-circle, then own-end closure and an assisted untimed modification; [Little Bins](https://littlebinsforlittlehands.com/paper-chain-stem-challenge/) still frames one-sheet length comparison and optional untimed exploration; [Teachers are Terrific](https://teachersareterrific.com/2015/08/the-paper-chain-an-easy-prep-stem-challenge.html) remains the retained explicit-rules counterexample. Bodies rechecked October 7; no publisher's timing, observed results or safety outcome transfers to KAL. KAL strip geometry, repair rules, adult limits and book target remain `EDITORIAL_JUDGMENT`, not source-tested optima.
+- `MEASURED` technical/browser scope: October 7 production Chrome desktop/mobile DOM geometry, routes, widths, image response and five HTTP200 exact live/local byte matches (library, card, hub, CSS, diagram). Public-safe GSC snapshot collected October 6 validates 80 files, finalized through October 4: rolling property 382 impressions/12 clicks versus prior 386/12; engineering hub 34 impressions/1 click in both windows. The paper-chain card is absent from the summarized page rows, **not** measured as zero. Full query rows, card impressions/clicks, route use and causal effect are unavailable. Priority inspection 10/10 covers configured URLs, not a card-specific conclusion; sitemap discovery 61 with last read July 5 is not an exclusion count.
+- `RESEARCH_HYPOTHESIS`: this constrained caregiver task and younger/assistance stress are lenses, not observed users. `UNKNOWN`: comprehension, actual time, enjoyment, engagement, learning, mess, physical fit, safety in practice, parent use, query demand, ranking opportunity and release effect.
+
+## Live Task And Decision
+
+At 1280x900 and 390x844, the [library](../site/cards.html) has one Paper Chain Test entry with open-ended and adult-prepared materials. Desktop keyboard Enter and mobile touch reach the [existing canonical card](../site/cards/paper-chain-test.html). Its H1, research-backed/not-family-tested boundary, paper/tape/adult-scissors setup, thread-then-close numbered start, adult/child roles, table/stop, rescue, optional one-sheet rules and source limits are present. Normal mobile: start y555, first step y626 and third y736 in an 844px viewport; width390/390. Desktop: start y382, first y452, third y514; width1280/1280. At 390/root200% and 320/root200%, card widths remain 390/390 and 320/320. The start moves below the first fold (y1547/y1901), an enlarged-text scan cost, but there is no text overlap or lost critical prose. Blocking the diagram image leaves complete text, alt, rescue and optional rules. Native disclosure opens/closes by touch and keyboard Space; rescue link clears the sticky header at normal mobile (top112/header93) and 390/root200% (top224/header143). Sampled page errors: none. The full-size diagram loads at 900px intrinsic width in normal modes. The optional one-sheet disclosure retains same paper allowance/type, linked loops, tape-only closure, no stretch, repair-or-end and fresh-sheet/new-attempt boundaries; no timer is required.
+
+The secondary book-reach route is **not readable on arrival**. Card disclosure links to `engineering-activities-for-4-year-olds.html#paper-chain-test`; desktop keyboard Enter and mobile touch reach that exact fragment, and Back returns to the card. But the target article top is y0. Its H2 top/bottom is 35/58 versus sticky-header bottom61 on desktop, and 35/59 versus header bottom93 on 390px mobile. The kid-mission text starts y64, so its opening is also covered on mobile. A production mobile screenshot confirmed the heading and first mission line are offscreen under the header. At 390/root200% and 320/root200%, the heading begins y55 and ends y148 against header bottom143: only a sliver remains visible. The hub document is 516px wide against both 390px and 320px client widths; inspection traces the largest overflow to its long hero H1 (scrollWidth496/clientWidth350 at390/root200%). Temporary *browser-only* `scroll-margin-top:7rem` moved the target heading to y279 below the 143px header, but did not fix horizontal overflow. No repository CSS was changed by this diagnostic. This is a verified arrival/large-text defect, not a measured parent-abandonment rate.
+
+## Persona Rubric And Every Section
+
+The retained P1/P3/P4 **card task** remains 23/26, all 13 dimensions applicable; no N/A. These are editorial proxy scores rechecked against live outputs, not new human improvement or an across-task comparison. The secondary P2 book-route failure is a **critical readable-arrival override**: the 23/26 card total cannot certify the whole optional journey.
+
+| Dimension | Score | October 7 reason |
+| --- | ---: | --- |
+| Answerability | 2 | First/second loops, own-end closure and rescue remain explicit in prose. |
+| Age/ability | 1 | Adult assistance/observe exit; child-specific dexterity remains caregiver judgment. |
+| Materials/substitutions | 2 | Ordinary paper/tape, adult scissors, editorial curl/overlap check. |
+| Setup/duration/cleanup | 1 | Preparation and cleanup visible; time/effort unmeasured. |
+| Adult involvement | 2 | Adult cuts, holds/tapes and stays beside the child. |
+| Setting/space | 2 | Clear tabletop, laid-down chain and no walkway/body use. |
+| Mixed-age/difficulty | 2 | Choosing/counting/watching roles and assistance-capacity stop. |
+| Sensory/accessibility | 2 | Adult handles tape if touch is unwanted; prose/alt survive blocked image. |
+| Educational purpose | 2 | Notice connections, without learning promise. |
+| Safety/trust | 2 | Specific stop, editorial/source distinction and untested disclosure. |
+| Mobile interaction | 1 | Card fits, but large-text start requires long scrolling and map labels need full-size link. |
+| Detours/repetition | 2 | Primary start is plain; optional disclosure does not delay it. |
+| Decision without broad search | 2 | Linked construction, failed-circle/joint recovery and finish answered locally. |
+| **Total** | **23/26** | **Card-only P1/P3/P4; secondary book-route critical failure overrides whole-journey pass.** |
+
+| Visible section or route | Job and evidence | Value/risk/verdict |
+| --- | --- | --- |
+| Library chain entry | Discover the card and adult-prepared materials. | One direct route, no timing promise; KEEP. |
+| Card title/hook/evidence limit | Name linked loops and untested status. | First decision visible; KEEP. |
+| Materials/adult setup | Paper/tape/scissors, editorial size and curl check. | No tested optimum implied; KEEP. |
+| First link and child/stop block | Thread-before-close, roles, table/stop. | Critical steps complete before image; KEEP. |
+| Diagram/full-size route | Original explanatory topology with alt. | Image failure does not block text; KEEP. |
+| Rescue/finish | Separate circles, lifted joint, fiddly joining, cleanup. | Direct jump/section readable; KEEP. |
+| Optional one-sheet disclosure | Distinct, explicit comparison rules. | Native secondary route; KEEP. |
+| Source disclosure/back route | Publisher versus KAL limits and exit. | No firsthand implication; KEEP. |
+| Engineering book-reach fragment | Separate target using same loop construction. | Correct URL but heading/mission hidden at arrival; IMPROVE separately. |
+| Hub chooser/hero at enlarged text | Parent routing and page identity. | Long H1 extends to 496px against 350px content, causing 516px document width; IMPROVE separately. |
+
+## Separate Repair Brief And Gates
+
+Register a new exact-path existing-hub repair before any edit. Preserve paper-chain card, book mission, canonical, source and all other observation windows. Minimum acceptance: book-reach fragment heading and opening mission clear the sticky header by an intentional margin after both keyboard and touch from the card at desktop, 390px and 390/320 root200%; engineering hub client/scroll widths match at normal and enlarged text, including its longest hero word; no hiding table headers from assistive technology or breaking other hub fragments. Inspect CSS ownership (`site/styles.css`) and generator-managed hub output/cache token in `scripts/generate_seo_pages.py` before registering actual paths. Re-run all generators/idempotence, links/fragments, native tests and live exact-SHA Pages if a repair is implemented. A CSS-only diagnostic is not a reviewed fix. Falsify this brief if a fresh browser task shows readable arrival without intervention or the observed overflow is an artifact of the temporary root-font stress rather than a supported accessibility proxy.
+
+**QA and measurement boundary:** `git diff --check`, roadmap JSON parse, native 116/116, 80 public-safe GSC snapshot validations, exact eight-path scope, 83 local Markdown references (0 missing), source/claim/privacy scan and five live byte matches pass. No site generator was run because no site/generator path changed. No parent test, stopwatch, paper build, SEO/click-path experiment, search-demand estimate, rank forecast or universal safety finding. The due observation window is not evidence of effect. Preserve foil Oct8, pack Oct9, bridge Oct10, ramp Oct13 and weekly synthesis/rescore Oct11. Independent read-only review and docs-only release are required before this research action is complete.
+
+Independent read-only reviewer Averroes (`01a115a6-e531-7ec2-85b4-8d19a8fe9a81`) inspected the complete eight-path worktree including this new artifact from base `f111375` and returned **PASS, no P0-P3 findings**. It independently reran whitespace/JSON/native116/GSC80 checks, verified five live byte matches, source and score boundaries, and reproduced heading/header and 516px enlarged-width failure in its own browser. Keyboard/Back/image-block evidence remains operator-run, not reviewer-rerun. Reviewer made no repository edits, generator runs, account or Control Room changes. Docs-only reviewed push and final alignment remain the release gate.
