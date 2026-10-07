@@ -4,7 +4,7 @@ Last updated: 2026-10-07
 
 ## October 7 Paper-Chain Due-Window Observation - Hub Repair Brief
 
-`KAL-RES-032` [live task audit](../reviews/paper-chain-observation-2026-10-07.md) preserves the existing card's source-grounded linked-loop and recovery default (same card proxy23/26, all13 applicable), but finds a critical optional book-reach arrival failure: correct fragment, hidden H2 under sticky header on desktop/mobile, plus hub width516 against390/320 at root200%. Five live files byte-match local, so this is not stale deployment. `IMPROVE` only the existing engineering hub in a separately registered repair; no new URL, card rewrite, family/SEO effect or observation-window reset. Independent review and docs-only release pending.
+`KAL-RES-032` [live task audit](../reviews/paper-chain-observation-2026-10-07.md) preserves the existing card's source-grounded linked-loop and recovery default (same card proxy23/26, all13 applicable), but finds a critical optional book-reach arrival failure: correct fragment, hidden H2 under sticky header on desktop/mobile, plus hub width516 against390/320 at root200%. Five live files byte-match local, so this is not stale deployment. `IMPROVE` only the existing engineering hub in a separately registered repair; no new URL, card rewrite, family/SEO effect or observation-window reset. Averroes independent read-only PASS/no P0-P3; reviewed docs-only `a989e3f` pushed, no Pages wait. Register hub fix separately.
 
 ## October 5 Tape Road Card Repair - Released October 6
 

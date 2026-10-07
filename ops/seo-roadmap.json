@@ -3843,7 +3843,7 @@
       "id": "KAL-RES-032",
       "title": "Observe paper-chain existing-owner planning flow at its due window",
       "kind": "bounded-learning-and-page-observation",
-      "status": "release_ready",
+      "status": "completed",
       "registered_on": "2026-10-07",
       "base_commit": "f1113752a4458ae85d084714ffea0173eb6e7d56",
       "exact_paths": ["reviews/paper-chain-observation-2026-10-07.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3858,11 +3858,13 @@
       "observation_window": "Paper-chain due October 7. Preserve foil Oct8, pack Oct9, bridge Oct10, ramp Oct13 and next weekly synthesis/rescore Oct11.",
       "reconsider_conditions": "If live route, critical instruction or source boundary fails, register a separate exact-path repair after this audit; if current evidence supports the flow, preserve until a named new signal. Stop on P0-P2 review, divergence or scope drift.",
       "artifact": "reviews/paper-chain-observation-2026-10-07.md",
-      "next_step": "Fresh fetch, verify no divergence, inspect and stage only the reviewed exact eight paths, commit/push docs-only and verify alignment. Register a separate existing-hub repair later for the verified book-fragment/large-text defect.",
+      "next_step": "At the next heartbeat separately register and scope the existing engineering-hub book-fragment/large-text repair. Preserve other observation windows and weekly October 11.",
       "decision": "PRESERVE paper-chain card linked-loop default; IMPROVE existing engineering-hub book-reach fragment arrival and enlarged-text width in a separate transaction. No new URL, site edit, family or SEO outcome.",
       "evidence_summary": "October7 live primary P1/P3/P4 card task remains 23/26 across13 applicable dimensions, critical optional P2 route override: book H2 y35 behind header61 desktop/93 mobile; root200 heading y55-148 against header143 and hub scroll width516 against390/320 clients. Five live owner/asset bytes match. GSC80 finalized throughOct4, hub34/1 unchanged, chain card row absent not zero; full queries unavailable.",
-      "qa_result": "Native116, GSC80, roadmap JSON/whitespace, exact-eight scope, 83 local Markdown references, source/privacy and live browser/five byte matches PASS. Averroes independent read-only PASS/no P0-P3, including its own hub browser reproduction. Docs-only release pending.",
-      "review": "Averroes (01a115a6-e531-7ec2-85b4-8d19a8fe9a81) independent read-only PASS, no P0-P3; full eight-path diff, source/GSC/rubric/section/privacy, native116/GSC80/JSON/whitespace, five live byte matches and hub defect independently checked."
+      "qa_result": "Native116, GSC80, roadmap JSON/whitespace, exact-eight scope, 83 local Markdown references, source/privacy and live browser/five byte matches PASS. Averroes independent read-only PASS/no P0-P3, including its own hub browser reproduction. Fresh release fetch0/0, full unpushed range, staged exact-eight and secret/privacy/unsafe-claim checks PASS.",
+      "review": "Averroes (01a115a6-e531-7ec2-85b4-8d19a8fe9a81) independent read-only PASS, no P0-P3; full eight-path diff, source/GSC/rubric/section/privacy, native116/GSC80/JSON/whitespace, five live byte matches and hub defect independently checked.",
+      "release": {"state":"pushed_docs_only","reviewed_commit":"a989e3f","pages_wait":"not_required_docs_only","local_origin_alignment":"0/0 and remote exact SHA verified before factual same-path closeout; verify again after push","measurement_boundary":"No family, physical or causal SEO effect measured."},
+      "completed_on": "2026-10-07"
     },
     {
       "id": "KAL-WEEKLY-004",
