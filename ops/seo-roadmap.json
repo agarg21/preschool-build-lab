@@ -9,7 +9,7 @@
       "id": "KAL-RES-034",
       "title": "Qualify the deferred foil cargo-capacity extension",
       "kind": "research-candidate-qualification",
-      "status": "researched_pending_review",
+      "status": "completed",
       "registered_on": "2026-10-08",
       "base_commit": "19435bd61fa85fc18a3ce20f03b98363944f2168",
       "exact_paths": ["seo/foil-cargo-extension-qualification-2026-10-08.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -25,7 +25,10 @@
       "reconsider_conditions": "Reject recycled no-cargo qualification or unsupported interchangeable load; stop for remote divergence, P0-P2 reviewer findings or scope drift. Any supported build requires separate registration.",
       "artifact": "seo/foil-cargo-extension-qualification-2026-10-08.md",
       "decision": "DEFER mixed-age preschool cargo extension; REJECT separate indexable cargo URL now; PRESERVE existing no-cargo card. Current bodies cover capacity including a preschool-labeled recipe, but named no-small-parts load/control, exact demand and incremental decision value remain unproven.",
-      "next_step": "Run native QA and independent read-only review of exact nine-path frozen diff; release docs-only only on PASS/PASS_WITH_P3. Reopen later only on named demand/load/control/incremental-output evidence."
+      "review": "Bohr independent read-only cycle1 FAIL/P2 on query provenance, corrected; cycle2 PASS with no P0-P3. Native118/118, GSC81, JSON, whitespace, 125 scoped Markdown references, unique IDs and exact-nine scope passed.",
+      "release_commit": "ef40c99ec9a4ebcaa285cbac1750fdfc57a2f0ac",
+      "release": "Reviewed docs-only commit pushed main, remote exact SHA and local/origin0/0 verified before factual closeout; no Pages wait.",
+      "next_step": "At next eligible heartbeat assess pack October 9 due window and independently new evidence; preserve bridge October 10, ramp October 13 and weekly synthesis October 11. Reopen cargo only on named demand/load/control/incremental-output evidence in a separate action."
     },
     {
       "id": "KAL-RES-033",
