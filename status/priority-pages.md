@@ -1,6 +1,10 @@
 # Priority Page Status
 
-Last updated: 2026-10-07
+Last updated: 2026-10-08
+
+## October 8 Foil-Boat Due-Window Observation - Preserve
+
+`KAL-RES-033` [source and live task audit](../reviews/foil-boat-observation-2026-10-08.md) preserves the existing empty-hull card and four entry routes. Current primary sources still support the fold/free-floating precursor within their own cargo-heavy contexts, not preschool-tested outcomes or cargo substitutions. Six live files return200/byte-match; desktop/mobile/enlarged/blocked-image card and hub routes retain adult water boundary, no-cargo mission, rescue, cleanup, untested disclosure and readable arrivals. Proxy23/26 over all13 dimensions, no critical failure observed; root200% scan cost and missing foil GSC row remain limits. No new URL, page rewrite, physical/family or SEO effect. Preserve packOct9, bridgeOct10, rampOct13 and weeklyOct11.
 
 ## October 7 Afternoon Engineering Hub Repair - Released
 

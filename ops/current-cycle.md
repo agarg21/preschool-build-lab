@@ -1,5 +1,13 @@
 # Current Cycle
 
+## Run Checkpoint - October 8 Morning Foil-Boat Due-Window Audit
+
+- Invocation `2026-10-08T09:00:47.217Z`; time checked 09:01:03 UTC / 05:01 EDT, pilot active. No newer redirect. Clean `main`/`origin/main` at `f74ae07a9317ae083d9d23d67854fa718070d13a` after fetch, 0/0, no incoming or dirty work.
+- Objective/action: `KAL-RES-033`, REVIEWED, RELEASE PENDING. Observe the revised existing foil-boat card and its relevant entry routes at the due window. Current source/live task supports PRESERVE the narrow empty-hull owner; no critical failure observed. Arendt independent read-only PASS/no P0-P3 on frozen eight-path diff; release not yet complete.
+- Exact scope: `reviews/foil-boat-observation-2026-10-08.md`, `backlog/product-learning-ledger.md`, `backlog/persona-review-log.md`, `status/priority-pages.md`, `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`, `ops/seo-roadmap.md`. Site, generator, data, strategy, workflow, automation and Control Room paths remain read-only.
+- Next executable step: fresh-fetch/no-divergence, inspect full unpushed range, stage only eight reviewed paths, inspect staged/privacy/secret/claim scope, commit/push docs-only and verify local/origin alignment; then factual same-path release closeout. Eight-path [audit](../reviews/foil-boat-observation-2026-10-08.md) records source/task/score/browser/live bytes. Native118, GSC81, roadmap JSON, whitespace, 95 Markdown refs, unique IDs and exact scope pass; source/privacy scan found no unsafe added claim. Latest GSC October7 throughOctober5, rolling387/12 versus382/12, foil row absent not zero. No known blocker.
+- Boundaries: no new URL, cargo/age variant, product claim, family outcome or indexing request. Protect pack October9, bridge October10, ramp October13 and weekly synthesis October11. GSC is sensing, not a page-effect test.
+
 ## Run Checkpoint - October 7 Afternoon Engineering Hub Arrival Repair
 
 - Invocation `2026-10-07T17:16:13.482Z`; time checked 18:27:14 UTC / 14:27 EDT, pilot active. No newer direct redirect. Clean `main` at `b6a7fd3`; fetched disjoint public-safe October7 GSC snapshot commit `c36e5b3`, inspected two paths and fast-forwarded cleanly to aligned `c36e5b3b578705fdff76d8c5d7e9848b9ca8baf6` (0/0).

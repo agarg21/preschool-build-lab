@@ -4,6 +4,15 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-08 - KAL-RES-033 Foil-Boat Due-Window Observation
+
+- Decision/persona: `PRESERVE` the revised existing empty-hull card and its library, age, engineering and original-pack entry routes. Source-derived caregiver has foil, shallow tray, water and towel and needs one no-cargo fold, free-floating check, adult water control, stop and rescue; younger-child reach or interrupted adult attention is the secondary stress. This is a `RESEARCH_HYPOTHESIS` task, not an observed family.
+- Falsifiable hypothesis/result: card and routes supply a readable empty start and critical adult controls at desktop, phone, root200% and blocked-image states without another broad search. [Dated audit](../reviews/foil-boat-observation-2026-10-08.md) finds 23/26 proxy across all13 applicable dimensions, no N/A or critical failure. At390/root200 the start requires scrolling to y1470, but width stays390/390; card/diagram/four entry surfaces all return200 and byte-match local. This is technical route evidence, not physical flotation or parent completion.
+- Sources/classes: October8 recheck of Science Buddies, Discovery World, DiscoverE, CPSC and AAP (URLs and limits in audit) is `SOURCE_BACKED` only within their own context. Browser/bytes and81 validated public-safe snapshots are `MEASURED` only technically/window scope; no-cargo default and preserve decision are `EDITORIAL_JUDGMENT`. Family/child time, enjoyment, learning, safety in practice, exact narrow-start demand and SEO effect remain `UNKNOWN`.
+- Confidence/lesson: high in live byte/route/layout observations, moderate in planning utility, none in real-world outcome. A due observation window can support preservation after a concrete task check; it does not imply a page effect or license an unqualified cargo extension. The card's 23/26 is the narrow current task, not a matched old-card gain.
+- Next falsification trigger: reproduced missing/hidden critical instruction, source conflict, route regression, specific first-party query evidence or validated parent evidence. Any build needs separate registration. Preserve packOct9, bridgeOct10, rampOct13 and weeklyOct11.
+- Measurement boundary: October7 GSC throughOct5 387 impressions/12 clicks versus prior382/12, engineering hub34/1 both; foil card absent from summarized rows is not zero. Rolling windows, full queries and route use do not establish demand, effect or satisfaction. No physical/family test, paid call or indexing request.
+
 ## 2026-10-07 Afternoon - KAL-IMP-025 Engineering Hub Arrival Repair
 
 - Decision/persona: `IMPROVE` the existing engineering-hub book-reach fragment and enlarged-text fit from the completed morning [audit](../reviews/paper-chain-observation-2026-10-07.md). The constrained caregiver chooses optional book reach after a linked-loop start; required heading, mission, adult/test/rescue/stop and Back; secondary stress is 390/320 root200, image blocked and touch/keyboard.

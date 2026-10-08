@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## 2026-10-08 - Foil-Boat Empty-Hull Route
+
+`KAL-RES-033` [dated due-window audit](../reviews/foil-boat-observation-2026-10-08.md) reuses RES017/IMP016's source-derived no-cargo beginner task, with younger-child reach/adult-attention stress. Card and entry-route proxy remains23/26 across all13 applicable dimensions; no N/A and no new human score. Live1280/390/390-root200/320-root200 card fits, stop/rescue and source limits remain, engineering and pack fragment headings clear sticky header, blocked diagram leaves complete prose, loaded diagram/keyboard/touch/Back work. No critical planning failure found. Long root200% scroll is a scan cost, not a measured abandonment or automatic repair. Preserve existing owner/URLs; no cargo variant or family/SEO effect claim.
+
 ## 2026-10-07 Afternoon - Engineering Hub Book-Route Repair
 
 `KAL-IMP-025` [same-task review](../reviews/engineering-hub-arrival-repair-2026-10-07.md) keeps the morning source-derived paper-chain caregiver and optional P2 book-reach stress. Before, correct fragment hid H2 under sticky header and root200 widened hub516 against390/320. Local and exact-SHA production desktop/mobile/root200 keyboard/touch/Back route show heading and mission clear, widths fit, other sampled fragments and critical content intact. Full-route proxy24/26 over13 applicable dimensions, no N/A; this is not comparable to the morning card-only23/26. The before route was a critical failure regardless of score. Carson independent read-only PASS/no P0-P3 on final diff; it could not rerun local browser geometry. Exact-SHA Pages `37711456016` succeeded; no family/paper or causal SEO effect measured.
