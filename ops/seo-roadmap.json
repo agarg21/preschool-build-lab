@@ -6,6 +6,28 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-034",
+      "title": "Qualify the deferred foil cargo-capacity extension",
+      "kind": "research-candidate-qualification",
+      "status": "researched_pending_review",
+      "registered_on": "2026-10-08",
+      "base_commit": "19435bd61fa85fc18a3ce20f03b98363944f2168",
+      "exact_paths": ["seo/foil-cargo-extension-qualification-2026-10-08.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-08",
+      "evidence_class": "Retained dated foil qualification/implementation/observation, current public query and primary-source bodies, existing-owner audit and finalized public-safe GSC; query/persona inference RESEARCH_HYPOTHESIS, decision EDITORIAL_JUDGMENT, real family outcomes UNKNOWN.",
+      "user_problem": "A caregiver may want to move beyond a floating empty foil boat to testing a load, but cannot assume coins, blocks and lids are interchangeable or that an older challenge fits a preschooler with younger-child reach and standing-water constraints.",
+      "hypothesis": "A preschool cargo-capacity extension is a distinct, demanded and source-reconcilable activity-running job beyond the current empty-hull card; falsify with current result bodies, material/control incompatibility, weak incremental decision value or clean existing-page fit.",
+      "acceptance": "Inspect one current exact cargo query family and ranking bodies, retained estimates and owner; reconcile materials, child/adult roles, water and mouthing controls; freeze primary/stress persona and every-section/13-dimension decision; return BUILD/UPGRADE/PRESERVE/DEFER/REJECT with exact gates and no page edit; log dated learning and falsification.",
+      "qa_plan": "git diff --check; jq empty ops/seo-roadmap.json; node --test tools/*.test.mjs; validate latest/prior public-safe GSC; source/query/body attribution, privacy, Markdown refs and exact-nine scope checks; independent different read-only reviewer PASS/PASS_WITH_P3.",
+      "measurement_plan": "Separate retained TOOL_ESTIMATE variants from MEASURED GSC and current public result observations. No exact-demand, rank, family-use, time, learning or safety-in-practice claim; reopen only on named evidence change.",
+      "production_invariants": "No site, generator, data, strategy, workflow, automation, Control Room, new URL, paid call, indexing, product or tested-status change; preserve morning empty-hull result and all observation windows.",
+      "observation_window": "Pack October9, bridge October10, ramp October13 and weekly synthesis October11 protected; foil empty-hull observation completed October8.",
+      "reconsider_conditions": "Reject recycled no-cargo qualification or unsupported interchangeable load; stop for remote divergence, P0-P2 reviewer findings or scope drift. Any supported build requires separate registration.",
+      "artifact": "seo/foil-cargo-extension-qualification-2026-10-08.md",
+      "decision": "DEFER mixed-age preschool cargo extension; REJECT separate indexable cargo URL now; PRESERVE existing no-cargo card. Current bodies cover capacity including a preschool-labeled recipe, but named no-small-parts load/control, exact demand and incremental decision value remain unproven.",
+      "next_step": "Run native QA and independent read-only review of exact nine-path frozen diff; release docs-only only on PASS/PASS_WITH_P3. Reopen later only on named demand/load/control/incremental-output evidence."
+    },
+    {
       "id": "KAL-RES-033",
       "title": "Observe revised foil-boat start and entry routes at due window",
       "kind": "research-persona-audit",

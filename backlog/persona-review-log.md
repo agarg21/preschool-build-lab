@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## October 8 Afternoon - Foil Cargo Extension Gate
+
+`KAL-RES-034` [source and every-section qualification](../seo/foil-cargo-extension-qualification-2026-10-08.md) asks a distinct hypothetical mixed-age cargo decision, not the completed empty-hull task. The caregiver must name a load or decline it, handle water/objects and stop when an under-three sibling reaches or attention breaks. Current card correctly says no cargo; cargo-task proxy13/26 over all13 applicable dimensions, N/A none. Missing load instruction is a critical override **only for the proposed extension**, not a defect in the existing empty-hull card or a before/after score. Preserve card/entry routes; DEFER extension and REJECT new URL now pending exact material/household/demand/incremental-output gates. No human or physical test.
+
 ## 2026-10-08 - Foil-Boat Empty-Hull Route
 
 `KAL-RES-033` [dated due-window audit](../reviews/foil-boat-observation-2026-10-08.md) reuses RES017/IMP016's source-derived no-cargo beginner task, with younger-child reach/adult-attention stress. Card and entry-route proxy remains23/26 across all13 applicable dimensions; no N/A and no new human score. Live1280/390/390-root200/320-root200 card fits, stop/rescue and source limits remain, engineering and pack fragment headings clear sticky header, blocked diagram leaves complete prose, loaded diagram/keyboard/touch/Back work. No critical planning failure found. Long root200% scroll is a scan cost, not a measured abandonment or automatic repair. Preserve existing owner/URLs; no cargo variant or family/SEO effect claim.
