@@ -2,6 +2,10 @@
 
 Last updated: 2026-10-07
 
+## October 7 Afternoon Engineering Hub Repair - Local QA
+
+`KAL-IMP-025` [same-task evidence](../reviews/engineering-hub-arrival-repair-2026-10-07.md) implements the morning book-route fragment/large-text repair only on the existing engineering hub. Local four-mode heading/mission clearance and 390/320 root200 width fit pass; nine missions, canonical/H1, source/untested and stop remain. All three generators twice/idempotent, 71 HTML/743 local refs, native118, GSC81, JSON/whitespace pass. Carson independent read-only PASS/no P0-P3 on final diff; exact-SHA Pages and production verification still required. Card and other observation windows unchanged.
+
 ## October 7 Paper-Chain Due-Window Observation - Hub Repair Brief
 
 `KAL-RES-032` [live task audit](../reviews/paper-chain-observation-2026-10-07.md) preserves the existing card's source-grounded linked-loop and recovery default (same card proxy23/26, all13 applicable), but finds a critical optional book-reach arrival failure: correct fragment, hidden H2 under sticky header on desktop/mobile, plus hub width516 against390/320 at root200%. Five live files byte-match local, so this is not stale deployment. `IMPROVE` only the existing engineering hub in a separately registered repair; no new URL, card rewrite, family/SEO effect or observation-window reset. Averroes independent read-only PASS/no P0-P3; reviewed docs-only `a989e3f` pushed, no Pages wait. Register hub fix separately.

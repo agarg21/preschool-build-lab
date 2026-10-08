@@ -1,5 +1,13 @@
 # Current Cycle
 
+## Run Checkpoint - October 7 Afternoon Engineering Hub Arrival Repair
+
+- Invocation `2026-10-07T17:16:13.482Z`; time checked 18:27:14 UTC / 14:27 EDT, pilot active. No newer direct redirect. Clean `main` at `b6a7fd3`; fetched disjoint public-safe October7 GSC snapshot commit `c36e5b3`, inspected two paths and fast-forwarded cleanly to aligned `c36e5b3b578705fdff76d8c5d7e9848b9ca8baf6` (0/0).
+- Objective/action: `KAL-IMP-025` REVIEW PASS, release pending. Repair the verified engineering-hub paper-chain book-fragment arrival and 390/320px root200 horizontal overflow; preserve existing card, mission, canonical and all other hub routes. Hub-scoped fragment offset/mobile H1 fit and target-only generator CSS query implemented; no new page or family/SEO outcome claim.
+- Exact scope: `scripts/generate_seo_pages.py`, `scripts/generate_sitemap.py`, `site/collections/engineering-activities-for-4-year-olds.html`, `site/styles.css`, `site/sitemap.xml`, `tools/engineering-hub-arrival.test.mjs`, `reviews/engineering-hub-arrival-repair-2026-10-07.md`, `backlog/product-learning-ledger.md`, `backlog/persona-review-log.md`, `status/priority-pages.md`, `ops/current-cycle.md`, `ops/operator-review.md`, `ops/seo-roadmap.json`, `ops/seo-roadmap.md`. Unused allowed paths remain unchanged; other site/data/strategy/workflow/automation and Control Room paths excluded.
+- Next executable step: final QA, fresh fetch and exact14 stage/privacy/unpushed-range audit, reviewed push, exact-SHA Pages and live invariant/byte verification. [Same-task evidence](../reviews/engineering-hub-arrival-repair-2026-10-07.md): three generators twice/identical diff, only hub HTML/sitemap generated; 71HTML/743 local refs zero missing, four-mode heading/mission/width/Back and sampled fragments/screenshots pass, native118, GSC81, JSON/whitespace pass. Carson independent read-only PASS/no P0-P3 on final worktree; browser geometry remains operator evidence because its local `file:` browser was blocked. No blocker yet.
+- October7 GSC snapshot validates after fast-forward, finalized through October5: rolling property 387 impressions/12 clicks vs October6 382/12; engineering hub34/1 in both. Chain card row absent from summarized rows, not zero. Windows overlap and full queries/route use unavailable. Protect foilOct8, packOct9, bridgeOct10, rampOct13 and weeklyOct11.
+
 ## Run Checkpoint - October 7 Morning Paper-Chain Observation
 
 - Invocation `2026-10-07T09:02:17.902Z`; time checked 09:02:22 UTC / 05:02 EDT, pilot active. No newer direct redirect. Clean `main`/`origin/main` at `f1113752a4458ae85d084714ffea0173eb6e7d56` after fetch, 0/0, no incoming or dirty work.

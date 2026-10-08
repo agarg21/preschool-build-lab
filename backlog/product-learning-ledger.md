@@ -4,6 +4,15 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-07 Afternoon - KAL-IMP-025 Engineering Hub Arrival Repair
+
+- Decision/persona: `IMPROVE` the existing engineering-hub book-reach fragment and enlarged-text fit from the completed morning [audit](../reviews/paper-chain-observation-2026-10-07.md). The constrained caregiver chooses optional book reach after a linked-loop start; required heading, mission, adult/test/rescue/stop and Back; secondary stress is 390/320 root200, image blocked and touch/keyboard.
+- Falsifiable hypothesis/result: hub-scoped scroll offset and hero sizing clear the sticky header and whole-page overflow without changing the card/content. Local Chrome before H2 y35 behind header61/93 and root200 width516 against390/320; after H2 y146-279 above header61-143, mission y176-379, widths exactly1280/390/320 clients. Other sampled fragments clear header, canonical/H1/nine missions/limits remain. Production result awaits release.
+- Sources/classes: retained October7 WTTW/Little Bins/Teachers are Terrific recheck in [same-task repair](../reviews/engineering-hub-arrival-repair-2026-10-07.md) is `SOURCE_BACKED` only for own mechanisms/rules; local browser and public-safe GSC81 `MEASURED` only technically/window scope; caregiver task `RESEARCH_HYPOTHESIS`; CSS repair and 24/26 full-route editorial proxy `EDITORIAL_JUDGMENT`; actual family/child/physical/SEO effect `UNKNOWN`.
+- Confidence/lesson: high in local route geometry and scope, moderate in planning value, no confidence in human outcome. Correct URL and complete text were insufficient before; readable arrival and longest-word fit are separate gates. Card-only morning23/26 is a different task, not an improving score comparator; critical route failed before regardless of total.
+- Next falsification trigger: exact-SHA production keyboard/touch/Back or 390/320 root200 heading/width fails, another hub fragment regresses, or new evidence shows the proxy did not capture the caregiver problem. Preserve foilOct8, packOct9, bridgeOct10, rampOct13 and weeklyOct11.
+- Measurement boundary: no parent/child/paper test, actual time, safety/learning/engagement, click path, exact chain demand, ranking forecast or causal search effect. October7 GSC throughOct5 is rolling387 impressions/12 clicks vs382/12, engineering hub34/1 both; missing full queries and chain card page row is not zero.
+
 ## 2026-10-07 - KAL-RES-032 Paper-Chain Arrival Stress
 
 - Decision/persona: `PRESERVE` the existing paper-chain card's linked-loop default; `IMPROVE` its optional book-reach destination in a separate exact-path transaction. Retain RES016's source-derived caregiver preparing two connected loops with adult scissors and a child who may need holding/watching; secondary stress follows optional one-sheet rules to the separate book target with image blocked and enlarged text.

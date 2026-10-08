@@ -1684,7 +1684,7 @@ def engineering_page_html(page):
     <title>{esc(page["title"])}</title>
     <meta name="description" content="{esc(page["description"])}">
     <link rel="canonical" href="{esc(canonical)}">
-    <link rel="stylesheet" href="{root}styles.css?v={CSS_VERSION}">
+    <link rel="stylesheet" href="{root}styles.css?v=engineering-arrival-1">
   </head>
   <body>
     <header class="site-header">

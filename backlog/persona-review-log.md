@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## 2026-10-07 Afternoon - Engineering Hub Book-Route Repair
+
+`KAL-IMP-025` [same-task review](../reviews/engineering-hub-arrival-repair-2026-10-07.md) keeps the morning source-derived paper-chain caregiver and optional P2 book-reach stress. Before, correct fragment hid H2 under sticky header and root200 widened hub516 against390/320. Local after desktop/mobile/root200 keyboard/touch/Back route shows heading and mission clear, widths fit, other sampled fragments and critical content intact. Full-route proxy24/26 over13 applicable dimensions, no N/A; this is not comparable to the morning card-only23/26. The before route was a critical failure regardless of score. Carson independent read-only PASS/no P0-P3 on final diff; it could not rerun local browser geometry. No family/paper or production effect yet; release pending.
+
 ## 2026-10-07 - Paper-Chain Due-Window Route
 
 `KAL-RES-032` [dated audit](../reviews/paper-chain-observation-2026-10-07.md) reuses the RES016 P1/P3/P4 linked-start and recovery caregiver task with optional P2 book-reach stress. Primary card proxy remains23/26 across all13 applicable dimensions; no N/A and no new human score. Library keyboard/mobile entry, thread-before-close, stop, rescue, one-sheet disclosure, blocked-image prose, source boundary and card widths pass. The optional book route reaches the exact hub fragment but its H2 y35 is covered by sticky header bottoms61 desktop/93 mobile; at root200% the H2 y55-148 meets header143 and the hub document widens516px against 390/320. Critical readable-arrival override: `PRESERVE` card, `IMPROVE` hub in a separately registered repair. Research action changes no site bytes and makes no parent or SEO outcome claim.

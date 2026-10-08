@@ -24,7 +24,7 @@ CONTENT_LASTMODS = {
     "cards/paper-chain-test.html": "2026-09-23",
     "articles/cardboard-ball-maze-kids.html": "2026-10-01",
     "articles/painter-tape-road-kids.html": "2026-09-15",
-    "collections/engineering-activities-for-4-year-olds.html": "2026-09-24",
+    "collections/engineering-activities-for-4-year-olds.html": "2026-10-07",
     "collections/indoor-activities-for-preschoolers.html": "2026-08-05",
 }
 

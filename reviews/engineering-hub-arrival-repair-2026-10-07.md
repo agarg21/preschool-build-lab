@@ -1,0 +1,43 @@
+# Engineering Hub Book-Route Arrival Repair
+
+Action `KAL-IMP-025`, October 7, 2026. Base `c36e5b3b578705fdff76d8c5d7e9848b9ca8baf6`; exact 14-path registration in the roadmap. This fixes the existing engineering hub, not the paper-chain card or an activity mechanism. The [same-day due-window audit](paper-chain-observation-2026-10-07.md) is the frozen before-task evidence: correct book-route fragment but H2 top35 under header61 desktop/93 mobile; at 390/320 root200% H2 y55-148 against header143 and document width516 against390/320. The longer hero word was 496px inside a 350px H1 at 390/root200. These are browser measurements, not parent behavior.
+
+## Task, Evidence And Change
+
+- `RESEARCH_HYPOTHESIS` persona: caregiver with a preschooler and paper/tape, adult-controlled scissors, who has completed or considered the linked-loop start and wants the optional book-reach target rather than one-sheet length comparison. Required outputs after using the card link: recognize Paper Chain Reach Test, see the book mission, locate adult role, test/redesign, rescue and stop, then return. Secondary stress: 390/320px at 200% root text, blocked diagram image, keyboard or touch and Back. Success requires the destination heading and beginning of the mission below the sticky header with no whole-page horizontal overflow, no need to correct scroll, and no missing critical instruction. It does not require a real paper build.
+- `SOURCE_BACKED`: morning [WTTW/Little Bins/Teachers are Terrific reconciliation](paper-chain-observation-2026-10-07.md) supports only the retained source-specific linked-loop and optional-comparison boundaries. No instruction, rule, safety or outcome claim changes here. The book target and CSS remedy are `EDITORIAL_JUDGMENT`.
+- `MEASURED` technical scope: local Chrome `file:` render and DOM geometry in four modes; browser keyboard/touch/Back and fragment task; generator, test, link and file-output checks. October7 public-safe GSC snapshot validates 81 files, finalized through October5: rolling property387 impressions/12 clicks vs382/12 prior; engineering hub34/1 both; paper-chain card absent from summarized page rows, not zero. Overlapping windows and absent complete query/route rows cannot measure demand or effect.
+- `UNKNOWN`: parent comprehension/abandonment, child engagement or dexterity, actual time, physical construction/fit/safety and SEO outcome.
+- Change: `.engineering-page [id]` gets 7rem scroll margin, covering the book article and other hub fragments; `.engineering-hero h1` retains a wrap fallback and uses 1.5rem at mobile widths, 1.4rem at 350px and narrower. This keeps the longest word intact at 320/root200 while letting the heading double with root text. Only the engineering page's generator-rendered stylesheet query changes to `engineering-arrival-1`; hub sitemap lastmod becomes October7. Canonical, H1 text, nine activities, book mission/stop, source note, card HTML and other generated pages are unchanged. `tools/engineering-hub-arrival.test.mjs` freezes owner, mission, scoped rules, CSS query and lastmod.
+
+## Before/After Task And Every Section
+
+| Mode | Before target H2/header and width | Local after target H2/mission/header and width | Input/result |
+| --- | --- | --- | --- |
+| 1280x900 | 35/61; 1280/1280 | 146.7/176/61; 1280/1280 | Keyboard Enter from card, Back, no page error. |
+| 390x844 | 35/93; 390/390 | 146.5/175.8/92.9; 390/390 | Touch from card, Back, no page error. |
+| 390x844 root200% | 55-148/143; 516/390 | 278.8/378.1/142.8; 390/390 | Touch; set root200 on destination then scroll target; Back, no page error. |
+| 320x760 root200% | 55-148/143; 516/320 | 279.2/378.5/142.8; 320/320 | Touch; same enlarged-text proxy and Back, no page error. |
+
+Root200% is a proxy for enlarged text, not exhaustive browser zoom. Chrome diagnostics show the 320/root200 hero's 44.8px `preschoolers` word measures271px against 280px content; at 390/root200 it measures290px against350px at 48px. The rem-based heading scales 2x from normal text and neither word splits. Target heading and mission are legible without scrolling correction. A temporary earlier CSS experiment was not shipped. Direct-scroll checks for chooser, process, paper bridge, foil boat, ball maze, paper chain, related routes and source fragments clear the header in all four modes; the last desktop sections land lower than the target because the document ends, still visible. The chooser's three table headers and aria-label remain in the DOM. Image-block fallback text and card disclosure are unchanged from the morning audit. No accessibility audit beyond these tested states is claimed.
+
+| Visible section/route | Parent job and evidence | Verdict |
+| --- | --- | --- |
+| Hub hero/intro | Name engineering choice; KAL editorial framing, no outcome promise. | KEEP text, FIT longest word. |
+| Start callout/evidence note | Paper Bridge default and explicit not-family-tested/unknown limit. | KEEP. |
+| Visual/alt/caption | Optional materials illustration, explicitly not test photo. | KEEP; image not required for book route. |
+| Chooser/table | Route by materials; headers and row labels retained. | KEEP; fragment offset now applies to title. |
+| Five-step process | Source-adapted test/change loop. | KEEP; fragment offset applies. |
+| Paper Bridge, Straw Bridge, Empty Foil Boat | Three distinct missions with adult/test/rescue/stop. | KEEP unchanged; fragments clear header. |
+| Paper Chain Reach Test | Separate book target with linked-loop instructions, adult role, test, rescue, stop. | KEEP text, FIX readable arrival. |
+| Wind Tower, Target Ramp, Ball Maze, Box Garage, Cup Doorway | Five other distinct missions with own adult/test/rescue/stop. | KEEP unchanged; sampled other fragments clear header. |
+| Related routes | Neighbor jobs without making the hub an activity guide. | KEEP; heading clears header. |
+| Sources/limits and footer | Source scope, unknown outcomes and library exit. | KEEP; heading clears header. |
+
+After-task editorial persona rubric over all 13 applicable dimensions, no N/A: answerability2 (book mission/test/rescue); age/ability1 (adult decides dexterity); materials/substitutions2 (paper/tape/light book, source vs editorial); setup/duration/cleanup1 (roles/finish, time unmeasured); adult involvement2 (adult cut/hold); setting/space2 (table and book control); mixed-age/difficulty2 (card watching/holding roles); sensory/accessibility2 (text route, image fallback, enlarged fit); educational purpose2 (visible test/change, no learning promise); safety/trust2 (specific stop/untested boundary); mobile interaction2 (route and width in four modes); detours/repetition2 (optional route after direct start); decision without another broad search2 (book task and rescue locally). **24/26**, proxy only. The morning 23/26 score is for the card-only P1/P3/P4 task, not a comparable before score. Before the repair this optional route failed a critical readable-arrival gate regardless of any card total; after it the tested critical gate passes. This does not imply real caregiver success.
+
+## QA, Review And Release Gate
+
+Three generators ran twice; the final exact site/generator diff digest was unchanged on rerun (`5eadb668d38c9245858109a25e25826303ef42a6f9096c7d3faa82cf5e8f5abc`). Only target hub HTML and sitemap changed among generated files. All 71 HTML files: 743 local links/fragments, zero missing. Native `node --test tools/*.test.mjs`: 118/118; `jq empty ops/seo-roadmap.json`, `git diff --check` and 81 public-safe GSC snapshot validations pass. Changed JSON parses, no CSV changed; source/privacy/claim and exact-path checks remain required on the frozen review diff. The tests assert CSS structure; they do not replace browser geometry checks.
+
+Carson (`01a1190a-11f1-7bc3-bfc0-ad15a5d9ddf6`) independently reviewed the current final diff and returned **PASS, no P0-P3 findings**. Read-only checks covered all14 paths, focused2 tests, JSON/whitespace, generator/HTML consistency, one dated sitemap owner, all71 HTML/743 local links/fragments, every section/rubric and source/privacy/unknown boundaries. Its browser blocked local `file:` pages, so four-mode geometry, full118 native suite, GSC81 and generator idempotence remain operator evidence, not reviewer reruns. Fresh fetch, complete unpushed range, staged privacy/scope checks, exact-SHA Pages success, affected live bytes/canonical/H1/route/browser matrix and final local/origin alignment remain pending. No release marker has yet been checked. Preserve foilOct8, packOct9, bridgeOct10, rampOct13 and weeklyOct11. Revert or stop for hidden headings, overflow, other fragment/content regression, divergent origin or ambiguous release.
