@@ -3843,7 +3843,7 @@
       "id": "KAL-IMP-025",
       "title": "Repair engineering-hub book-fragment arrival and enlarged-text fit",
       "kind": "existing-page-accessibility-repair",
-      "status": "release_ready",
+      "status": "completed",
       "registered_on": "2026-10-07",
       "base_commit": "c36e5b3b578705fdff76d8c5d7e9848b9ca8baf6",
       "exact_paths": ["scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/collections/engineering-activities-for-4-year-olds.html", "site/styles.css", "site/sitemap.xml", "tools/engineering-hub-arrival.test.mjs", "reviews/engineering-hub-arrival-repair-2026-10-07.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -3859,9 +3859,11 @@
       "reconsider_conditions": "Revert or stop if review P0-P2, local/live heading clearance or width fails, other hub fragments or page content regress, generator scope expands, origin diverges, Pages fails persistently or rollback is ambiguous.",
       "source_audit": "reviews/paper-chain-observation-2026-10-07.md",
       "artifact": "reviews/engineering-hub-arrival-repair-2026-10-07.md",
-      "next_step": "Final QA and fresh fetch, inspect complete unpushed range and exact14 stage/privacy, push reviewed release, verify exact-SHA Pages/live bytes/task and alignment.",
-      "qa_result": "Local Chrome four-mode route/fragment/width/text/Back and sampled error checks; three generators twice identical diff, only hub HTML/sitemap generated; 71 HTML/743 local refs zero missing; native118, GSC81, roadmap JSON/whitespace PASS. Carson read-only PASS/no P0-P3; production pending.",
-      "review": "Carson (01a1190a-11f1-7bc3-bfc0-ad15a5d9ddf6) independent read-only PASS, no P0-P3; exact14, focused2, JSON/whitespace, generator/HTML/sitemap consistency, 71 HTML/743 refs, every-section/rubric/source/privacy/unknown. Local file browser blocked, so geometry, full118/GSC81 and idempotence are operator evidence."
+      "next_step": "At next heartbeat re-evaluate fresh evidence and due foil October8 observation; preserve pack October9, bridge October10, ramp October13 and weekly October11.",
+      "qa_result": "Local and production Chrome four-mode route/fragment/width/text/Back and sampled error checks; three generators twice identical diff, only hub HTML/sitemap generated; 71 HTML/743 local refs zero missing; native118, GSC81, roadmap JSON/whitespace PASS. Exact14 stage and privacy/claim checks PASS. Carson read-only PASS/no P0-P3.",
+      "review": "Carson (01a1190a-11f1-7bc3-bfc0-ad15a5d9ddf6) independent read-only PASS, no P0-P3; exact14, focused2, JSON/whitespace, generator/HTML/sitemap consistency, 71 HTML/743 refs, every-section/rubric/source/privacy/unknown. Local file browser blocked, so geometry, full118/GSC81 and idempotence are operator evidence.",
+      "release": {"state":"production_verified","reviewed_commit":"012ce943c8c352614d592b186931db0cc47049f0","pages_run":37711456016,"pages_conclusion":"success","release_marker":"none exists; exact-SHA Pages and live file bytes verified","live_bytes":"hub HTML, CSS, sitemap and unchanged paper-chain card HTTP200 and exact local match","task":"production four-mode keyboard/touch/Back, heading/mission clearance, width, longest-word fit, canonical/H1/nine activities/stop/untested/CSS query and no sampled errors pass","alignment":"local/origin0/0 after reviewed push; verify again after factual closeout","measurement_boundary":"No family, physical or causal SEO effect measured."},
+      "completed_on": "2026-10-07"
     },
     {
       "id": "KAL-RES-032",

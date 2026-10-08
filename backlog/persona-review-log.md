@@ -2,7 +2,7 @@
 
 ## 2026-10-07 Afternoon - Engineering Hub Book-Route Repair
 
-`KAL-IMP-025` [same-task review](../reviews/engineering-hub-arrival-repair-2026-10-07.md) keeps the morning source-derived paper-chain caregiver and optional P2 book-reach stress. Before, correct fragment hid H2 under sticky header and root200 widened hub516 against390/320. Local after desktop/mobile/root200 keyboard/touch/Back route shows heading and mission clear, widths fit, other sampled fragments and critical content intact. Full-route proxy24/26 over13 applicable dimensions, no N/A; this is not comparable to the morning card-only23/26. The before route was a critical failure regardless of score. Carson independent read-only PASS/no P0-P3 on final diff; it could not rerun local browser geometry. No family/paper or production effect yet; release pending.
+`KAL-IMP-025` [same-task review](../reviews/engineering-hub-arrival-repair-2026-10-07.md) keeps the morning source-derived paper-chain caregiver and optional P2 book-reach stress. Before, correct fragment hid H2 under sticky header and root200 widened hub516 against390/320. Local and exact-SHA production desktop/mobile/root200 keyboard/touch/Back route show heading and mission clear, widths fit, other sampled fragments and critical content intact. Full-route proxy24/26 over13 applicable dimensions, no N/A; this is not comparable to the morning card-only23/26. The before route was a critical failure regardless of score. Carson independent read-only PASS/no P0-P3 on final diff; it could not rerun local browser geometry. Exact-SHA Pages `37711456016` succeeded; no family/paper or causal SEO effect measured.
 
 ## 2026-10-07 - Paper-Chain Due-Window Route
 

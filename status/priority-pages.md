@@ -2,9 +2,9 @@
 
 Last updated: 2026-10-07
 
-## October 7 Afternoon Engineering Hub Repair - Local QA
+## October 7 Afternoon Engineering Hub Repair - Released
 
-`KAL-IMP-025` [same-task evidence](../reviews/engineering-hub-arrival-repair-2026-10-07.md) implements the morning book-route fragment/large-text repair only on the existing engineering hub. Local four-mode heading/mission clearance and 390/320 root200 width fit pass; nine missions, canonical/H1, source/untested and stop remain. All three generators twice/idempotent, 71 HTML/743 local refs, native118, GSC81, JSON/whitespace pass. Carson independent read-only PASS/no P0-P3 on final diff; exact-SHA Pages and production verification still required. Card and other observation windows unchanged.
+`KAL-IMP-025` [same-task evidence](../reviews/engineering-hub-arrival-repair-2026-10-07.md) implements the morning book-route fragment/large-text repair only on the existing engineering hub. Local and production four-mode heading/mission clearance and 390/320 root200 width fit pass; nine missions, canonical/H1, source/untested and stop remain. All three generators twice/idempotent, 71 HTML/743 local refs, native118, GSC81, JSON/whitespace pass. Carson independent read-only PASS/no P0-P3 on final diff; reviewed `012ce94` pushed, exact-SHA Pages `37711456016` success, four live bytes match and browser task passes. No release marker exists. Card and other observation windows unchanged; no family/SEO outcome inferred.
 
 ## October 7 Paper-Chain Due-Window Observation - Hub Repair Brief
 
