@@ -9,7 +9,7 @@
       "id": "KAL-RES-033",
       "title": "Observe revised foil-boat start and entry routes at due window",
       "kind": "research-persona-audit",
-      "status": "reviewed_release_pending",
+      "status": "completed",
       "registered_on": "2026-10-08",
       "base_commit": "f74ae07a9317ae083d9d23d67854fa718070d13a",
       "exact_paths": ["reviews/foil-boat-observation-2026-10-08.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -27,7 +27,9 @@
       "decision": "PRESERVE existing no-cargo foil card and entry routes; proxy task and current source reconciliation found no critical failure. Long enlarged-text scan and absent summarized GSC foil row are limits, not automatic page-change evidence.",
       "review": "Arendt independent read-only PASS, no P0-P3; verified cited source/section/GSC/scope/score claims, focused foil tests7/7; did not rerun live browser/bytes, full native suite or GSC validator.",
       "qa": "Native118/118, GSC81, roadmap JSON, whitespace, 95 local Markdown references, unique IDs, exact eight paths, live six-byte matches, source/privacy/unsafe-claim and four-mode browser proxy PASS.",
-      "next_step": "Fresh fetch/no divergence, inspect full range, stage only reviewed eight paths, secret/privacy/claim check, push docs-only and verify local/origin alignment; factual closeout."
+      "release": {"state": "pushed", "reviewed_commit": "95ed66d3986d277d228daf5097ac9c42dd4395bd", "site_changed": false, "pages": "not applicable; research/operator-only", "alignment": "clean local/origin0/0 and remote main exact SHA verified before factual closeout"},
+      "completed_on": "2026-10-08",
+      "next_step": "At next heartbeat reassess newest evidence and pack October9 due window before separately registering an action; preserve bridgeOctober10, rampOctober13 and weeklyOctober11."
     },
     {
       "id": "KAL-RES-031",
