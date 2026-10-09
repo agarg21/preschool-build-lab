@@ -9,7 +9,7 @@
       "id": "KAL-IMP-026",
       "title": "Correct age-four STEM hub Bridge Rescue material and start handoff",
       "kind": "existing-page-trust-repair",
-      "status": "review_passed",
+      "status": "completed",
       "registered_on": "2026-10-09",
       "base_commit": "e703a67",
       "exact_paths": ["scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/ages/stem-activities-for-4-year-olds.html", "site/sitemap.xml", "tools/age4-bridge-hub-consistency.test.mjs", "reviews/age4-bridge-hub-repair-2026-10-09.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -23,7 +23,7 @@
       "production_invariants": "No new URL, generic paper-bridge data/card, original pack, dedicated Bridge guide, other age-hub activity, product, tested-status, indexing, paid call, workflow, automation or Control Room change. Bridge dedicated-guide observation through October10, Ramp October13 and weekly October11 preserved.",
       "observation_window": "Verified hub trust defect permits a scoped repair now; do not expand into the dedicated Bridge guide observation through October10. Ramp October13 and weekly synthesis October11 stay due.",
       "reconsider_conditions": "Stop if generator output expands beyond intended hub/sitemap, source reconciliation cannot support the material/start, reviewer reports unresolved P0-P2, remote diverges or exact-SHA production regresses. Keep work for next resume rather than claiming a release.",
-      "next_step": "Fermat independent read-only PASS/no P0-P3. Fetch again, require no divergence, inspect/stage exact13 reviewed paths and private/unsafe-claim boundaries, push main, then verify exact-SHA Pages and affected live bytes/task. True 200% text remains unverified."
+      "next_step": "Reviewed f459988 pushed and exact-SHA Pages run 37971286910 succeeded; live hub/sitemap and unchanged pack bytes plus 1280/390/320 task pass. True 200% text unverified. At October10 heartbeat sense latest evidence and audit dedicated Bridge guide due window unless higher-priority verified defect; preserve Ramp October13 and weekly October11. Verify final local/origin alignment after factual closeout."
     },
     {
       "id": "KAL-RES-035",

@@ -4,7 +4,7 @@ Last updated: 2026-10-09
 
 ## October 9 Afternoon Age-Four Bridge Hub Repair
 
-`KAL-IMP-026` [same-task implementation review](../reviews/age4-bridge-hub-repair-2026-10-09.md) repairs only the existing hub Bridge chooser/table/card mismatch with the maintained pack. Local hub-to-pack proxy16/26->22/26 across all13 dimensions, critical material/start override cleared; reviewed release and production verification are pending. Generic activity/card, pack, dedicated Bridge guide and all other hub entries remain unchanged. 200% text is unverified; no family or search-effect claim. Preserve Bridge October10, Ramp October13 and weekly October11.
+`KAL-IMP-026` [same-task implementation review](../reviews/age4-bridge-hub-repair-2026-10-09.md) repairs only the existing hub Bridge chooser/table/card mismatch with the maintained pack. Local hub-to-pack proxy16/26->22/26 across all13 dimensions, critical material/start override cleared. Fermat independent PASS/no P0-P3; reviewed `f459988` released through exact-SHA Pages `37971286910`, live hub/sitemap/unchanged pack bytes and mobile task pass. Generic activity/card, pack, dedicated Bridge guide and all other hub entries remain unchanged. 200% text is unverified; no family or search-effect claim. Audit dedicated Bridge October10; preserve Ramp October13 and weekly October11.
 
 ## October 9 Original-Pack Due-Window Observation - Bridge Hub Repair Brief
 
