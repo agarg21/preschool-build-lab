@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## October 9 - Original-Pack Due-Window Route
+
+`KAL-RES-035` [dated every-section audit](../reviews/original-pack-observation-2026-10-09.md) repeats RES020/IMP017's source-derived age-four, younger-mouthing-sibling, dry and ten-minute start-or-decline task. Pack checks and routes work, but hub Bridge table/card says toy car and `Try a car`/`Fold paper stronger`, conflicting with pack's checked large block or soft toy, gentle placement and uncertain comparison. Age-hub-to-pack Bridge proxy16/26 across all13 applicable dimensions, N/A none, with **critical material/start override**; September25 pack-focused22/26 has a different scope, not a measured regression. Five desktop anchors, mobile hub-to-Bridge-to-shared-check/Back, Enter disclosure and 390/320 widths pass; local/live pack, hub and CSS bytes match. True 200% browser text was not established, so it is unverified rather than passed. PRESERVE pack/other summaries, IMPROVE age-hub Bridge in a separate generator-owned action; no human/physical or SEO outcome claim.
+
 ## October 8 Afternoon - Foil Cargo Extension Gate
 
 `KAL-RES-034` [source and every-section qualification](../seo/foil-cargo-extension-qualification-2026-10-08.md) asks a distinct hypothetical mixed-age cargo decision, not the completed empty-hull task. The caregiver must name a load or decline it, handle water/objects and stop when an under-three sibling reaches or attention breaks. Current card correctly says no cargo; cargo-task proxy13/26 over all13 applicable dimensions, N/A none. Missing load instruction is a critical override **only for the proposed extension**, not a defect in the existing empty-hull card or a before/after score. Preserve card/entry routes; DEFER extension and REJECT new URL now pending exact material/household/demand/incremental-output gates. No human or physical test.

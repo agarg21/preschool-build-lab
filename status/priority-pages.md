@@ -1,6 +1,10 @@
 # Priority Page Status
 
-Last updated: 2026-10-08
+Last updated: 2026-10-09
+
+## October 9 Original-Pack Due-Window Observation - Bridge Hub Repair Brief
+
+`KAL-RES-035` [source and live-task audit](../reviews/original-pack-observation-2026-10-09.md) preserves the September25 repaired pack but finds a critical mismatch in the existing age-hub Bridge summary: table/card `toy car` and `Try a car` / `Fold paper stronger` versus pack's checked large block/soft toy, gentle first try and uncertain comparison. Existing-page generator-owned Bridge summary repair is next, separately registered; other hub entries and dedicated guide stay protected. Hub-to-pack proxy16/26 over all13 dimensions, N/A none, critical override; not comparable to September25 pack-focused22/26. Live pack/hub/CSS bytes match local, so this is production copy, not stale deployment. True 200% text mode was not verified. GSC pack3/0 is rolling/query-thin, not repair evidence. No site change in research action; preserve RampOctober13 and weeklyOctober11.
 
 ## October 8 Afternoon Foil Cargo Extension - Deferred
 
