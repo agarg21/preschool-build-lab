@@ -9,7 +9,7 @@
       "id": "KAL-RES-035",
       "title": "Observe original-pack trust repair at October 9 due window",
       "kind": "research-persona-audit",
-      "status": "review_pending",
+      "status": "completed",
       "registered_on": "2026-10-09",
       "base_commit": "90f42c8534cfa03de6b8c045681d78a63ac15952",
       "exact_paths": ["reviews/original-pack-observation-2026-10-09.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -25,8 +25,10 @@
       "reconsider_conditions": "Verified critical planning/trust/accessibility failure may produce a separately registered repair; preserve on no failure. Stop for remote divergence, P0-P2 reviewer findings or scope drift.",
       "artifact": "reviews/original-pack-observation-2026-10-09.md",
       "decision": "PRESERVE pack and three sampled age-hub summaries; IMPROVE existing age-hub Bridge table/card in a separately registered generator-owned transaction. Hub car/stronger start conflicts with pack checked block/soft toy, gentle placement and uncertain result. Hub-to-pack Bridge proxy 16/26 across 13 applicable dimensions, critical material/start override; September 25 pack-focused 22/26 is not a comparable baseline. Browser 200% text unverified.",
-      "review_state": "Gibbs independent read-only cycle 1 FAIL/P2: age-hub Bridge material/start mismatch missed. Audit and logs corrected; cycle 2 final-diff review pending.",
-      "next_step": "Obtain cycle 2 independent read-only PASS/PASS_WITH_P3 on corrected exact-eight audit; then fresh fetch, inspect and release docs-only. At next eligible transaction separately register generator-owned age-hub Bridge repair; preserve dedicated Bridge guide through October 10, Ramp October 13 and weekly October 11."
+      "review_state": "Gibbs independent read-only cycle 1 FAIL/P2: age-hub Bridge material/start mismatch missed; corrected cycle 2 PASS with no P0-P3. Native 118, GSC 82, JSON, whitespace, 107 Markdown refs, source/privacy/scope and live-byte checks passed. Browser 200% text unverified.",
+      "release_commit": "2c8c06cecb821a8f9fd4fda040cbaca6f105636c",
+      "release_evidence": "Reviewed exact-eight docs-only commit pushed main after fresh no-divergence fetch and full staged/secret/privacy/claim checks; local/origin and remote exact SHA aligned before same-path factual closeout. No Pages wait required.",
+      "next_step": "At next eligible transaction separately register generator-owned age-hub Bridge table/card material/start correction; preserve pack and dedicated Bridge guide through October 10, Ramp October 13 and weekly October 11. Test true 200% text if tooling permits."
     },
     {
       "id": "KAL-RES-034",
