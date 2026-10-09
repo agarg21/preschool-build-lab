@@ -841,7 +841,7 @@ PAGES = [
         },
         "chooser": [
             ("I prefer a dry setup", "Ramp Detective or Shadow Builder", "Choose floor space for a car, or a clear wall with an adult-controlled light."),
-            ("My child likes stories", "Bridge Rescue", "The toy crossing the river gives the test a reason."),
+            ("My child likes stories", "Bridge Rescue", "A checked block or soft toy crossing a pretend river gives the test a story; an adult can place it gently."),
             ("We have light blocks", "Windproof Tower", "Check labels and condition; an adult fans a low tower."),
             ("We can handle water", "Empty Foil Boat", "No cargo; an adult controls water and stays throughout."),
             ("My child wants to watch", "Shadow Builder", "The adult can move the object while the child points or watches."),
@@ -867,7 +867,10 @@ PAGES = [
                 "help_label": "Adult stays involved",
                 "url": "../collections/original-stem-activities-for-4-year-olds.html#bridge-rescue",
                 "link_text": "Open in original test pack",
-                "best_for": "engineering, story play, testing strength",
+                "materials": "paper, two low books, one large lightweight block or soft toy; check it for each child who can reach it",
+                "best_for": "engineering, story play, watching paper bend",
+                "steps": ["Set two low books flat, with a gap shorter than the paper.", "Lay paper across both book covers.", "Gently place one checked object and watch.", "Remove it; try one fold or stop."],
+                "parent": "Stay close, with fingers clear underneath; an adult can place the object while a child watches. Stop for sliding books, torn or mouthed paper, thrown objects or climbing. If paper slips, remove the object, move books closer and check the empty bridge, or end. Collect materials when done.",
             },
             "shadow-shape-match": {
                 "title": "Shadow Builder",

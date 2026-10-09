@@ -18,7 +18,7 @@ CONTENT_LASTMODS = {
     "cards/ball-maze-box.html": "2026-10-02",
     "cards/tape-road.html": "2026-10-05",
     "cards/foil-boat-test.html": "2026-09-24",
-    "ages/stem-activities-for-4-year-olds.html": "2026-09-25",
+    "ages/stem-activities-for-4-year-olds.html": "2026-10-09",
     "collections/original-stem-activities-for-4-year-olds.html": "2026-09-26",
     "articles/paper-bridge-challenge-kids.html": "2026-09-26",
     "cards/paper-chain-test.html": "2026-09-23",

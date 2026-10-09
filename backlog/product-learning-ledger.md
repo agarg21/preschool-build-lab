@@ -4,6 +4,15 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-09 Afternoon - KAL-IMP-026 Bridge Hub Repair
+
+- Decision/persona: [same-task implementation audit](../reviews/age4-bridge-hub-repair-2026-10-09.md) IMPROVES only the existing age-four hub Bridge summary. The `RESEARCH_HYPOTHESIS` caregiver has a four-year-old, younger mouthing sibling, dry preference and ten-minute constraint; must choose or decline, check reach/materials, start/stop/rescue/cleanup. Phone and watch/point are stresses, not family observations.
+- Falsifiable hypothesis/result: generator-owned checked one-object, gentle flat-first hub copy removes the morning critical car/strength contradiction without changing pack, guide or generic paper-bridge. Local hub-to-pack proxy 16/26 -> 22/26 across all 13 applicable dimensions, N/A none; critical material/start override cleared locally. 1280/390/320 widths, mobile click, Enter and Back work. True 200% text not established, so no enlarged-text pass.
+- Sources/classes: October 9 [AAP toy selection](https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx) and [AAP choking prevention](https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Choking-Prevention.aspx) are `SOURCE_BACKED` only for general checks; maintained pack is the activity-specific source. Browser/output/GSC83 are `MEASURED` only technically/window scope. Default and score are `EDITORIAL_JUDGMENT`. Holding, time, enjoyment, learning, safety in practice, parent completion and SEO effect are `UNKNOWN`.
+- Confidence/lesson: high in local source/render consistency and route, moderate in proxy decision cost, none in human outcome. A compact executable card must not contradict its maintained guide even when the link works.
+- Next falsification trigger: exact-SHA production bytes/task or later true 200% stress fails, source boundaries change, or reviewer finds a remaining critical mismatch. Preserve dedicated Bridge through October 10, Ramp October 13 and weekly October 11.
+- Measurement boundary: October 9 public-safe GSC finalized through October 7 rolling 385/12 versus prior 391/12; hub 6/0 versus 7/0 and pack 3/0 both. Overlapping, query-thin summaries and no route analytics cannot attribute an effect. No family/physical test or indexing request.
+
 ## 2026-10-09 - KAL-RES-035 Original-Pack Due Window
 
 - Decision/persona: [dated source and live-task audit](../reviews/original-pack-observation-2026-10-09.md) **PRESERVES** the repaired pack but **IMPROVES** the age-hub Bridge summary in a separately registered existing-page repair; other three sampled summaries stay. The `RESEARCH_HYPOTHESIS` caregiver has a four-year-old, younger mouthing sibling, dry preference and ten-minute constraint; must choose or decline, check labels/condition/reach, find adult/child roles, first move, stop and cleanup. Phone reading and watch/point participation are secondary stresses, not family observations.

@@ -2,6 +2,10 @@
 
 Last updated: 2026-10-09
 
+## October 9 Afternoon Age-Four Bridge Hub Repair
+
+`KAL-IMP-026` [same-task implementation review](../reviews/age4-bridge-hub-repair-2026-10-09.md) repairs only the existing hub Bridge chooser/table/card mismatch with the maintained pack. Local hub-to-pack proxy16/26->22/26 across all13 dimensions, critical material/start override cleared; reviewed release and production verification are pending. Generic activity/card, pack, dedicated Bridge guide and all other hub entries remain unchanged. 200% text is unverified; no family or search-effect claim. Preserve Bridge October10, Ramp October13 and weekly October11.
+
 ## October 9 Original-Pack Due-Window Observation - Bridge Hub Repair Brief
 
 `KAL-RES-035` [source and live-task audit](../reviews/original-pack-observation-2026-10-09.md) preserves the September25 repaired pack but finds a critical mismatch in the existing age-hub Bridge summary: table/card `toy car` and `Try a car` / `Fold paper stronger` versus pack's checked large block/soft toy, gentle first try and uncertain comparison. Existing-page generator-owned Bridge summary repair is next, separately registered; other hub entries and dedicated guide stay protected. Hub-to-pack proxy16/26 over all13 dimensions, N/A none, critical override; not comparable to September25 pack-focused22/26. Live pack/hub/CSS bytes match local, so this is production copy, not stale deployment. True 200% text mode was not verified. GSC pack3/0 is rolling/query-thin, not repair evidence. No site change in research action; preserve RampOctober13 and weeklyOctober11.

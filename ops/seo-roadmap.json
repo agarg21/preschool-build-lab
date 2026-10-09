@@ -6,6 +6,26 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-026",
+      "title": "Correct age-four STEM hub Bridge Rescue material and start handoff",
+      "kind": "existing-page-trust-repair",
+      "status": "review_passed",
+      "registered_on": "2026-10-09",
+      "base_commit": "e703a67",
+      "exact_paths": ["scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/ages/stem-activities-for-4-year-olds.html", "site/sitemap.xml", "tools/age4-bridge-hub-consistency.test.mjs", "reviews/age4-bridge-hub-repair-2026-10-09.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-09",
+      "evidence_class": "KAL-RES-035 source-grounded age-four/younger-sibling/dry/time-stress live task and independent P2; pack/hub live-local byte matches MEASURED technically, AAP/CPSC general checks SOURCE_BACKED, task RESEARCH_HYPOTHESIS, scope/priority EDITORIAL_JUDGMENT, physical/family outcomes UNKNOWN.",
+      "user_problem": "The age-four STEM hub tells a caregiver to use a toy car and fold paper stronger for Bridge Rescue, while its linked original pack specifies one checked large block or soft toy, gentle flat-first placement and no promised holding result. A caregiver can act from the hub card before opening the pack.",
+      "hypothesis": "A hub-scoped generator override that gives the checked one-object material, gentle flat-first start, optional fold comparison and bounded parent stop will remove the critical mismatch without changing generic paper-bridge activity data, pack/guide, other hub entries or the search owner.",
+      "acceptance": "Only the age-four STEM hub Bridge table/card/chooser copy changes; material, first attempt, stop and optional comparison agree with pack. Same source-derived caregiver can decide or decline from hub and reach the pack at desktop/mobile/keyboard/200% text, with no critical task failure; retain uncertainty and source limits. Three generators twice byte-idempotent with exact generated scope; all local links/fragments; full native QA; independent different read-only PASS/PASS_WITH_P3; reviewed push and exact-SHA Pages plus live bytes/task.",
+      "qa_plan": "git diff --check; jq empty ops/seo-roadmap.json; node --test tools/*.test.mjs; parse changed JSON/CSV; run three generators twice, compare tracked site bytes and exact output; scan all local links/fragments; desktop/mobile/200% text keyboard/touch/Back/width/error task; source/privacy/exact-path checks; different read-only reviewer within three cycles.",
+      "measurement_plan": "Same hub-to-pack Bridge persona rubric across all 13 dimensions with critical override. Browser/bytes/GSC are technical or window-level only; actual duration, strength, engagement, safety, learning, parent completion and causal SEO effects UNKNOWN.",
+      "production_invariants": "No new URL, generic paper-bridge data/card, original pack, dedicated Bridge guide, other age-hub activity, product, tested-status, indexing, paid call, workflow, automation or Control Room change. Bridge dedicated-guide observation through October10, Ramp October13 and weekly October11 preserved.",
+      "observation_window": "Verified hub trust defect permits a scoped repair now; do not expand into the dedicated Bridge guide observation through October10. Ramp October13 and weekly synthesis October11 stay due.",
+      "reconsider_conditions": "Stop if generator output expands beyond intended hub/sitemap, source reconciliation cannot support the material/start, reviewer reports unresolved P0-P2, remote diverges or exact-SHA production regresses. Keep work for next resume rather than claiming a release.",
+      "next_step": "Fermat independent read-only PASS/no P0-P3. Fetch again, require no divergence, inspect/stage exact13 reviewed paths and private/unsafe-claim boundaries, push main, then verify exact-SHA Pages and affected live bytes/task. True 200% text remains unverified."
+    },
+    {
       "id": "KAL-RES-035",
       "title": "Observe original-pack trust repair at October 9 due window",
       "kind": "research-persona-audit",

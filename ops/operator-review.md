@@ -1,5 +1,9 @@
 # Operator Review
 
+## KAL-IMP-026 - October 9 Afternoon (Review Passed; Release Pending)
+
+Registered exact13 paths on clean/aligned `e703a67` after inspecting and fast-forwarding disjoint public-safe GSC. [Same-task repair](../reviews/age4-bridge-hub-repair-2026-10-09.md) corrects age-hub Bridge chooser/table/card in generator, output and sitemap only; no pack/guide/generic/data change. Local three generators twice/idempotent with exact hub/sitemap output, 71HTML/743 refs, focused3 and full native121/121, GSC83, JSON/whitespace pass. Desktop/390/320 click/Enter/Back/fit/error checks pass; true 200% text was not established. Fermat (`01a121d9-3c99-7f02-b240-dc501d04e836`) independent read-only cycle1 **PASS/no P0-P3** on complete exact13 diff. It reran focused3, JSON/whitespace and GSC83, and independently checked source/render/scope and 16/26->22/26 arithmetic; it did not rerun full native, generators, links, browser or production. Exact-SHA Pages production verification is pending. No human/physical/SEO outcome inferred.
+
 ## KAL-RES-035 - October 9 Morning (Released)
 
 Gibbs cycle2 read-only **PASS/no P0-P3** on corrected exact-eight final diff. It independently reran native118, GSC82, JSON/whitespace, 107 Markdown refs, score/scope/unique-ID checks, compared both GSC windows and current HTML/source claims, and confirmed the hub live hash. It did not rerun interactive browser routes or 200% text. Fresh pre-release fetch0/0; complete eight-path staged diff, no unstaged changes, secret/privacy/unsafe-claim scan and unpushed range checked. Reviewed `2c8c06cecb821a8f9fd4fda040cbaca6f105636c` pushed to main; remote exact SHA and local/origin0/0 verified before this factual closeout. Research/operator-only, no Pages wait. Next separately register existing age-hub Bridge generator correction; no public copy changed in this transaction. Recheck alignment after closeout push.

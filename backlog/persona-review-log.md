@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## October 9 Afternoon - Bridge Hub Same-Task Repair
+
+`KAL-IMP-026` [every-section repair review](../reviews/age4-bridge-hub-repair-2026-10-09.md) retains the morning age-four/younger-mouthing-sibling/dry/ten-minute start-or-decline task. Hub-to-pack Bridge proxy **16/26 -> 22/26**, all 13 applicable, N/A none. Checked block/soft toy, adult gentle flat try and optional uncertain comparison replace the car/strength contradiction in chooser, table and card; local critical material/start override clears. Desktop/390/320 document fit, mobile click/Enter/Back and direct pack fragment pass locally; true 200% text remains unverified. No physical/family or SEO effect inferred.
+
 ## October 9 - Original-Pack Due-Window Route
 
 `KAL-RES-035` [dated every-section audit](../reviews/original-pack-observation-2026-10-09.md) repeats RES020/IMP017's source-derived age-four, younger-mouthing-sibling, dry and ten-minute start-or-decline task. Pack checks and routes work, but hub Bridge table/card says toy car and `Try a car`/`Fold paper stronger`, conflicting with pack's checked large block or soft toy, gentle placement and uncertain comparison. Age-hub-to-pack Bridge proxy16/26 across all13 applicable dimensions, N/A none, with **critical material/start override**; September25 pack-focused22/26 has a different scope, not a measured regression. Five desktop anchors, mobile hub-to-Bridge-to-shared-check/Back, Enter disclosure and 390/320 widths pass; local/live pack, hub and CSS bytes match. True 200% browser text was not established, so it is unverified rather than passed. PRESERVE pack/other summaries, IMPROVE age-hub Bridge in a separate generator-owned action; no human/physical or SEO outcome claim.
