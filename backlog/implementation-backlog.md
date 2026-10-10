@@ -1,5 +1,9 @@
 # Implementation Backlog
 
+## October 10 Paper Bridge Compact-Card Handoff
+
+`KAL-IMP-027` [local same-task repair](../reviews/paper-bridge-card-handoff-repair-2026-10-10.md) applies RES036's verified stop-order failure to the existing Paper Bridge card: early checked fit and single guide route, stop before materials/steps, adult low-book step, optional fold, stable enlarged-text link and sticky-header-cleared start fragment. Guide/pack/age hub/generic data and other cards are unchanged. Local whole-route proxy22/26->25/26 across13 dimensions with critical order cleared; no family/physical/SEO outcome inferred. Native124/generator/link QA and Harvey independent read-only PASS/no findings; exact-SHA release pending. WeeklyOctober11 and RampOctober13 retained.
+
 ## October 5 Tape Road Card Handoff
 
 IMP024 [scoped repair](../reviews/tape-road-card-handoff-repair-2026-10-05.md) applies the reviewed RES031 failure to the existing Tape Road compact card only: early guide and product/surface/board decision, adult stop ahead of preserved four steps, video after start, `Not measured` mess label. Same-task card-only7->16/24 and whole-route20->23/24 proxies; critical card-only rescue remains guide-held. Native116, generator/idempotence, GSC80, 71HTML/834 local refs and four-mode local/live browser QA pass. Anscombe independent cycle2 read-only PASS/no P0-P3 after Mencius cycle1 P3 corrections; reviewed `867de42` released via exact-SHA Pages `37500764705`, four affected live bytes match. No new URL or family/SEO outcome. Protected windows and weeklyOct11 stay.

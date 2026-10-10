@@ -2,6 +2,10 @@
 
 Last updated: 2026-10-10
 
+## October 10 Afternoon Paper Bridge Card Repair - Local Candidate
+
+`KAL-IMP-027` [same-task local review](../reviews/paper-bridge-card-handoff-repair-2026-10-10.md) moves one full-guide link and bounded fit/stop before card action, keeps the adult low-book flat start and makes folding optional. At390px normal guide y232, stop y596 and steps y1110; at390/root200 guide link-box y407, stop y1670 and steps y2827, width390/390. Link click/Enter/Back reaches the guide's `Fit and start` heading below the sticky header with first instruction visible. Whole-route proxy22/26->25/26 all13, critical order cleared locally, not a human result. Dedicated guide/pack/age hub and other cards are not edited. Native124 and Harvey independent read-only PASS/no findings; exact-SHA Pages/live verification remains, so not released yet. October11 weekly synthesis and RampOctober13 stay due.
+
 ## October 10 Paper Bridge Due-Window Audit - Card Repair Brief
 
 `KAL-RES-036` [dated source and live-task audit](../reviews/paper-bridge-observation-2026-10-10.md) PRESERVES the dedicated guide and original-pack Bridge instructions, but the compact card keeps all four steps before its parent check and full-guide route. At390px mobile, check y1207 and guide y1466; whole-route proxy22/26 across all13 dimensions has a **critical card-first stop-order override**. Five relevant production files/asset byte-match local; guide first-screen stop, pack fold fragment and 390/320 widths pass. Keyboard Enter works; touch and true 200% text remain unverified. Next eligible site transaction is a separately registered generator-owned existing-card early stop/guide repair; no public copy changed here. RampOctober13 and weekly synthesis/rescoreOctober11 remain due. Summarized GSC cannot measure family behavior or page effect.

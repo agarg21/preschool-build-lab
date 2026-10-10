@@ -760,7 +760,8 @@ th {
   padding: 14px;
 }
 
-.maze-card-decision {
+.maze-card-decision,
+.bridge-card-decision {
   border-left: 6px solid var(--green);
   background: var(--mint);
   padding: 12px 14px;
@@ -782,12 +783,22 @@ th {
   margin-top: 6px;
 }
 
-.maze-card-decision p {
+.maze-card-decision p,
+.bridge-card-decision p {
   margin: 0;
 }
 
-.maze-card-decision p + p {
+.maze-card-decision p + p,
+.bridge-card-decision p + p {
   margin-top: 6px;
+}
+
+.bridge-card-decision a {
+  display: inline-block;
+}
+
+.bridge-start-panel h2 {
+  scroll-margin-top: max(104px, 6rem);
 }
 
 .library-grid {
@@ -1971,7 +1982,8 @@ th {
     grid-template-columns: 1fr;
   }
 
-  .maze-card .meta-tile {
+  .maze-card .meta-tile,
+  .bridge-card .meta-tile {
     min-height: 0;
   }
 
@@ -1983,7 +1995,16 @@ th {
     gap: 12px;
   }
 
-  .maze-card .step-tile p {
+  .bridge-card .step-tile {
+    min-height: 0;
+    display: grid;
+    grid-template-columns: 38px minmax(0, 1fr);
+    align-items: center;
+    gap: 12px;
+  }
+
+  .maze-card .step-tile p,
+  .bridge-card .step-tile p {
     margin: 0;
     font-size: 1.15rem;
     line-height: 1.25;

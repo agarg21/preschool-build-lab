@@ -135,14 +135,15 @@ QUICK_CARD_OVERRIDES = {
         "materials": "paper, two low closed books, large lightweight object",
         "best_for": "building, comparing, changing one thing",
         "steps": [
-            "Set two books low.",
+            "Adult sets two books low.",
             "Lay one paper sheet across.",
             "Place one large object gently.",
-            "Fold the paper and compare.",
+            "Optional: fold the paper and compare.",
         ],
         "parent": (
-            "Stay close. Stop if books slide, paper tears, the object is thrown, "
-            "or the setup becomes climbing play."
+            "Stay beside the setup. Stop if books slide, the object is thrown, "
+            "paper goes in a mouth or tears, or the setup becomes climbing play. "
+            "Remove loose paper pieces before continuing."
         ),
     },
     "tape-road": {
@@ -575,22 +576,41 @@ def quick_page(slug):
     description = activity.get("description", description)
     kicker = activity.get("kicker", f"{activity['time']} · age {activity['ages']}")
     is_ball_maze = slug == "ball-maze-box"
-    routes = related_routes_html(slug, include_guide=not is_ball_maze)
+    is_paper_bridge = slug == "paper-bridge"
+    early_handoff = is_ball_maze or is_paper_bridge
+    routes = related_routes_html(
+        slug, include_guide=not early_handoff,
+        max_links=2 if is_paper_bridge else MAX_RELATED_ROUTES,
+    )
     parent_check = f'''
 
         <section class="parent-strip" aria-label="Parent check">
           <strong>Parent check:</strong> {esc(activity['parent'])}
         </section>'''
+    pre_meta_parent_check = parent_check if is_paper_bridge else ""
     early_parent_check = parent_check if is_ball_maze else ""
-    late_parent_check = "" if is_ball_maze else parent_check
+    late_parent_check = "" if early_handoff else parent_check
     early_guide = '''
 
         <section class="maze-card-decision" aria-label="Decide before starting">
           <p><a href="../articles/cardboard-ball-maze-kids.html">Full Cardboard Ball Maze guide</a> for fit, rescue, and cleanup.</p>
           <p>Fit: can the child move chunky blocks and follow a stop cue? Not family-tested by Kid Activity Lab.</p>
         </section>''' if is_ball_maze else ""
-    card_class = "kid-card maze-card" if is_ball_maze else "kid-card"
-    css_version = "ball-maze-card-1" if is_ball_maze else "nav-stable-2"
+    if is_paper_bridge:
+        early_guide = '''
+
+        <section class="bridge-card-decision" aria-label="Decide before starting">
+          <p><a href="../articles/paper-bridge-challenge-kids.html#bridge-start-title">Full Paper Bridge guide</a> for the optional fold, rescue, and cleanup. Research-backed; not family-tested by Kid Activity Lab.</p>
+          <p><strong>Fit:</strong> Choose one intact large lightweight block or soft toy suitable for every child who can reach it. Try when your child can place it gently and follow a stop cue. Adult sets the low books. If a younger child mouths materials and you cannot keep spare materials out of reach while attending to both, skip.</p>
+        </section>'''
+    card_class = (
+        "kid-card maze-card" if is_ball_maze else
+        "kid-card bridge-card" if is_paper_bridge else "kid-card"
+    )
+    css_version = (
+        "ball-maze-card-1" if is_ball_maze else
+        "bridge-card-1" if is_paper_bridge else "nav-stable-2"
+    )
     return f'''<!doctype html>
 <html lang="en">
   <head>
@@ -616,7 +636,7 @@ def quick_page(slug):
     <main class="card-shell">
       <article class="{card_class}">
         <p class="kicker">{esc(kicker)}</p>
-        <h1>{esc(activity['title'])}</h1>{early_guide}
+        <h1>{esc(activity['title'])}</h1>{early_guide}{pre_meta_parent_check}
 
         <div class="card-meta" aria-label="Activity details">
 {meta_html}

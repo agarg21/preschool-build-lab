@@ -79,13 +79,14 @@ test("visual and card route agree with the guide", () => {
   assert.match(html, /AI-generated setup illustration/);
 
   const card = fs.readFileSync(CARD_PATH, "utf8");
-  assert.match(card, /href="\.\.\/articles\/paper-bridge-challenge-kids\.html">Full Paper Bridge guide<\/a>/);
+  assert.match(card, /href="\.\.\/articles\/paper-bridge-challenge-kids\.html#bridge-start-title">Full Paper Bridge guide<\/a>/);
   assert.match(card, /Open-ended/);
   assert.match(card, /large lightweight object/);
-  assert.match(card, /Fold the paper and compare/);
+  assert.match(card, /Optional: fold the paper and compare/);
   assert.doesNotMatch(card, /3 min|toy car|stronger/i);
   const related = card.match(/<section class="parent-strip" aria-label="Related activity pages">([\s\S]*?)<\/section>/)?.[1] ?? "";
-  assert.equal([...related.matchAll(/<a /g)].length, 3);
+  assert.equal([...related.matchAll(/<a /g)].length, 2);
+  assert.equal([...card.matchAll(/Full Paper Bridge guide/g)].length, 1);
 
   const cardIndex = fs.readFileSync(CARD_INDEX_PATH, "utf8");
   const indexEntry = cardIndex.match(/<a class="mini-card" href="cards\/paper-bridge\.html">[\s\S]*?<\/a>/)?.[0] ?? "";
