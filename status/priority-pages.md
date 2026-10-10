@@ -2,9 +2,9 @@
 
 Last updated: 2026-10-10
 
-## October 10 Afternoon Paper Bridge Card Repair - Local Candidate
+## October 10 Afternoon Paper Bridge Card Repair - Released
 
-`KAL-IMP-027` [same-task local review](../reviews/paper-bridge-card-handoff-repair-2026-10-10.md) moves one full-guide link and bounded fit/stop before card action, keeps the adult low-book flat start and makes folding optional. At390px normal guide y232, stop y596 and steps y1110; at390/root200 guide link-box y407, stop y1670 and steps y2827, width390/390. Link click/Enter/Back reaches the guide's `Fit and start` heading below the sticky header with first instruction visible. Whole-route proxy22/26->25/26 all13, critical order cleared locally, not a human result. Dedicated guide/pack/age hub and other cards are not edited. Native124 and Harvey independent read-only PASS/no findings; exact-SHA Pages/live verification remains, so not released yet. October11 weekly synthesis and RampOctober13 stay due.
+`KAL-IMP-027` [same-task repair](../reviews/paper-bridge-card-handoff-repair-2026-10-10.md) moves one full-guide link and bounded fit/stop before card action, keeps the adult low-book flat start and makes folding optional. At390px normal guide y232, stop y596 and steps y1110; at390/root200 guide link-box y407, stop y1670 and steps y2827, width390/390. Link click/Enter/Back reaches the guide's `Fit and start` heading below the sticky header with first instruction visible. Whole-route proxy22/26->25/26 all13, critical order cleared in local and live task, not a human result. Dedicated guide/pack/age hub and other cards are not edited. Native124 and Harvey independent read-only PASS/no findings; reviewed `49c61a0`, exact-SHA Pages `38070987721` success, six live bytes and production desktop/mobile task verified. October11 weekly synthesis and RampOctober13 stay due.
 
 ## October 10 Paper Bridge Due-Window Audit - Card Repair Brief
 

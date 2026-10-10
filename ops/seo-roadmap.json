@@ -9,7 +9,7 @@
       "id": "KAL-IMP-027",
       "title": "Move Paper Bridge compact-card stop and guide ahead of steps",
       "kind": "existing-card-trust-repair",
-      "status": "registered",
+      "status": "completed",
       "registered_on": "2026-10-10",
       "base_commit": "20d1db2cfea982b7ae15f9c29e10f32f5b4fc648",
       "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "site/cards/paper-bridge.html", "site/styles.css", "site/sitemap.xml", "tools/paper-bridge-guide.test.mjs", "tools/paper-bridge-card-handoff.test.mjs", "reviews/paper-bridge-card-handoff-repair-2026-10-10.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,9 +24,11 @@
       "observation_window": "October10 dedicated guide due audit complete and preserved; only independently verified compact-card defect may be repaired. Protect Ramp October13 and weekly October11.",
       "reconsider_conditions": "Stop if source wording cannot support a bounded early stop, generator output expands, 200% text or mobile route remains unusable, P0-P2 reviewer finding persists, remote diverges or production regresses. Keep unfinished work, do not claim success.",
       "artifact": "reviews/paper-bridge-card-handoff-repair-2026-10-10.md",
-      "decision": "Local existing-card IMPROVE candidate: single early checked-fit/guide route and stop before materials/steps, adult low-book setup and optional fold. Same whole-route proxy 22/26 to 25/26 across all 13; critical card-first order clears locally. No new URL or family/SEO effect claim.",
+      "decision": "Existing-card IMPROVE released: single early checked-fit/guide route and stop before materials/steps, adult low-book setup and optional fold. Same whole-route proxy 22/26 to 25/26 across all 13; critical card-first order clears in local/live tested route. No new URL or family/SEO effect claim.",
       "review_state": "Final three-generator double-run/idempotent and only target card/sitemap output; 124 native, 71 HTML/743 links/fragments, 141 Markdown refs, GSC84, roadmap JSON/85 unique IDs, whitespace, source/privacy/secret and exact16 checks pass. Local desktop/390/320 and 390/320-root200 browser route/width/click/Enter/Back pass. Harvey independent read-only PASS/no P0-P3 on complete exact16 diff; reviewer did not run writing generators or browser.",
-      "next_step": "Fresh fetch/no divergence, inspect full unpushed range, exact staged paths and secret/privacy/claim scan; push reviewed work. Require exact-SHA Pages success and live affected-byte/task verification before completion. Preserve weekly October11 and Ramp October13."
+      "release_commit": "49c61a05e2ed1913ce9c8325bf6199dfb7ad0088",
+      "release_evidence": "Fresh fetch0/0, complete staged exact16/no unstaged and secret/privacy/claim checks; reviewed push main. Exact-SHA Pages run 38070987721 success; no release marker, six live affected/unchanged bytes match, production 1280/390/320 card and guide canonical/H1/one-link/stop-order/click/Enter/Back/width/error task pass. One transient guide HTTP503 retry succeeded; local/origin0/0 and clean before factual closeout.",
+      "next_step": "At next eligible heartbeat complete weekly synthesis/rescore due October11 before new build/research unless higher-priority verified defect or unfinished release intervenes; preserve Ramp October13. Verify final clean local/origin alignment after factual closeout push."
     },
     {
       "id": "KAL-RES-036",

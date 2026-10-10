@@ -2,7 +2,7 @@
 
 ## October 10 Paper Bridge Compact-Card Handoff
 
-`KAL-IMP-027` [local same-task repair](../reviews/paper-bridge-card-handoff-repair-2026-10-10.md) applies RES036's verified stop-order failure to the existing Paper Bridge card: early checked fit and single guide route, stop before materials/steps, adult low-book step, optional fold, stable enlarged-text link and sticky-header-cleared start fragment. Guide/pack/age hub/generic data and other cards are unchanged. Local whole-route proxy22/26->25/26 across13 dimensions with critical order cleared; no family/physical/SEO outcome inferred. Native124/generator/link QA and Harvey independent read-only PASS/no findings; exact-SHA release pending. WeeklyOctober11 and RampOctober13 retained.
+`KAL-IMP-027` [released same-task repair](../reviews/paper-bridge-card-handoff-repair-2026-10-10.md) applies RES036's verified stop-order failure to the existing Paper Bridge card: early checked fit and single guide route, stop before materials/steps, adult low-book step, optional fold, stable enlarged-text link and sticky-header-cleared start fragment. Guide/pack/age hub/generic data and other cards are unchanged. Whole-route proxy22/26->25/26 across13 dimensions with critical order cleared; no family/physical/SEO outcome inferred. Native124/generator/link QA and Harvey independent read-only PASS/no findings; reviewed `49c61a0`, exact-SHA Pages `38070987721` success, six live bytes and production task verified. WeeklyOctober11 and RampOctober13 retained.
 
 ## October 5 Tape Road Card Handoff
 
