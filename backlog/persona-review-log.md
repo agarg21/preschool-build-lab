@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## October 10 - Paper Bridge Card-To-Guide And Pack Route
+
+`KAL-RES-036` [every-section due-window audit](../reviews/paper-bridge-observation-2026-10-10.md) uses the source-derived four-year-old/younger-mouthing-sibling dry start-or-decline task with folding-help stress. The dedicated guide and pack Bridge instructions retain checked large object, flat first try, optional lengthwise fold, bounded stop/rescue and cleanup; 390/320 pack `#one-change` heading clears the sticky header. Whole card-to-guide proxy **22/26 across all13 applicable dimensions**, N/A none, not a before/after guide score. The compact card's four steps precede parent check y1207 and full guide y1466 on 390px phone, so the **critical card-first stop-order override** triggers an existing-card IMPROVE brief despite a working Enter route. Wrapped inline link center-click only scrolled; touch success and true 200% text were not established. No human/physical/SEO effect inferred.
+
 ## October 9 Afternoon - Bridge Hub Same-Task Repair
 
 `KAL-IMP-026` [every-section repair review](../reviews/age4-bridge-hub-repair-2026-10-09.md) retains the morning age-four/younger-mouthing-sibling/dry/ten-minute start-or-decline task. Hub-to-pack Bridge proxy **16/26 -> 22/26**, all 13 applicable, N/A none. Checked block/soft toy, adult gentle flat try and optional uncertain comparison replace the car/strength contradiction in chooser, table and card; local critical material/start override clears. Desktop/390/320 document fit, mobile click/Enter/Back and direct pack fragment pass locally; true 200% text remains unverified. No physical/family or SEO effect inferred.

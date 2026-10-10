@@ -1,6 +1,10 @@
 # Priority Page Status
 
-Last updated: 2026-10-09
+Last updated: 2026-10-10
+
+## October 10 Paper Bridge Due-Window Audit - Card Repair Brief
+
+`KAL-RES-036` [dated source and live-task audit](../reviews/paper-bridge-observation-2026-10-10.md) PRESERVES the dedicated guide and original-pack Bridge instructions, but the compact card keeps all four steps before its parent check and full-guide route. At390px mobile, check y1207 and guide y1466; whole-route proxy22/26 across all13 dimensions has a **critical card-first stop-order override**. Five relevant production files/asset byte-match local; guide first-screen stop, pack fold fragment and 390/320 widths pass. Keyboard Enter works; touch and true 200% text remain unverified. Next eligible site transaction is a separately registered generator-owned existing-card early stop/guide repair; no public copy changed here. RampOctober13 and weekly synthesis/rescoreOctober11 remain due. Summarized GSC cannot measure family behavior or page effect.
 
 ## October 9 Afternoon Age-Four Bridge Hub Repair
 
