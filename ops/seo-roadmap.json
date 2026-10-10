@@ -9,7 +9,7 @@
       "id": "KAL-RES-036",
       "title": "Audit Paper Bridge guide at its October 10 due window",
       "kind": "existing-page-observation",
-      "status": "registered",
+      "status": "completed",
       "registered_on": "2026-10-10",
       "base_commit": "4fcd0cc455558e37273a1a2f4600e028c958f097",
       "exact_paths": ["reviews/paper-bridge-observation-2026-10-10.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -26,7 +26,9 @@
       "artifact": "reviews/paper-bridge-observation-2026-10-10.md",
       "decision": "PRESERVE dedicated guide and original-pack Bridge instructions; IMPROVE the existing compact card in a separately registered generator-owned early stop/guide handoff repair. Whole card-to-guide proxy 22/26 across all 13 applicable dimensions, no N/A; critical card-first stop-order override because mobile steps precede parent check y1207 and guide y1466. True 200% text and touch success unverified.",
       "review_state": "Native 121, GSC83, roadmap JSON, whitespace, unique IDs, 119 local Markdown references and exact-eight/source/privacy checks pass. Avicenna independent read-only PASS/no P0-P3 on complete eight-path diff; no site edit in this research transaction.",
-      "next_step": "Fresh no-divergence fetch, inspect complete unpushed/staged exact-eight range, then docs-only reviewed push/alignment. Next eligible transaction may separately register compact-card early stop/guide repair; weekly synthesis/rescore October11 and Ramp October13 remain due."
+      "release_commit": "024681be4998cb8ef6a43f0da72f556c75ab2100",
+      "release_evidence": "Reviewed exact-eight docs-only commit pushed main after fresh no-divergence fetch, complete unpushed/staged scope and staged secret/privacy/claim checks. No Pages wait required; final local/origin alignment to be verified after factual closeout.",
+      "next_step": "At the next eligible heartbeat, re-evaluate evidence and separately register the existing-card early stop/guide repair, or complete weekly synthesis/rescore due October 11 first if no higher-priority unfinished action or defect. Preserve Ramp October 13. Verify final local/origin alignment after factual closeout."
     },
     {
       "id": "KAL-IMP-026",
