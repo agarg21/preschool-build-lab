@@ -1,10 +1,12 @@
 # Operator Review
 
-## KAL-RES-037 - October 11 Afternoon (Reviewed, Release Pending)
+## KAL-RES-037 - October 11 Afternoon (Released)
 
 Registered exact eight research/operator paths after inspecting and fast-forwarding disjoint public-safe GSC-only `955895e`; [dated chooser audit](../reviews/card-game-chooser-entry-audit-2026-10-11.md) rechecks Bicycle/Pagat/DREME, homepage/library entry, all visible chooser sections and one Concentration route. Live/local homepage/library/chooser/CSS/diagram bytes match. Desktop/390/320 click/Back, skip-link keyboard, FAQ click/Enter, width and sampled error checks show a readable hash but the only adult stop above the landing, plus offscreen mobile pace/contact. Editorial whole-route18/26/all13, critical before-action override; IMPROVE existing chooser only in separate site action. No public edit/new URL, product, family outcome, indexing or causal GSC inference. Native124, GSC85, JSON/87 unique IDs, whitespace and 134 Markdown references pass; exact-eight scope. Hilbert (`01a12bee-e8ce-7ec3-ad6e-8125e02044e1`) cycle1 independent read-only **PASS_WITH_P3/no P0-P2**; it checked live mobile bypass/table, source limits, GSC/JSON/IDs/refs/whitespace/scope/privacy but did not rerun native124 or human/physical accessibility tasks. P3 scroll-alignment caveat documented; docs-only release pending fresh fetch and exact-stage/secret checks. True touch, 200% text, screen reader and physical play were not established.
 
 Hilbert cycle2 independently reviewed the corrected full diff and returned **PASS/no new P0-P2**; P3 resolved. It reconfirmed exact scope, JSON/IDs, references and whitespace, but did not rerun browser/source/native tests.
+
+Fresh pre-release fetch showed 0/0 and no unpushed commit. Complete eight-path staged diff had no unstaged file, passed whitespace and added-line credential/email/raw-query scan, with source/privacy/claim limits retained. Reviewed `8f6ec59d38f7a6ccfc5c83600f1ffd9c690218f4` pushed main; docs-only, no Pages wait. Remote/main/local exact SHA and clean worktree verified before this factual closeout; recheck after its push. Next separately register the existing-chooser stop/contact repair, preserving RampOctober13 and weeklyOctober18.
 
 ## KAL-WEEKLY-005 - October 11 (Released)
 

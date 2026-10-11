@@ -9,7 +9,7 @@
       "id": "KAL-RES-037",
       "title": "Audit standard-deck chooser entry to one runnable first game",
       "kind": "existing-page-persona-audit",
-      "status": "active",
+      "status": "completed",
       "registered_on": "2026-10-11",
       "base_commit": "955895e3fb4768d418b3915371721c49a273baa5",
       "exact_paths": ["reviews/card-game-chooser-entry-audit-2026-10-11.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,11 +24,13 @@
       "observation_window": "Chooser may be audited read-only now; Ramp October13 remains protected and due then. Morning weekly completed, next October18.",
       "reconsider_conditions": "If current rules conflict or live route differs, record the precise failure and defer any fix to a separate action. Preserve on an actionable source-bounded task; stop on remote divergence, scope drift or persistent P0-P2 review finding.",
       "artifact": "reviews/card-game-chooser-entry-audit-2026-10-11.md",
-      "next_step": "Hilbert cycle2 PASS; fresh fetch/no divergence, exact-eight stage/source/privacy check and docs-only push. A site correction is a separate registration.",
+      "next_step": "At next eligible heartbeat separately register one existing-chooser stop/contact handoff repair unless higher-priority verified defect/unfinished release appears; preserve Ramp October13 and weekly October18. Verify final alignment after factual closeout.",
       "decision": "IMPROVE existing chooser handoff in a separate action: the readable Concentration hash skips the only page-level adult stop, and the mobile pace/contact column is offscreen. Preserve five-game owner, rules, research labels and URL; no site edit in this research action.",
       "proxy_score": "18/26 over all 13 applicable dimensions, no N/A; critical stop-before-action override",
       "review": "Hilbert 01a12bee-e8ce-7ec3-ad6e-8125e02044e1 cycle1 independent read-only PASS_WITH_P3, no P0-P2; scroll-alignment P3 corrected. Cycle2 on corrected full diff PASS/no new P0-P2. Reviewer checked live mobile route/table, sources, GSC85, JSON/87 IDs, 134 refs, whitespace, scope/privacy; did not rerun native124 or human/physical accessibility tasks.",
-      "qa": "Native124, GSC85, roadmap JSON/87 unique IDs, whitespace and 134 local Markdown references pass; exact-eight scope and added-line credential/email/raw-query scan clean. Current-source and production task recorded in dated audit."
+      "qa": "Native124, GSC85, roadmap JSON/87 unique IDs, whitespace and 134 local Markdown references pass; exact-eight scope and added-line credential/email/raw-query scan clean. Current-source and production task recorded in dated audit.",
+      "release": {"state": "pushed", "reviewed_commit": "8f6ec59d38f7a6ccfc5c83600f1ffd9c690218f4", "site_changed": false, "pages": "not applicable; research/operator-only", "alignment": "clean local/origin0/0 and remote main exact SHA verified before factual closeout"},
+      "completed_on": "2026-10-11"
     },
     {
       "id": "KAL-WEEKLY-005",
