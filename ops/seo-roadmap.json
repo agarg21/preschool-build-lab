@@ -9,7 +9,7 @@
       "id": "KAL-WEEKLY-005",
       "title": "Test entry-to-start gate against October 4-10 evidence and rescore the next question",
       "kind": "weekly-learning-synthesis",
-      "status": "active",
+      "status": "completed",
       "registered_on": "2026-10-11",
       "base_commit": "c91c8a535cc3713f09db97a9cc47f82b65554b56",
       "exact_paths": ["weekly/2026-10-11-decision-synthesis.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,10 +24,20 @@
       "observation_window": "Earlier chain/foil/pack/bridge due windows have completed; protect Ramp October13. Weekly rescore due today, next weekly due October18 only after completion.",
       "reconsider_conditions": "Reject generic recap, duplicate rule, pooled incomparable proxies or priority unsupported by dated evidence; stop on remote divergence, scope drift or persistent P0-P2 review finding.",
       "artifact": "weekly/2026-10-11-decision-synthesis.md",
-      "next_step": "Rule/priority synthesis drafted. Run exact-scope/native QA and obtain a different independent read-only PASS/PASS_WITH_P3; then fresh fetch, reviewed docs-only push and final alignment. Next separate task: read-only standard-deck entry-to-one-game audit; preserve Ramp October13.",
+      "next_step": "At next eligible heartbeat separately register read-only standard-deck chooser entry-to-one-game audit unless verified defect/unfinished release takes precedence; preserve Ramp October13 and weekly October18. Verify final alignment after factual closeout.",
       "decision": "Retain conditional discoverable depth/readable arrival; add a before-action material/adult/critical-stop agreement gate for executable entry surfaces. Do not promote a blanket top-link mandate. Rescore next eligible task to read-only standard-deck chooser entry-to-one-game audit, not a build.",
       "next_rescore_due": "2026-10-18",
-      "next_eligible_action": "Separately register source-grounded read-only standard-deck chooser entry-to-one-game desktop/mobile/every-section task; return PRESERVE or one qualified existing-owner brief. Ramp October13 due audit stays protected."
+      "next_eligible_action": "Separately register source-grounded read-only standard-deck chooser entry-to-one-game desktop/mobile/every-section task; return PRESERVE or one qualified existing-owner brief. Ramp October13 due audit stays protected.",
+      "review": "Lovelace cycle1 FAIL/P2 stale top-level roadmap dates corrected; cycle2 independent read-only PASS/no P0-P3 on complete seven-path diff. Reviewer independently passed JSON/86 IDs, GSC84, 118 refs and whitespace; did not rerun native124 or live/browser.",
+      "qa": "Operator native124, GSC84, roadmap JSON/86 unique IDs, whitespace, 118 local Markdown refs, exact-seven/source/privacy/secret/unsafe-claim checks PASS; changed CSV none, no site/generator change.",
+      "release": {
+        "state": "pushed",
+        "reviewed_commit": "4a005b731830499646026ead40ab96c4214c3eb7",
+        "site_changed": false,
+        "pages": "not applicable; research/operator-only",
+        "alignment": "clean local/origin0/0 and remote main exact SHA verified before factual closeout"
+      },
+      "completed_on": "2026-10-11"
     },
     {
       "id": "KAL-IMP-027",
