@@ -6,11 +6,13 @@ engagement strategy and gives the active Master chat one durable execution queue
 Control Room scheduling is paused until the user explicitly re-enables
 automation.
 
-Last rescored: 2026-10-04. Next rescore due: 2026-10-11.
-Rolling28-day horizon: October4-October31. Historical scores unchanged;
+Last rescored: 2026-10-11 (review/release pending). Next rescore due: 2026-10-18.
+Rolling28-day horizon: October11-November7, truncated by the pilot cutoff November3. Historical scores unchanged;
 this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
+
+0. October11 `KAL-WEEKLY-005` ACTIVE: [dated maintained-evidence synthesis](../weekly/2026-10-11-decision-synthesis.md) retains October4 conditional discoverable depth/readable arrival, adds a falsifiable before-action material/adult/critical-stop agreement gate for executable entry surfaces and rejects a blanket early-link rule. Distinct October4-10 proxies are not pooled. Gate rescore advances a separately registered read-only standard-deck chooser entry-to-one-game task; RampOctober13 remains protected. Exact seven research/operator paths in JSON/current-cycle; no site/data/strategy/workflow/automation edit. Next: native QA, independent read-only review and docs-only release.
 
 0. October10 afternoon `KAL-IMP-027` COMPLETED on clean/fast-forwarded `20d1db2`. [Same-task repair](../reviews/paper-bridge-card-handoff-repair-2026-10-10.md) applies the verified compact-card stop-order failure within exact16 registered paths: one early checked-fit/guide link and stop before materials/steps, adult low-book first step, optional fold and readable start-fragment arrival. Whole-route proxy22/26->25/26/all13 with critical order cleared in tested local/live route, not family use. Three generators twice/idempotent, only target card/sitemap generated; native124, GSC84, 71HTML/743 links, 141 Markdown refs, JSON/IDs/whitespace/scope/source/privacy and desktop/mobile/enlarged local browser task pass. Harvey independent read-only PASS/no findings. Reviewed `49c61a0` pushed after fresh 0/0 fetch/exact-path staging; exact-SHA [Pages run 38070987721](https://github.com/agarg21/preschool-build-lab/actions/runs/38070987721) success, six live bytes and 1280/390/320 production task pass; no release marker. Factual docs closeout and final alignment follow. Weekly synthesis/rescore October11 and RampOctober13 remain due; no new URL or family/SEO effect claim.
 

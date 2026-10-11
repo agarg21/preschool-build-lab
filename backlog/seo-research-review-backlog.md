@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 11 Before-Action Rule And Next Probe
+
+`KAL-WEEKLY-005` [dated synthesis](../weekly/2026-10-11-decision-synthesis.md) retains conditional discoverable depth/readable arrival and adds a source-bounded material/adult/critical-stop agreement check before executable entry steps. Paper Chain and Foil counter a blanket early-link rule; hub and card Bridge exposed contradictory or late pre-action cues. Next eligible question is a separately registered **read-only standard-deck chooser entry-to-one-game audit** with retained start-now/age-fit/calm-moment lenses, desktop/mobile and every-section review. Return PRESERVE or one evidence-qualified existing-owner brief, not a presumed repair/new page. RampOctober13 remains protected; sparse GSC and proxy scores cannot establish family or SEO effects.
+
 ## October 8 Afternoon - Foil Cargo Extension Qualified
 
 `KAL-RES-034` [exact query/body and owner pass](../seo/foil-cargo-extension-qualification-2026-10-08.md): DEFER a mixed-age preschool cargo-capacity extension; REJECT a separate indexable URL now; PRESERVE the no-cargo card. A preschool-labeled museum recipe exists but lists small objects, while other current bodies already answer basic capacity. Neither the broad 50/110 Ads variants nor query-thin GSC establish no-pennies preschool demand or an unserved decision. Reopen only on a named source-reconciled load/control case, distinct first-party/independent demand and incremental output; register any build separately. No cadence-only requalification or paid call. Protected windows and October11 weekly unchanged.
