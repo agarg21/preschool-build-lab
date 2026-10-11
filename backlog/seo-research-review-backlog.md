@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 11 Afternoon Chooser Handoff
+
+`KAL-RES-037` [dated source/live task](../reviews/card-game-chooser-entry-audit-2026-10-11.md) finds a readable Concentration fragment but a critical bypass of the chooser's sole adult stop, plus offscreen mobile pace/contact. `IMPROVE` only the existing five-game chooser in a separately registered build with stop-before-step and contact-cue acceptance; preserve source/editorial boundaries and all five owners. No individual game/age, Snap/Slapjack, product or affiliate URL, no inferred demand or family outcome. RampOctober13 and weeklyOctober18 remain. The October11 GSC chooser6/0 is overlapping/query-thin sensing, not a defect measure.
+
 ## October 11 Before-Action Rule And Next Probe
 
 `KAL-WEEKLY-005` [dated synthesis](../weekly/2026-10-11-decision-synthesis.md) retains conditional discoverable depth/readable arrival and adds a source-bounded material/adult/critical-stop agreement check before executable entry steps. Paper Chain and Foil counter a blanket early-link rule; hub and card Bridge exposed contradictory or late pre-action cues. Next eligible question is a separately registered **read-only standard-deck chooser entry-to-one-game audit** with retained start-now/age-fit/calm-moment lenses, desktop/mobile and every-section review. Return PRESERVE or one evidence-qualified existing-owner brief, not a presumed repair/new page. RampOctober13 remains protected; sparse GSC and proxy scores cannot establish family or SEO effects.
