@@ -1162,6 +1162,13 @@ th {
   margin: 0;
 }
 
+.game-guide-check {
+  margin: 20px 0 0;
+  padding: 14px 16px;
+  border-left: 4px solid #b5473f;
+  background: var(--soft);
+}
+
 .game-guide {
   scroll-margin-top: 88px;
   padding: 56px 0 18px;
@@ -1179,6 +1186,12 @@ th {
   max-width: 620px;
   color: var(--muted);
   margin: 10px 0 0;
+}
+
+.game-guide-heading p.game-guide-check {
+  max-width: none;
+  color: var(--ink);
+  margin: 12px 0;
 }
 
 .game-facts {
@@ -2099,7 +2112,8 @@ th {
 
   .indoor-page .chooser .table-wrap,
   .engineering-page .chooser .table-wrap,
-  .building-page .chooser .table-wrap {
+  .building-page .chooser .table-wrap,
+  .game-chooser .table-wrap {
     overflow-x: visible;
   }
 
@@ -2114,20 +2128,26 @@ th {
   .building-page .chooser table,
   .building-page .chooser tbody,
   .building-page .chooser tr,
-  .building-page .chooser td {
+  .building-page .chooser td,
+  .game-chooser table,
+  .game-chooser tbody,
+  .game-chooser tr,
+  .game-chooser td {
     display: block;
     width: 100%;
   }
 
   .indoor-page .chooser table,
   .engineering-page .chooser table,
-  .building-page .chooser table {
+  .building-page .chooser table,
+  .game-chooser table {
     min-width: 0;
   }
 
   .indoor-page .chooser thead,
   .engineering-page .chooser thead,
-  .building-page .chooser thead {
+  .building-page .chooser thead,
+  .game-chooser thead {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -2139,27 +2159,35 @@ th {
 
   .indoor-page .chooser tr,
   .engineering-page .chooser tr,
-  .building-page .chooser tr {
+  .building-page .chooser tr,
+  .game-chooser tr {
     padding: 10px 0;
     border-bottom: 1px solid var(--line);
   }
 
   .indoor-page .chooser tr:last-child,
   .engineering-page .chooser tr:last-child,
-  .building-page .chooser tr:last-child {
+  .building-page .chooser tr:last-child,
+  .game-chooser tr:last-child {
     border-bottom: 0;
   }
 
   .indoor-page .chooser td,
   .engineering-page .chooser td,
-  .building-page .chooser td {
+  .building-page .chooser td,
+  .game-chooser td {
     padding: 4px 12px;
     border: 0;
   }
 
+  .game-chooser td a {
+    display: block;
+  }
+
   .indoor-page .chooser td::before,
   .engineering-page .chooser td::before,
-  .building-page .chooser td::before {
+  .building-page .chooser td::before,
+  .game-chooser td::before {
     content: attr(data-label);
     display: block;
     margin-bottom: 2px;
@@ -2246,5 +2274,14 @@ th {
 
   h1 {
     font-size: 2.6rem;
+  }
+}
+@media (max-width: 390px) {
+  .game-guide-heading > div:first-child {
+    min-width: 0;
+  }
+
+  .game-guide h2 {
+    font-size: min(1.75rem, 40px);
   }
 }
