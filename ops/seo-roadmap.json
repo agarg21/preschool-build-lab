@@ -9,7 +9,7 @@
       "id": "KAL-IMP-028",
       "title": "Repair card-game chooser stop handoff and narrow pace visibility",
       "kind": "existing-page-improvement",
-      "status": "active",
+      "status": "completed",
       "registered_on": "2026-10-12",
       "base_commit": "be95aad79630519ada03dcf03b0d123d7ead9544",
       "exact_paths": ["site/collections/card-games-for-kids.html", "site/styles.css", "site/sitemap.xml", "tools/card-game-chooser-handoff.test.mjs", "reviews/card-game-chooser-handoff-repair-2026-10-12.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -25,9 +25,11 @@
       "reconsider_conditions": "If local page/source reconciliation disproves the bypass or a narrower fix fails desktop/mobile/keyboard/enlarged tasks, re-scope before release; stop on divergence, failed Pages/deployed invariant or persistent P0-P2 review finding.",
       "artifact": "reviews/card-game-chooser-handoff-repair-2026-10-12.md",
       "result": "Local same-task repair exposes adult stop/setting immediately below each of five direct fragment headings and pace/contact in narrow labeled chooser rows. Editorial proxy 18/26 to 22/26 across all 13 dimensions; critical order clears in tested routes. Cycle1 P2 led to root32px heading and hit-area corrections; cycle2 P2 found below-viewport stop cue, now relocated and visible before steps in five 320 and 390 root32px linked arrivals. Human outcomes and causal SEO remain unknown.",
-      "qa_summary": "After final relocation generators twice/zero generated-file diff, focused3/full127, 71 HTML/748 local refs, GSC86, JSON-LD three entities, six Markdown files/116 refs, roadmap JSON and whitespace pass. Root32px five 320 click/Back and direct hashes show stop text by y673/700, five 390 clicks by y577/844; document width equals viewport. Normal 320/390 and desktop Enter checked. Disjoint GSC-only 7b7ceb9 fast-forwarded; sitemap unchanged. Review/release pending.",
+      "qa_summary": "After final relocation generators twice/zero generated-file diff, focused3/full127, 71 HTML/748 local refs, GSC86, JSON-LD three entities, six Markdown files/116 refs, roadmap JSON and whitespace pass. Root32px five 320 click/Back and direct hashes show stop text by y673/700, five 390 clicks by y577/844; document width equals viewport. Disjoint GSC-only 7b7ceb9 fast-forwarded; sitemap unchanged. Final review PASS_WITH_P3; exact-SHA Pages and live bytes/task verified. No human outcome.",
       "review": "Ptolemy 01a12f68-9a89-7552-af17-6c82db879f78 cycle1 read-only FAIL/P2 untested enlarged text, corrected with root32px heading/link-hit fixes. Cycle2 read-only FAIL/P2 stop cue below enlarged-text arrival viewport, corrected by relocation. Cycle3 final read-only PASS_WITH_P3/no P0-P2; sole P3 stale QA-status lines corrected in release records. Reviewer independently reran native127, JSON/JSON-LD, whitespace, 71HTML/748 refs, six Markdown/116 refs; not writing generators/browser.",
-      "next_step": "Fresh no-divergence fetch, inspect complete unpushed range, exact reviewed staging/privacy scan, push main, exact-SHA Pages/live bytes and desktop/mobile task, final alignment."
+      "next_step": "At next eligible heartbeat separately register October13 Ramp due-window source/live task unless higher-priority verified defect/release appears; weekly October18 protected. Verify final alignment after factual closeout.",
+      "release": {"state": "production_verified", "reviewed_commit": "b1c57313fcc989fe052827607445c4fc2db1060a", "pages_run": 38315751792, "pages_conclusion": "success", "live_bytes": "chooser, CSS and unchanged sitemap SHA-256 equal local; no release marker exists", "task": "canonical/H1/five links; desktop and 390 first-game, all five 320 click/Back/cue-in-viewport/document320/320, sampled errors none", "measurement_boundary": "Local root32 text is not browser zoom, family/physical use or causal SEO effect"},
+      "completed_on": "2026-10-12"
     },
     {
       "id": "KAL-RES-037",
