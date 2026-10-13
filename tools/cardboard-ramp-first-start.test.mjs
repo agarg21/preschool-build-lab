@@ -45,7 +45,7 @@ test("cardboard ramp keeps its established search ownership", () => {
   const structuredData = JSON.parse(
     html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)?.[1] ?? "{}",
   );
-  assert.equal(structuredData.dateModified, "2026-09-04");
+  assert.equal(structuredData.dateModified, "2026-10-13");
   assert.equal(
     structuredData.image,
     "https://kidactivitylab.com/assets/cardboard-box-car-ramp-hero-v2.png",
@@ -57,12 +57,17 @@ test("the runnable three-step start appears before the illustrative image", () =
     /<div class="content ramp-first-start">([\s\S]*?)<\/div>\s*<figure class="hero-image">/,
   )?.[1] ?? "";
   assert.match(start, /<h2>Start now: make a cardboard ramp<\/h2>/);
+  assert.match(start, /<strong>Adult check:<\/strong> Floor only; supervise\. Stop for climbing, throwing or mouthing/);
   assert.match(start, /one flat, stiff piece of cardboard/);
   assert.match(start, /two broad sturdy closed books/);
   assert.match(start, /one or more toy cars/);
   assert.equal([...start.matchAll(/<li>/g)].length, 3);
   assert.match(start, /<strong>Adult job:<\/strong>/);
-  assert.match(start, /Stop if anyone starts climbing on or throwing the setup/);
+  assert.match(start, /Stop if it becomes climbing, throwing or mouthing play/);
+  assert.ok(start.indexOf("<strong>Use:</strong>") < start.indexOf("<strong>Adult job:</strong>"));
+  assert.ok(start.indexOf("<strong>Adult check:</strong>") < start.indexOf("<strong>Use:</strong>"));
+  assert.ok(start.indexOf("<strong>Adult job:</strong>") < start.indexOf('<ol class="steps">'));
+  assert.ok(start.indexOf("<strong>Adult job:</strong>") < start.indexOf("Release one car"));
 
   const startIndex = html.indexOf('class="content ramp-first-start"');
   const imageIndex = html.indexOf('class="hero-image"');
@@ -139,7 +144,7 @@ test("sitemap records the ramp page update once", () => {
     .map((match) => match[1])
     .filter((entry) => entry.includes("cardboard-box-car-ramp-preschoolers.html"));
   assert.equal(entries.length, 1);
-  assert.match(entries[0], /<lastmod>2026-09-04<\/lastmod>/);
+  assert.match(entries[0], /<lastmod>2026-10-13<\/lastmod>/);
 });
 
 test("ramp compact start reconciles materials, adult role and evidence without video dependency", () => {
@@ -154,6 +159,10 @@ test("ramp compact start reconciles materials, adult role and evidence without v
   assert.match(card, /If the car stops:/);
   assert.match(card, /try a shorter piece of cardboard/);
   assert.match(card, /Stop for climbing, throwing or mouthing/);
+  assert.match(card, /<strong>Adult check:<\/strong> Floor only; supervise\. Stop for climbing, throwing or mouthing/);
+  assert.ok(card.indexOf("<strong>Adult check:</strong>") < card.indexOf("<strong>Use:</strong>"));
+  assert.ok(card.indexOf("<strong>Parent check:</strong>") < card.indexOf("<h2>Adult setup</h2>"));
+  assert.ok(card.indexOf("<strong>Parent check:</strong>") < card.indexOf("<strong>Kid mission:</strong>"));
   assert.match(card, /Cleanup:/);
   assert.match(card, /Research-backed, not family-tested by Kid Activity Lab/);
   assert.match(card, /Setup time and play duration are not measured/);
@@ -163,7 +172,8 @@ test("ramp compact start reconciles materials, adult role and evidence without v
 
 test("ramp depth link lands at a named setup with scoped text-fit and arrival CSS", () => {
   const card = fs.readFileSync(path.join(ROOT, "site/cards/cardboard-car-ramp.html"), "utf8");
-  assert.match(card, /href="\.\.\/articles\/cardboard-box-car-ramp-preschoolers.html#ramp-start">Full setup and troubleshooting/);
+  assert.match(card, /class="depth-link" href="\.\.\/articles\/cardboard-box-car-ramp-preschoolers.html#ramp-start">Full setup and troubleshooting/);
+  assert.match(card, /\.ramp-card \.depth-link \{ display: block; width: fit-content; max-width: 100%; \}/);
   assert.match(html, /id="ramp-start" class="quick-card"/);
   assert.match(html, /\.hero h1, \.content h2, \.content h3 \{ overflow-wrap: anywhere; \}/);
   assert.match(html, /#ramp-start h2 \{ font-size: 1.35rem;/);
@@ -175,7 +185,7 @@ test("ramp library summary and sitemap align with the compact repair", () => {
   const library = fs.readFileSync(path.join(ROOT, "site/cards.html"), "utf8");
   assert.match(library, /href="cards\/cardboard-car-ramp.html"><strong>Cardboard Car Ramp<\/strong><span>Open-ended · flat stiff cardboard, two broad closed books, one toy car/);
   const sitemap = fs.readFileSync(path.join(ROOT, "site/sitemap.xml"), "utf8");
-  for (const [route, lastmod] of [["cards.html", "2026-10-01"], ["cards/cardboard-car-ramp.html", "2026-09-29"]]) {
+  for (const [route, lastmod] of [["cards.html", "2026-10-01"], ["cards/cardboard-car-ramp.html", "2026-10-13"]]) {
     const entry = [...sitemap.matchAll(/<url>([\s\S]*?)<\/url>/g)].find(m => m[1].includes(`<loc>https://kidactivitylab.com/${route}</loc>`));
     assert.ok(entry);
     assert.match(entry[1], new RegExp(`<lastmod>${lastmod}<\\/lastmod>`));
