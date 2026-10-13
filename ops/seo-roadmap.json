@@ -9,7 +9,7 @@
       "id": "KAL-IMP-029",
       "title": "Repair Ramp compact-card and guide stop-before-first-child-step order",
       "kind": "existing-page-improvement",
-      "status": "active",
+      "status": "completed",
       "registered_on": "2026-10-13",
       "base_commit": "c368ae043fec144198a5140bb37a9d9b4cc29bf8",
       "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "site/cards/cardboard-car-ramp.html", "site/articles/cardboard-box-car-ramp-preschoolers.html", "site/sitemap.xml", "tools/cardboard-ramp-first-start.test.mjs", "reviews/ramp-stop-order-repair-2026-10-13.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,11 +24,11 @@
       "observation_window": "October13 Ramp due-window audit completed with reproduced trust-order failure; this separately registered build is eligible. Weekly synthesis October18 remains due.",
       "reconsider_conditions": "Stop on source contradiction, unexpected generated output, failed narrowed task, remote divergence, persistent P0-P2 reviewer issue or deployed regression; otherwise observe after exact-SHA release without implying human effect.",
       "artifact": "reviews/ramp-stop-order-repair-2026-10-13.md",
-      "next_step": "Fresh fetch/no divergence, exact-path stage/privacy scan, push main, verify exact-SHA Pages and affected live bytes/routes before closeout.",
+      "next_step": "At next eligible heartbeat validate fresh sensing and choose one registered useful action under priority order; weekly synthesis remains due October 18.",
       "result": "Local card Parent check now precedes setup/mission; guide Adult job/stop precedes quick-start steps and hero is descriptive. Cycle-one P2 found the full check below the 320/root32 first viewport; a concise floor/supervision/stop cue now ends at y742 card and y754 linked/direct guide of 844. Wrapped root32 card depth-link center click failure was corrected with a scoped block hit area. Same-task card-only editorial proxy 19/22 to provisional 20/22 over 11 applicable; human outcomes UNKNOWN.",
       "qa_summary": "After cue correction three generators twice with identical target card/guide/sitemap hashes; generated target card and sitemap only, hand-edited target guide. Focused9/full127 native, GSC86, 71HTML/748 local links/74 fragments, guide JSON-LD, 66-URL sitemap XML, roadmap JSON/unique IDs, 124 Markdown refs, whitespace and exact13/source/privacy scan pass. Desktop/390/320/root32 local route/click/Enter/Back/direct hash, image/alt, width and sampled errors checked; root32 fixture is not browser zoom.",
       "review": "Ptolemy independent cycle one FAIL/P2 for below-fold 320/root32 adult check; concise cue corrected. Cycle two PASS/no P0-P3; reviewer reran native127, JSON, whitespace, exact13, links/fragments, Markdown refs and JSON-LD/sitemap dates, not writing generators/browser fixture.",
-      "release": {"state": "pending", "site_changed": true}
+      "release": {"state": "released", "site_changed": true, "commit": "3208f36c48d5bc088d5f8fded246c509eeb4cfce", "pages_run": "https://github.com/agarg21/preschool-build-lab/actions/runs/38437514452", "verification": "Exact-SHA Pages success; no release marker exists; live card/guide/sitemap HTTP200 byte-match local; desktop/390/320 route, cue, canonical/H1, image/alt, width, direct hash and sampled errors pass. Family/SEO effects UNKNOWN."}
     },
     {
       "id": "KAL-RES-038",

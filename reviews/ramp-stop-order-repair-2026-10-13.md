@@ -111,7 +111,16 @@ zero missing. Roadmap JSON/unique IDs, guide JSON-LD, 66-URL sitemap XML,
 whitespace, 124 local Markdown refs, exact-13 scope and added-line
 credential/private-email/unsupported-claim scan pass. Exact-SHA release and
 production verification remain pending.
-No Pages or production outcome is claimed before exact-SHA release.
+Reviewed `3208f36c48d5bc088d5f8fded246c509eeb4cfce` was pushed after
+fresh fetch 0/0, exact-13 staging, staged whitespace and private-data/claim
+scan. Exact-SHA [Pages run 38437514452](https://github.com/agarg21/preschool-build-lab/actions/runs/38437514452)
+succeeded. No release marker exists in `site/`; the live card, guide and
+sitemap returned HTTP 200 and matched local SHA-256 byte for byte. Production
+canonical/H1 and stop-before-mission/step order, desktop/390/320 library ->
+card -> guide, 390 keyboard Enter/Back, 320 click and direct-hash arrival,
+image/alt, width fit and sampled warnings/errors pass. The 320 live cue ends
+at y315 card and y281 guide of 844. This is technical publication evidence,
+not family use, physical safety or search effect.
 
 Reconsider if independent review finds a contradictory source/first-step
 ordering or if production differs from the reviewed bytes/task. A separate
