@@ -9,7 +9,7 @@
       "id": "KAL-RES-038",
       "title": "Audit released Ramp first-start journey at October 13 due window",
       "kind": "existing-page-persona-audit",
-      "status": "active",
+      "status": "completed",
       "registered_on": "2026-10-13",
       "base_commit": "d1b00c9796a6db758237fecdf8d52612c0f086c3",
       "exact_paths": ["reviews/ramp-due-window-audit-2026-10-13.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,12 +24,13 @@
       "observation_window": "IMP020 Ramp journey protected through October13 except verified defect; due-window read-only audit today does not itself authorize a site revision.",
       "reconsider_conditions": "Reopen only on reproduced critical task/fit/claim failure or source contradiction; otherwise preserve until genuinely new evidence. Stop on remote divergence, scope drift or persistent P0-P2 review finding.",
       "artifact": "reviews/ramp-due-window-audit-2026-10-13.md",
-      "next_step": "Complete native QA and independent read-only review of the October13 audit, then docs-only release. At the next eligible transaction separately register generator-aware existing-card and guide quick-start stop-before-child-step repair; keep weekly October18 due.",
+      "next_step": "At the next eligible heartbeat separately register generator-aware existing Ramp card and guide quick-start stop-before-child-step repair unless a higher-priority verified defect/release appears; weekly synthesis October18 remains due. Verify final alignment after factual closeout.",
       "decision": "IMPROVE existing card and guide quick-start order in a separately registered build; first kid mission/release precedes the local parent stop on both entry surfaces. No public copy change in this research action.",
       "proxy_score": "Card-only 19/22 over 11 applicable dimensions under October11 before-action rule; mixed-age/difficulty and educational purpose N/A. Critical stop-order override; historical 20/22 used prior rubric, not a production regression.",
       "review": "Hilbert 01a12bee-e8ce-7ec3-ad6e-8125e02044e1 independent read-only cycle1 PASS/no P0-P3. Source limits, score, GSC, four live bytes/hash, refs/privacy checked; native tests and mobile/fixture screenshots not independently repeated.",
       "qa": "Native127/127, GSC86, roadmap JSON/89 unique IDs, whitespace, 170 local Markdown refs, exact-nine scope and added-line credential/email scan pass; source/live desktop/390/320/root32px task in dated audit.",
-      "release": {"state": "pending", "site_changed": false, "pages": "not applicable; research/operator-only"}
+      "release": {"state": "pushed", "reviewed_commit": "23570f61495b2bd9d21b6a795402346eaa5017b6", "site_changed": false, "pages": "not applicable; research/operator-only", "alignment": "clean local/origin0/0 and remote exact SHA verified before factual closeout"},
+      "completed_on": "2026-10-13"
     },
     {
       "id": "KAL-IMP-028",
