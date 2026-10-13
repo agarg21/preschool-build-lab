@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 13 Ramp Before-Action Repair Brief
+
+`KAL-RES-038` [dated source/live entry audit](../reviews/ramp-due-window-audit-2026-10-13.md) finds a working library/card/guide route but an actionable stop-order failure on both the compact card and direct guide quick start. `IMPROVE` only those existing owner blocks in a separately registered generator-aware build: place the bounded adult check before the card kid mission and before guide release step3, retaining no-cut default, rescue, source limits, untested label, URLs and optional video. No new page, broad card redesign, family-safety outcome or SEO attribution. October18 weekly synthesis remains due.
+
 ## October 11 Afternoon Chooser Handoff
 
 `KAL-RES-037` [dated source/live task](../reviews/card-game-chooser-entry-audit-2026-10-11.md) finds a readable Concentration fragment but a critical bypass of the chooser's sole adult stop, plus offscreen mobile pace/contact. `IMPROVE` only the existing five-game chooser in a separately registered build with stop-before-step and contact-cue acceptance; preserve source/editorial boundaries and all five owners. No individual game/age, Snap/Slapjack, product or affiliate URL, no inferred demand or family outcome. RampOctober13 and weeklyOctober18 remain. The October11 GSC chooser6/0 is overlapping/query-thin sensing, not a defect measure.

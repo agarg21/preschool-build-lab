@@ -1,6 +1,10 @@
 # Priority Page Status
 
-Last updated: 2026-10-10
+Last updated: 2026-10-13
+
+## October 13 Ramp Due-Window Audit - Existing-Owner Repair Brief
+
+`KAL-RES-038` [dated live/source audit](../reviews/ramp-due-window-audit-2026-10-13.md) keeps the library/card/guide identity, default, rescue, source and untested boundaries. Desktop/390/320 route and no-overflow checks work, but the compact card's stop follows kid mission and guide quick-start stop follows release step3. Under October11's before-action rule, card-only proxy19/22 over11 applicable has a critical trust/order override (historical20/22 used prior rubric). Root32px live-HTML fixture fits 390/320 but is not browser zoom. Narrow existing-card/guide order repair is next in a separately registered transaction, not a new URL or observed family/SEO outcome. October18 weekly synthesis retained.
 
 ## October 10 Afternoon Paper Bridge Card Repair - Released
 
