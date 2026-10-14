@@ -9,7 +9,7 @@
       "id": "KAL-IMP-030",
       "title": "Repair age-four Shadow before-action light boundary and rescue role",
       "kind": "existing-page-improvement",
-      "status": "active",
+      "status": "completed",
       "registered_on": "2026-10-14",
       "base_commit": "d28d113c6aecd8e551e1b48dffe6e5709684e614",
       "exact_paths": ["scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/ages/stem-activities-for-4-year-olds.html", "site/collections/original-stem-activities-for-4-year-olds.html", "site/sitemap.xml", "tools/shadow-first-start.test.mjs", "tools/age4-bridge-hub-consistency.test.mjs", "reviews/shadow-before-action-repair-2026-10-14.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,10 +24,17 @@
       "observation_window": "Reviewed October14 Shadow route failure qualifies this existing-owner repair independently of query-thin GSC; Ramp/Bridge/chooser pages remain untouched. Weekly synthesis October18 protected.",
       "reconsider_conditions": "Stop on source contradiction, unexpected generated files, task failure, remote divergence, persistent P0-P2 independent finding or production regression; do not infer physical/family effect from a passing proxy.",
       "artifact": "reviews/shadow-before-action-repair-2026-10-14.md",
-      "next_step": "After cycle-two independent PASS, fresh fetch/no-divergence, inspect complete unpushed range, stage only reviewed exact15 paths, scan claims/secrets, push main, verify exact-SHA Pages/live bytes/task and final alignment.",
-      "result": "Local hub/pack Shadow cue precedes child action, adult light rescue is coherent, and page-local 320/root32 H1 fit clears document overflow. Same-task editorial proxy 18/26 to 24/26 across all13; technical critical override clears locally, not a family/physical outcome.",
+      "next_step": "At next eligible heartbeat validate fresh sensing and select one registered useful action under priority order; weekly synthesis due October18. Do not infer family/physical/SEO effect from this release.",
+      "result": "Released hub/pack Shadow cues precede child action, adult light rescue requires a restored stable wall beam or ends, and narrow-only 320/root32 H1 cap clears document overflow. Same-task editorial proxy 18/26 to 24/26 across all13; technical critical override clears in local and live tasks, not a family/physical outcome.",
       "qa_summary": "Corrected three generators twice with identical site diff f7e524d; only existing hub, pack and sitemap site files changed. Focused/full native129, GSC88, 71HTML/748 links/74 fragments, roadmap JSON/whitespace pass. Headless desktop/390/320 normal/root32 linked Enter/click/Back/direct hash, width, screenshot and sampled page errors pass; root32 fixture is not universal browser zoom.",
-      "review": "Ptolemy independent read-only cycle one FAIL/P2 (rescue needed adult relight before shadow move) and P3 (unscoped H1 cap changed desktop); both corrected. Cycle two PASS/no P0-P3 on exact15 diff; independently checked native129, JSON, whitespace, links/fragments, sitemap, 162 Markdown refs, secret/private scan; not writing generators/browser/GSC."
+      "review": "Ptolemy independent read-only cycle one FAIL/P2 (rescue needed adult relight before shadow move) and P3 (unscoped H1 cap changed desktop); both corrected. Cycle two PASS/no P0-P3 on exact15 diff; independently checked native129, JSON, whitespace, links/fragments, sitemap, 162 Markdown refs, secret/private scan; not writing generators/browser/GSC.",
+      "release": {
+        "state": "released",
+        "site_changed": true,
+        "commit": "0871786f9a062d3a643188b36a567b682c9c6585",
+        "pages_run": "https://github.com/agarg21/preschool-build-lab/actions/runs/38605285574",
+        "verification": "Exact-SHA Pages success; no release marker exists. Live age hub, original pack and sitemap HTTP200 byte-match local; production 1280/390/320 normal and 320/root32 canonical/H1/linked task plus 320/root32 direct hash/shared-check/Back pass with no sampled page errors. Local/origin aligned immediately after reviewed push; factual docs closeout alignment pending."
+      }
     },
     {
       "id": "KAL-RES-039",
