@@ -1,0 +1,41 @@
+# Shadow Before-Action Repair
+
+`KAL-IMP-030`, October 14, 2026 afternoon. Base `d28d113c6aecd8e551e1b48dffe6e5709684e614`. This applies the separately reviewed [morning first-choice audit](shadow-first-choice-audit-2026-10-14.md) to two existing Shadow execution surfaces. No new URL or keyword qualification.
+
+## Frozen Task And Evidence
+
+`RESEARCH_HYPOTHESIS` caregiver: one four-year-old wants a dry indoor science start with a flashlight, one checked large opaque object and clear wall, no water or cutting. Required outputs are fit, materials, adult-controlled wall-only/no-face light, one near-wall/near-light shadow-size comparison, a rescue if the light becomes the toy, and stop/cleanup without another broad search. Younger-child reach and 320px/32px-root text are secondary stresses. Technical success is a readable before-action cue and coherent route on both surfaces. This is not family testing.
+
+The morning audit rechecked October14 indexed publisher bodies for [Smithsonian Open Exploration](https://scienceinprek.si.edu/open-exploration-light-and-shadows), [Focused Exploration](https://scienceinprek.si.edu/node/202), and [Getting Ready](https://scienceinprek.si.edu/getting-ready-light-and-shadows). They are `SOURCE_BACKED` for classroom flashlight/object/wall and changing-shadow mechanism, not this exact home default or safety in practice; direct Open timed out and Focused returned a publisher help-desk block. The retained [September age-four decision pack](../seo/preschool-stem-rebalance-decision-pack-2026-09-05.md) supplies stable adult wall-only light, one large object, comparison and stop as `EDITORIAL_JUDGMENT`. General [AAP toy selection](https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx) and [choking prevention](https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Choking-Prevention.aspx) support label/condition/reach checks only. No source proves timing, comprehension, enjoyment, learning, physical safety or effectiveness in a family setting; all remain `UNKNOWN`.
+
+October14 public-safe GSC validated 88 snapshots, finalized-conservative through October12. Overlapping property rolling 491 impressions/11 clicks versus prior 504/12; age hub 6/0 versus 7/0 and pack 2/0 versus 4/0. These query-thin URL rows are `MEASURED` summaries, not Shadow-fragment use, demand or repair effect.
+
+## Implementation And Every-Section Review
+
+`scripts/generate_seo_pages.py` owns the age-four hub. Its Shadow-only override now puts a short adult wall/no-face/switch-off cue directly below the H2, ahead of tags/materials/steps; steps assign light placement to the adult and the child moves one checked large object. The later parent check keeps the toy-light rescue, stop and collection. The common renderer emits the cue only when present; all other generated SEO files remain byte-unchanged. A narrow-only 66px heading cap preserves the hub H1's full words at 320px/32px-root text; measured 1280px normal H1 remains 62.4px. The hand-maintained pack adds the same early cue, changes setup to one checked large object suitable for reachable children, keeps adult light still, and replaces its child-aiming rescue with switch-off/park. After an independent P2 finding, **resuming a shadow move now requires an adult to relight and restore a steady wall-pointed beam; otherwise the activity ends**. The optional parent prompt no longer implies child light handling. The pack Shadow fragment alone gets a 6rem scroll offset; other pack sections keep their prior offset. Existing H1/canonical/URLs, source/untested labels and all other activities remain.
+
+| Visible block | Task value and evidence | Verdict |
+|---|---|
+| Hub hero, pack CTA, chooser/table | Existing age-four selection and untested disclosure; Shadow dry/watch route | Keep; page-local H1 text fit only. |
+| Hub nine cards | Multiple activity starts, only Shadow fails morning before-action rule | Repair Shadow override only; other eight byte-identical. |
+| Hub search/safety/related | General context cannot replace a local light cue | Keep unchanged. |
+| Pack hero, five-choice nav, shared before-start | Evidence limits, skip and younger reach | Keep; local cue makes linked arrival actionable without this detour. |
+| Pack Ramp, Bridge, Tower, Boat | Other activity jobs not requalified here | Keep unchanged. |
+| Pack Shadow heading, primer, setup and steps | Stable adult light and moving-object comparison | Put short wall/no-face/stop cue at arrival; preserve mechanism and steps. |
+| Pack Shadow safety, rescue, variants and optional note | Stop/recovery and optional difficulty | Keep detailed box; reconcile rescue with adult control and remove child-light implication. |
+| Pack source/limits/back link | Honest untested/scope boundary and navigation | Keep unchanged. |
+
+The compact cue does not assert universal safety. The adult must keep the beam on the wall and switch off when that direction fails; this is editorial precaution, not a tested outcome. The older generic `shadow-shape-match` card and broad preschool STEM page are outside this route and unchanged.
+
+## Same-Task Persona Proxy
+
+Same 13 applicable dimensions as `KAL-RES-039`; N/A none. `EDITORIAL_JUDGMENT` only. Before **18/26 with critical before-action override**. After: answerability2, age/ability2, materials/substitutions2 (one checked object plus pack alternatives), setup/duration/cleanup2 (stable light, unknown time, collection), adult involvement2, setting/space2, mixed-age/difficulty2, sensory/accessibility1 (watch/point option; no assistive-technology test), educational purpose2 (size comparison without outcome promise), safety/trust2 (local cue precedes action; practice unknown), mobile interaction2 (tested fit/arrival), detours/repetition1 (full detail still needs pack), decision without broad search2. **24/26 across 13; critical technical ordering override cleared in the tested route.** The proxy does not measure caregiver understanding or physical safety.
+
+## Local QA And Measurement Boundary
+
+- After cycle-one corrections, three generators twice gave identical site diff SHA-256 `f7e524db74d2eb34272f811c3fa19b65ada9e482f3f1b780af00e2bc4c7e315b`. Generated changes only age hub/sitemap, plus hand-edited pack. Older Bridge hub date test was updated for both existing October14 lastmods after its hard-coded October9 expectation caused the first native run's sole failure.
+- Final native `node --test tools/*.test.mjs`: 129/129. GSC existing snapshot validation: 88. All 71 local HTML files: 748 local links, 74 fragments, zero missing. Roadmap JSON parses and `git diff --check` passes.
+- Headless Chromium local route, 1280/390/320 at normal and 32px root text: hub cue precedes steps, linked keyboard Enter and Back, pack direct hash, no document overflow after hub H1 cap, no sampled page errors. At 320/32px-root, pack sticky header ends y143, linked/direct Shadow H2 begins y309, early cue y458-714 of 844, and the next intro begins y746. At normal 320, header ends y93, H2 starts y147 and cue y193-269. Screenshots visually checked for enlarged hub H1 and pack arrival. Root font injection with re-anchoring is a technical stress fixture, not universal browser zoom, real touch or screen-reader validation.
+- Independent cycle one **FAIL/P2**: switch-off/park was followed by a promised object move without relighting the only beam. The rescue now explicitly requires an adult relight/reset or ends, and the focused contract checks this sequence. Cycle-one P3 found that an unscoped H1 cap changed desktop sizing despite the documentation claim; the cap is now narrow-only and headless 1280px normal H1 remains 62.4px. Ptolemy independent read-only cycle two **PASS/no P0-P3** on the corrected exact15 diff; it reran native129, JSON, whitespace, 71HTML/748 links/74 fragments, 66 sitemap URLs, 162 Markdown refs and secret/scope checks. It did not run writing generators/browser/GSC. Exact-SHA Pages and production bytes/task remain required before completion.
+
+Reconsider on current source contradiction, P0-P2 independent finding, new overflow/handoff failure, unexpected generator scope, remote divergence or deployed byte/task mismatch. No indexing, product or paid action.

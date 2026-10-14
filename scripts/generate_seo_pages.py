@@ -825,6 +825,7 @@ PAGES = [
     },
     {
         "path": "ages/stem-activities-for-4-year-olds.html",
+        "head_style": "@media (max-width: 390px) { .hero h1 { font-size: min(2.6rem, 66px); } }",
         "page_type": "age",
         "primary": "stem activities for 4 year olds",
         "title": "STEM Activities for 4 Year Olds at Home | Kid Activity Lab",
@@ -881,6 +882,10 @@ PAGES = [
                 "url": "../collections/original-stem-activities-for-4-year-olds.html#shadow-builder",
                 "link_text": "Open in original test pack",
                 "best_for": "light, shapes, changing shadows",
+                "start_cue": "Keep light on wall, not faces. Switch off if beam leaves wall.",
+                "materials": "flashlight, one checked large opaque block, clear wall",
+                "steps": ["Adult lights the wall.", "Child picks the checked block.", "Move it near the wall; look.", "Move it nearer the light; compare."],
+                "parent": "Keep the light still and supervise. If it becomes the toy, switch it off and park it. Resume only if an adult can relight it and keep it steady on the wall; the child moves the block or watches the adult move it. Otherwise end and collect the materials.",
             },
             "wind-tower-test": {
                 "title": "Windproof Tower",
@@ -1409,9 +1414,13 @@ def activity_card(activity):
     if activity["url"]:
         link_text = activity.get("link_text", "Open card")
         link = f'<a class="small-link" href="{esc(activity["url"])}">{esc(link_text)}</a>'
+    start_cue = (
+        f'\n            <p class="activity-start-cue"><strong>Adult check:</strong> {esc(activity["start_cue"])}</p>'
+        if activity.get("start_cue") else ""
+    )
     return f'''        <article class="seo-activity">
           <div>
-            <h2>{esc(activity["title"])}</h2>
+            <h2>{esc(activity["title"])}</h2>{start_cue}
             <p>{esc(activity["best_for"])}</p>
             <div class="source-tags">
               <span class="tag">{esc(activity["ages"])} years</span>
@@ -2868,6 +2877,7 @@ def page_html(page):
     )
     related = "".join(f"<li>{esc(query)}</li>" for query in page["related"])
     canonical = f"{BASE_URL}/{page['path']}"
+    head_style = f'\n    <style>{page["head_style"]}</style>' if page.get("head_style") else ""
     return f'''<!doctype html>
 <html lang="en">
   <head>
@@ -2876,7 +2886,7 @@ def page_html(page):
     <title>{esc(page["title"])}</title>
     <meta name="description" content="{esc(page["description"])}">
     <link rel="canonical" href="{esc(canonical)}">
-    <link rel="stylesheet" href="{root}styles.css?v={CSS_VERSION}">
+    <link rel="stylesheet" href="{root}styles.css?v={CSS_VERSION}">{head_style}
   </head>
   <body>
     <header class="site-header">

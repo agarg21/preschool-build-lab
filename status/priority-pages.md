@@ -2,6 +2,10 @@
 
 Last updated: 2026-10-14
 
+## October 14 Afternoon Shadow Repair - Local QA
+
+`KAL-IMP-030` [bounded implementation/every-section record](../reviews/shadow-before-action-repair-2026-10-14.md) applies the reviewed morning brief to the existing age-four hub and original pack. The adult wall/no-face/switch-off cue now precedes action on both surfaces, with one checked opaque object and an adult-controlled light rescue. Ptolemy cycle-one P2 required adult relight before a resumed shadow move; corrected cycle-two independent read-only **PASS/no P0-P3**. Same-task editorial proxy18/26->24/26/all13 with critical technical order cleared locally. Normal and root32px 1280/390/320 linked/direct/keyboard/Back tasks pass; 320/root32 pack cue ends y714/844, no page overflow after narrow-only hub H1 cap. Only the two HTML owners and sitemap change; 129 native, 88 GSC snapshots, 748 local links/74 fragments and twice-idempotent generator output pass. Exact-SHA Pages/live verification pending; no human/physical/SEO outcome claim. Weekly October18 remains due.
+
 ## October 14 Shadow First-Choice Route - Existing-Owner Brief
 
 `KAL-RES-039` [dated source/live audit](../reviews/shadow-first-choice-audit-2026-10-14.md) tests the age-four hub Shadow summary and linked pack Shadow block. Live HTML byte-matches local. The compact "Shine the light" step and pack kid steps both precede their local explicit no-face warning; shared fit and deep link do not clear the October11 before-action rule. Whole-route proxy18/26 over13 dimensions, critical override, no prior identical Shadow score. Desktop/390/320 normal links and width pass; genuine enlarged text remains unverified. Separately register a narrow existing-owner source/role/order repair before claiming technical closure. No site bytes changed by this audit; no family/physical/SEO outcome inferred. Weekly synthesis October18 remains due.

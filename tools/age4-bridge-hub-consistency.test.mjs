@@ -36,8 +36,10 @@ test("rendered hub table and runnable card agree with the maintained pack", () =
   assert.match(hub, /rel="canonical" href="https:\/\/kidactivitylab\.com\/ages\/stem-activities-for-4-year-olds\.html"/);
 });
 
-test("sitemap advances only the existing age-four hub URL", () => {
+test("sitemap keeps the updated existing age-four hub and pack URLs", () => {
   const sitemap = fs.readFileSync("site/sitemap.xml", "utf8");
-  assert.match(sitemap, /<loc>https:\/\/kidactivitylab\.com\/ages\/stem-activities-for-4-year-olds\.html<\/loc>\s*<lastmod>2026-10-09<\/lastmod>/);
+  assert.match(sitemap, /<loc>https:\/\/kidactivitylab\.com\/ages\/stem-activities-for-4-year-olds\.html<\/loc>\s*<lastmod>2026-10-14<\/lastmod>/);
   assert.equal(sitemap.split("<loc>https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html</loc>").length - 1, 1);
+  assert.match(sitemap, /<loc>https:\/\/kidactivitylab\.com\/collections\/original-stem-activities-for-4-year-olds\.html<\/loc>\s*<lastmod>2026-10-14<\/lastmod>/);
+  assert.equal(sitemap.split("<loc>https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html</loc>").length - 1, 1);
 });
