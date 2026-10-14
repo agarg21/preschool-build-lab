@@ -9,7 +9,7 @@
       "id": "KAL-RES-039",
       "title": "Audit the age-four STEM Shadow first-choice route after pack repairs",
       "kind": "existing-flow-persona-audit",
-      "status": "active",
+      "status": "completed",
       "registered_on": "2026-10-14",
       "base_commit": "fc65e07",
       "exact_paths": ["reviews/shadow-first-choice-audit-2026-10-14.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,7 +24,11 @@
       "observation_window": "Ramp/Bridge/chooser released pages are not modified; this is an unrelated Shadow flow audit. Weekly synthesis due October18.",
       "reconsider_conditions": "Stop on source contradiction, live ownership mismatch, exact-scope breach, divergence or P0-P2 review finding; promote any supported edit only in a separately registered transaction.",
       "artifact": "reviews/shadow-first-choice-audit-2026-10-14.md",
-      "next_step": "October14 audit IMPROVE two existing Shadow blocks separately, 18/26 across 13 with critical before-action failure. Native127/GSC87/JSON/refs/scope pass and Hilbert independent read-only PASS; fresh-fetch/exact-stage/secret checks and docs-only release remain. Genuine enlarged text unverified; weekly synthesis October18."
+      "next_step": "At the next eligible transaction, register a separate existing-owner Shadow hub/pack before-action and rescue-role repair; verify genuine enlarged text and preserve October18 weekly synthesis. Do not infer family or SEO effects.",
+      "result": "October14 current indexed Smithsonian source and live byte-matched age-hub-to-pack Shadow task show both executable surfaces put explicit no-face light control after steps. Existing-owner IMPROVE in a separate build; whole-route editorial 18/26 over all 13 with critical before-action override. No site change or new URL.",
+      "qa_summary": "Native127/127; public-safe GSC87 validated; roadmap JSON/91 unique IDs; staged whitespace; 184 local Markdown references; exact nine paths, no unstaged change and added-line secret/private/unsafe-claim scan pass. Desktop/390/320 normal live task, click/Enter/Back/direct fragment, width and sampled browser errors checked; genuine enlarged text unverified.",
+      "review": "Hilbert independent read-only PASS/no P0-P3 on final research diff; checked source limits, 18/26 arithmetic and critical order, GSC owner rows, production bytes and 320 arrival, GSC87, JSON/IDs, scope, whitespace, 184 links and privacy. Did not rerun native127/full browser matrix or human/physical tests.",
+      "release": {"state": "released", "site_changed": false, "commit": "19227e98082d51862c3e6a907a00b3da35b4a966", "verification": "Docs-only reviewed main push after fresh 0/0 fetch and exact staging; origin/main matched commit with local 0/0 immediately after push. No Pages wait applicable. Factual same-path closeout pending final push/alignment."}
     },
     {
       "id": "KAL-IMP-029",
