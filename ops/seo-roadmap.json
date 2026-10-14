@@ -6,6 +6,27 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-039",
+      "title": "Audit the age-four STEM Shadow first-choice route after pack repairs",
+      "kind": "existing-flow-persona-audit",
+      "status": "active",
+      "registered_on": "2026-10-14",
+      "base_commit": "fc65e07",
+      "exact_paths": ["reviews/shadow-first-choice-audit-2026-10-14.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-14",
+      "evidence_class": "Current primary Shadow publisher and retained September decision pack SOURCE_BACKED within scope; live DOM/bytes and public-safe GSC MEASURED technically; caregiver task RESEARCH_HYPOTHESIS; fit/priority score EDITORIAL_JUDGMENT; family, physical and SEO outcomes UNKNOWN.",
+      "user_problem": "A caregiver needs to choose and start one dry age-four science activity without losing the adult light boundary or first move across the age hub and maintained Shadow owner.",
+      "hypothesis": "The post-repair age-four STEM Shadow route supplies a coherent, readable before-action default, boundary, rescue and exit at desktop/mobile/enlarged text without another broad search.",
+      "acceptance": "Inspect current source and retained owner, live age hub and Shadow destination every section, compare exact material/adult/first-move/stop/rescue/cleanup outputs at desktop/390/320 and enlarged text; score applicable 13 dimensions with critical override and return PRESERVE/IMPROVE/DEFER with exact unresolved gates. No site change in this transaction.",
+      "qa_plan": "Validate new GSC versus prior/roadmap with finalization and missing-query limits; run native tests, jq roadmap JSON, git diff --check, Markdown references, source/privacy/exact-nine scope checks; obtain different independent read-only PASS/PASS_WITH_P3 before docs-only release.",
+      "measurement_plan": "Technical route/geometry and editorial persona proxy only; no actual parent/child play, comprehension, physical safety, satisfaction or causal SEO inference.",
+      "production_invariants": "Site bytes, URLs, canonical, H1, sitemap, source data, generators, workflows and Control Room unchanged; no indexing request, product, paid call, unsupported safety/outcome claim or new page. Weekly October18 protected.",
+      "observation_window": "Ramp/Bridge/chooser released pages are not modified; this is an unrelated Shadow flow audit. Weekly synthesis due October18.",
+      "reconsider_conditions": "Stop on source contradiction, live ownership mismatch, exact-scope breach, divergence or P0-P2 review finding; promote any supported edit only in a separately registered transaction.",
+      "artifact": "reviews/shadow-first-choice-audit-2026-10-14.md",
+      "next_step": "October14 audit IMPROVE two existing Shadow blocks separately, 18/26 across 13 with critical before-action failure. Native127/GSC87/JSON/refs/scope pass and Hilbert independent read-only PASS; fresh-fetch/exact-stage/secret checks and docs-only release remain. Genuine enlarged text unverified; weekly synthesis October18."
+    },
+    {
       "id": "KAL-IMP-029",
       "title": "Repair Ramp compact-card and guide stop-before-first-child-step order",
       "kind": "existing-page-improvement",

@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 14 Shadow Before-Action Repair Brief
+
+`KAL-RES-039` [current source/live Shadow route audit](../reviews/shadow-first-choice-audit-2026-10-14.md) finds an existing-page first-start failure: age hub and linked original-pack Shadow each put the explicit no-face light boundary after executable steps. `IMPROVE` only the generator-owned age-four hub Shadow summary and pack Shadow block in a **separately registered** site transaction. Align adult stationary wall-only light, one checked opaque object, move-object comparison, flashlight-toy rescue, sibling fit and stop/cleanup before action without an untested-safety claim; verify normal/enlarged text and full route. Preserve broad preschool owner, standalone card, other pack activities, URLs and October18 weekly due date. No new Shadow URL, keyword requalification, paid call or indexing.
+
 ## October 13 Ramp Before-Action Repair Brief
 
 `KAL-RES-038` [dated source/live entry audit](../reviews/ramp-due-window-audit-2026-10-13.md) finds a working library/card/guide route but an actionable stop-order failure on both the compact card and direct guide quick start. `IMPROVE` only those existing owner blocks in a separately registered generator-aware build: place the bounded adult check before the card kid mission and before guide release step3, retaining no-cut default, rescue, source limits, untested label, URLs and optional video. No new page, broad card redesign, family-safety outcome or SEO attribution. October18 weekly synthesis remains due.

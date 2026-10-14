@@ -1,6 +1,10 @@
 # Priority Page Status
 
-Last updated: 2026-10-13
+Last updated: 2026-10-14
+
+## October 14 Shadow First-Choice Route - Existing-Owner Brief
+
+`KAL-RES-039` [dated source/live audit](../reviews/shadow-first-choice-audit-2026-10-14.md) tests the age-four hub Shadow summary and linked pack Shadow block. Live HTML byte-matches local. The compact "Shine the light" step and pack kid steps both precede their local explicit no-face warning; shared fit and deep link do not clear the October11 before-action rule. Whole-route proxy18/26 over13 dimensions, critical override, no prior identical Shadow score. Desktop/390/320 normal links and width pass; genuine enlarged text remains unverified. Separately register a narrow existing-owner source/role/order repair before claiming technical closure. No site bytes changed by this audit; no family/physical/SEO outcome inferred. Weekly synthesis October18 remains due.
 
 ## October 13 Ramp Due-Window Audit - Existing-Owner Repair Brief
 
