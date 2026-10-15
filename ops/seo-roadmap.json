@@ -6,6 +6,27 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-031",
+      "title": "Move Paper Chain adult stop and younger-reach decision before child steps",
+      "kind": "existing-page-improvement",
+      "status": "active",
+      "registered_on": "2026-10-15",
+      "base_commit": "1aca7a957bb6a4c4b10bb09349a4dd3e2c89e763",
+      "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "site/cards/paper-chain-test.html", "site/sitemap.xml", "tools/paper-chain.test.mjs", "reviews/paper-chain-before-action-repair-2026-10-15.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-15",
+      "evidence_class": "KAL-RES-040 live card/library DOM and geometry MEASURED technically; WTTW mechanism and AAP general younger-reach guidance SOURCE_BACKED within limits; frozen caregiver task RESEARCH_HYPOTHESIS; stop placement and score EDITORIAL_JUDGMENT; family/physical/SEO outcomes UNKNOWN.",
+      "user_problem": "The existing Paper Chain card gives four child steps before its table/no-wearing/mouth/body-pull stop, leaving a caregiver with a younger reaching child a late decision cue.",
+      "hypothesis": "Placing the existing bounded adult table/reach/stop decision before the first child step will clear the same-task critical before-action order without changing the linked-loop mechanism or claiming safety in practice.",
+      "acceptance": "Keep URL/canonical/H1, adult-prepared strips/scissors-away, thread-then-close steps, diagram/alt, rescue/challenge/source, untested disclosure and return routes. Show concise table/no-wearing/mouth/body-pull/younger-reach and stop/postpone before action; same 13-dimension caregiver task with critical override at desktop/390/320 plus enlarged text, keyboard/click/Back, image/error/fit/accessibility checks. No new page or mess/engagement guarantee.",
+      "qa_plan": "Validate October15 GSC against prior; run all three generators twice/idempotence/exact output, local links/fragments, focused/full native tests, roadmap JSON, whitespace, changed-data parse and source/privacy/scope scan; independent different read-only PASS/PASS_WITH_P3 at most three cycles; fresh fetch/no divergence, exact reviewed stage/push, exact-SHA Pages/live bytes/task/alignment.",
+      "measurement_plan": "Compare RES040's same-task editorial 14/26 all13 and critical order separately; report technical route/geometry only. Do not infer family safety, comprehension, time, enjoyment, measured mess or causal SEO. URL-level GSC query-thin sensing is context only.",
+      "production_invariants": "Existing Paper Chain card URL and canonical, linked-loop source sequence, adult prep, research-backed/not-family-tested label, diagram/alt, optional one-sheet rules, rescue, cleanup, source links and library/engineering routes. Other site/data/workflow/automation/Control Room paths unchanged; weekly synthesis October18 and unrelated observation windows protected.",
+      "observation_window": "RES040's verified existing-card critical order failure qualifies this bounded repair; library discovery and recent Shadow/Ramp/chooser releases remain separate/protected.",
+      "reconsider_conditions": "Stop on source contradiction, unexpected generated output, mobile/enlarged/keyboard or image-failure task regression, persistent independent P0-P2, remote divergence or production mismatch; no human/physical inference from proxy pass.",
+      "artifact": "reviews/paper-chain-before-action-repair-2026-10-15.md",
+      "next_step": "Local same-task proxy 14/26 to 18/26 and critical order clear; generators twice/idempotent, native130, GSC89, links/fragments, XML/JSON and browser route pass. Ptolemy independent read-only cycle-one PASS/no P0-P3 on exact13. Confirm final factual diff, then fresh-fetch/stage/push; verify exact-SHA Pages, live bytes/task and alignment."
+    },
+    {
       "id": "KAL-RES-040",
       "title": "Audit quiet low-mess preschool choice from the existing activity library",
       "kind": "research-existing-flow",

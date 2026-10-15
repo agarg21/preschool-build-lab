@@ -4,6 +4,15 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-15 Afternoon - KAL-IMP-031 Paper Chain Before-Action Repair
+
+- **Decision/persona:** [Same-task implementation review](../reviews/paper-chain-before-action-repair-2026-10-15.md) applies the morning existing-card `IMPROVE` decision. The `RESEARCH_HYPOTHESIS` caregiver has a four-year-old, paper/tape, a small carpet-adjacent table, no paint/printer, and needs a linked-loop start/rescue/cleanup; younger-child reach and divided adult attention are stress constraints, not observed family use.
+- **Hypothesis/result:** An early table/reach/no-wearing/mouth/body-pull stop and conditional sibling role would clear the morning critical after-steps override without changing the mechanism. Local generator/card order and 1280/390/320 headless tasks now place the cue before materials/setup/steps; all13 applicable editorial proxy **14/26 -> 18/26**, N/A none, critical order cleared technically. The 36-link library discovery cost remains.
+- **Sources/classes:** October15 WTTW linked-loop/assistance and AAP general younger-reach guidance `SOURCE_BACKED` within limits; retained October7 challenge-source checks; generated DOM/browser/QA and finalized-conservative GSC89 `MEASURED` technically; cue and proxy `EDITORIAL_JUDGMENT`. Duration, engagement, measured mess, learning, physical safety, comprehension and SEO effect `UNKNOWN`.
+- **Confidence/lesson:** High for local DOM order/idempotence, moderate for editorial decision support, none for human or physical outcomes. A recovery role for a sibling should not override the earlier reach/attention decision; make the put-away option explicit.
+- **Next falsification trigger:** Independent P0-P2, source contradiction, true zoom/assistive-tech or live task failure, unexpected generated output, exact-SHA Pages/byte mismatch, or a later caregiver task that still starts before seeing the stop. Library discovery needs a separate qualified transaction; weekly synthesis remains due October18.
+- **Measurement boundary:** Injected 32px root text remains scroll-heavy at320 but has no measured overflow; it is not universal browser zoom/touch/screen reader. No family or physical trial. October15 GSC finalized throughOctober13 rolling495/7 versus overlapping491/11; library3/0 both and Paper Chain omitted from summarized rows, not zero. No full queries, route-use or causal effect conclusion. Native130/130 and local structural/browser QA pass; independent review and release evidence recorded in operator review.
+
 ## 2026-10-15 Morning - KAL-RES-040 Quiet-Craft Library Route
 
 - **Decision/persona:** [Dated route audit](../reviews/quiet-craft-library-route-2026-10-15.md) returns **IMPROVE existing Paper Chain stop order first**, with library discovery requiring a separate test; no new URL. Retained October3 public questions support a `RESEARCH_HYPOTHESIS` four-year-old/small-table/dry-material task, with a younger child reaching materials as secondary stress.

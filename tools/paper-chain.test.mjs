@@ -7,7 +7,9 @@ const html = fs.readFileSync("site/cards/paper-chain-test.html", "utf8");
 test("paper chain upgrades its existing canonical without a sibling", () => {
   assert.equal([...html.matchAll(/<h1>/g)].length, 1);
   assert.match(html, /rel="canonical" href="https:\/\/kidactivitylab.com\/cards\/paper-chain-test.html"/);
-  assert.equal(fs.readFileSync("site/sitemap.xml", "utf8").split("/cards/paper-chain-test.html").length - 1, 1);
+  const sitemap = fs.readFileSync("site/sitemap.xml", "utf8");
+  assert.equal(sitemap.split("/cards/paper-chain-test.html").length - 1, 1);
+  assert.match(sitemap, /<loc>https:\/\/kidactivitylab.com\/cards\/paper-chain-test.html<\/loc>\s*<lastmod>2026-10-15<\/lastmod>/);
   assert.ok(!fs.existsSync("site/articles/paper-chain-test.html"));
 });
 
@@ -18,8 +20,21 @@ test("paper chain explains thread before closure without relying on its image", 
 });
 
 test("paper chain retains bounded recovery and an honest fit boundary", () => {
-  for (const text of ["not family-tested", "not a tested best size", "put scissors away", "no wearing chains", "goes in a mouth", "original pieces", "Skip tape handling", "Gather all strips, tape and offcuts", "have not been measured", "outcomes remain unknown"]) assert.ok(html.includes(text), text);
+  for (const text of ["not family-tested", "not a tested best size", "put scissors away", "No wearing chains", "goes in a mouth", "original pieces", "Skip tape handling", "Gather all strips, tape and offcuts", "have not been measured", "outcomes remain unknown"]) assert.ok(html.includes(text), text);
   assert.doesNotMatch(html, /\b6 min\b|\blow mess\b|safe for (?:all|every)|guaranteed/i);
+});
+
+test("adult stop and younger-child reach decision precede setup and kid steps", () => {
+  const cue = html.indexOf("<strong>Before you start:</strong>");
+  const gather = html.indexOf("<strong>Gather:</strong>");
+  const setup = html.indexOf("<strong>Adult setup:</strong>");
+  const firstStep = html.indexOf("<li>Curl one strip.");
+  assert.ok(cue > 0 && cue < gather && gather < setup && setup < firstStep);
+  for (const text of ["younger child's reach", "cannot watch both children", "No wearing chains", "goes in a mouth", "pulled around a body", "play becomes unwanted"]) {
+    assert.ok(html.slice(cue, firstStep).includes(text), text);
+  }
+  assert.match(html, /For a sibling, offer choosing or watching only if loose pieces stay out of reach/);
+  assert.match(html, /AAP guidance<\/a> supports checking younger children&#x27;s reach|AAP guidance<\/a> supports checking younger children's reach/);
 });
 
 test("optional one-sheet rules follow the runnable answer", () => {

@@ -414,6 +414,7 @@ def paper_chain_page():
       <h1>Make a paper chain</h1>
       <p>Turn two strips into linked loops. Then decide: add another, compare, or stop.</p>
       <p class="boundary">Research-backed; not family-tested by Kid Activity Lab.</p>
+      <p><strong>Before you start:</strong> Keep paper, tape and chain on the table, out of a younger child's reach. Stay beside your child; put the materials away if you cannot watch both children. No wearing chains or hanging them across a walkway. Stop if paper or tape goes in a mouth, the chain is pulled around a body, or play becomes unwanted or hard to control.</p>
       <p><strong>Gather:</strong> ordinary paper, tape and scissors for the adult. Use a clear tabletop, with room to lay the chain down.</p>
       <p><strong>Adult setup:</strong> cut strips roughly 15 cm long and 2 cm wide (about 6 by 3/4 inches). This is our starting suggestion, not a tested best size. Check that a strip curls and its ends overlap without forcing; adjust if needed. Prepare tape pieces and put scissors away.</p>
       <section class="start" id="start" aria-labelledby="start-title">
@@ -425,7 +426,6 @@ def paper_chain_page():
           <li>Repeat through the newest loop, or finish with two.</li>
         </ol>
         <p><strong>Say:</strong> "Can you put this strip through that loop?" Stay beside your child; hold the loop or handle the tape as needed. Choosing a strip or watching also counts as taking part.</p>
-        <p><strong>Keep it on the table:</strong> no wearing chains or hanging them across walkways. Stop if paper or tape goes in a mouth, the chain is pulled around a body, or play becomes unwanted or hard to control.</p>
         <nav class="jump" aria-label="Activity help"><a href="#rescue">Loops not joining?</a><a href="#challenge">Try one sheet</a></nav>
       </section>
       <figure>
@@ -436,7 +436,7 @@ def paper_chain_page():
         <h2 id="rescue-title">Loops not joining?</h2>
         <p><strong>Two separate circles?</strong> Use a fresh open strip, pass it through the last loop, then close it. Closing it first leaves nothing to thread.</p>
         <p><strong>Tape lifting or paper tearing?</strong> The adult can reattach the same joint. For a free build, replace torn paper or finish. In the one-sheet trial below, repair with the original pieces or end that attempt; no extra paper.</p>
-        <p><strong>Joining feels too fiddly?</strong> Let the adult hold and join while the child chooses, counts or watches. Skip tape handling if the feel bothers them. Offer the same roles to siblings; stop if everyone needs more help than you can give.</p>
+        <p><strong>Joining feels too fiddly?</strong> Let the adult hold and join while the child chooses, counts or watches. Skip tape handling if the feel bothers them. For a sibling, offer choosing or watching only if loose pieces stay out of reach and you can attend to both children; otherwise put the materials away and try later.</p>
         <p><strong>Finish:</strong> lay the chain down gently and notice which loop connects to which. Gather all strips, tape and offcuts. No timer is needed; setup, play time and cleanup effort have not been measured.</p>
       </section>
       <section id="challenge" aria-label="Optional one-sheet challenge">
@@ -452,7 +452,7 @@ def paper_chain_page():
         </details>
       </section>
       <details><summary>Sources and what we haven't tested</summary>
-        <p><a href="https://www.wttw.com/kids/learn-and-play/activities/social-emotional-development/paper-chain">WTTW's Paper Chain</a> supports the thread-then-close sequence and an untimed assisted option. <a href="https://littlebinsforlittlehands.com/paper-chain-stem-challenge/">Little Bins' paper-chain challenge</a> supplies the one-sheet comparison idea. <a href="https://teachersareterrific.com/2015/08/the-paper-chain-an-easy-prep-stem-challenge.html">Teachers are Terrific's challenge</a> illustrates why the meaning of "chain" needs explicit rules. Sources checked September 23, 2026.</p>
+        <p><a href="https://www.wttw.com/kids/learn-and-play/activities/social-emotional-development/paper-chain">WTTW's Paper Chain</a> supports the thread-then-close sequence and an untimed assisted option. <a href="https://littlebinsforlittlehands.com/paper-chain-stem-challenge/">Little Bins' paper-chain challenge</a> supplies the one-sheet comparison idea. <a href="https://teachersareterrific.com/2015/08/the-paper-chain-an-easy-prep-stem-challenge.html">Teachers are Terrific's challenge</a> illustrates why the meaning of "chain" needs explicit rules. <a href="https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Choking-Prevention.aspx">AAP guidance</a> supports checking younger children's reach to small objects in general, not a safety outcome for this setup. WTTW and AAP checked October 15, 2026; challenge sources rechecked October 7, 2026.</p>
         <p>Strip dimensions, roles, rescue suggestions, limits and comparison rules here are KAL editorial choices. We have not physically or family-tested this version. Age alone does not establish fit; dexterity, time, enjoyment, learning, mess and safety outcomes remain unknown.</p>
       </details>
       <p><a href="../cards.html">Choose another activity</a></p>
