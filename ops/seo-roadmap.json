@@ -9,7 +9,7 @@
       "id": "KAL-RES-040",
       "title": "Audit quiet low-mess preschool choice from the existing activity library",
       "kind": "research-existing-flow",
-      "status": "active",
+      "status": "completed",
       "registered_on": "2026-10-15",
       "base_commit": "d03d668d360cc8f046bfbddd39b60c73067608b5",
       "exact_paths": ["reviews/quiet-craft-library-route-2026-10-15.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,10 +24,16 @@
       "observation_window": "Shadow, Ramp and card chooser releases remain protected; this action audits a distinct existing library route.",
       "reconsider_conditions": "Change recommendation if current task reveals an owner-fit or critical trust failure; no new indexable page without separate search-demand/utility qualification and separate registered build.",
       "artifact": "reviews/quiet-craft-library-route-2026-10-15.md",
-      "next_step": "Independent read-only review of exact nine research/operator paths, then fresh release gate. A separately registered existing-card stop-order repair is the next eligible site action if review passes.",
+      "next_step": "At the next eligible heartbeat validate fresh sensing, then separately register a source/owner-aware existing Paper Chain pre-step stop repair unless a higher-priority defect/unfinished release or due October18 weekly synthesis takes precedence. Library discovery requires its own task gate.",
       "result": "IMPROVE the existing Paper Chain pre-step stop cue first; investigate library discovery separately. Live library has 36 unfiltered links, Paper Chain y4932/5018 mobile; full card stop follows four steps y979/1180 mobile. Editorial route proxy 14/26 across all13 with critical before-action override, not parent/physical outcome.",
       "qa_summary": "Native129, GSC88, roadmap JSON/93 unique IDs, whitespace and 194 local Markdown references pass. Live/local library and card bytes match; headless 1280/390/320 Enter/Back/width/errors, mobile screenshots and 390/320 injected root32px fit pass within stated limits. Exact nine research/operator paths; no site/CSV changes.",
-      "review": "Hilbert independent read-only cycle one PASS/no P0-P3 on complete nine-path diff; independently checked source/question limits, local step/stop and 36-link count, 14/26, GSC88/prior, JSON/refs/whitespace/privacy/scope. Cycle two final-diff PASS/no new P0-P3 after screenshot-mode provenance and evidence-class corrections. Headless geometry, live hashes and native tests remained operator-only."
+      "review": "Hilbert independent read-only cycle one PASS/no P0-P3 on complete nine-path diff; independently checked source/question limits, local step/stop and 36-link count, 14/26, GSC88/prior, JSON/refs/whitespace/privacy/scope. Cycle two final-diff PASS/no new P0-P3 after screenshot-mode provenance and evidence-class corrections. Headless geometry, live hashes and native tests remained operator-only.",
+      "release": {
+        "state": "released",
+        "site_changed": false,
+        "commit": "bdaf589377baf835ff0c2f935bc3aff2a463900e",
+        "verification": "Reviewed exact-nine docs-only push; fresh fetch/no divergence, complete unpushed range empty, exact staging/no unstaged and staged whitespace/privacy/unsafe-claim checks passed. Immediate local/origin 0/0; no Pages wait. Factual same-path closeout alignment pending."
+      }
     },
     {
       "id": "KAL-IMP-030",
