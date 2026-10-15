@@ -1,12 +1,14 @@
 # Operator Review
 
-## KAL-IMP-031 - October 15 Afternoon (Reviewed, Release Pending)
+## KAL-IMP-031 - October 15 Afternoon (Released)
 
 Registered exact13 paths after clean fetch/inspection and safe fast-forward of disjoint October15 public-safe GSC snapshot to `1aca7a9`. [Same-task Paper Chain review](../reviews/paper-chain-before-action-repair-2026-10-15.md) applies the morning critical stop-order finding to the existing generated card only; adult table/reach/no-wearing/mouth/body-pull and put-away attention decision now precede materials/setup/four steps. WTTW linked-loop mechanism and AAP general younger-reach guidance stay bounded; optional challenge, original image/alt, canonical/H1, untested disclosure and return routes remain. Editorial proxy14/26->18/26/all13, critical order clears technically, not physically. Library discovery remains separate. Three generators twice/identical target hashes, only target card and sitemap generated site diffs; native130, GSC89, sitemap66, 71HTML/748 links/74 fragments, JSON/XML/whitespace pass. Local headless1280/390/320 normal/root32 Enter/hash/two-Back, loaded/blocked diagram, no sampled errors/width overflow checked; 320/root32 cue is scroll-heavy and root injection is not universal zoom/touch/screen reader. No family/physical/SEO effect or indexing/paid/account action; weekly October18 protected.
 
 Ptolemy (`01a12f68-9a89-7552-af17-6c82db879f78`) independent read-only cycle one **PASS/no P0-P3** on complete 13-path diff including new review artifact. It independently reran focused7, exact13 scope, all13 arithmetic, roadmap JSON, whitespace, 71HTML/748 local links/74 fragments, sitemap66/target date, 176 Markdown references and changed-path secret/private-email scan. It did not rerun generators, full native suite, GSC validator or browser; those remain operator-only evidence. Fresh fetch, exact staging, Pages and live task remain release gates.
 
 Cycle-two final-diff read-only **PASS/no new P0-P2**: only four factual review-status records had changed; Ptolemy rechecked exact13 scope, roadmap JSON, whitespace and the new artifact's trailing whitespace. It did not rerun generators or browser. Release still pending.
+
+Fresh pre-release fetch 0/0 and complete unpushed range empty; exact13 staged/no unstaged and staged whitespace/credential/email/raw-query scan pass. Reviewed `327e0781f2e7a2dda04bdaa6310cfd3abc424ba8` pushed main with immediate local/origin0/0. Exact-SHA [Pages run 38775304201](https://github.com/agarg21/preschool-build-lab/actions/runs/38775304201) succeeded. No release marker exists; live Paper Chain card and sitemap HTTP200 SHA-256 byte-match local. Production 1280/390/320 normal plus 320/root32 library focus/Enter -> card -> rescue hash -> two Back, canonical/H1/untested, cue before steps, image/alt, source/return link, width and sampled errors pass. Root32 remains a proxy; no family/physical/causal SEO outcome. Factual docs-only closeout alignment follows.
 
 ## KAL-RES-040 - October 15 Morning (Released)
 

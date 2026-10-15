@@ -2,9 +2,9 @@
 
 Last updated: 2026-10-15
 
-## October 15 Afternoon Paper Chain Stop Order - Local QA
+## October 15 Afternoon Paper Chain Stop Order - Released
 
-`KAL-IMP-031` [same-task implementation review](../reviews/paper-chain-before-action-repair-2026-10-15.md) moves the existing card's table/reach/no-wearing/mouth/body-pull decision ahead of materials and all child steps, and conditions the sibling watch/choose rescue on adult attention. Linked-loop mechanism, original diagram/alt, untested disclosure, optional challenge, canonical/H1 and routes stay. Local proxy14/26->18/26 across all13, critical technical order clears; no family/physical/SEO outcome. Three generators twice/idempotent changed only target card/sitemap HTML/XML; native130, GSC89, local links/fragments and desktop/390/320 normal/root32 route/fit/image-blocked checks pass. The library discovery gap and 320/root32 scrolling remain; independent read-only review and exact-SHA release still required. October18 weekly synthesis due.
+`KAL-IMP-031` [same-task implementation review](../reviews/paper-chain-before-action-repair-2026-10-15.md) moves the existing card's table/reach/no-wearing/mouth/body-pull decision ahead of materials and all child steps, and conditions the sibling watch/choose rescue on adult attention. Linked-loop mechanism, original diagram/alt, untested disclosure, optional challenge, canonical/H1 and routes stay. Proxy14/26->18/26 across all13, critical technical order clears; no family/physical/SEO outcome. Three generators twice/idempotent changed only target card/sitemap HTML/XML; native130, GSC89, local links/fragments and desktop/390/320 normal/root32 route/fit/image-blocked checks pass. Ptolemy independent read-only PASS/no P0-P3; reviewed `327e078` reached exact-SHA successful [Pages 38775304201](https://github.com/agarg21/preschool-build-lab/actions/runs/38775304201). No marker; live card/sitemap bytes and production desktop/mobile/root32 task pass. Library discovery gap and 320/root32 scrolling remain; October18 weekly synthesis due.
 
 ## October 15 Quiet-Craft Library Route - Existing-Card Brief
 

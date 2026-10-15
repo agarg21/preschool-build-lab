@@ -9,7 +9,7 @@
       "id": "KAL-IMP-031",
       "title": "Move Paper Chain adult stop and younger-reach decision before child steps",
       "kind": "existing-page-improvement",
-      "status": "active",
+      "status": "completed",
       "registered_on": "2026-10-15",
       "base_commit": "1aca7a957bb6a4c4b10bb09349a4dd3e2c89e763",
       "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "site/cards/paper-chain-test.html", "site/sitemap.xml", "tools/paper-chain.test.mjs", "reviews/paper-chain-before-action-repair-2026-10-15.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,7 +24,17 @@
       "observation_window": "RES040's verified existing-card critical order failure qualifies this bounded repair; library discovery and recent Shadow/Ramp/chooser releases remain separate/protected.",
       "reconsider_conditions": "Stop on source contradiction, unexpected generated output, mobile/enlarged/keyboard or image-failure task regression, persistent independent P0-P2, remote divergence or production mismatch; no human/physical inference from proxy pass.",
       "artifact": "reviews/paper-chain-before-action-repair-2026-10-15.md",
-      "next_step": "Local same-task proxy 14/26 to 18/26 and critical order clear; generators twice/idempotent, native130, GSC89, links/fragments, XML/JSON and browser route pass. Ptolemy independent read-only cycle-one PASS/no P0-P3 on exact13. Confirm final factual diff, then fresh-fetch/stage/push; verify exact-SHA Pages, live bytes/task and alignment."
+      "next_step": "At the next eligible heartbeat validate fresh sensing and priority; separately qualify existing-library discovery only with a demonstrated task failure, or complete weekly synthesis due October18. Do not infer family/physical/SEO effect from this release.",
+      "result": "Existing Paper Chain cue now places tabletop, younger reach, divided-adult attention, no-wearing, mouth/body-pull and stop before materials/setup/four child steps; sibling rescue is conditional. Same-task editorial proxy 14/26 to 18/26 across13, critical order clears technically; library discovery and human/physical outcomes remain unresolved.",
+      "qa_summary": "Three generators twice/identical target card and sitemap hashes, only those two site outputs differ. Native130, GSC89, sitemap66, 71HTML/748 local links/74 fragments, roadmap JSON, XML, whitespace and exact13 scope pass. Local and live headless desktop/390/320 route, 320/root32 stress, keyboard Enter/rescue hash/two Back, image/alt, width and sampled errors pass; root32 is not universal zoom.",
+      "review": "Ptolemy independent read-only cycle-one PASS/no P0-P3 on full exact13 diff, independently checking focused7, scope/score/JSON/whitespace, links/fragments, sitemap/target date, 176 Markdown refs and secret/private-email scan. Cycle-two factual-status check PASS/no new P0-P2; it did not rerun generators/full suite/GSC/browser.",
+      "release": {
+        "state": "released",
+        "site_changed": true,
+        "commit": "327e0781f2e7a2dda04bdaa6310cfd3abc424ba8",
+        "pages_run": "https://github.com/agarg21/preschool-build-lab/actions/runs/38775304201",
+        "verification": "Exact-SHA Pages success, no release marker found; live Paper Chain card/sitemap HTTP200 SHA-256 byte-match local. Production 1280/390/320 normal and 320/root32 library-to-card Enter/rescue hash/two Back, canonical/H1/disclosure/stop order/image/alt/width/sample errors pass. Local/origin0/0 immediately after reviewed push; factual docs-only closeout alignment pending."
+      }
     },
     {
       "id": "KAL-RES-040",
