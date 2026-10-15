@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 15 Paper Chain Before-Action Brief
+
+`KAL-RES-040` [quiet-craft library route audit](../reviews/quiet-craft-library-route-2026-10-15.md) finds a source-grounded paper/tape linked-loop start but a critical existing-card stop-order failure for the younger-child-reach stress: no-wearing/mouth/body-pull control follows all four steps. **IMPROVE** only the existing Paper Chain owner first, in a separately registered generator-aware action with WTTW sequence and AAP general reach boundaries; no new craft/lacing URL or outcome claim. The library's 36-link unfiltered grid buries Paper Chain on mobile and lacks quiet/dry choice cues, but a broader discovery change needs its own task/owner evidence and does not authorize the user-gated nav taxonomy. October18 weekly synthesis and unrelated windows remain.
+
 ## October 14 Shadow Before-Action Repair Brief
 
 `KAL-RES-039` [current source/live Shadow route audit](../reviews/shadow-first-choice-audit-2026-10-14.md) finds an existing-page first-start failure: age hub and linked original-pack Shadow each put the explicit no-face light boundary after executable steps. `IMPROVE` only the generator-owned age-four hub Shadow summary and pack Shadow block in a **separately registered** site transaction. Align adult stationary wall-only light, one checked opaque object, move-object comparison, flashlight-toy rescue, sibling fit and stop/cleanup before action without an untested-safety claim; verify normal/enlarged text and full route. Preserve broad preschool owner, standalone card, other pack activities, URLs and October18 weekly due date. No new Shadow URL, keyword requalification, paid call or indexing.

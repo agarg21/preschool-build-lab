@@ -1,6 +1,10 @@
 # Priority Page Status
 
-Last updated: 2026-10-14
+Last updated: 2026-10-15
+
+## October 15 Quiet-Craft Library Route - Existing-Card Brief
+
+`KAL-RES-040` [dated source/live task](../reviews/quiet-craft-library-route-2026-10-15.md) tests the library -> Paper Chain choice/start for a small-table dry-material caregiver with younger-child reach stress. The library link works but is at y4932/5018 on 390/320 mobile in a 36-link unfiltered grid; the card's no-wearing/mouth/body-pull stop follows executable steps (y979/1180 mobile). All13 task dimensions apply; editorial proxy14/26 with a critical before-action override, no same-task baseline or human outcome. IMPROVE the existing card in a separate source/owner-aware repair before any broader library discovery task. No public edit, new URL, measured mess or SEO effect in this research action. Weekly October18 due.
 
 ## October 14 Afternoon Shadow Repair - Local QA
 

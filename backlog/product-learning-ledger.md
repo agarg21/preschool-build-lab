@@ -4,6 +4,15 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-15 Morning - KAL-RES-040 Quiet-Craft Library Route
+
+- **Decision/persona:** [Dated route audit](../reviews/quiet-craft-library-route-2026-10-15.md) returns **IMPROVE existing Paper Chain stop order first**, with library discovery requiring a separate test; no new URL. Retained October3 public questions support a `RESEARCH_HYPOTHESIS` four-year-old/small-table/dry-material task, with a younger child reaching materials as secondary stress.
+- **Hypothesis/result:** The current library and one individual activity might already permit a bounded choice/start. Paper Chain is present but at y4932/5018 mobile in a 36-link unfiltered grid; the live card gives prep and a working linked-loop mission, while its full no-wearing/mouth/body-pull stop follows all four executable steps (y979/1180 on 390/320). All13 task dimensions apply; `EDITORIAL_JUDGMENT` proxy **14/26 with critical before-action override**, no same-task baseline. A child might still play differently; this is not observed behavior.
+- **Sources/classes:** October15 WTTW instructions and AAP general younger-child reach guidance `SOURCE_BACKED` within their own limits; live byte-matched HTML, headless route/geometry, and GSC88 `MEASURED` technically; quiet-task fit and score `RESEARCH_HYPOTHESIS`/`EDITORIAL_JUDGMENT`; duration, mess, enjoyment, learning, physical safety and SEO effect `UNKNOWN`.
+- **Confidence/lesson:** High in current DOM/order and measured route geometry, moderate in editorial decision value, none in family results. A runnable card can be both buried in a list and late on a task-critical stop; prioritize the existing-card trust cue before a broader library architecture change.
+- **Next falsification trigger:** Separate generator-aware card repair and current source/owner agreement; reconsider on an earlier live stop, contradictory source, independent review finding or a reproduced alternative route. Later library discovery needs its own evidence; October18 weekly synthesis remains due.
+- **Measurement boundary:** Headless 1280/390/320 and injected root32px are not real touch, universal zoom or screen-reader tests; no physical/family trial. Validated October14 GSC finalized throughOctober12, rolling491/11 versus overlapping504/12; library3/0 versus5/0 and Paper Chain omitted from summarized rows, not zero. No route/query or causal claim. QA/review/release state is recorded in operator review.
+
 ## 2026-10-14 Afternoon - KAL-IMP-030 Shadow Before-Action Repair
 
 - **Decision/persona:** Apply the [same-task existing-owner repair](../reviews/shadow-before-action-repair-2026-10-14.md) to the age-four hub and original-pack Shadow blocks only. The source-derived `RESEARCH_HYPOTHESIS` caregiver needs one checked large-object/flashlight/wall start with adult light control, a size comparison, toy-light rescue, stop/cleanup and younger-reach fit without another broad search. This is not observed family play.
