@@ -1,6 +1,10 @@
 # Priority Page Status
 
-Last updated: 2026-10-15
+Last updated: 2026-10-16
+
+## October 16 Activity-Library Discovery - Conditional Existing-Page Brief
+
+`KAL-RES-041` [dated source/live task](../reviews/library-discovery-task-2026-10-16.md) finds a valid repaired Paper Chain first start at the end of a long general-library scan: 36 links, target y4932/5018 on 390/320. A contrasting deck task requires the existing early chooser promotion to stay visible. **IMPROVE** only existing-library discovery in a separately registered build if a polished literal title/material finder plus early grid route passes no-JS, empty/clear/deck, keyboard and enlarged-text tests; otherwise preserve. The in-memory prototype is unstyled, not a release or human-result test. Same post-repair primary-task proxy18/26/all13, N/A none; no new after score, new page, navigation taxonomy, physical/family or SEO effect. October18 weekly synthesis protected.
 
 ## October 15 Afternoon Paper Chain Stop Order - Released
 

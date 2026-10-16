@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 16 Existing-Library Discovery Brief
+
+`KAL-RES-041` [dated route and feasibility task](../reviews/library-discovery-task-2026-10-16.md) conditionally **IMPROVES existing `cards.html`** in a separately registered generator-aware build: an early card-grid jump plus literal title/material finder may help the constrained paper/tape task traverse 36 cards. Current Paper Chain link is y4932/5018 mobile; an unstyled in-memory prototype is feasible but fails polished enlarged-text control acceptance and makes `deck` look like zero activity-card results while the chooser remains valid. Preserve all 36 links, early standard-deck promotion, two paper-guide routes, no-JS access and truthful clear/empty state; test keyboard, 1280/390/320/root32, screen-reader names and every section before release. This is not a new indexable page, quiet/mess label, taxonomy change or demand finding. The user-gated top-level navigation model stays untouched; weekly synthesis due October18.
+
 ## October 15 Paper Chain Before-Action Brief
 
 `KAL-RES-040` [quiet-craft library route audit](../reviews/quiet-craft-library-route-2026-10-15.md) finds a source-grounded paper/tape linked-loop start but a critical existing-card stop-order failure for the younger-child-reach stress: no-wearing/mouth/body-pull control follows all four steps. **IMPROVE** only the existing Paper Chain owner first, in a separately registered generator-aware action with WTTW sequence and AAP general reach boundaries; no new craft/lacing URL or outcome claim. The library's 36-link unfiltered grid buries Paper Chain on mobile and lacks quiet/dry choice cues, but a broader discovery change needs its own task/owner evidence and does not authorize the user-gated nav taxonomy. October18 weekly synthesis and unrelated windows remain.
