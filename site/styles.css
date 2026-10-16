@@ -810,6 +810,81 @@ th {
   gap: 12px;
 }
 
+.library-jump {
+  margin: 12px 0 0;
+  font-weight: 700;
+}
+
+.card-finder {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 24px 20px 0;
+  scroll-margin-top: max(104px, 6rem);
+}
+
+.card-finder h2 {
+  margin: 0 0 12px;
+  font-size: 1.45rem;
+  line-height: 1.15;
+}
+
+.card-finder-controls label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 700;
+}
+
+.card-finder-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px;
+}
+
+.card-finder-row input,
+.card-finder-row button {
+  min-width: 0;
+  min-height: 44px;
+  border: 1px solid var(--muted);
+  border-radius: 4px;
+  background: #fff;
+  color: var(--ink);
+  font: inherit;
+  padding: 8px 12px;
+}
+
+.card-finder-row button {
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.card-finder-row button:disabled {
+  color: var(--muted);
+  cursor: default;
+}
+
+.card-finder-row :focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 2px;
+}
+
+.card-finder-controls p {
+  margin: 10px 0 0;
+}
+
+@media (max-width: 350px) {
+  .card-finder-row {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .card-finder-row button {
+    justify-self: end;
+  }
+}
+
+.library-grid .mini-card[hidden] {
+  display: none;
+}
+
 .mini-card {
   display: block;
   min-height: 142px;

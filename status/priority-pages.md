@@ -2,6 +2,10 @@
 
 Last updated: 2026-10-16
 
+## October 16 Afternoon Activity-Library Finder - Local QA
+
+`KAL-IMP-032` [same-task implementation review](../reviews/library-discovery-implementation-2026-10-16.md) applies the morning conditional brief to the existing generator-owned library: early grid jump, progressive-enhancement literal title/material finder, truthful card-only status/empty chooser route, Clear/focus recovery and 36 no-JS card links. Standard-deck promotion, two paper guide links, canonical/H1 and Paper Chain repaired stop/untested boundary remain. Same-task editorial proxy18/26->22/26/all13, critical technical start clear locally, no family/physical/SEO effect. Twice-idempotent three generators change only library/sitemap generated outputs; maintained CSS/new JS and the Ramp lastmod test are scoped. Native133, GSC90, 71HTML/750 local links/75 fragments/92 assets, desktop/390/320 normal/root32/no-JS/keyboard/empty/clear fit pass within limits. Independent review and exact-SHA Pages/live release pending; October18 weekly synthesis due.
+
 ## October 16 Activity-Library Discovery - Conditional Existing-Page Brief
 
 `KAL-RES-041` [dated source/live task](../reviews/library-discovery-task-2026-10-16.md) finds a valid repaired Paper Chain first start at the end of a long general-library scan: 36 links, target y4932/5018 on 390/320. A contrasting deck task requires the existing early chooser promotion to stay visible. **IMPROVE** only existing-library discovery in a separately registered build if a polished literal title/material finder plus early grid route passes no-JS, empty/clear/deck, keyboard and enlarged-text tests; otherwise preserve. The in-memory prototype is unstyled, not a release or human-result test. Same post-repair primary-task proxy18/26/all13, N/A none; no new after score, new page, navigation taxonomy, physical/family or SEO effect. October18 weekly synthesis protected.

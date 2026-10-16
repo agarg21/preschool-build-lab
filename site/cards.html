@@ -6,7 +6,8 @@
     <title>Activity Cards | Kid Activity Lab</title>
     <meta name="description" content="One-screen activity cards preschoolers can follow with parent help. Low-prep play using household materials.">
     <link rel="canonical" href="https://kidactivitylab.com/cards.html">
-    <link rel="stylesheet" href="styles.css?v=card-games-2">
+    <link rel="stylesheet" href="styles.css?v=cards-finder-1">
+    <script src="assets/cards-finder.js?v=1" defer></script>
   </head>
   <body>
     <header class="site-header">
@@ -24,6 +25,7 @@
       <section class="hero">
         <p class="kicker">Activity cards</p>
         <h1>Pick one small thing.</h1>
+        <p class="library-jump"><a href="#activity-card-finder">Browse activity cards</a></p>
         <p class="dek">Each card is meant to fit on one screen: materials, steps, parent check, and source video when one is available.</p>
       </section>
 
@@ -39,43 +41,56 @@
       <p class="content"><a href="articles/paper-helicopter-kids.html">Paper Helicopter: full cut, fold and drop guide</a></p>
       <p class="content"><a href="articles/paper-straw-rocket.html">Paper Straw Rocket: printable model with adult setup and launch</a></p>
 
+      <section class="card-finder" id="activity-card-finder" aria-labelledby="activity-card-finder-title">
+        <h2 id="activity-card-finder-title">Activity cards</h2>
+        <div class="card-finder-controls" hidden>
+          <label for="card-finder-query">Find by title or material</label>
+          <div class="card-finder-row">
+            <input id="card-finder-query" type="search" autocomplete="off">
+            <button id="card-finder-clear" type="button" disabled>Clear</button>
+          </div>
+          <p id="card-finder-count" role="status" aria-live="polite"></p>
+          <p id="card-finder-empty" hidden>No activity cards match. <a href="collections/card-games-for-kids.html">Browse the standard-deck game chooser</a>.</p>
+        </div>
+      </section>
+
       <section class="library-grid" aria-label="Activity cards">
-        <a class="mini-card" href="cards/cardboard-car-ramp.html"><strong>Cardboard Car Ramp</strong><span>Open-ended · flat stiff cardboard, two broad closed books, one toy car</span></a>
-        <a class="mini-card" href="cards/tape-road.html"><strong>Tape Road</strong><span>Open-ended · surface-appropriate painter&#x27;s tape, 1-2 large intact toy vehicles</span></a>
-        <a class="mini-card" href="cards/cup-tower.html"><strong>Cup Tower</strong><span>Open-ended · 2 matching lightweight paper cups and 1 optional spare</span></a>
-        <a class="mini-card" href="cards/paper-roll-drop.html"><strong>Paper Roll Drop</strong><span>2 min · paper roll, pom poms</span></a>
-        <a class="mini-card" href="cards/pom-pom-drop.html"><strong>Pom Pom Drop</strong><span>3 min · cardboard tube, pom poms</span></a>
-        <a class="mini-card" href="cards/magnetic-tile-house.html"><strong>Magnetic Tile House</strong><span>3 min · magnetic tiles, small toy</span></a>
-        <a class="mini-card" href="cards/magnetic-tile-ideas.html"><strong>Magnetic Tile Builds</strong><span>2 min · magnetic tiles</span></a>
-        <a class="mini-card" href="cards/block-tower.html"><strong>Block Tower</strong><span>2 min · blocks</span></a>
-        <a class="mini-card" href="cards/car-ramp-distance-test.html"><strong>Car Ramp Distance Test</strong><span>5 min · ramp, tape, toy cars</span></a>
-        <a class="mini-card" href="cards/paper-plate-ramp.html"><strong>Paper Plate Ramp</strong><span>5 min · paper plate, car, books</span></a>
-        <a class="mini-card" href="cards/tape-train-tracks.html"><strong>Tape Train Tracks</strong><span>5 min · masking tape, toy trains</span></a>
-        <a class="mini-card" href="cards/lego-color-tower.html"><strong>LEGO or DUPLO Color Tower</strong><span>3 min · LEGO or DUPLO</span></a>
-        <a class="mini-card" href="cards/duplo-games.html"><strong>DUPLO Games</strong><span>3 min · DUPLO blocks</span></a>
-        <a class="mini-card" href="cards/tube-sculpture.html"><strong>Tube Sculpture</strong><span>8 min · cardboard tubes, tape</span></a>
-        <a class="mini-card" href="cards/tape-city.html"><strong>Tape City</strong><span>Open-ended · surface-appropriate painter&#x27;s tape, large toy vehicles, chunky blocks</span></a>
-        <a class="mini-card" href="cards/sock-ball-roll.html"><strong>Sock Ball Roll</strong><span>2 min · rolled socks, books</span></a>
-        <a class="mini-card" href="cards/spoon-transfer.html"><strong>Spoon Transfer</strong><span>2 min · spoon, two bowls, large objects</span></a>
-        <a class="mini-card" href="cards/paper-bridge.html"><strong>Paper Bridge</strong><span>Open-ended · paper, two low closed books, large lightweight object</span></a>
-        <a class="mini-card" href="cards/box-garage.html"><strong>Box Garage</strong><span>5 min · small box, toy cars</span></a>
-        <a class="mini-card" href="cards/blanket-river.html"><strong>Blanket River</strong><span>2 min · blanket, blocks</span></a>
-        <a class="mini-card" href="cards/sink-or-float-tray.html"><strong>Sink or Float Tray</strong><span>5 min · shallow water tray, safe household objects</span></a>
-        <a class="mini-card" href="cards/ice-melt-rescue.html"><strong>Ice Melt Rescue</strong><span>8 min · ice cube, warm water, spoon, tray</span></a>
-        <a class="mini-card" href="cards/magnet-hunt.html"><strong>Magnet Hunt</strong><span>5 min · large magnet, safe objects</span></a>
-        <a class="mini-card" href="cards/shadow-shape-match.html"><strong>Shadow Shape Match</strong><span>5 min · flashlight, blocks, wall</span></a>
-        <a class="mini-card" href="cards/foil-boat-test.html"><strong>Empty Foil Boat</strong><span>Open-ended · foil, shallow water tray, towel; no cargo</span></a>
-        <a class="mini-card" href="cards/straw-bridge.html"><strong>Straw Bridge</strong><span>8 min · straws, tape, two cups</span></a>
-        <a class="mini-card" href="cards/paper-chain-test.html"><strong>Paper Chain Test</strong><span>Open-ended · paper, tape, adult-prepared strips</span></a>
-        <a class="mini-card" href="cards/ramp-texture-test.html"><strong>Ramp Texture Test</strong><span>6 min · ramp, towel, foil, toy car</span></a>
-        <a class="mini-card" href="cards/wind-tower-test.html"><strong>Wind Tower Test</strong><span>6 min · blocks, paper fan</span></a>
-        <a class="mini-card" href="cards/pattern-path.html"><strong>Pattern Path</strong><span>4 min · blocks, tiles, or paper squares</span></a>
-        <a class="mini-card" href="cards/measuring-tape-jumps.html"><strong>Measuring Tape Jumps</strong><span>5 min · painter tape, toy, floor</span></a>
-        <a class="mini-card" href="cards/balance-scale-baskets.html"><strong>Balance Basket Scale</strong><span>7 min · hanger, two baskets, safe objects</span></a>
-        <a class="mini-card" href="cards/color-mixing-cups.html"><strong>Color Mixing Cups</strong><span>6 min · clear cups, water, food coloring</span></a>
-        <a class="mini-card" href="cards/sound-shaker-match.html"><strong>Sound Shaker Match</strong><span>5 min · closed containers, rice, blocks, pasta</span></a>
-        <a class="mini-card" href="cards/ball-maze-box.html"><strong>Ball Maze Box</strong><span>Open-ended · shallow box lid, chunky blocks, large lightweight ball</span></a>
-        <a class="mini-card" href="cards/water-drop-race.html"><strong>Water Drop Race</strong><span>5 min · wax paper, water drops, straw</span></a>
+        <a class="mini-card" href="cards/cardboard-car-ramp.html"><strong>Cardboard Car Ramp</strong><span>Open-ended · flat stiff cardboard, two broad closed books, one toy car</span><template data-search="Cardboard Car Ramp flat stiff cardboard, two broad closed books, one toy car"></template></a>
+        <a class="mini-card" href="cards/tape-road.html"><strong>Tape Road</strong><span>Open-ended · surface-appropriate painter&#x27;s tape, 1-2 large intact toy vehicles</span><template data-search="Tape Road surface-appropriate painter&#x27;s tape, 1-2 large intact toy vehicles"></template></a>
+        <a class="mini-card" href="cards/cup-tower.html"><strong>Cup Tower</strong><span>Open-ended · 2 matching lightweight paper cups and 1 optional spare</span><template data-search="Cup Tower 2 matching lightweight paper cups and 1 optional spare"></template></a>
+        <a class="mini-card" href="cards/paper-roll-drop.html"><strong>Paper Roll Drop</strong><span>2 min · paper roll, pom poms</span><template data-search="Paper Roll Drop paper roll, pom poms"></template></a>
+        <a class="mini-card" href="cards/pom-pom-drop.html"><strong>Pom Pom Drop</strong><span>3 min · cardboard tube, pom poms</span><template data-search="Pom Pom Drop cardboard tube, pom poms"></template></a>
+        <a class="mini-card" href="cards/magnetic-tile-house.html"><strong>Magnetic Tile House</strong><span>3 min · magnetic tiles, small toy</span><template data-search="Magnetic Tile House magnetic tiles, small toy"></template></a>
+        <a class="mini-card" href="cards/magnetic-tile-ideas.html"><strong>Magnetic Tile Builds</strong><span>2 min · magnetic tiles</span><template data-search="Magnetic Tile Builds magnetic tiles"></template></a>
+        <a class="mini-card" href="cards/block-tower.html"><strong>Block Tower</strong><span>2 min · blocks</span><template data-search="Block Tower blocks"></template></a>
+        <a class="mini-card" href="cards/car-ramp-distance-test.html"><strong>Car Ramp Distance Test</strong><span>5 min · ramp, tape, toy cars</span><template data-search="Car Ramp Distance Test ramp, tape, toy cars"></template></a>
+        <a class="mini-card" href="cards/paper-plate-ramp.html"><strong>Paper Plate Ramp</strong><span>5 min · paper plate, car, books</span><template data-search="Paper Plate Ramp paper plate, car, books"></template></a>
+        <a class="mini-card" href="cards/tape-train-tracks.html"><strong>Tape Train Tracks</strong><span>5 min · masking tape, toy trains</span><template data-search="Tape Train Tracks masking tape, toy trains"></template></a>
+        <a class="mini-card" href="cards/lego-color-tower.html"><strong>LEGO or DUPLO Color Tower</strong><span>3 min · LEGO or DUPLO</span><template data-search="LEGO or DUPLO Color Tower LEGO or DUPLO"></template></a>
+        <a class="mini-card" href="cards/duplo-games.html"><strong>DUPLO Games</strong><span>3 min · DUPLO blocks</span><template data-search="DUPLO Games DUPLO blocks"></template></a>
+        <a class="mini-card" href="cards/tube-sculpture.html"><strong>Tube Sculpture</strong><span>8 min · cardboard tubes, tape</span><template data-search="Tube Sculpture cardboard tubes, tape"></template></a>
+        <a class="mini-card" href="cards/tape-city.html"><strong>Tape City</strong><span>Open-ended · surface-appropriate painter&#x27;s tape, large toy vehicles, chunky blocks</span><template data-search="Tape City surface-appropriate painter&#x27;s tape, large toy vehicles, chunky blocks"></template></a>
+        <a class="mini-card" href="cards/sock-ball-roll.html"><strong>Sock Ball Roll</strong><span>2 min · rolled socks, books</span><template data-search="Sock Ball Roll rolled socks, books"></template></a>
+        <a class="mini-card" href="cards/spoon-transfer.html"><strong>Spoon Transfer</strong><span>2 min · spoon, two bowls, large objects</span><template data-search="Spoon Transfer spoon, two bowls, large objects"></template></a>
+        <a class="mini-card" href="cards/paper-bridge.html"><strong>Paper Bridge</strong><span>Open-ended · paper, two low closed books, large lightweight object</span><template data-search="Paper Bridge paper, two low closed books, large lightweight object"></template></a>
+        <a class="mini-card" href="cards/box-garage.html"><strong>Box Garage</strong><span>5 min · small box, toy cars</span><template data-search="Box Garage small box, toy cars"></template></a>
+        <a class="mini-card" href="cards/blanket-river.html"><strong>Blanket River</strong><span>2 min · blanket, blocks</span><template data-search="Blanket River blanket, blocks"></template></a>
+        <a class="mini-card" href="cards/sink-or-float-tray.html"><strong>Sink or Float Tray</strong><span>5 min · shallow water tray, safe household objects</span><template data-search="Sink or Float Tray shallow water tray, safe household objects"></template></a>
+        <a class="mini-card" href="cards/ice-melt-rescue.html"><strong>Ice Melt Rescue</strong><span>8 min · ice cube, warm water, spoon, tray</span><template data-search="Ice Melt Rescue ice cube, warm water, spoon, tray"></template></a>
+        <a class="mini-card" href="cards/magnet-hunt.html"><strong>Magnet Hunt</strong><span>5 min · large magnet, safe objects</span><template data-search="Magnet Hunt large magnet, safe objects"></template></a>
+        <a class="mini-card" href="cards/shadow-shape-match.html"><strong>Shadow Shape Match</strong><span>5 min · flashlight, blocks, wall</span><template data-search="Shadow Shape Match flashlight, blocks, wall"></template></a>
+        <a class="mini-card" href="cards/foil-boat-test.html"><strong>Empty Foil Boat</strong><span>Open-ended · foil, shallow water tray, towel; no cargo</span><template data-search="Empty Foil Boat foil, shallow water tray, towel; no cargo"></template></a>
+        <a class="mini-card" href="cards/straw-bridge.html"><strong>Straw Bridge</strong><span>8 min · straws, tape, two cups</span><template data-search="Straw Bridge straws, tape, two cups"></template></a>
+        <a class="mini-card" href="cards/paper-chain-test.html"><strong>Paper Chain Test</strong><span>Open-ended · paper, tape, adult-prepared strips</span><template data-search="Paper Chain Test paper, tape, adult-prepared strips"></template></a>
+        <a class="mini-card" href="cards/ramp-texture-test.html"><strong>Ramp Texture Test</strong><span>6 min · ramp, towel, foil, toy car</span><template data-search="Ramp Texture Test ramp, towel, foil, toy car"></template></a>
+        <a class="mini-card" href="cards/wind-tower-test.html"><strong>Wind Tower Test</strong><span>6 min · blocks, paper fan</span><template data-search="Wind Tower Test blocks, paper fan"></template></a>
+        <a class="mini-card" href="cards/pattern-path.html"><strong>Pattern Path</strong><span>4 min · blocks, tiles, or paper squares</span><template data-search="Pattern Path blocks, tiles, or paper squares"></template></a>
+        <a class="mini-card" href="cards/measuring-tape-jumps.html"><strong>Measuring Tape Jumps</strong><span>5 min · painter tape, toy, floor</span><template data-search="Measuring Tape Jumps painter tape, toy, floor"></template></a>
+        <a class="mini-card" href="cards/balance-scale-baskets.html"><strong>Balance Basket Scale</strong><span>7 min · hanger, two baskets, safe objects</span><template data-search="Balance Basket Scale hanger, two baskets, safe objects"></template></a>
+        <a class="mini-card" href="cards/color-mixing-cups.html"><strong>Color Mixing Cups</strong><span>6 min · clear cups, water, food coloring</span><template data-search="Color Mixing Cups clear cups, water, food coloring"></template></a>
+        <a class="mini-card" href="cards/sound-shaker-match.html"><strong>Sound Shaker Match</strong><span>5 min · closed containers, rice, blocks, pasta</span><template data-search="Sound Shaker Match closed containers, rice, blocks, pasta"></template></a>
+        <a class="mini-card" href="cards/ball-maze-box.html"><strong>Ball Maze Box</strong><span>Open-ended · shallow box lid, chunky blocks, large lightweight ball</span><template data-search="Ball Maze Box shallow box lid, chunky blocks, large lightweight ball"></template></a>
+        <a class="mini-card" href="cards/water-drop-race.html"><strong>Water Drop Race</strong><span>5 min · wax paper, water drops, straw</span><template data-search="Water Drop Race wax paper, water drops, straw"></template></a>
       </section>
     </main>
 

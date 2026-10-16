@@ -13,7 +13,7 @@ CONTENT_LASTMODS = {
     "articles/paper-helicopter-kids.html": "2026-09-19",
     "articles/paper-cup-tower-kids.html": "2026-09-17",
     "cards/cup-tower.html": "2026-09-17",
-    "cards.html": "2026-10-01",
+    "cards.html": "2026-10-16",
     "cards/cardboard-car-ramp.html": "2026-10-13",
     "articles/cardboard-box-car-ramp-preschoolers.html": "2026-10-13",
     "cards/ball-maze-box.html": "2026-10-02",

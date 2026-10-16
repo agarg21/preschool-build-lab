@@ -666,8 +666,9 @@ def cards_index():
     cards = []
     for slug, source_activity in ACTIVITIES.items():
         activity = {**source_activity, **QUICK_CARD_OVERRIDES.get(slug, {})}
+        search_text = f'{activity["title"]} {activity["materials"]}'
         cards.append(
-            f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(activity["time"])} · {esc(activity["materials"])}</span></a>'
+            f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(activity["time"])} · {esc(activity["materials"])}</span><template data-search="{esc(search_text)}"></template></a>'
         )
     cards = "\n".join(cards)
     return f'''<!doctype html>
@@ -678,7 +679,8 @@ def cards_index():
     <title>Activity Cards | Kid Activity Lab</title>
     <meta name="description" content="One-screen activity cards preschoolers can follow with parent help. Low-prep play using household materials.">
     <link rel="canonical" href="https://kidactivitylab.com/cards.html">
-    <link rel="stylesheet" href="styles.css?v=card-games-2">
+    <link rel="stylesheet" href="styles.css?v=cards-finder-1">
+    <script src="assets/cards-finder.js?v=1" defer></script>
   </head>
   <body>
     <header class="site-header">
@@ -696,6 +698,7 @@ def cards_index():
       <section class="hero">
         <p class="kicker">Activity cards</p>
         <h1>Pick one small thing.</h1>
+        <p class="library-jump"><a href="#activity-card-finder">Browse activity cards</a></p>
         <p class="dek">Each card is meant to fit on one screen: materials, steps, parent check, and source video when one is available.</p>
       </section>
 
@@ -710,6 +713,19 @@ def cards_index():
 
       <p class="content"><a href="articles/paper-helicopter-kids.html">Paper Helicopter: full cut, fold and drop guide</a></p>
       <p class="content"><a href="articles/paper-straw-rocket.html">Paper Straw Rocket: printable model with adult setup and launch</a></p>
+
+      <section class="card-finder" id="activity-card-finder" aria-labelledby="activity-card-finder-title">
+        <h2 id="activity-card-finder-title">Activity cards</h2>
+        <div class="card-finder-controls" hidden>
+          <label for="card-finder-query">Find by title or material</label>
+          <div class="card-finder-row">
+            <input id="card-finder-query" type="search" autocomplete="off">
+            <button id="card-finder-clear" type="button" disabled>Clear</button>
+          </div>
+          <p id="card-finder-count" role="status" aria-live="polite"></p>
+          <p id="card-finder-empty" hidden>No activity cards match. <a href="collections/card-games-for-kids.html">Browse the standard-deck game chooser</a>.</p>
+        </div>
+      </section>
 
       <section class="library-grid" aria-label="Activity cards">
 {cards}

@@ -4,6 +4,15 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-16 Afternoon - KAL-IMP-032 Existing-Library Finder
+
+- **Decision/persona:** [Same-task implementation review](../reviews/library-discovery-implementation-2026-10-16.md) applies the morning conditional existing-library `IMPROVE` brief, with a `RESEARCH_HYPOTHESIS` four-year-old/paper-tape/small-table/no-paint choice and younger-child reach stress. A separate ordinary-deck task protects the early game route; neither is observed family use.
+- **Hypothesis/result:** A literal finder and early jump can reduce the technical 36-link detour without removing other choices. Local 390/320 and root32 tasks now place the paper/tape card after a visible jump at viewport y538 normal, y728 on 320/root32; no-JS still exposes all36. `deck` truthfully says zero **activity cards** and routes to the chooser. Same-task `EDITORIAL_JUDGMENT` proxy **18/26 -> 22/26 across all13**, N/A none, critical technical start remains clear; no human time/benefit result.
+- **Sources/classes:** Retained October3 public questions `RESEARCH_HYPOTHESIS`; prior WTTW linked-loop and AAP general younger-reach `SOURCE_BACKED` only within their bounded context; generated DOM/browser/QA and October16 GSC90 `MEASURED` technically; finder/score `EDITORIAL_JUDGMENT`; family, physical, measured mess, duration, enjoyment, learning and causal SEO `UNKNOWN`.
+- **Confidence/lesson:** High in local link/geometry/no-JS/empty behavior and generated scope, moderate in editorial decision utility, none in real family benefit. Preserve the exact card anchor contract and tell users when a search covers only activity cards, not the distinct deck chooser.
+- **Next falsification trigger:** Independent P0-P2, genuine zoom/assistive failure, no-JS/empty/deck regression, unexpected generated output, exact-SHA Pages or live byte/task mismatch; otherwise observe without causal claims. October18 weekly synthesis remains due.
+- **Measurement boundary/release:** Root32 injection is not universal browser zoom, touch or screen reader. GSC October16 finalized throughOctober14 rolling494/7 versus495/7, library3/0 both, missing full query/route rows and Paper Chain absent from summary not zero. Local native133/133, twice-idempotent generators, 71HTML/750 links/75 fragments/92 assets pass; independent review and production release pending in operator review.
+
 ## 2026-10-16 - KAL-RES-041 Existing-Library Discovery
 
 - **Decision/persona:** [Dated library task and feasibility brief](../reviews/library-discovery-task-2026-10-16.md) conditionally returns **IMPROVE existing `cards.html`** through a separately registered literal title/material finder and early grid route, not a new URL or navigation taxonomy. Retained October3 questions support a `RESEARCH_HYPOTHESIS` four-year-old/paper-tape/small-table/no-paint task with younger-child reach and divided attention; a separate standard-deck task tests route preservation.
