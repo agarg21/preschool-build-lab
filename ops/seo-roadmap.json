@@ -9,7 +9,7 @@
       "id": "KAL-IMP-032",
       "title": "Add a bounded existing-activity-card finder without hiding other choices",
       "kind": "existing-page-improvement",
-      "status": "active",
+      "status": "completed",
       "registered_on": "2026-10-16",
       "base_commit": "ef1dfe6",
       "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "site/cards.html", "site/styles.css", "site/assets/cards-finder.js", "site/sitemap.xml", "tools/library-discovery.test.mjs", "tools/cardboard-ramp-first-start.test.mjs", "reviews/library-discovery-implementation-2026-10-16.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,11 +24,11 @@
       "observation_window": "RES041's separately reviewed existing-library task supports this bounded current-owner build; recent card/game release observation windows do not prohibit unrelated library discovery, but their content and claims remain protected.",
       "reconsider_conditions": "Stop or preserve if no-JS, keyboard, enlarged-text, empty/deck route, all-links, source/claim or independent review fails; stop on unexpected generated file, remote divergence, exact-SHA Pages failure or ambiguous production regression. Do not infer human benefit from a proxy pass.",
       "artifact": "reviews/library-discovery-implementation-2026-10-16.md",
-      "next_step": "Complete final JSON/XML/whitespace/Markdown refs/source/privacy/exact16 QA and different independent read-only review; then fresh-fetch/no-divergence, exact reviewed stage/push and exact-SHA Pages/live task/alignment. Weekly synthesis due October18.",
+      "next_step": "October18 weekly synthesis when due unless a higher-priority verified defect or unfinished release intervenes.",
       "result": "Existing cards.html now has an early activity-grid jump and progressively enhanced literal title/material finder with card-only count, no-result chooser route and Clear/focus recovery. All36 original links survive without JavaScript; promo/two guide routes and Paper Chain content remain. Same-task local editorial proxy 18/26 to 22/26 across all13, no human/physical/SEO conclusion.",
-      "qa_summary": "GSC90 validated throughOctober14 rolling494/7 versus495/7 prior, library3/0 both; missing full queries/routes. Three generators twice/identical tracked site diff 359b833b74c55da3ae5a7342a2aadb171ff21a8d4d9c31ba01c02c1f4fbdb5c5, only cards.html and sitemap.xml generated outputs; maintained CSS/new JS registered. Native133/133, 71HTML/750 local links/75 fragments/92 assets zero missing. Local headless1280/390/320 normal and390/320 root32 paper/tape/deck/clear/keyboard/Back, no-JS36 links, named controls, sticky anchor, width and sampled errors pass; root32 is not universal zoom. JSON/XML/refs/privacy/final review pending.",
+      "qa_summary": "GSC90 validated throughOctober14 rolling494/7 versus495/7 prior, library3/0 both; missing full queries/routes. Three generators twice/identical tracked site diff 359b833b74c55da3ae5a7342a2aadb171ff21a8d4d9c31ba01c02c1f4fbdb5c5, only cards.html and sitemap.xml generated outputs; maintained CSS/new JS registered. Native133/133, 71HTML/750 local links/75 fragments/92 assets zero missing. Local headless1280/390/320 normal and390/320 root32 paper/tape/deck/clear/keyboard/Back, no-JS36 links, named controls, sticky anchor, width and sampled errors pass; root32 is not universal zoom. JSON/XML/refs/privacy/exact16 checks passed. Production headless1280/390/320 and320/root32 canonical/H1/36 links, paper/tape/deck/Clear/fit/errors and320 no-JS jump passed; four affected live files byte-matched.",
       "review": "Ptolemy independent read-only cycle-one PASS_WITH_P3/no P0-P2 on exact16 diff. It checked focused12/full133, ordered36 URLs, JS/JSON/XML, whitespace, 71HTML/750 links/75 fragments, 190 refs/privacy/source/18-to-22 score; not writing generators/browser/GSC. P3 whitespace-only Clear disabled while input nonempty; JS and focused test corrected. Cycle-two PASS/no P0-P2 independently confirmed P3 closure, focused3/3, JS syntax, JSON/whitespace and exact16 scope; not browser/generators.",
-      "release": {"state": "pending", "site_changed": true}
+      "release": {"state": "completed", "site_changed": true, "reviewed_commit": "5973d7f57a7160e37bfa99c53bab2240c6b7a6d2", "pages_run": 38957644883, "pages_conclusion": "success", "release_marker": "absent", "live_byte_matches": ["site/cards.html", "site/styles.css", "site/assets/cards-finder.js", "site/sitemap.xml"]}
     },
     {
       "id": "KAL-RES-041",

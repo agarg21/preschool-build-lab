@@ -2,9 +2,9 @@
 
 Last updated: 2026-10-16
 
-## October 16 Afternoon Activity-Library Finder - Local QA
+## October 16 Afternoon Activity-Library Finder - Released
 
-`KAL-IMP-032` [same-task implementation review](../reviews/library-discovery-implementation-2026-10-16.md) applies the morning conditional brief to the existing generator-owned library: early grid jump, progressive-enhancement literal title/material finder, truthful card-only status/empty chooser route, Clear/focus recovery and 36 no-JS card links. Standard-deck promotion, two paper guide links, canonical/H1 and Paper Chain repaired stop/untested boundary remain. Same-task editorial proxy18/26->22/26/all13, critical technical start clear locally, no family/physical/SEO effect. Twice-idempotent three generators change only library/sitemap generated outputs; maintained CSS/new JS and the Ramp lastmod test are scoped. Native133, GSC90, 71HTML/750 local links/75 fragments/92 assets, desktop/390/320 normal/root32/no-JS/keyboard/empty/clear fit pass within limits. Independent review and exact-SHA Pages/live release pending; October18 weekly synthesis due.
+`KAL-IMP-032` [same-task implementation review](../reviews/library-discovery-implementation-2026-10-16.md) applies the morning conditional brief to the existing generator-owned library: early grid jump, progressive-enhancement literal title/material finder, truthful card-only status/empty chooser route, Clear/focus recovery and 36 no-JS card links. Standard-deck promotion, two paper guide links, canonical/H1 and Paper Chain repaired stop/untested boundary remain. Same-task editorial proxy18/26->22/26/all13, critical technical start clear locally, no family/physical/SEO effect. Twice-idempotent three generators change only library/sitemap generated outputs; maintained CSS/new JS and the Ramp lastmod test are scoped. Native133, GSC90, 71HTML/750 local links/75 fragments/92 assets, local desktop/390/320 normal/root32/no-JS/keyboard/empty/clear fit pass within limits. Ptolemy independent PASS/no P0-P2; reviewed `5973d7f` pushed, exact-SHA Pages 38957644883 succeeded, four affected live files byte-match, and production desktop/mobile/root32/no-JS technical tasks pass. October18 weekly synthesis due.
 
 ## October 16 Activity-Library Discovery - Conditional Existing-Page Brief
 
