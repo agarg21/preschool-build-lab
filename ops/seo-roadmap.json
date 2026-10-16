@@ -9,7 +9,7 @@
       "id": "KAL-RES-041",
       "title": "Qualify a compact existing-library route for a constrained activity choice",
       "kind": "research-existing-flow",
-      "status": "active",
+      "status": "completed",
       "registered_on": "2026-10-16",
       "base_commit": "060a48b41f4c2e24b2262d32ccc2fef84885624b",
       "exact_paths": ["reviews/library-discovery-task-2026-10-16.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "status/priority-pages.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,11 +24,11 @@
       "observation_window": "Paper Chain's verified deep library position qualifies a separate discovery task without assuming broader library redesign; protected recent release windows do not block this read-only qualification.",
       "reconsider_conditions": "Reject or defer an unsupported compact route if a contrasting task loses choice clarity, current site already solves the job, source constraints conflict, or a proposed route merely adds clutter. Stop on privacy/source contradiction, independent P0-P2 or remote divergence.",
       "artifact": "reviews/library-discovery-task-2026-10-16.md",
-      "next_step": "Fresh-fetch/no-divergence, exact-stage and privacy/claim scan, then release reviewed docs-only work and verify alignment. A separate generator-owned build may test a literal title/material finder and early grid route only if polished no-JS/empty/clear/deck/keyboard/enlarged-text gates hold; otherwise preserve. Weekly synthesis due October18.",
+      "next_step": "At the next eligible heartbeat validate sensing and select a separately registered generator-owned existing-library build only if polished no-JS/empty/clear/deck/keyboard/enlarged-text gates can be met; otherwise preserve. Complete weekly synthesis when due October18 before new builds/research under priority order.",
       "result": "Conditional IMPROVE existing cards.html discovery in a separately registered build, else preserve. Live 36-card grid places Paper Chain at y4932/5018 on 390/320; an unstyled in-memory prototype confirms literal paper+tape matching/jump feasibility but fails polished root32 controls and a deck query produces zero card-only matches despite valid early chooser. Same post-repair primary-task editorial proxy 18/26 across all13, no new after score or human/SEO outcome.",
       "qa_summary": "GSC89 validated, October15 finalized throughOctober13 rolling495/7 versus491/11, library3/0 both; Paper Chain omitted from query-thin summary is not zero. Live/local library and card bytes match; headless 1280/390/320 normal and 390/320 root32 library/card/chooser routes, keyboard/Back, width and sampled errors checked. Native130/130, roadmap JSON/unique IDs, whitespace, 211 local Markdown refs and exact-nine/no-site-or-CSV scope pass; pre-release privacy/claim scan remains.",
       "review": "Hilbert independent read-only cycle-one PASS/no P0-P3 on full exact-nine diff including brief. It checked 18/26 arithmetic, source limits, local HTML order/hashes, 36/eight/one card counts, GSC89/latest-prior, JSON/95 unique IDs, 211 refs, whitespace and added-line privacy; not headless browser/prototype/live hashes/native tests. Cycle-two factual-delta PASS_WITH_P3/no P0-P2; stale review-pending status corrected before release.",
-      "release": {"state": "pending", "site_changed": false}
+      "release": {"state": "released", "site_changed": false, "commit": "1c0a6ef", "verification": "Fresh fetch/no divergence 0/0; complete unpushed range empty; exact nine staged/no unstaged and staged whitespace/credential/private-email scan passed. Reviewed docs-only commit pushed to main; no Pages wait or public site change. Factual closeout/final alignment pending."}
     },
     {
       "id": "KAL-IMP-031",
