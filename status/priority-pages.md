@@ -2,6 +2,10 @@
 
 Last updated: 2026-10-17
 
+## October 17 Afternoon Sound Shaker First Start - Local Build
+
+`KAL-IMP-033` [same-task review](../reviews/sound-shaker-before-action-repair-2026-10-17.md) implements the morning brief in existing card and science-collection owners; shared source metadata also changes only the Sound Shaker library listing. Adult younger-reach/lid/skip/spill gate and a four-container two-pair setup now precede every child step; retry and cleanup are explicit, while time/mess are not measured and the home variant is not family-tested. All13 editorial proxy10/26->19/26, critical technical order clears locally, no human/physical/SEO outcome. Generators twice/idempotent exact four site outputs, native137, 71HTML/750 links/75 fragments and desktop/390/320/root32 local task pass. Independent review and exact-SHA Pages/live release pending; October18 weekly synthesis due.
+
 ## October 17 Sound Shaker First-Start - Research Brief
 
 `KAL-RES-042` [source/live audit](../reviews/sound-shaker-first-start-audit-2026-10-17.md) finds a critical technical before-action gap on existing Sound Shaker card and age-four science collection: the only small-filler seal/supervision cue follows child steps on both surfaces, while pair setup and a spill/younger-reach stop are not specified. Live bytes matched local; desktop/390/320/root32 keyboard route and every-section task were checked. All13 editorial proxy10/26, critical override, no family/physical/SEO conclusion. Separately register an existing-owner repair only after source reconciliation; no new URL, indexing or page batch. Copernicus independent read-only PASS_WITH_P3, AAP link corrected; docs-only reviewed `3b7968c` pushed and aligned. October18 weekly synthesis due.

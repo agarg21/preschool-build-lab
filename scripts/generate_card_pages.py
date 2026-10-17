@@ -579,6 +579,7 @@ def quick_page(slug):
     kicker = activity.get("kicker", f"{activity['time']} · age {activity['ages']}")
     is_ball_maze = slug == "ball-maze-box"
     is_paper_bridge = slug == "paper-bridge"
+    is_sound_shaker = slug == "sound-shaker-match"
     early_handoff = is_ball_maze or is_paper_bridge
     routes = related_routes_html(
         slug, include_guide=not early_handoff,
@@ -590,8 +591,30 @@ def quick_page(slug):
           <strong>Parent check:</strong> {esc(activity['parent'])}
         </section>'''
     pre_meta_parent_check = parent_check if is_paper_bridge else ""
+    sound_start = f'''
+
+        <section class="parent-strip" aria-label="Before starting">
+          <strong>Before you start:</strong> {esc(activity['start_cue'])}
+        </section>''' if is_sound_shaker else ""
+    sound_setup = f'''
+
+        <section class="parent-strip" aria-label="Adult setup">
+          <strong>Adult setup:</strong> {esc(activity['adult_setup'])}
+        </section>''' if is_sound_shaker else ""
     early_parent_check = parent_check if is_ball_maze else ""
     late_parent_check = "" if early_handoff else parent_check
+    source_note = ""
+    if activity.get("sources"):
+        links = "; ".join(
+            f'<a href="{esc(url)}">{esc(label)}</a>'
+            for label, url in activity["sources"]
+        )
+        source_note = f'''
+
+        <details><summary>Sources and testing status</summary>
+          <p>{links}.</p>
+          <p>{esc(activity['source_note'])}</p>
+        </details>'''
     early_guide = '''
 
         <section class="maze-card-decision" aria-label="Decide before starting">
@@ -638,11 +661,11 @@ def quick_page(slug):
     <main class="card-shell">
       <article class="{card_class}">
         <p class="kicker">{esc(kicker)}</p>
-        <h1>{esc(activity['title'])}</h1>{early_guide}{pre_meta_parent_check}
+        <h1>{esc(activity['title'])}</h1>{early_guide}{pre_meta_parent_check}{sound_start}
 
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
-        </div>{early_parent_check}
+        </div>{early_parent_check}{sound_setup}
 
         <section class="steps-grid" aria-label="Steps">
 {step_html}
@@ -650,7 +673,7 @@ def quick_page(slug):
 
         <section class="parent-strip" aria-label="Best for">
           <strong>Best for:</strong> {esc(activity['best_for'])}.
-        </section>{routes}
+        </section>{routes}{source_note}
       </article>
     </main>
 

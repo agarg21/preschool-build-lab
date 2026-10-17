@@ -412,13 +412,25 @@ ACTIVITIES = {
         "title": "Sound Shaker Match",
         "url": "../cards/sound-shaker-match.html",
         "ages": "4-6",
-        "time": "5 min",
-        "mess": "low",
+        "time": "Not measured",
+        "time_label": "Time not measured",
+        "mess": "Not measured",
+        "mess_label": "Mess not measured",
         "help": "medium",
-        "materials": "closed containers, rice, blocks, pasta",
-        "best_for": "sound, listening, matching evidence",
-        "steps": ["Shake one container.", "Guess what is inside.", "Shake another.", "Match the sounds."],
-        "parent": "Seal containers well and supervise small fillers.",
+        "help_label": "Adult stays beside child",
+        "materials": "4 opaque lidded containers, rice, dry pasta (adult fills)",
+        "best_for": "listening for matching sounds",
+        "start_cue": "Keep filler and shakers out of younger children's reach; stay beside the player. Skip if lids or reach are uncertain, or the player opens lids or cannot follow a stop cue. Stop and collect pieces if a lid opens, a container cracks or filler spills. Not family-tested by Kid Activity Lab.",
+        "adult_setup": "Away from children, put the same small amount of rice in two opaque lidded containers and the same amount of dry pasta in two more; close and check every lid.",
+        "steps": ["Shake one closed container.", "Shake another and listen.", "Set two that sound alike together.", "Unsure? Compare just two again with your adult."],
+        "parent": "The adult puts all containers and remaining filler away after play.",
+        "kicker": "Sound matching | Editorial ages 4-6",
+        "description": "Compare matching sounds in four adult-prepared closed containers. Research-backed idea; this home version has not been family-tested by Kid Activity Lab.",
+        "sources": [
+            ("NAEYC sound-pair example", "https://www.naeyc.org/resources/pubs/tyc/oct2015/10-unique-dollar-store-finds"),
+            ("AAP small-object guidance", "https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Choking-Prevention.aspx"),
+        ],
+        "source_note": "NAEYC describes a preschool sound-matching game; AAP gives general small-object and younger-child reach guidance. The four-container home setup, closure check and stop sequence are KAL editorial choices, not a tested safety method. Time, mess, enjoyment, learning and physical outcomes are unknown.",
     },
     "ball-maze-box": {
         "title": "Ball Maze Box",
@@ -1091,6 +1103,7 @@ PAGES = [
         "description": "Simple science experiments for 4 year olds using water, ice, magnets, shadows, colors, sound, ramps, and household materials.",
         "intro": "The strongest science experiments for 4 year olds are short and observable. The child should be able to predict, test, notice, and try again without waiting for a long result.",
         "tip": "Pick experiments where the result is easy to see: sinking, floating, sticking, melting, mixing, rolling, or making a sound.",
+        "head_style": "@media (max-width: 480px) { .hero h1 { overflow-wrap: anywhere; } }",
         "activities": ["sink-or-float-tray", "ice-melt-rescue", "magnet-hunt", "shadow-shape-match", "color-mixing-cups", "sound-shaker-match", "water-drop-race", "ramp-texture-test"],
         "related": ["easy science experiments for 4 year olds", "science activities for 4 year olds at home", "preschool science experiments"],
     },
@@ -1418,21 +1431,32 @@ def activity_card(activity):
         f'\n            <p class="activity-start-cue"><strong>Adult check:</strong> {esc(activity["start_cue"])}</p>'
         if activity.get("start_cue") else ""
     )
+    adult_setup = (
+        f'\n          <p><strong>Adult setup:</strong> {esc(activity["adult_setup"])}</p>'
+        if activity.get("adult_setup") else ""
+    )
+    source_note = ""
+    if activity.get("sources"):
+        links = "; ".join(
+            f'<a href="{esc(url)}">{esc(label)}</a>'
+            for label, url in activity["sources"]
+        )
+        source_note = f'\n          <details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
     return f'''        <article class="seo-activity">
           <div>
             <h2>{esc(activity["title"])}</h2>{start_cue}
             <p>{esc(activity["best_for"])}</p>
             <div class="source-tags">
               <span class="tag">{esc(activity["ages"])} years</span>
-              <span class="tag">{esc(activity["time"])}</span>
+              <span class="tag">{esc(activity.get("time_label", activity["time"]))}</span>
               <span class="tag">{esc(activity.get("mess_label", activity["mess"] + " mess"))}</span>
               <span class="tag">{esc(activity.get("help_label", activity["help"] + " help"))}</span>
             </div>
           </div>
-          <div class="activity-materials"><strong>Need</strong>{esc(activity["materials"])}</div>
+          <div class="activity-materials"><strong>Need</strong>{esc(activity["materials"])}</div>{adult_setup}
           <ol class="card-steps">{steps}</ol>
           <p class="activity-parent"><strong>Parent check:</strong> {esc(activity["parent"])}</p>
-          {link}
+          {link}{source_note}
         </article>'''
 
 
