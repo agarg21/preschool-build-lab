@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 17 Sound Shaker Existing-Owner Brief
+
+`KAL-RES-042` [dated source/live first-start audit](../reviews/sound-shaker-first-start-audit-2026-10-17.md) returns **IMPROVE existing card and age-four science-collection block in a separate implementation**. NAEYC supports a preschool sound-pair game, while current AAP guidance makes accessible small objects and younger-child reach a real planning constraint. Both current surfaces put executable steps before the only seal/supervision note; card mobile first-step/check y592/1242 and 320/root32 y1013/1779. Adult pair preparation, bounded closure/reach decision, spill stop/rescue, cleanup and unmeasured time/mess language need source-reconciled treatment before a child-facing first shake. No new guide/page, DIY safety certification, family outcome or search-demand inference from GSC card2/0. Read-only research transaction only; preserve October18 weekly due date.
+
 ## October 16 Existing-Library Discovery Brief
 
 `KAL-RES-041` [dated route and feasibility task](../reviews/library-discovery-task-2026-10-16.md) conditionally **IMPROVES existing `cards.html`** in a separately registered generator-aware build: an early card-grid jump plus literal title/material finder may help the constrained paper/tape task traverse 36 cards. Current Paper Chain link is y4932/5018 mobile; an unstyled in-memory prototype is feasible but fails polished enlarged-text control acceptance and makes `deck` look like zero activity-card results while the chooser remains valid. Preserve all 36 links, early standard-deck promotion, two paper-guide routes, no-JS access and truthful clear/empty state; test keyboard, 1280/390/320/root32, screen-reader names and every section before release. This is not a new indexable page, quiet/mess label, taxonomy change or demand finding. The user-gated top-level navigation model stays untouched; weekly synthesis due October18.

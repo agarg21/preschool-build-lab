@@ -1,6 +1,10 @@
 # Priority Page Status
 
-Last updated: 2026-10-16
+Last updated: 2026-10-17
+
+## October 17 Sound Shaker First-Start - Research Brief
+
+`KAL-RES-042` [source/live audit](../reviews/sound-shaker-first-start-audit-2026-10-17.md) finds a critical technical before-action gap on existing Sound Shaker card and age-four science collection: the only small-filler seal/supervision cue follows child steps on both surfaces, while pair setup and a spill/younger-reach stop are not specified. Live bytes matched local; desktop/390/320/root32 keyboard route and every-section task were checked. All13 editorial proxy10/26, critical override, no family/physical/SEO conclusion. Separately register an existing-owner repair only after source reconciliation; no new URL, indexing or page batch. Copernicus independent read-only PASS_WITH_P3, AAP link corrected; docs-only release pending. October18 weekly synthesis due.
 
 ## October 16 Afternoon Activity-Library Finder - Released
 
