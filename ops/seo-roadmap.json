@@ -9,7 +9,7 @@
       "id": "KAL-RES-044",
       "title": "Qualify a distinct small-space preschool indoor movement guide job",
       "kind": "guide-candidate-discovery",
-      "status": "reviewed-release-pending",
+      "status": "completed",
       "registered_on": "2026-10-19",
       "base_commit": "f78b86151625388524303de42b78f97e3803aaa4",
       "exact_paths": ["seo/indoor-obstacle-course-guide-discovery-2026-10-19.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,7 +24,7 @@
       "observation_window": "Sound Shaker and other reviewed releases may be inspected but not rewritten; observation windows do not bar unrelated research. Next weekly due October25.",
       "reconsider_conditions": "Source contradiction, strong existing-page fit, competitive bodies already solving the exact job, missing material demand or maintainable evidence, reviewer P0-P2, remote divergence or new valid caregiver/search evidence changes the decision. A build requires separate registration.",
       "artifact": "seo/indoor-obstacle-course-guide-discovery-2026-10-19.md",
-      "next_step": "Dalton read-only cycle-two PASS_WITH_P3/no P0-P2. Rerun final QA, fresh-fetch/no divergence, inspect full unpushed range and exact reviewed eight-path stage/secret/claim scope, docs-only commit/push and final alignment. Decision: DEFER new guide, PRESERVE existing one-lane owner; weekly October25 due."
+      "next_step": "Reviewed docs/research commit 37e67a6b3157161b5562a2de8d07a9fd333b3b3b pushed with local/origin alignment; no Pages/site change. Push same-scope factual closeout and recheck alignment. Next heartbeat select distinct source-grounded guide candidate or verified existing-page gap; do not repeat this qualification absent named new evidence. Weekly October25 due."
     },
     {
       "id": "KAL-RES-043",
