@@ -6,6 +6,27 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-044",
+      "title": "Qualify a distinct small-space preschool indoor movement guide job",
+      "kind": "guide-candidate-discovery",
+      "status": "reviewed-release-pending",
+      "registered_on": "2026-10-19",
+      "base_commit": "f78b86151625388524303de42b78f97e3803aaa4",
+      "exact_paths": ["seo/indoor-obstacle-course-guide-discovery-2026-10-19.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-19",
+      "evidence_class": "Current public caregiver questions and primary activity guidance will be SOURCE_BACKED within limits; live result sample MEASURED as sampled SERP only; caregiver task RESEARCH_HYPOTHESIS; fit/priority EDITORIAL_JUDGMENT; keyword demand, top-five rank, family and physical outcomes UNKNOWN.",
+      "user_problem": "A caregiver wants one engaging indoor movement start for a preschooler in limited space without a broad search or assuming every child can use a generic obstacle course.",
+      "hypothesis": "Three to five current public caregiver questions plus one live query family/ranking-body sample can establish or falsify a distinct, source-maintainable small-space indoor obstacle-course guide job beyond existing KAL cards and hubs.",
+      "acceptance": "Dated retained question set with URL/date/paraphrased decision/abilities/constraints; one live query family and opened ranking bodies, primary source and existing-owner comparison; source-grounded persona and stress with required outputs, every-section all13-or-justified-N/A proxy; BUILD/UPGRADE/PRESERVE/DEFER/REJECT with exact search/material/owner/maintainability gates and reconsideration trigger. No indexable page in this action.",
+      "qa_plan": "Validate newest public-safe GSC against prior/roadmap; git diff --check, jq roadmap/unique IDs, node --test tools/*.test.mjs, changed JSON/CSV parse, Markdown refs/source/privacy/exact-eight scope; different independent read-only PASS/PASS_WITH_P3 within three cycles; fresh no-divergence fetch, exact reviewed docs-only push/final alignment.",
+      "measurement_plan": "Separate anecdotal public questions from market demand and sampled search bodies from achievable rank. Evaluate existing KAL start route at desktop/mobile as a proxy, not a family trial. Name evidence that would reverse the decision.",
+      "production_invariants": "No site, generator, data, strategy, workflow, automation or Control Room changes; no new URL, indexing, paid call, product/outcome/safety claim. Preserve October25 weekly due date and unrelated observation windows.",
+      "observation_window": "Sound Shaker and other reviewed releases may be inspected but not rewritten; observation windows do not bar unrelated research. Next weekly due October25.",
+      "reconsider_conditions": "Source contradiction, strong existing-page fit, competitive bodies already solving the exact job, missing material demand or maintainable evidence, reviewer P0-P2, remote divergence or new valid caregiver/search evidence changes the decision. A build requires separate registration.",
+      "artifact": "seo/indoor-obstacle-course-guide-discovery-2026-10-19.md",
+      "next_step": "Dalton read-only cycle-two PASS_WITH_P3/no P0-P2. Rerun final QA, fresh-fetch/no divergence, inspect full unpushed range and exact reviewed eight-path stage/secret/claim scope, docs-only commit/push and final alignment. Decision: DEFER new guide, PRESERVE existing one-lane owner; weekly October25 due."
+    },
+    {
       "id": "KAL-RES-043",
       "title": "Audit full Sound Shaker critical-cue arrival after released repair",
       "kind": "existing-page-qualification",

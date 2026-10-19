@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 19 Small-Space Indoor Course Decision
+
+`KAL-RES-044` [dated four-question/live-body qualification](../seo/indoor-obstacle-course-guide-discovery-2026-10-19.md) **DEFERS** a separate indexable obstacle-course guide and **PRESERVES** the existing indoor chooser's bounded Paper Puddle start. A multi-station course is a distinct search-shaped job, but six opened bodies already answer generic setup, only one current question is focus-age, exact material demand and incremental KAL output are unknown, and the current owner covers the adjacent short-lane job. Reopen only on named first-party/independent exact-query demand, repeated constrained task failure, a source-reconciled floor-level sequence with stop/skip and a live result gap. Any upgrade or build requires its own registered transaction; no cadence-only rerun, page, product, paid call or family/safety claim. Weekly October25 remains due.
+
 ## October 17 Sound Shaker Existing-Owner Brief
 
 `KAL-RES-042` [dated source/live first-start audit](../reviews/sound-shaker-first-start-audit-2026-10-17.md) returns **IMPROVE existing card and age-four science-collection block in a separate implementation**. NAEYC supports a preschool sound-pair game, while current AAP guidance makes accessible small objects and younger-child reach a real planning constraint. Both current surfaces put executable steps before the only seal/supervision note; card mobile first-step/check y592/1242 and 320/root32 y1013/1779. Adult pair preparation, bounded closure/reach decision, spill stop/rescue, cleanup and unmeasured time/mess language need source-reconciled treatment before a child-facing first shake. No new guide/page, DIY safety certification, family outcome or search-demand inference from GSC card2/0. Read-only research transaction only; preserve October18 weekly due date.
