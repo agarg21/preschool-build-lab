@@ -132,6 +132,7 @@ test("moment chooser names seven exact routes and adult roles", () => {
     ],
   );
   assert.match(css, /\.indoor-start \{\s+scroll-margin-top: 112px;/);
+  assert.match(css, /\.indoor-hero h1 \{\s+overflow-wrap: anywhere;/);
   assert.match(css, /\.indoor-page \.chooser td::before/);
 });
 
@@ -150,7 +151,14 @@ test("six starts expose setup, rescue, stop, and local parent checks", () => {
     assert.match(body, /class="small-link"/);
   }
   const movement = starts.find((match) => match[1] === "paper-puddle-path")?.[2] ?? "";
-  assert.match(movement, /Stop if paper or tape lifts, the path slides, running starts/);
+  assert.match(movement, /Stop and clear the path if paper or tape lifts, the path slides, running starts/);
+  assert.match(movement, /If you cannot watch every child who can reach it and stay close enough to stop the route, skip this start/);
+  assert.ok(movement.indexOf("Stop:") < movement.indexOf("Kid idea:"));
+  assert.ok(movement.indexOf("Parent check:") < movement.indexOf('<ol class="card-steps">'));
+  for (const [slug, body] of starts.map((match) => [match[1], match[2]])) {
+    if (slug === "paper-puddle-path") continue;
+    assert.ok(body.indexOf('<ol class="card-steps">') < body.indexOf("Stop:"), `${slug} order changed`);
+  }
   const blanket = starts.find((match) => match[1] === "blanket-toy-crossing")?.[2] ?? "";
   assert.match(blanket, /the route is for the toy, not for feet/);
   assert.match(blanket, /Move the toy along or between the supports/);

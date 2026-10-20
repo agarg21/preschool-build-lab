@@ -620,8 +620,9 @@ PAGES = [
                 "adult_role": "Test the tape, secure every shape flat, and keep the path short enough to supervise from one position.",
                 "steps": ["Stand beside the first shape.", "Step onto each shape using the named movement.", "Walk around the path to reset."],
                 "rescue": "Use two shapes within one easy step and ask for one crossing.",
-                "stop": "Stop if paper or tape lifts, the path slides, running starts, or the route reaches a doorway or walkway.",
-                "parent": "Check the floor and spacing yourself. Stay close enough to stop the route when the surface or movement no longer fits.",
+                "stop": "Stop and clear the path if paper or tape lifts, the path slides, running starts, or the route reaches a doorway or walkway.",
+                "parent": "Before making the path, check the floor and spacing yourself. If you cannot watch every child who can reach it and stay close enough to stop the route, skip this start.",
+                "stop_before_action": True,
                 "url": "https://extension.psu.edu/programs/betterkidcare/content-areas/environment-curriculum/activities/all-activities/active-play-for-rainy-days",
                 "link_text": "See the source activity shape",
             },
@@ -1522,11 +1523,17 @@ def building_activity_card(activity):
 
 def indoor_activity_card(activity):
     steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
+    stop_html = f'''          <div class="challenge-stop">
+            <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
+            <p><strong>Parent check:</strong> {esc(activity["parent"])}</p>
+          </div>'''
+    early_stop = f"{stop_html}\n" if activity.get("stop_before_action") else ""
+    late_stop = "" if early_stop else f"{stop_html}\n"
     return f'''        <article class="seo-activity indoor-start" id="{esc(activity["slug"])}">
           <div>
             <p class="challenge-label">{esc(activity["job"])}</p>
             <h2>{esc(activity["title"])}</h2>
-            <p class="challenge-mission"><strong>Kid idea:</strong> {esc(activity["mission"])}</p>
+{early_stop}            <p class="challenge-mission"><strong>Kid idea:</strong> {esc(activity["mission"])}</p>
             <div class="source-tags">
               <span class="tag">Editorial preschool route</span>
             </div>
@@ -1537,11 +1544,7 @@ def indoor_activity_card(activity):
           <div class="challenge-details indoor-rescue">
             <p><strong>If it stalls</strong>{esc(activity["rescue"])}</p>
           </div>
-          <div class="challenge-stop">
-            <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
-            <p><strong>Parent check:</strong> {esc(activity["parent"])}</p>
-          </div>
-          <a class="small-link" href="{esc(activity["url"])}">{esc(activity["link_text"])}</a>
+{late_stop}          <a class="small-link" href="{esc(activity["url"])}">{esc(activity["link_text"])}</a>
         </article>'''
 
 

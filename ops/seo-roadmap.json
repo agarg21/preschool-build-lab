@@ -6,6 +6,27 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-034",
+      "title": "Put Paper Puddle adult stop decision before direct-fragment child steps",
+      "kind": "existing-page-repair",
+      "status": "release-pending",
+      "registered_on": "2026-10-20",
+      "base_commit": "59324d022ed2c85e6509159d7057389c747010a9",
+      "exact_paths": ["scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/collections/indoor-activities-for-preschoolers.html", "site/sitemap.xml", "site/styles.css", "tools/preschool-indoor-consolidation.test.mjs", "tools/site-architecture.test.mjs", "reviews/indoor-paper-puddle-before-action-repair-2026-10-20.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-20",
+      "evidence_class": "Production direct-fragment geometry MEASURED technically; October19 public-question persona RESEARCH_HYPOTHESIS; Penn State paper-puddle movement shape SOURCE_BACKED within limits; bounded home adult check EDITORIAL_JUDGMENT; family/physical/SEO outcomes UNKNOWN.",
+      "user_problem": "A caregiver arriving directly at the Paper Puddle Path must see the local floor/reach/stop decision before asking a preschooler to step onto taped paper.",
+      "hypothesis": "A concise target-specific adult prestart check before the first child move can clear the direct-fragment critical order without changing the five other indoor starts or claiming safe home use.",
+      "acceptance": "Existing URL/canonical/H1, six choices/other five starts, one-lane mechanism, Penn State source and not-family-tested note preserved; target adult floor/reach/stop/postpone before child action. Same source-grounded task/every-section all13 and critical override at desktop/390/320/root32 direct/linked keyboard/Back, focus/fit/errors/accessibility. No new URL, broad roundup or product/outcome claim.",
+      "qa_plan": "GSC validate; three generators twice with idempotence/exact output scope; all local links/fragments; git diff --check, jq roadmap/unique IDs, node --test tools/*.test.mjs, changed JSON/CSV parse, source/privacy/exact14; different independent read-only PASS/PASS_WITH_P3 within three cycles; fresh no-divergence exact-stage push, exact-SHA Pages/live affected bytes/task and final alignment.",
+      "measurement_plan": "Compare same parent task and before/after article geometry/DOM order at direct and chooser-linked arrivals; proxy only, not caregiver comprehension, physical safety or causal SEO. GSC page/query rows remain limited.",
+      "production_invariants": "No other indoor starts, site/data/strategy/workflow/automation/Control Room changes; preserve existing search owner, evidence/untested boundaries, October25 weekly due and unrelated observation windows.",
+      "observation_window": "Existing indoor page may be repaired for a verified first-action trust gap; all unrelated released pages remain in their observation windows. Weekly due October25.",
+      "reconsider_conditions": "Source contradiction, inability to express a clear target-specific adult check without overclaiming, unexpected generated scope, failed task/QA/reviewer P0-P2, remote divergence or production regression; revert only with unambiguous exact scope.",
+      "artifact": "reviews/indoor-paper-puddle-before-action-repair-2026-10-20.md",
+      "next_step": "Mill independent read-only cycle-three PASS/no P0-P3 after wording corrections. Fresh fetch/no divergence and complete unpushed-range inspection, exact-stage/privacy reviewed push, exact-SHA Pages/live affected bytes/task and final alignment. Weekly October25 due."
+    },
+    {
       "id": "KAL-RES-044",
       "title": "Qualify a distinct small-space preschool indoor movement guide job",
       "kind": "guide-candidate-discovery",

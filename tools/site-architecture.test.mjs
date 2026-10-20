@@ -147,7 +147,7 @@ with tempfile.TemporaryDirectory() as directory:
   assert.match(result.xml, /<loc>https:\/\/kidactivitylab\.com\/<\/loc>\s+<lastmod>2026-07-01<\/lastmod>/);
   assert.match(
     result.xml,
-    /<loc>https:\/\/kidactivitylab\.com\/collections\/indoor-activities-for-preschoolers\.html<\/loc>\s+<lastmod>2026-08-05<\/lastmod>/,
+    /<loc>https:\/\/kidactivitylab\.com\/collections\/indoor-activities-for-preschoolers\.html<\/loc>\s+<lastmod>2026-10-20<\/lastmod>/,
   );
   assert.doesNotMatch(result.xml, /2099-01-01|2100-01-01/);
 });

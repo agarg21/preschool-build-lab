@@ -1721,6 +1721,10 @@ th {
   border-bottom: 1px solid var(--line);
 }
 
+.indoor-hero h1 {
+  overflow-wrap: anywhere;
+}
+
 .indoor-page .chooser {
   margin-top: 34px;
 }
