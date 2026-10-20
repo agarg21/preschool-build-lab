@@ -9,7 +9,7 @@
       "id": "KAL-RES-045",
       "title": "Qualify a distinct preschool leaf-rubbing guide job",
       "kind": "guide-candidate-discovery",
-      "status": "registered",
+      "status": "completed",
       "registered_on": "2026-10-20",
       "base_commit": "9b2b01520e4043d23ccc2adf5fd4f9c93c3f473c",
       "exact_paths": ["seo/leaf-rubbing-guide-discovery-2026-10-20.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,8 +24,9 @@
       "observation_window": "Existing reviewed pages may be inspected read-only; their observation windows do not bar unrelated qualification. Weekly due October25.",
       "reconsider_conditions": "Source contradiction, strong existing-page fit, current results already solving exact job, missing material demand or maintainable evidence, reviewer P0-P2, remote divergence, or new first-party/independent exact-query evidence. Build only by separate registration.",
       "artifact": "seo/leaf-rubbing-guide-discovery-2026-10-20.md",
-      "next_step": "Dated DEFER decision, GSC93, four questions, one exact live query/opened bodies, four-mode zero-result task, all13 proxy2/26, final native137/JSON103/refs222/privacy and Archimedes cycle-three PASS/no P0-P3 recorded. Fresh-fetch/no divergence, inspect unpushed range/exact stage/privacy, docs-only release and final alignment; weekly October25 due.",
-      "result": "DEFER new indexable guide; preserve truthful card-only empty state. Core task absent on KAL, but exact material demand, source-bounded incremental output and addressable live gap unproven. Reopen only on named exact demand/focus-age task/maintained stop and result-gap evidence."
+      "next_step": "Reviewed 4b786b49b261198d798c74a9a56e1dd673247d97 pushed docs-only with immediate local/origin0/0, Archimedes cycle-three PASS and native137. Verify final alignment after factual closeout; at the next heartbeat select a distinct qualified guide candidate or verified existing-page gap, no leaf repeat absent named evidence. Weekly October25 due.",
+      "result": "DEFER new indexable guide; preserve truthful card-only empty state. Core task absent on KAL, but exact material demand, source-bounded incremental output and addressable live gap unproven. Reopen only on named exact demand/focus-age task/maintained stop and result-gap evidence.",
+      "release": {"state": "completed", "site_changed": false, "reviewed_commit": "4b786b49b261198d798c74a9a56e1dd673247d97", "pages_run": null, "final_alignment_after_reviewed_push": "0/0"}
     },
     {
       "id": "KAL-IMP-034",
