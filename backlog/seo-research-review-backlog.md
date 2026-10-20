@@ -1,5 +1,10 @@
 # SEO Research & Review Backlog
 
+## October 20 Afternoon Leaf-Rubbing Guide Decision
+
+`KAL-RES-045` [dated four-question/live-body task](../seo/leaf-rubbing-guide-discovery-2026-10-20.md) **DEFERS** a separate indexable preschool leaf-rubbing guide and preserves the truthful card-only library empty state. Internal route absence is real but is not search demand; current PBS, university extension, museum and educator bodies already explain the concise one-leaf method. No sampled question asks for leaf rubbing exactly, and source-bounded material selection/younger reach plus incremental KAL decision utility remain unresolved. Reopen only on named exact demand/repeated focus-age task, maintained material/stop evidence and an addressable live result gap; a build is separately registered. No cadence-only requalification, paid call, indexing or family/outcome claim. Weekly October25 due.
+
+
 ## October 19 Small-Space Indoor Course Decision
 
 `KAL-RES-044` [dated four-question/live-body qualification](../seo/indoor-obstacle-course-guide-discovery-2026-10-19.md) **DEFERS** a separate indexable obstacle-course guide and **PRESERVES** the existing indoor chooser's bounded Paper Puddle start. A multi-station course is a distinct search-shaped job, but six opened bodies already answer generic setup, only one current question is focus-age, exact material demand and incremental KAL output are unknown, and the current owner covers the adjacent short-lane job. Reopen only on named first-party/independent exact-query demand, repeated constrained task failure, a source-reconciled floor-level sequence with stop/skip and a live result gap. Any upgrade or build requires its own registered transaction; no cadence-only rerun, page, product, paid call or family/safety claim. Weekly October25 remains due.

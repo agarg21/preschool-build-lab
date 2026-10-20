@@ -6,6 +6,28 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-045",
+      "title": "Qualify a distinct preschool leaf-rubbing guide job",
+      "kind": "guide-candidate-discovery",
+      "status": "registered",
+      "registered_on": "2026-10-20",
+      "base_commit": "9b2b01520e4043d23ccc2adf5fd4f9c93c3f473c",
+      "exact_paths": ["seo/leaf-rubbing-guide-discovery-2026-10-20.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-20",
+      "evidence_class": "Current public questions and primary guidance to be SOURCE_BACKED within limits; sampled live results MEASURED as a sample only; caregiver task RESEARCH_HYPOTHESIS; fit and priority EDITORIAL_JUDGMENT; exact demand, family/physical and SEO outcomes UNKNOWN.",
+      "user_problem": "A caregiver seeking a simple preschool art/nature start with leaf and crayon needs to choose workable materials and begin without a broad search.",
+      "hypothesis": "Current public questions, live results and maintained instructions may reveal a distinct leaf-rubbing parent job with incremental KAL decision value beyond current owners.",
+      "acceptance": "Retain 3-5 dated public questions with URL/date/paraphrased decision/abilities/constraints; one live query family and opened ranking bodies, primary source and current owner comparison; source-grounded persona/stress, required outputs and every-section all13-or-justified-N/A desktop/mobile proxy; BUILD/UPGRADE/PRESERVE/DEFER/REJECT with exact search/material/owner/maintainability gates and reconsideration trigger. No page edit in this action.",
+      "qa_plan": "Validate newest GSC versus prior/roadmap; git diff --check, jq roadmap/unique IDs, node --test tools/*.test.mjs, parse changed structured files, Markdown refs/source/privacy/exact-eight scope; different independent read-only PASS/PASS_WITH_P3 within three cycles; fresh no-divergence fetch, exact reviewed docs-only push and final alignment.",
+      "measurement_plan": "Separate anecdotes from demand and sampled search bodies from achievable rank; desktop/mobile existing-owner task is a proxy, never a family trial. Record evidence that would reverse the decision.",
+      "production_invariants": "No site, generator, data, strategy, workflow, automation or Control Room changes; no new URL, indexing, paid call, product or outcome claim. Preserve October25 weekly due and unrelated observation windows.",
+      "observation_window": "Existing reviewed pages may be inspected read-only; their observation windows do not bar unrelated qualification. Weekly due October25.",
+      "reconsider_conditions": "Source contradiction, strong existing-page fit, current results already solving exact job, missing material demand or maintainable evidence, reviewer P0-P2, remote divergence, or new first-party/independent exact-query evidence. Build only by separate registration.",
+      "artifact": "seo/leaf-rubbing-guide-discovery-2026-10-20.md",
+      "next_step": "Dated DEFER decision, GSC93, four questions, one exact live query/opened bodies, four-mode zero-result task, all13 proxy2/26, final native137/JSON103/refs222/privacy and Archimedes cycle-three PASS/no P0-P3 recorded. Fresh-fetch/no divergence, inspect unpushed range/exact stage/privacy, docs-only release and final alignment; weekly October25 due.",
+      "result": "DEFER new indexable guide; preserve truthful card-only empty state. Core task absent on KAL, but exact material demand, source-bounded incremental output and addressable live gap unproven. Reopen only on named exact demand/focus-age task/maintained stop and result-gap evidence."
+    },
+    {
       "id": "KAL-IMP-034",
       "title": "Put Paper Puddle adult stop decision before direct-fragment child steps",
       "kind": "existing-page-repair",

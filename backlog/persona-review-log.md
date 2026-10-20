@@ -1,5 +1,10 @@
 # Persona Review Log
 
+## October 20 Afternoon - Leaf-Rubbing Start Decision
+
+`KAL-RES-045` [dated source/live every-section qualification](../seo/leaf-rubbing-guide-discovery-2026-10-20.md) uses four adjacent current public questions as a `RESEARCH_HYPOTHESIS` one-leaf/paper/crayon preschool start, with younger-child mouthing and split adult attention as stress. Required outputs are material/ability fit, adult leaf/setup choice, one kid move, faint-mark rescue and stop/cleanup; observable failure is needing a broad search. The existing 1280/390/320 and 320/root32 library finder truthfully returns zero `leaf` cards with named keyboard search, live count, fit and no sampled script errors, but no art start. Every visible route section reviewed; all13 dimensions apply, N/A none, `EDITORIAL_JUDGMENT` proxy **2/26**, critical core-task override. **DEFER** new indexable guide: no exact demand or incremental gap over opened PBS/Extension/museum bodies. No real parent, child, physical use, touch, universal zoom, screen reader or SEO effect.
+
+
 ## October 20 - Paper Puddle Direct Start And Skip
 
 `KAL-IMP-034` [same-task every-section review](../reviews/indoor-paper-puddle-before-action-repair-2026-10-20.md) uses a `RESEARCH_HYPOTHESIS` four-year-old/short strip/paper-tape/adult task from October19 public questions, with younger-child reach/divided attention and 320/root32 stress. All13 applicable, N/A none: `EDITORIAL_JUDGMENT` proxy **16/26 to 22/26**, and critical late-stop override clears technically. Normal desktop/390/320 direct and chooser-link arrival place full local cue before child mission/steps; 320/root32 cue y307-1465 is scroll-heavy but precedes steps y2613 with document width320. Canonical/H1, Back, image and sampled errors pass in local and exact-SHA production Chrome. Mill independent cycle-three PASS/no P0-P3, reviewed `8ed456b`, Pages39422416322 success and live HTML/CSS/sitemap byte-match complete release. No real parent, physical use, touch, browser zoom, screen reader, child outcome or SEO effect is claimed.

@@ -4,6 +4,15 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-20 Afternoon - KAL-RES-045 Leaf-Rubbing Guide Qualification
+
+- **Decision/persona:** [Dated four-question/live-body qualification](../seo/leaf-rubbing-guide-discovery-2026-10-20.md) **DEFERS** a new indexable leaf-rubbing guide and preserves the library's truthful zero-card state. `RESEARCH_HYPOTHESIS`: approximately four-year-old, fallen leaf/paper/crayon, adult one-leaf setup; younger-child mouthing and split attention stress. No sampled question asks for leaf rubbing by name.
+- **Hypothesis/result:** Internal route absence alone does not establish new-page eligibility. Local1280/390 finder `leaf` returns zero cards, width fits and no sampled script error; all13 `EDITORIAL_JUDGMENT` proxy **2/26**, N/A none, critical core task absent. Four adjacent public questions and opened PBS/Extension/museum/educator bodies show the simple procedure already served elsewhere; exact material demand and incremental KAL output remain unproven. Retire absence-equals-page hypothesis, not the creative lane.
+- **Sources/classes:** October20 question URLs/dates and publisher guidance `SOURCE_BACKED` within limits; single sampled query/bodies and local browser/GSC93 `MEASURED` only technically; persona `RESEARCH_HYPOTHESIS`; decision/score `EDITORIAL_JUDGMENT`. Family, material safety in practice, interest, duration, cleanup, learning, demand and SEO outcomes `UNKNOWN`.
+- **Confidence/lesson:** High in current KAL absence and opened body content, moderate in adjacent job signal, low in exact demand. A missing route is a task failure but not permission to duplicate concise authoritative how-tos.
+- **Next falsification trigger/measurement boundary:** Reopen on finalized exact-query or independent material demand, repeated focus-age constrained question, source-reconciled incremental fit/start/rescue output and addressable live gap; separate build registration. GSC October20 throughOctober18 rolling481/7 versus overlapping493/7 prior, full queries/routes unavailable; headless task is not a parent/child trial. October25 weekly due.
+
+
 ## 2026-10-20 - KAL-IMP-034 Paper Puddle Direct-Arrival Repair
 
 - **Decision/persona:** [Same-task, every-section review](../reviews/indoor-paper-puddle-before-action-repair-2026-10-20.md) **IMPROVES** the existing indoor chooser's one-lane Paper Puddle start, not a new course guide. `RESEARCH_HYPOTHESIS`: caregiver of an approximately four-year-old has paper/tape and one short strip; younger-child reach, divided attention and 320/root32 text are stresses. Needs start/skip, materials, adult setup, first move, rescue and clear without another broad search.
