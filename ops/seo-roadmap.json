@@ -9,7 +9,7 @@
       "id": "KAL-IMP-034",
       "title": "Put Paper Puddle adult stop decision before direct-fragment child steps",
       "kind": "existing-page-repair",
-      "status": "release-pending",
+      "status": "completed",
       "registered_on": "2026-10-20",
       "base_commit": "59324d022ed2c85e6509159d7057389c747010a9",
       "exact_paths": ["scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/collections/indoor-activities-for-preschoolers.html", "site/sitemap.xml", "site/styles.css", "tools/preschool-indoor-consolidation.test.mjs", "tools/site-architecture.test.mjs", "reviews/indoor-paper-puddle-before-action-repair-2026-10-20.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,7 +24,7 @@
       "observation_window": "Existing indoor page may be repaired for a verified first-action trust gap; all unrelated released pages remain in their observation windows. Weekly due October25.",
       "reconsider_conditions": "Source contradiction, inability to express a clear target-specific adult check without overclaiming, unexpected generated scope, failed task/QA/reviewer P0-P2, remote divergence or production regression; revert only with unambiguous exact scope.",
       "artifact": "reviews/indoor-paper-puddle-before-action-repair-2026-10-20.md",
-      "next_step": "Mill independent read-only cycle-three PASS/no P0-P3 after wording corrections. Fresh fetch/no divergence and complete unpushed-range inspection, exact-stage/privacy reviewed push, exact-SHA Pages/live affected bytes/task and final alignment. Weekly October25 due."
+      "next_step": "Reviewed 8ed456bf4c71d4d1b1e501459785ae416a4e8a4c pushed; exact-SHA Pages 39422416322 success, live indoor HTML/CSS/sitemap byte-match and production 1280/390/320/root32 parent route pass. Push same-scope factual closeout and verify final alignment; then new heartbeat sensing/priority for a distinct candidate or verified task gap. Weekly October25 due."
     },
     {
       "id": "KAL-RES-044",
