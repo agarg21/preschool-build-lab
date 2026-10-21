@@ -9,7 +9,7 @@
       "id": "KAL-RES-047",
       "title": "Audit card-library no-match recovery for a constrained creative start",
       "kind": "existing-flow-audit",
-      "status": "review_pending",
+      "status": "completed",
       "registered_on": "2026-10-21",
       "base_commit": "79633b9",
       "exact_paths": [
@@ -33,8 +33,15 @@
       "observation_window": "Existing pages inspected read-only; no protected-page edit. Weekly synthesis due October25.",
       "reconsider_conditions": "No-match route works under frozen task, existing alternative lacks material/setting/ability fit, source contradiction, reviewer P0-P2, remote divergence, or new direct parent/task evidence. Implementation requires a separate action.",
       "artifact": "reviews/card-finder-no-match-recovery-audit-2026-10-21.md",
-      "next_step": "Conditional existing-finder IMPROVE supported by production paint three painter-tape false positives after honest water paint zero; no guide. All13 proxy3/26, GSC94/native137/JSON105/refs235/exact-eight/privacy pass; Franklin final cycle-three PASS/no P0-P3. Fresh no-divergence exact-stage/docs-only push and alignment next; weekly October25 due.",
-      "result": "Conditional IMPROVE existing finder semantics and recovery hierarchy in a separately registered build; no water-painting URL or semantic activity substitution."
+      "next_step": "Reviewed ca5a0eb pushed docs-only after fresh0/0 fetch/exact-eight stage/privacy checks; Franklin cycle-three PASS, native137/GSC94/JSON105/refs235, immediate alignment0/0. Verify final alignment after factual closeout. Next heartbeat separately register existing finder repair if still highest eligible; weekly October25 due.",
+      "result": "Conditional IMPROVE existing finder semantics and recovery hierarchy in a separately registered build; no water-painting URL or semantic activity substitution.",
+      "release": {
+        "state": "completed",
+        "site_changed": false,
+        "reviewed_commit": "ca5a0eb",
+        "pages_run": null,
+        "final_alignment_after_reviewed_push": "0/0"
+      }
     },
     {
       "id": "KAL-RES-046",
