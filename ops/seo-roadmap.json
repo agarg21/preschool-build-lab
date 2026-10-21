@@ -6,6 +6,37 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-047",
+      "title": "Audit card-library no-match recovery for a constrained creative start",
+      "kind": "existing-flow-audit",
+      "status": "review_pending",
+      "registered_on": "2026-10-21",
+      "base_commit": "79633b9",
+      "exact_paths": [
+        "reviews/card-finder-no-match-recovery-audit-2026-10-21.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_date": "2026-10-21",
+      "evidence_class": "Morning public questions and maintained guidance SOURCE_BACKED within limits; current finder behavior MEASURED as a technical task; caregiver recovery persona RESEARCH_HYPOTHESIS; fit priority EDITORIAL_JUDGMENT; family/physical/SEO outcomes UNKNOWN.",
+      "user_problem": "A caregiver with a preschooler and a water-paint idea gets zero library matches and needs to decide whether an existing creative start fits available materials and setting without another broad search.",
+      "hypothesis": "The truthful no-match state may fail to provide a workable recovery route to an existing bounded activity; desktop/mobile and keyboard task evaluation can falsify that.",
+      "acceptance": "Freeze source-grounded persona, primary/secondary constraints and observable required outputs; inspect live/local zero state and adjacent current owner at desktop/mobile/enlarged text, keyboard, fit, errors and accessibility; review every section and all13 applicable proxy dimensions with critical override; return PRESERVE/IMPROVE/DEFER with an exact owner, task gap and separate build gate if needed. No site edit in this action.",
+      "qa_plan": "Validate newest GSC versus prior/roadmap; git diff --check, jq roadmap/unique IDs, node --test tools/*.test.mjs, parse changed JSON, Markdown refs/source/privacy/exact-eight scope; different independent read-only PASS/PASS_WITH_P3 within three cycles; fresh no-divergence fetch, exact reviewed docs-only push and final alignment.",
+      "measurement_plan": "Technical browser and editorial persona proxy only; not observed parent behavior, family use, physical safety or SEO effect. Record evidence that would reverse the decision.",
+      "production_invariants": "No site, generator, data, strategy, workflow, automation or Control Room changes; no new URL, indexing, paid call, product or outcome claim. Preserve October25 weekly due and unrelated observation windows.",
+      "observation_window": "Existing pages inspected read-only; no protected-page edit. Weekly synthesis due October25.",
+      "reconsider_conditions": "No-match route works under frozen task, existing alternative lacks material/setting/ability fit, source contradiction, reviewer P0-P2, remote divergence, or new direct parent/task evidence. Implementation requires a separate action.",
+      "artifact": "reviews/card-finder-no-match-recovery-audit-2026-10-21.md",
+      "next_step": "Conditional existing-finder IMPROVE supported by production paint three painter-tape false positives after honest water paint zero; no guide. All13 proxy3/26, GSC94/native137/JSON105/refs235/exact-eight/privacy pass; Franklin final cycle-three PASS/no P0-P3. Fresh no-divergence exact-stage/docs-only push and alignment next; weekly October25 due.",
+      "result": "Conditional IMPROVE existing finder semantics and recovery hierarchy in a separately registered build; no water-painting URL or semantic activity substitution."
+    },
+    {
       "id": "KAL-RES-046",
       "title": "Qualify a distinct preschool pavement water-painting guide job",
       "kind": "guide-candidate-discovery",

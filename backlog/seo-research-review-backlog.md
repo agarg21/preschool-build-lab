@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 21 Afternoon Finder Recovery Decision
+
+`KAL-RES-047` [dated production task/every-section audit](../reviews/card-finder-no-match-recovery-audit-2026-10-21.md) conditionally **IMPROVES existing `cards.html` finder** only, by a separately registered generator-aware transaction: `paint` matches three painter-tape cards by substring after a truthful `water paint` zero, while the default no-match link detours to the standard-deck chooser. Preserve all36/no-JS/keyboard/Clear/early game route; test exact and contrasting queries, enlarged text and accessibility before release. No evidence to create a water-painting URL, semantic activity recommendation, new taxonomy, indexing request, paid call or family/outcome claim. GSC94 is query-thin; weekly synthesis due October25.
+
 ## October 21 Pavement Water-Painting Guide Decision
 
 `KAL-RES-046` [dated four-question/live-body qualification](../seo/pavement-water-painting-guide-discovery-2026-10-21.md) **DEFERS** a separate indexable preschool water-painting guide and preserves the truthful library zero result. Current Illinois/Purdue/PBS and preschool-publisher bodies already explain water/brush marking; four adjacent 2026 caregiver questions show art setup/outdoor constraints, not exact focus-age search demand. AAP water-container and heat guidance is a general boundary, not proof of safe practice. Reopen only on named exact demand or repeated constrained focus-age task plus a specific incremental surface/weather/container/start/rescue output over live bodies. No site edit, paid call, indexing or family/outcome claim; October25 weekly due.
