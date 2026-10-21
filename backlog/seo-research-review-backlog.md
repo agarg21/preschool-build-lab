@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October 21 Pavement Water-Painting Guide Decision
+
+`KAL-RES-046` [dated four-question/live-body qualification](../seo/pavement-water-painting-guide-discovery-2026-10-21.md) **DEFERS** a separate indexable preschool water-painting guide and preserves the truthful library zero result. Current Illinois/Purdue/PBS and preschool-publisher bodies already explain water/brush marking; four adjacent 2026 caregiver questions show art setup/outdoor constraints, not exact focus-age search demand. AAP water-container and heat guidance is a general boundary, not proof of safe practice. Reopen only on named exact demand or repeated constrained focus-age task plus a specific incremental surface/weather/container/start/rescue output over live bodies. No site edit, paid call, indexing or family/outcome claim; October25 weekly due.
+
 ## October 20 Afternoon Leaf-Rubbing Guide Decision
 
 `KAL-RES-045` [dated four-question/live-body task](../seo/leaf-rubbing-guide-discovery-2026-10-20.md) **DEFERS** a separate indexable preschool leaf-rubbing guide and preserves the truthful card-only library empty state. Internal route absence is real but is not search demand; current PBS, university extension, museum and educator bodies already explain the concise one-leaf method. No sampled question asks for leaf rubbing exactly, and source-bounded material selection/younger reach plus incremental KAL decision utility remain unresolved. Reopen only on named exact demand/repeated focus-age task, maintained material/stop evidence and an addressable live result gap; a build is separately registered. No cadence-only requalification, paid call, indexing or family/outcome claim. Weekly October25 due.

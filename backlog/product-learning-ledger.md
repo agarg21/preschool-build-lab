@@ -4,6 +4,14 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-21 - KAL-RES-046 Pavement Water-Painting Qualification
+
+- **Decision/persona:** [Dated four-question/live-body task](../seo/pavement-water-painting-guide-discovery-2026-10-21.md) **DEFERS** a new indexable guide and preserves the truthful library no-match. `RESEARCH_HYPOTHESIS`: approximately four-year-old, outdoor hard surface, water/brush/adult first mark; younger-child water access, divided attention and hot pavement stress.
+- **Hypothesis/result:** A source-bounded fit/start/stop guide might add value beyond a generic recipe, but one sampled query and five opened bodies already teach the method; four adjacent 2026 questions do not establish exact focus-age material demand. Local1280/390/320 and320/root32 `water paint` finder shows zero of36, visible empty state, width fit/no sampled errors; normal-mode keyboard Clear works. All13 `EDITORIAL_JUDGMENT` proxy **2/26**, N/A none, critical core task absent. A missing route still does not qualify a new URL.
+- **Sources/classes:** Dated public questions and opened Purdue/Illinois/PBS/preschool bodies `SOURCE_BACKED` within limits; AAP water/heat boundaries `SOURCE_BACKED` generally; sampled search, local Chrome and GSC93 technically `MEASURED`; persona `RESEARCH_HYPOTHESIS`; defer/score `EDITORIAL_JUDGMENT`. Exact demand, physical safety, duration, mess, child interest/learning and SEO outcome `UNKNOWN`.
+- **Confidence/lesson:** High in owner absence/opened bodies, moderate in adjacent constraints, low in exact demand. A future answer needs an evidenced surface/weather/container decision and postpone path, not a duplicated water recipe.
+- **Next falsification trigger/measurement boundary:** Reopen on exact focus-age question or independent/first-party demand plus an addressable live decision gap and maintained water/heat boundaries; any build separately registered. GSC October20 rolling481/7 throughOctober18 versus overlapping493/7 prior lacks complete queries/routes. Browser task is not a family/physical test. October25 synthesis due.
+
 ## 2026-10-20 Afternoon - KAL-RES-045 Leaf-Rubbing Guide Qualification
 
 - **Decision/persona:** [Dated four-question/live-body qualification](../seo/leaf-rubbing-guide-discovery-2026-10-20.md) **DEFERS** a new indexable leaf-rubbing guide and preserves the library's truthful zero-card state. `RESEARCH_HYPOTHESIS`: approximately four-year-old, fallen leaf/paper/crayon, adult one-leaf setup; younger-child mouthing and split attention stress. No sampled question asks for leaf rubbing by name.
