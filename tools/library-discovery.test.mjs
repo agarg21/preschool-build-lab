@@ -19,15 +19,15 @@ test("library keeps its owner and all static routes without JavaScript", () => {
   assert.ok(html.indexOf('href="articles/paper-straw-rocket.html"') < html.indexOf('id="activity-card-finder"'));
   assert.match(html, /<div class="card-finder-controls" hidden>/);
   assert.match(html, /<section class="library-grid" aria-label="Activity cards">/);
-  assert.match(html, /<script src="assets\/cards-finder.js\?v=1" defer><\/script>/);
+  assert.match(html, /<script src="assets\/cards-finder.js\?v=2" defer><\/script>/);
   assert.match(css, /\.library-grid \.mini-card\[hidden\]\s*\{\s*display: none;/);
-  assert.match(fs.readFileSync("site/sitemap.xml", "utf8"), /<loc>https:\/\/kidactivitylab.com\/cards.html<\/loc>\s*<lastmod>2026-10-17<\/lastmod>/);
+  assert.match(fs.readFileSync("site/sitemap.xml", "utf8"), /<loc>https:\/\/kidactivitylab.com\/cards.html<\/loc>\s*<lastmod>2026-10-22<\/lastmod>/);
 });
 
 test("finder has a named input, status, and a truthful deck route", () => {
   assert.match(html, /<label for="card-finder-query">Find by title or material<\/label>/);
   assert.match(html, /id="card-finder-count" role="status" aria-live="polite"/);
-  assert.match(html, /id="card-finder-empty" hidden>No activity cards match\. <a href="collections\/card-games-for-kids.html">/);
+  assert.match(html, /id="card-finder-empty" hidden>No activity cards match\. Try another title or material, or use Clear to see all cards\. Looking for a card game instead\? <a href="collections\/card-games-for-kids.html">/);
   assert.match(css, /\.card-finder\s*\{[^}]*scroll-margin-top: max\(104px, 6rem\)/s);
 });
 
@@ -64,6 +64,32 @@ test("literal matching, empty state, and clear work without changing the card so
   assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/paper-chain-test.html"]);
   assert.equal(empty.hidden, true);
   assert.equal(clear.disabled, false);
+
+  for (const value of ["water paint", "brush", "paint"]) {
+    query.value = value;
+    listeners.input();
+    assert.equal(count.textContent, "0 of 36 activity cards", value);
+    assert.equal(empty.hidden, false, value);
+  }
+
+  query.value = "painter tape";
+  listeners.input();
+  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
+
+  query.value = "painter's tape";
+  listeners.input();
+  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
+
+  for (const [term, expected] of [
+    ["cup", "cards/color-mixing-cups.html"],
+    ["block", "cards/block-tower.html"],
+    ["bowl", "cards/spoon-transfer.html"],
+    ["container", "cards/sound-shaker-match.html"],
+  ]) {
+    query.value = term;
+    listeners.input();
+    assert.ok(links.some((link) => !link.hidden && link.href === expected), `${term} should find ${expected}`);
+  }
 
   query.value = "deck";
   listeners.input();

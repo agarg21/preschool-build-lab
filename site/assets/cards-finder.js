@@ -7,16 +7,20 @@
   const empty = document.querySelector("#card-finder-empty");
   if (!controls || !grid || !query || !clear || !count || !empty) return;
 
+  const words = (value) => {
+    const tokens = value.toLocaleLowerCase().replace(/['\u2019]s\b/gu, "").match(/[\p{L}\p{N}]+/gu) || [];
+    return tokens.map((word) => word.length > 3 && word.endsWith("s") && !word.endsWith("ss") ? word.slice(0, -1) : word);
+  };
   const cards = [...grid.querySelectorAll(".mini-card")].map((link) => ({
     link,
-    search: (link.querySelector("template")?.dataset.search || "").toLocaleLowerCase(),
+    search: new Set(words(link.querySelector("template")?.dataset.search || "")),
   }));
 
   const update = () => {
-    const terms = query.value.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+    const terms = words(query.value);
     let shown = 0;
     for (const card of cards) {
-      const match = terms.every((term) => card.search.includes(term));
+      const match = terms.every((term) => card.search.has(term));
       card.link.hidden = !match;
       if (match) shown += 1;
     }

@@ -18,7 +18,8 @@ test("sound shaker keeps existing page ownership", () => {
   assert.match(collection, /rel="canonical" href="https:\/\/kidactivitylab.com\/collections\/science-experiments-for-4-year-olds.html"/);
   for (const path of ["cards/sound-shaker-match.html", "collections/science-experiments-for-4-year-olds.html", "cards.html"]) {
     assert.equal(sitemap.split(`<loc>https://kidactivitylab.com/${path}</loc>`).length - 1, 1);
-    assert.match(sitemap, new RegExp(`<loc>https://kidactivitylab\\.com/${path.replaceAll(".", "\\.")}</loc>\\s*<lastmod>2026-10-17</lastmod>`));
+    const lastmod = path === "cards.html" ? "2026-10-22" : "2026-10-17";
+    assert.match(sitemap, new RegExp(`<loc>https://kidactivitylab\\.com/${path.replaceAll(".", "\\.")}</loc>\\s*<lastmod>${lastmod}</lastmod>`));
   }
 });
 

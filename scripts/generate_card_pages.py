@@ -703,7 +703,7 @@ def cards_index():
     <meta name="description" content="One-screen activity cards preschoolers can follow with parent help. Low-prep play using household materials.">
     <link rel="canonical" href="https://kidactivitylab.com/cards.html">
     <link rel="stylesheet" href="styles.css?v=cards-finder-1">
-    <script src="assets/cards-finder.js?v=1" defer></script>
+    <script src="assets/cards-finder.js?v=2" defer></script>
   </head>
   <body>
     <header class="site-header">
@@ -746,7 +746,7 @@ def cards_index():
             <button id="card-finder-clear" type="button" disabled>Clear</button>
           </div>
           <p id="card-finder-count" role="status" aria-live="polite"></p>
-          <p id="card-finder-empty" hidden>No activity cards match. <a href="collections/card-games-for-kids.html">Browse the standard-deck game chooser</a>.</p>
+          <p id="card-finder-empty" hidden>No activity cards match. Try another title or material, or use Clear to see all cards. Looking for a card game instead? <a href="collections/card-games-for-kids.html">Open the standard-deck game chooser</a>.</p>
         </div>
       </section>
 
