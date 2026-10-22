@@ -2,7 +2,7 @@
 
 ## October 22 Card-Finder Recovery
 
-`KAL-IMP-035` [bounded existing-flow repair](../reviews/card-finder-recovery-repair-2026-10-22.md) replaces substring matches with literal whole-word title/material matches and makes Clear/revise the first no-match response. The deck chooser stays explicitly separate, all36 card links remain available without JS, and no art activity or new URL is invented. Local desktop/mobile/root32 task and native/generator/link QA pass; independent review and exact-SHA production verification are pending. Editorial same-task recovery proxy3/26->13/26 with no family/physical/SEO inference. October25 weekly due remains.
+`KAL-IMP-035` [bounded existing-flow repair](../reviews/card-finder-recovery-repair-2026-10-22.md) replaces substring matches with word-level title/material matching that preserves simple plural/possessive forms and makes Clear/revise the first no-match response. The deck chooser stays explicitly separate, all36 card links remain available without JS, and no art activity or new URL is invented. Local desktop/mobile/root32 and native/generator/link QA passed; Franklin final read-only PASS_WITH_P3/no P0-P2, reviewed `54f41d5` pushed, [exact-SHA Pages 39818316404](https://github.com/agarg21/preschool-build-lab/actions/runs/39818316404) succeeded, three affected live files byte-match and the production task passed. Editorial same-task recovery proxy3/26->13/26 with no family/physical/SEO inference. October25 weekly due remains.
 
 ## October 10 Paper Bridge Compact-Card Handoff
 

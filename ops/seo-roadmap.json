@@ -9,7 +9,7 @@
       "id": "KAL-IMP-035",
       "title": "Repair card-finder word matching and no-match recovery",
       "kind": "existing-flow-implementation",
-      "status": "review-passed-awaiting-release",
+      "status": "completed",
       "registered_on": "2026-10-22",
       "base_commit": "af429ff4f5a7c9601a9c1859f44bc647c496e444",
       "exact_paths": [
@@ -41,7 +41,15 @@
       "observation_window": "Existing cards.html released October16 may be repaired for verified task failure; other pages remain under their own observation windows. Weekly synthesis due October25.",
       "reconsider_conditions": "Unexpected false negatives or missed legitimate cards, worse deck recovery, clutter/fit/accessibility failure, generator output beyond registered owners, reviewer P0-P2, remote divergence or production regression; revert only when scope is unambiguous.",
       "artifact": "reviews/card-finder-recovery-repair-2026-10-22.md",
-      "next_step": "Franklin cycle-three PASS_WITH_P3/no P0-P2 confirmed corrected audit count and exact16/site diff hash; stale review-state P3 sentences corrected. Fresh no-divergence reviewed exact-path stage/push, exact-SHA Pages/live bytes/task and final alignment remain."
+      "next_step": "Reviewed 54f41d5 pushed after fresh0/0 fetch and exact16 stage/claim scan; exact-SHA Pages39818316404 success and live HTML/JS/sitemap bytes plus four-mode/no-JS task pass. Push factual same-scope closeout, verify final alignment. Next heartbeat inspect this artifact/outcome and select highest eligible distinct action; weekly synthesis due October25. Reopen only on named regression.",
+      "result": "IMPROVE existing finder: truthful paint/water-paint zero and reset-first recovery without losing common plural/possessive material matches; no new activity page or measured family/SEO outcome.",
+      "release": {
+        "state": "completed",
+        "site_changed": true,
+        "reviewed_commit": "54f41d5ef69737a8fb47655b437b6c95a7a43c4c",
+        "pages_run": "39818316404",
+        "final_alignment_after_reviewed_push": "0/0"
+      }
     },
     {
       "id": "KAL-RES-047",
