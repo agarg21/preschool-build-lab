@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## 2026-10-23 - Preschool Nature-Hunt Candidate
+
+`KAL-RES-048` [research qualification](../seo/preschool-nature-scavenger-hunt-guide-discovery-2026-10-23.md) returns **DEFER** a new individual URL and **PRESERVE** `cards.html` honest zero. Three current adjacent caregiver questions do not request an exact preschool nature hunt; sampled opened museum/educator/publisher bodies, including an exact preschool no-collection/city adaptation, already answer much of the proposed fit/start/rescue job. Historical broad July volume/KD is a lead, not current focus-age material demand. Reopen only on named new constrained focus-age or finalized exact-query demand plus a specific addressable live-body gap and source-reconciled five-output task. Any build is separately registered. October25 weekly synthesis stays due.
+
 ## October 21 Afternoon Finder Recovery Decision
 
 `KAL-RES-047` [dated production task/every-section audit](../reviews/card-finder-no-match-recovery-audit-2026-10-21.md) conditionally **IMPROVES existing `cards.html` finder** only, by a separately registered generator-aware transaction: `paint` matches three painter-tape cards by substring after a truthful `water paint` zero, while the default no-match link detours to the standard-deck chooser. Preserve all36/no-JS/keyboard/Clear/early game route; test exact and contrasting queries, enlarged text and accessibility before release. No evidence to create a water-painting URL, semantic activity recommendation, new taxonomy, indexing request, paid call or family/outcome claim. GSC94 is query-thin; weekly synthesis due October25.

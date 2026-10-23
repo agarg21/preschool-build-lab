@@ -6,6 +6,28 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-048",
+      "title": "Qualify a preschool nature scavenger-hunt guide job",
+      "kind": "guide-candidate-discovery",
+      "status": "review_passed_release_pending",
+      "registered_on": "2026-10-23",
+      "base_commit": "0c2fc0eadfc2141af94c432d1cc6ce39998d27bb",
+      "exact_paths": ["seo/preschool-nature-scavenger-hunt-guide-discovery-2026-10-23.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-23",
+      "evidence_class": "Historical broad July query TOOL_ESTIMATE is only a lead; current public questions/primary guidance SOURCE_BACKED within limits, sampled live results MEASURED as sample, caregiver persona RESEARCH_HYPOTHESIS, decision EDITORIAL_JUDGMENT, exact demand/family/physical/SEO/ranking outcomes UNKNOWN until researched.",
+      "user_problem": "A caregiver of a preschooler considering a nearby outdoor noticing hunt needs to choose a fitting, bounded start rather than a generic printable list or another broad search.",
+      "hypothesis": "Current focus-age caregiver questions and live result bodies may reveal a distinct, source-maintainable fit/start/stop gap beyond existing KAL owners and generic scavenger-hunt printables, or falsify a separate guide.",
+      "acceptance": "Inspect 3-5 current public questions retaining only URL/date/paraphrased decision/abilities/constraints, one live query family and opened ranking bodies, primary guidance, existing owner and exact material demand/incremental-value gates. Freeze source-grounded persona and stress, required outputs, desktop/mobile current-owner task, every visible section and all13-or-justified-N/A proxy with critical override. Return BUILD/UPGRADE/PRESERVE/DEFER/REJECT and exact unresolved gates; no page build in this transaction.",
+      "qa_plan": "Validate October23 public-safe GSC against prior/roadmap; git diff --check, jq roadmap/unique IDs, full node --test tools/*.test.mjs, parse changed JSON/CSV, Markdown references/source/privacy/exact-eight scope; different independent read-only PASS/PASS_WITH_P3 within three cycles; fresh no-divergence exact reviewed docs-only stage/push and final alignment.",
+      "measurement_plan": "Current public questions are anecdotes, not demand; sampled live results are not achievable-rank evidence; desktop/mobile persona is editorial proxy, not human/physical trial. Preserve finalized GSC/query limitations and named falsifiers.",
+      "production_invariants": "No site/generator/data/strategy/workflow/automation/Control Room edits, new URL, indexing, paid call, product recommendation, family-tested or outcome/safety claim. October25 weekly synthesis due remains.",
+      "observation_window": "October22 released finder and other specified pages may be inspected read-only; do not edit them in this qualification. Weekly synthesis due October25.",
+      "reconsider_conditions": "No exact material demand, already complete live result, clean existing-page fit, missing source-maintainable boundaries, reviewer P0-P2, remote divergence, or credible new first-party/focus-age task evidence. Any build separately registered.",
+      "artifact": "seo/preschool-nature-scavenger-hunt-guide-discovery-2026-10-23.md",
+      "next_step": "Archimedes independent cycle-three PASS_WITH_P3/no P0-P2 on staged exact-eight; stale status P3 corrected factually. Fresh no-divergence fetch, complete unpushed-range inspection, exact reviewed docs-only stage/claim scan, push and final alignment; weekly synthesis due October25.",
+      "result": "DEFER a new preschool nature-hunt guide: three adjacent 2026 questions do not establish exact focus-age demand, and opened current preschool no-collection bodies already cover the proposed city/fit/start/boundary/rescue job. Preserve truthful cards.html zero; no site edit or family/SEO conclusion."
+    },
+    {
       "id": "KAL-IMP-035",
       "title": "Repair card-finder word matching and no-match recovery",
       "kind": "existing-flow-implementation",
