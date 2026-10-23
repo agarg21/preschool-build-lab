@@ -9,7 +9,7 @@
       "id": "KAL-RES-048",
       "title": "Qualify a preschool nature scavenger-hunt guide job",
       "kind": "guide-candidate-discovery",
-      "status": "review_passed_release_pending",
+      "status": "completed",
       "registered_on": "2026-10-23",
       "base_commit": "0c2fc0eadfc2141af94c432d1cc6ce39998d27bb",
       "exact_paths": ["seo/preschool-nature-scavenger-hunt-guide-discovery-2026-10-23.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,8 +24,15 @@
       "observation_window": "October22 released finder and other specified pages may be inspected read-only; do not edit them in this qualification. Weekly synthesis due October25.",
       "reconsider_conditions": "No exact material demand, already complete live result, clean existing-page fit, missing source-maintainable boundaries, reviewer P0-P2, remote divergence, or credible new first-party/focus-age task evidence. Any build separately registered.",
       "artifact": "seo/preschool-nature-scavenger-hunt-guide-discovery-2026-10-23.md",
-      "next_step": "Archimedes independent cycle-three PASS_WITH_P3/no P0-P2 on staged exact-eight; stale status P3 corrected factually. Fresh no-divergence fetch, complete unpushed-range inspection, exact reviewed docs-only stage/claim scan, push and final alignment; weekly synthesis due October25.",
-      "result": "DEFER a new preschool nature-hunt guide: three adjacent 2026 questions do not establish exact focus-age demand, and opened current preschool no-collection bodies already cover the proposed city/fit/start/boundary/rescue job. Preserve truthful cards.html zero; no site edit or family/SEO conclusion."
+      "next_step": "Next heartbeat check time/Git/new GSC, inspect the reviewed b85a565 nature-hunt research artifact/outcome, and select the highest eligible distinct action. October25 weekly synthesis due. Reopen nature hunt only on named new exact focus-age demand plus an addressable live-body gap.",
+      "result": "DEFER a new preschool nature-hunt guide: three adjacent 2026 questions do not establish exact focus-age demand, and opened current preschool no-collection bodies already cover the proposed city/fit/start/boundary/rescue job. Preserve truthful cards.html zero; no site edit or family/SEO conclusion.",
+      "release": {
+        "state": "completed",
+        "site_changed": false,
+        "reviewed_commit": "b85a5650819356a9e2dbc8cc09f1e83e41aba135",
+        "independent_verdict": "Archimedes cycle-three PASS_WITH_P3, no P0-P2",
+        "final_alignment_after_reviewed_push": "0/0"
+      }
     },
     {
       "id": "KAL-IMP-035",
