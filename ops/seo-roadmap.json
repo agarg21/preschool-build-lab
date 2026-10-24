@@ -9,7 +9,7 @@
       "id": "KAL-IMP-036",
       "title": "Repair Sink or Float Tray first-start and result boundary",
       "kind": "existing-page-implementation",
-      "status": "registered",
+      "status": "completed",
       "registered_on": "2026-10-24",
       "base_commit": "ae007b2",
       "exact_paths": ["scripts/generate_seo_pages.py", "scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "site/cards/sink-or-float-tray.html", "site/collections/science-experiments-for-4-year-olds.html", "site/cards.html", "site/sitemap.xml", "site/styles.css", "tools/sink-or-float-first-start.test.mjs", "tools/sound-shaker-first-start.test.mjs", "tools/cardboard-ramp-first-start.test.mjs", "tools/library-discovery.test.mjs", "reviews/sink-or-float-first-start-repair-2026-10-24.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,9 +24,9 @@
       "observation_window": "Morning reviewed defect makes these two existing owners eligible for repair; other pages and October25 synthesis remain protected.",
       "reconsider_conditions": "Source contradiction, missing pre-action stop/valid result, worsened mobile/enlarged task, generator scope drift, reviewer P0-P2, remote divergence or production regression; stop on ambiguous rollback.",
       "artifact": "reviews/sink-or-float-first-start-repair-2026-10-24.md",
-      "next_step": "Fresh fetch/no divergence and complete unpushed-range inspection, exact reviewed stage/claim scan and push, then exact-SHA Pages/live bytes/task and final alignment.",
-      "result": "Local existing-owner repair clears the morning critical technical order/result gap in an editorial same-task proxy8/26 to22/26; no physical/family/SEO outcome. Final native141, links/fragments, idempotence, exact20 and independent Chandrasekhar PASS; release pending.",
-      "release": {"state": "reviewed_pending_push", "site_changed": true, "independent_verdict": "Chandrasekhar cycle-one PASS, no P0-P3"}
+      "next_step": "Push factual same-scope docs-only closeout and verify final local/origin alignment; next heartbeat check time/Git/GSC and complete due October25 weekly synthesis unless a higher-priority defect or unfinished release appears.",
+      "result": "IMPROVE existing Sink or Float card/science entry and truthful library: technical before-action/result failure cleared in editorial same-task proxy8/26 to22/26. No physical/family/SEO outcome. Native141, idempotence, links, exact20, independent PASS and exact-SHA production task/bytes pass.",
+      "release": {"state": "completed", "site_changed": true, "independent_verdict": "Chandrasekhar cycle-one PASS, no P0-P3", "reviewed_commit": "24016ca7dac72d13de6f5f9a8b5d87f48e6e90ed", "pages_run": "40115876791", "production_bytes": "five affected assets HTTP200 byte-match", "final_alignment_after_reviewed_push": "0/0"}
     },
     {
       "id": "KAL-RES-049",
