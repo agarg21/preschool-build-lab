@@ -9,7 +9,7 @@
       "id": "KAL-RES-049",
       "title": "Audit Sink or Float Tray first-start and result boundary",
       "kind": "existing-page-research-review",
-      "status": "review_passed",
+      "status": "completed",
       "registered_on": "2026-10-24",
       "base_commit": "c88f45f95abd521de65636958c8efb28c65c5382",
       "exact_paths": ["reviews/sink-or-float-first-start-audit-2026-10-24.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,8 +24,15 @@
       "observation_window": "Read-only inspection of existing Sink or Float card/collection; keep all other specified observation windows and October25 weekly synthesis due date.",
       "reconsider_conditions": "PRESERVE if current route supplies task outputs before action; IMPROVE only on measured critical/decision gap and source-maintainable remedy, separately register any build; stop on reviewer P0-P2 or remote divergence.",
       "artifact": "reviews/sink-or-float-first-start-audit-2026-10-24.md",
-      "next_step": "Hegel cycle-two PASS/no P0-P2 closed score P2; fresh fetch/no divergence, inspect full unpushed range and exact eight reviewed staged paths/private-claim scan, then docs-only push/final alignment. Weekly synthesis due October25 before ordinary build.",
-      "result": "IMPROVE only the existing Sink or Float card and science entry in a separate transaction: source and live route show a critical after-steps water check plus missing valid-result, rescue and cleanup. No site change or family/physical/SEO conclusion in this audit."
+      "next_step": "Next heartbeat check time/Git/GSC and verify KAL-RES-049 artifact/outcome; weekly synthesis due October25 before ordinary new build. Separately register any existing-owner Sink or Float repair with source-object and enlarged-text QA gates.",
+      "result": "IMPROVE only the existing Sink or Float card and science entry in a separate transaction: source and live route show a critical after-steps water check plus missing valid-result, rescue and cleanup. No site change or family/physical/SEO conclusion in this audit.",
+      "release": {
+        "state": "completed",
+        "site_changed": false,
+        "reviewed_commit": "86ff5ba",
+        "independent_verdict": "Hegel cycle-two PASS, no P0-P2",
+        "final_alignment_after_reviewed_push": "0/0"
+      }
     },
     {
       "id": "KAL-RES-048",
