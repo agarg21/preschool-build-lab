@@ -563,7 +563,10 @@ def quick_page(slug):
           </div>'''
         for i, step in enumerate(steps, 1)
     )
-    meta_values = quick_material_tiles(activity["materials"], activity["time"])
+    meta_values = (
+        [("Need", activity["materials"]), ("Time", activity["time"])]
+        if slug == "sink-or-float-tray" else quick_material_tiles(activity["materials"], activity["time"])
+    )
     meta_values.append(("Mess", activity["mess"]))
     meta_values = meta_values[:4]
     meta_html = "\n".join(
@@ -579,7 +582,8 @@ def quick_page(slug):
     kicker = activity.get("kicker", f"{activity['time']} · age {activity['ages']}")
     is_ball_maze = slug == "ball-maze-box"
     is_paper_bridge = slug == "paper-bridge"
-    is_sound_shaker = slug == "sound-shaker-match"
+    is_sink_float = slug == "sink-or-float-tray"
+    has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge
     routes = related_routes_html(
         slug, include_guide=not early_handoff,
@@ -591,16 +595,16 @@ def quick_page(slug):
           <strong>Parent check:</strong> {esc(activity['parent'])}
         </section>'''
     pre_meta_parent_check = parent_check if is_paper_bridge else ""
-    sound_start = f'''
+    activity_start = f'''
 
         <section class="parent-strip" aria-label="Before starting">
           <strong>Before you start:</strong> {esc(activity['start_cue'])}
-        </section>''' if is_sound_shaker else ""
-    sound_setup = f'''
+        </section>''' if has_start_cue else ""
+    activity_setup = f'''
 
         <section class="parent-strip" aria-label="Adult setup">
           <strong>Adult setup:</strong> {esc(activity['adult_setup'])}
-        </section>''' if is_sound_shaker else ""
+        </section>''' if has_start_cue else ""
     early_parent_check = parent_check if is_ball_maze else ""
     late_parent_check = "" if early_handoff else parent_check
     source_note = ""
@@ -630,11 +634,13 @@ def quick_page(slug):
         </section>'''
     card_class = (
         "kid-card maze-card" if is_ball_maze else
-        "kid-card bridge-card" if is_paper_bridge else "kid-card"
+        "kid-card bridge-card" if is_paper_bridge else
+        "kid-card sink-float-card" if is_sink_float else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
-        "bridge-card-1" if is_paper_bridge else "nav-stable-2"
+        "bridge-card-1" if is_paper_bridge else
+        "sink-float-card-1" if is_sink_float else "nav-stable-2"
     )
     return f'''<!doctype html>
 <html lang="en">
@@ -661,11 +667,11 @@ def quick_page(slug):
     <main class="card-shell">
       <article class="{card_class}">
         <p class="kicker">{esc(kicker)}</p>
-        <h1>{esc(activity['title'])}</h1>{early_guide}{pre_meta_parent_check}{sound_start}
+        <h1>{esc(activity['title'])}</h1>{early_guide}{pre_meta_parent_check}{activity_start}
 
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
-        </div>{early_parent_check}{sound_setup}
+        </div>{early_parent_check}{activity_setup}
 
         <section class="steps-grid" aria-label="Steps">
 {step_html}
@@ -700,7 +706,7 @@ def cards_index():
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Activity Cards | Kid Activity Lab</title>
-    <meta name="description" content="One-screen activity cards preschoolers can follow with parent help. Low-prep play using household materials.">
+    <meta name="description" content="Activity cards with materials, short steps, and parent checks for preschool play.">
     <link rel="canonical" href="https://kidactivitylab.com/cards.html">
     <link rel="stylesheet" href="styles.css?v=cards-finder-1">
     <script src="assets/cards-finder.js?v=2" defer></script>
@@ -722,7 +728,7 @@ def cards_index():
         <p class="kicker">Activity cards</p>
         <h1>Pick one small thing.</h1>
         <p class="library-jump"><a href="#activity-card-finder">Browse activity cards</a></p>
-        <p class="dek">Each card is meant to fit on one screen: materials, steps, parent check, and source video when one is available.</p>
+        <p class="dek">Choose a card for its materials, short steps, and parent check. Some ideas link to a deeper guide or source video.</p>
       </section>
 
       <section class="game-promo" aria-labelledby="card-game-promo-title">
@@ -756,7 +762,7 @@ def cards_index():
     </main>
 
     <footer class="site-footer">
-      <p>One-screen activity cards with parent safety checks.</p>
+      <p>Activity cards with parent checks.</p>
     </footer>
   </body>
 </html>

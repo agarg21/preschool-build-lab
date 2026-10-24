@@ -1,0 +1,50 @@
+# Sink or Float Tray: existing-owner first-start repair
+
+Date: 2026-10-24 America/New_York. Action: `KAL-IMP-036`. Decision: **IMPROVE existing card, science entry and library truthfulness; no new URL**. Base `ae007b2`. This is a source-reconciled editorial implementation and technical persona proxy, not a family or physical trial.
+
+## Parent task and source limits
+
+The frozen [morning audit](sink-or-float-first-start-audit-2026-10-24.md) found both live owners put the only water check after four child steps and omit a valid result, ambiguity rescue, cleanup and untested status. `RESEARCH_HYPOTHESIS`: caregiver of an approximately four-year-old, with a younger child who could reach the tray and possible interruption, must choose start or postpone, select one suitable object, control the water, ask for one prediction, recognize free floating versus downward travel to the bottom, accept an unclear result, and empty/put away. Observable success is finding those outputs on the existing card or science-entry route without another broad search, with the stop decision before any child instruction. A late water warning, forced result or unsupported safety claim is critical failure regardless of proxy score.
+
+Primary sources reopened October24: [NAEYC's family science example](https://www.naeyc.org/our-work/families/support-science-learning) supports household-object prediction and sink/float observation, not this exact tray, toy or family setup. [AAP 2026 drowning guidance](https://www.healthychildren.org/English/news/Pages/AAP-releases-updated-drowning-prevention-recommendations.aspx) supports constant, attentive supervision near standing water; [AAP container guidance](https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Infant-Water-Safety.aspx) supports emptying open water containers after use. [CPSC toy guidance](https://www.cpsc.gov/id/Safety-Education/Toys) supports age-label/ability fit and excluding small parts from under-threes. No source establishes that one selected bath toy, water amount or tray is safe in practice or guarantees a sink/float result. The one intact large water-play toy default, adult placement, stable table, no deeper-water rescue and two-result observation wording are `EDITORIAL_JUDGMENT`, not source-tested instructions. The optional outcome is explicitly **unclear** when bottom contact cannot be distinguished.
+
+`MEASURED` applies only to local/browser DOM, geometry, Git output, validation and GSC window counts. The caregiver/stress are `RESEARCH_HYPOTHESIS`; the bounded copy/layout and proxy score are `EDITORIAL_JUDGMENT`; actual object suitability, safety, duration, mess, family understanding, enjoyment, learning, repeatability and SEO effect remain `UNKNOWN`. The former five-minute and medium-mess labels had no retained measurement and now say `Not measured`.
+
+## Source and surface agreement
+
+| Mechanism or constraint | Source scope | Card | Science entry / library | Limit |
+|---|---|---|---|---|
+| Predict and observe one object's movement | NAEYC example | Four brief steps | Same four steps / card route | No promised float or sink |
+| Water/reach/attention decision before action | AAP water and CPSC toy guidance, adapted | Before-start strip before details/steps | Adult check before tags/materials/steps | Not a tested safety method |
+| Adult tray/one-toy setup | KAL editorial synthesis | Setup before step one | Same setup before list | No specified depth or guaranteed result |
+| Free-floating versus moving down / uncertainty | NAEYC mechanism plus KAL observable criterion | Step three; unclear step four | Identical | Bottom contact in shallow water can be ambiguous |
+| Empty and put away | AAP container guidance plus KAL cleanup | Step four and parent check | Same | Not a measured cleanup time |
+| Evidence and owner | Current primary sources | Four links, explicit not-family-tested status | Same sources/status; library summary `Not measured` | No new guide, product or claim |
+
+The `scripts/generate_seo_pages.py` activity row is the canonical content source for both generated owners. `scripts/generate_card_pages.py` renders an early cue/setup for any row that has those fields, with only this card receiving a compact class and material summary. The Sound Shaker generated HTML remains unchanged. The science collection keeps eight activity blocks, its existing H1/canonical, other seven blocks, quick pick, query text and generic late safety section. The card library keeps 36 links/finder behavior but no longer promises every card fits on one screen. The three changed sitemap dates are card, science collection and library, all October24. No page or keyword target was added; existing-owner fit makes new-page SERP/demand gates N/A to this repair.
+
+## Every-section task review
+
+| Visible block | Task value | Risk/limit | Verdict |
+|---|---|---|---|
+| Card title/kicker | One prediction, editorial age signal | Age is not measured readiness | Keep, shortened for mobile |
+| Before-start strip | Toy/younger reach/attention/stop before action | Long on mobile, but precedes all steps | Keep, source-bounded |
+| Materials/time/mess | One default and honest unknowns | No broadly certified substitute | Keep compact; skip when suitable toy absent |
+| Adult setup | Stable tray, little water, adult placement | No tested water depth or object behavior | Keep, do not force result |
+| Four steps | Predict/place/observe/unclear | Child observes rather than handling water | Keep short, compact two-column desktop/one-column mobile |
+| Parent check | Empty and put toy away | Duplicates step-four empty cue deliberately | Keep, trust-sensitive cleanup |
+| Best-for, related route, sources, footer | Purpose, owner route and limits | Source details require expansion | Keep after runnable answer |
+| Collection hero/quick pick | Category chooser | No change to broad promise | Preserve |
+| Collection table | Eight-way scan | Former Sink or Float time/mess unsupported | Update only target row |
+| Collection activity list | Existing short starts | Other seven not substantively re-reviewed | Update only target block; retain eight |
+| Collection query/late safety/browse | Context and routing | Generic late safety is not target's stop cue | Preserve |
+| Library hero/finder/grid/footer | Discovery and 36 card routes | Blanket one-screen claim false for trust-first card | Remove claim; keep search and links |
+
+All 13 dimensions apply, denominator 26 and N/A none. Same-task `EDITORIAL_JUDGMENT` proxy before **8/26** from the morning audit, after **22/26**: answerability 2 (one path and unclear result); age/ability 1 (editorial range and label check, no measured readiness); materials/substitutions 1 (one explicit default, no certified substitute); setup/duration/cleanup 2 (setup and emptying, duration/mess marked unknown); adult involvement 2; setting/space 2 (stable table/reach); mixed-age/difficulty 2 (skip branch); sensory/accessibility 1 (brief verbal mission, no tested sensory adaptation); educational purpose 2 (prediction/observation without learning promise); safety/trust 2 (before-action stop and source limits); mobile interaction 1 (fits and navigates, but scroll to steps); detours/repetition 2 (direct and linked owner); decision without broad search 2. The critical technical order/result gates clear in local output. This is not a parent satisfaction score or physical safety test; the before/after totals describe only this frozen task.
+
+## QA and release gates
+
+- Generated outputs: exactly `site/cards/sink-or-float-tray.html`, `site/collections/science-experiments-for-4-year-olds.html`, `site/cards.html`, `site/sitemap.xml`, plus scoped `site/styles.css`. Three generators run twice with identical output hashes and no other generated HTML changed. Existing Sound Shaker output preserved. Focused regression tests include unchanged owners, before-action order, result/rescue/cleanup, source limits, 36 library links and lastmods.
+- Local Chrome after final no-suitable-toy cue: desktop1280 cue ends y354 and compact steps start y574; 390 cue y215-499 and steps start y872; 320 cue y250-637 and steps start y1061. Width equals viewport in each normal mode. At physical640/200% browser zoom, effective CSS width320, both owners fit with cue before steps; this is **browser zoom**, not a root32 text-only or screen-reader test. Collection entry at320 cue y1465-1746 precedes first step y2198; eight activity blocks retained. Library `sink` yields one of36 then opens the card. Collection-card keyboard Return and Back work; source disclosure opens by keyboard. No sampled local page-origin console error. Desktop screenshot showed compact mission rather than the initial tall shared tiles. The mobile start requires scrolling after the complete early stop cue; true root32 text-only, physical/touch/screen-reader and family task remain unverified.
+- GSC: October24 snapshot validates with 97 public-safe files, finalized through October22. Overlapping 28-day property count 487 impressions/7 clicks versus October23's493/7. Complete queries/routes unavailable; absent Sink or Float rows are not zero and cannot measure repair impact.
+- Final local QA: `git diff --check`, `jq empty ops/seo-roadmap.json`/109 unique IDs, sitemap XML parse, all native141/141, 71 HTML/750 local links/75 fragments with zero issues after final wording, and exact20-path/privacy/source/claim checks pass. Chandrasekhar (`01a16eec-980b-72e2-b73b-17fc79da9183`) independent read-only cycle-one **PASS/no P0-P3** checked full diff, generated equivalence, unchanged other science blocks/36 library routes, QA, score arithmetic and privacy; it could not independently rerun browser or reopen external sources. Fresh no-divergence reviewed push, exact-SHA Pages and affected live bytes/task, final alignment remain. October25 weekly synthesis remains due. Reconsider on a source contradiction, real object/ambiguity problem, technical route regression or new first-party task evidence; no automatic second page.

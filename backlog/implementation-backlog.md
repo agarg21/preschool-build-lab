@@ -1,5 +1,9 @@
 # Implementation Backlog
 
+## October 24 Afternoon Sink Or Float First Start
+
+`KAL-IMP-036` [bounded existing-owner repair](../reviews/sink-or-float-first-start-repair-2026-10-24.md) uses the morning reviewed defect: adult toy/water/reach/attention/stop before action, one adult-placed object, observable off-bottom/downward-to-bottom or `unclear`, immediate emptying, and unmeasured time/mess plus not-family-tested status. Only the existing card/science entry/library summary and scoped card CSS/sitemap change; other cards and science blocks remain. Same-task all13 editorial proxy8/26 -> 22/26 with critical technical order/result failure cleared, not a family or physical safety finding. Generator/native141/browser/source/privacy QA and Chandrasekhar independent read-only PASS pass; exact-SHA release/live verification still gates completion. October25 weekly synthesis remains due.
+
 ## October 22 Card-Finder Recovery
 
 `KAL-IMP-035` [bounded existing-flow repair](../reviews/card-finder-recovery-repair-2026-10-22.md) replaces substring matches with word-level title/material matching that preserves simple plural/possessive forms and makes Clear/revise the first no-match response. The deck chooser stays explicitly separate, all36 card links remain available without JS, and no art activity or new URL is invented. Local desktop/mobile/root32 and native/generator/link QA passed; Franklin final read-only PASS_WITH_P3/no P0-P2, reviewed `54f41d5` pushed, [exact-SHA Pages 39818316404](https://github.com/agarg21/preschool-build-lab/actions/runs/39818316404) succeeded, three affected live files byte-match and the production task passed. Editorial same-task recovery proxy3/26->13/26 with no family/physical/SEO inference. October25 weekly due remains.

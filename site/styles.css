@@ -753,6 +753,33 @@ th {
   font-weight: 850;
 }
 
+.sink-float-card .card-meta {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 12px 0;
+}
+
+.sink-float-card .meta-tile {
+  min-height: 0;
+}
+
+.sink-float-card .steps-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.sink-float-card .step-tile {
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 38px minmax(0, 1fr);
+  align-items: center;
+  gap: 12px;
+}
+
+.sink-float-card .step-tile p {
+  margin: 0;
+  font-size: 1.15rem;
+  line-height: 1.25;
+}
+
 .parent-strip {
   margin-top: 16px;
   border-left: 6px solid var(--blue);
@@ -2071,6 +2098,18 @@ th {
 
   .card-meta,
   .steps-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .sink-float-card .card-meta {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sink-float-card .meta-tile:first-child {
+    grid-column: 1 / -1;
+  }
+
+  .sink-float-card .steps-grid {
     grid-template-columns: 1fr;
   }
 
