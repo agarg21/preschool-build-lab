@@ -6,6 +6,28 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-049",
+      "title": "Audit Sink or Float Tray first-start and result boundary",
+      "kind": "existing-page-research-review",
+      "status": "review_passed",
+      "registered_on": "2026-10-24",
+      "base_commit": "c88f45f95abd521de65636958c8efb28c65c5382",
+      "exact_paths": ["reviews/sink-or-float-first-start-audit-2026-10-24.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-24",
+      "evidence_class": "Current primary guidance SOURCE_BACKED within limits; live DOM/browser task MEASURED technical evidence; caregiver persona RESEARCH_HYPOTHESIS; priority EDITORIAL_JUDGMENT; family/physical/SEO outcomes UNKNOWN.",
+      "user_problem": "A caregiver of a four-year-old needs to decide whether a shallow-tray sink/float test fits the available objects, attention and space, then start one test and know whether the object floats freely rather than rests on the bottom.",
+      "hypothesis": "The existing card/collection route may bury an adult object/water/stop decision or a valid-result criterion until after child-facing steps; source and live task review will confirm or falsify this.",
+      "acceptance": "Reconcile maintained public guidance, current owner and observation windows; freeze a sourced persona and secondary stress, exact outputs, run production desktop/mobile/enlarged-text/keyboard/fit/error/accessibility task, review every visible section and all13-or-justified-N/A proxy with critical override; return PRESERVE/IMPROVE/DEFER/REJECT and named gates, no site edit.",
+      "qa_plan": "Validate fresh public-safe GSC against prior and roadmap; git diff --check, jq roadmap and unique IDs, full node --test tools/*.test.mjs, parse changed JSON/CSV, local refs/source/privacy/exact-eight scope; independent different read-only PASS/PASS_WITH_P3 in at most three cycles; fresh no-divergence exact reviewed docs-only push and final alignment.",
+      "measurement_plan": "Browser route and source reconciliation are editorial proxies, not parent/child testing. Preserve GSC finalization and missing-query limits; no SEO attribution from the observation window.",
+      "production_invariants": "Site, generators, data, strategy, workflow, automation and Control Room read-only; no new URL, indexing, paid call, product recommendation, universal safety, family-tested or outcome claim. October25 weekly synthesis remains due.",
+      "observation_window": "Read-only inspection of existing Sink or Float card/collection; keep all other specified observation windows and October25 weekly synthesis due date.",
+      "reconsider_conditions": "PRESERVE if current route supplies task outputs before action; IMPROVE only on measured critical/decision gap and source-maintainable remedy, separately register any build; stop on reviewer P0-P2 or remote divergence.",
+      "artifact": "reviews/sink-or-float-first-start-audit-2026-10-24.md",
+      "next_step": "Hegel cycle-two PASS/no P0-P2 closed score P2; fresh fetch/no divergence, inspect full unpushed range and exact eight reviewed staged paths/private-claim scan, then docs-only push/final alignment. Weekly synthesis due October25 before ordinary build.",
+      "result": "IMPROVE only the existing Sink or Float card and science entry in a separate transaction: source and live route show a critical after-steps water check plus missing valid-result, rescue and cleanup. No site change or family/physical/SEO conclusion in this audit."
+    },
+    {
       "id": "KAL-RES-048",
       "title": "Qualify a preschool nature scavenger-hunt guide job",
       "kind": "guide-candidate-discovery",

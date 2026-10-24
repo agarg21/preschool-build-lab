@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## 2026-10-24 - Sink Or Float Existing-Owner Brief
+
+`KAL-RES-049` [dated source/live first-start audit](../reviews/sink-or-float-first-start-audit-2026-10-24.md) returns **IMPROVE existing card and age-four science entry in a separately registered action**. NAEYC supports prediction/observation but not KAL's exact shallow tray or a universally safe household-object list; AAP/CPSC support bounded water supervision, emptying and younger-child small-part caution. Both current live surfaces put four child steps before the sole water check and omit result interpretation, ambiguity rescue and cleanup. All13 editorial route proxy8/26 with critical override; normal desktop/390/320 fit and route work, true enlarged text/family/physical outcome unverified. No new indexable guide, paid call, indexing or tested claim; weekly synthesis due October25 takes priority before a non-emergency build.
+
 ## 2026-10-23 - Preschool Nature-Hunt Candidate
 
 `KAL-RES-048` [research qualification](../seo/preschool-nature-scavenger-hunt-guide-discovery-2026-10-23.md) returns **DEFER** a new individual URL and **PRESERVE** `cards.html` honest zero. Three current adjacent caregiver questions do not request an exact preschool nature hunt; sampled opened museum/educator/publisher bodies, including an exact preschool no-collection/city adaptation, already answer much of the proposed fit/start/rescue job. Historical broad July volume/KD is a lead, not current focus-age material demand. Reopen only on named new constrained focus-age or finalized exact-query demand plus a specific addressable live-body gap and source-reconciled five-output task. Any build is separately registered. October25 weekly synthesis stays due.

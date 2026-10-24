@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## 2026-10-24 - KAL-RES-049 Sink Or Float
+
+[Source-grounded existing-route audit](../reviews/sink-or-float-first-start-audit-2026-10-24.md): hypothesized caregiver of an approximately four-year-old needs adult shallow-water/younger-reach/attention decision, bounded objects, one predict/test, valid floating-versus-bottom observation, rescue and cleanup. Both live card and age-four science block place executable child steps before the only parent water check. Production normal desktop/390/320 task, keyboard link/Back and width fit checked; true enlarged text and human/physical use not verified. All13 `EDITORIAL_JUDGMENT` whole-route proxy8/26, N/A none; critical late control/result failure overrides score. Separately register existing-owner repair after due October25 synthesis unless higher priority intervenes; no new page/family/SEO claim.
+
 ## October 23 - Nature-Hunt Guide Decision
 
 `KAL-RES-048` [dated source/live/every-section qualification](../seo/preschool-nature-scavenger-hunt-guide-discovery-2026-10-23.md) freezes a `RESEARCH_HYPOTHESIS` no-printer nearby-path four-year-old observation-only start, with younger-child reach/street and divided-attention stress. Required outputs are adult place boundary, no-collection materials choice, first kid prompt, missing-find rescue and return/stop. Local Chrome1280/390/320/root32 library `nature` returns0/36 truthfully; keyboard Clear restores36, fit/errors pass. Hero, game/guide promos, finder, grid and general routes reviewed; all13 apply, N/A none, current-owner `EDITORIAL_JUDGMENT` proxy3/26 with critical absent mission/boundary. No guide after-score or real family task. Three adjacent dated questions and opened preschool no-collection bodies support **DEFER new guide/PRESERVE honest zero**, not a page. Exact demand, physical, touch/true zoom/screen-reader, family and causal SEO outcomes unknown.
