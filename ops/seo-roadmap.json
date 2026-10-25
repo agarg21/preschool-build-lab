@@ -32,7 +32,7 @@
       "id": "KAL-RES-050",
       "title": "Verify Magnet Hunt adult object decision and observable result across existing routes",
       "kind": "existing-page-research-review",
-      "status": "release_ready",
+      "status": "completed",
       "selected_on": "2026-10-25",
       "registered_on": "2026-10-25",
       "base_commit": "1c5b08e",
@@ -52,9 +52,9 @@
       "target_urls": ["https://kidactivitylab.com/cards/magnet-hunt.html", "https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html", "https://kidactivitylab.com/collections/science-experiments-for-4-year-olds.html", "https://kidactivitylab.com/collections/no-prep-stem-activities-for-4-year-olds.html", "https://kidactivitylab.com/cards.html"],
       "required_evidence": ["current primary magnet and toy/object guidance within limits", "live/local owner and every-section audit", "desktop/390/320/enlarged-text arrival, keyboard/Back/fit/errors", "all-13-or-justified-N-A caregiver task with critical override", "validated public-safe GSC with missing-query boundary"],
       "decision_gate": "PRESERVE if before-action object/role/stop and observable result/unclear are source-bounded and usable; IMPROVE existing owners only after a reproduced critical gap and separate exact-path registration; DEFER if suitable setup requires unavailable product-specific evidence. No new URL or safety assurance.",
-      "next_step": "After native141/141, GSC98, JSON/refs/scope/privacy QA and Sagan read-only PASS, fresh-fetch/no-divergence check, inspect complete range, exact reviewed docs-only push and final alignment. Any repair is separately registered.",
+      "next_step": "After factual closeout alignment, separately register KAL-IMP-037 only if source/object choice and exact paths can be bounded; otherwise defer runnable variant. Next weekly November 1.",
       "result": "Five live byte-matched owners reproduce Magnet step-before-check and undefined material/role/result/cleanup. All13 editorial current-owner task7/26/N-A none with critical override. No-prep root32 H1 overflows; finder/routes work. Recommend separately scoped existing-owner IMPROVE; no physical safety finding or new URL.",
-      "release": {"state": "ready", "site_changed": false, "qa": "diff-check, JSON/112 unique IDs, native141/141, GSC98, refs, exact-seven scope and targeted privacy/claim scan pass", "review": "Sagan independent read-only cycle-one PASS/no P0-P3 and final-diff cycle-two PASS_WITH_P3/no P0-P2; stale-status P3 corrected; browser geometry/keyboard/screenshots not independently rerun"}
+      "release": {"state": "pushed", "commit": "ff9d823", "site_changed": false, "pages_wait": "not applicable for docs-only change", "qa": "diff-check, JSON/112 unique IDs, native141/141, GSC98, refs, exact-seven scope and targeted privacy/claim scan pass", "review": "Sagan independent read-only cycle-one PASS/no P0-P3 and final-diff cycle-two PASS_WITH_P3/no P0-P2; stale-status P3 corrected; browser geometry/keyboard/screenshots not independently rerun", "alignment": "immediate local/origin 0/0 clean; factual closeout pending"}
     },
     {
       "id": "KAL-IMP-037",
