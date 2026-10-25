@@ -9,7 +9,7 @@
       "id": "KAL-WEEKLY-007",
       "title": "Test October 18-24 decision evidence and rescore a falsifiable next priority",
       "kind": "weekly-synthesis",
-      "status": "release_ready",
+      "status": "completed",
       "registered_on": "2026-10-25",
       "base_commit": "c369896",
       "exact_paths": ["weekly/2026-10-25-decision-synthesis.md", "backlog/product-learning-ledger.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,9 +24,9 @@
       "observation_window": "Review October18-24 evidence and finalized GSC through its available date; do not treat absent query/route rows as zero. Next weekly due seven days after this decision if completed.",
       "reconsider_conditions": "Verified production defect or unfinished release, source contradiction, reviewer P0-P2, remote divergence, or a counterexample that falsifies the chosen gate.",
       "artifact": "weekly/2026-10-25-decision-synthesis.md",
-      "next_step": "After Lagrange cycle-three PASS/no P0-P3, fresh-fetch/no-divergence check, inspect complete range, stage exact reviewed six docs paths, scan and push, then record release and final alignment.",
+      "next_step": "After factual docs-only closeout alignment, separately register KAL-RES-050 source/live Magnet Hunt audit at the next eligible heartbeat; next weekly November 1.",
       "result": "Prospective result/uncertainty gate added for classification experiments; next priority is read-only Magnet Hunt source/live task before another broad absent-card guide probe. No production defect or physical/family/SEO outcome claimed.",
-      "release": {"state": "ready", "site_changed": false, "qa": "diff-check, JSON/111 unique IDs, native141/141, GSC97, refs, exact-six scope, targeted source/privacy/claim scan pass", "review_cycle_one": "Lagrange PASS_WITH_P3; two precision notes corrected", "review_cycle_two": "Lagrange PASS_WITH_P3; initial corrections confirmed, route phrase clarified", "review_cycle_three": "Lagrange PASS; no P0-P3; live Magnet/physical/family task not run"}
+      "release": {"state": "pushed", "commit": "d1771c1436e7741a8e166b0b9e885ea7a1f497f1", "site_changed": false, "pages_wait": "not applicable for docs-only change", "qa": "diff-check, JSON/111 unique IDs, native141/141, GSC97, refs, exact-six scope, targeted source/privacy/claim scan pass", "review_cycle_one": "Lagrange PASS_WITH_P3; two precision notes corrected", "review_cycle_two": "Lagrange PASS_WITH_P3; initial corrections confirmed, route phrase clarified", "review_cycle_three": "Lagrange PASS; no P0-P3; live Magnet/physical/family task not run", "alignment": "immediate local/origin 0/0 clean; factual closeout pending"}
     },
     {
       "id": "KAL-RES-050",
