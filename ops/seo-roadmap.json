@@ -6,6 +6,29 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-051",
+      "title": "Qualify Magnet Hunt material and adult skip decision before existing-owner repair",
+      "kind": "existing-page-source-qualification",
+      "status": "release_ready",
+      "registered_on": "2026-10-26",
+      "base_commit": "45fe453",
+      "exact_paths": ["reviews/magnet-hunt-material-gate-2026-10-26.md", "backlog/product-learning-ledger.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_date": "2026-10-26",
+      "evidence_class": "Current primary and maintained guidance SOURCE_BACKED within limits; October25 live task MEASURED technically; caregiver scenario RESEARCH_HYPOTHESIS; build/defer gate EDITORIAL_JUDGMENT; exact material and family/physical/SEO outcomes UNKNOWN.",
+      "user_problem": "An adult choosing Magnet Hunt for an approximately four-year-old needs to decide start or postpone with an unspecified magnet and household objects, younger-child reach and interrupted attention, then identify one honest observable result or unclear case.",
+      "hypothesis": "Current public guidance may support a bounded age/condition/object/reach/attention choice and skip condition without product endorsement or physical-safety assurance; otherwise defer the runnable home variant.",
+      "acceptance": "Audit 3-5 current primary/maintained sources, the October25 five-route task and source owner for exact limits; return BUILD-ready existing-owner brief or DEFER with exact unresolved gates, frozen parent outputs and all13/N-A reasoning. No site edit or new URL.",
+      "qa_plan": "Validate any new GSC against prior/roadmap, check whitespace, JSON/unique IDs, full native tests, changed local Markdown refs and source/privacy/exact-six scope; different read-only PASS/PASS_WITH_P3 within three cycles; fresh no-divergence exact docs-only push and alignment.",
+      "measurement_plan": "Dated maintained/public evidence-set audit completes October26 learning; no new family/physical, timing/mess, demand or causal SEO measurement. Prior 7/26 is not relabeled as a post-change score.",
+      "production_invariants": "Only six research/ledger/operator paths; no site/generator/test/data/workflow/automation or Control Room change. Preserve peers and observation windows.",
+      "observation_window": "October26 material decision; next weekly synthesis remains November1. Repair, if supported, is a separately registered transaction.",
+      "reconsider_conditions": "Primary-source contradiction, inability to bound a usable adult/object choice, reviewer P0-P2, remote divergence or newly verified higher-priority production defect.",
+      "artifact": "reviews/magnet-hunt-material-gate-2026-10-26.md",
+      "next_step": "Run exact-six/native/JSON/refs/source/privacy QA, obtain independent read-only verdict, then fresh no-divergence docs-only release and alignment if PASS/PASS_WITH_P3. Separately register any site repair.",
+      "result": "DEFER runnable Magnet Hunt: age label, size and intact appearance do not establish type/power; known/suspected high-powered/rare-earth or unknown type from owned product documentation means decline. PBS dry sink/chair no-loose-item comparison remains a future candidate only; exact toy/surface suitability and family/physical outcomes unknown; prior live 7/26 unchanged. Separately qualify current-owner trust correction to withdraw/condition unsupported steps.",
+      "release": {"state": "review_passed_release_pending", "site_changed": false, "review_cycle_one": "Noether FAIL/P2: high-powered/rare-earth type gate omitted from conditional default; corrected by deferring runnable variant and explicit known/suspected/unknown-type skip", "review_cycle_two": "Noether PASS_WITH_P3/no P0-P2: type/power P2 closed; stale release tense P3 corrected before release", "review_cycle_three": "Noether PASS/no P0-P3 on full six-path diff; native141, GSC98, JSON113 unique IDs, 193 refs, scope, whitespace and privacy independently confirmed", "pre_release_sensing": "Disjoint GSC-only 785e77f fast-forward; operator validated99 throughOctober24 rolling453/5 vs481/6, Magnet1/0, 10/10 indexed/61 discovered, full queries/routes missing; source decision unchanged; not part of Noether GSC98 review"}
+    },
+    {
       "id": "KAL-WEEKLY-007",
       "title": "Test October 18-24 decision evidence and rescore a falsifiable next priority",
       "kind": "weekly-synthesis",
@@ -58,14 +81,14 @@
     },
     {
       "id": "KAL-IMP-037",
-      "title": "Conditionally repair Magnet Hunt first start across existing owners",
+      "title": "Correct unsupported Magnet Hunt first-start claims across existing owners",
       "kind": "existing-page-improvement",
       "status": "planned",
       "selected_on": "2026-10-25",
-      "priority_basis": "KAL-RES-050 live/source all13 task7/26 with critical step-before-check and undefined object/role/result/cleanup; root32 no-prep H1 overshoot is a scoped accessibility follow-up. Exact materials and physical outcomes remain unknown.",
+      "priority_basis": "KAL-RES-050 live/source all13 task7/26 with critical step-before-check and undefined object/role/result/cleanup; KAL-RES-051 defers a runnable default because magnet type/power cannot be inferred from age label/size/condition. Separately correct live trust/route copy instead of recommending a product or leaving unsupported steps. Root32 no-prep H1 overshoot is a scoped accessibility follow-up. Exact materials and physical outcomes remain unknown.",
       "source_owner": "scripts/generate_seo_pages.py ACTIVITIES[magnet-hunt] consumed by scripts/generate_card_pages.py; generated card, age-four STEM/science/no-prep hubs and library; confirm sitemap/tests/CSS exact paths on registration.",
-      "decision_gate": "Before editing, reconcile a bounded age/condition/object/adult-role skip choice against primary guidance without product recommendation; otherwise defer the runnable variant. Then place full choice before child action, one observable test with unclear path, stop/put-away and untested/time/mess honesty. Preserve other activities/routes and observation windows; same-task all13 and live QA required.",
-      "next_step": "At next eligible transaction after KAL-RES-050 release, register exact implementation paths and acceptance; no silent expansion of the read-only audit. Next weekly due November1."
+      "decision_gate": "Do not publish a runnable magnet default from age label/size/intact checks alone; known/suspected high-powered/rare-earth or unknown type from owned documentation is a decline. Separately register exact existing-owner trust correction to remove/condition unsupported materials, steps, timing/mess and no-prep promise, route to maintained alternatives, and decide canonical/indexability honestly. Preserve peers/windows; same-task all13/live QA required. Reopen runnable variant only on parent-usable documented non-high-powered magnet gate without product recommendation/broad search.",
+      "next_step": "After KAL-RES-051 reviewed release, separately register exact paths/acceptance for current-owner trust correction, not a runnable substitute. Keep type/power gate and no-prep text fit in scope decision; next weekly due November1."
     },
     {
       "id": "KAL-IMP-036",
