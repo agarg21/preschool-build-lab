@@ -9,7 +9,7 @@
       "id": "KAL-RES-051",
       "title": "Qualify Magnet Hunt material and adult skip decision before existing-owner repair",
       "kind": "existing-page-source-qualification",
-      "status": "release_ready",
+      "status": "completed",
       "registered_on": "2026-10-26",
       "base_commit": "45fe453",
       "exact_paths": ["reviews/magnet-hunt-material-gate-2026-10-26.md", "backlog/product-learning-ledger.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -24,9 +24,9 @@
       "observation_window": "October26 material decision; next weekly synthesis remains November1. Repair, if supported, is a separately registered transaction.",
       "reconsider_conditions": "Primary-source contradiction, inability to bound a usable adult/object choice, reviewer P0-P2, remote divergence or newly verified higher-priority production defect.",
       "artifact": "reviews/magnet-hunt-material-gate-2026-10-26.md",
-      "next_step": "Run exact-six/native/JSON/refs/source/privacy QA, obtain independent read-only verdict, then fresh no-divergence docs-only release and alignment if PASS/PASS_WITH_P3. Separately register any site repair.",
+      "next_step": "At the next eligible transaction, separately register exact KAL-IMP-037 trust-correction paths and QA; withdraw or qualify unsupported existing Magnet Hunt steps and route to maintained alternatives without publishing a runnable magnet default. Weekly synthesis due November1.",
       "result": "DEFER runnable Magnet Hunt: age label, size and intact appearance do not establish type/power; known/suspected high-powered/rare-earth or unknown type from owned product documentation means decline. PBS dry sink/chair no-loose-item comparison remains a future candidate only; exact toy/surface suitability and family/physical outcomes unknown; prior live 7/26 unchanged. Separately qualify current-owner trust correction to withdraw/condition unsupported steps.",
-      "release": {"state": "review_passed_release_pending", "site_changed": false, "review_cycle_one": "Noether FAIL/P2: high-powered/rare-earth type gate omitted from conditional default; corrected by deferring runnable variant and explicit known/suspected/unknown-type skip", "review_cycle_two": "Noether PASS_WITH_P3/no P0-P2: type/power P2 closed; stale release tense P3 corrected before release", "review_cycle_three": "Noether PASS/no P0-P3 on full six-path diff; native141, GSC98, JSON113 unique IDs, 193 refs, scope, whitespace and privacy independently confirmed", "pre_release_sensing": "Disjoint GSC-only 785e77f fast-forward; operator validated99 throughOctober24 rolling453/5 vs481/6, Magnet1/0, 10/10 indexed/61 discovered, full queries/routes missing; source decision unchanged; not part of Noether GSC98 review"}
+      "release": {"state": "research_pushed", "site_changed": false, "review_cycle_one": "Noether FAIL/P2: high-powered/rare-earth type gate omitted from conditional default; corrected by deferring runnable variant and explicit known/suspected/unknown-type skip", "review_cycle_two": "Noether PASS_WITH_P3/no P0-P2: type/power P2 closed; stale release tense P3 corrected before release", "review_cycle_three": "Noether PASS/no P0-P3 on full six-path diff; native141, GSC98, JSON113 unique IDs, 193 refs, scope, whitespace and privacy independently confirmed", "pre_release_sensing": "Disjoint GSC-only 785e77f fast-forward; operator validated99 throughOctober24 rolling453/5 vs481/6, Magnet1/0, 10/10 indexed/61 discovered, full queries/routes missing; source decision unchanged; not part of Noether GSC98 review", "reviewed_commit": "bd16c69", "final_qa": "native141/141, JSON113 unique IDs, GSC99, 195 local refs/0 missing, whitespace, exact-six stage and added-line sensitive-content scan passed; docs-only, no Pages wait", "closeout": "Same-scope factual release record push pending; verify final local/origin alignment"}
     },
     {
       "id": "KAL-WEEKLY-007",
