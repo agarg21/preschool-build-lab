@@ -9,7 +9,7 @@
       "id": "KAL-IMP-048",
       "title": "Replace unsupported Ice Melt rescue/heat start with bounded observation",
       "kind": "reviewed-three-owner-first-start-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "957ba18",
       "exact_paths": [
@@ -45,8 +45,8 @@
       "invariants": "No newURL/indexability/metadata changes except targetcard title-description. Othercanonical35/library35/science6peers/hero-FAQ-title-canonical/other94sitefiles/assets/CSV/config/automation/ControlRoom unchanged;67sitemapURLs/36cards/credits/finder preserved. No medical/temperature threshold, family/physical/SEO result or product recommendation.",
       "observation_window": "Same20:56:36.027Z heartbeat/actual20:56:42Z/completed1/deadline21:41:42Z/max3. RES065c0e7b71/closeout957ba18 reviewed/pushed clean0/0; November1/October30 unchanged.",
       "reconsider_if": "Source/ownedmaterial/reach/control/observation contradiction, clinical threshold needed, missing/late warning, unexpected peer drift/P0-P2/divergence/ambiguous regression.",
-      "blockers": "Local189/twiceb1c5535c/exact5outputs/task/structured-privacy pass; Mencius different full16 cycle-one PASS/no P0-P3 independently188nonmutating/actual3renderers/conservation/parse-139IDs-320refs/privacy/task-source-visuals/all13 25/26. Frozen hashes unchanged/reviewer closed; exact-SHA production pending.",
-      "next_action": "Fresh completed fetch/no divergence/full outgoing/exact reviewed16 main push/exact-SHA Pages/five affected-seven unchanged livebytes/same production task/factual closeout/final alignment before new selection."
+      "blockers": "None. Reviewed9b4d92f787c0497ebf7121621abb464ea81382f3/Mencius full16 PASS/native189/exact-SHA Pages40585657585 success/no marker. Five affected-seven unchanged live200bytes/same12production modes-6keyboardBack-4touch-3outgoing-finder-Space-expanded source-3noJS/wordfit/viewed390-root32 pass; fresh release fetch0/0/reviewer closed/server8782 stopped/no retry-regression-outcome claim.",
+      "next_action": "Factual7 closeout/QA/push/final alignment, then check actual clock/original20:56:42Z start/21:41:42Z deadline/completed2 before possible third bounded action. Observe this repaired owner; no repeat qualification or automatic new guide. November1 retained."
     },
     {
       "id": "KAL-RES-065",
