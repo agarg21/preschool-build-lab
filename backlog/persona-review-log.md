@@ -2,6 +2,8 @@
 
 ## October27 - KAL-IMP-045 Box Garage First Start
 
+COMPLETED: Bohr independent full20 PASS_WITH_P3/no P0-P2/native180; reviewed38e0cc2/exact-SHA Pages40569695575 success/no marker. Eight affected/four unchanged live200bytes; same24 production modes/15keyboardBack/10touch-emulatedBack/fourengineeringhash/finder-disclosure/sixnoJS/canonical-H1-credit-images pass, live mobile/root32 viewed. Same13 editorial24/26/no N/A remains a proxy; P3 readiness scan cost retained for separate grouping polish, not critical task failure. No physical/family/AT/truezoom/hardware/safety/SEO claim or retry/regression.
+
 Bohr fresh independent full20 PASS_WITH_P3/no P0-P2 confirms all four lenses/everysection/all13 editorial24/26/no N/A;18normalmodes/15keyboardBack/sixengineeringhash/finder-disclosure/current sources/visuals pass. Root32/touch/noJS complete matrices operator-only. Sole P3 scan cost390 readiness642px/firststep1479 retained for separate grouping polish; critical controls runnable, exact-SHA release pending.
 
 [Same-task every-section packet](../reviews/box-garage-first-start-repair-2026-10-27.md) retains four RES063 source-traced lenses: novice garage/no-tool fit/attendance constraint/two-car planner. Base and extension now explicit; same13 editorial7->24/26/no N/A, critical local preparation/order/fit failure clears. Native180/actual renderer bytes/24modes/15keyboardBack/10touch-emulatedBack/fourhasharrivals/finder-disclosure/sixnoJS pass, local mobile viewed. Physical/family/AT/actualzoom/hardware/safety/SEO UNKNOWN; different full20 review/exact-SHA production release pending.

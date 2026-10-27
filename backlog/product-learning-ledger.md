@@ -2,6 +2,8 @@
 
 ## 2026-10-27 - KAL-IMP-045 Box Garage First Start
 
+- Completion: Bohr different independent full20 PASS_WITH_P3/no P0-P2/native180; reviewed38e0cc25414b08a1b6e52edad70bc8b62185cbde/exact-SHA Pages40569695575 success/no marker. Eight affected/four unchanged live200bytes;24modes/15keyboardBack/10touch-emulatedBack/fourengineeringhash/finder-disclosure/sixnoJS/canonical-H1-credit-images pass, live mobile/root32 viewed. No retry/regression/outcome claim; release fetch0/0/server stopped/reviewers closed. Accepted P3 readiness scan cost remains, not blocked. Completed3/no fourth; factual7 closeout/final alignment then next eligible separately registered grouping polish, no repeat qualification/November1 retained.
+
 - Review: Bohr independent full20 PASS_WITH_P3/no P0-P2;179 nonmutating/actual6renderers/conservation/parse-GSC100-134IDs-304refs/privacy/18normalmodes-routes/current sourcevisual/all13 independently pass. Native180/twice151110/root32-touch-noJS operator receipts. Accepted P3 readiness scan cost642px/firststep1479 at390, retain separately registered grouping polish without removing controls/changing recipe. Fresh exact-SHA live release pending.
 
 - Decision/persona: [same-task six-owner repair](../reviews/box-garage-first-start-repair-2026-10-27.md) applies reviewed RES063, no new URL. Caregiver needs owned ready box/car/fit/stay-or-skip before park/out/reset/rescue/collect; secondary reach/attention/no tools/catching/independent expectations/root32. Preserve optional two-car engineering challenge.

@@ -9,7 +9,7 @@
       "id": "KAL-IMP-045",
       "title": "Repair Box Garage first start and preserve its two-car extension",
       "kind": "reviewed-six-owner-first-start-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "c242a0c",
       "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/cards/box-garage.html", "site/cards.html", "site/ages/activities-for-4-year-olds-at-home.html", "site/ages/activities-for-6-year-olds-at-home.html", "site/collections/independent-activities-for-preschoolers.html", "site/collections/engineering-activities-for-4-year-olds.html", "site/styles.css", "site/sitemap.xml", "tools/box-garage-first-start.test.mjs", "tools/engineering-hub-arrival.test.mjs", "reviews/box-garage-first-start-repair-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -23,10 +23,15 @@
       "invariants": "All other ACTIVITY definitions/peer blocks/library36-35peers/Cup-Sock-DUPLO-Blanket corrections/engineering asset/IDs/canonicals/arrival offsets/CSV/config unchanged. Engineering still distinct two-car extension, existing base-link prefix/labels preserved; no new URL/product/creator playback/physical claim.",
       "observation_window": "Same actual18:57:10Z/completed2/third-final/no fourth, start deadline19:42:10Z. Technical/source proxies only, physical/family/time/mess/learning/safety/SEO UNKNOWN. November1/October30 unchanged.",
       "reconsider_if": "Source/material/fit/role/extension conflict, unexpected output or peer drift, P0-P2, divergence or ambiguous regression.",
-      "qa_result": "Native180/actual6renderer-credit bytes/twice151110f8/exact8siteoutputs/91files-29blocks-35library-35canonical peers conserved;73HTML-1001refs-77fragments-8LD-67URLs valid.24modes-15keyboardBack-10touch-emulatedBack-fourhasharrivals-finder-disclosure-sixnoJS pass; same13 editorial7->24/26/no N/A. Full20/1changedJSON/134IDs/304docrefs/GSC100/privacy-scope-whitespace pass; exact-SHA live delivery pending.",
+      "qa_result": "Native180/actual6renderer-credit bytes/twice151110f8/exact8siteoutputs/91files-29blocks-35library-35canonical peers conserved;73HTML-1001refs-77fragments-8LD-67URLs valid. Local AND production24modes-15keyboardBack-10touch-emulatedBack-fourhasharrivals-finder-disclosure-sixnoJS-canonicalH1creditImages pass; same13 editorial7->24/26/no N/A. Full20/1changedJSON/134IDs/304docrefs/GSC100/privacy-scope-whitespace pass. Bohr PASS_WITH_P3/no P0-P2; exact-SHA Pages40569695575/eight affected-four unchanged live200bytes verified.",
       "review": "Bohr 01a17ed1-08a9-7411-b2eb-c9a20e743803 fresh different independent read-only full20 cycle-one PASS_WITH_P3/no P0-P2.179 nonmutating/actual6renderers/conservation/parse-GSC-refs/privacy/18normalmodes-15keyboardBack-sixnormalhash/finder-disclosure/source bodies-visuals/all13 independently pass. Full180/twice/root32-touch-noJS operator receipts, freeze intact/reviewer closed.",
       "p3_followup": "Accepted scan cost:390 readiness paragraph642px/firststep1479. Separately register grouping material checks/stay-skip/stops without removing/late-moving controls or changing recipe; critical task remains runnable.",
-      "next_action": "Fresh exact reviewed main push/exact-SHA Pages/live bytes-task/alignment; no fourth action."
+      "completed_on": "2026-10-27",
+      "artifact": "reviews/box-garage-first-start-repair-2026-10-27.md",
+      "release_commit": "38e0cc25414b08a1b6e52edad70bc8b62185cbde",
+      "release_evidence": "Fresh0/0/empty outgoing/exact reviewed20 stage/private scan/whitespace/native180/main push pass. Exact-SHA Pages40569695575 success/no marker. Eight affected/four unchanged live200bytes;24modes-15keyboardBack-10touch-emulatedBack-fourengineeringhash-finder-disclosure-sixnoJS-canonicalH1creditImages pass, live mobile/root32 viewed. No retry/regression/outcome claim; release fetch0/0, server8779 stopped/reviewers closed.",
+      "blockers": "None for completed release; accepted P3 readiness scan cost remains for separately registered grouping polish. Physical/family/fit/time/mess/learning/safety/SEO UNKNOWN.",
+      "next_action": "Completed3/helper denies fourth: factual7 closeout/push/alignment then end invocation. Next eligible heartbeat verify receipts/fresh sensing then separately register P3 readiness grouping with controls before action, recipe-evidence-extension-peers conserved, compare scan order/firststep390-root32 and preserve if added clutter. No repeat RES063; November1/October30 unchanged."
     },
     {
       "id": "KAL-RES-063",

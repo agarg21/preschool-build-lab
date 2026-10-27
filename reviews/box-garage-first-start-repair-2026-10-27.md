@@ -2,7 +2,14 @@
 
 KAL-IMP-045, October27,2026; basec242a0c, third/final transaction of18:57
 heartbeat, actual18:57:10Z/completed2/deadline19:42:10Z. Independent full20
-implementation review PASS_WITH_P3; exact-SHA production release pending.
+COMPLETED: Bohr independent full20 PASS_WITH_P3/no P0-P2, native180;
+reviewed38e0cc25414b08a1b6e52edad70bc8b62185cbde pushed main. Exact-SHA
+[Pages40569695575](https://github.com/agarg21/preschool-build-lab/actions/runs/40569695575)
+succeeded. Eight affected/four unchanged live files200/exact bytes; production
+24modes/15keyboardBack/10touch-emulatedBack/fourengineeringhash arrivals/
+finder/disclosure/sixnoJS/canonical-H1-credit-images pass. Live mobile/root32
+screenshots viewed. No retry/regression or physical/family/SEO outcome claim.
+Accepted P3 scan-cost follow-up remains, not a release blocker.
 
 ## Decision And Exact Scope
 
@@ -150,3 +157,42 @@ finder1-zero-Clear36/Space details/current source bodies/source photos/operator
 root32 visuals/four lenses/everysection/all13 pass. Full180/twice151110f8 and
 complete root32/touch/noJS matrices remain operator receipts. Freeze intact,
 reviewer closed. Fresh exact reviewed main push/exact-SHA production gates next.
+
+## Production Receipt And Handoff
+
+Fresh origin0/0/empty outgoing range, exact reviewed20 staged paths, changed
+JSON/privacy/staged whitespace/native180 passed before focused main push.
+Successful Pages headSha equals the exact pushed SHA above. No release marker
+exists; exact deployment SHA plus affected bytes used. Initial immediate
+listing empty was queue timing; no deployment retry or rollback. Runner/action
+runtime notices were informational; workflow not changed.
+
+| Affected live file | Bytes | SHA256 |
+|---|---:|---|
+| cards/box-garage.html |6108|a78d52a287e09dff5a7330855248a951c39c1b905f29030ddf3f7ca4e77ec315|
+| cards.html |12447|d9dd158c17c80ff250a9cdd9b6c91e9841f75a0b6320496c6b4f3fb46683620d|
+| ages/activities-for-4-year-olds-at-home.html |16702|03b5a25560ce2709c8cb0807cd2cf00251673e3957e94bef6e31bb38f0c1bb2b|
+| ages/activities-for-6-year-olds-at-home.html |14347|fb1ce29caa117642e1b27df0e7a4cd2c86d4ad642591da6fb18e9246abac7444|
+| collections/independent-activities-for-preschoolers.html |18296|3a37d7cc5dea75523bc5deaf729fa94ac3c40a1510189917621618924c476a2d|
+| collections/engineering-activities-for-4-year-olds.html |27310|9a83e44608d735bd5022786b412c715e4602cc821d285e8990c5611545648152|
+| styles.css |40799|fd7e44255b68f56cce78c6c4f45da0bf30e437519f941bfcff161721062a8402|
+| sitemap.xml |8566|5b729e5739c7ffbd5fe5609aa30a58b16974e56231cc1f247b7072700b4de1ab|
+
+Unchanged engineering image, contributor stylesheet/profile and About also
+200/exact bytes. Same24 live full-load modes/wordfit/oneH1/canonical/credit/
+loaded images/no sampled pageerrors,15keyboardBack/10touch-emulatedBack/four
+engineering chooser-directhash readable arrivals/finder1-zero-Clear36/Space
+details/sixnoJS pass. Live mobile/root32 screenshots viewed; no AT, actual
+browser zoom, hardware, physical or family validation. Automatic unreferenced
+favicon404 in local server log is not an all-network-success claim or new
+referenced-asset failure. Physical/fit/hygiene/family/time/mess/learning/safety/
+SEO outcomes remain UNKNOWN. Release fetch0/0; server8779 stopped/reviewers
+closed. Completed3/helper denies fourth, factual7 closeout/push/alignment only.
+
+Next eligible heartbeat first verify actual receipt/fresh sensing, then
+separately register the named P3 readiness-grouping polish. Keep material,
+stay/skip and stop controls before action; preserve recipe/evidence/extension/
+all peers. Compare scan order and first-step position at390/root32; preserve
+current candidate if grouping adds clutter or hides required controls. Do not
+repeat RES063 qualification or broaden into unrelated age/chooser content.
+November1 synthesis/October30 restoration unchanged; no release blocker.
