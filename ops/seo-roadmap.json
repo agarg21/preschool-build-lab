@@ -9,7 +9,11 @@
       "id": "KAL-IMP-039",
       "title": "Align sock-roll first start across existing owners",
       "kind": "existing-owner-implementation",
-      "status": "in_progress",
+      "status": "completed",
+      "completed_on": "2026-10-27",
+      "release_commit": "eeb9c5e1d770551b59499b887586ca85045f3987",
+      "pages_run": "https://github.com/agarg21/preschool-build-lab/actions/runs/40512054804",
+      "production_verification": "Exact-SHA Pages success; no workflow release marker. All8 affected live files200/byte-identical,20 five-owner desktop/mobile/root32 order/fit/canonical/H1/image/evidence cases, keyboardBack/finder/sources/noJS320 pass. No physical/family/SEO result.",
       "registered_on": "2026-10-27",
       "base_commit": "9e26d2a",
       "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/cards/sock-ball-roll.html", "site/cards.html", "site/ages/activities-for-3-year-olds-at-home.html", "site/collections/no-prep-activities-for-preschoolers.html", "site/collections/no-prep-stem-activities-for-4-year-olds.html", "site/collections/indoor-activities-for-preschoolers.html", "site/styles.css", "site/sitemap.xml", "tools/sock-roll-first-start.test.mjs", "tools/preschool-indoor-consolidation.test.mjs", "tools/site-architecture.test.mjs", "reviews/sock-roll-first-start-repair-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -22,7 +26,7 @@
       "observation_window": "No unrelated observation window changed; November1 weekly synthesis retained. Immediate production technical verification, no SEO causal claim.",
       "reconsider_if": "Source contradiction, unexpected output scope, same-task regression, P0-P2 review, incoming divergence or ambiguous production regression.",
       "review": "Carson cycle-one PASS_WITH_P3/no P0-P2, sole stale scope count corrected; cycle-two narrow confirmation PASS/no findings. Independent157 tests/15 browser cases/peer conservation/local refs/privacy pass; operator158/root32/noJS/generator repeat separate.",
-      "next_action": "Fresh fetch/no-divergence and exact22 reviewed stage/push; exact-SHA Pages/live bytes/task and final alignment."
+      "next_action": "Next hourly run inspect these release artifacts, fresh Git/GSC and qualify one distinct simple Create/Imagine activity-running job from current caregiver questions/search; do not reopen closed restaurant/lacing hypotheses without named new evidence. No automatic new URL. November1 weekly retained."
     },
     {
       "id": "KAL-RES-052",

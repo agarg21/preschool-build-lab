@@ -125,3 +125,14 @@ generator repeat remain operator-only. Exact-SHA release/live gates remain.
 Cycle-two Carson narrow factual-delta confirmation PASS/no remaining findings;
 scope-count P3 resolved, no site/code/test changes. Fresh0/0 fetch, empty
 outgoing range, exact22 staged/no unstaged and staged privacy/whitespace pass.
+
+## Production Release
+
+Reviewed eeb9c5e1d770551b59499b887586ca85045f3987 pushed main. Exact-SHA
+[Pages40512054804](https://github.com/agarg21/preschool-build-lab/actions/runs/40512054804)
+success; workflow has no release marker. All8 affected live files returned200
+and byte-match reviewed files. Production20 five-owner1280/390/320/root32
+cases pass order/fit/canonical/H1/images/untested disclosure and sampled errors;
+finder socks1/zero/Clear36, keyboard/Back/source disclosure, indoor handoff and
+noJS320 card route pass. Live mobile screenshot inspected. No physical/family/
+SEO result. Factual docs-only receipt closeout and final alignment follow.
