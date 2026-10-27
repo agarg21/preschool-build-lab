@@ -2,6 +2,8 @@
 
 ## 2026-10-27 - KAL-IMP-050 Water Drop Tilt Repair
 
+- Completion: reviewed2a63bac004989ea2fb3d6d124950f82049df6c0e/Faraday full17 PASS/native197/exact-SHA Pages40595922674 success/no marker. Five affected/seven unchanged live200bytes/12production modes-6keyboardBack-4touch-3outgoing-finder-Space-expanded2sources-three noJS/canonical-H1-credit-images/wordfit/live390-root32 viewed pass. No retry/regression/outcome claim; fresh release fetch0/0/reviewer closed/server stopped. Completed3/helper denies fourth; no new action this run.
+
 - Review: Faraday fresh different full17 cycle-one PASS/no P0-P3;196nonmutating/actual3renderers/conservation/GSC100-143IDs-334refs/parse-privacy/12modes-routes-touch-disclosures-finder1-2-zero-Clear36-three noJS/wordfit/current5bodies-visual limits/four lenses/everysection/all13 independently pass. Existing favicon404 only/no page runtime errors; freeze intact/reviewer closed/Master197-twice distinct. Fresh exact reviewed main push/exact-SHA production next.
 
 - Decision/persona: [repair](../reviews/water-drop-first-start-repair-2026-10-27.md) applies reviewed RES067 to three owners/sameURL; complete securedwax tray/dropper/cup/water/towel set, explicit adultfar-childnear grip/supportededge/watch route/earlyfit-stop/moved-stayed-unclear/end-empty-dry/untested-unmeasured. No mouthtool, timer or newguide.
