@@ -6,6 +6,28 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-057",
+      "title": "Qualify preschool paper-airplane first-fold and first-flight job",
+      "kind": "research-first-making-qualification",
+      "status": "reviewed",
+      "reviewer": "Popper independent read-only full7 cycle-one PASS/no P0-P3, final sensor delta included;165 nonmutating tests/GSC100/124IDs/262refs/questions/six bodies/persona-score independently checked. Full166/preflight/owner DOM operator-only.",
+      "decision": "DEFER new URL: four adjacent questions/two incomplete query probes/six direct bodies do not establish exact material demand or missing utility; generic assistance-launch-recovery already answered, one visual-model/control lineage unfinished. All13 desk14/24/mobile N/A/critical override. Separate helicopter root32 overflow needs content-conserving repair after confirmation.",
+      "registered_on": "2026-10-27",
+      "base_commit": "0abd756",
+      "release_base_commit": "db85f700e4b199edf2a128497a982a2534e03b75",
+      "sensor_update": "Non-overlapping automated Oct27 sensor commit safely fast-forwarded during review;100 valid snapshots, finalizedOct25 378/5 versus453/5 overlapping28day, ramp217/2 versus313/2, chooser9/0 versus7/0. Complete query controls unavailable/no causality, airplane demand or build-gate change; verified overflow and November1 synthesis retained.",
+      "exact_paths": ["seo/paper-airplane-qualification-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "October27 sprint directs distinct simple making/experimenting discovery after verified IMP041 delivery. Paper-airplane directional flight is a seed; demand and utility beyond current sources/maintained paper helicopter remain unqualified.",
+      "evidence_class": ["MEASURED", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Caregiver needs to decide whether folding and a first paper-airplane flight fit current abilities, materials, adult attention and space without an unexplained folding/video/throwing detour.",
+      "hypothesis": "Current questions, exact query bodies and a source-reconciled mechanism can qualify distinct demand and missing parent utility, or support a concrete defer/rejection instead of another page.",
+      "acceptance": "3-5 public question bodies with date/ability limits; live query family and ranking bodies; source lineage/material/geometry/adult/stop/rescue matrix; existing-owner check; four traced lenses/every-section/all13 desk rubric with NAs; one decision and exact remaining gates, no assumed demand/outcome.",
+      "qa_plan": "Native166, changedJSON/roadmap parse, publicGSC validation/comparison, local refs/exact7/source/privacy/claims/whitespace; different read-only review then fresh no-divergence exact docs-only push/alignment. No site/generator change or Pages wait.",
+      "observation_window": "Research-only, no new URL/family/physical/SEO claim. Actual retained16:00:37Z/completed0 with stricter16:42:34Z selection cutoff due lost first clock; weeklyNovember1 and sprintOctober30 retained.",
+      "reconsider_if": "Clear existing owner, source/mechanism contradiction, unsupported material demand/novelty, unresolved critical controls, private-source spill, P0-P2 or divergence.",
+      "next_action": "Execute current-question/query/body/source-owner qualification and record one evidence-qualified decision; any supported build must be a separate reviewed transaction within remaining sprint limits."
+    },
+    {
       "id": "KAL-IMP-041",
       "title": "Give existing DUPLO Games one runnable first rule",
       "kind": "existing-owner-implementation",

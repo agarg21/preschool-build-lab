@@ -1,5 +1,11 @@
 # SEO Research & Review Backlog
 
+## October27 Paper-Airplane Qualification
+
+New sensor-only db85f70 safely fast-forwarded during review;100 snapshots validate, finalizedOctober25 378/5 versus453/5 overlapping with missing complete queries. No exact airplane demand/build gate changes; independent verified overflow remains the next eligible repair, November1 unchanged.
+
+`KAL-RES-057` [dated decision](../seo/paper-airplane-qualification-2026-10-27.md) DEFERS a new URL: directional flight differs from the maintained falling helicopter, but four adjacent caregiver questions and two incomplete query probes do not establish material exact demand or a missing output beyond six accessed answers. Generic assisted-fold/gentle-launch/recovery novelty rejected; exact geometry/visual/launch-retrieval/stop/cleanup default also unfinished. All13 desk14/24/mobile N/A/critical override, no airplane page/family/physical validation. Reopen only on named constrained demand and incremental output with one reconciled lineage, not cadence. Separate existing helicopter spot-check320/root32 width333 needs cause confirmation and separately registered content-conserving repair. Native166 passed; exact7/review/docs release pending, November1 unchanged.
+
 ## October27 DUPLO First-Rule Audit
 
 `KAL-RES-056` [source/live audit](../reviews/duplo-first-rule-audit-2026-10-27.md) qualifies separate IMPROVE of existing card/four generic entries: no first rule, parent checks after steps in all20 modes, video before card start, fine-motor root32 width536/320. Foundation visible-copy PDF source/page15 image inspected and LEGO/RCN/AAP reconciled; four owned bricks/two matching pairs/two-brick visible model is editorial reduction, not memory training, creator-video adaptation or product review. Same13 baseline5/26/critical override; sources/physical limits retained. Native/independent review/docs release pending. No new guide/URL; any repair separately registered, all36/Cup/peers/credits invariant, November1 retained.

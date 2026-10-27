@@ -1,5 +1,15 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-057 Paper-Airplane Qualification
+
+- Sensing update before release: automated db85f70 added only October27 sensor files, safe non-overlapping fast-forward. All100 validate; finalized throughOctober25,378/5 versus453/5 overlapping28day, ramp217/2 versus313/2 and chooser9/0 versus7/0. Missing complete query controls prevent intent/causality inference; no airplane/build gate changes. Original registration0abd756/current releasebasedb85f70, November1 retained.
+
+- Decision/persona: [dated qualification](../seo/paper-airplane-qualification-2026-10-27.md) DEFERS a new airplane URL. Preschool caregiver needs first real model/fold/launch/help-or-decline, secondary inaccurate folds or unavailable attended lane; four source-traced lenses, not observed families.
+- Hypothesis/result: four current-accessed public question bodies (three ages3-5, one younger contrast; indexed/relative-date limits) are adjacent crafts, not exact airplane demand. Two incomplete query probes/six direct activity bodies already answer generic assistance/gentle launch/recovery. No clean current owner, but material demand/incremental output and exact visual/control lineage remain unqualified. All13 desk14/24/mobile N/A/critical model-launch override, not a page usability score.
+- Sources/classes: accessed RCN/NUSTEM/ESM/CuriOdyssey/PlayOwl/OrigamiDiagrams bodies SOURCE_BACKED within distinct limits; no PDF/image/video/simulator validation. GSC/Git/native/preflight and separate helicopter DOM spot-check MEASURED, dated helicopter Ads only TOOL_ESTIMATE/not transferable; task RESEARCH_HYPOTHESIS, decision/score EDITORIAL_JUDGMENT. Physical/family/time/mess/learning/safety/SEO results UNKNOWN.
+- Confidence/lesson: high in inspected generic-answer duplication, moderate in deferral. A folding problem and a launch problem need one reconciled model; generic first-flight help is already supplied, not automatic new utility. No market absence or weak-result claim.
+- Falsification/next: reopen only with named exact constrained demand plus missing output and complete source/visual/control lineage; no cadence-only repeat. Separate helicopter owner spot-check found320/root32 document333px; confirm cause and separately register narrow content-conserving repair. Native166 passed; exact7/JSON/refs/privacy/review/docs-only release pending. November1 retained.
+
 ## 2026-10-27 - KAL-IMP-041 DUPLO First-Rule Repair
 
 - Decision/persona: [same-task implementation](../reviews/duplo-first-rule-repair-2026-10-27.md) gives existing card/four entry owners one visible-copy loop, four owned bricks/two matching pairs, adult model/help/skip/stop, reset/rescue/collect. Caregiver first-rule task and younger reach/attendance/naming/assembly/no-video/narrow-text stresses remain research hypotheses.
