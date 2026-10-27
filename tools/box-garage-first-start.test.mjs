@@ -19,6 +19,30 @@ const before = (html, control, action) => {
   assert.ok(a >= 0 && b >= 0 && a < b, control);
 };
 
+test("Box Garage readiness groups conserve the shared cue and stay expanded before action", () => {
+  const script = `import json, sys
+sys.path.insert(0, 'scripts')
+from generate_seo_pages import ACTIVITIES
+a = ACTIVITIES['box-garage']
+print(json.dumps({k: a[k] for k in ['readiness_groups', 'fit_cue', 'start_cue', 'stop']}))`;
+  const a = JSON.parse(execFileSync("python3", ["-B", "-c", script], { encoding: "utf8" }));
+  assert.deepEqual(a.readiness_groups.map(([label]) => label), ["Box and car", "Space", "Adult and child", "Evidence"]);
+  assert.equal(a.readiness_groups.map(([, text]) => text).join(" "), a.fit_cue);
+  assert.equal(`${a.fit_cue} Stop: ${a.stop}`, a.start_cue);
+  const readiness = card.match(/<section class="parent-strip box-garage-readiness"[\s\S]*?<\/section>/)?.[0];
+  assert.ok(readiness);
+  assert.doesNotMatch(readiness, /<details|hidden|aria-hidden/);
+  const escape = s => s.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;").replaceAll("'", "&#x27;");
+  for (const [label, text] of [...a.readiness_groups, ["Stop", a.stop]]) {
+    assert.ok(readiness.includes(`<p><strong>${label}:</strong> ${escape(text)}</p>`), label);
+    before(card, `<strong>${label}:</strong>`, 'class="steps-grid"');
+  }
+  before(card, '<strong>Need:</strong>', 'aria-label="Before starting"');
+  assert.match(card, /Open-ended; duration and mess not measured/);
+  assert.doesNotMatch(card, /class="meta-tile"/);
+  assert.match(card, /styles\.css\?v=box-garage-card-2/);
+});
+
 test("Box Garage base owners expose the same ready one-car start and early adult controls", () => {
   for (const [name, html] of basic) {
     assert.ok(html, name);

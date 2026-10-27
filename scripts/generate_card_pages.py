@@ -745,6 +745,25 @@ def quick_page(slug):
         <section class="parent-strip" aria-label="Before starting">
           <strong>Before you start:</strong> {esc(activity['start_cue'])}
         </section>''' if has_start_cue else ""
+    activity_details = f'''
+
+        <div class="card-meta" aria-label="Activity details">
+{meta_html}
+        </div>'''
+    if is_box_garage:
+        readiness = "\n".join(
+            f'          <p><strong>{esc(label)}:</strong> {esc(text)}</p>'
+            for label, text in activity["readiness_groups"]
+        )
+        activity_start = f'''
+
+        <p class="box-garage-materials"><strong>Need:</strong> {esc(activity['materials'])}.<br>Open-ended; duration and mess not measured.</p>
+        <section class="parent-strip box-garage-readiness" aria-label="Before starting">
+          <h2>Before you start</h2>
+{readiness}
+          <p><strong>Stop:</strong> {esc(activity['stop'])}</p>
+        </section>'''
+        activity_details = ""
     activity_setup = f'''
 
         <section class="parent-strip" aria-label="Adult setup">
@@ -806,7 +825,7 @@ def quick_page(slug):
         "cup-tower-card-1" if is_cup_tower else
         "duplo-game-card-1" if is_duplo_game else
         "blanket-river-card-1" if is_blanket_river else
-        "box-garage-card-1" if is_box_garage else "nav-stable-2"
+        "box-garage-card-2" if is_box_garage else "nav-stable-2"
     )
     previous_video = '''
 
@@ -840,11 +859,7 @@ def quick_page(slug):
     <main class="card-shell">
       <article class="{card_class}">
         <p class="kicker">{esc(kicker)}</p>
-        <h1>{esc(activity['title'])}</h1>{early_guide}{pre_meta_parent_check}{activity_start}
-
-        <div class="card-meta" aria-label="Activity details">
-{meta_html}
-        </div>{early_parent_check}{activity_setup}
+        <h1>{esc(activity['title'])}</h1>{early_guide}{pre_meta_parent_check}{activity_start}{activity_details}{early_parent_check}{activity_setup}
 
         <section class="steps-grid" aria-label="Steps">
 {step_html}

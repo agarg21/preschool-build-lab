@@ -1,5 +1,15 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-IMP-046 Box Garage Readiness Scan
+
+- Review: Ampere fresh different independent full12 cycle-one PASS/no P0-P3;180nonmutating/actual6renderers/97peers/canonical-PAGES/parse-refs-privacy/24modes-routes-touch-hash-finder-Space-sixnoJS/mobile screenshots/four lenses/everysection/all13 independently pass, exact first-step positions reproduced. Master181/twice receipts distinct; reviewer closed/freeze intact, exact-SHA production gates next.
+
+- Decision/persona: [compact-card layout](../reviews/box-garage-readiness-layout-2026-10-27.md) applies Bohr's named P3; caregiver retrieves material/space/adult/skip/stop with another reachable child/no tools/enlarged text, then one-car park/out/rescue/finish. No repeat qualification/new URL.
+- Hypothesis/result: visible labeled groups with every canonical sentence conserved, plus compact materials/status instead of four tiles, leave first-step position no worse. Local390 top1479.13->1325.50/root32 at3205794.73->5680.17; readiness block itself grows642.25->716.63. This is net layout improvement, not measured reading/comprehension. Same13 editorial24/26/no N/A.
+- Sources/classes: retained dated RES063 Purdue/RCN/AAP/PBS lineage SOURCE_BACKED within limits, no refreshed source/SERP/demand claim; technical layout/tests MEASURED, task RESEARCH_HYPOTHESIS, grouping/rubric EDITORIAL_JUDGMENT. Physical/family/fit/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson: high for sentence/output conservation and measured positions, moderate for scan utility. Grouping can improve retrieval while increasing a warning block's height; compare total start cost, not just block height or word count.
+- Falsification/measurement boundary: lost/late check, worse like-for-like first step/fit, peer drift or independent P0-P2 invalidates. Native181/idempotent generators/exact2siteoutputs/97peers/24modes-15keyboardBack-10touch-fourhash-finder-disclosure-sixnoJS pass; full12 independent review/exact-SHA production pending. No family/physical/AT/truezoom/hardware result, November1 retained.
+
 ## 2026-10-27 - KAL-IMP-045 Box Garage First Start
 
 - Completion: Bohr different independent full20 PASS_WITH_P3/no P0-P2/native180; reviewed38e0cc25414b08a1b6e52edad70bc8b62185cbde/exact-SHA Pages40569695575 success/no marker. Eight affected/four unchanged live200bytes;24modes/15keyboardBack/10touch-emulatedBack/fourengineeringhash/finder-disclosure/sixnoJS/canonical-H1-credit-images pass, live mobile/root32 viewed. No retry/regression/outcome claim; release fetch0/0/server stopped/reviewers closed. Accepted P3 readiness scan cost remains, not blocked. Completed3/no fourth; factual7 closeout/final alignment then next eligible separately registered grouping polish, no repeat qualification/November1 retained.

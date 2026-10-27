@@ -260,7 +260,12 @@ ACTIVITIES = {
         "help_label": "Adult stays beside setup",
         "materials": "1 already-open small cardboard box, 1 large lightweight toy car",
         "best_for": "pretend parking with one car, not a child-sized box build",
-        "fit_cue": "Adult checks a clean, empty, dry, intact box without staples, sharp edges, plastic packing or loose pieces; choose another box or skip rather than repair it during play. Check the owned car's age/warning labels for every child who can reach it; use intact large pieces without loose small parts, magnets or battery parts. Clear floor space away from walking routes. Toys only: no sitting, climbing, wearing or shutting anyone inside the box. Stay beside every reachable child and keep tools, packing and spare pieces away. Try when the child can roll with help and follow a stop cue; watching or pointing is an option. Skip if fit, space or attention do not match. Research-backed, not family-tested by Kid Activity Lab.",
+        "readiness_groups": [
+            ("Box and car", "Adult checks a clean, empty, dry, intact box without staples, sharp edges, plastic packing or loose pieces; choose another box or skip rather than repair it during play. Check the owned car's age/warning labels for every child who can reach it; use intact large pieces without loose small parts, magnets or battery parts."),
+            ("Space", "Clear floor space away from walking routes. Toys only: no sitting, climbing, wearing or shutting anyone inside the box."),
+            ("Adult and child", "Stay beside every reachable child and keep tools, packing and spare pieces away. Try when the child can roll with help and follow a stop cue; watching or pointing is an option. Skip if fit, space or attention do not match."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab."),
+        ],
         "stop": "Stop for mouthing, throwing, loose pieces, torn or sharp cardboard, feet or climbing, body entry, blocked walking routes or lost adult attention.",
         "adult_setup": "Put the already-open box on its side on the clear floor, with the opening facing the player and unobstructed. Check the car can roll in and out without catching, force or lifting the box. No cutting or tape is needed for this one-car start.",
         "steps": ["Drive the car through the ready opening.", "Park the car. Say or point to where it is.", "Drive back out through the same opening. Repeat or finish."],
@@ -516,6 +521,9 @@ ACTIVITIES = {
 
 ACTIVITIES["blanket-river"]["start_cue"] = (
     ACTIVITIES["blanket-river"]["fit_cue"] + " Stop: " + ACTIVITIES["blanket-river"]["stop"]
+)
+ACTIVITIES["box-garage"]["fit_cue"] = " ".join(
+    text for _, text in ACTIVITIES["box-garage"]["readiness_groups"]
 )
 ACTIVITIES["box-garage"]["start_cue"] = (
     ACTIVITIES["box-garage"]["fit_cue"] + " Stop: " + ACTIVITIES["box-garage"]["stop"]

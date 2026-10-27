@@ -778,6 +778,21 @@ th {
   line-height: 1.5;
 }
 
+.box-garage-card .box-garage-materials,
+.box-garage-card .box-garage-readiness {
+  line-height: 1.5;
+}
+
+.box-garage-card .box-garage-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.box-garage-card .box-garage-readiness p {
+  margin: 8px 0 0;
+}
+
 .blanket-river-card {
   max-width: 720px;
   margin: 0 auto;
