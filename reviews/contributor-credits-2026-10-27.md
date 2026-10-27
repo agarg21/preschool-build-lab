@@ -1,6 +1,6 @@
 # Shared Contributor Credits And Publisher Accountability
 
-KAL-IMP-038, October27,2026. Base98a3c65. Direct user request to adapt Family Tripwise author/strategy changes; user delegated naming, Riley Hart selected. Independent read-only PASS; release pending.
+KAL-IMP-038, October27,2026. Base98a3c65. Direct user request to adapt Family Tripwise author/strategy changes; user delegated naming, Riley Hart selected. Independent read-only PASS; released and production-verified at48d93e0.
 
 ## Decision And Evidence
 
@@ -36,3 +36,5 @@ Final shared-generator repeat site hash2e345f41 is identical across all assets. 
 Sprint setup98a3c65 is already pushed, saved hourly scheduler verified and final local/origin0/0. This action carries its mechanical release receipt in the overlapping operator records only. Current actual run-start11:58:33Z, one completed setup transaction, this second action underway. No new action may start after12:43:33Z; finish or checkpoint underway work safely.
 
 Independent read-only reviewer Arendt returned cycle-one PASS/no P0-P3 on the complete86-path diff. Independently checked152 nonmutating native tests,GSC99,JSON115IDs,69 baseline-conserved pages, parser behavior,73HTML/836anchors/165assets/77fragments/eight JSON-LD,67 sitemap URLs with old dates preserved,268 Markdown references, scope/privacy/whitespace and supplied screenshots. It did not independently rerun browser interactions/all138 geometry cases or full-generator repeat. Production verification remains the next gate.
+
+Release: fresh fetch0/0 and empty unpushed range; exact86 reviewed staged paths/no unstaged files, staged whitespace/private-data scan clear. Reviewed48d93e07b069d559409b4bc0617695eb4ee6ef29 pushed to main; [exact-SHA Pages run40504204320](https://github.com/agarg21/preschool-build-lab/actions/runs/40504204320) succeeded. Workflow has no release marker. All73 affected public files returned200 and byte-matched local reviewed output, including canonical/H1/indexability/source dates and scoped CSS. Production Chrome138 credit cases1280/320, six320/root32 routes, no-JS keyboard credit/profile/publisher/Back round trip, founder anchor110px and live mobile screenshot pass; no sampled page errors/credit overlap. [Riley profile](https://kidactivitylab.com/contributors/riley-hart.html) and [About](https://kidactivitylab.com/about.html) are live. No family, physical, screen-reader or SEO effect claimed. Same-scope factual docs-only closeout and final alignment follow.

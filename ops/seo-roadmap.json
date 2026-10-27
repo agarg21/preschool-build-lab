@@ -9,7 +9,8 @@
       "id": "KAL-IMP-038",
       "title": "Add disclosed AI contributor credits and publisher accountability",
       "kind": "shared-attribution-implementation",
-      "status": "in_progress",
+      "status": "completed",
+      "completed_on": "2026-10-27",
       "registered_on": "2026-10-27",
       "base_commit": "98a3c65",
       "exact_paths": [
@@ -109,7 +110,8 @@
       "measurement_plan": "Source-derived proxy task answers contributor identity, AI scope, responsible publisher and firsthand/review limits, then returns to an activity. All13 applicability/N-A reasons documented; no new-guide demand gate or ranking claim for requested supporting profile.",
       "production_invariants": "Existing titles/H1/canonicals/source/tested dates and activity guidance retained; no author Person schema for AI. One ramp schema type corrected to Organization. New About/profile only, no new activity URL, product, tracking, spend, indexing, outreach or automation mutation.",
       "reconsider_conditions": "Undisclosed synthetic-human inference, false retroactive authorship/firsthand/human review, body/metadata/date drift, clutter hiding critical start, duplicate/missing credits or broken profile/return routes, reviewer P0-P2 or divergence.",
-      "next_step": "Arendt read-only PASS/no P0-P3 and operator native153/GSC99/conservation/browser QA pass. Fresh no-divergence exact86 reviewed stage/push, exact-SHA Pages/live bytes/task and final alignment.",
+      "next_step": "Next actual hourly run inspect this release, then select a qualified guide/existing-owner build or one bounded named missing qualification gate. Do not repeat completed research, count attribution as activity expansion or infer SEO/family outcomes. Sprint expiry October30 07:58:33EDT; weeklyNovember1.",
+      "release": {"commit": "48d93e07b069d559409b4bc0617695eb4ee6ef29", "state": "pushed-and-production-verified", "pages_run": "https://github.com/agarg21/preschool-build-lab/actions/runs/40504204320", "pages_result": "success for exact pushed SHA; no workflow marker", "qa": "153native,GSC99,exact86 scope,69byteconservation,final generator repeat,73HTML/836anchors/165assets/77fragments/8JSONLD/67sitemap; all73livefiles200/identical; live138creditgeometry+6root32+noJSkeyboardroundtrip", "alignment": "factual docs-only closeout and final check follow"},
       "review_outcome": "Arendt independent read-only cycle-one PASS/no P0-P3; operator full153/browser/generator QA passes, reviewer152 nonmutating tests and conservation/links/source/privacy independently passes"
     },
     {

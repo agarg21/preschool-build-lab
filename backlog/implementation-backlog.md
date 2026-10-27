@@ -2,7 +2,7 @@
 
 ## October 27 Shared Contributor Credits
 
-KAL-IMP-038 implements the user's Family Tripwise-style accountability direction: Riley Hart, disclosed AI research contributor, linked from69 editorial/utility pages; About identifies Apoorva as publisher. Two support URLs, shared generator sync and scoped styles; old content/dates conserved except one Person-to-Organization schema correction. [Dated packet](../reviews/contributor-credits-2026-10-27.md) records coverage, task, evidence and limits. Review and exact-SHA release pending.
+KAL-IMP-038 **released48d93e0** after Arendt independent PASS and [exact-SHA Pages40504204320](https://github.com/agarg21/preschool-build-lab/actions/runs/40504204320) success: Riley Hart, disclosed AI research contributor, linked from69 editorial/utility pages; About identifies Apoorva as publisher. Two support URLs, shared generator sync/scoped styles; old content/dates conserved except one Person-to-Organization correction. Native153, all73 live file bytes and production138credit/sixroot32/keyboard/no-JS checks pass. [Dated packet](../reviews/contributor-credits-2026-10-27.md) retains evidence and limits; no family/SEO effect claimed.
 
 ## October 27 Magnet Hunt Existing-Owner Trust Correction
 
