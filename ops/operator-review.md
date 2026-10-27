@@ -1,5 +1,13 @@
 # Operator Review
 
+## October27 - KAL-IMP-042 Helicopter Responsive Repair (review pending)
+
+Ohm (01a17e2b-0994-72d2-82d4-3ad40f97613c), independent read-only full11 cycle-one PASS/no P0-P3. Independently167 nonmutating tests/negative mutations/renderer+credit output/body-map-peer conservation/all structured/local refs/GSC100/125IDs/302refs/privacy/scope; baseline+repair four modes/twelve keyboard/twelve fresh hashes/six touch emulation/Back/details/noJS/image/everysection/same13 pass. No repo/external writes. Full168/generator-repeat/fresh-fetch remain operator-only; exact-SHA production release/live byte/task/final alignment next.
+
+Full11 frozen QA native168/GSC100/changedJSON/125IDs/302localrefs/exactscope/source/privacy/claims/whitespace pass, no changedCSV. Ohm different independent read-only reviewer underway; no code/site change after freeze. Fresh exact-SHA release/live gates remain before completion.
+
+Exact11 at4481125, same retained16:00:37Z/completed1/stricter16:42:34Z selection cutoff. [Packet](../reviews/helicopter-responsive-repair-2026-10-27.md): only inline source CSS caps H1/H2 and strengthens scoped relative arrival; one site output, every non-style byte/map/peer/sitemap/data conserved. Native168/idempotenta0a8f32e/all73HTML-959anchors-261nonanchorrefs-1001localtargets-82fraghrefs(5external)-8JSONLD-67URLs pass. Four geometry modes/twelve keyboard/twelve fresh hashes/six touch emulation/Back/summary/noJS/image pass, same13 editorial23->24/26/no N/A/critical arrival clears. Root32 screenshot harness correction/full rerun recorded; no actualzoom/AT/device/family/flight result. Full11/JSON/refs/privacy/independent review then fresh exact-SHA production release/live task required, November1 retained.
+
 ## October27 - KAL-RES-057 Paper-Airplane Qualification (review pending)
 
 COMPLETED learned-only: exact7 reviewed0fe9fb4 pushed main after fresh0/0/empty outgoing/exact stage/staged whitespace/source-privacy checks; postpush fetch clean0/0. No site change/Pages wait. Popper PASS/native166/GSC100/factual limits retained. Factual closeout then separate narrow helicopter responsive repair within guard, completed1.

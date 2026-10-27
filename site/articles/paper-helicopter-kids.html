@@ -16,8 +16,11 @@
       .helicopter-map figcaption { font-size: 0.9rem; }
       .helicopter-guide details { margin: 18px 0; }
       .helicopter-guide summary { cursor: pointer; text-decoration: underline; }
-      .helicopter-guide section[id] { scroll-margin-top: 110px; }
-      @media (max-width: 600px) { .helicopter-guide h1 { font-size: 2rem; } }
+      .helicopter-guide .content section[id] { scroll-margin-top: max(110px, 7rem); }
+      @media (max-width: 600px) {
+        .helicopter-guide h1 { font-size: min(2rem, 56px); }
+        .helicopter-guide .content h2 { font-size: min(1.75rem, 48px); }
+      }
     </style>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"Article","headline":"Paper Helicopter for Kids","datePublished":"2026-09-19","dateModified":"2026-09-19","author":{"@type":"Organization","name":"Kid Activity Lab"},"image":"https://kidactivitylab.com/assets/paper-helicopter/cut-fold-map.png"}

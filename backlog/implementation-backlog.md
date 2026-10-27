@@ -1,5 +1,9 @@
 # Implementation Backlog
 
+## October27 Helicopter Responsive Repair
+
+`KAL-IMP-042` [bounded repair](../reviews/helicopter-responsive-repair-2026-10-27.md) gives existing guide scoped narrow H1/H2 caps and a sufficiently specific relative section offset.320/root32 doc333->320, preparation/drop/rescue arrival clears142.83px header; all content/map/metadata/credits/source dates/URLs and peer outputs unchanged. Native168/twice-idempotent generators/exactone-site-output/links/four modes/twelve keyboard+twelve direct-hash/six emulated-touch/noJS/Back/summary pass, same13 editorial23->24/26/no N/A. Different independent full11 review and exact-SHA Pages/live task/alignment pending; no new airplane/recipe or family/physical/SEO claim, November1 retained.
+
 ## October27 DUPLO First-Rule Repair
 
 `KAL-IMP-041` [bounded source-owned repair](../reviews/duplo-first-rule-repair-2026-10-27.md): explicit CSV-to-QUICK route, four-owned/two-pair visible-copy default, early adult material/attention/skip/stop, reset/row/partner/cleanup, four hub/library alignment and scoped card/fine-motor fit. No new URL/product/memory outcome;29 peers/Cup/all36/credits preserved. Native166/idempotence/links/20browser modes/keyboardBack/finder/noJS/sourcevisual pass, all13 editorial5->24/26. Different independent review and exact-SHA release/live checks pending, third/final action of14:58 run.

@@ -1,5 +1,11 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP042 Ohm independent read-only full11 cycle-one PASS/no P0-P3;167 nonmutating tests/negative mutations/renderer-body-map-peer/parse/GSC100/125IDs/302refs/privacy and four modes/keyboard12/freshhash12/touch-emulation6/Back/details/noJS/image/everysection/same13 independently pass. Full168/generator-repeat/freshfetch operator-only. Fresh exact11 reviewed release/exact-SHA Pages/one livebyte/production task/alignment next, count1 until delivery.
+
+IMP042 local source CSS-only repair/native168/idempotenta0a8f32e/exactone-site-output/all-local-targets pass; all non-style bytes/map/peers/data/sitemap preserved. Four geometry modes/root32doc320, twelve keyboard+twelve fresh-hash/six emulated-touch arrivals/Back/summary/noJS/source-image pass; same13 editorial23->24/26/critical arrival clears, not family/flight/AT/zoom claim. Full11/JSON/refs/privacy/independent review/exact-SHA live release pending, count1/November1 retained.
+
+KAL-IMP-042 REGISTERED at4481125, exact11 in JSON/checkpoint. Same retained16:00:37Z/completed1/stricter16:42:34Z selection cutoff. Verified helicopter320/root32 H1/H2 word overflow/doc333; capture baseline arrival/task then only source-owned scoped CSS/rendered regression. Preserve every instruction/map/source date/metadata/credit/URL and other output; all3 generators/native/browser/all13/everysection/different review/exact-SHA Pages/live task required. No new airplane/recipe/sitewide typography change; November1 retained.
+
 RES057 COMPLETED learned-only: reviewed0fe9fb4/Popper full7 PASS/native166/GSC100/124IDs/262refs/exact7/source-privacy/whitespace; fresh exact docs-only push/postpush clean0/0, no Pages/site change. Factual closeout then separate helicopter responsive repair, completed1/retained16:00:37Z/stricter16:42:34Z selection cutoff. No new airplane guide or repeat without named evidence; November1 retained.
 
 RES057 Popper independent full7 cycle-one PASS/no P0-P3 including final sensor delta;165 nonmutating tests/GSC100/124IDs/262refs/questions/six bodies/persona-score independently checked. Full166/preflight/owner DOM operator-only. Fresh exact reviewed docs-only release/alignment next; no site repair inside this action, count0 until push.

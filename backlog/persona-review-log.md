@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## October27 - KAL-IMP-042 Helicopter Responsive Arrival
+
+[Same-task every-section packet](../reviews/helicopter-responsive-repair-2026-10-27.md): source-traced caregiver adult cut/fold/drop/decline task, four lenses and320/root32 stress. Same13 editorial23->24/26/no N/A; baseline high total does not excuse clipped preparation/start under sticky header. Local four geometry/twelve keyboard/twelve fresh-hash/six emulated-touch arrivals, libraryBack/summary/noJS pass; title/instruction/source/map/credit bytes conserved outside CSS. Native168/idempotence/all-local-targets pass; different review/exact-SHA production gates pending. Physical/family/actualzoom/AT/real-device outcomes UNKNOWN.
+
 ## October27 - KAL-IMP-041 DUPLO First Rule
 
 [Same-task every-section packet](../reviews/duplo-first-rule-repair-2026-10-27.md): caregiver first rule/reset/decline without video or invention, four source-traced lenses and reach/attention/naming/assembly/320root32 stresses. Same13 editorial5->24/26/no N/A, critical local rule/order/fit failures clear in20 modes; native166/keyboardBack/finder1-zero-Clear36/noJS/sourcevisual pass. No real family/physical/AT/touch/zoom/outcome evidence. Different independent review and exact-SHA production delivery pending; no new page/product/learning claim.

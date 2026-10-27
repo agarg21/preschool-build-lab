@@ -6,6 +6,26 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-042",
+      "title": "Repair paper-helicopter enlarged-text headings and arrival",
+      "kind": "verified-responsive-accessibility-repair",
+      "status": "reviewed",
+      "reviewer": "Ohm independent read-only full11 cycle-one PASS/no P0-P3;167 nonmutating tests/negative mutations/renderer-body-map-peer conservation/parsing/GSC100/125IDs/302refs/privacy and baseline+repair four modes/keyboard12/freshhash12/touch-emulation6/Back/details/noJS/image/everysection/same13 independently pass. Full168/generator-repeat/freshfetch operator-only.",
+      "local_evidence": "Native168/idempotenta0a8f32e/exactone-site-output/non-style body-map-peer-data-sitemap conservation/all local refs pass. Four geometry modes/root32doc320/twelve keyboard+twelve freshhash/six touch-emulation arrivals/Back/summary/noJS/image pass; same13 editorial23->24/26/critical arrival clears, no family/physical/actualzoom/AT/device outcome.",
+      "registered_on": "2026-10-27",
+      "base_commit": "4481125",
+      "exact_paths": ["scripts/generate_seo_pages.py", "site/articles/paper-helicopter-kids.html", "tools/helicopter-responsive.test.mjs", "reviews/helicopter-responsive-repair-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "Reviewed RES057 owner spot-check confirms normal1280/390/320 fits but320/root32 doc333, word ranges H1 Helicopter325.91/H2 preparation332.77. Existing guide and source/map/role lineage retained, no new recipe or airplane demand inference.",
+      "evidence_class": ["MEASURED", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Caregiver using enlarged mobile text must read existing helicopter title, adult preparation and selected start heading without horizontal clipping or sticky-header obstruction before following the unchanged adult-prepared drop task.",
+      "hypothesis": "Scoped heading sizing and, only if measured necessary, responsive arrival offset resolve fit/readable-arrival failure while conserving every procedural and source/metadata/credit byte outside CSS.",
+      "acceptance": "Capture same-task baseline; four source-traced lenses/every-section/all13; source-only CSS and focused actual-renderer regression,1280/390/320/root32 text ranges/doc fit, keyboardBack/direct-hash first-heading-below-header, noJS/errors/accessibility/image; preserve all content/map/URLs/peers/source dates.",
+      "qa_plan": "All3 generators repeated/site hash/exact one site output; full native166plus focused tests; JSON/XML/all local targets-fragments and changedJSON/refs/privacy/exact11/byte conservation. Different independent read-only reviewer; fresh no-divergence exact reviewed push/exact-SHA Pages/live bytes/task/alignment. No release marker exists.",
+      "observation_window": "Immediate technical proxy only, no family/physical/safety/learning/SEO outcomes. Same retained16:00:37Z/completed1/stricter16:42:34Z new-action cutoff; November1 weekly/October30 sprint expiry unchanged.",
+      "reconsider_if": "Content/geometry alteration needed, unexpected output/peer churn, failure under same task, unsupported source/trust claim, P0-P2, divergence or ambiguous regression.",
+      "next_action": "Measure baseline font/arrival and task; apply only bounded source CSS, focused rendered regression and full verification, independent review and exact-SHA production release."
+    },
+    {
       "id": "KAL-RES-057",
       "title": "Qualify preschool paper-airplane first-fold and first-flight job",
       "kind": "research-first-making-qualification",

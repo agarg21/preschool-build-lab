@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-IMP-042 Helicopter Text Fit And Arrival
+
+- Decision/persona: [same-task repair](../reviews/helicopter-responsive-repair-2026-10-27.md) fixes existing helicopter H1/H2 clipping and selected-start obstruction at320/root32, preserving every non-style content/map/metadata/source/credit byte. Caregiver paper/cut/fold/drop task/four traced lenses; root32 an editorial stress, not an observed family.
+- Hypothesis/result: scoped caps and sufficiently specific relative section offset change doc333->320 and heading~104 under142.83header to223.77-224.38 below it. Four geometry modes/twelve keyboard/twelve fresh-hash/six emulated-touch arrivals, Back/summary/noJS pass. Same13 editorial23->24/26/no N/A; critical technical arrival failure clears, not physical or family comprehension.
+- Sources/classes: current NASA body/dated RES014-IMP013 lineage SOURCE_BACKED; local unchanged map viewed. DOM/tests/Git/GSC MEASURED; task RESEARCH_HYPOTHESIS, CSS/score EDITORIAL_JUDGMENT. No new source PDF/video audit or recipe; family/flight/time/mess/learning/safety/SEO results UNKNOWN.
+- Confidence/lesson: high in scoped fit/arrival. A more-specific global offset can override a guide rule; valid fragment URLs and normal-width fit are insufficient. Root32 screenshot injection was corrected and full modes rerun; not actual zoom/AT/device testing.
+- Falsification/next: scope/body/map change, arrival or word-fit failure, P0-P2, source contradiction/divergence/ambiguous regression reopens. Native168/idempotence/exactone-site-output/all-local-targets pass; full11/review/exact-SHA live task/alignment pending. November1 retained, completed1 until delivery.
+
 ## 2026-10-27 - KAL-RES-057 Paper-Airplane Qualification
 
 - Completion: Popper independent full7 PASS/no P0-P3; native166/GSC100/124IDs/262refs/exact7/source/privacy/whitespace pass. Reviewed0fe9fb4 pushed after fresh no-divergence exact stage; postpush clean0/0, no site/Pages change. Dated learning completed; separate verified helicopter responsive repair next, no new airplane build.
