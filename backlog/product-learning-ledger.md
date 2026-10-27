@@ -1,5 +1,12 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-IMP-043 Paper Roll First Start
+
+- Decision/persona: [same-task repair](../reviews/paper-roll-first-start-repair-2026-10-27.md) applies reviewed RES059 to existing card/two incoming owners; caregiver fit-or-decline/empty-roll push-watch-reset/help-stop-collect, secondary reach/attention/no-video/root32.
+- Hypothesis/result: dedicated CSV renderer supplies one rule/early checks; two aligned labels/headings fit. Native172/all3generators twice/exact4siteoutputs/95peer files-11mini-cards conserved;12 browser modes/word bounds/six keyboardBack-six touch-emulation arrivals/table-scroll/details/three noJS pass. Same13 editorial4->24/26/no N/A, critical outputs clear locally, not family evidence.
+- Sources/classes: current EIRG empty rolling/general AAP-CPSC limits from reviewed RES059 SOURCE_BACKED; no article activity image/proposed diagram. Recipe/score EDITORIAL_JUDGMENT, tasks RESEARCH_HYPOTHESIS, technical QA MEASURED; physical/hygiene/family/timing/mess/learning/safety/SEO UNKNOWN. Old video optional/not watched/not new rule source.
+- Confidence/lesson/falsification: high in measured task/fit correction, moderate in real utility. Preserve manual incoming owners and actual CSV dispatch instead of adding global ACTIVITY/library entry. Reopen contrary source/wrong material/renderer/peer drift/task failure/P0-P2/divergence. Full14/different review/exact-SHA live release pending, third/final transaction/November1 retained.
+
 ## 2026-10-27 - KAL-RES-059 Paper Roll Play
 
 - Completion: reviewed830162e/Parfit full7 PASS/native168/GSC100/exact7/127IDs/271refs/privacy/whitespace; fresh docs-only push/postpush clean0/0. Learned-only/no Pages; separate repair next within guard, count2 retained.

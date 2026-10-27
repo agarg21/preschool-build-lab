@@ -1,5 +1,13 @@
 # Operator Review
 
+## October27 - KAL-IMP-043 Paper Roll First Start (PASS / release pending)
+
+Newton (01a17e6b-3a97-76c1-b0e2-41f591b63f83), different fresh independent read-only full14 cycle-one PASS/no P0-P3. Independently171 nonmutating tests/actual in-memory CSV dispatch-renderer-credit byte match/site parse/GSC100/128IDs/286refs/privacy/scope/95files-11peers/library conservation/finalbf31b278 hash;12 modes/wordfit/six keyboardBack-six touch-emulated arrivals/table-scroll/details/three noJS/current source boundaries/visuals/four lenses/everysection/same13 pass. Master full172/twice-generator receipts, no physical/family/actualzoom/AT/hardware validation. Freeze intact, reviewer closed; fresh exact reviewed release/exact-SHA live gates next.
+
+Frozen full14 native172/GSC100/128IDs/286refs/changedJSON/exactscope/privacy/whitespace pass. Indentation-only list cleanup followed by all3generators twice gives finalbf31b278 stable (priorcbcf7152 pre-indent), DOM/content unchanged. Different independent read-only review required; release pending.
+
+Exact14 atf89d3a7, third/final17:03:40Z run. [Packet](../reviews/paper-roll-first-start-repair-2026-10-27.md) implements reviewed EIRG-empty-roll default/early controls/source limits and incoming label/heading/keyboard-table repair, no new URL/library/CSV change. Native172/twice-idempotentcbcf7152/exact4siteoutputs/95files-11mini peers conserved;73HTML/1001localrefs/77fragments/8LD/67URLs valid.12modes/wordfit/six keyboardBack-six touch-emulated readable arrivals/table-scroll/summary/three noJS pass; same13 editorial4->24/26/critical outputs clear. Full14/JSON/GSC/privacy/freeze/different reviewer then exact-SHA live gates remain, November1 retained.
+
 ## October27 - KAL-RES-059 Paper Roll Play (PASS / released)
 
 COMPLETED learned-only830162e after fresh0/0/empty outgoing/exact reviewed7/private scan/staged whitespace; postpush clean0/0. Parfit PASS/native168/GSC100/127IDs/271refs; no Pages/site change. Factual7 closeout then separate repair within guard, completed2 retained.

@@ -6,6 +6,25 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-043",
+      "title": "Repair Paper Roll Play empty-roll start and incoming fit",
+      "kind": "reviewed-existing-owner-first-start-repair",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "f89d3a7",
+      "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_sitemap.py", "site/cards/paper-roll-play.html", "site/materials/cardboard.html", "site/collections/no-cut-preschool-activities.html", "site/sitemap.xml", "tools/paper-roll-first-start.test.mjs", "reviews/paper-roll-first-start-repair-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "RES059 reviewed830162e/Parfit PASS: three livebyte owners/12modes/missing material-rule-controls/late check; incoming root32 H1 word overflow536/397. EIRG empty rolling/general AAP-CPSC controls qualified bounded editorial default, not video/clinical/safety certification.",
+      "evidence_class": ["SOURCE_BACKED", "MEASURED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Caregiver must choose fit or decline and start one attended empty-roll action, retrieve/reset/help/stop/clear away without unspecified small toys, video or unreadable incoming labels.",
+      "hypothesis": "Dedicated local card renderer/early controls and aligned incoming references/heading fit clear the same observed task failures while preserving all peers/library/global data.",
+      "acceptance": "One restricted empty-roll gentle push/watch/retrieve/reset default; early adult/material/reach/skip/stop and untested limits, model-or-stop rescue/collect cleanup, current EIRG/general sources and honest optional historical video. Same four lenses/everysection/all13 and12modes/wordfit/keyboardBack/noJS/errors; no new URL/library item/outcome.",
+      "qa_plan": "All3generators twice/exact4siteoutputs/peer conservation/idempotence; native168plus focused rendered-output tests, changedJSON/XML/all local refs/fragments/privacy/exact14. Different independent read-only review then fresh no-divergence exact main push/exact-SHA Pages/live affected bytes-canonical-H1-task/alignment. No release marker exists.",
+      "invariants": "All other activity content/URLs/36 library cards/globalACTIVITIES/CSV/credits/no-cut peers/cardboard peers conserved; cardboard noindex retained. Only explicit sitemap dates for changed indexable card/no-cut. Incoming static source edited directly; no global typography or rule refactor.",
+      "observation_window": "Immediate technical/source proxy, no physical/family/hygiene/time/mess/learning/safety/SEO effects. Same17:03:40Z/completed2/third-final/no fourth; November1/October30 retained.",
+      "reconsider_if": "Source conflict, wrong CSV/renderer, forced library expansion, peer/output churn, task regression, P0-P2, divergence or ambiguous rollback.",
+      "next_action": "Implement exact sources, run native/generators/idempotence/links/task and different review, then exact-SHA live release; no fourth action."
+    },
+    {
       "id": "KAL-RES-059",
       "title": "Audit legacy Paper Roll Play source and first start",
       "kind": "existing-owner-source-live-audit",

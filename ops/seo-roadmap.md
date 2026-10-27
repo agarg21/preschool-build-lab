@@ -1,5 +1,9 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP043 local repair/native172/twice-idempotentcbcf7152/exact4siteoutputs/95files-11mini peers conserved/all-local-targets pass.12modes/wordfit/six keyboardBack-six touch-emulated readable arrivals/table/summary/three noJS pass, same13 editorial4->24/26/critical outputs clear. Full14/JSON/GSC/privacy/different review/exact-SHA Pages/live task required before completion; third-final/no fourth/November1 retained.
+
+KAL-IMP-043 REGISTERED atf89d3a7, exact14 in JSON/checkpoint: reviewed RES059 empty-roll start/early controls/source limits plus actual incoming label/heading/keyboard-table repair. Same17:03:40Z/completed2/deadline17:48:40Z/third-final, no fourth. All other content/library/globalACTIVITIES/CSV preserved; all3generators/exact4siteoutputs/native/same12modes-all13/different review/exact-SHA live release gates remain. November1 retained.
+
 RES059 COMPLETED learned-only830162e/Parfit full7 PASS/native168/GSC100/127IDs/271refs/exact7/privacy/whitespace; fresh docs push/postpush clean0/0, no Pages/site change. Factual7 closeout then separately register bounded three-owner empty-roll/fit repair as third/final if guard admits. Same17:03:40Z/completed2/deadline17:48:40Z/November1 retained.
 
 RES059 decision IMPROVE existing Paper Roll Play/cardboard/no-cut owners separately; [source/live packet](../reviews/paper-roll-play-source-audit-2026-10-27.md) records three byte matches/12 modes/late check-missing rule/incoming root32 widths536-397/two keyboardBack/noJS. EIRG recovered current empty-roll mechanism/no activity images, AAP/CPSC general controls; no creator-video/clinical/outcome transfer. All13 baseline4/26/critical override. Native/full7/different review/docs release before separately registered repair; same17:03:40Z/count1/deadline17:48:40Z/November1 retained.
