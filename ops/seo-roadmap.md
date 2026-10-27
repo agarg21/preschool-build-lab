@@ -1,5 +1,11 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP045 Bohr fresh different independent full20 PASS_WITH_P3/no P0-P2; sole accepted P3 readiness scan cost390/642px/firststep1479 retained for separate grouping polish without control/recipe loss.179 nonmutating/actual6renderers/conservation/allsiteparse-GSC100-134IDs-304refs/privacy/18normalmodes-routes/sourcevisual/all13 independently pass. Full180/twice151110/root32-touch-noJS matrices operator receipts; freeze intact/reviewer closed, fresh exact reviewed push/exact-SHA live gates next.
+
+IMP045 local180/actual6renderer-credit bytes/twice-idempotent151110f8/exact8siteoutputs/91files-29blocks-35library-35canonical peers conserved/all-local-targets pass.24modes/15keyboardBack/10touch-emulatedBack/fourhasharrivals/finder-disclosure/sixnoJS pass, same13 editorial7->24/26/critical local failure clears. Full20/different review/exact-SHA production gates remain; count2/no fourth/November1 retained.
+
+KAL-IMP-045 REGISTERED atc242a0c, exact20 in JSON/checkpoint, same18:57:10Z/completed2/third-final/no fourth. Reviewed RES063 one-box/car no-cut base/early controls/source limits across six owners; preserve two-car engineering extension/three steps/ID, explicit base link, independent adult-guided exception and only scoped card/two H1 fit. Scope adds engineering-arrival test only to advance stale October7 lastmod expectation after substantive October27 update; all arrival assertions preserved. Native/generators/exact8siteoutputs/peer conservation/same24mode task/all13/different review/exact-SHA live release gates remain; November1 retained.
+
 RES063 COMPLETED learned-onlyb3d2b2f/Socrates full7 PASS/native176/GSC100/133IDs/291refs/exact7/privacy/whitespace; fresh reviewed docs-only push/postpush clean0/0/no site-Pages. Factual7 closeout then separate six-owner repair as third/final if guard admits; same18:57:10Z/completed2/deadline19:42:10Z/November1 retained.
 
 RES063 Socrates fresh different independent full7 PASS/no P0-P3/native176/GSC100/133IDs/291refs/privacy/scope/whitespace; current source/visual/owner/task/all13 reviewed, freeze intact/reviewer closed. Fresh exact reviewed docs-only release/alignment next, then separate repair as third/final if guard admits; count1/18:57:10Z retained.

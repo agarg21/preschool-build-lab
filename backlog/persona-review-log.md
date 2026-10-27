@@ -1,5 +1,11 @@
 # Persona Review Log
 
+## October27 - KAL-IMP-045 Box Garage First Start
+
+Bohr fresh independent full20 PASS_WITH_P3/no P0-P2 confirms all four lenses/everysection/all13 editorial24/26/no N/A;18normalmodes/15keyboardBack/sixengineeringhash/finder-disclosure/current sources/visuals pass. Root32/touch/noJS complete matrices operator-only. Sole P3 scan cost390 readiness642px/firststep1479 retained for separate grouping polish; critical controls runnable, exact-SHA release pending.
+
+[Same-task every-section packet](../reviews/box-garage-first-start-repair-2026-10-27.md) retains four RES063 source-traced lenses: novice garage/no-tool fit/attendance constraint/two-car planner. Base and extension now explicit; same13 editorial7->24/26/no N/A, critical local preparation/order/fit failure clears. Native180/actual renderer bytes/24modes/15keyboardBack/10touch-emulatedBack/fourhasharrivals/finder-disclosure/sixnoJS pass, local mobile viewed. Physical/family/AT/actualzoom/hardware/safety/SEO UNKNOWN; different full20 review/exact-SHA production release pending.
+
 ## October27 - KAL-IMP-044 Blanket River Toy-Only Repair
 
 COMPLETED: Heisenberg independent full19 PASS/native176; reviewed8a06250/exact-SHA Pages40562051740 success/no marker. Seven affected/five unchanged live200bytes; same20 production modes/wordfit/12keyboardBack/eight touch-emulatedBack/eight hash arrivals/finder-disclosure/five noJS/canonical-H1-credit-images pass, mobile/root32 viewed. Same13 remains editorial24/26/no N/A; no physical/family/AT/truezoom/device/safety/SEO claim, no retry/regression.

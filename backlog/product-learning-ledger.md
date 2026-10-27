@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-IMP-045 Box Garage First Start
+
+- Review: Bohr independent full20 PASS_WITH_P3/no P0-P2;179 nonmutating/actual6renderers/conservation/parse-GSC100-134IDs-304refs/privacy/18normalmodes-routes/current sourcevisual/all13 independently pass. Native180/twice151110/root32-touch-noJS operator receipts. Accepted P3 readiness scan cost642px/firststep1479 at390, retain separately registered grouping polish without removing controls/changing recipe. Fresh exact-SHA live release pending.
+
+- Decision/persona: [same-task six-owner repair](../reviews/box-garage-first-start-repair-2026-10-27.md) applies reviewed RES063, no new URL. Caregiver needs owned ready box/car/fit/stay-or-skip before park/out/reset/rescue/collect; secondary reach/attention/no tools/catching/independent expectations/root32. Preserve optional two-car engineering challenge.
+- Hypothesis/result: canonical base/early controls and explicit extension clear measured local role/preparation/fit failure; all13 editorial7->24/26/no N/A. Native180/twice-idempotent151110f8/exact8siteoutputs/91files-29blocks-35library-35canonical peers conserved, actual six renderers match;24modes/15keyboardBack/10touch-emulatedBack/fourhasharrivals/finder/disclosure/sixnoJS pass. Scoped heading widths374->320; not family success.
+- Sources/classes: reviewed current Purdue/RCN/PBS/AAP and viewed source photos SOURCE_BACKED within limits, creator unavailable/not watched/RCN browser challenged. Reduction/controls/extension/rubric EDITORIAL_JUDGMENT, task RESEARCH_HYPOTHESIS, technical QA MEASURED; physical/fit/hygiene/family/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high for inspected correction, moderate utility. Preserve a genuine extension while making the default runnable; actual dispatch/override/independent hero matter more than legacy CSV labels. Reopen source/material/role conflict, peer drift/task failure/P0-P2/divergence. Full20/different review/exact-SHA live release pending; third/final/no fourth/November1 retained.
+
 ## 2026-10-27 - KAL-RES-063 Box Garage First Start
 
 - Completion: reviewedb3d2b2f/Socrates independent full7 PASS/native176/GSC100/133IDs/291refs/exact7/privacy/whitespace, fresh docs-only push/postpush clean0/0/no site-Pages. Completed2; factual7 closeout then separate bounded six-owner repair if admitted, no fourth action.

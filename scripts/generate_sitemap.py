@@ -9,6 +9,9 @@ BASE_URL = "https://kidactivitylab.com"
 NON_CONTENT_HTML = {"googled495b3fc6f0765f8.html"}
 LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"}
 CONTENT_LASTMODS = {
+    "cards/box-garage.html": "2026-10-27",
+    "ages/activities-for-4-year-olds-at-home.html": "2026-10-27",
+    "ages/activities-for-6-year-olds-at-home.html": "2026-10-27",
     "cards/blanket-river.html": "2026-10-27",
     "ages/activities-for-5-year-olds-at-home.html": "2026-10-27",
     "collections/building-activities-for-4-year-olds.html": "2026-10-27",
@@ -42,7 +45,7 @@ CONTENT_LASTMODS = {
     "collections/stem-activities-for-preschoolers.html": "2026-10-27",
     "articles/cardboard-ball-maze-kids.html": "2026-10-01",
     "articles/painter-tape-road-kids.html": "2026-09-15",
-    "collections/engineering-activities-for-4-year-olds.html": "2026-10-07",
+    "collections/engineering-activities-for-4-year-olds.html": "2026-10-27",
     "collections/indoor-activities-for-preschoolers.html": "2026-10-27",
 }
 

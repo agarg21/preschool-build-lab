@@ -1,5 +1,11 @@
 # Operator Review
 
+## October27 - KAL-IMP-045 Box Garage Repair (PASS_WITH_P3 / release pending)
+
+Bohr (01a17ed1-08a9-7411-b2eb-c9a20e743803) fresh different independent read-only full20 cycle-one PASS_WITH_P3/no P0-P2. Sole accepted P3 scan cost:390 readiness paragraph642px/firststep1479; all controls runnable. Retain separately registered grouping polish, no removal/late-moving controls or recipe change. Independently179/actual6renderer-credit/conservation/GSC100-134IDs-304refs/allsiteparse/privacy/whitespace/18normalmodes-15keyboardBack-sixengineeringhash/finder-disclosure/current sources-visuals/four lenses/everysection/all13 pass. Full180/twice151110/root32-touch-noJS matrices operator receipts; freeze intact/reviewer closed. Fresh exact reviewed main push/exact-SHA production gates next.
+
+Exact20 atc242a0c, same18:57:10Z/count2/third-final/no fourth. [Repair](../reviews/box-garage-first-start-repair-2026-10-27.md) applies reviewed one-car no-cut base/early controls, distinct two-car extension/adult-guided independent cue and scoped card/age4-age6 fit. Scope amended before stale engineering-date assertion edit; arrival tests preserved. Native180/actual6renderer bytes/twice151110f8/exact8siteoutputs/91files-29blocks-35library-35canonical conserved;73HTML/1001refs/77fragments/8LD/67URLs valid.24modes/15keyboardBack/10touch-emulatedBack/fourhasharrivals/finder-disclosure/sixnoJS pass, mobile viewed; all13 editorial7->24/26/no N/A/critical technical failure clears. Full20 structured/privacy/freeze/different review/exact-SHA live gates remain, November1 retained.
+
 ## October27 - KAL-RES-063 Box Garage (PASS / released)
 
 COMPLETED learned-onlyb3d2b2f after fresh0/0/empty outgoing/exact reviewed7 stage/private scan/whitespace/docs-only push/postpush clean0/0. Socrates PASS/native176/GSC100/133IDs/291refs; no site/Pages. Factual7 closeout then separate repair as third/final if guard admits, count2 retained.

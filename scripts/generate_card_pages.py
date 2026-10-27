@@ -92,6 +92,10 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "box-garage": {
+        "kicker": "One car | Adult-guided",
+        "description": "Box Garage activity card: one already-open box and one owned toy car, adult fit checks and a no-cut park-and-drive-out start. Research-backed, not family-tested.",
+    },
     "blanket-river": {
         "kicker": "Toy-only | Adult-guided",
         "description": "Blanket River activity card: a tiny three-block crossing near one blanket edge for a hand-carried toy, never feet. Early adult fit and stop checks; research-backed, not family-tested.",
@@ -722,6 +726,7 @@ def quick_page(slug):
     is_cup_tower = slug == "cup-tower"
     is_duplo_game = slug == "duplo-games"
     is_blanket_river = slug == "blanket-river"
+    is_box_garage = slug == "box-garage"
     has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge or is_cup_tower
     routes = related_routes_html(
@@ -790,7 +795,8 @@ def quick_page(slug):
         "kid-card sock-roll-card" if is_sock_roll else
         "kid-card cup-tower-card" if is_cup_tower else
         "kid-card duplo-game-card" if is_duplo_game else
-        "kid-card blanket-river-card" if is_blanket_river else "kid-card"
+        "kid-card blanket-river-card" if is_blanket_river else
+        "kid-card box-garage-card" if is_box_garage else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
@@ -799,7 +805,8 @@ def quick_page(slug):
         "sock-roll-card-1" if is_sock_roll else
         "cup-tower-card-1" if is_cup_tower else
         "duplo-game-card-1" if is_duplo_game else
-        "blanket-river-card-1" if is_blanket_river else "nav-stable-2"
+        "blanket-river-card-1" if is_blanket_river else
+        "box-garage-card-1" if is_box_garage else "nav-stable-2"
     )
     previous_video = '''
 
@@ -866,7 +873,9 @@ def cards_index():
             "Paused; choose a non-magnet activity"
             if slug == "magnet-hunt" else
             f'Toy-only, adult stays beside | {activity["time"]} · {activity["materials"]}'
-            if slug == "blanket-river" else f'{activity["time"]} · {activity["materials"]}'
+            if slug == "blanket-river" else
+            f'One-car no-cut start, adult stays beside | {activity["time"]} · {activity["materials"]}'
+            if slug == "box-garage" else f'{activity["time"]} · {activity["materials"]}'
         )
         cards.append(
             f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(summary)}</span><template data-search="{esc(search_text)}"></template></a>'

@@ -252,13 +252,22 @@ ACTIVITIES = {
         "title": "Box Garage",
         "url": "../cards/box-garage.html",
         "ages": "4-6",
-        "time": "5 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "small box, toy cars",
-        "best_for": "pretend play, toy car storage, naming",
-        "steps": ["Open a box.", "Park cars.", "Make spaces.", "Drive out."],
-        "parent": "Adult handles any cutting.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Check readiness first",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult stays beside setup",
+        "materials": "1 already-open small cardboard box, 1 large lightweight toy car",
+        "best_for": "pretend parking with one car, not a child-sized box build",
+        "fit_cue": "Adult checks a clean, empty, dry, intact box without staples, sharp edges, plastic packing or loose pieces; choose another box or skip rather than repair it during play. Check the owned car's age/warning labels for every child who can reach it; use intact large pieces without loose small parts, magnets or battery parts. Clear floor space away from walking routes. Toys only: no sitting, climbing, wearing or shutting anyone inside the box. Stay beside every reachable child and keep tools, packing and spare pieces away. Try when the child can roll with help and follow a stop cue; watching or pointing is an option. Skip if fit, space or attention do not match. Research-backed, not family-tested by Kid Activity Lab.",
+        "stop": "Stop for mouthing, throwing, loose pieces, torn or sharp cardboard, feet or climbing, body entry, blocked walking routes or lost adult attention.",
+        "adult_setup": "Put the already-open box on its side on the clear floor, with the opening facing the player and unobstructed. Check the car can roll in and out without catching, force or lifting the box. No cutting or tape is needed for this one-car start.",
+        "steps": ["Drive the car through the ready opening.", "Park the car. Say or point to where it is.", "Drive back out through the same opening. Repeat or finish."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If the car catches, park beside the box instead; do not force the car or cut a new entrance. Adult may model while the child watches or points. Adult puts away the box and car and clears the walking area. Duration and mess have not been measured.",
+        "sources": [("Purdue ELM: pretend garages and car fit", "https://elmcurriculum.org/lesson/focusing-and-remembering-block-12-12-24-months/"), ("Raising Children Network: cardboard play and adult tools", "https://raisingchildren.net.au/guides/activity-guides/making-and-building/playing-with-cardboard-boxes"), ("AAP: owned toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx")],
+        "source_note": "Sources checked October27,2026. Pretend garages, car fit and general adult-tool/toy guidance are source-backed. The one-box/car start, no-cut reduction, floor/attention controls, script and rescue are Kid Activity Lab editorial adaptations. Purdue's younger-child memory lesson and photos do not validate this preschool setup, dimensions, age fit or learning. RCN text was accessible; browser article viewing was challenged. Physical fit, hygiene, family understanding, enjoyment, learning and safety outcomes are unknown. Not a tested setup, product recommendation or safety assurance; the old creator video was not watched.",
     },
     "blanket-river": {
         "title": "Blanket River",
@@ -508,6 +517,9 @@ ACTIVITIES = {
 ACTIVITIES["blanket-river"]["start_cue"] = (
     ACTIVITIES["blanket-river"]["fit_cue"] + " Stop: " + ACTIVITIES["blanket-river"]["stop"]
 )
+ACTIVITIES["box-garage"]["start_cue"] = (
+    ACTIVITIES["box-garage"]["fit_cue"] + " Stop: " + ACTIVITIES["box-garage"]["stop"]
+)
 
 
 PAGES = [
@@ -527,6 +539,7 @@ PAGES = [
     },
     {
         "path": "ages/activities-for-4-year-olds-at-home.html",
+        "head_style": "@media (max-width: 480px) { .hero h1 { font-size: min(2.5rem, 48px); } }",
         "page_type": "age",
         "primary": "activities for 4 year olds at home",
         "title": "Activities for 4 Year Olds at Home | Kid Activity Lab",
@@ -583,6 +596,7 @@ PAGES = [
     },
     {
         "path": "ages/activities-for-6-year-olds-at-home.html",
+        "head_style": "@media (max-width: 480px) { .hero h1 { font-size: min(2.5rem, 48px); } }",
         "page_type": "age",
         "primary": "activities for 6 year olds at home",
         "title": "Activities for 6 Year Olds at Home | Kid Activity Lab",
@@ -762,9 +776,9 @@ PAGES = [
         "head_style": "@media (max-width: 480px) { .hero h1 { font-size: min(2.5rem, 43px); } }",
         "h1": "Independent activities for preschoolers.",
         "kicker": "Independent play",
-        "description": "Independent preschool activity choices with parent setup and activity-specific adult involvement. Cup Tower is adult-guided, not a hands-off activity.",
-        "intro": "Independent does not mean unsupervised. Let the child choose and try actions while keeping the adult involvement the activity needs. Cup Tower below requires an adult beside the setup throughout, not just a quick demonstration.",
-        "tip": "Start together and check the activity's adult role before choosing. For Cup Tower, stay beside every child who can reach the cups; skip it if you cannot attend to them.",
+        "description": "Independent preschool activity choices with parent setup and activity-specific adult involvement. Cup Tower and Box Garage are adult-guided, not hands-off activities.",
+        "intro": "Independent does not mean unsupervised. Let the child choose and try actions while keeping the adult involvement the activity needs. Cup Tower below requires an adult beside the setup throughout, not just a quick demonstration. Box Garage also requires an adult to stay beside every reachable child.",
+        "tip": "Start together and check the activity's adult role before choosing. For Cup Tower, stay beside every child who can reach the cups; skip it if you cannot attend to them. For Box Garage, choose the adult-guided one-car start or skip if you cannot stay beside it.",
         "activities": ["magnetic-tile-house", "magnetic-tile-ideas", "block-tower", "cup-tower", "duplo-games", "paper-roll-drop", "tape-road", "box-garage"],
         "activity_overrides": {
             "cup-tower": {
@@ -1131,15 +1145,19 @@ PAGES = [
             "box-garage": {
                 "slug": "box-garage",
                 "title": "Two-Car Box Garage",
-                "materials": "open small box, two toy cars, painter tape",
-                "mission": "Design two parking bays and an exit wide enough for one car to roll out.",
-                "adult_role": "Provide an already-open box, handle any cutting, and test tape on the box first.",
-                "steps": ["Park both cars inside the box.", "Mark two bays with tape.", "Roll one car through the exit."],
+                "materials": "already-open small box, 2 appropriate large lightweight toy cars, short painter-tape bay marks prepared by the adult",
+                "mission": "Use two parking bays so one car can leave without moving the other. This is an optional extension to the one-car start.",
+                "adult_role": "Set the open box on its side on clear floor with the opening unobstructed. Check both cars already fit side by side and one can leave without force. Adult tests and places the short bay tape, handles any adjustment and keeps spare tape away. If this does not fit, choose the one-car start; do not cut or widen the box during play.",
+                "steps": ["Park both cars in the ready box.", "Point to the two adult-prepared bays and choose one car to leave.", "Roll that car out through the ready opening without moving the other."],
                 "test": "Do both cars fit, and can one leave without hitting the other?",
-                "redesign": "Move one tape line or widen the exit, then park both cars again.",
-                "rescue": "Use one car first and remove the bay lines.",
-                "stop": "Stop if the box tears into sharp edges, tape goes in a mouth, or cutting would be needed during play.",
-                "parent": "Adult handles all cutting and removes loose tape or torn cardboard immediately.",
+                "redesign": "Ask the adult to adjust one bay mark, choose a different already-open box or return to one car. Never force an exit or cut during play.",
+                "rescue": "Use the one-car start without bay tape, or park beside the box if the car catches. Adult removes tape and puts away both cars and the box after play; timing and mess are unmeasured.",
+                "stop": ACTIVITIES["box-garage"]["stop"] + " Stop if tape loosens, goes in a mouth or cutting would be needed.",
+                "parent": ACTIVITIES["box-garage"]["fit_cue"],
+                "stop_before_action": True,
+                "link_text": "Open the base activity card: one-car no-cut start",
+                "sources": ACTIVITIES["box-garage"]["sources"] + [("PBS: parking-line spacing principle", "https://www.pbs.org/parents/crafts-and-experiments/cardboard-parking-garage")],
+                "source_note": ACTIVITIES["box-garage"]["source_note"] + " PBS describes car-based line spacing in a multilevel painted/glued build, not this box. This two-car clearance extension and adult-prepared tape marks are KAL editorial choices, not tested geometry or tape performance.",
             },
             "cup-tower": {
                 "slug": "cup-tower",
@@ -1541,10 +1559,21 @@ def engineering_activity_card(activity):
     if activity["url"]:
         link_text = activity.get("link_text", "Open the base activity card")
         link = f'<a class="small-link" href="{esc(activity["url"])}">{esc(link_text)}</a>'
+    stop_html = f'''
+          <div class="challenge-stop">
+            <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
+            <p><strong>Parent check:</strong> {esc(activity["parent"])}</p>
+          </div>'''
+    early_stop = stop_html if activity.get("stop_before_action") else ""
+    late_stop = "" if early_stop else stop_html
+    source_note = ""
+    if activity["slug"] == "box-garage":
+        links = "; ".join(f'<a href="{esc(url)}">{esc(label)}</a>' for label, url in activity["sources"])
+        source_note = f'<details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
     return f'''        <article class="seo-activity engineering-challenge" id="{esc(activity["slug"])}">
           <div>
             <p class="challenge-label">Challenge</p>
-            <h2>{esc(activity["title"])}</h2>
+            <h2>{esc(activity["title"])}</h2>{early_stop}
             <p class="challenge-mission"><strong>Kid mission:</strong> {esc(activity["mission"])}</p>
             <div class="source-tags">
               <span class="tag">Editorial range: ages 4-6</span>
@@ -1557,12 +1586,8 @@ def engineering_activity_card(activity):
             <p><strong>Test</strong>{esc(activity["test"])}</p>
             <p><strong>First change</strong>{esc(activity["redesign"])}</p>
             <p><strong>If the build stalls</strong>{esc(activity["rescue"])}</p>
-          </div>
-          <div class="challenge-stop">
-            <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
-            <p><strong>Parent check:</strong> {esc(activity["parent"])}</p>
-          </div>
-          {link}
+          </div>{late_stop}
+          {link}{source_note}
         </article>'''
 
 
