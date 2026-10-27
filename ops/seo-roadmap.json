@@ -9,7 +9,7 @@
       "id": "KAL-RES-066",
       "title": "Audit Color Mixing Cups receiving vessel, roles and observation start",
       "kind": "existing-owner-source-task-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "be5fa2c",
       "exact_paths": [
@@ -36,8 +36,8 @@
       "invariants": "Site/code/data/CSV/assets/config/automation/ControlRoom read-only; no recipe/clinical/safety/family/SEO conclusion presumed, no paid call/newURL/indexing. Protect all released owners and source limitations.",
       "observation_window": "Same20:56:36.027Z heartbeat/actual20:56:42Z/completed2/third-final/max3/startdeadline21:41:42Z. IMP0489b4d92f/Pages40585657585 and closeoutbe5fa2c complete clean0/0. November1/October30 retained.",
       "reconsider_if": "Repeated completed qualification, source/material/colour/receiving-vessel conflict, absent safe control lineage, P0-P2/privacy/divergence; report exact dependency, do not invent default.",
-      "blockers": "Decision IMPROVE four existing outputs separately; Native189/full7 structured/privacy pass. Fermat full7 cycle-one PASS_WITH_P3/no P0-P2; sole provenance P3 corrected/cycle-two delta PASS/no remaining findings.188nonmutating/sevenbytes/16modes-routes-finder-noJS/current sources-visuals/all13 6/26 independently checked; frozen hashes intact/reviewer closed. Fresh docs-only release pending, no new guide qualified.",
-      "next_action": "Fresh completed fetch/no divergence/full outgoing/exact reviewed7 docs-only main push/factual closeout/final alignment then end at completed3/no fourth. Next eligible separately register supported four-owner Color Mixing repair before substantive edits; November1 retained."
+      "blockers": "None. Reviewed learned-only8cd2b1f7262d422b2983c892d61314647f35e820/Fermat full7 plus provenance-delta PASS/native189/GSC100/140IDs/312refs/exact7/privacy-whitespace/docs-only push/postpush fresh fetch clean0/0/no site-Pages/reviewer closed. Completed3/helper denies fourth; production remains9b4d92f/Pages40585657585, no new guide qualified.",
+      "next_action": "Factual7 closeout/QA/push/final alignment then end. Next eligible heartbeat verify exact receipts/fresh sensing then separately register supported Color Mixing card/library/age4 STEM/science explicit red-yellow sources/empty receiver/adult spoon/early fit-reach-skip-stop/unclear-end-empty-dry/untested-unmeasured repair with full implementation QA/different review/exact-SHA live gates. Preserve all peers/IMP048/no newURL/no fourth transaction/November1 retained."
     },
     {
       "id": "KAL-IMP-048",

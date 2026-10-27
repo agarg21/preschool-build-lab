@@ -1,6 +1,8 @@
 # Operator Review
 
-## October27 - KAL-RES-066 Color Mixing First Start (PASS / release pending)
+## October27 - KAL-RES-066 Color Mixing First Start (PASS / released)
+
+COMPLETED learned-only8cd2b1f7262d422b2983c892d61314647f35e820: fresh completed fetch0/0/empty outgoing/exact reviewed7/private scan/native189/JSON/whitespace/main push/postpush fresh fetch clean0/0 pass. Fermat full7 plus provenance-delta PASS/no remaining findings/GSC100/140IDs/312refs, reviewer closed. No site/Pages; production remains9b4d92f/Pages40585657585. Completed3/helper denies fourth; factual7 closeout/final alignment then end. Next eligible supported four-owner Color Mixing repair separately registered, no repeat qualification/newURL/November1 retained.
 
 Fermat01a17f40-3c7e-7993-ac97-8a93d1c27b52 fresh different full7 cycle-one PASS_WITH_P3/no P0-P2; sole search-receipt P3 corrected with known-interface/unknown-engine/bounded-clock/selected URLs/alternate-AAP distinctions, cycle-two delta PASS/no remaining findings. Independently188nonmutating/sevenlivebytes/16modes-12latecases-9keyboardBack-finder-broad2-specific1-zero-Clear36-fournoJS/H1-docfit/screenshots/140IDs-312docrefs-GSC100/privacy-scope-whitespace/current five bodies/visual limits/four lenses/everysection/all13 6/26 pass. Freeze stable/reviewer closed/Master189 distinct; fresh exact docs-only release/alignment next.
 
