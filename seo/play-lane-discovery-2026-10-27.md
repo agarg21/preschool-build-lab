@@ -195,3 +195,6 @@ unchanged backlog hashes, scope/JSON/whitespace and accurate receipts read-only.
 No broader rerun claimed. Operator full162 rerun passes; fresh fetch0/0 and
 empty outgoing range. Exact reviewed stage/source/privacy check and docs-only
 push/alignment next; no site/Pages release in this research transaction.
+COMPLETED learned-only: reviewed28f8a2e83d947c6db6ce0d3aca2a98242da9adff
+pushed main, clean0/0 confirmed. No Pages/site release. Factual closeout then
+separate DUPLO source/live audit next; actual14:58:41Z/count1/deadline15:43:41Z.
