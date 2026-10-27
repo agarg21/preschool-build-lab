@@ -1,5 +1,27 @@
 # Kid Activity Lab Current Strategy
 
+## October 27 Delivery Direction
+
+The user requested Family Tripwise's contributor transparency and faster
+expansion through a72hour hourly sprint. See `ops/sprint-2026-10-27.md` for
+the source comparison, exact window, review gates and automatic restoration.
+Use Riley Hart as a clearly disclosed AI research contributor and Apoorva
+Garg as founder/publisher. Linked credits describe research, drafting and
+maintenance; they do not establish human expertise, firsthand experience,
+retroactive sole authorship or a ranking benefit. A separately registered
+site transaction implements this shared accountability layer.
+
+Prioritize useful released parent decisions. When qualification clears a
+candidate, promptly register its build as the next transaction within the
+run's remaining limits. Keep one current action decision and link its
+evidence; avoid serial reports where an eligible build can proceed. Expand
+through simple individual guides in the existing engagement lanes when each
+has current distinct search support, material demand, maintainable evidence
+and utility beyond a clean existing-page fit. Research-backed non-product
+publishing does not require unavailable family testing. Preserve unknown
+outcomes, source boundaries, paid-budget and independent release gates.
+Sprints increase delivery capacity; page count is not the success measure.
+
 ## Goal
 
 Build Kid Activity Lab into a trusted decision and utility site that helps
@@ -16,27 +38,23 @@ reason to recommend an idea.
 
 ## Current Focus
 
-Focus first on children ages 3-6.
+Focus first on children ages3-6. Age-four STEM remains the strongest existing
+cluster. As of October27 the site has seven dedicated activity articles,
+concise hubs and cards, and the released standard-deck game chooser
+`KAL-IMP-002`. The chooser is a maintained Play-lane owner; its completed
+qualification does not need repeating or justify individual game variants.
 
-Age-4 STEM remains the strongest existing cluster. The completed 2026-07-28
-decision pack selected the existing cardboard ramp article for one bounded
-improvement. The no-cut preschool and age-4 at-home pages remain observation
-context, not queued implementation targets.
+The latest reviewed work corrected first-start, result, discovery and trust
+failures in existing owners. `KAL-IMP-037` paused unsupported Magnet Hunt and
+routes old links to a maintained alternative. Current roadmap release
+records, rather than historical planned labels, determine what is unfinished.
+The October27 contributor implementation is next; then select the strongest
+distinct guide or existing-owner candidate from current evidence.
 
-The 2026-07-29 broader demand map established four distinct parent jobs:
-
-1. find a free activity now;
-2. find a household or no-equipment family game;
-3. choose a board game worth buying;
-4. find a game for a standard deck of cards.
-
-The standard-deck card-game lane is the first adjacent implementation
-candidate because completed `KAL-RES-004` research found current demand, a
-parent-choice gap, and reconcilable public rules without requiring a product
-purchase. It is not the site's identity or permission for a generic roundup.
-`KAL-IMP-002` is the registered implementation of that candidate. It is
-released and production-verified after green native/responsive QA and
-independent cycle 3 `PASS`.
+The July29 demand map remains dated context for free activities, household
+games, board-game purchases and standard-deck play. Non-product activity/game
+guides can proceed from honest source reconciliation. Product recommendations
+still require firsthand evidence; the sprint does not change that gate.
 
 ## Strategic Bet
 
@@ -116,20 +134,20 @@ reconcile current sources, add a useful KAL chooser or explanatory visual,
 state that it is untested when ambiguity is likely, and preserve every
 parent/child outcome as `UNKNOWN`.
 
-The validated September 5 public-safe GSC snapshot is finalized through
-September 3 and shows 234 impressions, one click, average position 17.62, 61
-discovered pages, and 10 of 10 priority URLs indexed. The cardboard-ramp guide
-has 166 impressions, the only click, and page-average position 13.01. Six
-visible collection pages total 37 impressions, while six visible individual
-card pages total 9. Across sampled overlapping windows, the guide grows from
-10 of 30 property impressions through July 16 to 166 of 234 through September
-3. Complete query rows remain unavailable.
+The newest available public-safe GSC snapshot, collected October26 and
+finalized through October24, has453 rolling28-day impressions and5clicks;
+the prior overlapping snapshot has481/6. The cardboard-ramp guide has313/2;
+10/10 priority URLs are indexed. The61 discovered-page count and July5 sitemap
+read are historical API values, not the current65-URL sitemap inventory.
+Complete queries and routes remain unavailable. These reused page rows do not
+prove a format effect, candidate demand or a CTR defect.
 
-This is strong directional support for a guide-first experiment, not proof
-that format caused performance. The site has only one long-form guide, and its
-topic, demand, age, history, internal links, and revisions are confounded.
-Use `seo/dedicated-activity-guide-strategy-2026-09-06.md` as the current format
-decision and require separate candidate research before creating another URL.
+The September6 dedicated-guide decision remains a directional growth
+experiment, now with seven article owners rather than its original one-guide
+baseline. Topic, age, demand, history and revisions remain confounded. Use
+current sources and a specific parent job to qualify the next guide; inspect
+existing-page fit first and retain the result as implement, exact-gap defer,
+preserve or reject. Low-volume GSC does not block independent evidence.
 
 For commercial board-game or product guidance, the bottleneck is access,
 firsthand use, current factual checks, original evidence, and disclosure.
@@ -144,8 +162,8 @@ Keyword demand alone is not enough.
    before any new guide.
 3. Keep hubs concise for choosing and routing; keep cards concise for
    one-screen execution.
-4. Observe `KAL-IMP-006` through September 18 and `KAL-IMP-007` through
-   September 20 except a verified P0-P2 regression.
+4. Preserve currently active observation windows in the roadmap; expired
+   September windows do not require a rewrite or block unrelated candidates.
 5. Observe `KAL-IMP-002` without creating individual game or age pages from
    the same evidence.
 6. Keep every parent/child outcome unknown unless valid evidence exists, and
@@ -180,7 +198,8 @@ Update an existing page when:
 
 - the search intent overlaps an existing page
 - the page is indexed but thin
-- Search Console shows impressions but weak click-through or position
+- aligned query and current SERP evidence identify a specific answer or
+  discovery mismatch; aggregate/page averages alone do not diagnose CTR
 - Review Agent finds parent-usability problems
 - real testing creates better notes for a current activity
 
@@ -208,7 +227,8 @@ Keep or set a page `noindex,follow` when:
 Ask the user before:
 
 - changing domain, brand, navigation, or core positioning
-- starting a new engagement lane or content cluster
+- starting a new engagement lane outside the already authorized strategy,
+  rather than qualifying a guide within its existing lanes
 - spending money on tools, assets, or contractors
 - adding affiliate links, ads, or products
 - publishing safety-sensitive claims

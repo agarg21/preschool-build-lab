@@ -54,6 +54,16 @@ The current strategic direction is:
 
 ## Start Every Work Session
 
+October27 direct-user override: the72hour sprint in `ops/sprint-2026-10-27.md`
+uses the same heartbeat hourly until October30 at07:58:33EDT. Read
+`ops/operator.json.active_sprint` and run `tools/sprint-mode.mjs` with the
+actual run-start and completed transaction count before selecting work.
+Up to3 sequential reviewed transactions/run,45minutes to start new actions;
+one writer and all evidence/QA/review/release gates remain. At expiry restore
+the exact normal baseline through the same automation, verify it, and return.
+No project work after the global November3 cutoff. The sprint is temporary;
+newer direct instructions govern it.
+
 During the September 3-November 3, 2026 learning pilot, the same-thread
 heartbeat is authorized; Control Room remains paused. Follow
 `ops/autopilot-prompt.md`. Save the active invocation/action checkpoint at the

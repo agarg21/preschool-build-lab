@@ -1,3 +1,29 @@
+# Kid Activity Lab - October 27-30 Hourly Sprint
+
+Fresh direct user authorization on October27,2026: review Family Tripwise's contributor/strategy changes and work hourly for three days. This dated override governs only cadence and sequential throughput; use the same existing heartbeat and permanent Master thread.
+
+## Clock, Run Identity And Expiry
+
+Check actual UTC and America/New_York time first. Window: 2026-10-27T11:58:33Z (October27 07:58:33EDT) through, but excluding, 2026-10-30T11:58:33Z (October30 07:58:33EDT). Global pilot cutoff remains November3,2026 at17:00America/New_York (2026-11-03T22:00:00Z).
+
+At or after global cutoff: no project work; report ENDED. At or after sprint expiry, or direct user early-stop: do only exact normal automation restoration from ops/sprint-normal-baseline-2026-10-27.json through automation_update on the same ID. Preserve exact name, kind, target thread, ACTIVE status, notification/default and unrelated fields; restore the baseline prompt and twice-daily cadence. Read saved automation.toml to verify prompt/settings before marking ops/operator.json.active_sprint restored. Return after restoration; later normal triggers resume ordinary work. If restoration is unavailable/unconfirmed, keep the expired date guard, do no project work, and report the narrow blocker. Do not create a second automation or extend this window.
+
+Before project work read AGENTS.md, the top ops/current-cycle.md checkpoint, ops/operator.json.active_sprint and roadmap active sequence. Run node tools/sprint-mode.mjs --run-start <actual-run-start-ISO> --completed-actions <completed-this-run>; preserve the same actual run-start across compaction. A changed/older scheduled timestamp cannot restart the 45minute clock. Resume eligible unfinished work before a new selection; never run a second writer or overlap transactions.
+
+## Finish-First Sprint
+
+During the active window allow up to3 sequential complete independently reviewed transactions per actual run, with45minutes from actual run-start to START new actions. At either limit, stop starting actions; finish or explicitly checkpoint an already-started transaction safely. Do not rush QA or treat3 as a quota. Check actual clock and durable state before each selection. Direct user steering remains authoritative.
+
+Choose verified defects and eligible unfinished releases first, then the explicit contributor implementation, evidence-qualified existing-page/new-guide builds, then research resolving the next named gate. Daily learning and weeklyNovember1 synthesis remain. A narrow blocked candidate does not block independent work. Do not repeat completed qualifications or produce generic recaps. If a source result qualifies a build, finish its research transaction and separately register the build promptly within remaining limits; do not silently expand scope or wait for another day by habit.
+
+Contributor direction: Riley Hart is a disclosed AI research contributor; Apoorva Garg is founder/publisher. Implement linked credits/profile in a separately registered reviewed site transaction. Explain ongoing research/drafting/maintenance, distinct independent review and evidence limits. Do not imply a human expert, firsthand use, retroactive sole authorship, human review of every page, synthetic credentials/portrait or an authorship SEO benefit.
+
+Expansion direction: useful simple individual guides across making/experimenting, play, create/imagine and explore/discover, initially ages3-6. Each indexable guide still needs a distinct current search-supported parent job, material demand, maintained source/utility, no clean existing owner and roadmap eligibility. Improve existing owners when appropriate. No thin variant batches or page-count quota, new paid spend, product recommendations without firsthand evidence, or unsupported family/safety/educational outcomes.
+
+All normal source/evidence/persona/every-section/QA/independent-review/privacy/release/production gates below remain. Keep updates concise and record one current decision per action, linking evidence instead of duplicating a history dump. Report production-verified delivery, learned-only decisions, blockers and next executable action separately. Activation and hourly wakeups do not prove future progress; inspect the next run's artifacts/outcomes.
+
+## Normal Cycle Instructions
+
 # Kid Activity Lab Learning And Product Autopilot
 
 Execute work, not a backlog recap. This is the user's standing authority for

@@ -2,6 +2,13 @@
 
 ## Mission
 
+During the direct-user October27-30 sprint, follow
+`ops/sprint-2026-10-27.md` and `ops/operator.json.active_sprint`: same-thread
+hourly wakeups, up to3 sequential independently reviewed transactions/run,
+45minutes to start new actions, exact normal restoration at expiry. Preserve
+the actual run-start across compaction. This changes throughput only; the
+Master stays the sole writer and retains all evidence and release gates.
+
 Operate this permanent Master chat as the current Kid Activity Lab command
 center and execute one registered direct-manual action per transaction without
 relying on private chat memory.
