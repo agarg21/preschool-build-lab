@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October27 Torn-Paper Collage Qualification
+
+`KAL-RES-058` [decision packet](../seo/torn-paper-collage-qualification-2026-10-27.md) DEFERS new URL: four adjacent public question bodies and five direct activity answers do not establish exact material demand or missing utility beyond current no-scissors/delayed-glue/free-form/help/tear-only coverage. Full adhesive/control lineage also unqualified; all13 desk15/24/mobile N/A, no source visual/family task. Reopen only named demand/output/source gates, not cadence. Separate Paper Roll Play legacy drop-toy/tunnel source/live audit next; review-only Activity Set CSV is not that live card. Native168/GSC100 pass; full7/review/docs release pending, November1 unchanged.
+
 ## October27 Paper-Airplane Qualification
 
 Completed learned-only0fe9fb4, Popper independent full7 PASS/native166/GSC100/exact7 checks, clean0/0 after reviewed docs-only push. No Pages/site change; separate helicopter responsive repair next, no new airplane build.

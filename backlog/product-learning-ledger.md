@@ -1,5 +1,12 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-058 Torn-Paper Collage
+
+- Decision/persona: [qualification](../seo/torn-paper-collage-qualification-2026-10-27.md) DEFERS new collage URL; caregiver needs bounded tear/arrange/attach/help-or-decline, secondary adult attendance/tearing difficulty. Four public bodies/two focus-age/two younger contrasts, reused questions not new independent demand.
+- Hypothesis/result: one incomplete exact query/five direct bodies already answer no-scissors/delayed glue/free-form/tearing assistance/tear-only rescue. Exact material demand/missing output and full adhesive-control lineage unqualified; no clean KAL owner. All13 desk15/24/mobile N/A/critical material override, no rendered/family task. Review-only Paper Roll Activity Set is not live Paper Roll Play.
+- Sources/classes: NAEYC/Becker's/ArtsConnection/TopParent/OfflineKids body facts SOURCE_BACKED within limits; no PDF/image/video/adhesive validation. Dated July29 broad crafts Semrush TOOL_ESTIMATE not exact demand; Git/GSC/native/prior receipt MEASURED, tasks RESEARCH_HYPOTHESIS, decision/score EDITORIAL_JUDGMENT. Physical/family/time/mess/learning/safety/SEO effects UNKNOWN.
+- Confidence/lesson/falsification: high in generic duplication, moderate in defer. A new lane plus absent owner does not qualify another recipe; reopen only named constrained demand/missing output and one reconciled material/control lineage. Next separate legacy Paper Roll Play source/live first-start audit, not collage retrofit. Native168/GSC100 pass; exact7/review/docs release pending, November1 retained.
+
 ## 2026-10-27 - KAL-IMP-042 Helicopter Text Fit And Arrival
 
 - Completion: Ohm independent full11 PASS/no P0-P3; revieweda884cc0bea9790ac88ac04a23212b8f7e9be0060 pushed, exact-SHA Pages40540927643 success/no marker. Live guide200/10452bytes plus unchanged map/styles match; four production modes/twelve keyboard+twelve freshhash/six touch-emulation arrivals/Back/details/noJS/five linked routes/fragments pass, enlarged screenshots inspected. No retry/regression/outcome claim; release fetch clean0/0. Factual closeout/final alignment follows; completed2/end run, next torn-paper collage qualification only after fresh sensing/registration, not an authorized build.
