@@ -1,5 +1,9 @@
 # Preschool Paper-Airplane Qualification - October 27, 2026
 
+Completed learned-only: reviewed0fe9fb4 pushed main, Popper independent full7
+PASS/no P0-P3/native166/GSC100/exact7 checks; postpush fetch clean0/0. No
+site change or Pages wait. Separate verified helicopter responsive repair next.
+
 Action `KAL-RES-057`; base `0abd756`; research-only, exact seven paths in
 the roadmap. Master is sole writer. Access date throughout: October27.
 
