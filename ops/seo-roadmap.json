@@ -83,7 +83,7 @@
       "id": "KAL-IMP-037",
       "title": "Correct unsupported Magnet Hunt first-start claims across existing owners",
       "kind": "existing-page-improvement",
-      "status": "in_progress",
+      "status": "completed",
       "selected_on": "2026-10-25",
       "registered_on": "2026-10-27",
       "base_commit": "6685806",
@@ -102,7 +102,8 @@
       "priority_basis": "KAL-RES-050 live/source all13 task7/26 with critical step-before-check and undefined object/role/result/cleanup; KAL-RES-051 defers a runnable default because magnet type/power cannot be inferred from age label/size/condition. Separately correct live trust/route copy instead of recommending a product or leaving unsupported steps. Root32 no-prep H1 overshoot is a scoped accessibility follow-up. Exact materials and physical outcomes remain unknown.",
       "source_owner": "scripts/generate_seo_pages.py ACTIVITIES[magnet-hunt] consumed by scripts/generate_card_pages.py; generated card, age-four STEM/science/no-prep hubs and library; confirm sitemap/tests/CSS exact paths on registration.",
       "decision_gate": "Do not publish a runnable magnet default from age label/size/intact checks alone; known/suspected high-powered/rare-earth or unknown type from owned documentation is a decline. Separately register exact existing-owner trust correction to remove/condition unsupported materials, steps, timing/mess and no-prep promise, route to maintained alternatives, and decide canonical/indexability honestly. Preserve peers/windows; same-task all13/live QA required. Reopen runnable variant only on parent-usable documented non-high-powered magnet gate without product recommendation/broad search.",
-      "next_step": "Descartes read-only PASS/no P0-P3 and native/GSC/browser QA pass. Fresh no-divergence fetch and complete unpushed-range inspection, exact29 reviewed stage/secret-claim scan, push main, exact-SHA Pages/live bytes/task and final alignment. Do not publish a runnable magnet substitute; next weekly due November1."
+      "next_step": "Next heartbeat inspect this exact-SHA release artifact/outcome, new GSC and Git, then select the highest eligible distinct action. Do not infer family, physical or SEO effect or publish a runnable magnet substitute; next weekly due November1.",
+      "release": {"state": "pushed-and-live-verified", "commit": "745e9b1d4d8ebfea8afd3d5a7d1940a7a9cb2cc8", "site_changed": true, "pages_run": "https://github.com/agarg21/preschool-build-lab/actions/runs/40480170264", "pages_result": "success for exact pushed SHA; workflow has no release marker", "qa": "native145/145, GSC99, JSON113 unique IDs, XML65 unique URLs, final twice-idempotent generators/seven-output scope, 71HTML/746 local links/75 fragments, local and live desktop/mobile/root32 task, seven live bytes identical, staged whitespace/privacy/exact29 checks", "review": "Descartes independent read-only PASS/no P0-P3 on exact29 diff; browser geometry and generator idempotence independently unverified", "alignment": "immediate pushed commit local/origin aligned; factual docs-only closeout pending"}
     },
     {
       "id": "KAL-IMP-036",
