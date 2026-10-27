@@ -9,7 +9,7 @@
       "id": "KAL-IMP-046",
       "title": "Group Box Garage compact-card readiness checks without delaying the start",
       "kind": "reviewed-existing-card-readability",
-      "status": "reviewed_release_pending",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "d55fd84",
       "exact_paths": [
@@ -43,8 +43,12 @@
       "reconsider_if": "Any lost/late control, worse first-step position or fit/clutter, peer drift, unsupported claim, P0-P2, remote divergence or ambiguous regression.",
       "qa_result": "Native181/actual6renderers/twice594d6aa1/exact2siteoutputs/97site peers/all36canonical-PAGES conserved;73HTML-1001refs-77fragments-8LD-67URLs pass. Local24modes-15keyboardBack-10touch-fourhash-finder-Space-sixnoJS/mobile viewed;390 firststep1479.13->1325.50,320root32 5794.73->5680.17; readiness block itself grows. Full12/1JSON/135IDs/308refs/GSC100/privacy-scope-whitespace pass. Same13 editorial24/26, no family outcome.",
       "review": "Ampere01a17ef8-749b-7c71-af7e-3976a5063f2f fresh different independent full12 cycle-one PASS/no P0-P3.180nonmutating/actual6renderers/97peers-canonical-PAGES/parse-refs-privacy/24modes-routes-touch-hash-finder-Space-sixnoJS/current screenshots/four lenses/everysection/all13 independently pass; first-step measurements reproduced/all12hashes unchanged. Master181/twice receipts distinct; reviewer closed.",
-      "blockers": "None known; exact-SHA production gates pending.",
-      "next_action": "Fresh exact reviewed main push/exact-SHA Pages/live bytes-task/factual closeout/final alignment; only then next selection under the same strict deadline/count."
+      "completed_on": "2026-10-27",
+      "artifact": "reviews/box-garage-readiness-layout-2026-10-27.md",
+      "release_commit": "c010df0bde51b3fcfa418ec6d19732ae896f2fb6",
+      "release_evidence": "Fresh0/0/empty outgoing/exact reviewed12 stage/private scan/native181/JSON/whitespace/main push passed. Exact-SHA Pages40575901476 success/no marker; two affected/ten unchanged live200bytes. Production24modes-15keyboardBack-10touch-fourhash-finder-Space-sixnoJS/canonical-H1-credit-images pass, live390/root32 viewed. No retry/regression/outcome claim; release fetch0/0/reviewer closed/server8780 stopped.",
+      "blockers": "None for completed release; physical/family/SEO outcomes remain unknown.",
+      "next_action": "Completed1: factual seven-path closeout/QA/push/final alignment then same-run guard/next distinct named source-gap selection, no repeated qualification. Strict20:44:05.842Z new-action deadline/November1 weekly/October30 expiry retained."
     },
     {
       "id": "KAL-IMP-045",
