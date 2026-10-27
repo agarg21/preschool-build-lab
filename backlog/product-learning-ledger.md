@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-064 Shadow Compact Start
+
+- Review: Boyle fresh different independent full7 PASS/no P0-P3;180nonmutating/GSC100/136IDs/301refs/privacy-scope/seven livebytes/16modes-12late/9keyboardBack-three depth-finder-fournoJS/H1 bounds/current bodies-visuals/four lenses/everysection/all13 independently pass. Freeze intact/reviewer closed; fresh docs-only release before separate repair, completed1 retained.
+
+- Decision/persona: [new surface audit](../reviews/shadow-compact-start-audit-2026-10-27.md) IMPROVE four existing compact/entry surfaces separately. RES039 expressly excluded old card; preserve repaired age4/pack/preschool, no new guide. Adult needs stable wall light, one checked object, interpretable size move, early no-face/stay-or-decline, switch-off/rescue/finish; reach/dimness/unwanted-light/root32 stress.
+- Hypothesis/result: seven livebytes/16modes show12late no-face cues, unassigned light action/ambiguous closer/matching title without matching rule/local untested absent,5min-lowmess unsupported. Card root32 Shadow word268.36px exceeds246px H1 box although document320. Nine incoming keyboardBack/three repaired depth routes/finder1-zero-Clear36/fournoJS pass. All13 editorial7/26/no N/A/critical override, not same task as IMP03024/26.
+- Sources/classes: current direct PBS/Gryphon/DuPage/AAP bodies and PBS2photos/one-page rendered character PDF SOURCE_BACKED within limits; Smithsonian direct rejected/indexed body only. Selected live query family/incomplete rank-market-demand UNKNOWN. Task RESEARCH_HYPOTHESIS, controls/rubric EDITORIAL_JUDGMENT, browser/repository MEASURED; physical/family/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high for measured surface differences, moderate for repair utility. A repaired depth route does not fix an older executable compact start; assign the light and the object move locally before action. Reopen source/device/role/geometry conflict, critical task failure/peer drift/P0-P2/divergence. Native181 passes; full7/different review/docs-only release before separately registered repair. No product/demand/family claim, November1 retained.
+
 ## 2026-10-27 - KAL-IMP-046 Box Garage Readiness Scan
 
 - Completion: Ampere full12 PASS/native181; reviewedc010df0bde51b3fcfa418ec6d19732ae896f2fb6/[exact-SHA Pages40575901476](https://github.com/agarg21/preschool-build-lab/actions/runs/40575901476) succeeded/no marker. Two affected/ten unchanged live200bytes;24production modes-15keyboardBack-10touch-fourhash-finder-Space-sixnoJS/canonical-H1-credit-images pass, live390/root32 viewed. No retry/regression/outcome claim; release fetch0/0/reviewer closed/server8780 stopped. Completed1; factual seven-path closeout then guard/next named source-gap selection, no repeat qualification.

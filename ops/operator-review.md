@@ -1,5 +1,11 @@
 # Operator Review
 
+## October27 - KAL-RES-064 Shadow Compact Start (PASS / release pending)
+
+Boyle01a17f05-6a97-7862-861a-02d66f29f5f0 fresh different independent read-only full7 cycle-one PASS/no P0-P3;180nonmutating/GSC100/136IDs/301refs/privacy/whitespace/seven livebytes/16modes-12late-9keyboardBack-three depth-finder-fournoJS/H1 bounds/current bodies-visuals/four traced lenses/everysection/all13 baseline7/26 independently pass. Seven frozen hashes unchanged/reviewer closed; Master181 distinct, fresh docs-only release next.
+
+Exact7 docs atd60521a; [packet](../reviews/shadow-compact-start-audit-2026-10-27.md) IMPROVE four unreconciled surfaces separately, no repeat RES039/IMP030. Seven livebytes/16modes/12late checks/9keyboardBack/three depth routes/finder/fournoJS/mobile-H1 bounds/source bodies-PBS visuals/four lenses/everysection/all13 editorial7/26 pass as audit evidence; native181/JSON/whitespace pass. Full7 structured/privacy/different review/docs-only release pending, completed1/strict20:44:05.842Z/November1 retained.
+
 ## October27 - KAL-IMP-046 Readiness Layout (PASS / released)
 
 COMPLETED: fresh0/0/empty outgoing/exact reviewed12 stage/private scan/native181/JSON/whitespace/main push passed; reviewedc010df0bde51b3fcfa418ec6d19732ae896f2fb6, exact-SHA Pages40575901476 success/no marker. Two affected/ten unchanged live200bytes;24production modes/15keyboardBack/10touch/fourhash/finder-Space-sixnoJS/canonical-H1-credit-images pass, live390/root32 viewed. No retry/regression/outcome claim; fresh release fetch0/0/reviewer closed/server8780 stopped. Completed1; factual seven-path closeout/final alignment before next guard/selection.

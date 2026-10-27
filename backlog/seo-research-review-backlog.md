@@ -1,5 +1,11 @@
 # SEO Research & Review Backlog
 
+## October27 Shadow Compact Start
+
+Boyle fresh different independent full7 PASS/no P0-P3/native181/GSC100/136IDs/301refs/privacy-scope; current source/task/visual/all13 independently checked. Fresh exact docs-only release/factual closeout before separate third/final repair, strict deadline retained.
+
+`KAL-RES-064` [bounded new-surface audit](../reviews/shadow-compact-start-audit-2026-10-27.md) IMPROVE old card/library/science/no-prep separately; RES039 explicitly excluded these compact starts, repaired age4/pack/preschool preserved. Seven livebytes/16modes/12late boundaries/vague role-result/title/unmeasured-label gap/H1 parent fit; current primary bodies/visuals support one steady adult-light/object comparison with explicit unknowns. All13 editorial7/26/no N/A/critical override. Native181/full7/different review/docs-only release required before third/final registered repair under strict20:44:05.842Z guard; November1 retained.
+
 ## October27 Box Garage First Start
 
 Completed researchb3d2b2f/Socrates full7 PASS/native176/GSC100/133IDs/291refs/exact7/privacy/whitespace, fresh docs-only push/postpush clean0/0/no Pages. Separate repair after factual closeout as third/final if guard admits; count2 retained.

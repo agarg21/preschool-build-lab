@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-064",
+      "title": "Audit unreconciled Shadow compact-card and science starts",
+      "kind": "existing-owner-source-task-audit",
+      "status": "reviewed_release_pending",
+      "registered_on": "2026-10-27",
+      "base_commit": "d60521a",
+      "exact_paths": [
+        "reviews/shadow-compact-start-audit-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "October14 RES039 explicitly excluded old standalone Shadow card; IMP030 repaired age-four hub/pack only. Canonical card/science/no-prep still four vague actions, 5min/low-mess labels and late no-face note; this is a named new surface gap, not a repeat repaired route.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Caregiver needs one dry wall-shadow start with adult-controlled light, checked object, interpretable move/result, stop/rescue/cleanup and honest evidence before child action.",
+      "hypothesis": "The unreconciled compact-card/science/no-prep starts either preserve a runnable adult-light job or need a bounded existing-owner repair aligned to maintained Shadow owners, not a new URL.",
+      "acceptance": "Audit actual card/library/two generic entry owners plus repaired age4/pack/preschool references, current primary sources/visuals and one live query family; four source-traced lenses/everysection/all13; desktop-mobile-root32/keyboardBack/finder/noJS/live byte baseline. Return PRESERVE/IMPROVE/PAUSE/DEFER with exact supported scope and unresolved source/role/result gates. No site edits.",
+      "qa_plan": "Native181/JSON/allpublicsafeGSC/refs/privacy-scope-whitespace/exact7/different independent read-only full7 review; fresh no-divergence docs-only exact main push/final alignment, no Pages wait. Separately register supported repair promptly within remaining sprint limits.",
+      "invariants": "No change to site/code/CSV/assets/automation/Control Room; no new URL or modification to already-repaired age4 hub/pack/preschool owner, no paid tools, firsthand use or outcome claims.",
+      "observation_window": "Same19:59:05.842Z invocation/retained20:01:34Z, stricter20:44:05.842Z deadline/completed1/max3. IMP046 productionc010df0/Pages40575901476 and factual closeoutd60521a complete/clean0/0; November1/October30 unchanged.",
+      "reconsider_if": "Duplicate completed compact qualification, source/material/eye/beam/role contradiction, physical reliance not source-supported, P0-P2 or divergence.",
+      "decision": "IMPROVE four existing compact outputs separately; stable adult-light/one checked object/size comparison/early controls/rescue/disclosure/labels, title Shadow Builder with existing URL, scoped card fit; preserve repaired age4/pack/preschool and all peers. No new guide or demand claim.",
+      "qa_result": "Seven live200bytes/16modes/12late no-face cues/vague role-result-title/local untested absent/unsupported5min-lowmess; card root32 Shadow word268.36 exceeds246 H1 box/doc320.9incoming keyboardBack/3maintained depth routes/finder1-zero-Clear36/4noJS pass. Current direct primary PBS-Gryphon-DuPage-AAP/PBS2photos-onepage renderedPDF; Smithsonian indexed-only/direct rejected. Four lenses/everysection/all13 editorial7/26/no N/A/critical override. Native181/full7/1JSON/136IDs/301refs/GSC100/privacy-scope-whitespace pass.",
+      "review": "Boyle01a17f05-6a97-7862-861a-02d66f29f5f0 fresh different independent full7 cycle-one PASS/no P0-P3;180nonmutating/GSC100/136IDs/301refs/privacy/sevenlivebytes/16modes-12late-9keyboardBack-three depth-finder-fournoJS/H1 bounds/current bodies-visuals/four lenses/everysection/all13 independently pass. Frozen hashes unchanged/reviewer closed; Master181 distinct.",
+      "blockers": "Docs-only release pending before separate supported repair.",
+      "next_action": "Freeze full7 for different independent read-only review, fresh aligned docs-only exact push/factual closeout/final alignment; promptly register four-output repair as third/final if same strict guard admits."
+    },
+    {
       "id": "KAL-IMP-046",
       "title": "Group Box Garage compact-card readiness checks without delaying the start",
       "kind": "reviewed-existing-card-readability",
