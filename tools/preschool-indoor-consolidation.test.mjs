@@ -156,7 +156,7 @@ test("six starts expose setup, rescue, stop, and local parent checks", () => {
   assert.ok(movement.indexOf("Stop:") < movement.indexOf("Kid idea:"));
   assert.ok(movement.indexOf("Parent check:") < movement.indexOf('<ol class="card-steps">'));
   for (const [slug, body] of starts.map((match) => [match[1], match[2]])) {
-    if (slug === "paper-puddle-path") continue;
+    if (["paper-puddle-path", "sock-target-roll"].includes(slug)) continue;
     assert.ok(body.indexOf('<ol class="card-steps">') < body.indexOf("Stop:"), `${slug} order changed`);
   }
   const blanket = starts.find((match) => match[1] === "blanket-toy-crossing")?.[2] ?? "";

@@ -26,13 +26,16 @@ CONTENT_LASTMODS = {
     "cards/paper-chain-test.html": "2026-10-15",
     "cards/sound-shaker-match.html": "2026-10-17",
     "cards/sink-or-float-tray.html": "2026-10-24",
+    "cards/sock-ball-roll.html": "2026-10-27",
+    "ages/activities-for-3-year-olds-at-home.html": "2026-10-27",
+    "collections/no-prep-activities-for-preschoolers.html": "2026-10-27",
     "collections/science-experiments-for-4-year-olds.html": "2026-10-27",
     "collections/no-prep-stem-activities-for-4-year-olds.html": "2026-10-27",
     "collections/stem-activities-for-preschoolers.html": "2026-10-27",
     "articles/cardboard-ball-maze-kids.html": "2026-10-01",
     "articles/painter-tape-road-kids.html": "2026-09-15",
     "collections/engineering-activities-for-4-year-olds.html": "2026-10-07",
-    "collections/indoor-activities-for-preschoolers.html": "2026-10-20",
+    "collections/indoor-activities-for-preschoolers.html": "2026-10-27",
 }
 
 

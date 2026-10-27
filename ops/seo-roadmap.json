@@ -6,6 +6,25 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-039",
+      "title": "Align sock-roll first start across existing owners",
+      "kind": "existing-owner-implementation",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "9e26d2a",
+      "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/cards/sock-ball-roll.html", "site/cards.html", "site/ages/activities-for-3-year-olds-at-home.html", "site/collections/no-prep-activities-for-preschoolers.html", "site/collections/no-prep-stem-activities-for-4-year-olds.html", "site/collections/indoor-activities-for-preschoolers.html", "site/styles.css", "site/sitemap.xml", "tools/sock-roll-first-start.test.mjs", "tools/preschool-indoor-consolidation.test.mjs", "tools/site-architecture.test.mjs", "reviews/sock-roll-first-start-repair-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "October27 RES052 source/live handoff audit, Helmholtz PASS, reviewed research1c4497d. Five live bytes, all13 editorial10/26 with critical mismatch/latecheck override.",
+      "evidence_class": ["MEASURED", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "A preschool caregiver needs a consistent floor-roll setup, first roll, rescue and stop rather than an unexplained book tunnel after a basket-target start.",
+      "hypothesis": "One source-bounded low-target default and before-action adult decision clear the measured technical handoff/order failure.",
+      "acceptance": "Same13 task, early readiness/clear-floor/reach/attention/stop, socks-only adult ball, roll toward low basket not rim entry, rescue/cleanup, unknown outcomes, existing URLs/credits/peers/all36 invariant.",
+      "qa_plan": "Three generators twice/idempotent and exact outputs, focused regressions/full native, links/fragments/JSON/XML/privacy, desktop1280/390/320/root32/keyboardBack/noJS/errors/accessibility/sourcevisual, independent reviewer PASS, exact-SHA Pages/live bytes/task.",
+      "observation_window": "No unrelated observation window changed; November1 weekly synthesis retained. Immediate production technical verification, no SEO causal claim.",
+      "reconsider_if": "Source contradiction, unexpected output scope, same-task regression, P0-P2 review, incoming divergence or ambiguous production regression.",
+      "review": "Carson cycle-one PASS_WITH_P3/no P0-P2, sole stale scope count corrected; cycle-two narrow confirmation PASS/no findings. Independent157 tests/15 browser cases/peer conservation/local refs/privacy pass; operator158/root32/noJS/generator repeat separate.",
+      "next_action": "Fresh fetch/no-divergence and exact22 reviewed stage/push; exact-SHA Pages/live bytes/task and final alignment."
+    },
+    {
       "id": "KAL-RES-052",
       "title": "Qualify the existing sock-roll owner handoff",
       "kind": "existing-owner-task-audit",

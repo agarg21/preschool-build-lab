@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## October27 - KAL-IMP-039 Sock-Roll First Start
+
+[Same-task packet](../reviews/sock-roll-first-start-repair-2026-10-27.md): source-derived preschool caregiver needs materials/adult setup/first floor roll/rescue/stop without search, secondary younger reach/interruption/320-root32. Existing card and four entry owners align; all13 editorial10/26->23/26/no N/A, critical technical material/order failure cleared locally. Native158/local20cases/finder/keyboardBack/noJS/sourcevisual checks; real family/physical/AT/touch not tested. Independent review/production release pending; no universal safety/learning or SEO outcome.
+
 ## 2026-10-27 - KAL-IMP-038 Contributor Accountability
 
 [Dated every-section task](../reviews/contributor-credits-2026-10-27.md): user-derived hypothesis caregiver must identify AI contribution, publisher, firsthand/review limits and return to activity. Six applicable dimensions12/12, seven activity-execution dimensions N/A with reasons in packet; no before-profile score, real-parent or SEO outcome. Local and live138 rendered credit cases, six320/root32 routes and no-JS keyboard round trip pass. Arendt independent PASS;48d93e0 exact-SHA Pages/live bytes verified. Real caregiver response remains unknown.

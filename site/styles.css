@@ -780,6 +780,37 @@ th {
   line-height: 1.25;
 }
 
+.sock-roll-card h1 {
+  font-size: 2rem;
+  line-height: 1.15;
+}
+
+.sock-roll-card .card-meta {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.sock-roll-card .meta-tile {
+  min-height: 0;
+}
+
+.sock-roll-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.sock-roll-card .step-tile {
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 38px minmax(0, 1fr);
+  align-items: center;
+  gap: 12px;
+}
+
+.sock-roll-card .step-tile p {
+  margin: 0;
+  font-size: 1.15rem;
+  line-height: 1.35;
+}
+
 .parent-strip {
   margin-top: 16px;
   border-left: 6px solid var(--blue);
@@ -2110,6 +2141,10 @@ th {
   }
 
   .sink-float-card .steps-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .sock-roll-card .card-meta {
     grid-template-columns: 1fr;
   }
 

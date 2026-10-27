@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-IMP-039 Consistent Sock-Roll Start
+
+- Decision/persona: [same-task implementation packet](../reviews/sock-roll-first-start-repair-2026-10-27.md) applies reviewed RES052 to existing card/four entry pages. Preschool caregiver needs one floor-roll default and adult setup/rescue/stop; reach/interruption/root32 are stresses, not observed families.
+- Hypothesis/result: replacing book tunnel with socks-only ball/low basket target, early decision and matching steps clears the local technical mismatch/late-check override. Same13 editorial10/26 ->23/26, no N/A; mobile scroll remains. No basket-rim entry, timing/mess/engagement/learning/safety assurance.
+- Sources/classes: October27 RCN sock-ball and AAP general planning SOURCE_BACKED within limits; browser/bytes/tests/GSC technically MEASURED; task RESEARCH_HYPOTHESIS; simplification/score EDITORIAL_JUDGMENT. Actual behavior, suitability and all family/physical/SEO effects UNKNOWN.
+- Confidence/lesson: high in consistent owner text/order/local20-case fit, moderate in editorial usefulness. A target can be a direction rather than a success requirement; do not let an incoming card change the materials or activity unexpectedly.
+- Next falsification/measurement boundary: preserve peers/URLs/all36/credit; reconsider on contrary source, same-task failure, live regression or reviewer P0-P2. GSC99 overlapping453/5 vs481/6 is not effect. Independent review/release pending; no production delivery yet. November1 weekly retained.
+
 ## 2026-10-27 - KAL-RES-052 Sock-Roll Handoff
 
 - Decision/persona: [live/source audit](../reviews/sock-roll-owner-audit-2026-10-27.md) IMPROVES existing owners only in a separate build. Source-derived preschool caregiver needs one floor-roll setup, adult role, first roll, reset/rescue and stop; younger reach/interruption are editorial stresses.

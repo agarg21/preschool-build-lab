@@ -1,5 +1,9 @@
 # Implementation Backlog
 
+## October27 Sock-Roll First Start
+
+`KAL-IMP-039` [bounded implementation](../reviews/sock-roll-first-start-repair-2026-10-27.md): existing card/four entry owners now share socks-only ball/low basket target, adult decision before steps, optional contact, rescue/cleanup and unknown outcomes. No book tunnel/new URL; peers/all36/credits preserved. Local native158/browser20cases pass; full independent review and exact-SHA production release pending. Same13 editorial10/26->23/26 is not family/physical/SEO evidence.
+
 ## October 27 Shared Contributor Credits
 
 KAL-IMP-038 **released48d93e0** after Arendt independent PASS and [exact-SHA Pages40504204320](https://github.com/agarg21/preschool-build-lab/actions/runs/40504204320) success: Riley Hart, disclosed AI research contributor, linked from69 editorial/utility pages; About identifies Apoorva as publisher. Two support URLs, shared generator sync/scoped styles; old content/dates conserved except one Person-to-Organization correction. Native153, all73 live file bytes and production138credit/sixroot32/keyboard/no-JS checks pass. [Dated packet](../reviews/contributor-credits-2026-10-27.md) retains evidence and limits; no family/SEO effect claimed.

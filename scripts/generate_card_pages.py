@@ -639,6 +639,7 @@ def quick_page(slug):
     is_ball_maze = slug == "ball-maze-box"
     is_paper_bridge = slug == "paper-bridge"
     is_sink_float = slug == "sink-or-float-tray"
+    is_sock_roll = slug == "sock-ball-roll"
     has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge
     routes = related_routes_html(
@@ -691,12 +692,14 @@ def quick_page(slug):
     card_class = (
         "kid-card maze-card" if is_ball_maze else
         "kid-card bridge-card" if is_paper_bridge else
-        "kid-card sink-float-card" if is_sink_float else "kid-card"
+        "kid-card sink-float-card" if is_sink_float else
+        "kid-card sock-roll-card" if is_sock_roll else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
         "bridge-card-1" if is_paper_bridge else
-        "sink-float-card-1" if is_sink_float else "nav-stable-2"
+        "sink-float-card-1" if is_sink_float else
+        "sock-roll-card-1" if is_sock_roll else "nav-stable-2"
     )
     return f'''<!doctype html>
 <html lang="en">
