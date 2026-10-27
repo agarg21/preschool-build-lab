@@ -1,5 +1,10 @@
 # Kid Activity Lab Operator Roadmap
 
+KAL-IMP-040 local repair QA: native162/idempotence/exact five site outputs and twelve viewport modes pass; seven peers/global defaults/library/image unchanged. Navigation checks, independent full18 review and exact-SHA production release remain before completion. Same13 editorial12->24/26 is not family/physical/SEO evidence. Third/final transaction of14:02 run.
+Navigation now passes keyboardBack/noJS and direct first-try normal/root32 after scoped7rem anchor fix. Final repeated site hash6a7ac0fc, JSON120IDs/exact18/source/privacy checks pass. Frozen independent review then fresh exact-SHA release next.
+Averroes cycle-one independent PASS_WITH_P3/no P0-P2; sole missing-marker ordering test P3 corrected without site/content change. Native/negative mutation and narrow confirmation, then fresh exact-SHA Pages/live release next.
+Cycle-two Averroes PASS/no remaining findings; focused10/negative mutation/exact18/unchanged site-generator blobs/accurate receipts confirmed. Operator full162/fresh0/0 fetch/empty outgoing/site hash unchanged. Reviewed main release and exact-SHA production gates next.
+
 The machine-readable queue is `ops/seo-roadmap.json`. It preserves age-4 STEM
 as the strongest existing cluster inside the broader interesting-kid-
 engagement strategy and gives the active Master chat one durable execution queue.
@@ -11,6 +16,8 @@ Rolling28-day horizon: October25-November21, truncated by the pilot cutoff Novem
 this is a gate/sequence review, not new demand or ranking evidence.
 
 ## Current sequence
+
+0. October27 `KAL-IMP-040` REGISTERED at11da3e5, exact18 paths, third transaction of14:02:39Z run/completed2. Apply Goodall-PASS RES054 brief to only independent-hub Cup entry/card/guide early controls plus measured fit; preserve seven peers/global definitions/image/URLs. No new activity/page/product. Next source/generator/native/browser QA, different review, exact-SHA release/live task; no fourth action, start deadline14:47:39Z and November1 weekly retained.
 
 0. October27 `KAL-RES-054` REGISTERED at0d5f5cf, exact7 docs paths. Verify independent-hub Cup Tower -> card/guide adult-role/default handoff found during reviewed puppet discovery. Source/live desktop/mobile/root32/every-section/all13 audit must return PRESERVE/IMPROVE/DEFER; no automatic new page/repair/broad hub rewrite. Run-start14:02:39Z/count1/deadline14:47:39Z; native/review/docs-only release gates and November1 weekly retained.
    IMPROVE existing three-owner journey, all13 editorial12/26 critical override. Goodall cycle-one PASS_WITH_P3/no P0-P2; sole absent-versus-late stop precision fixed: hub stop absent/late material check, card/guide stops late. Native158/GSC99/119IDs/248refs/exact7/privacy/whitespace pass; next narrow confirmation/docs push/alignment then separate bounded KAL-IMP-040 repair.

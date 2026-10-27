@@ -10,12 +10,12 @@ test("cup tower has one article owner and factual schema", () => {
   assert.equal([...html.matchAll(/<h1>/g)].length, 1);
   const schema = JSON.parse(html.match(/application\/ld\+json">([\s\S]*?)<\/script>/)[1]);
   assert.equal(schema["@type"], "Article");
-  assert.equal(schema.dateModified, "2026-09-17");
+  assert.equal(schema.dateModified, "2026-10-27");
 });
 
 test("cup tower exposes fit and runnable start before illustrative image", () => {
   const panel = html.match(/<section class="bridge-start-panel"[\s\S]*?<\/section>/)[0];
-  for (const marker of ["Try it when:", "two matching intact lightweight paper cups", "two closed bottoms touching", "Adult:", "Child:", "Stop:", "mouthing", "damaged cups"]) {
+  for (const marker of ["Try it when:", "two matching intact lightweight paper cups", "two closed bottoms touching", "Adult:", "Child:", "Adult check and stop:", "mouthing", "damaged cups"]) {
     assert.ok(panel.includes(marker), marker);
   }
   assert.ok(html.indexOf(panel) < html.indexOf('<figure class="hero-image">'));

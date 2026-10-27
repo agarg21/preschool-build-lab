@@ -733,12 +733,30 @@ PAGES = [
         "page_type": "collection",
         "primary": "independent activities for preschoolers",
         "title": "Independent Activities for Preschoolers | Kid Activity Lab",
+        "head_style": "@media (max-width: 480px) { .hero h1 { font-size: min(2.5rem, 43px); } }",
         "h1": "Independent activities for preschoolers.",
         "kicker": "Independent play",
-        "description": "Independent preschool activities with low-prep materials, simple steps, low mess, and parent check notes for safer quiet play.",
-        "intro": "Independent does not mean unsupervised. It means the child can understand the work after a quick parent setup. The best picks have repeatable actions: stack, sort, park, build, roll, reset.",
-        "tip": "Start the first round together, then leave one tiny challenge: build three towers, park all red cars, or make a house for one toy.",
+        "description": "Independent preschool activity choices with parent setup and activity-specific adult involvement. Cup Tower is adult-guided, not a hands-off activity.",
+        "intro": "Independent does not mean unsupervised. Let the child choose and try actions while keeping the adult involvement the activity needs. Cup Tower below requires an adult beside the setup throughout, not just a quick demonstration.",
+        "tip": "Start together and check the activity's adult role before choosing. For Cup Tower, stay beside every child who can reach the cups; skip it if you cannot attend to them.",
         "activities": ["magnetic-tile-house", "magnetic-tile-ideas", "block-tower", "cup-tower", "duplo-games", "paper-roll-drop", "tape-road", "box-garage"],
+        "activity_overrides": {
+            "cup-tower": {
+                "time": "Open-ended",
+                "mess": "Not measured",
+                "mess_label": "Mess not measured",
+                "help_label": "Adult stays beside setup",
+                "materials": "2 matching lightweight paper cups and 1 optional spare",
+                "best_for": "an adult-guided small balance, not a hands-off choice",
+                "start_cue": "Try when the child can place a cup gently and follow a stop cue. Adult checks intact cups and a firm low clear surface, away from edges and feet, and stays beside every child who can reach them. Keep spares out of younger children's reach; skip if you cannot attend. Stop after mouthing, throwing, damage, climbing or unwanted collapse. Research-backed, not family-tested by Kid Activity Lab.",
+                "adult_setup": "Check that the matching cups can balance. Put one cup opening-down and demonstrate the other opening-up, with the two closed bottoms touching. Do not push one cup inside the other.",
+                "steps": ["Adult puts one cup upside down.", "Set another bottom-to-bottom on it.", "Take the top cup off gently.", "Rebuild or try one change."],
+                "parent": "If the cups will not balance, try a different matching pair or arrange a row instead. Lift cups off rather than forcing a collapse. Collect the set when done; adult removes damaged cups and loose pieces and stores the cups out of younger reach. Timing and mess have not been measured.",
+                "url": "../articles/paper-cup-tower-kids.html",
+                "link_text": "Full Paper Cup Tower guide",
+                "link_before_steps": True,
+            },
+        },
         "related": ["independent work for preschoolers", "independent art activities for preschoolers", "independent learning activities for preschoolers"],
     },
     {
@@ -1461,6 +1479,8 @@ def activity_card(activity):
         f'\n            <p class="activity-start-cue"><strong>Adult check:</strong> {esc(activity["start_cue"])}</p>'
         if activity.get("start_cue") else ""
     )
+    early_link = f"\n            <p>{link}</p>" if activity.get("link_before_steps") else ""
+    late_link = "" if early_link else "          " + link
     adult_setup = (
         f'\n          <p><strong>Adult setup:</strong> {esc(activity["adult_setup"])}</p>'
         if activity.get("adult_setup") else ""
@@ -1474,7 +1494,7 @@ def activity_card(activity):
         source_note = f'\n          <details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
     return f'''        <article class="seo-activity">
           <div>
-            <h2>{esc(activity["title"])}</h2>{start_cue}
+            <h2>{esc(activity["title"])}</h2>{start_cue}{early_link}
             <p>{esc(activity["best_for"])}</p>
             <div class="source-tags">
               <span class="tag">{esc(activity["ages"])} years</span>
@@ -1486,7 +1506,7 @@ def activity_card(activity):
           <div class="activity-materials"><strong>Need</strong>{esc(activity["materials"])}</div>{adult_setup}
           <ol class="card-steps">{steps}</ol>
           <p class="activity-parent"><strong>Parent check:</strong> {esc(activity["parent"])}</p>
-          {link}{source_note}
+{late_link}{source_note}
         </article>'''
 
 
@@ -2417,9 +2437,9 @@ def cup_tower_guide_html():
     <meta name="description" content="Start a paper cup tower with two matching cups. Find clear adult setup, stacking versus nesting, collapse rescues, one-change ideas and cleanup boundaries.">
     <link rel="icon" href="data:,">
     <link rel="canonical" href="https://kidactivitylab.com/articles/paper-cup-tower-kids.html">
-    <link rel="stylesheet" href="../styles.css?v=paper-bridge-1">
+    <link rel="stylesheet" href="../styles.css?v=cup-tower-1">
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Paper Cup Tower for Kids","datePublished":"2026-09-17","dateModified":"2026-09-17","author":{"@type":"Organization","name":"Kid Activity Lab"},"image":"https://kidactivitylab.com/assets/cup-tower/paper-cup-start.webp"}
+      {"@context":"https://schema.org","@type":"Article","headline":"Paper Cup Tower for Kids","datePublished":"2026-09-17","dateModified":"2026-10-27","author":{"@type":"Organization","name":"Kid Activity Lab"},"image":"https://kidactivitylab.com/assets/cup-tower/paper-cup-start.webp"}
     </script>
   </head>
   <body>
@@ -2430,7 +2450,7 @@ def cup_tower_guide_html():
       </nav>
     </header>
     <main>
-      <article class="bridge-article">
+      <article class="bridge-article cup-tower-guide">
         <header class="hero bridge-guide-hero">
           <p class="kicker">Stack | notice | rebuild</p>
           <h1>Paper Cup Tower for Kids</h1>
@@ -2439,11 +2459,11 @@ def cup_tower_guide_html():
             <h2 id="cup-start-title">Fit and start</h2>
             <p><strong>Try it when:</strong> your child can place a cup gently and follow a stop cue; an adult can stay beside the setup.</p>
             <p><strong>Get:</strong> two matching intact lightweight paper cups, one optional matching spare, and a clear firm level surface.</p>
+            <p class="bridge-stop"><strong>Adult check and stop:</strong> check that the cups balance on a low surface away from edges and feet. Stay beside every child who can reach the setup; keep spare cups and loose pieces out of younger children's reach. Skip this activity if you cannot attend. Stop after mouthing, throwing, damaged cups, climbing, or unwanted collapse. Keep the build low and remove torn pieces.</p>
             <ol>
               <li><strong>Adult:</strong> put one cup upside down. Demonstrate a second cup right side up on it, with the two closed bottoms touching.</li>
               <li><strong>Child:</strong> remove the top cup, then try placing it back. Say, "Can you let go gently?"</li>
             </ol>
-            <p class="bridge-stop"><strong>Stop:</strong> after mouthing, throwing, damaged cups, climbing, or unwanted collapse. Keep the build low and remove torn pieces.</p>
           </section>
           <p><strong>Research-backed, not family-tested by Kid Activity Lab.</strong> Cup fit and child readiness matter more than an age label.</p>
         </header>
@@ -2455,13 +2475,13 @@ def cup_tower_guide_html():
           <section id="first-try" aria-labelledby="first-try-title">
             <h2 id="first-try-title">One small build, then reset</h2>
             <p>The adult first checks whether these cups can balance in the shown arrangement. Work on the floor or a low surface, away from edges and feet. Pick cups suitable for every child who can reach them; avoid heavy, cracked or sharp-edged substitutes.</p>
+            <p><strong>Adult role:</strong> stay beside every child who can reach the setup; keep spare cups and loose pieces out of younger children's reach. Skip this activity if you cannot attend. Stop after mouthing, throwing, damaged cups, climbing, or unwanted collapse, and remove torn pieces. Do not turn the cups into steps or build near a face.</p>
             <ol class="steps">
               <li>Separate nested cups. Put the first cup opening-down, with its wide rim resting flat.</li>
               <li>Place the second cup opening-up, so its closed bottom rests on the first cup's closed bottom. Do not push one cup inside the other.</li>
               <li>Let go gently and notice whether it stays, leans or falls. An adult may guide the child's hand or model again.</li>
               <li>Lift off the top cup before rebuilding. There is no height target, race or requirement to continue.</li>
             </ol>
-            <p><strong>Adult role:</strong> stay close, keep spare cups out of younger children's reach, and end the setup if pieces are mouthed or thrown. Do not turn the cups into steps or build near a face.</p>
           </section>
           <section id="one-change" aria-labelledby="one-change-title">
             <h2 id="one-change-title">Choose one change</h2>
@@ -2490,7 +2510,7 @@ def cup_tower_guide_html():
           </section>
           <section id="evidence" aria-labelledby="evidence-title">
             <h2 id="evidence-title">Sources and limits</h2>
-            <p>Sources checked September 17, 2026. Kid Activity Lab has not recorded a family test of this setup. Timing, comprehension, engagement, enjoyment, learning, repeatability, frustration, mess and safety outcomes remain unknown.</p>
+            <p>Sources rechecked October 27, 2026. Kid Activity Lab has not recorded a family test of this setup. Timing, comprehension, engagement, enjoyment, learning, repeatability, frustration, mess and safety outcomes remain unknown.</p>
             <ul>
               <li><a href="https://discovere.org/engineering-activities/tallest-cup-tower/">DiscoverE: Tallest Cup Tower</a> supplies the bottom-to-bottom demonstration and uniform paper/plastic cup materials. Its classroom competition uses a much larger set; this reduced, noncompetitive start is a KAL editorial adaptation.</li>
               <li><a href="https://www.education.com/activity/article/design-challenge-creating-a-cup-tower/">Education.com: Creating a Cup Tower</a> describes paper-cup redesign with height measurement and recording. We do not reproduce that measured lesson or promise its outcomes.</li>

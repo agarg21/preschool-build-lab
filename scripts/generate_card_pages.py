@@ -112,7 +112,7 @@ QUICK_CARD_OVERRIDES = {
             "Take the top cup off gently.",
             "Rebuild or try one change.",
         ],
-        "parent": "Stay beside the child. Choose intact lightweight cups for everyone who can reach them. Stop after mouthing, throwing, damage, climbing or unwanted collapse. Research-backed, not family-tested; open the guide for fit, rescue and cleanup.",
+        "parent": "Stay beside the child on a firm low clear surface, away from edges and feet. Choose intact lightweight cups suitable for everyone who can reach them; keep spares out of younger children's reach. Skip if you cannot stay and attend to them. Stop after mouthing, throwing, damage, climbing or unwanted collapse. Research-backed, not family-tested by Kid Activity Lab.",
         "best_for": "trying a small build and noticing what changes",
     },
     "ball-maze-box": {
@@ -640,18 +640,19 @@ def quick_page(slug):
     is_paper_bridge = slug == "paper-bridge"
     is_sink_float = slug == "sink-or-float-tray"
     is_sock_roll = slug == "sock-ball-roll"
+    is_cup_tower = slug == "cup-tower"
     has_start_cue = bool(activity.get("start_cue"))
-    early_handoff = is_ball_maze or is_paper_bridge
+    early_handoff = is_ball_maze or is_paper_bridge or is_cup_tower
     routes = related_routes_html(
         slug, include_guide=not early_handoff,
-        max_links=2 if is_paper_bridge else MAX_RELATED_ROUTES,
+        max_links=2 if is_paper_bridge or is_cup_tower else MAX_RELATED_ROUTES,
     )
     parent_check = f'''
 
         <section class="parent-strip" aria-label="Parent check">
           <strong>Parent check:</strong> {esc(activity['parent'])}
         </section>'''
-    pre_meta_parent_check = parent_check if is_paper_bridge else ""
+    pre_meta_parent_check = parent_check if is_paper_bridge or is_cup_tower else ""
     activity_start = f'''
 
         <section class="parent-strip" aria-label="Before starting">
@@ -689,17 +690,26 @@ def quick_page(slug):
           <p><a href="../articles/paper-bridge-challenge-kids.html#bridge-start-title">Full Paper Bridge guide</a> for the optional fold, rescue, and cleanup. Research-backed; not family-tested by Kid Activity Lab.</p>
           <p><strong>Fit:</strong> Choose one intact large lightweight block or soft toy suitable for every child who can reach it. Try when your child can place it gently and follow a stop cue. Adult sets the low books. If a younger child mouths materials and you cannot keep spare materials out of reach while attending to both, skip.</p>
         </section>'''
+    if is_cup_tower:
+        early_guide = '''
+
+        <section class="cup-card-decision" aria-label="Decide before starting">
+          <p><a href="../articles/paper-cup-tower-kids.html">Full Paper Cup Tower guide</a> for fit, rescue and cleanup.</p>
+          <p><strong>Fit:</strong> Try when the child can place a cup gently and follow a stop cue. Adult first checks that the matching cups balance and demonstrates two closed bottoms touching, not nesting. If they will not balance, use a row rather than forcing a tower.</p>
+        </section>'''
     card_class = (
         "kid-card maze-card" if is_ball_maze else
         "kid-card bridge-card" if is_paper_bridge else
         "kid-card sink-float-card" if is_sink_float else
-        "kid-card sock-roll-card" if is_sock_roll else "kid-card"
+        "kid-card sock-roll-card" if is_sock_roll else
+        "kid-card cup-tower-card" if is_cup_tower else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
         "bridge-card-1" if is_paper_bridge else
         "sink-float-card-1" if is_sink_float else
-        "sock-roll-card-1" if is_sock_roll else "nav-stable-2"
+        "sock-roll-card-1" if is_sock_roll else
+        "cup-tower-card-1" if is_cup_tower else "nav-stable-2"
     )
     return f'''<!doctype html>
 <html lang="en">

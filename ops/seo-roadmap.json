@@ -6,6 +6,24 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-040",
+      "title": "Align Cup Tower adult-role and before-action controls",
+      "kind": "existing-owner-implementation",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "11da3e5",
+      "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/cards/cup-tower.html", "site/collections/independent-activities-for-preschoolers.html", "site/articles/paper-cup-tower-kids.html", "site/styles.css", "site/sitemap.xml", "tools/cup-tower-adult-role.test.mjs", "tools/paper-cup-tower-guide.test.mjs", "reviews/cup-tower-adult-role-repair-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "RES054 reviewed8428f9e/Goodall final PASS: three live byte matches, hub low-help/knockdown versus adult-guided two-cup default, four absent hub stops/eight late card-guide stops, hub320root32 overflow536. Same-route all13 editorial12/26 critical override.",
+      "evidence_class": ["MEASURED", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Preschool caregiver selecting an independent activity must know actual adult stay/skip/material/default before starting the linked Cup Tower.",
+      "hypothesis": "Page-specific two-cup adult-guided entry plus early card/guide controls resolves measured technical contradictions/order/fit failure without broad rewrite or new URL.",
+      "acceptance": "Same13 task; adult readiness/material/low-surface/reach/attention/stop before action, two-cup geometry and rescue/cleanup preserved, honest untested/unknown outcomes, seven peers/global definitions/image/nav/URLs/all36/credit invariant.",
+      "qa_plan": "Three generators twice/exact18 scope; focused/full native, parsed JSON/XML/all local links-fragments/privacy, peer conservation, desktop1280/390/320/root32/keyboardBack/noJS/errors/fit/accessibility/sourcevisual/direct fragment; independent PASS then fresh exact reviewed push/exact-SHA Pages/live bytes/task/alignment.",
+      "observation_window": "Immediate technical production checks; no family/physical/SEO effect claim. November1 weekly and unrelated windows unchanged.",
+      "reconsider_if": "Contrary source, unexpected generated file, shared default/peer churn, task or fit failure, P0-P2, remote divergence or ambiguous production regression.",
+      "next_action": "Averroes cycle-two PASS/no remaining findings;10focused/negative mutation/exact18/unchanged site-generator blobs/receipts pass independently. Operator full162/fresh0/0 fetch/empty outgoing/site hash unchanged. Exact reviewed stage/privacy then push/exact-SHA Pages/live bytes/task/alignment. No fourth action."
+    },
+    {
       "id": "KAL-RES-054",
       "title": "Audit independent-hub Cup Tower adult-role handoff",
       "kind": "existing-owner-task-audit",

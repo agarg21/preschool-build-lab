@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## October27 - KAL-IMP-040 Cup Adult-Role Repair
+
+[Same-task every-section packet](../reviews/cup-tower-adult-role-repair-2026-10-27.md): preschool caregiver selecting independent play needs actual adult stay/skip/material/default, younger reach/interruption/unwanted collapse and320/root32/direct arrival stresses. Same13 editorial12->24/26/no N/A, critical local mismatch/order override clears across three owners. Native162/twelve Chrome modes/sourcevisual/keyboardBack/noJS/direct fragment pass after scoped root32 anchor fix; independent review/exact-SHA live checks pending. Real family/physical/AT/touch/SEO effects untested.
+
 ## October27 - KAL-IMP-039 Sock-Roll First Start
 
 [Same-task packet](../reviews/sock-roll-first-start-repair-2026-10-27.md): source-derived preschool caregiver needs materials/adult setup/first floor roll/rescue/stop without search, secondary younger reach/interruption/320-root32. Existing card and four entry owners align; all13 editorial10/26->23/26/no N/A, critical technical material/order failure cleared locally. Native158/local20cases/finder/keyboardBack/noJS/sourcevisual checks; real family/physical/AT/touch not tested. Independent review/production release pending; no universal safety/learning or SEO outcome.

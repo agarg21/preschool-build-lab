@@ -11,8 +11,9 @@ LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"
 CONTENT_LASTMODS = {
     "articles/paper-straw-rocket.html": "2026-09-22",
     "articles/paper-helicopter-kids.html": "2026-09-19",
-    "articles/paper-cup-tower-kids.html": "2026-09-17",
-    "cards/cup-tower.html": "2026-09-17",
+    "articles/paper-cup-tower-kids.html": "2026-10-27",
+    "cards/cup-tower.html": "2026-10-27",
+    "collections/independent-activities-for-preschoolers.html": "2026-10-27",
     "cards.html": "2026-10-27",
     "cards/cardboard-car-ramp.html": "2026-10-13",
     "articles/cardboard-box-car-ramp-preschoolers.html": "2026-10-13",
