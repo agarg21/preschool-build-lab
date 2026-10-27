@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October27 Blanket River Role-Handoff Audit
+
+`KAL-RES-061` [source/live packet](../reviews/blanket-river-role-handoff-audit-2026-10-27.md) IMPROVE five existing surfaces separately: card-age5 omit toy role/all16 instruction modes late stops; root32 age5/building H1 widths374/536. Five livebytes/20modes/four keyboardBack/finder/noJS/inpage-directhash arrivals pass. MSU/SDSU/AAP/source-local visuals reconcile three-block near-edge toy-held editorial default, not body-bearing/load/exact blanket certification; Smithsonian rejected/historical. All13 baseline10/26/critical override. Native172/GSC100/full7/different review/docs release before canonical-row/override repair, no new URL/August broad repeat; November1 retained.
+
 ## October27 Movement And Rhythm Play Qualification
 
 Completed learned-only1840680/Kepler full7 PASS/native172/GSC100/129IDs/277refs/exact7/privacy/whitespace, clean0/0 after fresh docs-only push; no site/Pages. Separate Blanket River source/live role-handoff audit next, not new freeze URL.

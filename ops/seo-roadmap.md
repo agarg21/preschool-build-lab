@@ -1,5 +1,9 @@
 # Kid Activity Lab Operator Roadmap
 
+RES061 decision IMPROVE Blanket River card/library/age5/indoor/building separately; [five-owner packet](../reviews/blanket-river-role-handoff-audit-2026-10-27.md) records role mismatch/all16 late checks/root32 H1 widths374-536/five livebytes/20modes/routes. MSU/SDSU/AAP/source-local visuals support three-block near-edge toy-held editorial default, no body-bearing/load/exact blanket certification; Smithsonian rejected. All13 baseline10/26/critical override. Full7/different review/docs release before separate repair, count1/18:44:40Z/November1 retained.
+
+KAL-RES-061 REGISTERED atfbbc444, exact7 audit docs in JSON/checkpoint. Same17:59:40Z/completed1/deadline18:44:40Z. Audit current Blanket River card/age5 cross-role vs maintained toy-only depth/library label, not repeat August broad qualification or presume repair/pause/new recipe. Current sources/actual owners/live task/all13/everysection/different review/native/docs release required before any separate implementation; November1 retained.
+
 RES060 COMPLETED learned-only1840680/Kepler full7 PASS/native172/GSC100/129IDs/277refs/exact7/privacy/whitespace; fresh reviewed docs push/postpush clean0/0, no site/Pages. Factual7 closeout then separate Blanket River card-age5 vs toy-only depth source/live handoff audit, no automatic repair. Same17:59:40Z/completed1/deadline18:44:40Z/November1 retained.
 
 RES060 decision DEFER new freeze-dance/rhythm URL; [four-question/six-body packet](../seo/movement-rhythm-play-discovery-2026-10-27.md) finds generic no-out/seated/cue/rule coverage, exact demand/missing output/home-control lineage unqualified. All13 desk15/24/mobile N/A, one question reused, no visual/family task. Full7/different review/docs release before separate Blanket River card-age5 vs toy-only indoor/building source/live handoff audit, no automatic repair. Native172/GSC100/preflight/prior receipt pass, count0/18:44:40Z/November1 retained.

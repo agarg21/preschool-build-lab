@@ -6,6 +6,26 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-061",
+      "title": "Audit Blanket River toy-only role and first-start handoffs",
+      "kind": "existing-owner-source-live-handoff-audit",
+      "status": "in_progress",
+      "decision": "IMPROVE five existing surfaces separately: card-age5 omit toy role/all16 instruction modes late controls, root32 age5-building H1 widths374/536. Five livebytes/20modes/routes; MSU/SDSU/AAP/source-local visuals reconcile three-block near-edge toy-held editorial default, no body-bearing/load/exact blanket certification. All13 baseline10/26/critical override.",
+      "registered_on": "2026-10-27",
+      "base_commit": "fbbc444",
+      "exact_paths": ["reviews/blanket-river-role-handoff-audit-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "Reviewed RES060 local inventory reproduces card/age5 unspecified cross/build vs indoor/building toy-only route and late checks. August4/5 broad reviews retained, named current handoff/early-control gap not a repeated broad qualification or accident finding.",
+      "evidence_class": ["MEASURED", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Caregiver must know who crosses, exact materials and adult/skip/stop boundary before action, then one toy route/reset/rescue/cleanup without interpreting a body-weight bridge or independent movement promise.",
+      "hypothesis": "Current maintained source and live role/first-start evidence may qualify a bounded owner alignment or withdrawal, or preserve/defer; no new recipe or safety conclusion presumed.",
+      "acceptance": "Actual card/library/incoming owners and renderer overrides inventoried, August lineage not overwritten; current primary source/material-control and visuals if needed; live bytes/four traced lenses/everysection/all13 desktop-mobile-root32-keyboardBack-noJS task; supported decision and exact gates.",
+      "qa_plan": "Native172/changedJSON/uniqueIDs/GSC validation-comparison/localrefs/exact7/source-privacy-claims/whitespace; different independent read-only review then fresh exact docs-only push/alignment. No site/data/code/config change; any qualified repair separately registered promptly within sprint guard.",
+      "invariants": "No freeze-dance substitution/new URL/product/paid call/indexing/family test/physical performance/medical or universal safety claim; preserve unrelated owners and chooser observation windows.",
+      "observation_window": "Source/technical proxy only, actual17:59:40Z/completed1/deadline18:44:40Z. November1 weekly/October30 sprint expiry unchanged.",
+      "reconsider_if": "No observed current task mismatch, critical source/visual/control conflict, unqualified material/role default, private evidence spill, P0-P2 or divergence.",
+      "next_action": "Execute bounded source/live role-handoff audit, review and docs release; only then separately register a supported exact implementation."
+    },
+    {
       "id": "KAL-RES-060",
       "title": "Qualify simple movement and rhythm play parent job",
       "kind": "research-first-play-qualification",

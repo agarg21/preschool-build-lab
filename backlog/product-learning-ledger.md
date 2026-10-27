@@ -1,5 +1,12 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-061 Blanket River Role Handoff
+
+- Decision/persona: [five-owner audit](../reviews/blanket-river-role-handoff-audit-2026-10-27.md) IMPROVES existing card/library/age5/indoor/building separately. Caregiver needs toy vs feet/materials/attend-or-decline/tiny bridge/reset/rescue/collect; secondary reach/limited space/non-fitting span/participation/root32.
+- Hypothesis/result: five live200 bytes/20modes reproduce card-age5 missing toy/all16 instruction cases late checks, age5/building root32 widths374/536. Four keyboardBack/finder1of36/noJS/inpage-directhash arrivals pass. Same13 editorial10/26/no N/A/critical override. Current MSU/SDSU bridge-pretend/AAP parts support three-block near-edge toy-held editorial default, not body-bearing/load test.
+- Sources/classes: current bodies SOURCE_BACKED within limits; source full pages/SDSU span-photo/existing KAL material visuals viewed, not exact blanket validation. Smithsonian rejected/historical. Technical QA MEASURED, lenses RESEARCH_HYPOTHESIS, default/controls/score EDITORIAL_JUDGMENT; physical fit/stability/hygiene/family/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high in role/order/fit failures, moderate in utility. Canonical ACTIVITY plus indoor/building overrides must agree; preserve toy-only intent/material-image limits, not repeat August broad qualification or substitute freeze dance. Reopen source/material/role conflict, peer drift/task failure/P0-P2/divergence. Native172/GSC100/full7/review/docs release then separate repair, November1 retained.
+
 ## 2026-10-27 - KAL-RES-060 Movement And Rhythm Play
 
 - Completion: reviewed1840680/Kepler independent full7 PASS/native172/GSC100/129IDs/277refs/exact7/privacy/whitespace, fresh docs-only push/postpush clean0/0. No site/Pages change; completed1, separate Blanket River source/live handoff audit next after factual closeout/alignment.
