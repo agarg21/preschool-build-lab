@@ -3038,6 +3038,8 @@ def update_keyword_targets():
 
 
 def main():
+    from contributor_pages import sync_contributor_pages
+
     for page in PAGES:
         path = SITE / page["path"]
         path.parent.mkdir(parents=True, exist_ok=True)
@@ -3062,6 +3064,7 @@ def main():
     tape_road_path.parent.mkdir(parents=True, exist_ok=True)
     tape_road_path.write_text(tape_road_guide_html())
     update_keyword_targets()
+    sync_contributor_pages()
     print(f"generated {len(PAGES)} SEO pages and {len(LEGACY_REDIRECTS)} legacy redirects")
 
 

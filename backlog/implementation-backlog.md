@@ -1,5 +1,9 @@
 # Implementation Backlog
 
+## October 27 Shared Contributor Credits
+
+KAL-IMP-038 implements the user's Family Tripwise-style accountability direction: Riley Hart, disclosed AI research contributor, linked from69 editorial/utility pages; About identifies Apoorva as publisher. Two support URLs, shared generator sync and scoped styles; old content/dates conserved except one Person-to-Organization schema correction. [Dated packet](../reviews/contributor-credits-2026-10-27.md) records coverage, task, evidence and limits. Review and exact-SHA release pending.
+
 ## October 27 Magnet Hunt Existing-Owner Trust Correction
 
 `KAL-IMP-037` [dated source/rendered task](../reviews/magnet-hunt-trust-correction-2026-10-27.md) **released** at reviewed `745e9b1` after Descartes PASS and [exact-SHA Pages success](https://github.com/agarg21/preschool-build-lab/actions/runs/40480170264). It withdraws unsupported runnable Magnet Hunt copy from the card and three hubs. The direct URL is a noindex pause/one-alternative route; library finder preserves the clearly paused card, sitemap removes it, and no-prep/preschool headings fit 320/root32. A finite historical-public-URL allowance keeps old GSC snapshots valid without republishing the pause. Native145, generator idempotence, all seven live bytes and production desktop/mobile/root32 routes pass. No new page, magnet product, runnable default or indexing request. All13 current decline-and-switch proxy21/26 is not a numerical gain over October25's different runnable-magnet7/26 task. Family/physical/SEO effects unknown; November1 weekly due.

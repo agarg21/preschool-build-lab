@@ -830,6 +830,8 @@ def cards_index():
 
 
 def main():
+    from contributor_pages import sync_contributor_pages
+
     OUT.mkdir(parents=True, exist_ok=True)
     with DATA.open() as f:
         rows = {row["source_id"]: row for row in csv.DictReader(f)}
@@ -840,6 +842,7 @@ def main():
     for slug in QUICK_CARD_SLUGS:
         (OUT / f"{slug}.html").write_text(quick_page(slug))
     (ROOT / "site" / "cards.html").write_text(cards_index())
+    sync_contributor_pages()
     print(f"generated {len(CARD_ROWS) + len(QUICK_CARD_SLUGS)} card pages and cards index")
 
 

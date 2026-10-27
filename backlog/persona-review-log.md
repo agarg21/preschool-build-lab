@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## 2026-10-27 - KAL-IMP-038 Contributor Accountability
+
+[Dated every-section task](../reviews/contributor-credits-2026-10-27.md): user-derived hypothesis caregiver must identify AI contribution, publisher, firsthand/review limits and return to activity. Six applicable dimensions12/12, seven activity-execution dimensions N/A with reasons in packet; no before-profile score, real-parent or SEO outcome. Local138 rendered credit cases, six320/root32 routes and keyboard round trip pass; independent review/release pending.
+
 ## 2026-10-27 - KAL-IMP-037 Magnet Hunt Decline And Switch
 
 [Dated every-section source/implementation task](../reviews/magnet-hunt-trust-correction-2026-10-27.md): `RESEARCH_HYPOTHESIS` caregiver of about-four-year-old with unspecified magnet/younger reach or divided attention must decline before any action and find a maintained non-magnet start. Live direct card noindex/self-canonical/first decline/no steps, three hubs no longer offer Magnet Hunt, library finder marks it paused, Paper Bridge Enter/Back and no-JS work; no-prep and preschool chooser 320/root32 headings fit after narrow caps. All13 current decline-and-switch `EDITORIAL_JUDGMENT` proxy21/26, N/A none. October25 runnable-magnet7/26 is not a comparable before score. Root32 alternative and linked adult check require scrolling; screen reader, real touch/zoom, household magnet, parent/child and physical safety outcomes untested. Descartes independent PASS and exact-SHA Pages/live verification succeeded at `745e9b1`; no real-world task success is inferred.

@@ -4,6 +4,14 @@ This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
 
+## 2026-10-27 - KAL-IMP-038 Contributor Accountability
+
+- Decision/persona: [role/implementation packet](../reviews/contributor-credits-2026-10-27.md) applies the user's transparency request to69 existing pages and two support pages. Hypothesized mobile caregiver wants who contributed, AI role, publisher and firsthand/review limits before returning to the activity.
+- Hypothesis/result: compact linked credit and explicit profiles make those outputs available locally;138 desktop/mobile credit cases, six root32 routes and keyboard round trip pass. All13 considered, six applicable12/12 and seven justified N/A. No prior profile score or parent observation is invented.
+- Sources/classes: reviewed September26 FTW contributor records and current Miles profile reopenedOctober27 SOURCE_BACKED to the role pattern; user direction/role choice EDITORIAL_JUDGMENT; byte/browser checks technical MEASURED; comprehension, trust, physical/family and SEO effects UNKNOWN.
+- Confidence/lesson: high in technical disclosure/route/byte preservation, unknown in actual caregiver response. A named contribution must keep AI role and publisher responsibility visible without claiming retroactive sole authorship or firsthand experience.
+- Falsification/measurement: reject missing/duplicate credit, false human/testing inference, broken link or overlay hiding start. Keep old source dates; core activity guidance is conserved except declared schema-type correction. Independent review and exact-SHA production verification remain pending; inspect next real route/role defect, not cadence. November1 weekly due retained.
+
 ## 2026-10-27 - KAL-IMP-037 Magnet Hunt Trust Correction
 
 - **Decision/persona:** [Same-route source and implementation review](../reviews/magnet-hunt-trust-correction-2026-10-27.md) withdraws a runnable Magnet Hunt from the direct card and three hubs, keeps an honest paused library/direct route, and offers Paper Bridge as a checked non-magnet alternative. `RESEARCH_HYPOTHESIS`: caregiver of about-four-year-old with unspecified magnet, younger-child reach or divided attention must decline before action and find a maintained start without another broad search. Desktop/mobile/root32/keyboard/no-JS stress is technical, not observed family use.
