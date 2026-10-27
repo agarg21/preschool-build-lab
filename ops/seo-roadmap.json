@@ -6,6 +6,26 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-053",
+      "title": "Discover a source-qualified paper-bag puppet parent job",
+      "kind": "create-imagine-discovery",
+      "status": "reviewed_release_ready",
+      "registered_on": "2026-10-27",
+      "base_commit": "68660df467fe1c85c9bc179879675efdb1fb76c0",
+      "exact_paths": ["seo/paper-bag-puppet-discovery-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_class": ["MEASURED", "TOOL_ESTIMATE", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Hypothesis: a preschool caregiver needs a simple puppet-making start and first scene without an adult-designed template or another broad search.",
+      "hypothesis": "Current questions/search and maintained sources may qualify a distinct preschool paper-bag puppet job outside existing building/game owners.",
+      "acceptance": "Inspect3-5 current public caregiver questions, one live exact query family and result bodies, primary craft/play/material guidance, current owners, frozen task/secondary stress and every-section/all13 applicability; one build/upgrade/preserve/defer/reject with exact gates.",
+      "qa_plan": "Full native tests, GSC validation, parsed roadmap/unique IDs, local references, exact7 scope and source/privacy/claim checks; different independent read-only PASS before docs-only reviewed push.",
+      "invariants": "No site/generator/data edits, new URL, paid batch, products, indexing, family/physical/outcome claim, automation or Control Room access; November1 weekly retained.",
+      "reconsider_if": "No exact supported job/demand/incremental utility, clean existing owner fit, unsupported material/stop/role, contrary source or reviewer P0-P2; do not manufacture a guide.",
+      "measurement_boundary": "Current qualitative source/search work, not market prevalence, exact US volume, achievable rank, physical suitability or family outcomes. Keep old broad estimates dated and exact metrics UNKNOWN if absent.",
+      "decision": "DEFER new puppet URL: exact demand/incremental output unresolved; no-printer plus first-scene novelty hypothesis rejected. No implementation promoted.",
+      "review": "Kierkegaard independent cycle-one PASS/no P0-P3. Native158/GSC99/118IDs/exact7/243refs/privacy/whitespace pass; reviewer157 nonmutating tests and source/question/score/owner checks.",
+      "next_action": "Docs-only push/alignment, then separately register independent-hub/CupTower adult-role/default source/live audit; no automatic repair."
+    },
+    {
       "id": "KAL-IMP-039",
       "title": "Align sock-roll first start across existing owners",
       "kind": "existing-owner-implementation",

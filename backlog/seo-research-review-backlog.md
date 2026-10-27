@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October27 Create/Imagine Puppet Decision
+
+`KAL-RES-053` [current five-question/query/body discovery](../seo/paper-bag-puppet-discovery-2026-10-27.md) DEFERS a new paper-bag puppet URL: exact material demand and incremental output not established; simple drawn puppet/first-scene/non-performing routes already exist. No existing KAL puppet owner, but absence is not demand. Do not reopen without a named new constrained demand/output/material gate. Next separate read-only independent-hub -> Cup Tower adult-role/default audit of a local source mismatch; no automatic repair or broad hub rewrite. Review/release pending, no site change; November1 retained.
+
 ## October27 Sock-Roll Owner Handoff
 
 Completed research release1c4497d, Helmholtz independent PASS/no P0-P3, native153/GSC99/exact7 pass and clean0/0 after push. Build is separately registered next; no site delivery in this research action.

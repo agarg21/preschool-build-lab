@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-053 Puppet Discovery
+
+- Decision/persona: [dated discovery](../seo/paper-bag-puppet-discovery-2026-10-27.md) DEFERS a new indexable guide. Source-grounded caregiver of about-five-year-old with limited craft confidence needs orientation/adult role/first exchange, secondary non-performing or no-hand-in-bag option. Four lenses; five current questions inspected, only two clearly preschool-focus, none exact puppet request.
+- Hypothesis/result: no-printer craft plus a first scene is not demonstrated incremental utility; RCN already supports simple drawn bag play and an inspected live publisher covers flap/scene/participation/rescue. Exact material demand UNKNOWN, broad July estimates not transferred. Evidence-completeness desk14/24,12 applicable/mobile N/A; not a live or family score. No page/build promoted.
+- Sources/classes: October27 question bodies/RCN/arts academy/CSP inspection SOURCE_BACKED within limits; old Semrush TOOL_ESTIMATE, repository/GSC technically MEASURED; persona RESEARCH_HYPOTHESIS and decision/score EDITORIAL_JUDGMENT. Physical suitability, timing/mess, enjoyment, learning, safety and SEO effects UNKNOWN. Access failures and uninspected visuals are explicit in artifact.
+- Confidence/lesson: high in accessed duplication/owner absence, moderate in deferral. A new lane and empty inventory do not make a generic craft plus scene distinctive; optional simplicity and non-performance are already live answers.
+- Next falsification/measurement boundary: reopen only on exact constrained demand plus named unserved output and material/role/stop reconciliation, not cadence. Current owner check surfaced local independent-hub/Cup Tower adult-role/default mismatch; separately register source/live handoff audit before repair. GSC99 overlapping453/5 vs481/6 cannot establish puppet demand or site effect. Native/independent review/release pending; November1 retained.
+
 ## 2026-10-27 - KAL-IMP-039 Consistent Sock-Roll Start
 
 - Decision/persona: [same-task implementation packet](../reviews/sock-roll-first-start-repair-2026-10-27.md) applies reviewed RES052 to existing card/four entry pages. Preschool caregiver needs one floor-roll default and adult setup/rescue/stop; reach/interruption/root32 are stresses, not observed families.
