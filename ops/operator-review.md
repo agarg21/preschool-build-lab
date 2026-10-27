@@ -1,5 +1,11 @@
 # Operator Review
 
+## October27 - KAL-IMP-050 Water Drop Tilt (PASS / release pending)
+
+Faraday01a17f7b-16e2-7713-a885-b7cf7926eb68 fresh different independent full17 cycle-one PASS/no P0-P3;196nonmutating/actual3renderers/fiveoutputs-94site-35canonical-35library-sixscience peers/PAGES conserved/JSON-privacy-whitespace-GSC100-143IDs-334refs/73HTML-1001refs-77fragments-8LD-67URLs/12modes-6keyboardBack-4touch-3outgoing-eight disclosure cycles-finder1-2-zero-Clear36-three noJS/parentfit-wordfit/current5bodies-visual limits/four lenses-everysection-all13 independently pass. No page runtime errors/existing favicon404 only; frozen17/HEAD intact/reviewer closed/Master197-twice distinct. Fresh exact reviewed main push/exact-SHA production next.
+
+Exact17 at39a13c1, amended before stale finder fixture edit only. [Packet](../reviews/water-drop-first-start-repair-2026-10-27.md) applies reviewed RES067 three-owner supported one-drop tilt/explicit grips/watch/result/earlycontrol/cleanup/source-limits. Native197/actual3renderers/twice5cddd64d/exact5outputs/94site-35canonical-35library-sixscience peers/PAGES conserved/parse pass.12modes/6keyboardBack/4touch/3outgoing/finder-Space-expanded2sources/3noJS/wordfit/viewed390-root32/four lenses/everysection/all13 editorial25/26 pass; full17 structured/privacy/different reviewer/exact-SHA production pending, third/final/no fourth.
+
 ## October27 - KAL-RES-067 Water Drop First Start (PASS / released)
 
 COMPLETED learned-only4b240936b43967a3dee4ff27fa4d9da49ce238b6: fresh completed fetch0/0/empty outgoing/exact reviewed7/private scan/native193/JSON/whitespace/docs-only main push/postpush fresh fetch clean0/0 pass. Euler full7 PASS/GSC100/142IDs/319refs/reviewer closed; no site/Pages. Completed2/factual closeout before separate supported repair as third/final if original guard admits.

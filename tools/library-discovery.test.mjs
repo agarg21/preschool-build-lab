@@ -60,8 +60,8 @@ test("literal matching, empty state, and clear work without changing the card so
 
   query.value = "  PAPER   tape  ";
   listeners.input();
-  assert.equal(count.textContent, "1 of 36 activity cards");
-  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/paper-chain-test.html"]);
+  assert.equal(count.textContent, "2 of 36 activity cards");
+  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/paper-chain-test.html", "cards/water-drop-race.html"]);
   assert.equal(empty.hidden, true);
   assert.equal(clear.disabled, false);
 

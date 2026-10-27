@@ -793,6 +793,41 @@ th {
   margin: 8px 0 0;
 }
 
+.drop-tilt-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.drop-tilt-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.drop-tilt-card .step-tile {
+  min-height: 0;
+}
+
+.drop-tilt-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.drop-tilt-card .drop-tilt-materials,
+.drop-tilt-card .drop-tilt-readiness {
+  line-height: 1.5;
+}
+
+.drop-tilt-card .drop-tilt-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.drop-tilt-card .drop-tilt-readiness p {
+  margin: 8px 0 0;
+}
+
 .color-mix-card {
   max-width: 720px;
   margin: 0 auto;

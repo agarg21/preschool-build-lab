@@ -546,16 +546,30 @@ ACTIVITIES = {
         "parent": "Use a large ball and avoid marbles.",
     },
     "water-drop-race": {
-        "title": "Water Drop Race",
+        "title": "Water Drop Tilt",
         "url": "../cards/water-drop-race.html",
         "ages": "4-6",
-        "time": "5 min",
-        "mess": "medium",
-        "help": "medium",
-        "materials": "wax paper, water drops, straw",
-        "best_for": "surface tension, gentle breath control, observation",
-        "steps": ["Put drops on wax paper.", "Blow gently.", "Race two drops.", "Try a bigger drop."],
-        "parent": "Use gentle blowing and keep water away from electronics.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Check grip and readiness",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult steadies the tray",
+        "materials": "1 shallow nonbreakable rimmed tray, 1 wax-paper piece, owned tape, 1 adult dropper, 1 small water cup, plain unheated water, 1 towel",
+        "best_for": "noticing whether one water drop moves when a supported tray tilts",
+        "readiness_groups": [
+            ("Materials", "Adult checks intact tray and dropper and the owned tape's labels. Adult handles tape, dropper, cup and spares; keep them out of children's reach. No straw, blowing, dye, toothpick or tasting."),
+            ("Adult and space", "Use a stable level table away from edges, electronics and walking routes. Adult stays beside every reachable child and steadies the far rim throughout. Child holds the near rim with both hands; the far edge stays on the table."),
+            ("Fit or skip", "Try when the child can make a small supported move with help and follow a stop cue. Watching or pointing while the adult tilts is optional; adult holds both rims for this route. Skip if mouthing, grip, paper attachment, drop visibility or attention does not fit."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab."),
+        ],
+        "stop": "Lower the tray flat and end if paper loosens, the whole tray lifts off the table, grip slips, water escapes, a child reaches for tools or mouths materials, anyone is uncomfortable or attention shifts.",
+        "adult_setup": "Fit a wax-paper piece flat inside the dry tray's rim. Adult tapes its dry edges down and checks it stays attached. Use the dropper to place one plain water drop near the middle. Skip if it soaks in or no bead is visible. Put the cup, dropper and spare materials out of reach, with the towel ready. Check adult and child can hold the named rims while one edge stays supported; otherwise watch only or skip.",
+        "steps": ["Find the drop. Adult steadies the far rim; hold the near rim with both hands, or watch.", "With adult help, lift the near edge a little while the far edge stays on the table. Then lower it flat.", "Say or point: moved, stayed or unclear. If it moved, try one more small tilt or finish. Otherwise end; this is not a timed race."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If the drop stays put or movement is unclear, flatten the tray and end. Do not add more water or bring back mouth tools to force a result. Adult immediately empties the tray and water cup at a sink out of children's reach, collects the paper and tape, dries the tray and work area, and stores the tray, dropper and supplies. Leave no accessible standing water. Duration and mess have not been measured.",
+        "sources": [("Science World: water drops and tilt alternative", "https://www.scienceworld.ca/resource/water-drop-races/"), ("PBS: wax paper on a tray and tilting", "https://www.pbs.org/parents/crafts-and-experiments/experiment-with-water-drops"), ("Boston Children's Museum: paper support, dropper and cleanup", "https://resourcehub.bostonchildrensmuseum.org/resources/squeeze-it")],
+        "source_note": "Sources checked October27,2026. Science World and PBS explicitly offer tilting; Boston describes taped wax paper, dropper use, supervision and emptying water. The one-drop secured shallow-tray reduction, plain water, adult-only tools, hand placement, supported edge, fit/stop and rescue are Kid Activity Lab editorial adaptations, not a tested setup. Source educator-testing, age labels, photos and timing do not validate this arrangement or child fit. Owned material suitability, adhesion, grip, visibility, drop motion, hygiene, family understanding, enjoyment, learning and safety are unknown. No measured timing, breath training, clinical rule, product recommendation or safety assurance.",
     },
 }
 
@@ -578,6 +592,9 @@ ACTIVITIES["ice-melt-rescue"]["start_cue"] = " ".join(
 ACTIVITIES["color-mixing-cups"]["start_cue"] = " ".join(
     text for _, text in ACTIVITIES["color-mixing-cups"]["readiness_groups"]
 ) + " Stop: " + ACTIVITIES["color-mixing-cups"]["stop"]
+ACTIVITIES["water-drop-race"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["water-drop-race"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["water-drop-race"]["stop"]
 
 
 PAGES = [

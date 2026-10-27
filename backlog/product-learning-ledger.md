@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-IMP-050 Water Drop Tilt Repair
+
+- Review: Faraday fresh different full17 cycle-one PASS/no P0-P3;196nonmutating/actual3renderers/conservation/GSC100-143IDs-334refs/parse-privacy/12modes-routes-touch-disclosures-finder1-2-zero-Clear36-three noJS/wordfit/current5bodies-visual limits/four lenses/everysection/all13 independently pass. Existing favicon404 only/no page runtime errors; freeze intact/reviewer closed/Master197-twice distinct. Fresh exact reviewed main push/exact-SHA production next.
+
+- Decision/persona: [repair](../reviews/water-drop-first-start-repair-2026-10-27.md) applies reviewed RES067 to three owners/sameURL; complete securedwax tray/dropper/cup/water/towel set, explicit adultfar-childnear grip/supportededge/watch route/earlyfit-stop/moved-stayed-unclear/end-empty-dry/untested-unmeasured. No mouthtool, timer or newguide.
+- Hypothesis/result: explicit support/placement/grips/result clears measured generic blowing/racing start without claiming actual motion. Native197/twice5cddd64d/exact5outputs/94site-35canonical-35library-sixscience peers/PAGES conserved/parse pass. Local12modes/6keyboardBack/4touch/3outgoing/finder-Space-expanded2sources/3noJS/wordfit/viewed390-root32; all13 editorial6->25/26/no N/A/sensory1. Scope amended to17 before stale PAPER tape finder expectation update, matcher unchanged. Full17 structured/privacy/different review/exact-SHA production pending.
+- Sources/classes: October27 current ScienceWorld/PBS/Boston plus retained CMOM/3pagePDF-photo SOURCE_BACKED within limits; exact one-drop tray/grips/control/recovery EDITORIAL_JUDGMENT, task RESEARCH_HYPOTHESIS, repo/browser MEASURED. Owned labels/adhesion/grip/visibility/drop motion/hygiene/family/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high in inspected outputs, moderate proxy utility. A source-supported alternative can preserve child action while making tool control and a non-result explicit; institution testing and photos do not validate our physical setup. Reopen source/label/grip/visibility/control contradiction, clinical dependency, criticalclutter/P0-P2/peer drift/divergence. No family/physical/AT/realzoom/hardware/breath/safety outcome; third/final/no fourth/November1 retained.
+
 ## 2026-10-27 - KAL-RES-067 Water Drop First Start
 
 - Completion: reviewed4b240936b43967a3dee4ff27fa4d9da49ce238b6/Euler full7 PASS/native193/GSC100/142IDs/319refs/exact7/privacy-whitespace. Docs-only main push/postpush fresh fetch clean0/0/no site-Pages/reviewer closed. Completed2; factual closeout/alignment then separately registered supported repair as third/final if original guard admits, November1 retained.
