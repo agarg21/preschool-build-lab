@@ -1,5 +1,12 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-059 Paper Roll Play
+
+- Decision/persona: [source/live audit](../reviews/paper-roll-play-source-audit-2026-10-27.md) IMPROVES existing card/two actual incoming owners separately. Caregiver needs one material/orientation/push/reset/stay-or-decline task; younger reach/divided attention/no video/narrow text secondary.
+- Hypothesis/result: three live200 bytes match;12 modes confirm late card check/missing default, two incoming root32 widths536/397. Two keyboardBack/noJS checks retain route but not runnable task. Same13 editorial4/26/no N/A/critical override. EIRG current empty rolling source supports reduced empty-roll default, not unspecified small-toy drop/tunnel.
+- Sources/classes: EIRG current body/rendered text (no activity visuals), AAP current body, CPSC printedp5 rendered/viewed andp5-6 text SOURCE_BACKED within general limits. Creator fetch throttled/not watched. DOM/Git/native/GSC MEASURED; lenses RESEARCH_HYPOTHESIS, floor/script/controls/score EDITORIAL_JUDGMENT; physical/family/hygiene/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high in missing-task/late-check/overflow, moderate in proposed utility. Manual incoming owners matter even without generated PAGES ownership; do not confuse review-only Activity Set CSV with live card or route absent ACTIVITIES through quick_page. Reopen on source/material conflict, wrong renderer, peer/library churn or task regression. Native/review/docs release pending; separate exact repair next, November1 retained.
+
 ## 2026-10-27 - KAL-RES-058 Torn-Paper Collage
 
 - Completion: reviewed1916dea pushed after fresh0/0/empty outgoing/exact7 staged/source-privacy/whitespace; Nietzsche independent full7 PASS/native168/GSC100/126IDs/268refs, postpush clean0/0. Learned-only/no site/Pages. Factual closeout then separate Paper Roll Play source/live audit, completed1 this run, not a collage build.

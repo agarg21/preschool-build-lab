@@ -6,6 +6,26 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-059",
+      "title": "Audit legacy Paper Roll Play source and first start",
+      "kind": "existing-owner-source-live-audit",
+      "status": "in_progress",
+      "decision": "IMPROVE card/two actual incoming owners separately: three live byte matches/12 modes show missing default/late checks, incoming root32 widths536/397. Current EIRG empty rolling plus general AAP/CPSC guidance supports bounded editorial empty-roll push/watch/reset; no activity source images/creator playback/physical outcomes. Same13 baseline4/26/critical override.",
+      "scope_clarification": "Actual manual incoming owners materials/cardboard.html and collections/no-cut-preschool-activities.html found despite no generated PAGES activity/library owner. Audit card plus both incoming surfaces; no no-inbound claim. Empty-tube rolling Northwestern EIRG is a source lead, not yet qualified/clinical recommendation.",
+      "registered_on": "2026-10-27",
+      "base_commit": "429087f",
+      "exact_paths": ["reviews/paper-roll-play-source-audit-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "Reviewed RES058 owner check distinguishes live Paper Roll Play (small toys/drop/tunnel, clean-roll note, assumed timing/mess/video adaptation) from separate review-only Activity Set CSV. No current hub/library ownership is intentionally preserved, not a defect inferred here.",
+      "evidence_class": ["MEASURED", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Caregiver must choose materials/help-or-decline and understand one first action, supervision, rescue/stop/cleanup without unspecified small-toy or video-dependent steps.",
+      "hypothesis": "Current source/live task evidence may qualify one bounded current-owner improvement or withdrawal, or support preserve/defer; no new default or safety determination presumed.",
+      "acceptance": "Reconcile creator access/current maintained primary material-mechanism sources and visuals if promoting runnable default; actual owner/inbound inventory/livebytes/four traced lenses/everysection/all13 desktop-mobile-root32-keyboard-noJS task; one supported decision and exact source/role/control gates.",
+      "qa_plan": "Native168/GSC100/changedJSON-roadmap/localrefs/exact7/source-privacy-claims/whitespace; different independent read-only review then fresh no-divergence exact docs-only push/alignment. Site/code/config/data unchanged; any repair separately registered promptly within sprint guard.",
+      "observation_window": "Technical/source audit only, no physical/family/timing/mess/safety/learning/SEO result. Same17:03:40Z/completed1/deadline17:48:40Z; November1/October30 retained.",
+      "reconsider_if": "Unsupported source substitution, material/visual/mechanism conflict, no observed task failure, no current owner fit, private-source spill, P0-P2 or divergence.",
+      "next_action": "Execute source/live first-start audit and decide PRESERVE/IMPROVE/DEFER/PAUSE; only promote an exact separately registered change after reviewed research release."
+    },
+    {
       "id": "KAL-RES-058",
       "title": "Qualify torn-paper collage first-start decision",
       "kind": "research-first-create-qualification",
