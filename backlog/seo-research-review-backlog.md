@@ -2,6 +2,8 @@
 
 ## October27 Cup-Tower Adult-Role Handoff
 
+Completed research release8428f9e after Goodall final independent PASS/no findings, native158/GSC99/exact7 checks and clean alignment. No site change/Pages wait; separate implementation next.
+
 `KAL-RES-054` [three-owner source/live audit](../reviews/cup-tower-adult-role-audit-2026-10-27.md) qualifies one separate bounded repair: independent-hub Cup low-help/knockdown differs from maintained adult-guided two-cup card/guide; hub has late material check and no stop, card/guide explicit stops follow steps, hub root32 overflows536/320. All13 editorial12/26/critical override, three live200 bytes/keyboard route verified. Use page-specific Cup override, early card/guide controls and scoped fit; preserve seven peers/global definitions/image/URLs. No new guide/product/physical or family effect. Native/review/docs-only release pending; November1 retained.
 
 ## October27 Create/Imagine Puppet Decision
