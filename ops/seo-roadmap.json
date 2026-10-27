@@ -9,7 +9,12 @@
       "id": "KAL-IMP-040",
       "title": "Align Cup Tower adult-role and before-action controls",
       "kind": "existing-owner-implementation",
-      "status": "in_progress",
+      "status": "completed",
+      "completed_on": "2026-10-27",
+      "release_commit": "225ffbbe967ead75df9e9877c4986fa6abe97543",
+      "pages_run": "https://github.com/agarg21/preschool-build-lab/actions/runs/40523417294",
+      "reviewer": "Averroes independent read-only cycle-two PASS/no remaining findings; missing-marker test P3 closed, negative mutation independently caught.",
+      "completion_evidence": "Native162/GSC99/JSON120IDs/idempotent site hash6a7ac0fc/exact18/privacy/links/peer conservation; exact-SHA Pages success/no marker; all5 live200bytes and12 production modes/keyboardBack/noJS/direct-fragments pass, mobile inspected. Initial DOMContentLoaded style race corrected in harness then one successful full-load rerun. No family/physical/SEO outcome.",
       "registered_on": "2026-10-27",
       "base_commit": "11da3e5",
       "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/cards/cup-tower.html", "site/collections/independent-activities-for-preschoolers.html", "site/articles/paper-cup-tower-kids.html", "site/styles.css", "site/sitemap.xml", "tools/cup-tower-adult-role.test.mjs", "tools/paper-cup-tower-guide.test.mjs", "reviews/cup-tower-adult-role-repair-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -21,7 +26,7 @@
       "qa_plan": "Three generators twice/exact18 scope; focused/full native, parsed JSON/XML/all local links-fragments/privacy, peer conservation, desktop1280/390/320/root32/keyboardBack/noJS/errors/fit/accessibility/sourcevisual/direct fragment; independent PASS then fresh exact reviewed push/exact-SHA Pages/live bytes/task/alignment.",
       "observation_window": "Immediate technical production checks; no family/physical/SEO effect claim. November1 weekly and unrelated windows unchanged.",
       "reconsider_if": "Contrary source, unexpected generated file, shared default/peer churn, task or fit failure, P0-P2, remote divergence or ambiguous production regression.",
-      "next_action": "Averroes cycle-two PASS/no remaining findings;10focused/negative mutation/exact18/unchanged site-generator blobs/receipts pass independently. Operator full162/fresh0/0 fetch/empty outgoing/site hash unchanged. Exact reviewed stage/privacy then push/exact-SHA Pages/live bytes/task/alignment. No fourth action."
+      "next_action": "Factual eight-record closeout/QA/push/final alignment; completed3 at actual run-start14:02:39Z, no fourth. Next eligible heartbeat inspect delivery/fresh Git-GSC then separately register bounded Play-lane current caregiver-question/live-query discovery outside standard-deck variants and closed qualifications absent named new evidence. No assumed new page; November1 weekly retained."
     },
     {
       "id": "KAL-RES-054",

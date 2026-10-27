@@ -3,6 +3,7 @@
 ## October27 Cup Adult-Role Repair
 
 `KAL-IMP-040` [bounded three-owner repair](../reviews/cup-tower-adult-role-repair-2026-10-27.md): independent hub now marks Cup Tower adult-guided with matching two-cup default, early full guide and checks; card/guide controls precede action, narrow typography fits. Seven peers/global definitions/library/image preserved, no new URL. Native162/idempotence/links/twelve viewport modes/keyboardBack/noJS/direct-fragment pass, scoped root32 anchor fixed. Same13 editorial12->24/26, no family evidence. Different reviewer and exact-SHA production release pending; third/final transaction this run.
+Released225ffbb after Averroes final PASS/no findings; exact-SHA Pages40523417294 success/no marker, all5 live bytes/12 production modes/keyboardBack/noJS/direct fragments pass, mobile inspected. First production DOMContentLoaded style race resolved by full-load harness and one successful full rerun. Factual closeout/final alignment follows. Next hourly eligible action is separate Play-lane current-question/live-query discovery, not a fourth transaction now or an assumed new page.
 
 ## October27 Sock-Roll First Start
 

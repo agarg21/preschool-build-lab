@@ -125,6 +125,27 @@ accurate review receipts confirmed read-only. Operator full162 rerun passes.
 Fresh fetch0/0 and empty outgoing range; next exact reviewed stage/push and
 exact-SHA production gate. Source/privacy check: no copied caregiver details,
 private credentials, new outcome claims or out-of-scope files.
+
+## Production Receipt
+
+**COMPLETED** reviewed commit225ffbbe967ead75df9e9877c4986fa6abe97543
+pushed main; [exact-SHA Pages40523417294](https://github.com/agarg21/preschool-build-lab/actions/runs/40523417294)
+completed successfully. No workflow release marker exists. All five affected
+files returned200 and exact local bytes, including sitemap/style. Production
+Chrome12 owner/viewport modes pass check-before-action/text-document fit,
+canonical/H1/image/error checks, plus two keyboard Enter/Back, two noJS320
+guide routes and two direct-fragment modes. Live mobile guide image/screenshot
+inspected. First production harness used DOMContentLoaded and saw partially
+styled root32 hub width495; full-load check showed320 and the one corrected
+full12 rerun passed. This was a harness timing failure, not a code rollback
+or a physical/family/SEO result. Peer conservation and unknown outcomes remain.
+
+Fresh release fetch aligned0/0; factual eight-record closeout/push and final
+alignment follow. Actual run-start14:02:39Z, completed3; guard refuses further
+selection. No fourth transaction. Next eligible heartbeat verifies this outcome
+and fresh Git/GSC, then separately registers bounded Play-lane caregiver-question
+and live-query discovery outside standard-deck variants. No repeated completed
+qualification absent a named new gap, no assumed build. November1 retained.
 Fresh fetch/no divergence, complete outgoing range/exact stage/privacy review,
 focused main push, exact-SHA Pages success, five live byte comparisons and
 production task repeat are still required. Workflow has no release marker.
