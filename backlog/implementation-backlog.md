@@ -2,6 +2,8 @@
 
 ## October27 Helicopter Responsive Repair
 
+Releaseda884cc0 after Ohm independent full11 PASS/no findings/native168; exact-SHA Pages40540927643 success/no marker. One affected live guide10452bytes and unchanged map/styles match; production four modes/twelve keyboard+twelve freshhash/six emulated-touch arrivals/Back/details/noJS/five linked routes/fragments pass, enlarged screenshots inspected. No retry/regression/physical/family/SEO result; release fetch clean0/0. Completed2 this run; next eligible heartbeat qualifies torn-paper collage first-start only after current sensing/registration, no assumed build or repeated closed qualification.
+
 `KAL-IMP-042` [bounded repair](../reviews/helicopter-responsive-repair-2026-10-27.md) gives existing guide scoped narrow H1/H2 caps and a sufficiently specific relative section offset.320/root32 doc333->320, preparation/drop/rescue arrival clears142.83px header; all content/map/metadata/credits/source dates/URLs and peer outputs unchanged. Native168/twice-idempotent generators/exactone-site-output/links/four modes/twelve keyboard+twelve direct-hash/six emulated-touch/noJS/Back/summary pass, same13 editorial23->24/26/no N/A. Different independent full11 review and exact-SHA Pages/live task/alignment pending; no new airplane/recipe or family/physical/SEO claim, November1 retained.
 
 ## October27 DUPLO First-Rule Repair

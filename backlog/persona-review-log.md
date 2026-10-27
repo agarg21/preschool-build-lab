@@ -2,6 +2,8 @@
 
 ## October27 - KAL-IMP-042 Helicopter Responsive Arrival
 
+COMPLETED: Ohm independent full11 PASS/no P0-P3; revieweda884cc0/exact-SHA Pages40540927643 success/no marker, one affected live guide and unchanged map/styles byte-match. Same production four modes/twelve keyboard+twelve directhash/six touch-emulation arrivals/Back/details/noJS/linked routes pass, enlarged screenshots inspected. All13 remains24/26 editorial proxy; no actualzoom/AT/device/physical/family or SEO outcome, no retry/regression.
+
 [Same-task every-section packet](../reviews/helicopter-responsive-repair-2026-10-27.md): source-traced caregiver adult cut/fold/drop/decline task, four lenses and320/root32 stress. Same13 editorial23->24/26/no N/A; baseline high total does not excuse clipped preparation/start under sticky header. Local four geometry/twelve keyboard/twelve fresh-hash/six emulated-touch arrivals, libraryBack/summary/noJS pass; title/instruction/source/map/credit bytes conserved outside CSS. Native168/idempotence/all-local-targets pass; different review/exact-SHA production gates pending. Physical/family/actualzoom/AT/real-device outcomes UNKNOWN.
 
 ## October27 - KAL-IMP-041 DUPLO First Rule

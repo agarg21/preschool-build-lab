@@ -2,6 +2,8 @@
 
 ## 2026-10-27 - KAL-IMP-042 Helicopter Text Fit And Arrival
 
+- Completion: Ohm independent full11 PASS/no P0-P3; revieweda884cc0bea9790ac88ac04a23212b8f7e9be0060 pushed, exact-SHA Pages40540927643 success/no marker. Live guide200/10452bytes plus unchanged map/styles match; four production modes/twelve keyboard+twelve freshhash/six touch-emulation arrivals/Back/details/noJS/five linked routes/fragments pass, enlarged screenshots inspected. No retry/regression/outcome claim; release fetch clean0/0. Factual closeout/final alignment follows; completed2/end run, next torn-paper collage qualification only after fresh sensing/registration, not an authorized build.
+
 - Decision/persona: [same-task repair](../reviews/helicopter-responsive-repair-2026-10-27.md) fixes existing helicopter H1/H2 clipping and selected-start obstruction at320/root32, preserving every non-style content/map/metadata/source/credit byte. Caregiver paper/cut/fold/drop task/four traced lenses; root32 an editorial stress, not an observed family.
 - Hypothesis/result: scoped caps and sufficiently specific relative section offset change doc333->320 and heading~104 under142.83header to223.77-224.38 below it. Four geometry modes/twelve keyboard/twelve fresh-hash/six emulated-touch arrivals, Back/summary/noJS pass. Same13 editorial23->24/26/no N/A; critical technical arrival failure clears, not physical or family comprehension.
 - Sources/classes: current NASA body/dated RES014-IMP013 lineage SOURCE_BACKED; local unchanged map viewed. DOM/tests/Git/GSC MEASURED; task RESEARCH_HYPOTHESIS, CSS/score EDITORIAL_JUDGMENT. No new source PDF/video audit or recipe; family/flight/time/mess/learning/safety/SEO results UNKNOWN.
