@@ -156,12 +156,14 @@ test("six starts expose setup, rescue, stop, and local parent checks", () => {
   assert.ok(movement.indexOf("Stop:") < movement.indexOf("Kid idea:"));
   assert.ok(movement.indexOf("Parent check:") < movement.indexOf('<ol class="card-steps">'));
   for (const [slug, body] of starts.map((match) => [match[1], match[2]])) {
-    if (["paper-puddle-path", "sock-target-roll"].includes(slug)) continue;
+    if (["paper-puddle-path", "sock-target-roll", "blanket-toy-crossing"].includes(slug)) continue;
     assert.ok(body.indexOf('<ol class="card-steps">') < body.indexOf("Stop:"), `${slug} order changed`);
   }
   const blanket = starts.find((match) => match[1] === "blanket-toy-crossing")?.[2] ?? "";
   assert.match(blanket, /the route is for the toy, not for feet/);
-  assert.match(blanket, /Move the toy along or between the supports/);
+  assert.match(blanket, /Carry the toy in your hand over the tiny bridge and back/);
+  assert.ok(blanket.indexOf("Stop:") >= 0 && blanket.indexOf("Stop:") < blanket.indexOf("Kid idea:"));
+  assert.ok(blanket.indexOf("Parent check:") >= 0 && blanket.indexOf("Parent check:") < blanket.indexOf('<ol class="card-steps">'));
   assert.doesNotMatch(blanket, /step between the supports/i);
 });
 

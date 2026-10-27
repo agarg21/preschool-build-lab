@@ -9,6 +9,9 @@ BASE_URL = "https://kidactivitylab.com"
 NON_CONTENT_HTML = {"googled495b3fc6f0765f8.html"}
 LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"}
 CONTENT_LASTMODS = {
+    "cards/blanket-river.html": "2026-10-27",
+    "ages/activities-for-5-year-olds-at-home.html": "2026-10-27",
+    "collections/building-activities-for-4-year-olds.html": "2026-10-27",
     "cards/paper-roll-play.html": "2026-10-27",
     "collections/no-cut-preschool-activities.html": "2026-10-27",
     "cards/duplo-games.html": "2026-10-27",

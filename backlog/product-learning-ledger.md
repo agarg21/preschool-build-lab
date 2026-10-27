@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-IMP-044 Blanket River Toy-Only Repair
+
+- Review: Heisenberg fresh independent read-only full19 cycle-one PASS/no P0-P3;175 nonmutating/actual renderer-credit/conservation/20modes/routes/source bodies-visuals/all13 independently pass. Operator full176/final twiceb5387902/touch8/GSC100 pass. Fresh exact reviewed release/exact-SHA production gate pending; no site change after freeze.
+
+- Decision/persona: [same-task repair](../reviews/blanket-river-role-handoff-repair-2026-10-27.md) aligns five existing owners, no new URL. Caregiver needs toy-not-feet, owned set/fit/stay-or-skip, tiny pretend turn/reset/rescue/clear-away; secondary reach/space/attention/non-fitting span/root32.
+- Hypothesis/result: shared canonical/explicit overrides and early controls remove measured role/order failure without peer churn. Local176 tests/twice-idempotent47cf5a94/exact7 outputs/92 files-20 blocks-35 library peers-35 definitions conserved;20 modes/wordfit/12 keyboardBack/eight hash arrivals/finder/disclosure/five noJS pass. Same13 editorial10->24/26/no N/A, not family success.
+- Sources/classes: reviewed same-day RES061 MSU/SDSU/AAP/current visuals SOURCE_BACKED within limits; Smithsonian historical/rejected. Small default/hand-carried rule/controls/rubric EDITORIAL_JUDGMENT, tasks RESEARCH_HYPOTHESIS, technical QA MEASURED. Physical fit/stability/slip/comprehension/enjoyment/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high for inspected role/order/fit correction, moderate for utility. Shared row alone does not repair maintained override recipes; explicitly align all owners and label material imagery. Reopen conflicting source/material/role, peer drift/task failure/P0-P2/divergence. Full19/different review/exact-SHA production release still required; third/final/no fourth/November1 retained.
+
 ## 2026-10-27 - KAL-RES-061 Blanket River Role Handoff
 
 - Completion: reviewed9acb687/Sartre full7 PASS/native172/GSC100/130IDs/281refs/exact7/privacy/whitespace; fresh docs-only push/postpush clean0/0. No site/Pages, completed2; factual7 closeout then separate bounded five-owner repair if guard admits, no fourth action.

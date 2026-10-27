@@ -264,13 +264,23 @@ ACTIVITIES = {
         "title": "Blanket River",
         "url": "../cards/blanket-river.html",
         "ages": "3-6",
-        "time": "2 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "blanket, blocks",
-        "best_for": "pretend play, indoor movement, bridge building",
-        "steps": ["Lay a blanket.", "Build a bridge.", "Cross the river.", "Move the bridge."],
-        "parent": "No running on blankets.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Check readiness first",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult stays beside setup",
+        "materials": "1 flat blanket, 3 large lightweight blocks (2 low supports and 1 longer span), 1 large lightweight toy",
+        "best_for": "making a tiny pretend crossing for a hand-carried toy, never for feet",
+        "mission": "Help a hand-carried toy cross a tiny pretend river near one blanket edge, not the blanket's full width.",
+        "fit_cue": "Check owned toy and block age/warning labels for every child who can reach them. Use intact large lightweight pieces without loose small parts, magnets or battery parts. Clear a low floor area away from doors and walking routes; the blanket must stay flat. State that the route is for the toy, not for feet. Stay beside every reachable child and keep spares away. Try when the child can place with help and follow a stop cue; watching or pointing is an option. Skip if parts, space or attention do not fit. Research-backed, not family-tested by Kid Activity Lab.",
+        "stop": "Stop for mouthing, throwing, damaged pieces, blanket bunching or slipping, running, climbing, feet on the route, blocked paths, lost adult attention or unwanted collapse.",
+        "adult_setup": "Choose a tiny crossing near one blanket edge, not across its full width. Check two low wide blocks can sit a short gap apart with the longer block resting on both. Do not force a span that does not fit; use a flat toy path instead.",
+        "steps": ["With adult help, place the two low supports and rest the longer block across both.", "Carry the toy in your hand over the tiny bridge and back; keep its weight in your hand, not on the bridge.", "Put the toy back at the start. Repeat the pretend crossing or finish."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If the span does not fit, lay blocks flat as a path for the hand-carried toy; do not add height, widen the gap or use force. Adult may move the toy while the child watches or points. Adult puts away the blanket, blocks and toy, clearing the walking area. Duration and mess have not been measured.",
+        "sources": [("Mississippi State Extension: Block Play", "https://extension.msstate.edu/publications/block-play"), ("SDSU Extension: block bridging", "https://extension.sdstate.edu/playing-blocks"), ("AAP: toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx")],
+        "source_note": "Sources checked October27,2026. Block bridging and pretend props are source-backed. This tiny near-edge blanket story, owned-piece selection, hand-carried toy, adult script, stop and cleanup are Kid Activity Lab editorial adaptations, not a tested setup or load test. Source photos do not show this exact blanket arrangement. Physical fit, stability, blanket slip, family understanding, enjoyment, learning and safety outcomes are unknown. No product recommendation or safety assurance.",
     },
     "sink-or-float-tray": {
         "title": "Sink or Float Tray",
@@ -495,6 +505,11 @@ ACTIVITIES = {
 }
 
 
+ACTIVITIES["blanket-river"]["start_cue"] = (
+    ACTIVITIES["blanket-river"]["fit_cue"] + " Stop: " + ACTIVITIES["blanket-river"]["stop"]
+)
+
+
 PAGES = [
     {
         "path": "ages/activities-for-3-year-olds-at-home.html",
@@ -554,6 +569,7 @@ PAGES = [
     },
     {
         "path": "ages/activities-for-5-year-olds-at-home.html",
+        "head_style": "@media (max-width: 480px) { .hero h1 { font-size: min(2.5rem, 48px); } }",
         "page_type": "age",
         "primary": "activities for 5 year olds at home",
         "title": "Activities for 5 Year Olds at Home | Kid Activity Lab",
@@ -708,16 +724,14 @@ PAGES = [
                 "link_text": "Open nine preschool building choices",
             },
             {
+                **ACTIVITIES["blanket-river"],
                 "slug": "blanket-toy-crossing",
                 "title": "Blanket Toy Crossing",
                 "job": "Pretend with a floor boundary",
-                "mission": "Make a route that lets one large toy travel from one side of a flat blanket to the other.",
-                "materials": "one blanket, large lightweight blocks or firm cushions, one large toy",
-                "adult_role": "Spread the blanket flat in a clear area and state that the route is for the toy, not for feet.",
-                "steps": ["Place one support near each blanket edge.", "Move the toy along or between the supports.", "Move the toy across and back once."],
-                "rescue": "Lay the supports flat as a stepping path for the toy.",
-                "stop": "Stop if the blanket bunches, anyone runs or climbs, or the setup enters a doorway or walkway.",
-                "parent": "Keep the blanket flat, use only stable floor-level supports, and stay close enough to end the setup immediately.",
+                "adult_role": ACTIVITIES["blanket-river"]["adult_setup"],
+                "rescue": ACTIVITIES["blanket-river"]["parent"],
+                "parent": ACTIVITIES["blanket-river"]["fit_cue"],
+                "stop_before_action": True,
                 "url": "../cards/blanket-river.html",
                 "link_text": "Open the base blanket-river card",
             },
@@ -1196,6 +1210,7 @@ PAGES = [
     },
     {
         "path": "collections/building-activities-for-4-year-olds.html",
+        "head_style": "@media (max-width: 480px) { .hero h1 { font-size: min(2.5rem, 43px); } }",
         "page_type": "collection",
         "primary": "building activities for preschoolers",
         "title": "Building Activities for Preschoolers | Kid Activity Lab",
@@ -1213,7 +1228,7 @@ PAGES = [
             "alt": "Illustration of large blocks, paper cups, a paper bridge, a cardboard-tube sculpture, and a blanket path as preschool building material choices.",
             "width": "1672",
             "height": "941",
-            "caption": "Illustrated material routes, not a Kid Activity Lab family-test photo or a product recommendation.",
+            "caption": "Illustrated material routes, not a Kid Activity Lab family-test photo or a product recommendation. The blanket path is a toy-only material prompt, not the three-block start below or a child-bearing route.",
         },
         "chooser_title": "Choose by what is ready and what to build",
         "chooser_label": "Preschool building activity chooser",
@@ -1222,7 +1237,7 @@ PAGES = [
             ("Paper cups", ("Cup Doorway", "#cup-tower"), "Keep the build on the floor and the toy lane short."),
             ("Paper, straws, or two low books", [("Paper Path", "#paper-bridge"), ("Straw Span", "#straw-bridge")], "Set the supports; handle cutting or tape."),
             ("Cardboard tubes and painter tape", ("Tube Sculpture", "#tube-sculpture"), "Prepare short tape pieces and leave the arrangement to the child."),
-            ("Blanket and large blocks", ("Blanket Crossing", "#blanket-river"), "Clear the floor and keep the build for toys, not climbing."),
+            ("Blanket, three large blocks and one large toy", ("Blanket Crossing", "#blanket-river"), "Adult stays beside a tiny toy-only crossing; never for feet."),
         ],
         "support_steps": [
             ("Name the job", "Ask what the structure is for: a home, wall, tower, path, bridge, or sculpture."),
@@ -1331,14 +1346,11 @@ PAGES = [
             "blanket-river": {
                 "slug": "blanket-river",
                 "title": "Blanket Crossing",
-                "job": "Build big on the floor",
-                "materials": "one blanket, large blocks or cushions, one large toy",
-                "mission": "Make a crossing that lets the toy travel from one side of the blanket to the other.",
-                "adult_role": "Spread the blanket flat in a clear area and keep the route for toys rather than feet.",
-                "steps": ["Place supports near each blanket edge.", "Join them with large blocks or a firm cushion.", "Move the toy across the route."],
-                "rescue": "Make a stepping path for the toy instead of one raised crossing.",
-                "stop": "Stop if anyone runs on the blanket, climbs on the build, or the setup blocks a doorway or walkway.",
-                "parent": "Keep the blanket flat, use only stable floor-level supports, and take the route down after play.",
+                "job": "Make a tiny toy crossing",
+                "adult_role": ACTIVITIES["blanket-river"]["adult_setup"],
+                "rescue": ACTIVITIES["blanket-river"]["parent"],
+                "parent": ACTIVITIES["blanket-river"]["fit_cue"],
+                "stop_before_action": True,
             },
         },
         "activities": ["magnetic-tile-house", "magnetic-tile-ideas", "block-tower", "cup-tower", "paper-bridge", "straw-bridge", "tube-sculpture", "wind-tower-test", "blanket-river"],
@@ -1560,10 +1572,21 @@ def building_activity_card(activity):
     if activity["url"]:
         link_text = activity.get("link_text", "Open the base activity card")
         link = f'<a class="small-link" href="{esc(activity["url"])}">{esc(link_text)}</a>'
+    stop_html = f'''
+          <div class="challenge-stop">
+            <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
+            <p><strong>Parent check:</strong> {esc(activity["parent"])}</p>
+          </div>'''
+    early_stop = stop_html if activity.get("stop_before_action") else ""
+    late_stop = "" if early_stop else stop_html
+    source_note = ""
+    if activity["slug"] == "blanket-river":
+        links = "; ".join(f'<a href="{esc(url)}">{esc(label)}</a>' for label, url in activity["sources"])
+        source_note = f'<details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
     return f'''        <article class="seo-activity building-build" id="{esc(activity["slug"])}">
           <div>
             <p class="challenge-label">{esc(activity["job"])}</p>
-            <h2>{esc(activity["title"])}</h2>
+            <h2>{esc(activity["title"])}</h2>{early_stop}
             <p class="challenge-mission"><strong>Kid mission:</strong> {esc(activity["mission"])}</p>
             <div class="source-tags">
               <span class="tag">Editorial preschool route; age 4 included</span>
@@ -1574,12 +1597,8 @@ def building_activity_card(activity):
           <ol class="card-steps">{steps}</ol>
           <div class="challenge-details build-rescue">
             <p><strong>If the build stalls</strong>{esc(activity["rescue"])}</p>
-          </div>
-          <div class="challenge-stop">
-            <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
-            <p><strong>Parent check:</strong> {esc(activity["parent"])}</p>
-          </div>
-          {link}
+          </div>{late_stop}
+          {link}{source_note}
         </article>'''
 
 
@@ -1591,6 +1610,10 @@ def indoor_activity_card(activity):
           </div>'''
     early_stop = f"{stop_html}\n" if activity.get("stop_before_action") else ""
     late_stop = "" if early_stop else f"{stop_html}\n"
+    source_note = ""
+    if activity["slug"] == "blanket-toy-crossing":
+        links = "; ".join(f'<a href="{esc(url)}">{esc(label)}</a>' for label, url in activity["sources"])
+        source_note = f'<details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
     return f'''        <article class="seo-activity indoor-start" id="{esc(activity["slug"])}">
           <div>
             <p class="challenge-label">{esc(activity["job"])}</p>
@@ -1606,7 +1629,7 @@ def indoor_activity_card(activity):
           <div class="challenge-details indoor-rescue">
             <p><strong>If it stalls</strong>{esc(activity["rescue"])}</p>
           </div>
-{late_stop}          <a class="small-link" href="{esc(activity["url"])}">{esc(activity["link_text"])}</a>
+{late_stop}          <a class="small-link" href="{esc(activity["url"])}">{esc(activity["link_text"])}</a>{source_note}
         </article>'''
 
 
@@ -1887,6 +1910,7 @@ def engineering_page_html(page):
 
 def building_page_html(page):
     root = rel_root(page["path"])
+    head_style = f'\n    <style>{page["head_style"]}</style>' if page.get("head_style") else ""
     activity_html = "\n".join(
         building_activity_card(page_activity(page, key))
         for key in page["activities"]
@@ -1924,7 +1948,7 @@ def building_page_html(page):
     <title>{esc(page["title"])}</title>
     <meta name="description" content="{esc(page["description"])}">
     <link rel="canonical" href="{esc(canonical)}">
-    <link rel="stylesheet" href="{root}styles.css?v={CSS_VERSION}">
+    <link rel="stylesheet" href="{root}styles.css?v={CSS_VERSION}">{head_style}
   </head>
   <body>
     <header class="site-header">

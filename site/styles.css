@@ -753,6 +753,31 @@ th {
   font-weight: 850;
 }
 
+.blanket-river-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.blanket-river-card h1 {
+  font-size: min(2rem, 48px);
+  line-height: 1.15;
+}
+
+.blanket-river-card .card-meta,
+.blanket-river-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.blanket-river-card .step-tile {
+  min-height: 0;
+}
+
+.blanket-river-card .step-tile p {
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
 .sink-float-card .card-meta {
   grid-template-columns: repeat(3, minmax(0, 1fr));
   margin: 12px 0;

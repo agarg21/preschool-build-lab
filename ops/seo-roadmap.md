@@ -1,5 +1,11 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP044 Heisenberg fresh different independent full19 PASS/no P0-P3;175 nonmutating/actual renderer-credit/conservation/20modes-12keyboardBack-eight hash arrivals/finder-disclosure-five noJS/all-site parsing/current source bodies-visuals/all13 independently pass. Full176/final twiceb5387902/touch8/GSC100 operator receipts; freeze intact/reviewer closed. Fresh exact reviewed main push/exact-SHA production gates next, count2/no fourth.
+
+IMP044 local176/focused16/twice-idempotent47cf5a94/exact7siteoutputs/92files-20blocks-35library-35canonical peers conserved/all-local-targets pass.20modes/wordfit/12keyboardBack/eight hash arrivals/finder/disclosure/five noJS pass; same13 editorial10->24/26/critical local role-order-fit clears. Full19 freeze/different review/exact-SHA production gates remain; count2/third-final/no fourth/November1 retained.
+
+KAL-IMP-044 REGISTERED atc6cbf76, exact19 in JSON/checkpoint: reviewed toy-only role/early-control/tiny three-block pretend crossing repair across five owners, scoped card/two H1 fit and material-caption boundary. Existing indoor test changes only Blanket early-control/step expectations; three steps and other starts invariant. Same17:59:40Z/completed2/third-final/no fourth. All3generators/exact7siteoutputs/native/same20modes-all13/different review/exact-SHA live release required, November1 retained.
+
 RES061 COMPLETED learned-only9acb687/Sartre full7 PASS/native172/GSC100/130IDs/281refs/exact7/privacy/whitespace; fresh reviewed docs push/postpush clean0/0, no site/Pages. Factual7 closeout then separately register bounded five-owner toy-only role/first-start repair as third/final if guard admits. Same17:59:40Z/completed2/deadline18:44:40Z/November1 retained.
 
 RES061 decision IMPROVE Blanket River card/library/age5/indoor/building separately; [five-owner packet](../reviews/blanket-river-role-handoff-audit-2026-10-27.md) records role mismatch/all16 late checks/root32 H1 widths374-536/five livebytes/20modes/routes. MSU/SDSU/AAP/source-local visuals support three-block near-edge toy-held editorial default, no body-bearing/load/exact blanket certification; Smithsonian rejected. All13 baseline10/26/critical override. Full7/different review/docs release before separate repair, count1/18:44:40Z/November1 retained.

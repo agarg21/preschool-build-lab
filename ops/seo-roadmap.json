@@ -6,6 +6,27 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-044",
+      "title": "Repair Blanket River toy-only role and first-start agreement",
+      "kind": "reviewed-existing-owner-role-first-start-repair",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "c6cbf76",
+      "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/cards/blanket-river.html", "site/cards.html", "site/ages/activities-for-5-year-olds-at-home.html", "site/collections/indoor-activities-for-preschoolers.html", "site/collections/building-activities-for-4-year-olds.html", "site/styles.css", "site/sitemap.xml", "tools/blanket-river-handoff.test.mjs", "tools/preschool-indoor-consolidation.test.mjs", "reviews/blanket-river-role-handoff-repair-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "RES061 reviewed9acb687/Sartre PASS: five livebyte owners/20modes/card-age5 missing toy/all16 late stops/root32 H1 age5-building374/536. Current MSU/SDSU/AAP/source-local visuals qualify bounded editorial toy-held near-edge three-block default, no body-bearing/load/blanket certification.",
+      "evidence_class": ["MEASURED", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Caregiver must know toy not feet, owned set/fit/adult stay-or-decline before action, then build one tiny crossing/carry toy/reset/rescue/clear away without broad search or implied child-bearing bridge.",
+      "hypothesis": "Canonical activity plus explicit indoor/building override agreement and early controls clear current role/first-start failure; scoped incoming/card fit preserves source-task clarity without unrelated changes.",
+      "acceptance": "Three owned large lightweight blocks/two low supports-span near blanket edge, one appropriate large toy carried in hand, early fit/reach/attend-skip-stop/model-watch/flat-path-cleanup/untested limits. Same four lenses/everysection/all13,20modes/wordfit/routes/finder/noJS/preserved fragment arrivals. Keep three short steps on structured hubs, no new URL/library item/outcome.",
+      "qa_plan": "All3generators twice/exact7siteoutputs/peer-image-library conservation/native172plus focused and revised Blanket-only legacy expectations/changedJSON/XML/all local refs-fragments/privacy/exact19. Different independent read-only review then fresh no-divergence exact main push/exact-SHA Pages/live affected bytes-canonical-H1-task/alignment. No release marker exists.",
+      "invariants": "Other ACTIVITY definitions/peer blocks/Cup-Sock-DUPLO corrections/library36/IDs/canonicals/arrival offsets/CSV/assets/config unchanged. Caption labels blanket material illustration toy-only, not exact default or child-bearing route. Existing indoor legacy test only Blanket ordering/step updates, other starts unchanged.",
+      "observation_window": "Technical/source proxy only, no physical fit/blanket slip/family/time/mess/learning/safety/SEO effect. Actual17:59:40Z/completed2/third-final/no fourth; November1/October30 retained.",
+      "reconsider_if": "Source/material/geometry/role conflict, unexpected output or peer/asset/arrival drift, P0-P2, divergence or ambiguous regression.",
+      "qa_result": "Local176/focused16/all3generators twice/exact7siteoutputs/92sitefiles-20blocks-35library-35canonical peers conserved;73HTML-1001refs-77fragments-8LD-67URLs valid.20modes-wordfit/12keyboardBack/eight hash arrivals/eight touch-emulatedBack/finder-disclosure/five noJS pass; same13 editorial10->24/26/no N/A. Full19/changedJSON/131IDs/295docrefs/GSC100/privacy/whitespace pass; independent review and exact-SHA live delivery pending.",
+      "review": "Heisenberg 01a17ea4-5640-74c1-b619-1ab00ff7f014 fresh different independent read-only full19 cycle-one PASS/no P0-P3.175 nonmutating/actual five renderer-credit byte matches/conservation/20modes-12keyboardBack-eight hash arrivals/finder-disclosure-five noJS/all-site parsing/privacy-scope/current bodies-visuals/all13 independently pass. Full176/twice-generator finalb5387902/touch8/GSC100/295docrefs operator receipts; freeze intact/reviewer closed.",
+      "next_action": "Fresh exact reviewed main push/exact-SHA Pages/live bytes-task/alignment; count2 until production gate, no fourth action."
+    },
+    {
       "id": "KAL-RES-061",
       "title": "Audit Blanket River toy-only role and first-start handoffs",
       "kind": "existing-owner-source-live-handoff-audit",
