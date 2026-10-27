@@ -2,6 +2,8 @@
 
 ## 2026-10-27 - KAL-RES-064 Shadow Compact Start
 
+- Completion: learned-onlycda4ed0d10dd6be876b7977e133ef75c75bc52b4/Boyle full7 PASS/native181/GSC100/136IDs/301refs/privacy-whitespace; exact reviewed docs-only main push/postpush fresh fetch clean0/0. No site/Pages. Completed2; factual7 closeout then separately registered four-output repair as third/final if guard admits; no repeated qualification/November1 retained.
+
 - Review: Boyle fresh different independent full7 PASS/no P0-P3;180nonmutating/GSC100/136IDs/301refs/privacy-scope/seven livebytes/16modes-12late/9keyboardBack-three depth-finder-fournoJS/H1 bounds/current bodies-visuals/four lenses/everysection/all13 independently pass. Freeze intact/reviewer closed; fresh docs-only release before separate repair, completed1 retained.
 
 - Decision/persona: [new surface audit](../reviews/shadow-compact-start-audit-2026-10-27.md) IMPROVE four existing compact/entry surfaces separately. RES039 expressly excluded old card; preserve repaired age4/pack/preschool, no new guide. Adult needs stable wall light, one checked object, interpretable size move, early no-face/stay-or-decline, switch-off/rescue/finish; reach/dimness/unwanted-light/root32 stress.

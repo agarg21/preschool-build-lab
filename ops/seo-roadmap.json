@@ -9,7 +9,7 @@
       "id": "KAL-RES-064",
       "title": "Audit unreconciled Shadow compact-card and science starts",
       "kind": "existing-owner-source-task-audit",
-      "status": "reviewed_release_pending",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "d60521a",
       "exact_paths": [
@@ -39,8 +39,12 @@
       "decision": "IMPROVE four existing compact outputs separately; stable adult-light/one checked object/size comparison/early controls/rescue/disclosure/labels, title Shadow Builder with existing URL, scoped card fit; preserve repaired age4/pack/preschool and all peers. No new guide or demand claim.",
       "qa_result": "Seven live200bytes/16modes/12late no-face cues/vague role-result-title/local untested absent/unsupported5min-lowmess; card root32 Shadow word268.36 exceeds246 H1 box/doc320.9incoming keyboardBack/3maintained depth routes/finder1-zero-Clear36/4noJS pass. Current direct primary PBS-Gryphon-DuPage-AAP/PBS2photos-onepage renderedPDF; Smithsonian indexed-only/direct rejected. Four lenses/everysection/all13 editorial7/26/no N/A/critical override. Native181/full7/1JSON/136IDs/301refs/GSC100/privacy-scope-whitespace pass.",
       "review": "Boyle01a17f05-6a97-7862-861a-02d66f29f5f0 fresh different independent full7 cycle-one PASS/no P0-P3;180nonmutating/GSC100/136IDs/301refs/privacy/sevenlivebytes/16modes-12late-9keyboardBack-three depth-finder-fournoJS/H1 bounds/current bodies-visuals/four lenses/everysection/all13 independently pass. Frozen hashes unchanged/reviewer closed; Master181 distinct.",
-      "blockers": "Docs-only release pending before separate supported repair.",
-      "next_action": "Freeze full7 for different independent read-only review, fresh aligned docs-only exact push/factual closeout/final alignment; promptly register four-output repair as third/final if same strict guard admits."
+      "completed_on": "2026-10-27",
+      "artifact": "reviews/shadow-compact-start-audit-2026-10-27.md",
+      "release_commit": "cda4ed0d10dd6be876b7977e133ef75c75bc52b4",
+      "release_evidence": "Exact reviewed7/private scan/native181/JSON/whitespace/docs-only main push passed; initial fetch completed without incoming changes and completed fresh postpush fetch verifies clean0/0. No site/Pages. Boyle full7 PASS/GSC100/136IDs/301refs; reviewer closed.",
+      "blockers": "None for completed research; physical/device fit and family outcomes remain unknown.",
+      "next_action": "Completed2: factual7 closeout/QA/push/alignment then separately register supported four-output Shadow repair as third/final if same strict20:44:05.842Z guard admits; no fourth/November1 retained."
     },
     {
       "id": "KAL-IMP-046",

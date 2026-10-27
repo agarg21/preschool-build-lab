@@ -2,7 +2,9 @@
 
 KAL-RES-064, October27,2026; based60521a. Decision: **IMPROVE four existing
 surfaces in a separate transaction**, not a new guide or URL. Native181 passes;
-Boyle independent full7 PASS/no P0-P3; docs-only release pending. Same19:59 heartbeat,
+COMPLETED learned-onlycda4ed0d10dd6be876b7977e133ef75c75bc52b4 after Boyle
+independent full7 PASS/no P0-P3. Docs-only main push/fresh postpush clean0/0
+verified; no site/Pages change. Same19:59 heartbeat,
 completed1/retained20:01:34Z/stricter20:44:05.842Z new-action deadline.
 
 ## Named Gap And Task
@@ -133,3 +135,9 @@ nine incoming keyboardBack/three depth routes/finder/fournoJS/current primary
 bodies/source visuals/four traced lenses/everysection/all13 baseline7/26 pass.
 No generator, touch/AT/actualzoom/hardware/physical/family outcome claimed.
 Master181 distinct, reviewer closed; fresh exact docs-only release next.
+
+Release: exact reviewed7/private scan/native181/JSON/whitespace passed;
+cda4ed0d10dd6be876b7977e133ef75c75bc52b4 pushed main. Initial fetch completed
+without incoming changes; completed fresh postpush fetch verifies clean0/0.
+No Pages wait applies. Completed2 this run; factual7 closeout then separate
+four-output repair as third/final under original strict guard.
