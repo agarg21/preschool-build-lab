@@ -487,13 +487,27 @@ ACTIVITIES = {
         "title": "Color Mixing Cups",
         "url": "../cards/color-mixing-cups.html",
         "ages": "4-6",
-        "time": "6 min",
-        "mess": "medium",
-        "help": "medium",
-        "materials": "clear cups, water, food coloring",
-        "best_for": "prediction, color science, careful pouring",
-        "steps": ["Fill two cups.", "Add two colors.", "Pour together.", "Name the new color."],
-        "parent": "Use tiny drops and protect the table.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Check readiness first",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult mixes; child notices",
+        "materials": "3 clear nonbreakable cups, water, owned red and yellow food coloring, 1 adult spoon, 1 rimmed tray, 1 towel",
+        "best_for": "noticing whether two prepared colors look different after an adult mixes them",
+        "readiness_groups": [
+            ("Materials", "Use intact clear nonbreakable cups and owned food coloring only as its labels permit. No paint, cleaning dye or other chemicals. Adult handles coloring, caps, spoon and liquids; keep supplies away. No tasting or contact with mouths or eyes."),
+            ("Adult and space", "Use a stable level surface away from edges and walking routes. Keep the tray beyond every child's reach but visible. Stay beside every reachable child and control all materials throughout; this is not independent play."),
+            ("Fit or skip", "Try only when every child can watch with hands away and respond to a stop cue. Pointing or describing is optional. Skip for mouthing, reaching, unwanted color play, unsuitable labels or personal constraints, unclear source colors or unavailable adult attention."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab."),
+        ],
+        "stop": "End and collect if a child reaches for materials, mouths them, liquid spills, anyone is uncomfortable or adult attention shifts.",
+        "adult_setup": "Away from children, prepare a little red-tinted water in one cup and yellow-tinted water in another, following the coloring labels. Do not fill cups to the top. Store coloring and caps away. Put both cups and a third empty receiving cup on the rimmed tray, with the towel ready. Check the source colors look distinct and the receiver has room for two small spoonfuls; otherwise skip.",
+        "steps": ["Look at the two source cups. Point to red or yellow if you want.", "Watch the adult put one small spoonful of yellow water, then one of red, into the empty receiving cup and gently mix once.", "Look at the mixture beside the source cups. Say or point: different, the same or unclear. Naming a color is optional; finish whenever you want."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If the change is unclear or watching is unwanted, end. Do not keep adding dye or pour full cups together to force a result. Adult immediately empties and rinses all three cups and the tray at a sink out of children's reach, dries the work area, and stores the cups, spoon and supplies. Leave no accessible standing water. Duration, mess and staining have not been measured.",
+        "sources": [("PEEP: separate red-yellow sources and observation", "https://www.peepandthebigwideworld.com/en/educators/curriculum/family-child-care-educators/color/activity/guided-activity/101/mixing-food-coloring-red-and-yellow/"), ("PBS: receiving containers and uncertain predictions", "https://www.pbs.org/parents/crafts-and-experiments/testing-hypotheses-while-color-mixing"), ("AAP: water reach and immediate emptying", "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Infant-Water-Safety.aspx")],
+        "source_note": "Sources checked October27,2026. PEEP uses classroom tray compartments and child-handled tools; PBS uses more containers and a recording chart. Separate sources and a mixing destination are source-backed. The three-cup adult-only spoon reduction, labels, placement, script, skip/stop and cleanup are Kid Activity Lab editorial adaptations, not a tested setup. AAP gives general water guidance, not dye or cup certification. No source image proves this arrangement or capacity. Owned material suitability, hygiene, actual shade, visibility, staining, family understanding, enjoyment, learning and safety are unknown. No measured timing, medical advice, product recommendation or safety assurance.",
     },
     "sound-shaker-match": {
         "title": "Sound Shaker Match",
@@ -561,6 +575,9 @@ ACTIVITIES["shadow-shape-match"]["start_cue"] = " ".join(
 ACTIVITIES["ice-melt-rescue"]["start_cue"] = " ".join(
     text for _, text in ACTIVITIES["ice-melt-rescue"]["readiness_groups"]
 ) + " Stop: " + ACTIVITIES["ice-melt-rescue"]["stop"]
+ACTIVITIES["color-mixing-cups"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["color-mixing-cups"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["color-mixing-cups"]["stop"]
 
 
 PAGES = [

@@ -793,6 +793,41 @@ th {
   margin: 8px 0 0;
 }
 
+.color-mix-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.color-mix-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.color-mix-card .step-tile {
+  min-height: 0;
+}
+
+.color-mix-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.color-mix-card .color-mix-materials,
+.color-mix-card .color-mix-readiness {
+  line-height: 1.5;
+}
+
+.color-mix-card .color-mix-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.color-mix-card .color-mix-readiness p {
+  margin: 8px 0 0;
+}
+
 .ice-watch-card {
   max-width: 720px;
   margin: 0 auto;

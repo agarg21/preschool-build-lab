@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-IMP-049 Color Mixing Cups Repair
+
+- Review: Poincare fresh different independent full17 cycle-one PASS/no P0-P3;192nonmutating/actual4renderers/conservation/GSC100-141IDs-327refs/parse-privacy/16modes-routes-touch-finder-Space-expanded3sources-fournoJS/wordfit/current sources-four lenses-everysection-all13 independently pass. Freeze intact/reviewer closed/Master193-twice distinct; fresh exact reviewed main push/exact-SHA production next.
+
+- Decision/persona: [four-owner repair](../reviews/color-mixing-first-start-repair-2026-10-27.md) applies reviewed RES066, no newURL. Complete two prepared sources/initially empty receiver/adult spoon/tray/towel, early fit-role-reach-skip-stop, optional noticing/unclear-end/immediate cleanup; pouring difficulty/younger reach/unwanted watch are stress constraints.
+- Hypothesis/result: explicit destination/adult role removes guessed pouring/result requirement. Local16modes/9keyboardBack/6touch/sixoutgoing/finder-Space-expanded source/fournoJS/text-fit/viewed390-root32 pass; all13 editorial6->25/26/no N/A/sensory1/critical override. Native193/twice91523258/exact6outputs/93site-35canonical-35library-13hub peers/PAGES conserved/parse pass. Full17 structured/privacy/different review/exact-SHA production pending.
+- Sources/classes: October27 current PEEP/PBS/Gryphon/Scholastic/AAP and retained chart visual SOURCE_BACKED within bounds; adult-only three-cup/spoon/control/script EDITORIAL_JUDGMENT, task RESEARCH_HYPOTHESIS, repo/browser MEASURED. Owned fit/hygiene/shade/visibility/staining/family/timing/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high in inspected output/conservation, moderate in proxy utility. A separate receiver and accepted uncertainty make a source-reconciled task executable without claiming a guaranteed colour. Reopen source/label/receiver/role/access contradiction, clinical dependency, critical clutter/P0-P2/peer drift/divergence. Measurement boundary: no family/physical/AT/realzoom/hardware/learning/safety outcome. November1 retained.
+
 ## 2026-10-27 - KAL-RES-066 Color Mixing First Start
 
 - Completion: reviewed8cd2b1f7262d422b2983c892d61314647f35e820/Fermat full7 plus cycle-two provenance delta PASS/native189/GSC100/140IDs/312refs/exact7/privacy-whitespace. Docs-only main push/postpush fresh fetch clean0/0; no site/Pages, reviewer closed. Completed3/helper denies fourth; next eligible separately registered supported four-owner repair, no newURL/physical/shade/safety claim.

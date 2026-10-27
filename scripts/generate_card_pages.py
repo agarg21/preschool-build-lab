@@ -92,6 +92,10 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "color-mixing-cups": {
+        "kicker": "Adult mixes | Child notices",
+        "description": "Color Mixing Cups activity card: adult-prepared red and yellow water, an empty receiving cup, and a look for difference or uncertainty. Research-backed, not family-tested.",
+    },
     "ice-melt-rescue": {
         "kicker": "Adult handles | Child watches",
         "description": "Melting Ice Watch activity card: one plain ice cube in an adult-controlled tray, a look for change or not yet clear, and immediate cleanup. No added heat; research-backed, not family-tested.",
@@ -737,6 +741,7 @@ def quick_page(slug):
     is_box_garage = slug == "box-garage"
     is_shadow = slug == "shadow-shape-match"
     is_ice_watch = slug == "ice-melt-rescue"
+    is_color_mix = slug == "color-mixing-cups"
     has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge or is_cup_tower
     routes = related_routes_html(
@@ -760,8 +765,8 @@ def quick_page(slug):
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
         </div>'''
-    if is_box_garage or is_shadow or is_ice_watch:
-        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch"
+    if is_box_garage or is_shadow or is_ice_watch or is_color_mix:
+        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix"
         readiness = "\n".join(
             f'          <p><strong>{esc(label)}:</strong> {esc(text)}</p>'
             for label, text in activity["readiness_groups"]
@@ -828,7 +833,8 @@ def quick_page(slug):
         "kid-card blanket-river-card" if is_blanket_river else
         "kid-card box-garage-card" if is_box_garage else
         "kid-card shadow-card" if is_shadow else
-        "kid-card ice-watch-card" if is_ice_watch else "kid-card"
+        "kid-card ice-watch-card" if is_ice_watch else
+        "kid-card color-mix-card" if is_color_mix else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
@@ -840,7 +846,8 @@ def quick_page(slug):
         "blanket-river-card-1" if is_blanket_river else
         "box-garage-card-2" if is_box_garage else
         "shadow-card-1" if is_shadow else
-        "ice-watch-card-1" if is_ice_watch else "nav-stable-2"
+        "ice-watch-card-1" if is_ice_watch else
+        "color-mix-card-1" if is_color_mix else "nav-stable-2"
     )
     previous_video = '''
 
@@ -909,7 +916,9 @@ def cards_index():
             f'Adult-controlled wall light | {activity["time"]} · {activity["materials"]}'
             if slug == "shadow-shape-match" else
             f'Adult handles; child watches | {activity["time"]} · {activity["materials"]}'
-            if slug == "ice-melt-rescue" else f'{activity["time"]} · {activity["materials"]}'
+            if slug == "ice-melt-rescue" else
+            f'Adult mixes; child notices | {activity["time"]} · {activity["materials"]}'
+            if slug == "color-mixing-cups" else f'{activity["time"]} · {activity["materials"]}'
         )
         cards.append(
             f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(summary)}</span><template data-search="{esc(search_text)}"></template></a>'
