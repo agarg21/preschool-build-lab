@@ -6,6 +6,25 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-052",
+      "title": "Qualify the existing sock-roll owner handoff",
+      "kind": "existing-owner-task-audit",
+      "status": "reviewed_release_ready",
+      "registered_on": "2026-10-27",
+      "base_commit": "156341cafad8457cc0e051b5464dcc78bf80361d",
+      "exact_paths": ["reviews/sock-roll-owner-audit-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence_class": ["MEASURED", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Indoor target-roll handoff changes to an unexplained book tunnel before the caregiver has one executable default.",
+      "hypothesis": "Current sources and the maintained indoor owner can support a consistent compact floor-level sock-roll start without a new URL.",
+      "acceptance": "Current primary-source reconciliation, live byte agreement, desktop/mobile keyboard and every-section all13 task; concrete preserve/improve/defer with exact unresolved gates.",
+      "qa_plan": "Native tests, GSC validation, JSON unique IDs, Markdown references, exact seven paths, whitespace/source/privacy; different independent read-only review before docs-only release.",
+      "invariants": "No site/generator edits, new URL, paid research, indexing, family/physical claims, scheduler or Control Room changes; November1 weekly preserved.",
+      "measurement_boundary": "Technical source/live proxy only. Demand, physical suitability, duration, mess, enjoyment, learning, safety and SEO effects UNKNOWN.",
+      "reconsider_if": "Contrary source, existing complete default, reviewer P0-P2, remote divergence or live task contradicts hypothesized mismatch.",
+      "review": "Helmholtz independent cycle-one PASS/no P0-P3; native153/GSC99/JSON116/exact7/236refs/privacy/whitespace pass. Five live200 bytes; age3 HTML-only.",
+      "next_action": "Docs-only push/alignment, then separately register consistent sock-roll repair across card and four collection/age entries."
+    },
+    {
       "id": "KAL-IMP-038",
       "title": "Add disclosed AI contributor credits and publisher accountability",
       "kind": "shared-attribution-implementation",

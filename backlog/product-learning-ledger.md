@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-052 Sock-Roll Handoff
+
+- Decision/persona: [live/source audit](../reviews/sock-roll-owner-audit-2026-10-27.md) IMPROVES existing owners only in a separate build. Source-derived preschool caregiver needs one floor-roll setup, adult role, first roll, reset/rescue and stop; younger reach/interruption are editorial stresses.
+- Hypothesis/result: indoor basket-target link changes to unexplained book tunnel on the compact card. Four live bytes match; card checks follow all steps at1280/390/320/root32, keyboard/Back works and sampled widths fit. All13 editorial proxy10/26 with critical override, not a real parent/physical test. Floor roll toward a basket must not promise rim entry.
+- Sources/classes: October27 reopened RCN sock/ball play, AAP general activity planning and maintained ParentMap body; SOURCE_BACKED within exact limits. DOM/bytes/GSC technically MEASURED; task RESEARCH_HYPOTHESIS; brief/score EDITORIAL_JUDGMENT. Exact demand, physical suitability, duration/mess and family/safety/learning/SEO outcomes UNKNOWN.
+- Confidence/lesson: high in technical mismatch and late check, moderate in source-reconciled simpler target default. A valid link can still change the materials and leave no executable start; distinguish target contact from entry geometry.
+- Next falsification/measurement boundary: separately register consistent one-sock-ball/low-target early-check repair across existing owners; test same13 task, all routes/enlarged text/no-JS, source/visual agreement and exact release. Reconsider on contrary source or task failure. GSC99 October26 throughOctober24 rolling453/5 vs481/6 overlap is query-thin, not demand/effect. No new URL; November1 weekly retained. Review/release pending, not completed learning yet.
+
 This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human
 experience separate. A persona task is a proxy evaluation, not user testing.
