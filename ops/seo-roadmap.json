@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-065",
+      "title": "Audit Ice Melt Rescue material, adult-role and first-result lineage",
+      "kind": "existing-owner-source-task-audit",
+      "status": "reviewed_release_pending",
+      "registered_on": "2026-10-27",
+      "base_commit": "4dfd8f0",
+      "exact_paths": [
+        "reviews/ice-melt-first-start-audit-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Prior handoff named canonical8min/warm-water/spoon/four vague steps/late no-hot note. Retained-history search finds broad September owner choice and October finder inventory, not completed Ice Melt first-start qualification.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Caregiver needs to judge an owned ice/tray activity's materials/adult role, know what the child does and observes, decline/stop/rescue/clean up without unqualified heat or a fictitious frozen-object rescue.",
+      "hypothesis": "Current compact Ice Melt owners either supply a source-grounded runnable start or need a bounded repair/pause; their title/timing/temperature assumptions cannot stand in for evidence.",
+      "acceptance": "Inventory actual card/library/science ownership and retained lineage; current primary ice/melting guidance and visual evidence, selected live query bodies; source-traced persona task/four lenses/everysection/all13 and desktop-mobile-root32/keyboardBack/finder/noJS/live bytes. Return PRESERVE/IMPROVE/PAUSE/DEFER with exact unresolved gates; no presumed default/new URL/source outcome.",
+      "qa_plan": "Native185/JSON/GSC publicsafe validation/refs/privacy-scope-whitespace/exact7/different independent read-only full7 review/fresh completed fetch/no divergence/exact docs-only main push/final alignment. No Pages wait. Any supported repair separately registered within same sprint guard.",
+      "invariants": "No site/code/data/CSV/assets/config/automation/Control Room changes. Preserve all existing owners and source safety limits; no clinical/temperature safety thresholds, paid tools, product or family/physical/SEO outcome claim.",
+      "observation_window": "New20:56:36.027Z heartbeat/actual20:56:42Z/completed0/deadline21:41:42Z/max3. Prior IMP04701575cb/Pages40579721591 and factual closeout4dfd8f0 complete, main clean0/0. November1 weekly/October30 expiry unchanged.",
+      "reconsider_if": "Duplicate completed qualification, unsupported material/heat/water/role reliance, missing critical control, source conflict/P0-P2/divergence.",
+      "decision": "IMPROVE three existing owners separately to Melting Ice Watch at existing URL: plain cube/adult spoon/shallow nonbreakable tray/towel, no added water-heat-embedded toy, beyond-reach adult-handled observation/change-or-unclear/decline-stop-empty-dry. No frozen-toy/heat variant or clinical rule qualified.",
+      "qa_result": "Native185/full7/1JSON/138IDs/305refs/GSC100/privacy-scope-whitespace pass. Six live200bytes/12modes/8late no-hot cues/card tray omitted/6incomingKeyboardBack/finder1-zero-Clear36/3noJS; normal document widths fit/no full-word or AT claim. Current primary Sciencenter2page PDF rendered/viewed/NASA-PBS-AAP bodies and limits, four lenses/everysection/all13 editorial6/26/no N/A/critical override. Prior exact-SHA receipt/preflight healthy.",
+      "review": "Locke01a17f2b-dea9-7be2-8765-63cf3d5eaf06 fresh different full7 cycle-one PASS/no P0-P3;184nonmutating/GSC100/138IDs/305refs/privacy-scope/sixbytes/12modes-8late-tray omission/6keyboardBack-finder-3noJS/parse/current sources-PDF/four lenses/everysection/all13 independently pass. Reviewer directPBS200 recovered after operator web timeout, no persistent block. Seven hashes/HEAD unchanged/reviewer closed/Master185 distinct.",
+      "blockers": "Docs-only release pending before separate repair.",
+      "next_action": "Freeze full7 for different independent read-only review, fresh completed fetch/no divergence/exact docs-only main push/factual closeout/alignment; promptly register supported repair within same guard."
+    },
+    {
       "id": "KAL-IMP-047",
       "title": "Reconcile Shadow compact starts with adult-controlled wall light",
       "kind": "reviewed-four-owner-first-start-repair",

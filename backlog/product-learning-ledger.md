@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-065 Ice Melt First Start
+
+- Review: Locke different independent full7 PASS/no P0-P3;184nonmutating/GSC100/138IDs/305refs/privacy-scope/sixbytes/12modes-8late-tray omission/6keyboardBack-finder-3noJS/parse/current sources-PDF/four lenses/everysection/all13 independently pass. PBS direct200 recovered by reviewer; operator timeout historical, not permanent block. Frozen hashes unchanged/reviewer closed/Master185 distinct, fresh docs-only release next.
+
+- Decision/persona: [three-owner audit](../reviews/ice-melt-first-start-audit-2026-10-27.md) IMPROVE separately to plain-ice observation, not a new URL/heat or frozen-toy rescue qualification. Parent needs complete materials, adult/child role, change-or-unclear, reach/decline/stop/rescue/empty/dry; younger reach/no-heat/cold-touch/unwanted wait stress.
+- Hypothesis/result: actual QUICK card omits tray from materials, two instruction owners8late no-hot cues/12modes, unassigned warm drops/title without rescue prep,8min-medium labels/local untested/cleanup lineage absent. Six livebytes/6incomingkeyboardBack/finder1-zero-Clear36/3noJS pass; document widths fit, no full-word/AT claim. All13 editorial6/26/no N/A/critical override.
+- Sources/classes: current Sciencenter2page PDF rendered/viewed, NASA/PBS/AAP bodies SOURCE_BACKED within scope; PBS later fetch timeout retained. Plain ice alternative/observation supported; one-cube beyond-reach adult-handled/no-added-water reduction and controls EDITORIAL_JUDGMENT, task RESEARCH_HYPOTHESIS, repository/browser MEASURED. Rank/market/demand/owned fit/physical/family/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high in inspected omissions, moderate repair utility. A rescue name needs actual prep/material lineage; reducing heat and embedded parts can preserve an observation job without pretending to validate a temperature rule. Reopen source/reach/device/material conflict, need for clinical advice, critical failure/peer drift/P0-P2/divergence. Native185/full7/different review/docs-only release before separate repair; November1 retained.
+
 ## 2026-10-27 - KAL-IMP-047 Shadow Compact Start
 
 - Completion: reviewed01575cbe954577cc7291bef8eed5fad290ca6075/Boole full18 PASS/native185/[exact-SHA Pages40579721591](https://github.com/agarg21/preschool-build-lab/actions/runs/40579721591) success/no marker. Six affected/seven unchanged live200bytes;16production modes/9keyboardBack/6touch/three depth/finder-Space/fournoJS/canonical-H1-credit-images/parentfit pass, live390/root32 viewed. No retry/regression/outcome claim; release fetch0/0/reviewer closed/server8781 stopped. Completed3/helper denies fourth; next eligible separately registered Ice Melt Rescue source/first-start audit after receipt/sensing and retained-history check, no presumed repair/November1 retained.

@@ -1,5 +1,11 @@
 # Operator Review
 
+## October27 - KAL-RES-065 Ice Melt First Start (PASS / release pending)
+
+Locke01a17f2b-dea9-7be2-8765-63cf3d5eaf06 fresh different full7 cycle-one PASS/no P0-P3;184nonmutating/GSC100/138IDs/305refs/privacy-scope-whitespace/sixlivebytes/12modes-8late-tray omission/6keyboardBack-finder-3noJS/73HTML-836localanchors-77fragments-8LD-67URLs/current primary sources-PDF/four lenses/everysection/all13 independently pass. Reviewer directPBS200 recovered, operator timeout historical; all7hashes/HEAD unchanged/reviewer closed/Master185 distinct. Fresh exact docs-only push next.
+
+Exact7 docs at4dfd8f0; [packet](../reviews/ice-melt-first-start-audit-2026-10-27.md) IMPROVE bounded plain-ice watch across existing card/library/science separately. Current direct primary bodies/Sciencenter2page visuals/sixlivebytes/12modes-8late-6keyboardBack-finder-3noJS/four lenses/everysection/all13 baseline6/26, native185/JSON/whitespace pass. Card tray truncation and no rescue/heat-role/cleanup lineage documented, no invented fit failure/thermal threshold/outcome. Full7 structured/privacy/different review/docs-only release pending, actual20:56:42Z/completed0/21:41:42Z retained.
+
 ## October27 - KAL-IMP-047 Shadow Compact Repair (PASS / released)
 
 COMPLETED reviewed01575cbe954577cc7291bef8eed5fad290ca6075: fresh completed fetch0/0/empty outgoing/exact reviewed18 staged/private scan/native185/JSON/whitespace/main push pass; exact-SHA Pages40579721591 success/no marker. Six affected/seven unchanged live200bytes;16production modes/9keyboardBack/6touch/three depth/finder-Space/fournoJS/canonical-H1-credit-images/parentfit pass, live390/root32 viewed. No retry/regression/outcome claim; fresh release fetch clean0/0/reviewer closed/server8781 stopped. Completed3/helper denies fourth; factual7 closeout/final alignment then end, next eligible Ice Melt source/task audit after retained-history check, not a presumed new page/repair.
