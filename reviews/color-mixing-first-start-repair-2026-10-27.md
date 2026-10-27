@@ -2,7 +2,17 @@
 
 KAL-IMP-049, October27,2026. Base646914c; exact17 paths registered before
 implementation. Applies [reviewed RES066](color-mixing-first-start-audit-2026-10-27.md),
-not a new guide. Status: local QA pass; different review/release pending.
+not a new guide. COMPLETED productionb5fe754917ac2c97f91bb6ede6f980bc599b5352.
+
+Fresh completed fetch0/0/empty outgoing/exact reviewed17/private scan/native193/
+JSON/whitespace/main push passed. Poincare full17 PASS/no P0-P3; exact-SHA
+[Pages40593211615](https://github.com/agarg21/preschool-build-lab/actions/runs/40593211615)
+success/no marker. Six affected/seven unchanged live200bytes;16production modes/
+9keyboardBack/6touch/sixoutgoing/finder-Space-expanded3sources/fournoJS/
+canonical-H1-credit-images/wordfit pass; live390/root32 viewed. No retry,
+regression or outcome claim. Fresh release fetch clean0/0/reviewer closed/
+server8783 stopped. Completed1; factual7 closeout/push/alignment before a new
+selection. Older pending-phase bullets below are chronology, not a blocker.
 
 Poincare01a17f69-6d02-76c1-bd3b-0618ed7063ff fresh different independent
 full17 cycle-one PASS/no P0-P3. Independently192nonmutating/actual4renderers/
