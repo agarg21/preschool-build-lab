@@ -6,6 +6,40 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-066",
+      "title": "Audit Color Mixing Cups receiving vessel, roles and observation start",
+      "kind": "existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "be5fa2c",
+      "exact_paths": [
+        "reviews/color-mixing-first-start-audit-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Retained inventory: July lane taxonomy/September broad science owner choice/October finder inventory only, no completed Color Mixing first-start audit. Actual canonical/card 6min/medium, clearcups-water-foodcolour, Fill two cups/Add two colors/Pour together/Name the new color; late tiny-drops/protect-table cue leaves color pair/receiving vessel/role/result and cleanup lineage unresolved.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Choose or decline a complete color observation and know the adult preparation, which colors/receiving vessel, child mission, unclear result, stop and cleanup without guessing a pouring recipe.",
+      "hypothesis": "Current primary source reconciliation and four-owner task audit can distinguish a supported existing-owner repair from material/colour-control gates requiring defer; no new page or tested outcome presumed.",
+      "acceptance": "Inspect current primary bodies/visuals where relevant and one live query family/answer bodies, actual card/library/age4 STEM/science owners, role/material/receiving-vessel/color-result/unclear-stop-cleanup, four traced lenses/everysection/all13. Return PRESERVE/IMPROVE/PAUSE/DEFER with exact unresolved gates and separately registered implementation scope if qualified.",
+      "qa_plan": "Native189/JSON-allnewdocrefs-GSC100/privacy/exact7/whitespace; live bytes/four owners16modes/9incomingkeyboardBack/finder/noJS/text-fit and source-control lineage. Different full7 independent read-only reviewer/fresh completed fetch/no divergence/full outgoing/exact docs-only main push/final alignment; no Pages wait for docs.",
+      "invariants": "Site/code/data/CSV/assets/config/automation/ControlRoom read-only; no recipe/clinical/safety/family/SEO conclusion presumed, no paid call/newURL/indexing. Protect all released owners and source limitations.",
+      "observation_window": "Same20:56:36.027Z heartbeat/actual20:56:42Z/completed2/third-final/max3/startdeadline21:41:42Z. IMP0489b4d92f/Pages40585657585 and closeoutbe5fa2c complete clean0/0. November1/October30 retained.",
+      "reconsider_if": "Repeated completed qualification, source/material/colour/receiving-vessel conflict, absent safe control lineage, P0-P2/privacy/divergence; report exact dependency, do not invent default.",
+      "blockers": "Decision IMPROVE four existing outputs separately; Native189/full7 structured/privacy pass. Fermat full7 cycle-one PASS_WITH_P3/no P0-P2; sole provenance P3 corrected/cycle-two delta PASS/no remaining findings.188nonmutating/sevenbytes/16modes-routes-finder-noJS/current sources-visuals/all13 6/26 independently checked; frozen hashes intact/reviewer closed. Fresh docs-only release pending, no new guide qualified.",
+      "next_action": "Fresh completed fetch/no divergence/full outgoing/exact reviewed7 docs-only main push/factual closeout/final alignment then end at completed3/no fourth. Next eligible separately register supported four-owner Color Mixing repair before substantive edits; November1 retained."
+    },
+    {
       "id": "KAL-IMP-048",
       "title": "Replace unsupported Ice Melt rescue/heat start with bounded observation",
       "kind": "reviewed-three-owner-first-start-repair",

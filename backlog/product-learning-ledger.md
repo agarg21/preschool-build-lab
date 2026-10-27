@@ -1,5 +1,15 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-066 Color Mixing First Start
+
+- Review: Fermat fresh different full7 cycle-one PASS_WITH_P3/no P0-P2; sole provenance P3 clarified, cycle-two narrow delta PASS/no remaining findings.188nonmutating/sevenbytes/16modes-12latecases-9keyboardBack-finder-broad2-specific1-zero-Clear36-fournoJS/H1-docfit/140IDs-312refs-GSC100/privacy/current sources-visual limits/four lenses/everysection/all13 independently pass. Freeze intact/reviewer closed/Master189 distinct, fresh docs-only release next.
+
+- Decision/persona: [four-owner audit](../reviews/color-mixing-first-start-audit-2026-10-27.md) IMPROVE separately, not newURL. Parent needs specified pair/receiver/adult preparation/short observation/unclear result/early reach-skip-stop/empty-dry; pouring difficulty and younger reach are stress constraints.
+- Hypothesis/result: actual two-filled-cup/pour-together/unnamed colours/6min-medium-help/late table note is not a complete start. Seven livebytes/16modes/12latecases/9keyboardBack/finder-specific1-zero-Clear36/fournoJS pass; H1/docwidth fit, no invented overflow. Broad color2 corrected a harness expectation, not product. Four traced lenses/everysection/all13 editorial6/26/no N/A/critical override.
+- Sources/classes: October27 primary PEEP/PBS/Gryphon/Scholastic/AAP and viewed PBS chart/hero SOURCE_BACKED within limits; one live incomplete query family, no demand/rank inference. Three-cup adult-spoon reduction/control EDITORIAL_JUDGMENT, persona RESEARCH_HYPOTHESIS, repo/browser MEASURED. Owned suitability/hygiene/shade/staining/family/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson: high in material-role/result omissions, moderate in proposed utility. Specify the receiving space and permit unclear results before asking a child to pour/name. A worksheet or show image is not physical setup proof; no image copied.
+- Next falsification/measurement boundary: source/label/role/capacity/access contradiction or clinical dependency, critical task/P0-P2/peer drift/divergence. Native189/full7 structured/privacy/different review/docs-only push required; any repair separately registered next eligible transaction because third/final/no fourth. No family/physical/AT/hardware/truezoom claim; November1 retained.
+
 ## 2026-10-27 - KAL-IMP-048 Melting Ice Watch
 
 - Completion: reviewed9b4d92f787c0497ebf7121621abb464ea81382f3/Mencius full16 PASS/native189/exact-SHA Pages40585657585 success/no marker. Five affected/seven unchanged live200bytes; same12production modes/6keyboardBack/4touch/3outgoing/finder-Space-expanded source/3noJS/wordfit/viewed390-root32 pass. No retry/regression/outcome claim; fresh fetch clean0/0/server stopped/reviewer closed, completed2.

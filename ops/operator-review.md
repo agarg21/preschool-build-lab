@@ -1,5 +1,11 @@
 # Operator Review
 
+## October27 - KAL-RES-066 Color Mixing First Start (PASS / release pending)
+
+Fermat01a17f40-3c7e-7993-ac97-8a93d1c27b52 fresh different full7 cycle-one PASS_WITH_P3/no P0-P2; sole search-receipt P3 corrected with known-interface/unknown-engine/bounded-clock/selected URLs/alternate-AAP distinctions, cycle-two delta PASS/no remaining findings. Independently188nonmutating/sevenlivebytes/16modes-12latecases-9keyboardBack-finder-broad2-specific1-zero-Clear36-fournoJS/H1-docfit/screenshots/140IDs-312docrefs-GSC100/privacy-scope-whitespace/current five bodies/visual limits/four lenses/everysection/all13 6/26 pass. Freeze stable/reviewer closed/Master189 distinct; fresh exact docs-only release/alignment next.
+
+Exact7 atbe5fa2c; [packet](../reviews/color-mixing-first-start-audit-2026-10-27.md) IMPROVE existing four-owner receiver/pair/role/result/stop-cleanup lineage separately. Current five primary bodies/PBS chart-hero viewed/seven livebytes/16modes-12latecases-9keyboardBack-finder-specific-fournoJS/H1-docwidthfit/four traced lenses/everysection/all13 baseline6/26/no N/A pass as audit evidence. Broad color2 test expectation corrected, no product bug/overflow/physical claim. Native189/full7 structured/privacy/different reviewer/docs-only release required; same20:56:42Z/completed2/third-final/no fourth/November1 retained.
+
 ## October27 - KAL-IMP-048 Melting Ice Watch (PASS / released)
 
 COMPLETED9b4d92f787c0497ebf7121621abb464ea81382f3: fresh completed fetch0/0/empty outgoing/exact reviewed16/private scan/native189/JSON/whitespace/main push passed; exact-SHA Pages40585657585 success/no marker. Five affected/seven unchanged live200bytes/same12production modes/6keyboardBack/4touch/3outgoing/finder-Space-expanded source/3noJS/canonical-H1-credit-images/wordfit/live390-root32 viewed pass. No retry/regression/outcome claim; fresh release fetch0/0/reviewer closed/server8782 stopped. Completed2/factual7 closeout before further selection.
