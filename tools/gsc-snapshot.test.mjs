@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { base64url, finalizedThroughFromProbe, normalizeAggregate, normalizePageRows, performanceWindow, publicPageRows, renderMarkdown, sitemapCounts, sitemapStatus, summarizeInspection, validatePublicSnapshot } from "./gsc-snapshot.mjs";
+import { base64url, buildPublicUrlAllowlist, finalizedThroughFromProbe, normalizeAggregate, normalizePageRows, performanceWindow, publicPageRows, renderMarkdown, sitemapCounts, sitemapStatus, summarizeInspection, validatePublicSnapshot } from "./gsc-snapshot.mjs";
 
 test("builds a stable finalized 28-day window ending two days ago", () => {
   assert.deepEqual(performanceWindow(new Date("2026-07-14T12:00:00Z")), {
@@ -37,6 +37,16 @@ test("publishes page rows only for checked-in URLs", () => {
     ),
     [{ url: "https://kidactivitylab.com/", clicks: 0, impressions: 4, ctr_percent: 0, average_position: 0 }],
   );
+});
+
+test("retired public URL remains allowlisted without rejoining sitemap or priority inspection", () => {
+  const active = "https://kidactivitylab.com/";
+  const retired = "https://kidactivitylab.com/cards/magnet-hunt.html";
+  const monitor = { urls: [active], historical_public_urls: [retired] };
+  const allowed = buildPublicUrlAllowlist(monitor, [active]);
+  assert.equal(allowed.has(retired), true);
+  assert.equal(monitor.urls.includes(retired), false);
+  assert.equal(allowed.has("https://kidactivitylab.com/private-preview.html"), false);
 });
 
 test("summarizes indexed URL Inspection evidence", () => {

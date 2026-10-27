@@ -208,10 +208,14 @@ export function sitemapStatus(payload) {
   return "Success";
 }
 
+export function buildPublicUrlAllowlist(monitor, sitemapUrls) {
+  return new Set([...sitemapUrls, ...monitor.urls, ...(monitor.historical_public_urls ?? [])]);
+}
+
 async function publicUrlAllowlist(monitor) {
   const sitemap = await readFile(join(rootDir, "site", "sitemap.xml"), "utf8");
   const sitemapUrls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((match) => match[1].trim());
-  return new Set([...sitemapUrls, ...monitor.urls]);
+  return buildPublicUrlAllowlist(monitor, sitemapUrls);
 }
 
 export function renderMarkdown(snapshot) {

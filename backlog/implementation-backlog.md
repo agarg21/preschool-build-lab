@@ -1,5 +1,9 @@
 # Implementation Backlog
 
+## October 27 Magnet Hunt Existing-Owner Trust Correction
+
+`KAL-IMP-037` [dated source/rendered task](../reviews/magnet-hunt-trust-correction-2026-10-27.md) withdraws unsupported runnable Magnet Hunt copy from the card and three hubs. The existing direct URL becomes a noindex pause/one-alternative route; library finder preserves the clearly paused card, sitemap removes it, and no-prep/preschool cross-link headings fit 320/root32. A finite historical-public-URL allowance keeps old GSC snapshots valid without republishing the pause. No new page, magnet product, runnable default or indexing request. Local native145, generator idempotence and browser route QA pass; independent review and exact-SHA Pages/live release pending. All13 current decline-and-switch proxy21/26 is not a numerical gain over October25's different runnable-magnet7/26 task. Family/physical/SEO effects unknown; November1 weekly due.
+
 ## October 24 Afternoon Sink Or Float First Start
 
 `KAL-IMP-036` [bounded existing-owner repair](../reviews/sink-or-float-first-start-repair-2026-10-24.md) uses the morning reviewed defect: adult toy/water/reach/attention/stop before action, one adult-placed object, observable off-bottom/downward-to-bottom or `unclear`, immediate emptying, and unmeasured time/mess plus not-family-tested status. Only the existing card/science entry/library summary and scoped card CSS/sitemap change; other cards and science blocks remain. Same-task all13 editorial proxy8/26 -> 22/26 with critical technical order/result failure cleared, not a family or physical safety finding. Generator/native141/browser/source/privacy QA and Chandrasekhar independent read-only PASS pass; reviewed `24016ca` deployed via exact-SHA Pages40115876791, five live assets byte-match and production desktop/mobile/keyboard task passes. October25 weekly synthesis remains due.

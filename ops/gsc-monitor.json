@@ -6,6 +6,9 @@
   "domain": "kidactivitylab.com",
   "sitemap": "https://kidactivitylab.com/sitemap.xml",
   "robots": "https://kidactivitylab.com/robots.txt",
+  "historical_public_urls": [
+    "https://kidactivitylab.com/cards/magnet-hunt.html"
+  ],
   "urls": [
     "https://kidactivitylab.com/",
     "https://kidactivitylab.com/articles/cardboard-box-car-ramp-preschoolers.html",

@@ -21,7 +21,7 @@ test("library keeps its owner and all static routes without JavaScript", () => {
   assert.match(html, /<section class="library-grid" aria-label="Activity cards">/);
   assert.match(html, /<script src="assets\/cards-finder.js\?v=2" defer><\/script>/);
   assert.match(css, /\.library-grid \.mini-card\[hidden\]\s*\{\s*display: none;/);
-  assert.match(fs.readFileSync("site/sitemap.xml", "utf8"), /<loc>https:\/\/kidactivitylab.com\/cards.html<\/loc>\s*<lastmod>2026-10-24<\/lastmod>/);
+  assert.match(fs.readFileSync("site/sitemap.xml", "utf8"), /<loc>https:\/\/kidactivitylab.com\/cards.html<\/loc>\s*<lastmod>2026-10-27<\/lastmod>/);
 });
 
 test("finder has a named input, status, and a truthful deck route", () => {

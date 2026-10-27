@@ -549,11 +549,67 @@ def foil_boat_page():
 '''
 
 
+def magnet_hunt_pause_page():
+    activity = ACTIVITIES["magnet-hunt"]
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Magnet Hunt Paused | Kid Activity Lab</title>
+    <meta name="description" content="Magnet Hunt is paused while the magnet type and power are unspecified. Choose a maintained non-magnet activity instead.">
+    <meta name="robots" content="noindex,follow">
+    <link rel="canonical" href="https://kidactivitylab.com/cards/magnet-hunt.html">
+    <link rel="stylesheet" href="../styles.css?v=nav-stable-2">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="/">Kid Activity Lab</a>
+        <div class="nav-links">
+          <a href="/">Home</a>
+          <a href="../original/">Original</a>
+          <a href="../cards.html">Cards</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="card-shell">
+      <article class="kid-card">
+        <p class="kicker">Activity paused</p>
+        <h1>Magnet Hunt</h1>
+        <section class="parent-strip" aria-label="Decision before starting">
+          <strong>Do not start this version.</strong>
+          <p>{esc(activity["parent"])}</p>
+        </section>
+        <section aria-labelledby="instead-title">
+          <h2 id="instead-title">Choose a different start</h2>
+          <p><a href="../cards/paper-bridge.html">Open Paper Bridge</a> for a non-magnet activity with its own adult check before the steps. Check that card's materials and stop conditions for your household.</p>
+          <p><a href="../cards.html">Browse the activity cards</a> if paper, two low books and a suitable large lightweight toy are not available.</p>
+        </section>
+        <details>
+          <summary>Why this card is paused</summary>
+          <p>Use the owned product's documentation to establish type and power; a large size, intact appearance or age label alone does not settle this. Also pause for small, loose, cracked or missing magnets, younger-child reach or divided adult attention. Even if you can identify the magnet, this card does not currently offer a runnable setup; we have not checked an owned magnet or household test surface.</p>
+          <p><a href="https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Dangers-of-Magnetic-Toys-and-Fake-Piercings.aspx">AAP magnetic-toy guidance</a> warns about high-powered and loose magnets. <a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Magnets">CPSC magnet guidance</a> describes ingestion hazards. These sources do not establish that an unspecified magnet in a home is suitable for this activity. The pause and alternate route are Kid Activity Lab editorial decisions; this version has not been family- or physically tested.</p>
+        </details>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <p><a href="../cards.html">Back to activity cards</a></p>
+    </footer>
+  </body>
+</html>
+'''
+
+
 def quick_page(slug):
     if slug == "foil-boat-test":
         return foil_boat_page()
     if slug == "paper-chain-test":
         return paper_chain_page()
+    if slug == "magnet-hunt":
+        return magnet_hunt_pause_page()
     activity = {**ACTIVITIES[slug], **QUICK_CARD_OVERRIDES.get(slug, {})}
     steps = activity["steps"]
     step_html = "\n".join(
@@ -696,8 +752,12 @@ def cards_index():
     for slug, source_activity in ACTIVITIES.items():
         activity = {**source_activity, **QUICK_CARD_OVERRIDES.get(slug, {})}
         search_text = f'{activity["title"]} {activity["materials"]}'
+        summary = (
+            "Paused; choose a non-magnet activity"
+            if slug == "magnet-hunt" else f'{activity["time"]} · {activity["materials"]}'
+        )
         cards.append(
-            f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(activity["time"])} · {esc(activity["materials"])}</span><template data-search="{esc(search_text)}"></template></a>'
+            f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(summary)}</span><template data-search="{esc(search_text)}"></template></a>'
         )
     cards = "\n".join(cards)
     return f'''<!doctype html>

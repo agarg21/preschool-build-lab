@@ -86,7 +86,7 @@ test("sitemap contains each canonical indexable content URL exactly once", () =>
     .map((file) => canonicalFromHtml(read(file)));
   const actual = sitemapUrls();
 
-  assert.equal(expected.length, 66);
+  assert.equal(expected.length, 65);
   assert.ok(expected.every(Boolean), "every indexable page must declare a canonical");
   assert.equal(new Set(actual).size, actual.length, "sitemap URLs must be unique");
   assert.deepEqual([...actual].sort(), [...expected].sort());
@@ -202,7 +202,8 @@ test("generated cards expose a restrained set of existing hub routes", () => {
   }
 
   assert.equal(cards.length, 37);
-  assert.deepEqual(unroutedCards, ["paper-roll-play"]);
+  assert.deepEqual(unroutedCards, ["magnet-hunt", "paper-roll-play"]);
+  assert.match(read(path.join(SITE, "cards", "magnet-hunt.html")), /name="robots" content="noindex,follow"/);
 });
 
 test("read-only priority inspection covers current release and visible hubs", () => {

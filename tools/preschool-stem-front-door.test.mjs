@@ -137,9 +137,9 @@ test("the generator and CSS own the custom layout without changing page identity
   assert.doesNotMatch(styles, /letter-spacing:\s*-/);
 });
 
-test("sitemap advances only the existing target URL", () => {
+test("sitemap keeps the existing preschool STEM target URL current", () => {
   const entries = sitemap.match(/<url>[\s\S]*?<\/url>/g) ?? [];
   const target = entries.filter((entry) => entry.includes("/collections/stem-activities-for-preschoolers.html"));
   assert.equal(target.length, 1);
-  assert.match(target[0], /<lastmod>2026-09-06<\/lastmod>/);
+  assert.match(target[0], /<lastmod>2026-10-27<\/lastmod>/);
 });

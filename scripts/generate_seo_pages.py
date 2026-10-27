@@ -292,13 +292,13 @@ ACTIVITIES = {
         "title": "Magnet Hunt",
         "url": "../cards/magnet-hunt.html",
         "ages": "4-6",
-        "time": "5 min",
-        "mess": "low",
+        "time": "Not measured",
+        "mess": "Not measured",
         "help": "medium",
-        "materials": "large magnet, safe objects",
-        "best_for": "sorting, prediction, material testing",
-        "steps": ["Pick an object.", "Guess if it sticks.", "Try the magnet.", "Make two piles."],
-        "parent": "Use one large magnet and avoid tiny magnets or batteries.",
+        "materials": "Magnet Hunt paused; choose another activity",
+        "best_for": "a material decision before any magnet activity",
+        "steps": [],
+        "parent": "This card is paused. Do not use a known or suspected high-powered or rare-earth magnet, or one with unknown type and power.",
     },
     "shadow-shape-match": {
         "title": "Shadow Shape Match",
@@ -751,6 +751,7 @@ PAGES = [
         "description": "Compare three preschool STEM activities using common materials: change a shadow, test a paper bridge, or continue a repeating pattern.",
         "intro": "Choose the kind of question that fits what you have now: change a shadow, test a bridge, or continue a pattern. Each bounded start is complete on this page; the deeper routes carry the longer science, engineering, and math jobs.",
         "preschool_stem_layout": True,
+        "head_style": "@media (max-width: 480px) { .preschool-stem-hero h1 { font-size: min(2.5rem, 43px); } }",
         "evidence_note": "This chooser combines current Head Start, TERC, Smithsonian Science in Pre-K, and NAEYC sources with Kid Activity Lab editorial guidance. Kid Activity Lab has not family-tested these setups. The activity selection, readiness cues, materials, scripts, substitutions, and stop points are editorial choices. Timing, mess, comprehension, engagement, enjoyment, learning, repeatability, frustration, and safety outcomes are unknown.",
         "image": {
             "src": "../assets/preschool-stem/preschool-stem-three-ways.webp",
@@ -831,7 +832,7 @@ PAGES = [
             },
         ],
         "related_routes": [
-            ("Science investigations", "Choose from light, water, magnets, motion, and other observable questions.", "../collections/science-experiments-for-4-year-olds.html"),
+            ("Science investigations", "Choose from light, water, motion, and other observable questions.", "../collections/science-experiments-for-4-year-olds.html"),
             ("Engineering challenges", "Choose a mission, run a visible test, and make one redesign.", "../collections/engineering-activities-for-4-year-olds.html"),
             ("Hands-on math", "Choose counting, pattern, measuring, sorting, or comparing activities.", "../collections/math-activities-for-4-year-olds-at-home.html"),
             ("Age-four STEM", "Choose a fuller activity route organized for the current age-four cluster.", "../ages/stem-activities-for-4-year-olds.html"),
@@ -936,7 +937,7 @@ PAGES = [
                 "steps": ["Roll on a plain ramp.", "Add a towel.", "Try paper or a placemat.", "Compare the rolls."],
             },
         },
-        "activities": ["car-ramp-distance-test", "paper-bridge", "foil-boat-test", "magnet-hunt", "shadow-shape-match", "pattern-path", "wind-tower-test", "color-mixing-cups", "ramp-texture-test"],
+        "activities": ["car-ramp-distance-test", "paper-bridge", "foil-boat-test", "shadow-shape-match", "pattern-path", "wind-tower-test", "color-mixing-cups", "ramp-texture-test"],
         "related": ["easy stem activities for 4 year olds", "stem activities for 4 year olds at home", "science activities for 4 year olds"],
     },
     {
@@ -1115,11 +1116,11 @@ PAGES = [
         "title": "Science Experiments for 4 Year Olds | Kid Activity Lab",
         "h1": "Science experiments for 4 year olds.",
         "kicker": "Science",
-        "description": "Simple science experiments for 4 year olds using water, ice, magnets, shadows, colors, sound, ramps, and household materials.",
+        "description": "Simple science experiments for 4 year olds using water, ice, shadows, colors, sound, ramps, and household materials.",
         "intro": "The strongest science experiments for 4 year olds are short and observable. The child should be able to predict, test, notice, and try again without waiting for a long result.",
-        "tip": "Pick experiments where the result is easy to see: sinking, floating, sticking, melting, mixing, rolling, or making a sound.",
+        "tip": "Pick experiments where the result is easy to see: sinking, floating, melting, mixing, rolling, or making a sound.",
         "head_style": "@media (max-width: 480px) { .hero h1 { overflow-wrap: anywhere; } }",
-        "activities": ["sink-or-float-tray", "ice-melt-rescue", "magnet-hunt", "shadow-shape-match", "color-mixing-cups", "sound-shaker-match", "water-drop-race", "ramp-texture-test"],
+        "activities": ["sink-or-float-tray", "ice-melt-rescue", "shadow-shape-match", "color-mixing-cups", "sound-shaker-match", "water-drop-race", "ramp-texture-test"],
         "related": ["easy science experiments for 4 year olds", "science activities for 4 year olds at home", "preschool science experiments"],
     },
     {
@@ -1142,10 +1143,11 @@ PAGES = [
         "title": "No-Prep STEM Activities for 4 Year Olds | Kid Activity Lab",
         "h1": "No-prep STEM activities for 4 year olds.",
         "kicker": "No prep STEM",
-        "description": "No-prep STEM activities for 4 year olds using cups, blocks, socks, paper, toy cars, flashlights, magnets, ramps, and household objects.",
+        "description": "No-prep STEM activities for 4 year olds using cups, blocks, socks, paper, toy cars, flashlights, ramps, and household objects.",
         "intro": "This page is for the moment when you want STEM play without gathering a supply list. Most of these start with one object, one question, and one quick test.",
         "tip": "Choose the activity that matches what is already out: blocks, cups, toy cars, paper, socks, or a flashlight.",
-        "activities": ["cup-tower", "block-tower", "sock-ball-roll", "paper-bridge", "magnet-hunt", "shadow-shape-match", "ramp-texture-test", "pattern-path", "tape-road"],
+        "head_style": "@media (max-width: 480px) { .hero h1 { font-size: min(2.5rem, 48px); } }",
+        "activities": ["cup-tower", "block-tower", "sock-ball-roll", "paper-bridge", "shadow-shape-match", "ramp-texture-test", "pattern-path", "tape-road"],
         "related": ["easy stem activities for kids", "no prep stem activities preschool", "quick stem activities for preschoolers"],
     },
     {
@@ -1583,6 +1585,7 @@ def preschool_stem_lead_card(lead):
 
 def preschool_stem_page_html(page):
     root = rel_root(page["path"])
+    head_style = f'\n    <style>{page["head_style"]}</style>' if page.get("head_style") else ""
     chooser_links = "\n".join(
         f'''          <a href="{esc(choice["href"])}">
             <span class="stem-lane">{esc(choice["lane"])}</span>
@@ -1617,7 +1620,7 @@ def preschool_stem_page_html(page):
     <title>{esc(page["title"])}</title>
     <meta name="description" content="{esc(page["description"])}">
     <link rel="canonical" href="{esc(canonical)}">
-    <link rel="stylesheet" href="{root}styles.css?v=preschool-stem-front-door-1">
+    <link rel="stylesheet" href="{root}styles.css?v=preschool-stem-front-door-1">{head_style}
   </head>
   <body>
     <header class="site-header">
