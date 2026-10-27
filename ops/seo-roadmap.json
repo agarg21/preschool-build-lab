@@ -9,7 +9,7 @@
       "id": "KAL-RES-062",
       "title": "Qualify a preschool treasure-map pretend-play parent job",
       "kind": "current-question-query-source-qualification",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "bb94d62",
       "exact_paths": ["seo/preschool-treasure-map-game-qualification-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -26,7 +26,10 @@
       "decision": "DEFER new guide: three question bodies/two historical-one age7 contrast plus age4 report; six direct bodies already supply generic one-room/co-draw/picture/role-swap/recovery. Map and picture chain differ; exact material demand/missing output/full default-control-visual lineage unqualified. All13 desk12/24/mobile N/A, no KAL prototype or family test.",
       "qa_result": "Native176/GSC100/preflight/prior exact-SHA Pages40562051740/seven livebyte matches; full7/changedJSON/132IDs/287refs/privacy/scope/whitespace pass.",
       "review": "Jason 01a17ebe-b4d6-7081-8b23-c5789475c30d fresh different independent read-only full7 cycle-one PASS/no P0-P3.175 nonmutating/GSC100/132IDs/287refs/privacy-scope/source bodies-age limits/four lenses/everysection/all13 independently pass. Reviewer accessed Yarra; operator403 remains historical, no decision change. Freeze intact/reviewer closed.",
-      "next_action": "Fresh exact reviewed docs-only release/alignment, then separately audit actual Box Garage first-start/source/handoffs within remaining guard; no automatic repair."
+      "completed_on": "2026-10-27",
+      "release_commit": "75c64a208530f42147314c243838055952e8a4ac",
+      "release_evidence": "Jason independent full7 PASS/native176/GSC100/132IDs/287refs/exact7/privacy/whitespace; fresh0/0/empty outgoing/exact reviewed stage/docs-only main push/postpush clean0/0. No site change or Pages wait.",
+      "next_action": "Factual7 closeout/push/alignment then separately register Box Garage source/live first-start audit within remaining guard; count1/18:57:10Z retained, no automatic repair."
     },
     {
       "id": "KAL-IMP-044",

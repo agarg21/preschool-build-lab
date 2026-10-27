@@ -1,6 +1,8 @@
 # Operator Review
 
-## October27 - KAL-RES-062 Treasure-Map (PASS / release pending)
+## October27 - KAL-RES-062 Treasure-Map (PASS / released)
+
+COMPLETED learned-only75c64a2 after fresh0/0/empty outgoing/exact reviewed7 stage/privacy/whitespace/docs-only push/postpush clean0/0. Jason PASS/native176/GSC100/132IDs/287refs; no site/Pages. Factual7 closeout then separately register Box Garage audit, count1/18:57:10Z retained.
 
 Jason (01a17ebe-b4d6-7081-8b23-c5789475c30d) fresh different independent read-only full7 cycle-one PASS/no P0-P3. Independently175 nonmutating/GSC100/132IDs/287refs/changedJSON/privacy/scope/whitespace/owner inventory/four public bodies-six current answers/dates-age limits/four lenses/everysection/all13 pass. Yarra accessible during review; operator403 historical, no whole-run blocker. Full176/preflight/prior Pages-livebytes operator receipts. Freeze intact/reviewer closed; fresh exact docs-only release/alignment next.
 
