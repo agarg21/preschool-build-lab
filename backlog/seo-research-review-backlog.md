@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October27 Household Play Discovery
+
+`KAL-RES-055` [dated qualification](../seo/play-lane-discovery-2026-10-27.md) DEFERS a new missing-item tray-memory guide: four adjacent current-accessed questions with source-date limits do not establish exact demand; two incomplete query samples and seven direct activity bodies already cover rule/reduced-set/role-swap/no-tray/error-reveal utility. Complete material/reach/attention/cleanup boundary remains unqualified, all13 desk15/24/mobile N/A/critical override, no KAL browser/family test. Preserve separate card-pair chooser; no product recommendation or new URL. Reopen only on named constrained demand/output/material gates. Next separate source/live audit of existing DUPLO Games unnamed-rule execution gap; no automatic repair. Native/independent review/docs release pending; November1 retained.
+
 ## October27 Cup-Tower Adult-Role Handoff
 
 Completed research release8428f9e after Goodall final independent PASS/no findings, native158/GSC99/exact7 checks and clean alignment. No site change/Pages wait; separate implementation next.

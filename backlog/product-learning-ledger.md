@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-055 Household Play Discovery
+
+- Decision/persona: [four-question/live-body discovery](../seo/play-lane-discovery-2026-10-27.md) DEFERS a missing-item tray-memory URL. Preschool caregiver wants an understandable repeatable game, secondary younger reach/naming/turn-away/attention limits. Questions are adjacent, not exact tray demand; indexed dates/relative-label uncertainty retained.
+- Hypothesis/result: remove-one job differs from card-pair matching, but reduced counts, role swap, no-tray surfaces and error reveal are already in inspected current bodies. Exact material demand and incremental output UNKNOWN; complete material/skip/stop/cleanup default unfinished. All13 desk15/24,12 applicable/mobile N/A, critical material override; no rendered/family task.
+- Sources/classes: October27 Surrey/HealthHQ/UnitedWay/Dologi/TopParent/SJLittle/KidsActivities bodies SOURCE_BACKED within stated limits; AAP battery boundary not medical advice, CPSC403/BrightHorizons redirect not body support. Repo/GSC/preflight technically MEASURED, persona RESEARCH_HYPOTHESIS, decision/score EDITORIAL_JUDGMENT, no new TOOL_ESTIMATE. Family/physical/timing/mess/learning/safety/SEO effects UNKNOWN.
+- Confidence/lesson: high in inspected source duplication, moderate in deferral. A rule game missing from inventory does not itself establish demand; don't transfer broad household-game estimates or unsupported small-object lists. Sources already answer generic simplification.
+- Falsification/next: reopen only on named exact/repeated constrained demand, incremental output and qualified material/attention/cleanup gates. Local DUPLO card's unnamed rules warrant a separately registered source/live execution audit, not a tray-game substitution or repair yet. Native/review/docs-only release pending; November1 retained.
+
 ## 2026-10-27 - KAL-IMP-040 Cup Adult-Role Repair
 
 - Decision/persona: [same-task implementation](../reviews/cup-tower-adult-role-repair-2026-10-27.md) aligns the independent-hub Cup exception, card and guide; preschool caregiver must decide adult stay/skip/material/default before action, secondary younger reach/interruption/unwanted collapse/narrow text.
