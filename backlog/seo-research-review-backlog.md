@@ -1,5 +1,11 @@
 # SEO Research & Review Backlog
 
+## October27 Water Drop First Start
+
+Euler different independent full7 PASS/no P0-P3/native193/GSC100/142IDs/319refs/exact7/privacy/task-source-visual/all13 checked; CMOM image404 confirmed/body accessible. Frozen hashes intact/reviewer closed, fresh exact docs-only push/alignment then separate supported three-owner repair if original guard admits, completed1 retained.
+
+`KAL-RES-067` [audit](../reviews/water-drop-first-start-audit-2026-10-27.md) IMPROVE existing card/library/science separately to plain-water single-drop tray tilt, supported by current ScienceWorld/PBS/Boston/CMOM/Sciencenter bodies/3pagePDF-photo visuals. No mouth-tool/breath-training/clinical/newURL qualification; CMOM image404 retained. Sixlivebytes/12modes/8latecases/6keyboardBack/finder1-zero-Clear36/3noJS/viewport widths/all13 editorial6/26/critical setup-control gaps. Native193/full7 structured/privacy/different review/docs-only release pending; any supported repair separately registered promptly under same22:04:40Z/22:49:40Z guard, November1 retained.
+
 ## October27 Color Mixing First Start
 
 COMPLETED learned-only8cd2b1f/Fermat full7 plus cycle-two provenance delta PASS/native189/GSC100/140IDs/312refs/exact7/privacy-whitespace; fresh docs-only push/postpush clean0/0/no site-Pages/reviewer closed. Completed3/helper denies fourth. Next eligible verify actual release/sensing then separately register supported existing four-owner repair, not repeated qualification or automatic new guide; November1 retained.

@@ -6,6 +6,40 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-067",
+      "title": "Audit Water Drop Race surface, blowing and adult-control lineage",
+      "kind": "existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "7a84aaf",
+      "exact_paths": [
+        "reviews/water-drop-first-start-audit-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Retained research/reviews search finds October21 finder comparison only, not first-start qualification. Actual canonical5min-medium-help/waxpaper-waterdrops-straw/Putdrops-Blowgently-Racetwodrops-Trybigger/late gentleblow-electronics note lacks surface/drop-placement/role/blow-versus-inhale-fit/stop-rescue-cleanup source lineage.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Decide if a drop-movement comparison fits the child's abilities and owned materials, identify adult preparation/role and observe or decline without guessing a mouth-tool or water recipe.",
+      "hypothesis": "Current primary task evidence can distinguish a supported explicit drop-movement repair from unresolved mouth-tool/material/age-role gates; no automatic blowing recipe, pause or new guide.",
+      "acceptance": "Inspect one current live query family/primary answer bodies and relevant source visuals/age-context; actual card-library-science owners/livebytes/12modes/6keyboardBack/finder/3noJS/textfit. Four source-traced lenses/everysection/all13; return PRESERVE/IMPROVE/PAUSE/DEFER with exact unresolved surface/drop placement/blowing-role/result-stop-cleanup gates. Qualify any repair separately, no newURL presumed.",
+      "qa_plan": "Native193/changedJSON-GSC100-docrefs/privacy/exact7/whitespace; current source/age-role/material-task receipts and baselinebrowser. Different independent full7 read-only review/fresh completed fetch/no divergence/full outgoing/exact reviewed docs-only main push/final alignment, no Pageswait.",
+      "invariants": "Site/code/data/assets/CSV/config/automation/ControlRoom read-only; IMP049 and all peers preserved. No paid tools/indexing/medical or universal-safety/real family/physical/breath-training outcome claims. No source age/grade silently transferred.",
+      "observation_window": "Same22:04:36.290Z heartbeat/actual22:04:40Z/completed1/deadline22:49:40Z/max3. IMP049b5fe754/Pages40593211615 and closeout7a84aaf complete clean0/0. November1/October30 retained.",
+      "reconsider_if": "Repeated qualification, source age-role/surface/mouth-tool contradiction, missing control lineage or clinical boundary dependency; preserve exact unknown and assess an independently supported alternative rather than invent safety.",
+      "blockers": "Euler different full7 cycle-one PASS/no P0-P3/native193/GSC100-142IDs-319refs/privacy/task/current5bodies-3pagePDF-photo/four lenses/everysection/all13 independently checked; CMOM image404 confirmed/body accessible. Freeze intact/reviewer closed; fresh exact docs-only release pending, no mouth-tool/clinical/newURL qualification.",
+      "next_action": "Fresh completed fetch/no divergence/full outgoing/exact reviewed7 docs-only push/factual closeout/final alignment; separately register supported three-owner repair promptly if original22:04:40Z/22:49:40Z guard/completed1 admits. November1 retained."
+    },
+    {
       "id": "KAL-IMP-049",
       "title": "Make Color Mixing Cups receiver and adult handling explicit",
       "kind": "reviewed-four-owner-first-start-repair",

@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-067 Water Drop First Start
+
+- Review: Euler different independent full7 cycle-one PASS/no P0-P3;192nonmutating/GSC100-142IDs-319refs/privacy-scope/sixbytes/12modes-8latecases-6keyboardBack-finder-three noJS/current5bodies/3pagePDF-photo bytes-visuals/four lenses/everysection/all13 independently pass. CMOM image404 confirmed; freeze intact/reviewer closed/Master193 distinct. Fresh exact docs-only release next, not implementation approval.
+
+- Decision/persona: [three-owner audit](../reviews/water-drop-first-start-audit-2026-10-27.md) IMPROVE separately to one plain-water supported tray tilt, not newURL/straw safety or breath training qualification. Parent needs complete surface-placement-tool/role/fit/short child tilt/unclear-end/early stop/empty-dry; younger reach/blowing mismatch are stress constraints.
+- Hypothesis/result: actual generic5min-medium/straw-blow-race/bigger/late electronics note is not complete prep/control. Six livebytes/12modes/8latecases/6keyboardBack/finder1-zero-Clear36/3noJS/viewport widths/viewed390-root32 pass; no baseline overflow/fullword/AT/physical claim. Four lenses/everysection/all13 editorial6/26/no N/A/critical override.
+- Sources/classes: October27 ScienceWorld/PBS/Boston/CMOM/Sciencenter3pagePDF and source photo SOURCE_BACKED within limits, query receipt selected URLs/unknown provider-rank-demand. CMOM image404 retained. Single-drop tilt/securedtray/adult-only tool/help/stop-cleanup EDITORIAL_JUDGMENT, task RESEARCH_HYPOTHESIS, repo/browser MEASURED. Owned fit/adhesion/drop motion/hygiene/family/timing/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high in inspected omissions and explicit institutional tilt option, moderate proxy repair utility. An optional mouth-tool method is not the only way to preserve the movement job; source age/testing/photo claims do not transfer to our arrangement. Reopen source/label/role/surface/visibility contradiction, clinical dependency or critical failure/P0-P2/divergence. Native193/full7 review/docs release before separate repair if original guard admits; no medical rule/family/physical/AT/zoom/hardware result, November1 retained.
+
 ## 2026-10-27 - KAL-IMP-049 Color Mixing Cups Repair
 
 - Completion: reviewedb5fe754917ac2c97f91bb6ede6f980bc599b5352/Poincare full17 PASS/native193/exact-SHA Pages40593211615 success/no marker. Six affected/seven unchanged live200bytes/16production modes-9keyboardBack-6touch-sixoutgoing-finder-Space-expanded3sources-fournoJS/canonical-H1-credit-images/wordfit/live390-root32 viewed pass. No retry/regression/outcome claim; fresh release fetch0/0/reviewer closed/server stopped, completed1.

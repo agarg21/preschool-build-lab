@@ -1,5 +1,11 @@
 # Operator Review
 
+## October27 - KAL-RES-067 Water Drop First Start (PASS / release pending)
+
+Euler01a17f72-a6fa-77a1-8b88-b905c2f5204d fresh different independent full7 cycle-one PASS/no P0-P3;192nonmutating/GSC100-142IDs-319refs/JSON-privacy-scope-whitespace/sixbytes/12modes-8latecases-6keyboardBack-finder-three noJS/viewportwidths/current5bodies/3pagePDF-photo bytes-visuals/four lenses/everysection/all13 6/26 independently pass. CMOM image404 confirmed/body accessible, frozen7/HEAD intact/reviewer closed/Master193 distinct. Fresh exact docs-only release next; not implementation/physical approval.
+
+Exact7 at7a84aaf; [packet](../reviews/water-drop-first-start-audit-2026-10-27.md) IMPROVE three owners separately to plain-water supported tray tilt, exclude straw/breath-training/clinical/newURL claims. Current5primary bodies/3pagePDF+ScienceWorld photo viewed/CMOM image404/sixlivebytes/12modes-8latecases-6keyboardBack-finder-three noJS/viewportwidths/four lenses/everysection/all13 editorial6/26 pass as audit evidence. Native193/full7 structured/privacy/different review/docs-only release pending; same22:04:40Z/completed1/22:49:40Z retained.
+
 ## October27 - KAL-IMP-049 Color Mixing Cups (PASS / released)
 
 COMPLETEDb5fe754917ac2c97f91bb6ede6f980bc599b5352: fresh completed fetch0/0/empty outgoing/exact reviewed17/private scan/native193/JSON/whitespace/main push passed; exact-SHA Pages40593211615 success/no marker. Six affected/seven unchanged live200bytes/16production modes-9keyboardBack-6touch-sixoutgoing-finder-Space-expanded3sources-fournoJS/canonical-H1-credit-images/wordfit/live390-root32 viewed pass. No retry/regression/outcome claim; fresh release fetch0/0/reviewer closed/server8783 stopped. Completed1/factual7 closeout before next original guard/selection.
