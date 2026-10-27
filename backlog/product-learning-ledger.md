@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-062 Treasure-Map Game
+
+- Review: Jason independent full7 cycle-one PASS/no P0-P3;175 nonmutating/GSC100/132IDs/287refs/privacy/source-current-body limits/all13 pass; operator full176/preflight/prior receipt pass. Yarra accessible to reviewer/operator403 historical, not a decision blocker. Fresh exact docs-only release/alignment pending.
+
+- Decision/persona: [dated qualification](../seo/preschool-treasure-map-game-qualification-2026-10-27.md) DEFERS new guide. Roughly4-5 nonreader needs map-or-picture-chain choice, bounded start/help/find/rescue/finish; secondary mixed ages/ambiguous drawing/space/reach/attention. Three current-accessed questions include two historical posts and one age7 outing contrast, plus one age4 report, not four new focus-age requests.
+- Hypothesis/result: no clean owner and distinct job, but material exact demand/incremental output unqualified. Six current direct bodies already supply one-room/co-draw/direct picture/role-swap/visibility/stuck-clue repair. Map and chain are different mechanisms; all13 desk12/24/mobile N/A/critical default-control override. No KAL prototype/sourcevisual/family task.
+- Sources/classes: current Nemours/Words/Bright/FamilyEducation/TopParent/Dologi SOURCE_BACKED within limits; Yarra403/searchonly. July29 broad scavenger1900/outdoor1300/nature2900 TOOL_ESTIMATE not exact/summed demand. Git/GSC100/native/prior release bytes MEASURED; task RESEARCH_HYPOTHESIS, verdict/rubric EDITORIAL_JUDGMENT; physical/family/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high in inspected generic coverage, moderate in defer. Absence of owner and a friendlier generic recipe do not qualify another guide; reconcile map versus chain first. Reopen constrained focus-age demand/missing output and one full lineage/visual, not cadence. Next separate existing Box Garage first-start/source audit, no presumed repair. Full7/QA/different review/docs release pending; November1 retained.
+
 ## 2026-10-27 - KAL-IMP-044 Blanket River Toy-Only Repair
 
 - Completion: Heisenberg different independent full19 PASS/no P0-P3/native176; reviewed8a06250f684fa6982baf4c46039c3579344e5f6e/exact-SHA Pages40562051740 success/no marker. Seven affected/five unchanged live200bytes;20modes/wordfit/canonical-H1-credit-images/12keyboardBack/eight touch-emulatedBack/eight hash arrivals/finder-disclosure/five noJS pass, mobile/root32 viewed. Final generator hashb5387902 supersedes pre-label47cf receipt. No retry/regression/outcome claim, release fetch0/0/server stopped/reviewer closed. Completed3/no fourth; factual7 closeout/final alignment then next eligible heartbeat unqualified preschool treasure-map pretend-play qualification, November1 retained.
