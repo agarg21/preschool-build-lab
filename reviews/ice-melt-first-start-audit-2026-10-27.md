@@ -2,7 +2,9 @@
 
 KAL-RES-065, October27,2026; base4dfd8f0. Decision: **IMPROVE three existing
 owners separately**, not a new URL. Native185 passes; Locke independent full7
-cycle-one PASS/no P0-P3; docs-only release pending. Actual20:56:42Z/completed0/deadline21:41:42Z.
+cycle-one PASS/no P0-P3; COMPLETED learned-onlyc0e7b713f4d3182d071ffb4c406ee4dccbb06266,
+reviewed exact7 docs-only main push/postpush fresh fetch clean0/0. No site or
+Pages change. Actual20:56:42Z/completed1/deadline21:41:42Z.
 
 ## Task And Named Gap
 
@@ -122,3 +124,8 @@ PDF/four lenses/everysection/all13 independently pass. Reviewer direct PBS
 HTML200 recovered after operator web-tool timeout; historical timeout retained,
 not persistent unavailability. No fullword/touch/AT/physical/family claim.
 Master185 distinct/reviewer closed; fresh exact reviewed docs-only push next.
+
+Release receipt: completed fresh fetch0/0/empty outgoing/exact reviewed7/
+privacy/native185/JSON/whitespace/main push passed atc0e7b713f4d3182d071ffb4c406ee4dccbb06266.
+Fresh postpush clean0/0, no Pages wait. Completed1; factual closeout then
+separately register supported three-owner repair under same guard.
