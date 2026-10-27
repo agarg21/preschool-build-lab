@@ -1,5 +1,10 @@
 # Torn-Paper Collage Qualification - October 27, 2026
 
+COMPLETED learned-only: reviewed1916dea pushed main, Nietzsche independent
+full7 PASS/no findings, native168/GSC100/126IDs/268refs/exact7/privacy pass.
+Fresh postpush fetch clean0/0; no site change or Pages wait. This factual
+closeout records finished research; separate Paper Roll Play audit next.
+
 `KAL-RES-058`, base `cc20d4c`, research-only exact7 docs. All public access
 below is October27. No site/data/generator/config changes or paid requests.
 
