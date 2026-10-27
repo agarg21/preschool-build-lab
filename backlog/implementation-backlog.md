@@ -3,6 +3,7 @@
 ## October27 DUPLO First-Rule Repair
 
 `KAL-IMP-041` [bounded source-owned repair](../reviews/duplo-first-rule-repair-2026-10-27.md): explicit CSV-to-QUICK route, four-owned/two-pair visible-copy default, early adult material/attention/skip/stop, reset/row/partner/cleanup, four hub/library alignment and scoped card/fine-motor fit. No new URL/product/memory outcome;29 peers/Cup/all36/credits preserved. Native166/idempotence/links/20browser modes/keyboardBack/finder/noJS/sourcevisual pass, all13 editorial5->24/26. Different independent review and exact-SHA release/live checks pending, third/final action of14:58 run.
+Releasedde34722 after Schrodinger full20 PASS/no P0-P3; exact-SHA Pages40533193050 success/no marker, all8 livebytes/20 production modes/four hub keyboardBack/finder1-zero-Clear36/source disclosure/three noJS pass, mobile inspected. Factual closeout/final alignment follows; count3/no fourth. Next eligible hourly selection is fresh making/experimenting qualification unless verified defect/unfinished release wins; no repeated closed tray/puppet qualification absent named evidence.
 
 ## October27 Cup Adult-Role Repair
 
