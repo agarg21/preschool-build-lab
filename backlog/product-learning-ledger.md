@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-056 DUPLO First-Rule Audit
+
+- Decision/persona: [source/live audit](../reviews/duplo-first-rule-audit-2026-10-27.md) IMPROVES existing DUPLO Games card/four incoming entries in a separate build. Caregiver with suitable owned bricks needs first rule/adult setup/turn/reset/rescue/stop, secondary younger reach/divided attention/naming/assembly/no-video/narrow-text constraints.
+- Hypothesis/result: five live owners match bytes, all20 modes have late parent checks and unnamed rules; card puts video first. One fine-motor320/root32 width536; other widths/routing work. Same13 editorial5/26/no N/A/critical missing-rule override, not family/physical score. Foundation Can You Copy supports visible model; proposed four-brick/two-pair small start is editorial adaptation.
+- Sources/classes: October27 Foundation PDF printedp15 rendered/visually inspected plusp5 text; official LEGO/RCN/AAP bodies SOURCE_BACKED within limits. Creator video fetch failed/not watched. DOM/bytes/GSC/tests technically MEASURED; task RESEARCH_HYPOTHESIS, small-set/rule/stops/score EDITORIAL_JUDGMENT. Owned fit/physical/time/mess/family/learning/safety/SEO effects UNKNOWN, no product recommendation.
+- Confidence/lesson: high in missing-rule/order/fit failure, moderate in proposed utility. A title and video reference cannot replace the first executable rule; distinguish visible copying from memory, and qualify matched materials before start.
+- Falsification/next: separately register exact generator/card/four hubs/library/scoped-fit repair only after independent audit review; preserve other activities/Cup/URLs/all36/credits and retest same13/20modes/finder/noJS. Reconsider contrary source, pair/label fit, task failure or peer churn. Native/review/docs-only release pending; November1 retained.
+
 ## 2026-10-27 - KAL-RES-055 Household Play Discovery
 
 - Decision/persona: [four-question/live-body discovery](../seo/play-lane-discovery-2026-10-27.md) DEFERS a missing-item tray-memory URL. Preschool caregiver wants an understandable repeatable game, secondary younger reach/naming/turn-away/attention limits. Questions are adjacent, not exact tray demand; indexed dates/relative-label uncertainty retained.

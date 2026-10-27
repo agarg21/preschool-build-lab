@@ -6,6 +6,25 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-056",
+      "title": "Audit DUPLO Games first-rule execution",
+      "kind": "existing-owner-source-live-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "cdcb6bf",
+      "exact_paths": ["reviews/duplo-first-rule-audit-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "Reviewed RES055/Euclid PASS identifies local DUPLO Games card instructions to invent/play/switch a game without a stated rule; current caregiver questions support first-rule/reset/adult-role job only, not tray-game demand.",
+      "evidence_class": ["MEASURED", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Caregiver with existing large building bricks needs a first executable repeatable game and its adult/material/reset/rescue/stop decision without inventing rules or relying on a video.",
+      "hypothesis": "Maintained sources may qualify one clear bounded default for existing DUPLO owner; live task may confirm vague instructions, late checks or fit issues. No new game or repair presumed.",
+      "acceptance": "Reconcile current creator-reference access and maintained primary game/material sources, inventory incoming owners, source-traced four lenses and all13/every-section live desktop/mobile/root32/keyboard audit; PRESERVE/IMPROVE/DEFER with exact unresolved gates and bounded brief if supported.",
+      "qa_plan": "Native162/GSC99/JSON/refs/exact7/source/privacy/claims checks, different independent read-only review then fresh docs-only push/alignment. Site/generator read-only; any repair separately registered within sprint limits.",
+      "observation_window": "Technical/source audit only, no physical/family/SEO attribution; November1 weekly and protected unrelated pages retained.",
+      "reconsider_if": "Source support absent/contradictory, product/firsthand gate, no observed task failure, private-source spill, P0-P2 or divergence.",
+      "decision": "IMPROVE existing DUPLO card/four incoming entries in separate build: no named rule/late checks in20 modes, card video first/fine-motor root32 width536. Foundation visible-copy source supports mechanism; four owned bricks/two matching pairs/two-brick visible default is editorial adaptation. Same13 baseline5/26 critical override; no new URL/product/outcome.",
+      "next_action": "Meitner cycle-two full7 PASS/no remaining findings; corrected dispatch/test brief/receipts/scope/JSON122IDs/unchanged site-code/whitespace confirmed. Operator full162/fresh0-0 fetch/empty outgoing pass. Exact reviewed7 stage/privacy then docs-only push/alignment; separate repair within guard."
+    },
+    {
       "id": "KAL-RES-055",
       "title": "Discover a distinct preschool household Play job",
       "kind": "research-first-play-discovery",

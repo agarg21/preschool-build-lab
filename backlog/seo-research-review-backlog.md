@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October27 DUPLO First-Rule Audit
+
+`KAL-RES-056` [source/live audit](../reviews/duplo-first-rule-audit-2026-10-27.md) qualifies separate IMPROVE of existing card/four generic entries: no first rule, parent checks after steps in all20 modes, video before card start, fine-motor root32 width536/320. Foundation visible-copy PDF source/page15 image inspected and LEGO/RCN/AAP reconciled; four owned bricks/two matching pairs/two-brick visible model is editorial reduction, not memory training, creator-video adaptation or product review. Same13 baseline5/26/critical override; sources/physical limits retained. Native/independent review/docs release pending. No new guide/URL; any repair separately registered, all36/Cup/peers/credits invariant, November1 retained.
+
 ## October27 Household Play Discovery
 
 `KAL-RES-055` [dated qualification](../seo/play-lane-discovery-2026-10-27.md) DEFERS a new missing-item tray-memory guide: four adjacent current-accessed questions with source-date limits do not establish exact demand; two incomplete query samples and seven direct activity bodies already cover rule/reduced-set/role-swap/no-tray/error-reveal utility. Complete material/reach/attention/cleanup boundary remains unqualified, all13 desk15/24/mobile N/A/critical override, no KAL browser/family test. Preserve separate card-pair chooser; no product recommendation or new URL. Reopen only on named constrained demand/output/material gates. Next separate source/live audit of existing DUPLO Games unnamed-rule execution gap; no automatic repair. Native/independent review/docs release pending; November1 retained.
