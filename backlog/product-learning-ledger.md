@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-068 Ramp Texture First Start
+
+- Review: Mendel independent final full7 PASS/no P0-P3 including provenance correction;196nonmutating/100GSC-144IDs-326refs/privacy/scope/current5bodies-two visuals/desktop-mobile/finder-keyboardBack/tenlivebytes checked. Master197/full20mode/noJS distinct. Fresh exact docs release next, no implementation approval.
+
+- Decision/persona: [five-owner audit](../reviews/ramp-texture-first-start-audit-2026-10-27.md) IMPROVE existing compact starts/depth handoff separately; preserve full ramp/pack, no newURL. Caregiver must prepare/stabilize/release/compare or accept stuck/unclear/stop-clean while younger child can reach.
+- Hypothesis/result: actual missing car tile/support/fixed-release/roles/accepted non-result/cleanup/local trust boundary is not July's completed foil edit. Current PBS/EverWonder/PNC/PEEP/AAP bodies/two viewed visuals support bounded one-cloth comparison, not exact geometry or universal material safety.20modes/16late checks/12keyboardBack/finder1-zero-Clear36/five noJS/eightlivebytes; all13 editorial6/26/no N/A/critical override.
+- Classes: repo/live/browser MEASURED, primary patterns SOURCE_BACKED, task RESEARCH_HYPOTHESIS, simplified floor/cloth/control/stop EDITORIAL_JUDGMENT. Owned fit/adhesion/motion/family/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high inspected gaps/moderate proxy utility. A previously corrected material name does not solve support/release control or depth discovery; foil is not universally invalid. Reopen source/label/control contradiction, already adequate owner, critical clutter/P0-P2/peer drift. No physical/family/AT/realzoom/hardware testing. Native197/full7 structured/privacy/different review/docs-only release pending; November1 retained.
+
 ## 2026-10-27 - KAL-IMP-050 Water Drop Tilt Repair
 
 - Completion: reviewed2a63bac004989ea2fb3d6d124950f82049df6c0e/Faraday full17 PASS/native197/exact-SHA Pages40595922674 success/no marker. Five affected/seven unchanged live200bytes/12production modes-6keyboardBack-4touch-3outgoing-finder-Space-expanded2sources-three noJS/canonical-H1-credit-images/wordfit/live390-root32 viewed pass. No retry/regression/outcome claim; fresh release fetch0/0/reviewer closed/server stopped. Completed3/helper denies fourth; no new action this run.

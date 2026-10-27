@@ -6,6 +6,40 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-068",
+      "title": "Audit Ramp Texture first-start and depth handoff",
+      "kind": "existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "40d91d4",
+      "exact_paths": [
+        "reviews/ramp-texture-first-start-audit-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Actual compact canonical6min/low/medium/ramp-towel-foil-toycar/four generic actions lacks support/release/control/result-stop-cleanup lineage. July age4 towel-paper override is already completed; inspect other owners and maintained ramp guide, not repeat foil qualification.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Choose or decline a toy-car surface comparison, prepare and stabilize it, know adult/child roles and compare or accept no clear result without another broad search.",
+      "hypothesis": "Current primary sources and actual owner tasks distinguish a narrow handoff or first-start repair from already solved foil and ramp-depth work.",
+      "acceptance": "Inspect current query family/primary bodies; inventory actual card-library-age4-science-no-prep and depth owner; source-traced persona with stress constraint/four lenses/everysection/all13 score. PRESERVE/IMPROVE/DEFER/PAUSE with exact gates, no presumed newURL or recipe.",
+      "qa_plan": "Native197/JSON-GSC-docrefs/privacy/exact7/whitespace; baseline desktop/mobile/noJS/keyboard/finder and live-byte evidence. Different full7 read-only reviewer/fixP0-P2/fresh completed fetch/no divergence/full outgoing/exact docs-only main push/alignment. No Pageswait.",
+      "invariants": "No site/code/data/assets/CSV/config/automation/ControlRoom changes. Prior releases, July correction and existing ramp guide preserved. No paid tools/indexing/family/physical/safety/educational/SEO claims.",
+      "observation_window": "Heartbeat22:57:36.494Z/actual22:57:41Z/deadline23:42:41Z/completed0/max3. November1 synthesis/October30 expiry retained.",
+      "reconsider_if": "Repeated qualification, maintained owner already solves task, inadequate material-control lineage, clinical dependency, P0-P2/privacy/divergence; preserve unknowns.",
+      "blockers": "None. Mendel independent final full7 PASS/no P0-P3 including provenance correction;196nonmutating/100GSC-144IDs-326refs/privacy/scope/current5sources-two visuals/desktop-mobile/finder-keyboardBack/tenlivebytes checked. Master197/full20mode-noJS distinct; fresh exact docs-only release pending, research approval only.",
+      "next_action": "Current primary evidence/owner baseline/persona decision then nativeQA/independent review/docs release; separately register supported repair only after completion and guard."
+    },
+    {
       "id": "KAL-IMP-050",
       "title": "Replace vague Water Drop Race with supported tray-tilt start",
       "kind": "reviewed-three-owner-first-start-repair",
