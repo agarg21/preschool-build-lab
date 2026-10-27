@@ -1,5 +1,11 @@
 # Operator Review
 
+## October27 - KAL-IMP-041 DUPLO First-Rule Repair (review pending)
+
+Exact20 at0dda4dd, same actual14:58:41Z/count2. [Packet](../reviews/duplo-first-rule-repair-2026-10-27.md): one visible-copy rule/four owned bricks/two matching pairs/early checks/reset-rescue-collect, explicit CSV-to-QUICK dispatch and rendered regression; four hubs/library/scoped fit align. Native166/negative mutation/idempotence8siteoutputs/29peer blocks/Cup invariant/73HTML-959anchors-243reference attributes-82fragment hrefs-eightJSONLD-67URLs pass.20 modes/keyboardBack/finder1-zero-Clear36/three noJS/sourcevisual pass; same13 editorial5->24/26/no N/A, no family/physical/SEO effect. Exact20/JSON/refs/privacy and different review/fresh exact-SHA release/live task pending. November1 retained; no fourth action.
+Frozen QA full20: native166/GSC99/JSON123IDs/294localrefs/exactscope/source/privacy/claims/whitespace pass, changed JSON parsed/CSV unchanged. Different read-only reviewer then fresh exact release/exact-SHA production gates.
+Schrodinger independent cycle-one full20 PASS/no P0-P3:165 nonmutating tests/negative mutation/actual dispatch-output/8siteoutputs/29peers/site parse/GSC99/123IDs/294refs/privacy,20modes/four hub keyboardBack/finder1-zero-Clear36/disclosure/three noJS/source-PDF visual independently pass. All13 editorial24/26 confirmed; generator/full166 operator-only. Finder query persistence unverified (Back reset in fresh headless Chrome); no persistence claim. Next fresh exact reviewed release/exact-SHA live gates.
+
 ## October27 - KAL-RES-056 DUPLO First-Rule Audit (review pending)
 
 Exact7 research docs atcdcb6bf, same actual14:58:41Z/count1/deadline15:43:41Z. [Source/live packet](../reviews/duplo-first-rule-audit-2026-10-27.md): five200/live-byte owners,20 cases with unnamed rule/late checks, card video first/fine-motor320root32 width536; keyboardBack/noJS otherwise work. Foundation visible-copy PDFp15 rendered/image inspected, p5 text and LEGO/RCN/AAP bodies reconciled, creator fetch unavailable/no playback claim. Same13 baseline5/26/no N/A/critical override. IMPROVE card/four entries separately with four-owned-brick/two-matching-pair visible-copy editorial reduction, no new URL/product/memory outcome. Native/JSON/refs/exact7/privacy/independent review/docs release pending; November1 retained.

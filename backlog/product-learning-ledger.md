@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-IMP-041 DUPLO First-Rule Repair
+
+- Decision/persona: [same-task implementation](../reviews/duplo-first-rule-repair-2026-10-27.md) gives existing card/four entry owners one visible-copy loop, four owned bricks/two matching pairs, adult model/help/skip/stop, reset/rescue/collect. Caregiver first-rule task and younger reach/attendance/naming/assembly/no-video/narrow-text stresses remain research hypotheses.
+- Hypothesis/result: local20 modes now fit and put check/setup before actual copy steps; four hub keyboardBack/finder matching-pairs1/zero/Clear36/noJS work. Same13 editorial5->24/26/no N/A, critical technical failures clear, not family performance. Explicit CSV-to-QUICK route plus rendered regression prevents ineffective dictionary-only change.
+- Sources/classes: reviewed RES056 Foundation copy PDF/visual/LEGO-RCN-AAP boundaries SOURCE_BACKED for mechanism/general material only; four-brick visible rule/control/score EDITORIAL_JUDGMENT, task RESEARCH_HYPOTHESIS, DOM/tests MEASURED. Physical fit/joining/family/time/mess/learning/safety/SEO effects UNKNOWN; no memory or product recommendation, old video unverified/optional/not this rule's source.
+- Confidence/lesson: high technical rule/order/fit confidence, moderate usefulness; give one first rule and verify actual renderer output.29 peer blocks/Cup/all36/credits/URLs preserved, no new page.
+- Falsification/measurement boundary: contrary source, pair/label or task-fit failure, peer churn/P0-P2/divergence reopens. Native166/idempotence/links/browser/sourcevisual pass; independent review/exact-SHA production gate pending. November1 retained; third/final transaction of14:58 run.
+
 ## 2026-10-27 - KAL-RES-056 DUPLO First-Rule Audit
 
 - Decision/persona: [source/live audit](../reviews/duplo-first-rule-audit-2026-10-27.md) IMPROVES existing DUPLO Games card/four incoming entries in a separate build. Caregiver with suitable owned bricks needs first rule/adult setup/turn/reset/rescue/stop, secondary younger reach/divided attention/naming/assembly/no-video/narrow-text constraints.

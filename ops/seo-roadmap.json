@@ -6,6 +6,24 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-041",
+      "title": "Give existing DUPLO Games one runnable first rule",
+      "kind": "existing-owner-implementation",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "0dda4dd",
+      "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/cards/duplo-games.html", "site/ages/activities-for-3-year-olds-at-home.html", "site/collections/no-prep-activities-for-preschoolers.html", "site/collections/independent-activities-for-preschoolers.html", "site/collections/fine-motor-activities-for-preschoolers.html", "site/cards.html", "site/styles.css", "site/sitemap.xml", "tools/duplo-first-rule.test.mjs", "reviews/duplo-first-rule-repair-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "backlog/implementation-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "RES056 reviewed2ebf39e/Meitner final PASS: five livebytes/all20 modes no named rule/late controls, video-first card/fine-motor root32 width536. Foundation copy model source/visual and LEGO-RCN-AAP boundaries reconciled, four-brick reduction editorial, baseline all13 5/26 critical override.",
+      "evidence_class": ["MEASURED", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Caregiver with suitable owned bricks needs first rule/adult setup/turn/reset/rescue/stop without inventing rules or requiring video.",
+      "hypothesis": "Explicit four-owned-brick/two-pair visible copy loop and early adult controls align five owners and resolve measured missing-rule/order/fit failures without a new URL or outcome claim.",
+      "acceptance": "CSV-to-QUICK dispatch/rendered regression, four matched bricks/visible two-brick model/child-copy beside/compare-reset-optional roles; before-action labels/readiness/reach/attention/skip/stop, row/partner rescue/collect four, untested/open-ended/unmeasured limits; same13/20modes/finder/noJS/keyboard, peer/Cup/all36/credit/URL invariants.",
+      "qa_plan": "Three generators repeated/exact20 scope; focused/full native, JSON/XML/local targets-fragments/privacy/peer conservation; desktop1280/390/320/root32/keyboardBack/finder zero-Clear36/noJS/errors/fit/accessibility/sourcevisual. Different read-only reviewer then fresh exact reviewed push/exact-SHA Pages/all affected live bytes/task/final alignment.",
+      "observation_window": "Immediate technical verification only; no physical/family/memory/SEO effects. November1 weekly/October30 sprint expiry retained; third/final action this run.",
+      "reconsider_if": "Contrary source, unsuitable pair/label fit, unexpected output or peer churn, task/fit failure, P0-P2, divergence or ambiguous regression.",
+      "next_action": "Schrodinger independent full20 PASS/no P0-P3;165nonmutatingtests/negative mutation/dispatch/peers/parse/GSC99/123IDs/294refs/privacy/20modes/routes/finder/noJS/sourcevisual pass. Generator/full166 operator-only, finder query persistence unverified. Fresh exact reviewed release/exact-SHA Pages/eight livebytes/task/alignment; no fourth."
+    },
+    {
       "id": "KAL-RES-056",
       "title": "Audit DUPLO Games first-rule execution",
       "kind": "existing-owner-source-live-audit",

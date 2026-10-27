@@ -158,13 +158,25 @@ ACTIVITIES = {
         "title": "DUPLO Games",
         "url": "../cards/duplo-games.html",
         "ages": "3-5",
-        "time": "3 min",
-        "mess": "low",
-        "help": "low",
-        "materials": "DUPLO blocks",
-        "best_for": "simple rules, matching, reset-friendly games",
-        "steps": ["Pick blocks.", "Make a tiny game.", "Play one round.", "Switch the rule."],
-        "parent": "Keep small LEGO away from younger kids.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Check readiness first",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult stays beside setup",
+        "materials": "4 large DUPLO bricks: 2 matching pairs that look different",
+        "parent_label": "Rescue and cleanup",
+        "best_for": "copying one visible two-brick model, not a memory test or race",
+        "start_cue": "Adult checks four intact large owned DUPLO bricks: two matching shape-and-colour pairs that look different from each other. Follow the set's age/warning labels for every child who can reach it; keep spares and small LEGO out of younger reach. Use a firm low clear space and stay beside all reachable children. Try when the child can place bricks with help and follow a stop cue; skip if parts, pairs or attention do not fit. Stop for mouthing, throwing, damage, forceful pulling, discomfort or unwanted collapse. Research-backed, not family-tested by Kid Activity Lab.",
+        "adult_setup": "Take one brick from each pair and join them into a two-brick tower. Leave it visible. Give the child the matching two bricks. Say: Can you make yours look like mine, beside it? No timer, winner or height target.",
+        "steps": ["Look at the adult's two-brick tower.", "Copy it beside the model with the matching two bricks.", "Compare which brick is on the bottom and top.", "Gently separate; swap builder and copier if wanted."],
+        "parent": "Keep the model visible. Point to the next match or let the adult place it; use a side-by-side row if joining is unwanted. Adult handles stuck bricks without teeth or pulling hard. Collect all four, remove damaged parts and store away. Duration and mess have not been measured.",
+        "sources": [
+            ("LEGO Foundation: Can You Copy? (PDF page15)", "https://info.firstinspires.org/hubfs/Education_Resources/LEGO_Foundation_Six_Bricks_Booklet.pdf#page=15"),
+            ("Raising Children Network: stacking and building", "https://raisingchildren.net.au/preschoolers/play-learning/low-cost-play-ideas/stacking-and-building-games"),
+            ("AAP: toy labels and material guidance", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx"),
+        ],
+        "source_note": "Sources checked October27,2026. Visible model copying is source-backed; the four-brick reduction, scripts, help, stop and cleanup are Kid Activity Lab editorial adaptations. This is not the source's six-brick model, a memory test or an adaptation of the earlier creator video. Owned-part suitability and all family, physical, timing, mess, learning and safety outcomes are unknown. No product recommendation or safety assurance.",
     },
     "tube-sculpture": {
         "title": "Tube Sculpture",
@@ -764,6 +776,7 @@ PAGES = [
         "page_type": "collection",
         "primary": "fine motor activities for preschoolers",
         "title": "Fine Motor Activities for Preschoolers | Kid Activity Lab",
+        "head_style": "@media (max-width: 480px) { .hero h1 { font-size: min(2.5rem, 43px); } }",
         "h1": "Fine motor activities for preschoolers.",
         "kicker": "Fine motor",
         "description": "Fine motor activities for preschoolers using pom poms, paper rolls, blocks, tape, spoons, cups, and household objects.",
@@ -1497,7 +1510,7 @@ def activity_card(activity):
             <h2>{esc(activity["title"])}</h2>{start_cue}{early_link}
             <p>{esc(activity["best_for"])}</p>
             <div class="source-tags">
-              <span class="tag">{esc(activity["ages"])} years</span>
+              <span class="tag">{esc(activity.get("age_label", activity["ages"] + " years"))}</span>
               <span class="tag">{esc(activity.get("time_label", activity["time"]))}</span>
               <span class="tag">{esc(activity.get("mess_label", activity["mess"] + " mess"))}</span>
               <span class="tag">{esc(activity.get("help_label", activity["help"] + " help"))}</span>
@@ -1505,7 +1518,7 @@ def activity_card(activity):
           </div>
           <div class="activity-materials"><strong>Need</strong>{esc(activity["materials"])}</div>{adult_setup}
           <ol class="card-steps">{steps}</ol>
-          <p class="activity-parent"><strong>Parent check:</strong> {esc(activity["parent"])}</p>
+          <p class="activity-parent"><strong>{esc(activity.get("parent_label", "Parent check"))}:</strong> {esc(activity["parent"])}</p>
 {late_link}{source_note}
         </article>'''
 

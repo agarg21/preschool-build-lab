@@ -92,6 +92,10 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "duplo-games": {
+        "kicker": "Open-ended | Adult-guided",
+        "description": "DUPLO Games activity card: use four owned bricks in two matching pairs to copy a visible two-brick model, compare and reset. Research-backed, not family-tested by Kid Activity Lab.",
+    },
     "cardboard-car-ramp": {
         "time": "Open-ended",
         "materials": "flat stiff cardboard, two broad closed books, one toy car",
@@ -641,16 +645,18 @@ def quick_page(slug):
     is_sink_float = slug == "sink-or-float-tray"
     is_sock_roll = slug == "sock-ball-roll"
     is_cup_tower = slug == "cup-tower"
+    is_duplo_game = slug == "duplo-games"
     has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge or is_cup_tower
     routes = related_routes_html(
         slug, include_guide=not early_handoff,
         max_links=2 if is_paper_bridge or is_cup_tower else MAX_RELATED_ROUTES,
     )
+    parent_label = activity.get("parent_label", "Parent check")
     parent_check = f'''
 
-        <section class="parent-strip" aria-label="Parent check">
-          <strong>Parent check:</strong> {esc(activity['parent'])}
+        <section class="parent-strip" aria-label="{esc(parent_label)}">
+          <strong>{esc(parent_label)}:</strong> {esc(activity['parent'])}
         </section>'''
     pre_meta_parent_check = parent_check if is_paper_bridge or is_cup_tower else ""
     activity_start = f'''
@@ -697,20 +703,33 @@ def quick_page(slug):
           <p><a href="../articles/paper-cup-tower-kids.html">Full Paper Cup Tower guide</a> for fit, rescue and cleanup.</p>
           <p><strong>Fit:</strong> Try when the child can place a cup gently and follow a stop cue. Adult first checks that the matching cups balance and demonstrates two closed bottoms touching, not nesting. If they will not balance, use a row rather than forcing a tower.</p>
         </section>'''
+    if is_duplo_game:
+        early_guide = '''
+
+        <p><strong>Copy beside me:</strong> Can two little towers look the same? Keep the model in sight and take turns making a match. This is not a memory test or race.</p>'''
     card_class = (
         "kid-card maze-card" if is_ball_maze else
         "kid-card bridge-card" if is_paper_bridge else
         "kid-card sink-float-card" if is_sink_float else
         "kid-card sock-roll-card" if is_sock_roll else
-        "kid-card cup-tower-card" if is_cup_tower else "kid-card"
+        "kid-card cup-tower-card" if is_cup_tower else
+        "kid-card duplo-game-card" if is_duplo_game else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
         "bridge-card-1" if is_paper_bridge else
         "sink-float-card-1" if is_sink_float else
         "sock-roll-card-1" if is_sock_roll else
-        "cup-tower-card-1" if is_cup_tower else "nav-stable-2"
+        "cup-tower-card-1" if is_cup_tower else
+        "duplo-game-card-1" if is_duplo_game else "nav-stable-2"
     )
+    previous_video = '''
+
+        <details><summary>Previous video reference (optional)</summary>
+          <p>This earlier creator reference is not the source of the visible-copy rule above. Kid Activity Lab has not verified its current playback or instructions.</p>
+          <iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/giI5GHTVl20" title="Previous 3 Easy LEGO DUPLO Games Ideas video reference" loading="lazy" allowfullscreen></iframe>
+          <p><a href="https://www.youtube.com/watch?v=giI5GHTVl20">Open the previous creator reference</a></p>
+        </details>''' if is_duplo_game else ""
     return f'''<!doctype html>
 <html lang="en">
   <head>
@@ -748,7 +767,7 @@ def quick_page(slug):
 
         <section class="parent-strip" aria-label="Best for">
           <strong>Best for:</strong> {esc(activity['best_for'])}.
-        </section>{routes}{source_note}
+        </section>{routes}{source_note}{previous_video}
       </article>
     </main>
 
@@ -851,7 +870,7 @@ def main():
     for source_id in CARD_ROWS:
         row = rows[source_id]
         slug = SLUGS[source_id]
-        (OUT / f"{slug}.html").write_text(quick_page(slug) if slug == "cup-tower" else page(row, slug))
+        (OUT / f"{slug}.html").write_text(quick_page(slug) if slug in {"cup-tower", "duplo-games"} else page(row, slug))
     for slug in QUICK_CARD_SLUGS:
         (OUT / f"{slug}.html").write_text(quick_page(slug))
     (ROOT / "site" / "cards.html").write_text(cards_index())

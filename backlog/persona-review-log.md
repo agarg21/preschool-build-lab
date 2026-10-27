@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## October27 - KAL-IMP-041 DUPLO First Rule
+
+[Same-task every-section packet](../reviews/duplo-first-rule-repair-2026-10-27.md): caregiver first rule/reset/decline without video or invention, four source-traced lenses and reach/attention/naming/assembly/320root32 stresses. Same13 editorial5->24/26/no N/A, critical local rule/order/fit failures clear in20 modes; native166/keyboardBack/finder1-zero-Clear36/noJS/sourcevisual pass. No real family/physical/AT/touch/zoom/outcome evidence. Different independent review and exact-SHA production delivery pending; no new page/product/learning claim.
+
 ## October27 - KAL-IMP-040 Cup Adult-Role Repair
 
 [Same-task every-section packet](../reviews/cup-tower-adult-role-repair-2026-10-27.md): preschool caregiver selecting independent play needs actual adult stay/skip/material/default, younger reach/interruption/unwanted collapse and320/root32/direct arrival stresses. Same13 editorial12->24/26/no N/A, critical local mismatch/order override clears across three owners. Native162/twelve Chrome modes/sourcevisual/keyboardBack/noJS/direct fragment pass after scoped root32 anchor fix; independent review/exact-SHA live checks pending. Real family/physical/AT/touch/SEO effects untested.

@@ -1,5 +1,9 @@
 # Implementation Backlog
 
+## October27 DUPLO First-Rule Repair
+
+`KAL-IMP-041` [bounded source-owned repair](../reviews/duplo-first-rule-repair-2026-10-27.md): explicit CSV-to-QUICK route, four-owned/two-pair visible-copy default, early adult material/attention/skip/stop, reset/row/partner/cleanup, four hub/library alignment and scoped card/fine-motor fit. No new URL/product/memory outcome;29 peers/Cup/all36/credits preserved. Native166/idempotence/links/20browser modes/keyboardBack/finder/noJS/sourcevisual pass, all13 editorial5->24/26. Different independent review and exact-SHA release/live checks pending, third/final action of14:58 run.
+
 ## October27 Cup Adult-Role Repair
 
 `KAL-IMP-040` [bounded three-owner repair](../reviews/cup-tower-adult-role-repair-2026-10-27.md): independent hub now marks Cup Tower adult-guided with matching two-cup default, early full guide and checks; card/guide controls precede action, narrow typography fits. Seven peers/global definitions/library/image preserved, no new URL. Native162/idempotence/links/twelve viewport modes/keyboardBack/noJS/direct-fragment pass, scoped root32 anchor fixed. Same13 editorial12->24/26, no family evidence. Different reviewer and exact-SHA production release pending; third/final transaction this run.

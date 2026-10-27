@@ -817,6 +817,34 @@ th {
   scroll-margin-top: 7rem;
 }
 
+.duplo-game-card h1 {
+  font-size: 2rem;
+  line-height: 1.15;
+}
+
+.duplo-game-card .card-meta,
+.duplo-game-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.duplo-game-card .meta-tile {
+  min-height: 0;
+}
+
+.duplo-game-card .step-tile {
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 38px minmax(0, 1fr);
+  align-items: center;
+  gap: 12px;
+}
+
+.duplo-game-card .step-tile p {
+  margin: 0;
+  font-size: 1.15rem;
+  line-height: 1.35;
+}
+
 .sock-roll-card .card-meta {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
