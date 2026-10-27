@@ -2,8 +2,14 @@
 
 KAL-IMP-044, October27,2026; base c6cbf76. Third/final transaction of the
 17:59:35.379Z heartbeat, actual run-start17:59:40Z, admitted18:23:13Z before
-18:44:40Z new-action deadline. Completed2 until production verification.
-Heisenberg independent implementation review PASS; exact-SHA release pending.
+18:44:40Z new-action deadline. Admitted at completed2; final completed3.
+COMPLETED: Heisenberg independent full19 PASS/no P0-P3, native176; reviewed
+8a06250f684fa6982baf4c46039c3579344e5f6e pushed main. Exact-SHA
+[Pages40562051740](https://github.com/agarg21/preschool-build-lab/actions/runs/40562051740)
+succeeded. Seven affected and five unchanged live files return200/exact bytes;
+production20 modes/12keyboardBack/eight touch-emulatedBack/eight hash arrivals/
+finder/disclosure/five noJS/canonical-H1-credit-images pass. Live mobile/root32
+screenshots viewed. No retry/regression or physical/family/SEO outcome claim.
 
 ## Decision And Scope
 
@@ -156,3 +162,37 @@ aggregate/touch emulation/GSC100/295docrefs remain operator receipts.
 Final-label20-mode case-insensitive rerun and full rehearsal pass; CSS uppercase
 innerText required a harness correction, not a product edit/regression. Review
 freeze intact, reviewer closed. Fresh exact reviewed release/live gates next.
+
+## Production Receipt
+
+Fresh origin fetch0/0/empty outgoing range, exact reviewed19 staged paths,
+JSON/privacy/staged-whitespace and native176 passed before focused main push.
+Exact pushed SHA above is the successful Pages run's headSha. Workflow has no
+release marker; exact-SHA deployment plus affected byte equality are used.
+The first immediate run listing was empty while queued; subsequent run and
+watch succeeded without retry. Informational runner/action-runtime notices
+are not deployment failures and caused no workflow edit.
+
+| Affected live file | Bytes | SHA256 |
+|---|---:|---|
+| cards/blanket-river.html |5926|276fa55951274fc0f0297edfd497c1876f2b8ceaa507a18ce4e106d9904e3bcf|
+| cards.html |12311|96da673da7de604aa52e5c961da9a977c19ac484f744be7dbbcdae1e6abba2bd|
+| ages/activities-for-5-year-olds-at-home.html |14214|b99c95c6d2b996932f6fe476db07e77d77a156be5a139e63870d814cfd244788|
+| collections/indoor-activities-for-preschoolers.html |26285|3e518051c25d9c64a267432d6fcfda3b64294c254289dfdf2f19c2389f322bcd|
+| collections/building-activities-for-4-year-olds.html |26026|3e8114f6c1f30426445a4cbce833ba86a02706f094fe7b60c25fdf010e714d2e|
+| styles.css |40416|cfdb32e5071828bae8f71448c786cc712ee236122a447bde2aac5574ed5a736d|
+| sitemap.xml |8566|87bdd85ad9339b8b212f3d0a8a43aa85c3013f6f3208b491785a4827da52b61b|
+
+Both material images, contributors.css, Riley profile and About also200/exact
+unchanged bytes. Production Chrome repeats20 normal/root32 modes with word
+fit, oneH1, canonical, contributor and loaded images/no sampled pageerrors;
+12 keyboardBack,8 touch-emulatedBack,8 chooser/directhash readable arrivals,
+finder1-zero-Clear36, Space disclosure and5noJS pass. Screenshots viewed,
+including enlarged text. This is not true browser zoom, AT, hardware or family
+validation. Physical fit/stability/slip/time/mess/enjoyment/learning/safety/SEO
+remain UNKNOWN. Release fetch0/0; local server stopped and reviewer closed.
+Completed3/helper denies a fourth. Factual7 closeout/push/final alignment only,
+then end. Next eligible heartbeat verify actual receipt/fresh sensing and
+separately register preschool treasure-map pretend-play qualification from
+current caregiver questions/query bodies, an unqualified seed not a build.
+November1 synthesis/October30 restoration unchanged; no release blocker.

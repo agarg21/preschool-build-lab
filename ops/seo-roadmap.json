@@ -9,7 +9,7 @@
       "id": "KAL-IMP-044",
       "title": "Repair Blanket River toy-only role and first-start agreement",
       "kind": "reviewed-existing-owner-role-first-start-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "c6cbf76",
       "exact_paths": ["scripts/generate_card_pages.py", "scripts/generate_seo_pages.py", "scripts/generate_sitemap.py", "site/cards/blanket-river.html", "site/cards.html", "site/ages/activities-for-5-year-olds-at-home.html", "site/collections/indoor-activities-for-preschoolers.html", "site/collections/building-activities-for-4-year-olds.html", "site/styles.css", "site/sitemap.xml", "tools/blanket-river-handoff.test.mjs", "tools/preschool-indoor-consolidation.test.mjs", "reviews/blanket-river-role-handoff-repair-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/persona-review-log.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
@@ -22,9 +22,14 @@
       "invariants": "Other ACTIVITY definitions/peer blocks/Cup-Sock-DUPLO corrections/library36/IDs/canonicals/arrival offsets/CSV/assets/config unchanged. Caption labels blanket material illustration toy-only, not exact default or child-bearing route. Existing indoor legacy test only Blanket ordering/step updates, other starts unchanged.",
       "observation_window": "Technical/source proxy only, no physical fit/blanket slip/family/time/mess/learning/safety/SEO effect. Actual17:59:40Z/completed2/third-final/no fourth; November1/October30 retained.",
       "reconsider_if": "Source/material/geometry/role conflict, unexpected output or peer/asset/arrival drift, P0-P2, divergence or ambiguous regression.",
-      "qa_result": "Local176/focused16/all3generators twice/exact7siteoutputs/92sitefiles-20blocks-35library-35canonical peers conserved;73HTML-1001refs-77fragments-8LD-67URLs valid.20modes-wordfit/12keyboardBack/eight hash arrivals/eight touch-emulatedBack/finder-disclosure/five noJS pass; same13 editorial10->24/26/no N/A. Full19/changedJSON/131IDs/295docrefs/GSC100/privacy/whitespace pass; independent review and exact-SHA live delivery pending.",
+      "qa_result": "Native176/focused16/all3generators twice/finalb5387902/exact7siteoutputs/92sitefiles-20blocks-35library-35canonical peers conserved;73HTML-1001refs-77fragments-8LD-67URLs valid. Local AND production20modes-wordfit/12keyboardBack/eight hash arrivals/eight touch-emulatedBack/finder-disclosure/five noJS/canonical-H1-credit-images pass; same13 editorial10->24/26/no N/A. Full19/changedJSON/131IDs/295docrefs/GSC100/privacy/whitespace pass. Heisenberg full19 PASS; exact-SHA Pages40562051740/seven affected-five unchanged live200bytes verified.",
       "review": "Heisenberg 01a17ea4-5640-74c1-b619-1ab00ff7f014 fresh different independent read-only full19 cycle-one PASS/no P0-P3.175 nonmutating/actual five renderer-credit byte matches/conservation/20modes-12keyboardBack-eight hash arrivals/finder-disclosure-five noJS/all-site parsing/privacy-scope/current bodies-visuals/all13 independently pass. Full176/twice-generator finalb5387902/touch8/GSC100/295docrefs operator receipts; freeze intact/reviewer closed.",
-      "next_action": "Fresh exact reviewed main push/exact-SHA Pages/live bytes-task/alignment; count2 until production gate, no fourth action."
+      "completed_on": "2026-10-27",
+      "artifact": "reviews/blanket-river-role-handoff-repair-2026-10-27.md",
+      "release_commit": "8a06250f684fa6982baf4c46039c3579344e5f6e",
+      "release_evidence": "Fresh0/0/empty outgoing/exact reviewed19 staged/JSON-privacy-whitespace/native176 pass; main push succeeded. Exact-SHA Pages40562051740 success/no marker. Seven affected/five unchanged live200bytes;20modes-wordfit/canonical-H1-credit-images/12keyboardBack/eight touch-emulatedBack/eight hash arrivals/finder-disclosure/five noJS pass, mobile/root32 viewed. No retry/regression/family-physical-SEO claim; release fetch0/0, server8778 stopped/reviewer closed.",
+      "blockers": "None for completed release. Physical/family/time/mess/learning/safety/SEO effects remain UNKNOWN, not completion claims.",
+      "next_action": "Completed3/helper denies fourth: factual7 closeout/push/final alignment then end invocation. Next eligible heartbeat verify actual receipts/fresh sensing and separately register preschool treasure-map pretend-play qualification from current questions/live bodies, unqualified seed/not a build; November1/October30 unchanged."
     },
     {
       "id": "KAL-RES-061",
