@@ -129,3 +129,7 @@ default; physical/family efficacy unknown. Reconsider on source contradiction,
 same-task failure, reviewer P0-P2, unexpected generated scope or live regression.
 No new market-demand claim needed for correcting an existing owner's failure.
 November1 weekly retained. QA/review/release receipts follow in operator record.
+
+Release receipt: native153/GSC99/116IDs/236refs/exact7/whitespace/privacy pass;
+Helmholtz independent cycle-one PASS/no P0-P3. Reviewed1c4497d pushed main
+after fresh0/0 fetch/exact7 stage; clean0/0 confirmed. Docs-only/no Pages wait.

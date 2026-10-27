@@ -7,6 +7,7 @@
 - Sources/classes: October27 reopened RCN sock/ball play, AAP general activity planning and maintained ParentMap body; SOURCE_BACKED within exact limits. DOM/bytes/GSC technically MEASURED; task RESEARCH_HYPOTHESIS; brief/score EDITORIAL_JUDGMENT. Exact demand, physical suitability, duration/mess and family/safety/learning/SEO outcomes UNKNOWN.
 - Confidence/lesson: high in technical mismatch and late check, moderate in source-reconciled simpler target default. A valid link can still change the materials and leave no executable start; distinguish target contact from entry geometry.
 - Next falsification/measurement boundary: separately register consistent one-sock-ball/low-target early-check repair across existing owners; test same13 task, all routes/enlarged text/no-JS, source/visual agreement and exact release. Reconsider on contrary source or task failure. GSC99 October26 throughOctober24 rolling453/5 vs481/6 overlap is query-thin, not demand/effect. No new URL; November1 weekly retained. Review/release pending, not completed learning yet.
+- Completion receipt: operator native153/GSC99/JSON116/exact7/236refs/whitespace/privacy pass; Helmholtz independent cycle-one PASS/no P0-P3, reviewed1c4497d pushed and clean0/0 confirmed. Age3 fifth byte check is HTML-only follow-up; no added responsive/family claim. Dated learning completed, implementation remains separate.
 
 This is the cumulative record for evidence-grounded product learning. Each
 entry keeps research, measured behavior, editorial judgment, and actual human

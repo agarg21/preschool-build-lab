@@ -2,6 +2,8 @@
 
 ## October27 Sock-Roll Owner Handoff
 
+Completed research release1c4497d, Helmholtz independent PASS/no P0-P3, native153/GSC99/exact7 pass and clean0/0 after push. Build is separately registered next; no site delivery in this research action.
+
 `KAL-RES-052` [source/live task](../reviews/sock-roll-owner-audit-2026-10-27.md) qualifies IMPROVE existing card and four collection/age entries in a separately registered build: indoor basket target links to unexplained book tunnel, local stops follow steps. RCN supports socks/floor targets/closer start but not this tunnel; roll toward a low basket must not promise rim entry. All13 editorial10/26 with critical override, five live bytes match (age3 HTML-only follow-up), keyboard/Back and sampled widths work. No new URL or demand/physical/family effect; exact implementation QA and source/visual gates remain. Independent review/release pending.
 
 ## 2026-10-24 - Sink Or Float Existing-Owner Brief

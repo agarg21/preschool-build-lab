@@ -4,6 +4,7 @@
 
 Registered exact seven docs paths at clean/aligned156341c, run-start13:03:42Z/count0. [Dated audit](../reviews/sock-roll-owner-audit-2026-10-27.md) identifies live indoor-to-card material/goal mismatch and late local checks; four200 byte matches, card four-mode geometry, three indoor widths, keyboard/Back pass technically. RCN/AAP bodies and ParentMap source reopened; source limits/RCN retry/NHS403 retained. All13 editorial10/26 critical override; no real family/physical/demand effect. Current proposal is one target-roll existing-owner repair, separately registered; no site edit. Native/JSON/refs/privacy/exact-scope and different independent review/release pending; weeklyNovember1 retained.
 Helmholtz independent cycle-one PASS/no P0-P3 on full7 including fifth age3 live-byte/HTML-only follow-up. Independently verified sources, all13/10 arithmetic,116IDs/236refs/GSC99/whitespace/privacy and153 tests; intended exclusion of temporary-writing sitemap test failed, but no out-of-scope diff remains. Operator native153 and browser measurements are separate evidence. Final source/privacy/JSON/exact7 checks pass. Docs-only release next; no Pages wait.
+Release: fresh fetch0/0 and empty outgoing range, exact7 stage/no unstaged, whitespace/source/privacy checked;1c4497db0c1837856f8e14aaad1c85ac98f720b6 pushed main, clean0/0 alignment confirmed. Learned-only completion; factual receipt closeout follows. Next separately registered existing-owner repair, not a new URL.
 
 ## October 27 - KAL-IMP-038 Shared Contributor Credits (PASS)
 
