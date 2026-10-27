@@ -1,6 +1,8 @@
 # Operator Review
 
-## October27 - KAL-IMP-047 Shadow Compact Repair (PASS / release pending)
+## October27 - KAL-IMP-047 Shadow Compact Repair (PASS / released)
+
+COMPLETED reviewed01575cbe954577cc7291bef8eed5fad290ca6075: fresh completed fetch0/0/empty outgoing/exact reviewed18 staged/private scan/native185/JSON/whitespace/main push pass; exact-SHA Pages40579721591 success/no marker. Six affected/seven unchanged live200bytes;16production modes/9keyboardBack/6touch/three depth/finder-Space/fournoJS/canonical-H1-credit-images/parentfit pass, live390/root32 viewed. No retry/regression/outcome claim; fresh release fetch clean0/0/reviewer closed/server8781 stopped. Completed3/helper denies fourth; factual7 closeout/final alignment then end, next eligible Ice Melt source/task audit after retained-history check, not a presumed new page/repair.
 
 Boole01a17f10-aae2-74f3-91b9-6a602afc9652 fresh different independent read-only full18 cycle-one PASS/no P0-P3;184nonmutating/3inmemorynegative/actualrenderers/sixoutput-scope/93files-35canonical-35library-13hubblocks/depth-Box conservation/16modes-9keyboardBack-6touch-three depth-finder-Space-fournoJS/73HTML-1001refs-77fragments-8LD-67URLs-313docrefs-GSC100/privacy pass. Current primary bodies/visual limits/four lenses/everysection/all13 editorial25/26/no contradiction pass. All18hashes unchanged/reviewer closed; Master185/twice receipts distinct, fresh exact reviewed main push/exact-SHA production next.
 

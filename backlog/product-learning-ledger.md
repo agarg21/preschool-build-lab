@@ -2,6 +2,8 @@
 
 ## 2026-10-27 - KAL-IMP-047 Shadow Compact Start
 
+- Completion: reviewed01575cbe954577cc7291bef8eed5fad290ca6075/Boole full18 PASS/native185/[exact-SHA Pages40579721591](https://github.com/agarg21/preschool-build-lab/actions/runs/40579721591) success/no marker. Six affected/seven unchanged live200bytes;16production modes/9keyboardBack/6touch/three depth/finder-Space/fournoJS/canonical-H1-credit-images/parentfit pass, live390/root32 viewed. No retry/regression/outcome claim; release fetch0/0/reviewer closed/server8781 stopped. Completed3/helper denies fourth; next eligible separately registered Ice Melt Rescue source/first-start audit after receipt/sensing and retained-history check, no presumed repair/November1 retained.
+
 - Review: Boole fresh different full18 cycle-one PASS/no P0-P3;184nonmutating/3negative mutations/actualrenderers/conservation/16modes-routes-touch-depth-finder-Space-fournoJS/parse-GSC100-137IDs-313refs/privacy/current bodies-visuals/four lenses/everysection/all13 independently pass. All18hashes unchanged/reviewer closed; Master185/twice distinct, fresh exact-SHA production gates next. Third/final/no fourth retained.
 
 - Decision/persona: [four-output repair](../reviews/shadow-compact-start-repair-2026-10-27.md) applies reviewed RES064, no new URL. Appropriate owned light/block/wall, adult-controlled steady beam/visible path, one larger/back comparison/unclear, early fit-attend-skip-stop and relight-or-end/collect; reach/dimness/light-handling/root32 stress.

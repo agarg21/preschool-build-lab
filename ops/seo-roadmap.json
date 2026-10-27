@@ -9,7 +9,7 @@
       "id": "KAL-IMP-047",
       "title": "Reconcile Shadow compact starts with adult-controlled wall light",
       "kind": "reviewed-four-owner-first-start-repair",
-      "status": "reviewed_release_pending",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "a5be7cb",
       "exact_paths": [
@@ -50,8 +50,12 @@
       "reconsider_if": "Device/beam/role/result/source conflict, missing/late controls or optical assurance, worse text fit, peer/inheritance drift, unexpected output, P0-P2/divergence/ambiguous regression.",
       "qa_result": "Native185/actual5renderer-contributor/depth section hashes/twice631a3149/exact6outputs/93site files-35canonical-13hubblocks-35library conserved;73HTML-1001refs-77fragments-8LD-67URLs pass. Final local16modes-9keyboardBack-6touch-three depth-finder-Space-fournoJS/H1 parentfit/390-root32 screenshots pass. All13 editorial7->25/26/no N/A/critical local failure clears, not family evidence. Full18/1JSON/137IDs/313refs/GSC100/privacy-scope-whitespace pass.",
       "review": "Boole01a17f10-aae2-74f3-91b9-6a602afc9652 fresh different independent full18 cycle-one PASS/no P0-P3;184nonmutating/3negative mutations/actualrenderers/conservation/16modes-routes-touch-depth-finder-Space-fournoJS/parse-GSC100-313refs/privacy/current bodies-visuals/four lenses/everysection/all13 independently pass. All18hashes unchanged/reviewer closed; Master185/twice distinct.",
-      "blockers": "Exact-SHA production gates pending.",
-      "next_action": "Fresh completed fetch/no divergence/full outgoing/exact reviewed main push/exact-SHA Pages/live bytes-task/factual closeout/final alignment. Third/final/no fourth; finish safely after deadline if needed."
+      "completed_on": "2026-10-27",
+      "artifact": "reviews/shadow-compact-start-repair-2026-10-27.md",
+      "release_commit": "01575cbe954577cc7291bef8eed5fad290ca6075",
+      "release_evidence": "Fresh completed fetch0/0/empty outgoing/exact reviewed18 stage/private scan/native185/JSON/whitespace/main push passed. Exact-SHA Pages40579721591 success/no marker; six affected/seven unchanged live200bytes. Production16modes-9keyboardBack-6touch-three depth-finder-Space-fournoJS/canonical-H1-credit-images/parentfit pass, live390/root32 viewed. No retry/regression/outcome claim; release fetch clean0/0/reviewer closed/server8781 stopped.",
+      "blockers": "None for completed release; physical/device suitability and family/SEO outcomes remain unknown.",
+      "next_action": "Completed3/helper denies fourth: factual7 closeout/QA/push/final alignment then end. Next eligible heartbeat verify receipts/alignment/fresh sensing and retained history, then separately register Ice Melt Rescue compact-card/science source-task audit: current8min/warm-water/spoon/late no-hot note lacks adult-role/material-temperature/stop/rescue/cleanup lineage. No presumed new guide/repair, no fourth; November1/October30 unchanged."
     },
     {
       "id": "KAL-RES-064",

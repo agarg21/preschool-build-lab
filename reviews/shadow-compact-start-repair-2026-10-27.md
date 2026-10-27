@@ -2,7 +2,13 @@
 
 KAL-IMP-047, October27,2026; basea5be7cb; third/final transaction of19:59
 heartbeat, retained20:01:34Z/strict20:44:05.842Z start deadline, completed2.
-Boole independent full18 cycle-one PASS/no P0-P3; production release pending.
+COMPLETED: Boole independent full18 cycle-one PASS/no P0-P3/native185;
+reviewed01575cbe954577cc7291bef8eed5fad290ca6075, [exact-SHA Pages40579721591](https://github.com/agarg21/preschool-build-lab/actions/runs/40579721591)
+succeeded/no marker. Six affected/seven unchanged live200bytes, production
+16modes/9keyboardBack/6touch/three depth/finder-Space/fournoJS/canonical-H1-
+credit-images/parentfit pass; live390/root32 screenshots viewed. No retry or
+regression/outcome claim. Release fetch clean0/0, reviewer closed/server8781
+stopped; completed3/helper denies fourth, no new action this run.
 
 ## Decision And Scope
 
@@ -120,3 +126,34 @@ PBS/Gryphon/AAP/source-visual limits pass, no action/rescue contradiction.
 Master185/twice generator receipts distinct; no independent generator/physical/
 family/actualzoom/hardware/AT claim. Reviewer closed, frozen material intact.
 Fresh exact reviewed main push/exact-SHA Pages/live bytes/task next.
+
+## Release And Handoff
+
+Fresh completed fetch0/0/empty outgoing/exact reviewed18 stage/private scan/
+native185/JSON/whitespace passed;01575cbe954577cc7291bef8eed5fad290ca6075
+pushed main. Exact-SHA Pages40579721591 succeeded. No release marker exists;
+SHA plus affected file bytes establish deployment. All six affected and seven
+unchanged reference files returned200 and byte-matched local:
+
+| Affected file | Bytes | SHA256 |
+|---|---:|---|
+| cards/shadow-shape-match.html |6649|0acb2f610c5914c7e0b5b5c38347197f718e25963427f637894c9e538cab4840|
+| cards.html |12546|57ee87c0438307677b2c5e9b205a212acf140ff0d249e29357743c08ae7822e4|
+| collections/science-experiments-for-4-year-olds.html |17380|524b7016b957137237aa8016c00eaf715eada2ecf9525a547d894a546c79fd6e|
+| collections/no-prep-stem-activities-for-4-year-olds.html |16815|db484e975b69ccf95f39997170c3606dd594dcd62106aa11363374eca5a48e2b|
+| styles.css |41660|1e7dbd08aa25291c293b53f3b4fd0ea94307a1c6b8bb8b58bfd3ff78211fb18e|
+| sitemap.xml |8566|9dd07837d23819faa9be4062e82e6db1fecdc9dc297625257aae609df84a8369|
+
+Production repeats all16modes/9keyboardBack/6emulatedtouch/three depth routes/
+finder1-zero-Clear36/Space/fournoJS/canonical-H1-credit-images/parentword-fit
+checks. Live390/root32 full-page screenshots viewed. No retry/regression,
+physical/family/AT/truezoom/hardware/SEO outcome. Fresh release fetch0/0,
+reviewer closed/server8781 stopped. Completed3/helper refuses fourth.
+
+Next eligible heartbeat: verify receipts/alignment/fresh sensing, then register
+Ice Melt Rescue compact-card/science-owner source and first-start audit. Its
+current8min/warm-water/spoon/late no-hot note names a missing adult-role,
+material/temperature/stop/rescue/cleanup lineage gate; no repair or physical
+rule presumed. Initial roadmap/October review inventory found no completed
+Ice Melt qualification; verify retained history before substantive research.
+Not a new URL, page quota or fourth action. November1/October30 unchanged.
