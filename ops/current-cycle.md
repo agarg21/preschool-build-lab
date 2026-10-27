@@ -10,6 +10,7 @@
 - Full7 frozen: native162/GSC99/JSON122IDs/256localrefs/exactscope/whitespace/source/privacy pass. Different independent read-only review then fresh docs-only release/alignment; any repair separately registered within15:43:41Z, count1 retained.
 - Meitner independent cycle-one PASS_WITH_P3/no P0-P2;161 nonmutating tests/GSC99/122IDs/256refs/scope/privacy/source-PDF/five livebytes/all20 modes/four keyboardBack/noJS pass. Sole P3 brief routing assumption fixed: explicit CSV-to-QUICK dispatch and rendered-card regression required, no site change. Narrow confirmation then fresh docs-only release; count1 retained.
 - Meitner cycle-two full7 PASS/no remaining findings; corrected dispatch/test brief/receipts/scope/JSON122IDs/unchanged site-code/backlog hashes/whitespace confirmed read-only. Operator full162 rerun/fresh0/0 fetch/empty outgoing range pass. Exact reviewed7 stage/privacy then docs-only push/alignment and factual closeout; repair separately registered next if guard admits. Count1 retained.
+- COMPLETED learned-only: exact reviewed7/source/privacy/staged whitespace pass,2ebf39e280f83e1f5209656935e81ae4056ed775 pushed main, clean0/0 confirmed. No site/Pages change. Factual7 closeout/QA/push then separately register KAL-IMP-041 first-rule repair. Actual14:58:41Z/completed2/deadline15:43:41Z, no more than third transaction. November1 retained.
 
 ## Run Checkpoint - October27 14:58 Play Discovery
 

@@ -161,3 +161,7 @@ routing/test brief, accurate receipts, scope/unchanged backlog hashes/JSON122
 IDs/whitespace and unchanged site/code, read-only/no broader rerun. Operator
 full162 rerun/fresh0-0 fetch/empty outgoing range pass. Exact reviewed docs-only
 stage/privacy/push/alignment next; build not started in this action.
+COMPLETED learned-only: reviewed2ebf39e280f83e1f5209656935e81ae4056ed775
+pushed main, clean0/0 confirmed. No site/Pages change. Factual closeout then
+separately register KAL-IMP-041 bounded repair; actual14:58:41Z/completed2,
+new starts before15:43:41Z. November1 retained.

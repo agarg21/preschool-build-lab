@@ -3,6 +3,7 @@
 ## October27 DUPLO First-Rule Audit
 
 `KAL-RES-056` [source/live audit](../reviews/duplo-first-rule-audit-2026-10-27.md) qualifies separate IMPROVE of existing card/four generic entries: no first rule, parent checks after steps in all20 modes, video before card start, fine-motor root32 width536/320. Foundation visible-copy PDF source/page15 image inspected and LEGO/RCN/AAP reconciled; four owned bricks/two matching pairs/two-brick visible model is editorial reduction, not memory training, creator-video adaptation or product review. Same13 baseline5/26/critical override; sources/physical limits retained. Native/independent review/docs release pending. No new guide/URL; any repair separately registered, all36/Cup/peers/credits invariant, November1 retained.
+Completed research2ebf39e after Meitner final PASS/no findings/native162/GSC99/exact7/JSON/refs/privacy/whitespace; clean0/0, docs-only/no Pages. Brief explicitly requires CSV-to-QUICK dispatch and generated-output regression. Separate KAL-IMP-041 repair next, no automatic combined action.
 
 ## October27 Household Play Discovery
 
