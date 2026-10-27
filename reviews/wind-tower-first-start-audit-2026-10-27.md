@@ -1,5 +1,7 @@
 # Wind Tower First-Start And Fan-Control Audit
 
+COMPLETED learned-onlyc0a4c0b819c7f1c6db223385087e8495529c48dd/Rawls final full7 PASS/native201/100GSC-146IDs-333refs/exact7/privacy-whitespace. Fresh reviewed docs-only main push/postpush fresh fetch clean0/0/no site-Pages/reviewer closed. Completed3/helper denies fourth; supported Wind Tower five fan/discovery-owner repair is next separately registered in a later eligible run, preserve LowBlockWall/prior trust corrections; no repeat qualification/newURL. November1/October30 retained.
+
 Rawls 01a17fad-dd18-72f0-853d-7ee098e592c5 fresh different final full7 PASS/no P0-P3 including provenance delta;200nonmutating/100GSC-146IDs-333refs/JSON-priorroadmap-privacy-scope-whitespace/current5primary bodies-two source visuals-two screenshots/desktop-mobile-eightkeyboardBack/finder/ninelivebytes checked. Full24mode-root32-sixnoJS matrix Master-only; four lenses/everysection/all13 compact7/26 independently accepted. Frozen7/HEAD unchanged/reviewer closed/Master201 distinct. Fresh exact docs-only release/alignment next; third-final/no fourth, no implementation/physical/family/AT/truezoom/demand approval.
 
 KAL-RES-069, October27,2026. Registered at6ce58c4 before research.

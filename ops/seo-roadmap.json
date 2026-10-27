@@ -9,7 +9,7 @@
       "id": "KAL-RES-069",
       "title": "Audit Wind Tower compact fan-control and owner handoff",
       "kind": "existing-owner-source-task-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "6ce58c4",
       "exact_paths": [
@@ -37,7 +37,7 @@
       "observation_window": "Same22:57:36.494Z heartbeat/actual22:57:41Z/completed2/third-final/no fourth/deadline23:42:41Z. Fresh cleanmain0/0 at6ce58c4 after IMP051 complete. November1/October30 retained.",
       "reconsider_if": "Repeated completed qualification, sufficient existing handoff/no task gap, source control/material/role conflict, clinical dependency/P0-P2/privacy/divergence; preserve exact unknown.",
       "blockers": "None. Rawls final full7 PASS/no P0-P3 including provenance delta;200nonmutating/100GSC-146IDs-333refs/privacy/scope/current5bodies-two visuals/desktop-mobile-eightkeyboardBack/finder/ninelivebytes independently checked. Master201/full24mode-root32-sixnoJS distinct. Frozen7-HEAD intact/reviewer closed, fresh exact docs-only release pending; research only.",
-      "next_action": "Current source/owner/task audit then bounded decision/nativeQA/different full7 review/docs-only release/factual closeout/final alignment; no fourth."
+      "next_action": "COMPLETED learned-onlyc0a4c0b819c7f1c6db223385087e8495529c48dd/Rawls final full7 PASS/native201/100GSC-146IDs-333refs/exact7/privacy-whitespace. Fresh reviewed docs-only main push/postpush fresh fetch clean0/0/no site-Pages/reviewer closed. Completed3/helper denies fourth; supported Wind Tower five fan/discovery-owner repair is next separately registered in a later eligible run, preserve LowBlockWall/prior trust corrections; no repeat qualification/newURL. November1/October30 retained."
     },
     {
       "id": "KAL-IMP-051",
