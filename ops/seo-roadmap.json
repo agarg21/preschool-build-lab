@@ -6,6 +6,40 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-069",
+      "title": "Audit Wind Tower compact fan-control and owner handoff",
+      "kind": "existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "6ce58c4",
+      "exact_paths": [
+        "reviews/wind-tower-first-start-audit-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Actual canonical6min-low-medium/blocks-paperfan/build-fan-see-fall-buildwider lacks explicit low default/role/fan-contact/result-stop-cleanup/local evidence. September pack/age4 trust correction deliberately excluded sharedACTIVITIES; August building job is LowBlockWall not fan test; engineering already has sixblocks/threewaves. Audit new compact task/control gaps, not repeated July naming/September trust qualification.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Decide if a low block/fan comparison fits, know who builds/fans/retrieves, observe standing/fallen/unclear without guaranteeing failure or enjoyment, stop and put away.",
+      "hypothesis": "Current primary bodies and actual owner inspection can distinguish compact-role/control repair from maintained pack/engineering/building jobs, without a newURL or invented wind resistance proof.",
+      "acceptance": "Current live query family/primary bodies/relevant source visuals; inspect card-library-age4-engineering-building-pack with distinct ownership, desktop/mobile/noJS/routes/finder and source-traced four lenses/everysection/all13. PRESERVE/IMPROVE/PAUSE/DEFER with exact unresolved fan/material/control/result/handoff gates. No site edits.",
+      "qa_plan": "Native201/changedJSON-GSC100-docrefs/privacy/exact7/whitespace. Different full7 read-only reviewer/fixP0-P2/fresh completed fetch/no divergence/full outgoing/exact docs-only main push/alignment. Third/final/no fourth; any repair separately registered later.",
+      "invariants": "All site/code/data/assets/CSV/config/automation/ControlRoom read-only; IMP051 production54ae262/Pages40601139547 preserved. No paid tools/indexing/physical/family/clinical/safety/learning/SEO claim or fixed block/wave count presumed sourcevalidated.",
+      "observation_window": "Same22:57:36.494Z heartbeat/actual22:57:41Z/completed2/third-final/no fourth/deadline23:42:41Z. Fresh cleanmain0/0 at6ce58c4 after IMP051 complete. November1/October30 retained.",
+      "reconsider_if": "Repeated completed qualification, sufficient existing handoff/no task gap, source control/material/role conflict, clinical dependency/P0-P2/privacy/divergence; preserve exact unknown.",
+      "blockers": "None. Rawls final full7 PASS/no P0-P3 including provenance delta;200nonmutating/100GSC-146IDs-333refs/privacy/scope/current5bodies-two visuals/desktop-mobile-eightkeyboardBack/finder/ninelivebytes independently checked. Master201/full24mode-root32-sixnoJS distinct. Frozen7-HEAD intact/reviewer closed, fresh exact docs-only release pending; research only.",
+      "next_action": "Current source/owner/task audit then bounded decision/nativeQA/different full7 review/docs-only release/factual closeout/final alignment; no fourth."
+    },
+    {
       "id": "KAL-IMP-051",
       "title": "Make Ramp Texture support, release and depth handoff explicit",
       "kind": "reviewed-five-owner-first-start-repair",

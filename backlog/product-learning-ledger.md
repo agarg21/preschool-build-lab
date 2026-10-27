@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-069 Wind Tower First Start
+
+Rawls 01a17fad-dd18-72f0-853d-7ee098e592c5 fresh different final full7 PASS/no P0-P3 including provenance delta;200nonmutating/100GSC-146IDs-333refs/JSON-priorroadmap-privacy-scope-whitespace/current5primary bodies-two source visuals-two screenshots/desktop-mobile-eightkeyboardBack/finder/ninelivebytes checked. Full24mode-root32-sixnoJS matrix Master-only; four lenses/everysection/all13 compact7/26 independently accepted. Frozen7/HEAD unchanged/reviewer closed/Master201 distinct. Fresh exact docs-only release/alignment next; third-final/no fourth, no implementation/physical/family/AT/truezoom/demand approval.
+
+- Decision/persona: [six-owner audit](../reviews/wind-tower-first-start-audit-2026-10-27.md) IMPROVE five fan/discovery owners separately, PRESERVE distinct LowBlockWall, DEFER newURL. Caregiver needs checked low setup/adult-only fan/no-contact/retrieval/nonfall result/end-cleanup while younger reach/unwanted noise/falls/attention constrain.
+- Hypothesis/result: compact fan/see-falls and pack firstfall presume collapse; current Kansas/Boston explicitly permit standing/no-motion. Franklin supports hand-held airflow, not exact six-block/three-wave force.24modes/4cardlate/12keyboardBack/finder1-zero-Clear36/sixnoJS/ninelivebytes/viewed390-root32; common compact all13 editorial7/26/no N/A/critical override, not same score for stronger pack-engineering.
+- Sources/classes: current Franklin/Kansas/Boston/TeachEngineering scope exclusion plus AAP rechecked earlier this invocation SOURCE_BACKED within limits; two viewed illustrations/promotionalphoto not exactfan proof. Repo/browser MEASURED, task RESEARCH_HYPOTHESIS, six-block/lowtwolevel/adultfan-controls EDITORIAL_JUDGMENT. Owned fit/fanforce/stability/motion/family/time/mess/enjoyment/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high inspected omissions/moderate proxy utility; a valid comparison may leave everything standing, not justify stronger wind. Reopen source/label/control contradiction, adequate maintained owner/criticalclutter/P0-P2/peer drift/divergence. Native201/full7 different review/docs release pending; third/final/no fourth, any supported repair later separately registered/November1 retained.
+
 ## 2026-10-27 - KAL-IMP-051 Ramp Texture Repair
 
 COMPLETED reviewed54ae262eadee81f8d810b9ac5b3b9cd30cfddf02/Avicenna full18 PASS/native201/exact-SHA Pages40601139547 success/no marker. Seven affected/seven unchanged live200bytes/same20production modes-12incomingBack-8touch-3outgoing-24depth-readable-arrivals/finder-Space-expanded4sources-five noJS/canonical-H1-credit-images/wordfit/live390-root32 viewed pass. No retry/regression/outcome claim; fresh release fetchclean0/0/reviewer closed/server8785 stopped. Completed2; factual7 closeout/QA/push/alignment then original22:57:41Z/23:42:41Z guard before any third selection, November1 retained.
