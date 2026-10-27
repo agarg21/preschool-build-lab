@@ -1,5 +1,11 @@
 # Persona Review Log
 
+## October27 - KAL-IMP-047 Shadow Compact Start
+
+Boole fresh different independent full18 PASS/no P0-P3 confirms four traced lenses/everysection/all13 stays25/26/no N/A with sensory1. Independently16modes/9keyboardBack/6touch/three depth/finder-Space/fournoJS/source bodies-visual limits/parentfit/current local screenshots pass; no action/rescue contradiction. Master185/twice distinct/freeze intact/reviewer closed, exact-SHA production pending.
+
+[Same-task packet](../reviews/shadow-compact-start-repair-2026-10-27.md) retains four RES064 source-traced lenses: novice/no-craft/reach-attention/unwanted light-dimness. Adult ready steady wall light, one checked opaque block/object movement, bigger/back/unclear/relight-or-end/collect now explicit; all13 editorial7->25/26/no N/A, critical local order/role/result/parent-fit clears. Native185/actual5renderer/93site peers/16modes-9keyboardBack-6touch-three depth-finder-Space-fournoJS/final390-root32 screenshots pass. Depth owners byte-preserved after explicit inheritance label/source/setup exclusions. Different full18 review/exact-SHA production pending; no physical/family/AT/actualzoom/hardware/SEO result.
+
 ## October27 - KAL-IMP-046 Box Garage Readiness Layout
 
 COMPLETED reviewedc010df0/Ampere PASS/native181; exact-SHA Pages40575901476 success/no marker, two affected/ten unchanged live200bytes. Same24production modes/15keyboardBack/10touch/fourhash/finder-Space-sixnoJS/canonical-H1-credit-images pass, live390/root32 viewed. All13 remains24/26/no N/A, no family/physical/AT/truezoom/hardware/SEO result or regression/retry.

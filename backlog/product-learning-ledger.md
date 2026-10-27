@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-IMP-047 Shadow Compact Start
+
+- Review: Boole fresh different full18 cycle-one PASS/no P0-P3;184nonmutating/3negative mutations/actualrenderers/conservation/16modes-routes-touch-depth-finder-Space-fournoJS/parse-GSC100-137IDs-313refs/privacy/current bodies-visuals/four lenses/everysection/all13 independently pass. All18hashes unchanged/reviewer closed; Master185/twice distinct, fresh exact-SHA production gates next. Third/final/no fourth retained.
+
+- Decision/persona: [four-output repair](../reviews/shadow-compact-start-repair-2026-10-27.md) applies reviewed RES064, no new URL. Appropriate owned light/block/wall, adult-controlled steady beam/visible path, one larger/back comparison/unclear, early fit-attend-skip-stop and relight-or-end/collect; reach/dimness/light-handling/root32 stress.
+- Hypothesis/result: actual canonical/QUICK/generic owners now assign light/object roles and result before another search; local same13 editorial7->25/26/no N/A/critical role-order-result-parent-fit clears, not family success. Native185/actual5renderer/twice631a3149/exact6outputs/93site peers-35canonical-13hubblocks-35library conserved;16modes-9keyboardBack-6emulatedtouch-three depth-finder-Space-fournoJS pass, final mobile/root32 viewed.
+- Sources/classes: reviewed current PBS/Gryphon/AAP/source photo-printable scope SOURCE_BACKED within limits, controls/one-block recipe/rubric EDITORIAL_JUDGMENT; tasks RESEARCH_HYPOTHESIS; technical QA MEASURED. Physical/owned-device fit/family/time/mess/learning/safety/SEO UNKNOWN; no source/creator/firsthand claim upgraded.
+- Confidence/lesson/falsification: high for local role/order/output correction, moderate utility. Shared canonical improvements need explicit inheritance conservation for already-maintained owners; early tests caught Parent check label drift before freeze. Reopen source/device/geometry conflict, missing control/peer drift/P0-P2/divergence. Full18/different review/exact-SHA production pending; third/final/no fourth, November1 retained.
+
 ## 2026-10-27 - KAL-RES-064 Shadow Compact Start
 
 - Completion: learned-onlycda4ed0d10dd6be876b7977e133ef75c75bc52b4/Boyle full7 PASS/native181/GSC100/136IDs/301refs/privacy-whitespace; exact reviewed docs-only main push/postpush fresh fetch clean0/0. No site/Pages. Completed2; factual7 closeout then separately registered four-output repair as third/final if guard admits; no repeated qualification/November1 retained.

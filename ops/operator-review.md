@@ -1,5 +1,11 @@
 # Operator Review
 
+## October27 - KAL-IMP-047 Shadow Compact Repair (PASS / release pending)
+
+Boole01a17f10-aae2-74f3-91b9-6a602afc9652 fresh different independent read-only full18 cycle-one PASS/no P0-P3;184nonmutating/3inmemorynegative/actualrenderers/sixoutput-scope/93files-35canonical-35library-13hubblocks/depth-Box conservation/16modes-9keyboardBack-6touch-three depth-finder-Space-fournoJS/73HTML-1001refs-77fragments-8LD-67URLs-313docrefs-GSC100/privacy pass. Current primary bodies/visual limits/four lenses/everysection/all13 editorial25/26/no contradiction pass. All18hashes unchanged/reviewer closed; Master185/twice receipts distinct, fresh exact reviewed main push/exact-SHA production next.
+
+Exact18 ata5be7cb, scope amended before implementation only for older timing assertion. [Packet](../reviews/shadow-compact-start-repair-2026-10-27.md) applies reviewed RES064 four-owner adult-light/block comparison/early controls/rescue/disclosure/scoped fit; maintained depth owners preserved. Native185/actual5renderer/twice631a3149/exact6outputs/93site peers-35canonical-13hubblocks-35library conserved/all-local parse/16modes-9keyboardBack-6touch-three depth-finder-Space-fournoJS/final390-root32 visual pass. Same13 editorial7->25/26/no N/A/critical local failure clears. Full18 scope/privacy/different review/exact-SHA release pending, third/final/no fourth/November1 retained.
+
 ## October27 - KAL-RES-064 Shadow Compact Start (PASS / released)
 
 COMPLETED learned-onlycda4ed0d10dd6be876b7977e133ef75c75bc52b4: exact reviewed7/private scan/native181/JSON/whitespace/docs-only main push passed; initial fetch completed without incoming changes and completed fresh postpush fetch verifies clean0/0. No site/Pages. Boyle PASS/native181/GSC100/136IDs/301refs, reviewer closed. Completed2/factual7 closeout before separate third/final repair if same strict guard admits.

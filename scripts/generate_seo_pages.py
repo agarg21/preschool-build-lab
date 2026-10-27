@@ -347,16 +347,29 @@ ACTIVITIES = {
         "parent": "This card is paused. Do not use a known or suspected high-powered or rare-earth magnet, or one with unknown type and power.",
     },
     "shadow-shape-match": {
-        "title": "Shadow Shape Match",
+        "title": "Shadow Builder",
         "url": "../cards/shadow-shape-match.html",
         "ages": "4-6",
-        "time": "5 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "flashlight, blocks, wall",
-        "best_for": "light, shapes, cause and effect",
-        "steps": ["Pick a block.", "Shine the light.", "Find the shadow.", "Move it closer."],
-        "parent": "Do not shine flashlights into eyes.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult controls the light",
+        "materials": "1 owned flashlight, 1 checked large opaque block, clear wall",
+        "best_for": "noticing how moving one object changes its shadow, not a matching game or test",
+        "readiness_groups": [
+            ("Materials", "Adult checks the flashlight's instructions, intact casing and closed, secured battery compartment. Use it only as its instructions permit; no lasers, candles or exposed bulbs. Check the block's age/warning labels for every reachable child; use a large intact opaque (not see-through) block without loose small parts, magnets or battery parts."),
+            ("Adult and space", "Keep light on wall, never faces. Stay beside every reachable child and keep the light and spare pieces under adult control. Keep a clear walking path visible; dim only enough to see the shadow."),
+            ("Fit or skip", "Try when the child can move the block with help and follow a stop cue; watching or pointing is an option. Skip if materials, steady wall beam, space or adult attention do not fit, or dimness is unwanted."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab."),
+        ],
+        "stop": "Switch off if the beam leaves the wall, a child reaches for the light or battery parts, a piece is mouthed or thrown, attention shifts, or anyone is uncomfortable.",
+        "adult_setup": "Set the flashlight on a stable low surface pointing at the clear wall, away from the walking path. Adult checks that it stays still and makes a visible shadow when the block is between light and wall. Keep the light fixed; start the block nearer the wall, leaving room to move it toward the light without touching the flashlight. If this cannot be arranged, skip.",
+        "steps": ["Hold the checked block between the steady light and wall, nearer the wall.", "Move the block a little nearer the light, not the light itself. Look for a bigger shadow.", "Move the block back. Say or point: bigger, smaller or unclear? Repeat or finish."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If the shadow is unclear or the flashlight becomes the toy, switch it off and park it. Adult checks the opaque block is between light and wall. Resume only after an adult restores a steady wall-pointed beam and a visible shadow; the child moves the block or watches the adult move it. Otherwise end. Brighten the room if wanted. Adult switches off and puts away the light, block and spares, clearing the walking path. Duration and mess have not been measured.",
+        "sources": [("PBS: wall light and shadow-size comparison", "https://www.pbs.org/parents/crafts-and-experiments/put-on-a-shadow-play"), ("Gryphon House: adult-controlled wall light", "https://www.gryphonhouse.com/early-childhood-activities/light-and-shadow"), ("AAP: owned toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx")],
+        "source_note": "Sources checked October27,2026. Blocking light, moving an object and adult wall-light control are source-backed. The one-owned-block reduction, readiness checks, visible walking path, no-face/switch-off rules, script and rescue are Kid Activity Lab editorial adaptations. PBS uses cutout figures and Gryphon describes a classroom; neither validates this exact home geometry or an owned device. Source photos are not proof of scale or physical performance. Flashlight/block suitability, family understanding, enjoyment, learning and safety outcomes are unknown. Not a tested setup, medical guidance, product recommendation or safety assurance.",
     },
     "foil-boat-test": {
         "title": "Empty Foil Boat",
@@ -528,6 +541,9 @@ ACTIVITIES["box-garage"]["fit_cue"] = " ".join(
 ACTIVITIES["box-garage"]["start_cue"] = (
     ACTIVITIES["box-garage"]["fit_cue"] + " Stop: " + ACTIVITIES["box-garage"]["stop"]
 )
+ACTIVITIES["shadow-shape-match"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["shadow-shape-match"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["shadow-shape-match"]["stop"]
 
 
 PAGES = [
@@ -983,6 +999,10 @@ PAGES = [
             },
             "shadow-shape-match": {
                 "title": "Shadow Builder",
+                # Keep this independently reviewed owner free of new compact-card fields.
+                "adult_setup": "",
+                "sources": [],
+                "parent_label": "Parent check",
                 "time": "Time not measured",
                 "mess": "Not measured",
                 "mess_label": "Dry setup; cleanup varies",

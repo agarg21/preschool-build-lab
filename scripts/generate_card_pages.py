@@ -92,6 +92,10 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "shadow-shape-match": {
+        "kicker": "Adult-controlled light | One block",
+        "description": "Shadow Builder activity card: adult-controlled wall light, one checked opaque block and a small shadow-size comparison, with stop and rescue. Research-backed, not family-tested.",
+    },
     "box-garage": {
         "kicker": "One car | Adult-guided",
         "description": "Box Garage activity card: one already-open box and one owned toy car, adult fit checks and a no-cut park-and-drive-out start. Research-backed, not family-tested.",
@@ -727,6 +731,7 @@ def quick_page(slug):
     is_duplo_game = slug == "duplo-games"
     is_blanket_river = slug == "blanket-river"
     is_box_garage = slug == "box-garage"
+    is_shadow = slug == "shadow-shape-match"
     has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge or is_cup_tower
     routes = related_routes_html(
@@ -750,15 +755,16 @@ def quick_page(slug):
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
         </div>'''
-    if is_box_garage:
+    if is_box_garage or is_shadow:
+        prefix = "box-garage" if is_box_garage else "shadow"
         readiness = "\n".join(
             f'          <p><strong>{esc(label)}:</strong> {esc(text)}</p>'
             for label, text in activity["readiness_groups"]
         )
         activity_start = f'''
 
-        <p class="box-garage-materials"><strong>Need:</strong> {esc(activity['materials'])}.<br>Open-ended; duration and mess not measured.</p>
-        <section class="parent-strip box-garage-readiness" aria-label="Before starting">
+        <p class="{prefix}-materials"><strong>Need:</strong> {esc(activity['materials'])}.<br>Open-ended; duration and mess not measured.</p>
+        <section class="parent-strip {prefix}-readiness" aria-label="Before starting">
           <h2>Before you start</h2>
 {readiness}
           <p><strong>Stop:</strong> {esc(activity['stop'])}</p>
@@ -815,7 +821,8 @@ def quick_page(slug):
         "kid-card cup-tower-card" if is_cup_tower else
         "kid-card duplo-game-card" if is_duplo_game else
         "kid-card blanket-river-card" if is_blanket_river else
-        "kid-card box-garage-card" if is_box_garage else "kid-card"
+        "kid-card box-garage-card" if is_box_garage else
+        "kid-card shadow-card" if is_shadow else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
@@ -825,7 +832,8 @@ def quick_page(slug):
         "cup-tower-card-1" if is_cup_tower else
         "duplo-game-card-1" if is_duplo_game else
         "blanket-river-card-1" if is_blanket_river else
-        "box-garage-card-2" if is_box_garage else "nav-stable-2"
+        "box-garage-card-2" if is_box_garage else
+        "shadow-card-1" if is_shadow else "nav-stable-2"
     )
     previous_video = '''
 
@@ -890,7 +898,9 @@ def cards_index():
             f'Toy-only, adult stays beside | {activity["time"]} · {activity["materials"]}'
             if slug == "blanket-river" else
             f'One-car no-cut start, adult stays beside | {activity["time"]} · {activity["materials"]}'
-            if slug == "box-garage" else f'{activity["time"]} · {activity["materials"]}'
+            if slug == "box-garage" else
+            f'Adult-controlled wall light | {activity["time"]} · {activity["materials"]}'
+            if slug == "shadow-shape-match" else f'{activity["time"]} · {activity["materials"]}'
         )
         cards.append(
             f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(summary)}</span><template data-search="{esc(search_text)}"></template></a>'

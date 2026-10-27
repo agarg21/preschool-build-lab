@@ -793,6 +793,46 @@ th {
   margin: 8px 0 0;
 }
 
+.shadow-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.shadow-card h1 {
+  font-size: min(2rem, 48px);
+  line-height: 1.15;
+}
+
+.shadow-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.shadow-card .step-tile {
+  min-height: 0;
+}
+
+.shadow-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.shadow-card .shadow-materials,
+.shadow-card .shadow-readiness {
+  line-height: 1.5;
+}
+
+.shadow-card .shadow-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.shadow-card .shadow-readiness p {
+  margin: 8px 0 0;
+}
+
 .blanket-river-card {
   max-width: 720px;
   margin: 0 auto;

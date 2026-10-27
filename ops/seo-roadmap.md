@@ -1,5 +1,13 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP047 Boole fresh different full18 PASS/no P0-P3;184nonmutating/3negative mutations/actualrenderers/conservation/16modes-routes-touch-depth-finder-Space-fournoJS/parse-GSC100-313refs/privacy/current bodies-visuals/four lenses/everysection/all13 independently pass. All18hashes unchanged/reviewer closed, Master185/twice distinct; fresh exact reviewed main push/exact-SHA production next, third/final/no fourth/November1 retained.
+
+IMP047 local185/actual5renderers/twice631a3149/exact6outputs/93files-35canonical-13hubblocks-35library conserved/73HTML-1001refs-77fragments-8LD-67URLs pass.16modes-9keyboardBack-6touch-three depth-finder-Space-fournoJS/H1 parentfit/final390-root32 visual pass, same13 editorial7->25/26/no N/A. Explicit override setup/source/Parent check pins preserve repaired depth bytes. Full18/different review/exact-SHA production remain; third/final/no fourth/November1 retained.
+
+IMP047 scope amended before implementation to exact18: add tools/original-pack-trust.test.mjs only for Shadow global5min->Open-ended expectation; all other timing/override/pack assertions preserved, original exact17/site6 unchanged. Third/final/no fourth and full18 review gates retained.
+
+KAL-IMP-047 REGISTERED ata5be7cb, exact17 in JSON/checkpoint, same retained20:01:34Z/completed2/third-final/no fourth/strict20:44:05.842Z. Apply reviewed RES064 adult-controlled one-light/object Shadow Builder default to card/library/science/no-prep, existing URL; early role/material/fit/stay/skip/stop, clear size move/unclear rescue/relight-or-end/cleanup/untested-unmeasured and scoped fit. Explicitly preserve repaired age4/pack/preschool bytes and all peers/Box IMP046. Native/actualrenderers/twice generators/exact6outputs/task/all13/different full17 review/exact-SHA production gates remain; November1/October30 unchanged.
+
 RES064 COMPLETED learned-onlycda4ed0d10dd6be876b7977e133ef75c75bc52b4/Boyle full7 PASS/native181/GSC100/136IDs/301refs/exact7/privacy-whitespace; reviewed docs-only main push/postpush completed fresh fetch clean0/0/no site-Pages. Factual7 closeout/alignment then separately register supported four-output repair as third/final if original strict guard admits, completed2/November1 retained.
 
 RES064 Boyle fresh different full7 PASS/no P0-P3/native181/GSC100/136IDs/301refs/privacy-scope; source/task/visuals/all13 independently checked, frozen hashes intact/reviewer closed. Fresh docs-only release/factual closeout/alignment next before separately registered supported four-output repair as third/final if strict guard admits, completed1 retained.

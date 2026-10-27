@@ -52,7 +52,7 @@ print(json.dumps({'local':[g['page_activity'](p,k) for k in keys], 'global':[g['
     assert.equal(row.mess_label, "Dry setup; cleanup varies");
     assert.equal(row.help_label, "Adult stays involved");
   }
-  assert.deepEqual(result.global.map(row => row.time), ["5 min", "3 min", "5 min", "6 min"]);
+  assert.deepEqual(result.global.map(row => row.time), ["5 min", "3 min", "Open-ended", "6 min"]);
   assert.equal(age.split('class="tag">Time not measured</span>').length - 1, 4);
   assert.doesNotMatch(age, /fast reset|Calm, low mess|Adult stays involved help/);
 });
