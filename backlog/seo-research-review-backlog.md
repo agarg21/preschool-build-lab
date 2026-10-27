@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October27 Cup-Tower Adult-Role Handoff
+
+`KAL-RES-054` [three-owner source/live audit](../reviews/cup-tower-adult-role-audit-2026-10-27.md) qualifies one separate bounded repair: independent-hub Cup low-help/knockdown differs from maintained adult-guided two-cup card/guide; hub has late material check and no stop, card/guide explicit stops follow steps, hub root32 overflows536/320. All13 editorial12/26/critical override, three live200 bytes/keyboard route verified. Use page-specific Cup override, early card/guide controls and scoped fit; preserve seven peers/global definitions/image/URLs. No new guide/product/physical or family effect. Native/review/docs-only release pending; November1 retained.
+
 ## October27 Create/Imagine Puppet Decision
 
 Completed learned-only release6fa55b1, Kierkegaard independent PASS/no P0-P3, native158/GSC99/exact7 pass and clean alignment. No site change/Pages wait; next audit is separate.

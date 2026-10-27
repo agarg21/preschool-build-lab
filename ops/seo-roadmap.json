@@ -6,6 +6,26 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-054",
+      "title": "Audit independent-hub Cup Tower adult-role handoff",
+      "kind": "existing-owner-task-audit",
+      "status": "reviewed_release_ready",
+      "registered_on": "2026-10-27",
+      "base_commit": "0d5f5cf",
+      "exact_paths": ["reviews/cup-tower-adult-role-audit-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "October27 RES053 independent-hub localHTML CupTower1min/low-help/stack-knockdown differs from linked adult-guided two-cup card/guide; no live defect presumed.",
+      "evidence_class": ["MEASURED", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Caregiver must determine actual adult presence/material fit before choosing and starting Cup Tower via an independent-play entry.",
+      "hypothesis": "Current source/live route may expose conflicting low-help versus adult-guided defaults and a late local first-stop cue.",
+      "acceptance": "Maintained source/owner/every-section reconciliation, live bytes, desktop/mobile/root32/keyboardBack task, all13 applicability/critical override, preserve/improve/defer with exact bounded next step.",
+      "qa_plan": "Native158 baseline, GSC validation, parsed JSON/unique IDs, refs/privacy/source/exact7/whitespace, different independent read-only PASS and fresh reviewed docs-only push/alignment.",
+      "invariants": "No site/generator/data/config changes,new URL,product,paid call,indexing,physical/family/medical/safety outcome or automation/Control Room work; November1 weekly retained.",
+      "reconsider_if": "Live task already resolves mismatch, source contradiction or incomplete material decision, reviewer P0-P2 or divergence; no automatic repair.",
+      "decision": "IMPROVE three existing owners in separate repair; four hub cases lack stop/have late material check, eight card/guide cases have late stops, hub root32 overflows. All13 editorial12/26 critical override.",
+      "review": "Goodall cycle-one PASS_WITH_P3/no P0-P2; absent-versus-late reporting P3 corrected; cycle-two narrow PASS/no findings. Operator158/GSC99/119IDs/248refs/exact7/privacy pass; independent157 tests/source/live bytes/JSON checked.",
+      "next_action": "Corrected narrow confirmation, docs-only push/alignment then separately register KAL-IMP-040 bounded page-specific hub/card/guide repair."
+    },
+    {
       "id": "KAL-RES-053",
       "title": "Discover a source-qualified paper-bag puppet parent job",
       "kind": "create-imagine-discovery",

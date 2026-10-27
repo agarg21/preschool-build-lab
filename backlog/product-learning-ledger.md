@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-054 Cup-Tower Adult-Role Route
+
+- Decision/persona: [source/live audit](../reviews/cup-tower-adult-role-audit-2026-10-27.md) IMPROVES one independent-hub Cup entry, compact card and guide pre-action cues in a separate build. Preschool caregiver needs actual adult stay/skip/material/default before balance; younger reach/inability to stay/unwanted collapse/narrow text are stresses, not observed families.
+- Hypothesis/result: three200 live bytes match. Hub1min/low-help/knockdown differs from adult-guided two-cup guide; four hub cases have a late material check with stop absent, eight card/guide cases have late explicit stops despite useful early guide readiness. Hub root32 width536/320; normal routing/keyboardBack work. Same-route all13 editorial12/26/no N/A, critical mismatch/order override; not September17's different-task scores.
+- Sources/classes: October27 DiscoverE/NYC/Education.com direct bodies SOURCE_BACKED only for distinct stated procedures; current guide/image/review retain original synthesis and untested label. Browser/bytes/GSC technically MEASURED; task RESEARCH_HYPOTHESIS; score/brief EDITORIAL_JUDGMENT. Actual cup fit, family/physical/safety/learning/timing/mess/SEO outcomes UNKNOWN.
+- Confidence/lesson: high in technical order/mismatch/overflow, moderate in repair usefulness. A page's generic independence caveat cannot reconcile a specific low-help mission with linked adult-guided depth; move the local decision ahead of child action.
+- Next falsification/measurement boundary: separately register page-specific override/card/guide stop-order repair, preserve other activities/global definitions and image, retest same13 route/noJS/root32/direct entries. Reconsider on source contradiction or task/fit failure; GSC99 overlapping453/5 vs481/6/cup3/1 cannot establish effect. Independent review/release pending; November1 retained.
+
 ## 2026-10-27 - KAL-RES-053 Puppet Discovery
 
 - Decision/persona: [dated discovery](../seo/paper-bag-puppet-discovery-2026-10-27.md) DEFERS a new indexable guide. Source-grounded caregiver of about-five-year-old with limited craft confidence needs orientation/adult role/first exchange, secondary non-performing or no-hand-in-bag option. Four lenses; five current questions inspected, only two clearly preschool-focus, none exact puppet request.
