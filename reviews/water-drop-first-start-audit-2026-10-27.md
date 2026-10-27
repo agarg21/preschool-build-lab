@@ -4,7 +4,15 @@ KAL-RES-067, October27,2026. Base7a84aaf; exact7 docs registered before
 research. Actual22:04:40Z/completed1/new-action deadline22:49:40Z/max3.
 Decision IMPROVE three existing owners separately to a plain-water tilt task;
 no new URL, mouth-tool readiness rule or clinical/safety claim qualified.
-Research review and push pending; no site changes in this transaction.
+COMPLETED learned-only4b240936b43967a3dee4ff27fa4d9da49ce238b6;
+no site changes in this transaction.
+
+Fresh completed fetch0/0/empty outgoing/exact reviewed7/private scan/native193/
+JSON/whitespace/main push/postpush fresh fetch clean0/0 passed. Euler full7
+PASS/no P0-P3/GSC100/142IDs/319refs, reviewer closed. No Pages wait, production
+remainsb5fe754/Pages40593211615. Completed2; factual7 closeout/QA/push/alignment
+then separately register the supported three-owner repair as third/final if
+the original guard admits. Older pending-phase bullets below are chronology.
 
 Euler01a17f72-a6fa-77a1-8b88-b905c2f5204d fresh different independent
 full7 cycle-one PASS/no P0-P3. Independently192nonmutating/GSC100-142IDs-
