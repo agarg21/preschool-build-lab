@@ -427,13 +427,27 @@ ACTIVITIES = {
         "title": "Ramp Texture Test",
         "url": "../cards/ramp-texture-test.html",
         "ages": "4-6",
-        "time": "6 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "ramp, towel, foil, toy car",
-        "best_for": "friction, prediction, toy car testing",
-        "steps": ["Roll on a plain ramp.", "Add a towel.", "Try foil.", "Compare the rolls."],
-        "parent": "Keep the ramp low and the rolling path clear.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Check release and readiness",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult steadies the ramp",
+        "materials": "1 flat stiff cardboard piece, 2 broad sturdy closed books, 1 owned toy car, 1 optional thin flat dish towel, owned masking tape",
+        "best_for": "noticing where the same car stops on a plain ramp and one optional covered ramp",
+        "readiness_groups": [
+            ("Materials", "Adult checks intact cardboard, books, towel and freely turning car wheels; follow the owned toy and tape labels. Use a car appropriate for every child who can reach it, without loose parts. Adult handles tape, spare materials and cover changes."),
+            ("Adult and space", "Floor only, with a clear landing and walking path. Adult stays beside every reachable child and steadies the ramp throughout. Retrieve the car only after it stops; no climbing, standing on books or ramp, throwing or chasing."),
+            ("Fit or skip", "Try when the child can let go without pushing and follow a stop cue, or watch the adult release. Pointing instead of touching the towel is optional. Skip if space, mouthing, material labels, stability or attention do not fit."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab."),
+        ],
+        "stop": "End if the ramp or books slip, cardboard bends, the towel bunches or comes loose, a part loosens, anyone mouths materials, climbs, throws, becomes uncomfortable or attention shifts. No forcing a launch or raising the ramp to get a result.",
+        "adult_setup": "On the floor, stack the two books flat and lean one cardboard end on them, the other on the floor. Check support and hold it steady. Adult first releases the car without pushing from one chosen spot. If it will not freely roll or the setup will not stay stable, skip the comparison; do not keep adding height. Keep tape and spares out of reach. Choose one start spot to use for both rolls.",
+        "steps": ["Adult steadies the plain ramp. Let go of the car at the chosen spot without pushing, or watch the adult. Wait until it stops before retrieving.", "Adult covers the wheel path with the thin towel and secures it flat with masking tape, following owned labels. Keep the same books and height. Adult checks for loose edges, folds or catches; if it will not stay flat, skip this roll and finish.", "With the ramp still steadied, release the same car from the same spot without pushing. Notice: nearer, farther, about the same, stuck or unclear. One comparison is enough; you can finish."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If stuck or unclear, finish rather than push harder or raise the ramp. Adult removes the cover; return to one plain roll only if stable and wanted, or end. Adult promptly puts away the car, tape, towel, books and cardboard and clears the floor. Duration and mess are not measured; a single result does not prove friction alone caused it.",
+        "sources": [("PBS: supported ramp, secured covering and same-start releases", "https://www.pbs.org/parents/crafts-and-experiments/friction-racing"), ("PEEP: roll, slide or stay and assistance", "https://www.peepandthebigwideworld.com/en/educators/curriculum/family-child-care-educators/ramps/activity/guided-activity/244/roll-or-slide-indoors/"), ("AAP: owned toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx")],
+        "source_note": "Sources checked October27,2026. Supported ramps, secured coverings and same-start release comparisons are source-backed. The two-book floor setup, one-cloth reduction, adult roles, readiness, stop and rescue are Kid Activity Lab editorial adaptations, not a tested setup. PBS uses repeated measured trials; PEEP includes varied objects and assistance. Neither source age labels, photos nor educator observations validate this exact arrangement. Owned toy and tape suitability, adhesion, ramp stability, car motion, family understanding, timing, mess, enjoyment, learning and safety outcomes are unknown. No guaranteed nearer or farther result, clinical rule, product recommendation or safety assurance.",
     },
     "wind-tower-test": {
         "title": "Wind Tower Test",
@@ -595,6 +609,9 @@ ACTIVITIES["color-mixing-cups"]["start_cue"] = " ".join(
 ACTIVITIES["water-drop-race"]["start_cue"] = " ".join(
     text for _, text in ACTIVITIES["water-drop-race"]["readiness_groups"]
 ) + " Stop: " + ACTIVITIES["water-drop-race"]["stop"]
+ACTIVITIES["ramp-texture-test"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["ramp-texture-test"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["ramp-texture-test"]["stop"]
 
 
 PAGES = [
@@ -1082,10 +1099,6 @@ PAGES = [
                 "title": "Empty Foil Boat",
                 "url": "../cards/foil-boat-test.html",
                 "link_text": "Open the empty-boat steps and diagram",
-            },
-            "ramp-texture-test": {
-                "materials": "ramp, towel or paper, toy car",
-                "steps": ["Roll on a plain ramp.", "Add a towel.", "Try paper or a placemat.", "Compare the rolls."],
             },
         },
         "activities": ["car-ramp-distance-test", "paper-bridge", "foil-boat-test", "shadow-shape-match", "pattern-path", "wind-tower-test", "color-mixing-cups", "ramp-texture-test"],
@@ -1614,6 +1627,10 @@ def activity_card(activity):
             for label, url in activity["sources"]
         )
         source_note = f'\n          <details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
+    depth_links = (
+        '\n          <p><a href="../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start">Basic ramp setup and troubleshooting</a> (the guide compares landing surfaces, not a cloth covering). <a href="../collections/original-stem-activities-for-4-year-olds.html#ramp-detective">Deeper surface-observation routine</a>.</p>'
+        if activity["url"] == "../cards/ramp-texture-test.html" else ""
+    )
     return f'''        <article class="seo-activity">
           <div>
             <h2>{esc(activity["title"])}</h2>{start_cue}{early_link}
@@ -1628,7 +1645,7 @@ def activity_card(activity):
           <div class="activity-materials"><strong>Need</strong>{esc(activity["materials"])}</div>{adult_setup}
           <ol class="card-steps">{steps}</ol>
           <p class="activity-parent"><strong>{esc(activity.get("parent_label", "Parent check"))}:</strong> {esc(activity["parent"])}</p>
-{late_link}{source_note}
+{late_link}{depth_links}{source_note}
         </article>'''
 
 

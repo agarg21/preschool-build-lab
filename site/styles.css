@@ -793,6 +793,41 @@ th {
   margin: 8px 0 0;
 }
 
+.ramp-texture-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.ramp-texture-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.ramp-texture-card .step-tile {
+  min-height: 0;
+}
+
+.ramp-texture-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.ramp-texture-card .ramp-texture-materials,
+.ramp-texture-card .ramp-texture-readiness {
+  line-height: 1.5;
+}
+
+.ramp-texture-card .ramp-texture-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.ramp-texture-card .ramp-texture-readiness p {
+  margin: 8px 0 0;
+}
+
 .drop-tilt-card {
   max-width: 720px;
   margin: 0 auto;

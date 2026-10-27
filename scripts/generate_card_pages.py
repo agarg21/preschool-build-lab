@@ -92,6 +92,10 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "ramp-texture-test": {
+        "kicker": "Same car | Adult steadies",
+        "description": "Ramp Texture Test activity card: adult-supported floor ramp, same-car releases and one optional secured cloth comparison, with an unclear-result end. Research-backed, not family-tested.",
+    },
     "water-drop-race": {
         "kicker": "One drop | Supported tilt",
         "description": "Water Drop Tilt activity card: one plain-water drop on supported wax paper, adult-steady tray movement and a moved, stayed or unclear result. No mouth tools; research-backed, not family-tested.",
@@ -747,6 +751,7 @@ def quick_page(slug):
     is_ice_watch = slug == "ice-melt-rescue"
     is_color_mix = slug == "color-mixing-cups"
     is_drop_tilt = slug == "water-drop-race"
+    is_ramp_texture = slug == "ramp-texture-test"
     has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge or is_cup_tower
     routes = related_routes_html(
@@ -770,8 +775,8 @@ def quick_page(slug):
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
         </div>'''
-    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt:
-        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix" if is_color_mix else "drop-tilt"
+    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt or is_ramp_texture:
+        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix" if is_color_mix else "drop-tilt" if is_drop_tilt else "ramp-texture"
         readiness = "\n".join(
             f'          <p><strong>{esc(label)}:</strong> {esc(text)}</p>'
             for label, text in activity["readiness_groups"]
@@ -828,6 +833,10 @@ def quick_page(slug):
         early_guide = '''
 
         <p><strong>Copy beside me:</strong> Can two little towers look the same? Keep the model in sight and take turns making a match. This is not a memory test or race.</p>'''
+    if is_ramp_texture:
+        early_guide = '''
+
+        <p><a href="../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start">Basic ramp setup and troubleshooting</a>. The guide compares landing surfaces, not a cloth covering. <a href="../collections/original-stem-activities-for-4-year-olds.html#ramp-detective">Deeper surface-observation routine</a>.</p>'''
     card_class = (
         "kid-card maze-card" if is_ball_maze else
         "kid-card bridge-card" if is_paper_bridge else
@@ -840,7 +849,8 @@ def quick_page(slug):
         "kid-card shadow-card" if is_shadow else
         "kid-card ice-watch-card" if is_ice_watch else
         "kid-card color-mix-card" if is_color_mix else
-        "kid-card drop-tilt-card" if is_drop_tilt else "kid-card"
+        "kid-card drop-tilt-card" if is_drop_tilt else
+        "kid-card ramp-texture-card" if is_ramp_texture else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
@@ -854,7 +864,8 @@ def quick_page(slug):
         "shadow-card-1" if is_shadow else
         "ice-watch-card-1" if is_ice_watch else
         "color-mix-card-1" if is_color_mix else
-        "drop-tilt-card-1" if is_drop_tilt else "nav-stable-2"
+        "drop-tilt-card-1" if is_drop_tilt else
+        "ramp-texture-card-1" if is_ramp_texture else "nav-stable-2"
     )
     previous_video = '''
 
@@ -927,7 +938,9 @@ def cards_index():
             f'Adult mixes; child notices | {activity["time"]} · {activity["materials"]}'
             if slug == "color-mixing-cups" else
             f'Adult steadies; child tilts or watches | {activity["time"]} · {activity["materials"]}'
-            if slug == "water-drop-race" else f'{activity["time"]} · {activity["materials"]}'
+            if slug == "water-drop-race" else
+            f'Adult steadies; child releases or watches | {activity["time"]} · {activity["materials"]}'
+            if slug == "ramp-texture-test" else f'{activity["time"]} · {activity["materials"]}'
         )
         cards.append(
             f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(summary)}</span><template data-search="{esc(search_text)}"></template></a>'
