@@ -1,5 +1,12 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-060 Movement And Rhythm Play
+
+- Decision/persona: [four-question/six-body qualification](../seo/movement-rhythm-play-discovery-2026-10-27.md) DEFERS new preschool freeze-dance/rhythm URL. Adult/child need one move-pause-restart rule and fit/reset/finish; secondary younger reach/limited space-noise/participation. Four bodies include three focus-age and one younger contrast, one September29 question explicitly reused.
+- Hypothesis/result: distinct job/no clean owner, but exact material demand/missing output unqualified. Current First5/Playworks/Momentum/Recess/Words/NSW already supply core rule/no-out/seated/cues/clear-space. Full home device/attention/stop/cleanup/sourcevisual lineage unfinished. All13 desk15/24/mobile N/A/critical override, no rendered/family task.
+- Sources/classes: six current direct bodies SOURCE_BACKED within limits; dated July29 broad Semrush movement50/dance90/indoor4400 TOOL_ESTIMATE not exact or summed demand. Public GSC100/Git/native/prior live receipts MEASURED, task RESEARCH_HYPOTHESIS, decision/rubric EDITORIAL_JUDGMENT. Source images/PDF/video/physical/family/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high in inspected generic coverage, moderate in defer. Absence plus generic no-out adaptation does not qualify another guide; reopen named constrained focus-age demand/missing live-body output and full lineage, not cadence. Local Blanket River card/age5 vs toy-only indoor/building handoff mismatch warrants separate source/live audit, not freeze substitution or automatic repair. Native172/GSC100/prior exact-SHA receipt pass; full7/review/docs release pending, November1 retained.
+
 ## 2026-10-27 - KAL-IMP-043 Paper Roll First Start
 
 - Completion: Newton different independent full14 PASS/no P0-P3/native172; reviewede27400c039742e3a722f05e0a73997a1eca11b58/exact-SHA Pages40552531805 success/no marker. Four affected and six unchanged style-credit-nav files200bytes match;12 production modes/canonical-H1-credit/wordfit/early controls/six keyboardBack-six touch-emulated readable arrivals/table/details/three noJS pass, live mobile/root32 viewed. No retry/outcome claim; release fetch clean0/0. Completed3/no fourth, factual7 closeout/final alignment next; next unqualified movement/rhythm Play discovery only after fresh sensing/registration, November1 retained.

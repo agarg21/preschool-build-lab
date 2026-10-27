@@ -6,6 +6,26 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-060",
+      "title": "Qualify simple movement and rhythm play parent job",
+      "kind": "research-first-play-qualification",
+      "status": "in_progress",
+      "decision": "DEFER new freeze-dance/rhythm URL: four adjacent questions (one reused)/one incomplete exact query/six direct bodies already cover generic rule/no-out/seated/cues; exact demand/output/full home-control lineage unqualified. All13 desk15/24/mobile N/A/critical override. Separate local Blanket River card-age5 vs toy-only depth source/live audit next, no repair presumed.",
+      "registered_on": "2026-10-27",
+      "base_commit": "082665d",
+      "exact_paths": ["seo/movement-rhythm-play-discovery-2026-10-27.md", "backlog/product-learning-ledger.md", "backlog/seo-research-review-backlog.md", "ops/current-cycle.md", "ops/operator-review.md", "ops/seo-roadmap.json", "ops/seo-roadmap.md"],
+      "evidence": "Reviewed IMP043 final handoff selects unqualified movement/rhythm Play discovery; previous release complete, no named unfinished build. No previous exact seed qualification found in targeted archive search, no demand or gap presumed.",
+      "evidence_class": ["MEASURED", "TOOL_ESTIMATE", "SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "parent_problem": "Caregiver needs one understandable follow/copy/move-or-pause rule with space/noise/ability/attendance fit, adult start, reset/rescue and voluntary ending without another broad search.",
+      "hypothesis": "Current public questions and live query bodies may identify a distinct supported task with material demand and incremental utility, or a clean existing owner/preserve/defer decision.",
+      "acceptance": "3-5 public question bodies with dates/ability/privacy limits; live query family/selected result bodies; demand-owner-incremental utility-source-control matrix; four traced lenses/everysection/all13 desk rubric with NAs; one supported decision and exact unresolved gates. No presumed new game/URL or physical/learning outcome.",
+      "qa_plan": "Native172/changedJSON/roadmap uniqueIDs/GSC validation-comparison/localrefs/exact7/source-privacy-claims/whitespace; different independent read-only review then fresh no-divergence exact docs push/alignment. Site/code/data/config unchanged; any build separately registered within sprint guard.",
+      "invariants": "Preserve existing library/standard-deck chooser/pages/observation windows; no closed nature/leaf/collage/tray repeats without named new gap, paid calls, indexing, new accounts, outreach, product recommendation, family/physical or clinical claims.",
+      "observation_window": "Research-only source/technical proxy, no demand volume/rank/family/safety/learning/SEO outcome inferred. Actual17:59:40Z/completed0/deadline18:44:40Z, November1 weekly/October30 sprint expiry unchanged.",
+      "reconsider_if": "No exact supported material demand or missing output, clean existing owner, unresolved source/control conflict, private evidence spill, P0-P2 or divergence.",
+      "next_action": "Execute current-question/live-body/source-owner qualification and reviewed docs release; separately register only a supported build or next named missing-gate action."
+    },
+    {
       "id": "KAL-IMP-043",
       "title": "Repair Paper Roll Play empty-roll start and incoming fit",
       "kind": "reviewed-existing-owner-first-start-repair",
