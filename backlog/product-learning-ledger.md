@@ -1,5 +1,15 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-IMP-048 Melting Ice Watch
+
+- Review: Mencius fresh different independent full16 cycle-one PASS/no P0-P3;188nonmutating/actual3renderers/conservation/parse-GSC-scope-privacy/12modes-routes-touch-finder-Space-noJS/current sources-visuals/four lenses/everysection/all13 independently pass. Freeze intact/reviewer closed; Master189/twice distinct, exact reviewed release pending.
+
+- Decision/persona: [repair packet](../reviews/ice-melt-first-start-repair-2026-10-27.md) applies separately reviewed RES065 to three existing owners: plain cube/adult handling/beyond-reach watch, no heat or embedded toy, change-or-unclear/decline/stop/immediate empty-dry. No new URL.
+- Hypothesis/result: complete materials and early role/fit/stop repair the observed missing-tray/late-heat/unsupported rescue start. Local12modes/6keyboardBack/4touch/3outgoing/finder-Space/3noJS/text fit pass; all13 editorial6->25/26/no N/A/sensory1/critical override. Native189/twice stable/exact5outputs/peer conservation/all-local parse pass; independent full16 review and production release pending.
+- Sources/classes: October27 Sciencenter2page PDF/plain-ice observation and AAP attention/emptying SOURCE_BACKED within limits; NASA/PBS contrasts exclude transfer of heat/timing. Script/reduction/control EDITORIAL_JUDGMENT, persona RESEARCH_HYPOTHESIS, repo/browser MEASURED. Physical/owned suitability/hygiene/family/learning/safety/SEO UNKNOWN.
+- Confidence/lesson: high in inspected instructions and conservation, moderate in proxy utility. One complete observation with an honest uncertain result replaces a rescue promise without inventing a heat threshold or physical validation.
+- Next falsification: source/material/reach/control contradiction, inaccessible critical task, clinical dependency, peer drift/P0-P2/divergence. Preserve or reconsider rather than infer tested safety. Measurement boundary: UI/source reconciliation only; no real family, physical, AT, hardware-touch or true-zoom result. November1 unchanged.
+
 ## 2026-10-27 - KAL-RES-065 Ice Melt First Start
 
 - Completion: reviewedc0e7b713f4d3182d071ffb4c406ee4dccbb06266/Locke full7 PASS/native185/GSC100/138IDs/305refs/exact7/privacy-whitespace; docs-only main push/postpush fresh fetch clean0/0/no site-Pages. Completed1; factual closeout then separately registered supported three-owner repair within same guard, no presumed new URL/November1 retained.

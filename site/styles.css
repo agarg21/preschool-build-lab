@@ -793,6 +793,46 @@ th {
   margin: 8px 0 0;
 }
 
+.ice-watch-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.ice-watch-card h1 {
+  font-size: min(2rem, 48px);
+  line-height: 1.15;
+}
+
+.ice-watch-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.ice-watch-card .step-tile {
+  min-height: 0;
+}
+
+.ice-watch-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.ice-watch-card .ice-watch-materials,
+.ice-watch-card .ice-watch-readiness {
+  line-height: 1.5;
+}
+
+.ice-watch-card .ice-watch-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.ice-watch-card .ice-watch-readiness p {
+  margin: 8px 0 0;
+}
+
 .shadow-card {
   max-width: 720px;
   margin: 0 auto;

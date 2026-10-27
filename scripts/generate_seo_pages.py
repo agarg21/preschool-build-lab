@@ -323,16 +323,30 @@ ACTIVITIES = {
         "source_note": "NAEYC describes prediction and observation with objects in water. AAP gives general attentive water-supervision and empty-container guidance; CPSC gives toy age and small-part guidance. This one-toy tray, placement, result and stop sequence is KAL editorial synthesis, not a tested safety method. Time, mess, comprehension, enjoyment, learning and physical outcomes are unknown.",
     },
     "ice-melt-rescue": {
-        "title": "Ice Melt Rescue",
+        "title": "Melting Ice Watch",
         "url": "../cards/ice-melt-rescue.html",
         "ages": "4-6",
-        "time": "8 min",
-        "mess": "medium",
-        "help": "medium",
-        "materials": "ice cube, warm water, spoon, tray",
-        "best_for": "temperature, observation, patient testing",
-        "steps": ["Put ice on a tray.", "Touch with a spoon.", "Add warm drops.", "Watch it melt."],
-        "parent": "Use warm water, not hot water.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Check readiness first",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult handles; child watches",
+        "materials": "1 plain water ice cube, 1 shallow nonbreakable tray, 1 adult spoon, 1 towel",
+        "best_for": "noticing solid ice and liquid water while an adult handles the materials",
+        "readiness_groups": [
+            ("Materials", "Use plain ice with nothing frozen inside and an intact shallow nonbreakable tray. The spoon is for the adult. No added water, heat, salt, colour or embedded toys; this is not a snack or a toy-rescue activity."),
+            ("Adult and space", "Adult handles the ice, spoon and meltwater throughout. Set the tray on a stable level surface away from edges and walking routes, beyond every child's reach but visible to them. Stay beside every reachable child; keep spares away."),
+            ("Fit or skip", "Try only when every child can watch with hands away and respond to a stop cue. Pointing or saying what you notice are options. Skip if a child mouths or reaches for materials, or you cannot maintain reach control and attention."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab."),
+        ],
+        "stop": "End and collect if a child reaches for the ice, tray or spoon, mouths material, ice leaves the tray, water spills, anyone is uncomfortable or adult attention shifts.",
+        "adult_setup": "Start with the empty dry tray and towel ready for cleanup. Adult uses the spoon to place one plain water ice cube in the tray, without adding water. Point out its starting shape and any liquid already there. Keep the tray beyond children's reach while they look; no cold touching is required.",
+        "steps": ["Look at the ice without touching. Point to its shape.", "Look again: is the ice smaller, or is there more liquid around it?", "Say or point: changed or not yet clear. Finish whenever you want; no need to wait for all the ice to melt."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If a change is not clear, say 'not yet clear' and end, or look again only while the adult can stay. Do not add heat, water or tools for the child to force a result. Adult takes remaining ice and meltwater to a sink out of children's reach and empties the tray immediately, then dries the tray and work area and puts away the spoon, tray and towel. Do not leave ice or standing water accessible. Duration and mess have not been measured.",
+        "sources": [("Sciencenter: plain-ice alternative and observation", "https://sciencenter.org/wp-content/uploads/using-tools-and-melting-ice-1.pdf"), ("AAP: water reach and immediate emptying", "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Infant-Water-Safety.aspx")],
+        "source_note": "Sources checked October27,2026. Sciencenter includes plain ice as an alternative to frozen toys and prompts observation; its tool-rich photos do not show this exact setup. The one-cube look-only reduction, adult-only handling, beyond-reach placement, script, stop and cleanup are Kid Activity Lab editorial adaptations, not a tested safety method. AAP gives general water-supervision and empty-container guidance, not certification of a tray or a contact/temperature rule. Owned material suitability, hygiene, physical outcomes, family understanding, enjoyment, learning and safety are unknown. No measured melt rate or duration, medical guidance, product recommendation or safety assurance.",
     },
     "magnet-hunt": {
         "title": "Magnet Hunt",
@@ -544,6 +558,9 @@ ACTIVITIES["box-garage"]["start_cue"] = (
 ACTIVITIES["shadow-shape-match"]["start_cue"] = " ".join(
     text for _, text in ACTIVITIES["shadow-shape-match"]["readiness_groups"]
 ) + " Stop: " + ACTIVITIES["shadow-shape-match"]["stop"]
+ACTIVITIES["ice-melt-rescue"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["ice-melt-rescue"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["ice-melt-rescue"]["stop"]
 
 
 PAGES = [
