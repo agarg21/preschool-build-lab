@@ -1,5 +1,13 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP055 full16 Mill independent PASS/noP0-P3/native217/reviewer216nonmutating; [packet](../reviews/cup-balance-first-start-repair-2026-10-27.md) records actual QA and limits. Exact reviewed main release/exactSHA production pending; same02:04:12Z/completed0/deadline02:49:12Z.
+
+IMP055 local217/fourfocused/all3generators twice/exact5outputs/94site-35canonical-35library-7math peers/PAGES unchanged/73HTML-1013refs-89fragments-8LD-67URLs pass.12modes/6incomingBack/4touch/3outgoingMathBack/8disclosurecycles/new-old-plastic1-zero-keyboardClear36focus/3noJS/allword-H1parentfit/viewed390-root32 pass. Current adult observation25/26/all13/noN-A/sensory1, not a skillgain over withdrawn weighing/balancing. Baseline favicon404 and initial wrong-label harness corrected explicitly; no product regression. Full16 structured/differentreview/exactSHAproduction pending. Same02:04:12Z/completed0/deadline02:49:12Z/November1.
+
+IMP055 scope amendment BEFORE CSS: exact16 adds only cup-balance-card compact styles; exact5 site outputs. Current source lineage unchanged; shared existing owners preserved; full16 different review. Same02:04:12Z/startdeadline02:49:12Z.
+
+KAL-IMP-055 REGISTERED at ea5be92, exact15 JSON/checkpoint. Apply reviewed RES072 Cup Balance Watch three-owner repair; preserve URL/legacy finder/peers/36cards/67URLs, no newURL or calibrated measurement. Required native/twice/conservation/fulltask/different15review/exactSHA production gates. Actual02:04:12Z/completed0/startdeadline02:49:12Z; November1/October30 retained.
+
 COMPLETED learned-only 8586cce7dbe1426318f4a692c3f5c07774be4e10: Raman full7 plus factual-receipt delta PASS/noP0-P3, Master213/reviewer212nonmutating, exact7/152IDs/100GSC/348final-docrefs/privacy/EOF/stagedwhitespace exit0. Fresh completed fetch0/0/empty incoming-unpushed/exact7 staged hash/privacy check; complete unpushed range byte-identical to inspected reviewed staged diff; docs-only main push and postpush fresh fetch clean0/0 passed. No site/Pages/physical outcome. Three transactions completed; helper denies fourth. Next eligible heartbeat separately register Cup Balance Watch repair across existing card/library/math with reviewed assembly/central support/empty check/supported loading/unclear-end/trust limits. No dependency blocker; owned behavior/outcomes remain UNKNOWN. November1/October30 unchanged.
 
 RES072 reviewed PASS; see [audit](../reviews/balance-basket-first-start-audit-2026-10-27.md) and operator-review receipt. Native213/full7 structured/privacy/EOF pass; docs-only release/alignment next, third-final/no fourth.

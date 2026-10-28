@@ -528,16 +528,29 @@ ACTIVITIES = {
         "source_note": "Sources checked October27,2026. Common-reference visual comparison and toy-label and tape-surface checks are source-backed. The hand-placed block, cardboard board, three-strip layout, facing-edge instructions, roles and stop rules are Kid Activity Lab editorial adaptations, not an inspected source procedure or a tested setup. Learning Trajectories uses specific frog hoppers and later equal units; neither is used here. This is qualitative gap comparison, not a measured jump or numerical measurement. Source age labels, examples and assessment context do not validate individual readiness or our arrangement. Owned material fit, adhesion, understanding, enjoyment, learning, duration, mess and safety outcomes are unknown. No product recommendation, clinical rule or safety assurance.",
     },
     "balance-scale-baskets": {
-        "title": "Balance Basket Scale",
+        "title": "Cup Balance Watch",
         "url": "../cards/balance-scale-baskets.html",
         "ages": "4-6",
-        "time": "7 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "hanger, two baskets, safe objects",
-        "best_for": "weight, comparison, early math language",
-        "steps": ["Add one object.", "Add another side.", "Watch it tilt.", "Try to balance."],
-        "parent": "Adult sets up the hanger and supervises the scale.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Watch or point without touching",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult assembles, holds and loads",
+        "materials": "1 intact owned plastic hanger with symmetric notches, 2 matching paper cups, yarn, adult scissors and hole punch, 2 intact lightweight owned nonmagnetic objects that fit inside the cups",
+        "best_for": "noticing cup positions in an adult-held balance, not measuring weight",
+        "readiness_groups": [
+            ("Materials", "Adult checks hanger, cup rims, yarn and attachments. Check object labels, condition and fit for every reachable child; no small detachable parts, coins, beans, marbles or loose fillers. If materials or retention are uncertain, skip; do not improvise a mount."),
+            ("Adult and space", "Adult handles all tools, yarn, hanger and loads over a clear level floor. Child watches or points from beyond reach of yarn, hanger and moving cups. Skip if you cannot maintain this separation and attend to every reachable child. No child handling, body wrapping, pulling or climbing."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab. Adult roles and controls are editorial choices, not tested protection. Watching or declining is enough; no counting or spoken answer needed."),
+        ],
+        "stop": "End for reaching, pulling, mouthing, throwing, loose knots, torn rims, bending, swinging, contact, discomfort or shifted attention. Lower cups onto the floor before handling; never leave the assembly hanging unattended.",
+        "adult_setup": "Away from children, adult makes two opposite holes about 1 inch below each cup rim and cuts two equal yarn pieces about 1 foot (30 cm) long. Tie each end through an opposite hole to make a handle. Put one handle on each notch, equally far from center and with equal hanging lengths. Inspect knots and rims; skip damage or insecure attachment. Adult alone holds the central hook without pinning the bar level, low over the floor with cups hanging free, not touching each other or the floor. Start EMPTY and let motion settle. If cups are uneven, touching, binding or unclear, lower them to rest on the floor and end. No door, cabinet, pencil or book supports.",
+        "steps": ["Adult rests both cups on the floor before adding at most one checked object to each. Child watches from beyond reach.", "Adult lifts by the central hook and lets motion settle. Point or say: left lower, right lower, roughly level or unclear. Do not force a balance or an answer.", "One observation is enough. Adult lowers both cups onto the floor before removing anything. Roughly level is not proof of equal weight; this homemade balance is uncalibrated."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "Unclear or uneven? End rather than add counterweights or repeat. Adult removes objects with cups resting on the floor, disassembles the yarn handles, stores ALL yarn, hanger, tools, cups and objects out of reach, and clears the floor. Duration, effort and mess are not measured.",
+        "sources": [("PBS SoCal: matching cups and yarn handles", "https://www.pbssocal.org/education/family-math-activity-make-a-balance-scale"), ("PBS/MPT: symmetric cups and central support (page 5)", "https://d43fweuh3sg51.cloudfront.net/media/media_files/c6b12008-91f2-412d-9284-086b727071af/a1235226-67e6-45a0-8cb8-e8fe2aeee299.pdf#page=5"), ("PBS: empty cups level before comparison", "https://www.pbs.org/parents/crafts-and-experiments/balancing-nature"), ("AAP: owned toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx")],
+        "source_note": "Sources checked October27,2026. Matching cup handles, symmetric hanging lengths and central support, and an empty-level check are source-backed. We use the PBS SoCal handle construction, not PBS's different threaded loop. Adult-only roles, low floor setup, supported loading, one object per cup and stop rules are Kid Activity Lab editorial adaptations, not a tested setup. Construction lengths are nominal, not safety thresholds or load ratings. We exclude source door/book mounts, child handling, small loads and measurement games. This is an uncalibrated observation, not numeric weighing or proof of equal mass. Source age labels do not establish readiness. Owned strength, attachment, grip behavior, fit, understanding, enjoyment, learning, duration, mess and safety outcomes are unknown. No product recommendation, clinical rule or safety assurance.",
     },
     "color-mixing-cups": {
         "title": "Color Mixing Cups",
@@ -666,6 +679,9 @@ ACTIVITIES["pattern-path"]["start_cue"] = " ".join(
 ACTIVITIES["measuring-tape-jumps"]["start_cue"] = " ".join(
     text for _, text in ACTIVITIES["measuring-tape-jumps"]["readiness_groups"]
 ) + " Stop: " + ACTIVITIES["measuring-tape-jumps"]["stop"]
+ACTIVITIES["balance-scale-baskets"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["balance-scale-baskets"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["balance-scale-baskets"]["stop"]
 
 
 PAGES = [
