@@ -797,6 +797,46 @@ th {
   scroll-margin-top: max(104px, 6rem);
 }
 
+.toy-distance-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.toy-distance-card h1 {
+  font-size: 1.7rem;
+  line-height: 1.15;
+}
+
+.toy-distance-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.toy-distance-card .step-tile {
+  min-height: 0;
+}
+
+.toy-distance-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.toy-distance-card .toy-distance-materials,
+.toy-distance-card .toy-distance-readiness {
+  line-height: 1.5;
+}
+
+.toy-distance-card .toy-distance-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.toy-distance-card .toy-distance-readiness p {
+  margin: 8px 0 0;
+}
+
 .pattern-path-card {
   max-width: 720px;
   margin: 0 auto;

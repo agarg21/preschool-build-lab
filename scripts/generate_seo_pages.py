@@ -502,16 +502,30 @@ ACTIVITIES = {
         "source_note": "Sources checked October27,2026. Repeated units, concrete objects, next-piece choices and pointing are source-backed. The six-piece, two-unit starter, adult roles, one-extension limit, retry, matching alternative and stop rules are Kid Activity Lab editorial adaptations, not a tested setup. DREME's assessment context is not our child assessment; source age labels and examples do not establish individual readiness. Owned material fit, understanding, enjoyment, learning, duration, mess and safety outcomes are unknown. No clinical rule, product recommendation or safety assurance.",
     },
     "measuring-tape-jumps": {
-        "title": "Measuring Tape Jumps",
+        "title": "Toy Distance Marks",
         "url": "../cards/measuring-tape-jumps.html",
         "ages": "4-6",
-        "time": "5 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "painter tape, toy, floor",
-        "best_for": "measurement, comparing distance, active math",
-        "steps": ["Make tape marks.", "Jump a toy.", "See where it lands.", "Try again."],
-        "parent": "Use a toy jump, not kid jumping, in small rooms.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Check gentle placement and pointing",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult prepares and removes tape",
+        "materials": "1 intact lightweight owned nonmagnetic block with no small or detachable parts, 1 large flat cardboard board, owned painter's tape handled by the adult",
+        "best_for": "comparing two marked gaps from one common starting edge",
+        "readiness_groups": [
+            ("Materials", "Check block labels, condition and fit for every reachable child. Adult handles tape, follows its instructions and must test a hidden spot. Skip incompatible surfaces; cardboard is not guaranteed damage-free."),
+            ("Adult and space", "Adult stays beside every reachable child. Board stays flat on a stable level table away from edges, with marks visible and room beside each."),
+            ("Fit or skip", "Gently lift and place, point for the adult or watch. No counting or color naming needed. Skip for mouthing, poor visibility or unavailable attention."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab. Layout and controls are editorial choices, not tested protection."),
+        ],
+        "stop": "Stop for loose, chewed or wrapped tape, mouthing or throwing the block, discomfort, surface change or shifted attention. No child jumping, toy jumping, rolling or launching.",
+        "adult_setup": "Lay three short parallel strips along the board: start, nearer destination, farther destination. Leave room beside each for the block. Point to the start-strip edge facing the destinations and each destination edge facing start. These facing edges define the two gaps; the block is only a pretend toy marker.",
+        "steps": ["Lift the block and gently place it beside the nearer destination mark, or point for the adult.", "Move it by hand beside the farther mark. Compare both gaps from the same named starting edge.", "Say or point: nearer, farther or unclear. One comparison is enough; you can watch or finish."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If judging is unclear, adult points along each gap once. Then watch or end; no repeats are needed. Do not add a launcher or force an answer. Adult removes and collects every tape strip, stores the block, tape and board, and clears the table. Duration and mess are not measured.",
+        "sources": [("Learning Trajectories: visual distance comparison", "https://www.learningtrajectories.org/math-activities/frog-jump-measure"), ("DREME: comparison versus consistent-unit measurement", "https://preschoolmath.stanford.edu/toolkit/measurement-at-a-glance/"), ("AAP: owned toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx"), ("FrogTape: surface guidance and hidden-area checks", "https://www.frogtape.com/how-to-use/painters-tape")],
+        "source_note": "Sources checked October27,2026. Common-reference visual comparison and toy-label and tape-surface checks are source-backed. The hand-placed block, cardboard board, three-strip layout, facing-edge instructions, roles and stop rules are Kid Activity Lab editorial adaptations, not an inspected source procedure or a tested setup. Learning Trajectories uses specific frog hoppers and later equal units; neither is used here. This is qualitative gap comparison, not a measured jump or numerical measurement. Source age labels, examples and assessment context do not validate individual readiness or our arrangement. Owned material fit, adhesion, understanding, enjoyment, learning, duration, mess and safety outcomes are unknown. No product recommendation, clinical rule or safety assurance.",
     },
     "balance-scale-baskets": {
         "title": "Balance Basket Scale",
@@ -649,6 +663,9 @@ ACTIVITIES["wind-tower-test"]["start_cue"] = (
 ACTIVITIES["pattern-path"]["start_cue"] = " ".join(
     text for _, text in ACTIVITIES["pattern-path"]["readiness_groups"]
 ) + " Stop: " + ACTIVITIES["pattern-path"]["stop"]
+ACTIVITIES["measuring-tape-jumps"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["measuring-tape-jumps"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["measuring-tape-jumps"]["stop"]
 
 
 PAGES = [

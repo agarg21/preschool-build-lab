@@ -92,6 +92,10 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "measuring-tape-jumps": {
+        "kicker": "Place by hand | Compare gaps",
+        "description": "Toy Distance Marks: an adult-prepared board, hand-placed block and nearer, farther or unclear comparison from one starting edge. No jumps or numeric measurement; research-backed, not family-tested.",
+    },
     "pattern-path": {
         "kicker": "One AB pair | Adult sets choices",
         "description": "Pattern Path activity card: an adult-laid A-B-A-B starter, two next-piece choices, pointing or matching fallback, and one extension. Research-backed, not family-tested.",
@@ -762,6 +766,7 @@ def quick_page(slug):
     is_ramp_texture = slug == "ramp-texture-test"
     is_wind_tower = slug == "wind-tower-test"
     is_pattern_path = slug == "pattern-path"
+    is_toy_distance = slug == "measuring-tape-jumps"
     has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge or is_cup_tower
     routes = related_routes_html(
@@ -785,8 +790,8 @@ def quick_page(slug):
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
         </div>'''
-    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt or is_ramp_texture or is_wind_tower or is_pattern_path:
-        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix" if is_color_mix else "drop-tilt" if is_drop_tilt else "ramp-texture" if is_ramp_texture else "wind-tower" if is_wind_tower else "pattern-path"
+    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt or is_ramp_texture or is_wind_tower or is_pattern_path or is_toy_distance:
+        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix" if is_color_mix else "drop-tilt" if is_drop_tilt else "ramp-texture" if is_ramp_texture else "wind-tower" if is_wind_tower else "pattern-path" if is_pattern_path else "toy-distance"
         readiness = "\n".join(
             f'          <p><strong>{esc(label)}:</strong> {esc(text)}</p>'
             for label, text in activity["readiness_groups"]
@@ -866,7 +871,8 @@ def quick_page(slug):
         "kid-card drop-tilt-card" if is_drop_tilt else
         "kid-card ramp-texture-card" if is_ramp_texture else
         "kid-card wind-tower-card" if is_wind_tower else
-        "kid-card pattern-path-card" if is_pattern_path else "kid-card"
+        "kid-card pattern-path-card" if is_pattern_path else
+        "kid-card toy-distance-card" if is_toy_distance else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
@@ -883,7 +889,8 @@ def quick_page(slug):
         "drop-tilt-card-1" if is_drop_tilt else
         "ramp-texture-card-1" if is_ramp_texture else
         "wind-tower-card-1" if is_wind_tower else
-        "pattern-path-card-1" if is_pattern_path else "nav-stable-2"
+        "pattern-path-card-1" if is_pattern_path else
+        "toy-distance-card-1" if is_toy_distance else "nav-stable-2"
     )
     previous_video = '''
 
@@ -942,6 +949,8 @@ def cards_index():
     for slug, source_activity in ACTIVITIES.items():
         activity = {**source_activity, **QUICK_CARD_OVERRIDES.get(slug, {})}
         search_text = f'{activity["title"]} {activity["materials"]}'
+        if slug == "measuring-tape-jumps":
+            search_text += " Measuring Tape Jumps"
         summary = (
             "Paused; choose a non-magnet activity"
             if slug == "magnet-hunt" else
@@ -962,7 +971,9 @@ def cards_index():
             f'Adult controls paper fan; standing is a result | {activity["time"]} · {activity["materials"]}'
             if slug == "wind-tower-test" else
             f'Adult sets ABAB; choose or point once | {activity["time"]} · {activity["materials"]}'
-            if slug == "pattern-path" else f'{activity["time"]} · {activity["materials"]}'
+            if slug == "pattern-path" else
+            f'Place by hand; compare marked gaps | {activity["time"]} · {activity["materials"]}'
+            if slug == "measuring-tape-jumps" else f'{activity["time"]} · {activity["materials"]}'
         )
         cards.append(
             f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(summary)}</span><template data-search="{esc(search_text)}"></template></a>'
