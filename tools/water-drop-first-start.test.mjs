@@ -52,6 +52,6 @@ test("Water Drop Tilt preserves URL and inventories with scoped compact styling"
   assert.equal((read("cards.html").match(/class="mini-card"/g) || []).length, 36);
   assert.match(read("cards.html"), /Adult steadies; child tilts or watches \| Open-ended/);
   const sitemap = read("sitemap.xml");
-  assert.equal((sitemap.match(/<loc>/g) || []).length, 66);
+  assert.equal((sitemap.match(/<loc>/g) || []).length, 65);
   assert.ok(sitemap.includes("cards/water-drop-race.html</loc>\n    <lastmod>2026-10-27</lastmod>"));
 });

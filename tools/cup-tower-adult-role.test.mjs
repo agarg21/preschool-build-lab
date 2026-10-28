@@ -51,7 +51,7 @@ test("cup fit and hub exception stay scoped without another indexable route", ()
   assert.match(css, /\.cup-tower-card \.step-tile/);
   assert.match(css, /\.cup-tower-guide #first-try\s*\{\s*scroll-margin-top: 7rem;/);
   const sitemap = fs.readFileSync("site/sitemap.xml", "utf8");
-  assert.equal([...sitemap.matchAll(/<loc>/g)].length, 66);
+  assert.equal([...sitemap.matchAll(/<loc>/g)].length, 65);
   for (const path of ["cards/cup-tower.html", "articles/paper-cup-tower-kids.html", "collections/independent-activities-for-preschoolers.html"]) {
     const date = path.startsWith("collections/") ? "2026-10-28" : "2026-10-27";
     assert.ok(sitemap.includes(`${path}</loc>\n    <lastmod>${date}</lastmod>`), path);

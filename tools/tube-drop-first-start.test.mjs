@@ -76,6 +76,6 @@ test("Drop discovery labels and sitemap preserve existing owners and counts", ()
     }
   }
   assert.equal((read("cards.html").match(/class="mini-card"/g) || []).length, 36);
-  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 66);
+  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 65);
   assert.match(read("materials/cardboard.html"), /name="robots" content="noindex,follow"/);
 });

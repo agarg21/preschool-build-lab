@@ -129,7 +129,7 @@ test("material chooser, support steps, and architecture boundary are complete", 
   assert.match(html, /neighboring pages support different activity goals/);
 });
 
-test("eight runnable builds retain checks and Toy Home has a distinct checked handoff", () => {
+test("seven runnable builds retain checks and Toy Home and paused Rooms remain distinct", () => {
   const builds = [...html.matchAll(/<article class="seo-activity building-build" id="([^"]+)">([\s\S]*?)<\/article>/g)];
   assert.deepEqual(builds.map((match) => match[1]), buildSlugs);
   for (const [slug, body] of builds.map((match) => [match[1], match[2]])) {
@@ -140,6 +140,15 @@ test("eight runnable builds retain checks and Toy Home has a distinct checked ha
       assert.match(body, /skip mouthing, uncertain reach/);
       assert.match(body, /previous tile-or-block house instructions are withdrawn/);
       assert.doesNotMatch(body, /<li>|Open the base activity card|href="\.\.\/cards\/magnetic-tile-house.html"/);
+      continue;
+    }
+    if (slug === "magnetic-tile-ideas") {
+      assert.match(body, /Two-room version paused/);
+      assert.match(body, /Do not start this version/);
+      assert.match(body, /ONE park-and-out job, NOT two rooms/);
+      assert.match(body, /BEFORE handling/);
+      assert.match(body, /href="\.\.\/cards\/box-garage.html"/);
+      assert.doesNotMatch(body, /<li>|Make one open shape|Join them with a wall or doorway/);
       continue;
     }
     for (const label of ["Kid mission:", "Need", "Adult setup:", "If the build stalls", "Stop:", "Parent check:"]) {

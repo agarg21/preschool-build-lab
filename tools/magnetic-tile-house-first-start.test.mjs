@@ -75,6 +75,6 @@ test("Flat-house discovery distinguishes its new task without adding owners or p
   assert.doesNotMatch(read("cards/magnetic-tile-house.html"), /href="\.\.\/collections\/indoor-activities-for-preschoolers.html"/);
   assert.doesNotMatch(read("collections/indoor-activities-for-preschoolers.html"), /id="magnetic-tile-house"|<h2>Magnetic Tile House<\/h2>/);
   assert.equal((read("cards.html").match(/class="mini-card"/g) || []).length, 36);
-  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 66);
+  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 65);
   assert.ok(read("sitemap.xml").includes("https://kidactivitylab.com/cards/magnetic-tile-house.html"));
 });

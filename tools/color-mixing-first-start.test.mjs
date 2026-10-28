@@ -53,6 +53,6 @@ test("Color Mixing retains identity, inventory and scoped compact styling", () =
   assert.equal((read("cards.html").match(/class="mini-card"/g) || []).length, 36);
   assert.match(read("cards.html"), /Adult mixes; child notices \| Open-ended/);
   const sitemap = read("sitemap.xml");
-  assert.equal((sitemap.match(/<loc>/g) || []).length, 66);
+  assert.equal((sitemap.match(/<loc>/g) || []).length, 65);
   assert.ok(sitemap.includes("cards/color-mixing-cups.html</loc>\n    <lastmod>2026-10-27</lastmod>"));
 });

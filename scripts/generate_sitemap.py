@@ -9,6 +9,7 @@ BASE_URL = "https://kidactivitylab.com"
 NON_CONTENT_HTML = {"googled495b3fc6f0765f8.html"}
 LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"}
 CONTENT_LASTMODS = {
+    "cards/magnetic-tile-ideas.html": "2026-10-28",
     "cards/magnetic-tile-house.html": "2026-10-28",
     "cards/paper-roll-drop.html": "2026-10-28",
     "cards/pom-pom-drop.html": "2026-10-28",

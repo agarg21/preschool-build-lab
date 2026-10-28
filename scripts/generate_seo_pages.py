@@ -125,16 +125,23 @@ ACTIVITIES = {
         "source_note": "Sources checked October28,2026. Manufacturer text supports laying simple houses flat; its inspected flat pattern uses mini tiles and a printable, which we do NOT transfer. Our TWO LARGE owned shapes, gap, layout, roles, rescue and stop are editorial synthesis, not that exact pattern or an inspected creator-video procedure. Brand, source ages and supervision do not establish owned-set fit, compatibility, strength or safety. Research-backed, not family-tested by Kid Activity Lab. Time, mess, comprehension, enjoyment, engagement, learning, repeatability and safety outcomes are UNKNOWN. No product recommendation or purchase is needed.",
     },
     "magnetic-tile-ideas": {
-        "title": "Magnetic Tile Builds",
+        "title": "Magnetic Tile Builds (paused)",
         "url": "../cards/magnetic-tile-ideas.html",
+        "tile_build_pause": True,
         "ages": "3-6",
-        "time": "2 min",
-        "mess": "low",
-        "help": "low",
-        "materials": "magnetic tiles",
-        "best_for": "open-ended building, patterns, independent play",
-        "steps": ["Pick tiles.", "Make a wall.", "Add a roof.", "Change the shape."],
-        "parent": "Check magnets and tile edges before play.",
+        "time": "Not measured",
+        "mess": "Not measured",
+        "help": "Read the different activity's adult role",
+        "materials": "This version is paused; choose a different checked activity or decline",
+        "best_for": "A pause and choice notice, not a standing-build recipe",
+        "steps": [],
+        "pause_reason": "Our old wall, roof and knockdown instructions do not establish the pieces, first connection, support and controlled end well enough to run this version. A quick magnet or condition check does not fill those gaps. This is not a finding that all magnetic tiles are unsuitable.",
+        "flat_url": "../cards/magnetic-tile-house.html",
+        "flat_label": "Different flat house picture",
+        "box_url": "../cards/box-garage.html",
+        "box_label": "Different one-car Box Garage",
+        "parent": "BEFORE handling, open the chosen activity and read its owned-material, adult-role, stop and collection checks for EVERY reachable child, or decline. Adult stays beside the setup. Skip for mouthing, uncertain materials or reach, or unavailable attention. Size, brand and a quick check do not establish fit. Do not substitute tiles or blocks into the box recipe.",
+        "source_note": "Sources checked October28,2026. Manufacturer build inventories and product-specific finished examples do not establish our old generic sequence; an attributed two-room challenge is a prompt, not a procedure. The old linked creator video was not watched or transcribed. We do not claim it contradicts our page or that no suitable procedure exists. The two alternatives have their own maintained source and use checks; neither is an equivalent standing or two-room task. Research-backed editorial decision, not family-tested by Kid Activity Lab. Owned fit, time, mess, enjoyment, learning, repeatability and safety outcomes are UNKNOWN. No product recommendation or purchase.",
     },
     "block-tower": {
         "title": "Block Tower",
@@ -950,14 +957,14 @@ PAGES = [
         "kicker": "Age 4",
         "description": "Easy activities for 4 year olds at home: building, pretend play, ramps, tape roads, blocks, magnetic tiles, and low-mess STEM prompts.",
         "intro": "Four year olds can handle a little more planning: make a road, test a ramp, build a bridge, or set up a tiny city. Keep the activity small enough that the child still owns the work.",
-        "tip": "If you need one activity now, choose the cardboard ramp. If your child wants a challenge, open the original age-4 STEM test pack. Tape City first needs the road guide's surface checks and adult tape handling; quietness, mess and setup time are not measured. Magnetic Tile Builds has its own checks.",
+        "tip": "If you need one activity now, choose the cardboard ramp. If your child wants a challenge, open the original age-4 STEM test pack. Tape City first needs the road guide's surface checks and adult tape handling; quietness, mess and setup time are not measured. Magnetic Tile Builds is paused; read its different checked choices or decline, not a wall or roof start.",
         "chooser_title": "Start here by parent situation",
         "chooser_label": "Age 4 at-home chooser",
         "chooser": [
             ("A checked car-ramp start fits", ("Cardboard ramp parent guide", "../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start"), "Read owned-material and adult checks first; setup, play and cleanup time are not measured."),
             ("I want a 5-10 minute STEM challenge", ("Original age-4 STEM test pack", "../collections/original-stem-activities-for-4-year-olds.html"), "Five activities with parent jobs, kid steps, safety notes, and stop rules."),
             ("I want more STEM choices", ("STEM activities for 4 year olds", "../ages/stem-activities-for-4-year-olds.html"), "A broader chooser for ramps, bridges, shadows, towers, and water tests."),
-            ("I want a pretend place", "Tape City or Magnetic Tile Builds", "Tape City starts with checked tape/surface and one optional flat block; adult stays. Quietness, mess and setup time are not measured. Magnetic Tile Builds has its own checks."),
+            ("I want a pretend place", "Tape City; Magnetic Tile Builds is paused", "Tape City starts with checked tape/surface and one optional flat block; adult stays. Quietness, mess and setup time are not measured. Magnetic Tile Builds offers DIFFERENT checked choices, not this standing or two-room job."),
         ],
         "activity_overrides": {
             "car-ramp-distance-test": {
@@ -1321,7 +1328,7 @@ PAGES = [
             ("NAEYC: Two Mathematical Heads Are Better than One", "https://www.naeyc.org/resources/pubs/yc/fall2022/peer-based-math-learning"),
             ("NAEYC: The Intentional Teacher excerpt", "https://www.naeyc.org/sites/default/files/globally-shared/downloads/PDFs/resources/pubs/intentional-teacher-third-edition-chap-1-excerpt.pdf"),
         ],
-        "activities": ["paper-bridge", "cardboard-car-ramp", "cup-tower", "magnetic-tile-ideas"],
+        "activities": ["paper-bridge", "cardboard-car-ramp", "cup-tower"],
         "related": ["engineering activities for preschoolers", "science activities for preschoolers", "stem projects for preschoolers"],
     },
     {
@@ -1685,14 +1692,9 @@ PAGES = [
             "magnetic-tile-ideas": {
                 "slug": "magnetic-tile-ideas",
                 "title": "Connected Rooms",
-                "job": "Enclose a space",
-                "materials": "intact large magnetic tiles or blocks, two large toys",
-                "mission": "Make two connected spaces so each toy has a place.",
-                "adult_role": "Offer a small set of intact pieces and ask where an opening should go.",
-                "steps": ["Make one open shape.", "Build a second shape beside it.", "Join them with a wall or doorway."],
-                "rescue": "Make two flat outlines instead of standing walls.",
-                "stop": "Stop if a piece breaks, magnets become visible, or the material no longer stays in the build area.",
-                "parent": "Use pieces appropriate for the child and check edges and enclosed magnets before play.",
+                "job": "Two-room version paused",
+                "pause_reason": "Our Connected Rooms instructions do not establish the pieces, first connection, openings and controlled end well enough to run this two-room version. The old flat-outline rescue was not a complete setup either. This is not a finding that all magnetic tiles are unsuitable.",
+                "steps": [],
             },
             "block-tower": {
                 "slug": "block-tower",
@@ -1916,7 +1918,22 @@ def chooser_pick_cell(pick):
     return esc(pick)
 
 
+def tile_build_pause_choices(activity):
+    return f'''          <p class="tile-build-pause-cue"><strong>Do not start this version.</strong></p>
+          <p>{esc(activity["pause_reason"])}</p>
+          <p><a href="{esc(activity["flat_url"])}">{esc(activity["flat_label"])}</a>: a flat PICTURE, not a standing structure or room for a toy.</p>
+          <p><a href="{esc(activity["box_url"])}">{esc(activity["box_label"])}</a>: DIFFERENT materials, an already-open box and suitable owned car; ONE park-and-out job, NOT two rooms.</p>
+          <p>{esc(activity["parent"])}</p>
+          <p>Neither choice fulfills the paused standing or two-room task. Research-backed decision, not family-tested by Kid Activity Lab. Time, mess and physical outcomes are unknown.</p>'''
+
+
 def activity_card(activity):
+    if activity.get("tile_build_pause"):
+        return f'''        <article class="seo-activity tile-build-pause">
+          <h2>{esc(activity["title"])}</h2>
+{tile_build_pause_choices(activity)}
+          <p><a class="small-link" href="{esc(activity["url"])}">Why this build is paused</a></p>
+        </article>'''
     if activity["url"] == "../cards/paper-plate-ramp.html":
         return f'''        <article class="seo-activity plate-pause">
           <h2>Paper Plate Ramp (paused)</h2>
@@ -2034,6 +2051,13 @@ def engineering_activity_card(activity):
 
 
 def building_activity_card(activity):
+    if activity.get("tile_build_pause"):
+        return f'''        <article class="seo-activity building-build" id="{esc(activity["slug"])}">
+          <p class="challenge-label">{esc(activity["job"])}</p>
+          <h2>{esc(activity["title"])}</h2>
+{tile_build_pause_choices(activity)}
+          <p><a class="small-link" href="{esc(activity["url"])}">Why this build is paused</a></p>
+        </article>'''
     if activity.get("checked_handoff"):
         return f'''        <article class="seo-activity building-build" id="{esc(activity["slug"])}">
           <p class="challenge-label">{esc(activity["job"])}</p>

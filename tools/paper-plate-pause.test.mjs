@@ -33,7 +33,7 @@ print(json.dumps({p:with_contributor_credit(h,p) for p,h in out.items()}))`;
 test("Plate discovery stays honest while only one sitemap owner is withdrawn",()=>{
  for(const p of["cards.html","collections/toy-car-activities.html"]){const e=read(p).match(/<a class="mini-card" href="(?:\.\.\/)?cards\/paper-plate-ramp.html">[\s\S]*?<\/a>/)?.[0];assert.ok(e);assert.match(e,/Paused; cardboard-ramp alternative uses different materials/);assert.doesNotMatch(e,/5 min/)}
  assert.equal((read("cards.html").match(/class="mini-card"/g)||[]).length,36);
- const sm=read("sitemap.xml");assert.equal((sm.match(/<loc>/g)||[]).length,66);assert.doesNotMatch(sm,/<loc>https:\/\/kidactivitylab.com\/cards\/paper-plate-ramp.html<\/loc>/);assert.match(sm,/articles\/cardboard-box-car-ramp-preschoolers.html<\/loc>/);
+ const sm=read("sitemap.xml");assert.equal((sm.match(/<loc>/g)||[]).length,65);assert.doesNotMatch(sm,/<loc>https:\/\/kidactivitylab.com\/cards\/paper-plate-ramp.html<\/loc>/);assert.match(sm,/articles\/cardboard-box-car-ramp-preschoolers.html<\/loc>/);
  for(const p of["ages/activities-for-5-year-olds-at-home.html","ages/activities-for-6-year-olds-at-home.html"]){const h=read(p);assert.match(h,/<td>Paper Plate Ramp<\/td>\s*<td>Paused<\/td>/);assert.doesNotMatch(target(h),/Open card/)}
 });
 test("Plate historical URL allowance is finite and does not reinstate indexing",()=>{

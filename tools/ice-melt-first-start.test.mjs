@@ -55,6 +55,6 @@ test("Ice Watch identity, inventory and scoped fit keep existing URL ownership",
   assert.equal((library.match(/class="mini-card"/g) || []).length, 36);
   assert.match(library, /href="cards\/ice-melt-rescue.html"><strong>Melting Ice Watch<\/strong><span>Adult handles; child watches/);
   const sitemap = read("sitemap.xml");
-  assert.equal((sitemap.match(/<loc>/g) || []).length, 66);
+  assert.equal((sitemap.match(/<loc>/g) || []).length, 65);
   assert.ok(sitemap.includes("cards/ice-melt-rescue.html</loc>\n    <lastmod>2026-10-27</lastmod>"));
 });

@@ -36,7 +36,7 @@ test("Distance existing compact forms retain separate jobs with before-action ch
 });
 test("Distance discovery, indexability and source-date scope stay bounded",()=>{
  for(const p of["cards.html","collections/toy-car-activities.html"]){const h=read(p).match(/<a class="mini-card" href="(?:\.\.\/)?cards\/car-ramp-distance-test.html">[\s\S]*?<\/a>/)?.[0];assert.ok(h);assert.match(h,/Adult checks, releases and stays/);assert.doesNotMatch(h,/5 min|tape marks/)}
- assert.equal((read("cards.html").match(/class="mini-card"/g)||[]).length,36);assert.equal((read("sitemap.xml").match(/<loc>/g)||[]).length,66);
+ assert.equal((read("cards.html").match(/class="mini-card"/g)||[]).length,36);assert.equal((read("sitemap.xml").match(/<loc>/g)||[]).length,65);
  assert.doesNotMatch(card,/name="robots"/);assert.match(read("sitemap.xml"),/<loc>https:\/\/kidactivitylab.com\/cards\/car-ramp-distance-test.html<\/loc>\s*<lastmod>2026-10-28<\/lastmod>/);
  assert.match(read("collections/toy-car-activities.html"),/name="robots" content="noindex,follow"/);
  for(const p of["collections/stem-activities-for-preschoolers.html","collections/indoor-activities-for-preschoolers.html"]){assert.ok(read(p));}

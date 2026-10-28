@@ -58,6 +58,6 @@ test("Ramp Texture preserves identity, inventories and honest depth destinations
   }
   assert.equal((read("cards.html").match(/class="mini-card"/g) || []).length, 36);
   assert.match(read("cards.html"), /Adult steadies; child releases or watches \| Open-ended/);
-  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 66);
+  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 65);
   assert.ok(read("sitemap.xml").includes("cards/ramp-texture-test.html</loc>\n    <lastmod>2026-10-27</lastmod>"));
 });

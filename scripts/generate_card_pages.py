@@ -3,7 +3,7 @@ import html
 import re
 from pathlib import Path
 
-from generate_seo_pages import ACTIVITIES, PAGES
+from generate_seo_pages import ACTIVITIES, PAGES, tile_build_pause_choices
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -285,6 +285,8 @@ def related_routes_html(slug, include_guide=True, max_links=MAX_RELATED_ROUTES):
 
 
 def page(row, slug):
+    if slug == "magnetic-tile-ideas":
+        return tile_build_pause_page()
     if slug == "magnetic-tile-house":
         return flat_house_page()
     if slug in {"paper-roll-drop", "pom-pom-drop"}:
@@ -697,6 +699,37 @@ def foil_boat_page():
       <p><a href="../cards.html">Choose another activity</a></p>
     </article></main>
     <footer class="site-footer"><p>Kid Activity Lab</p></footer>
+  </body>
+</html>
+'''
+
+
+def tile_build_pause_page():
+    activity = ACTIVITIES["magnetic-tile-ideas"]
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Magnetic Tile Ideas Paused | Kid Activity Lab</title>
+    <meta name="description" content="Our incomplete wall and roof version is paused. Read the different flat-picture or one-car box activity's checks, or decline. Neither is a two-room recipe.">
+    <meta name="robots" content="noindex,follow">
+    <link rel="canonical" href="https://kidactivitylab.com/cards/magnetic-tile-ideas.html">
+    <link rel="stylesheet" href="../styles.css?v=nav-stable-2">
+    <style>.tile-build-pause-card {{ max-width: 720px; margin: 0 auto; overflow-wrap: anywhere; }} .tile-build-pause-card h1 {{ font-size: min(1.7rem, 43px); line-height: 1.15; }} .tile-build-pause-card h2 {{ font-size: 1.15rem; }}</style>
+  </head>
+  <body>
+    <header class="site-header"><nav class="nav" aria-label="Main navigation"><a class="brand" href="/">Kid Activity Lab</a><div class="nav-links"><a href="/">Home</a><a href="../original/">Original</a><a href="../cards.html">Cards</a></div></nav></header>
+    <main class="card-shell"><article class="kid-card tile-build-pause-card">
+      <p class="kicker">Current version paused</p>
+      <h1>Magnetic Tile Ideas</h1>
+{tile_build_pause_choices(activity)}
+      <details><summary>Sources and decision limits</summary>
+        <p><a href="https://magnatiles.com/blogs/news/magna-tiles-building-ideas-kids">Manufacturer build inventory</a>; <a href="https://m.media-amazon.com/images/I/811QfVT0LUL.pdf">Specific-set finished examples</a>; <a href="https://intheplayroom.co.uk/connetix-tiles-and-free-printable-building-challenge-cards/">Attributed building challenges</a>.</p>
+        <p>{esc(activity["source_note"])}</p>
+      </details>
+    </article></main>
+    <footer class="site-footer"><p><a href="../cards.html">Back to activity cards</a></p></footer>
   </body>
 </html>
 '''
@@ -1205,6 +1238,8 @@ def cards_index():
         if slug == "balance-scale-baskets":
             search_text += " Balance Basket Scale"
         summary = (
+            "Paused; different flat-picture or ONE box/car job, not two rooms"
+            if activity.get("tile_build_pause") else
             f'Flat PICTURE, not a toy room; adult stays beside | {activity["time"]} · {activity["materials"]}'
             if activity.get("flat_house") else
             f'Same held-tube default; adult holds throughout | {activity["time"]} · {activity["materials"]}'

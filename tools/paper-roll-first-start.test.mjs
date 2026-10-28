@@ -47,7 +47,7 @@ test("empty-roll compact fit and sitemap retain existing URLs", () => {
   assert.match(card, /font-size: min\(2rem, 48px\)/);
   assert.match(card, /rel="canonical" href="https:\/\/kidactivitylab.com\/cards\/paper-roll-play.html"/);
   const sitemap = read("site/sitemap.xml");
-  assert.equal((sitemap.match(/<loc>/g) || []).length, 66);
+  assert.equal((sitemap.match(/<loc>/g) || []).length, 65);
   for (const p of ["cards/paper-roll-play.html", "collections/no-cut-preschool-activities.html"]) {
     const date = p.startsWith("collections/") ? "2026-10-28" : "2026-10-27";
     assert.ok(sitemap.includes(`${p}</loc>\n    <lastmod>${date}</lastmod>`));

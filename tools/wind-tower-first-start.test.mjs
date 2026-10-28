@@ -59,7 +59,7 @@ test("Wind Tower leaves Low Block Wall non-fan and preserves routes and inventor
   assert.match(wall, /wind-tower-test.html">Open the test-and-redesign version/);
   assert.equal((read("cards.html").match(/class="mini-card"/g) || []).length, 36);
   assert.match(read("cards.html"), /Adult controls paper fan; standing is a result \| Open-ended/);
-  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 66);
+  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 65);
   assert.ok(read("sitemap.xml").includes("cards/wind-tower-test.html</loc>\n    <lastmod>2026-10-27</lastmod>"));
   assert.match(pack, /id="windproof-tower"/);
   assert.equal((pack.match(/<details/g) || []).length, 1);

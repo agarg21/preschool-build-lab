@@ -45,7 +45,7 @@ test("City discovery preserves guide ownership, unknown duration and bounded hos
  for(const p of["cards.html","collections/toy-car-activities.html","materials/painter-tape.html"]){const e=read(p).match(/<a class="mini-card" href="(?:\.\.\/)?cards\/tape-city.html">[\s\S]*?<\/a>/)?.[0];assert.ok(e);assert.match(e,/Guide first/);assert.doesNotMatch(e,/5 min|Masking tape/)}
  const age4=read(hubs[0]);assert.match(age4,/Quietness, mess and setup time are not measured/);assert.doesNotMatch(age4,/If you need quiet pretend play, choose Tape City/);
  assert.match(read("collections/toy-car-activities.html"),/\.toy-car-page h1 \{ overflow-wrap: anywhere;/);
- assert.equal((read("cards.html").match(/class="mini-card"/g)||[]).length,36);assert.equal((read("sitemap.xml").match(/<loc>/g)||[]).length,66);
+ assert.equal((read("cards.html").match(/class="mini-card"/g)||[]).length,36);assert.equal((read("sitemap.xml").match(/<loc>/g)||[]).length,65);
  assert.match(read("sitemap.xml"),/cards\/tape-city.html<\/loc>\n    <lastmod>2026-10-28<\/lastmod>/);
  assert.match(read("sitemap.xml"),/articles\/painter-tape-road-kids.html<\/loc>\n    <lastmod>2026-09-15<\/lastmod>/);
 });

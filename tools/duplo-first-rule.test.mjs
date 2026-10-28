@@ -48,7 +48,7 @@ test("DUPLO discovery inventory and scoped fit retain one owner", () => {
   const fine = fs.readFileSync(`site/${entries[3]}`, "utf8");
   assert.match(fine, /font-size: min\(2\.5rem, 43px\)/);
   const sitemap = fs.readFileSync("site/sitemap.xml", "utf8");
-  assert.equal([...sitemap.matchAll(/<loc>/g)].length, 66);
+  assert.equal([...sitemap.matchAll(/<loc>/g)].length, 65);
   for (const path of ["cards/duplo-games.html", entries[3]]) {
     const date = path === entries[3] ? "2026-10-28" : "2026-10-27";
     assert.ok(sitemap.includes(`${path}</loc>\n    <lastmod>${date}</lastmod>`));
