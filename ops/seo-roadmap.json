@@ -9,7 +9,7 @@
       "id": "KAL-IMP-057",
       "title": "Repair Tube Sculpture attachment and first start",
       "kind": "existing-owner-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "29eff5e3da9c0a0f73201040636ad58b932752a3",
       "exact_paths": [
@@ -56,9 +56,9 @@
       "observation_window": "Heartbeat2026-10-28T04:06:53.241Z/actual04:06:59Z NYOctober28/completed0/max3/startdeadline04:51:59Z. November1 synthesis/October30 sprint expiry/global cutoff retained.",
       "reconsider_if": "Source/owned label/joint/material conflict or criticalmissingcontrol/clutter/persona failure/peerdrift/privacy/P0-P2/divergence/ambiguous production regression. Retain untaped/end rather than invent stronger adhesive or physical validation.",
       "blockers": "None known; owned adhesion/fit/outcomes UNKNOWN and explicit precheck/untaped-end required.",
-      "next_action": "Fresh fetch/no divergence/full unpushed inspection/frozen exact26 stage/stagedwhitespace exit0/mainpush/exactSHA Pages/livebytes and same task/closeout/alignment.",
-      "phase": "review-passed-release",
-      "qa_result": "IMP057 Master225/fournew/full5actualrenderers; all3generators twice aggregate1abd677e4f4594ce608db16c3d7e7a702fd1a36886141bdb57d0401cd022cb15/exact7outputs/92site-35canonical-35library-22hubpeers/PAGES only Tube-building-chooser-phantom declaration conserved.73HTML/1013refs/89fragments/8LD/67URLs; exact26/159IDs/383docrefs/GSC100/privacy/EOF/whitespace pass. Tenlocal200bytes/20modes/12incomingkeyboardBack/8touchBack/9outgoingBack/16disclosures/finder exact1-material1-zero-keyboardClear36focus/fiveNoJS/allword-H1parentfit pass. Five changed-chooser keyboard/touch/hashBack+freshdirecthash arrivals:1280header61/heading146.469;390header92.906/heading147.219;320root32header142.828/heading166.688, full title/start visible. Final390/root32 cardtop/setup and buildingarrival viewed. Known baselinefavicon404 only excluded; no other sampled errors. All13 editorial25/26/noN-A/sensory1, no physical/family/AT/truezoom/SEO outcome. After sole P3 repetition fix the full20mode/task/chooser/native225/conservation/parser matrix passed again; exact-one building stop verified. Final cycle2 confirmation/exactSHA production pending; same04:06:59Z/completed0/deadline04:51:59Z.",
+      "next_action": "Factual7 closeout/push/alignment, then actual04:06:59Z/deadline04:51:59Z guard and durable queue before next independent selection; no repeated Tube qualification absent named gap.",
+      "phase": "released",
+      "qa_result": "IMP057 Master225/fournew/full5actualrenderers; all3generators twice aggregate1abd677e4f4594ce608db16c3d7e7a702fd1a36886141bdb57d0401cd022cb15/exact7outputs/92site-35canonical-35library-22hubpeers/PAGES only Tube-building-chooser-phantom declaration conserved.73HTML/1013refs/89fragments/8LD/67URLs; exact26/159IDs/383docrefs/GSC100/privacy/EOF/whitespace pass. Tenlocal200bytes/20modes/12incomingkeyboardBack/8touchBack/9outgoingBack/16disclosures/finder exact1-material1-zero-keyboardClear36focus/fiveNoJS/allword-H1parentfit pass. Five changed-chooser keyboard/touch/hashBack+freshdirecthash arrivals:1280header61/heading146.469;390header92.906/heading147.219;320root32header142.828/heading166.688, full title/start visible. Final390/root32 cardtop/setup and buildingarrival viewed. Known baselinefavicon404 only excluded; no other sampled errors. All13 editorial25/26/noN-A/sensory1, no physical/family/AT/truezoom/SEO outcome. After sole P3 repetition fix the full20mode/task/chooser/native225/conservation/parser matrix passed again; exact-one building stop verified. Godel finalPASS and exactSHA/live task verified; see release/completion receipt.",
       "independent_review": {
         "reviewer": "Godel",
         "id": "01a180b9-4006-7973-a8af-fb471a34e0f3",
@@ -67,7 +67,16 @@
         "findings": "Sole P3 repetition corrected; no remaining P0-P3",
         "scope": "Full26 plus bounded delta at29eff5e; final frozen hashes/HEAD intact",
         "receipt": "Godel (01a180b9-4006-7973-a8af-fb471a34e0f3), independent final full26 plus bounded delta cycle2/3 PASS/no remainingP0-P3. Sole building-stop repetition fixed; reverse3substantive changes reproduces cycle1 hashes,18paths unchanged/final26hashes-HEAD intact. Independently224nonmutating/exact-one-warning/conservation-alllocalparse/GSC100-159IDs-383refs/privacy-EOF-compilation-whitespace/20modes-12incomingBack-12outgoingBack-16disclosures-finder-fiveNoJS/chooser-directhash-header/refreshedvisuals pass. Card/building25/26/all13/noN-A/sensory1 editorial proxies, not family gain. Master225/twiceaggregate1abd677/full8touch distinct; no physical/AT/truezoom/production proof. Reviewer browsers closed; exact reviewed main release/exactSHA production next, same04:06:59Z/completed0/deadline04:51:59Z."
-      }
+      },
+      "release": {
+        "commit": "fdc4e151c0d9f256e34350bedec6389b91a12a27",
+        "pages_run": 40632130385,
+        "conclusion": "success",
+        "production": "Seven changed+three preserved200bytes/same20modes/fulltask/fivechooserhash arrivals/livevisuals pass; no marker/retry/regression; freshfetch0/0",
+        "range_hash": "187f989a296dfd6fad24ae637734242dc9fba3ccf84b34b7ed6f0c6d5ae06c35"
+      },
+      "completed_on": "2026-10-28",
+      "completion_receipt": "COMPLETED KAL-IMP-057: reviewed fdc4e151c0d9f256e34350bedec6389b91a12a27; exact-SHA Pages40632130385 SUCCESS. Godel final full26/delta PASS/noP0-P3/native225. Seven changed+three preserved live200bytes and same20productionmodes/12incomingkeyboardBack/8touchBack/9outgoingBack/16disclosures/finder exact1-material1-zero-keyboardClear36focus/fiveNoJS/allword-H1parentfit/fivechooser keyboard-touch/hashBack+freshhash/header task passed; live390/root32 top/setup/arrival viewed. No release marker exists; exact-SHA deploy plus affected bytes/behavior verified. No retry/regression or physical/family/AT/truezoom/SEO claim; knownfavicon404 only excluded. Fresh releasefetch0/0; reviewer/browsers closed/server8791 stopped. First transaction of actual04:06:59Z invocation completed; factual7 closeout/QA/push/alignment then original04:51:59Z clock/durable selection. November1/October30 unchanged."
     },
     {
       "id": "KAL-RES-076",
