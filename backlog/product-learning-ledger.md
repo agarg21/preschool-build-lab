@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+RES084 Volta fresh full7/cycle1 PASS/noP0-P3; Master249/independent248. [Review/next brief](../reviews/tube-drop-first-start-audit-2026-10-28.md). Research-only exact docs release/factualcloseout/alignment next. Original10:56:02/count1/deadline11:41:02 expired during review; finish existing only, shared tube repair NEXT eligible invocation/no repeated qualification. Reviewer/browser closed, no server/site delivery or known dependency blocker.
+
+## 2026-10-28 - RES084 Shared Tube Drop
+
+- Decision/persona: [audit/separate brief](../reviews/tube-drop-first-start-audit-2026-10-28.md), IMPROVE existing shared drop instructions/eight pages/seven runnable forms; DEFER newURL/search consolidation. Parent must decide owned fit/decline, trial one free passage, drop/watch/land/retrieve/end, not tape/catch/label colors.
+- Hypothesis/classes/result: SDN/Linds/Becker/AAP written context and inspected held/receiver visuals SOURCE_BACKED; exact adult-held reduction/fit/controls EDITORIAL_JUDGMENT; four lenses RESEARCH_HYPOTHESIS;8livebytes32modes28late27keyBack18touchBack12outkey/finder-eightNoJS MEASURED. Each card3/26/noN-A FAIL, not physical/family measurement.
+- Confidence/lesson/trigger: high technical/moderate editorial confidence; separate owned-part suitability from free passage, large/supervision alone not permission. No demand/rank/cannibalization proof. All physical/family/timing/mess/learning/safety/SEO UNKNOWN. Reopen source/owned label/fit/criticaltask/peer/privacy/divergence. Full249/structured/different review/docsrelease pending; any build separately promptly within original11:41:02 deadline/count, otherwise next eligible. No family-test prerequisite.
+
 IMP063 COMPLETED e0cdb36/exact-SHA Pages40679617435 SUCCESS/live17bytes-same48mode task/visuals. Herschel full25PASS/native249; [release receipt](../reviews/car-ramp-distance-first-start-repair-2026-10-28.md). One-car controlled-start repair applied, no newURL/physical-family claim or known blocker. Reviewer/browser/server closed; completed1/original10:56:02/deadline11:41:02, factualcloseout/alignment then guard/nextqueue.
 
 IMP063 Herschel fresh full25/cycle1 PASS/noP0-P3; Master249/independent248. [Review receipt](../reviews/car-ramp-distance-first-start-repair-2026-10-28.md). Reviewer/browser closed; server8797 needed. Fresh exact reviewed main release/exactSHA production next, actual10:56:02/count0/deadline11:41:02; not yet delivered.

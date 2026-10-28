@@ -1,5 +1,11 @@
 # Kid Activity Lab Operator Roadmap
 
+RES084 Volta fresh full7/cycle1 PASS/noP0-P3; Master249/independent248. [Review/next brief](../reviews/tube-drop-first-start-audit-2026-10-28.md). Research-only exact docs release/factualcloseout/alignment next. Original10:56:02/count1/deadline11:41:02 expired during review; finish existing only, shared tube repair NEXT eligible invocation/no repeated qualification. Reviewer/browser closed, no server/site delivery or known dependency blocker.
+
+RES084 decision IMPROVE shared existing two-card default/eight pages/seven runnable forms; DEFERnewURL/search consolidation. [Audit/separate brief](../reviews/tube-drop-first-start-audit-2026-10-28.md), source/body/visual/task evidence, eachcard3/26 baseline. Full249/structured/different full7review/docs-only release pending; any build separate promptly within original11:41:02/count limit, else nexteligible.
+
+RES084 REGISTERED558de78 exact7: shared PaperRollDrop/PomPomDrop tube-attachment/filler-fit/firstdrop/catch/adult-control qualification, not repeat empty-roll/spoon mechanism. Current source/task/disposition/fullQA/different review/docs-only release required; no newURL or pause presumed. Sameactual10:56:02/count1/deadline11:41:02.
+
 IMP063 COMPLETED e0cdb36/exact-SHA Pages40679617435 SUCCESS/live17bytes-same48mode task/visuals; Herschel full25PASS/native249. [Release receipt](../reviews/car-ramp-distance-first-start-repair-2026-10-28.md). Same13card24/26/no familyclaim; preserved maintaineddepth/pack/actualSTEM+indoor/peers. Completed1/original10:56:02/deadline11:41:02; factual7closeout/alignment then guard/currentqueue, no repeated qualification.
 
 RES083 COMPLETED learned-onlyc710edc/Hooke final full7PASS/native245/docs-only main aligned10:51:34Z; [release/next brief](../reviews/car-ramp-distance-first-start-audit-2026-10-28.md). Qualifies next-run eight-owner distance repair; no newURL/site/physical-family delivery. Completed3/no fourth/original10:02clock retained; actual STEM and indoor outputs preserved, no known dependency blocker.

@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-084",
+      "title": "Qualify shared tube-drop first start and filler controls",
+      "kind": "existing-owner-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "558de783adc07fd4cbb3909b1dc214e18d9d675e",
+      "exact_paths": [
+        "reviews/tube-drop-first-start-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "After IMP063e0cdb36/Pages40679617435/fullcloseout558de78 mainclean0/0 at11:26:47Z, roadmapexactpath history for PaperRollDrop/PomPomDrop only broad/sharedcredits; current canonical/CSV tube attachment/filler/exit/adult skip controls not qualified. Different from maintained emptyPaperRollPlay and SpoonTransfer mechanism; two legacy variants share one dropjob, no batch/newURL presumed.",
+      "parent_problem": "Parent must choose suitable owned tube/filler/attachment and adult control, perform one observable drop/catch or decline, handle blocked or mouthed material, collect all; distinguish two variant cards without implied small-filler safety.",
+      "hypothesis": "Current primary mechanism/ownedfit reconciliation and actual desktop/mobile task can qualify one existing-owner improvement/consolidation/pause, or named deferral, without another thin guide.",
+      "acceptance": "Current live queryfamily/opened primary written bodies, retained current ownedtoy/tape context, actualCSV/canonical/overrides/visible-owner inventory and source limits; source-grounded persona/stress/fourlenses/everysection/all13card-by-card/desktopmobile-root32-keyfinder-noJS; disposition improve-preserve-consolidate-pause-defer-reject with exact separatebrief and unresolvedgates. No inferred unsafe universal or requiredfamilytest gate.",
+      "qa_plan": "Full249/jq/diffcheck/changedJSON-CSV parse/uniqueIDs-localdocrefs/GSC100/privacy-singleEOF/exact7/site-code-data-config unchanged. Freshdifferent full7readonlyreview/P0-P2<=3cycles/PASS-PASS_WITH_P3/freshfetch-no divergence/exact frozenstage/completeunpushedrange/docs-onlymainpush/factualcloseout/alignment; no Pages wait. Qualified build separately register promptly within original11:41:02 deadline/count limits, otherwise nexteligible.",
+      "invariants": "Exact7research-only. No site/source/data/config/URL/asset/product/purchase/paid/indexing/tracking/outreach/automation/ControlRoom edits. Preserve empty-roll/spoon/other owners; no silent substitute or inventedfiller certification/physical-family-time-mess-learning-safety/SEO outcome. Deferred018/019/observation windows unchanged.",
+      "observation_window": "Sameactual10:56:02Z/completed1/new-actiondeadline11:41:02Z/max3; IMP063fullcloseout558de78 clean0/0 helpertrue11:26:47Z, no active reviewer/server/browser/release/newredirect. November1/October30/global cutoff unchanged.",
+      "reconsider_if": "Prior exacttube-drop qualification found, mechanism/attachment/fillerfit/role/result/criticaltask/sourceprivacy gap, P0-P2/divergence. Keep useful ordinaryresearch-backed work eligible; do not label allprojectblocked from onecandidate.",
+      "blockers": "None known; owned physical/family outcomes UNKNOWN.",
+      "phase": "reviewed-release-pending",
+      "next_action": "Exact docs-only main release/factualcloseout/alignment, then return: original11:41:02 new-action deadline passed during review. Shared existing drop repair NEXT eligible invocation with fresh clock/queue, no repeated qualification/newURL/consolidation presumed.",
+      "independent_review": "Volta (01a1824d-d26c-7aa2-8b21-4e6b96ccedd6), independent Codex Operator Reviewer/read-only/full7/cycle1 PASS/noP0-P3. Frozen7/HEAD matched;644 repository files unchanged. Independent248 excluded ONLY date-mutating sitemap test name, not file;173IDs487refs/GSC100/19CSV-three oldblankrecords/JSON/privacy-singleEOF-whitespace/priorroadmap-site-code-data-config conservation PASS. Independently reproduced8livebytes32modes28late27incomingkeyBack18touchBack12outkey/finderPaper1Pom2includingtarget-zeroClear36focus/eightNoJS/all32docfit; inspected six Master images/reviewer captures and remote visual bytes/current SDN-Linds-Becker-Michigan-AAP bodies. Bothcard3of26 FAIL/noN-A/fourlenses/everysection supported; shared held-tube default editorial, passage trial not suitability/safety certificate, newURL/consolidation deferred. No physical-family/AT/realzoom/allword-consoleclean/video claim. Browser closed/no repo writes; Master249 distinct. Exact docs-only release/factualcloseout/alignment required, no implementation delivered.",
+      "qa_actual": "Master249/jq/diffcheck/exact7/173IDs487refs/GSC100/privacy/19CSV-threeexistingblankrecords/site-code-data-configunchanged PASS. Current SDN-Linds-Becker-AAP written bodies/held-receiver visuals; actual8pages7runnable/CSV-canonical-manualowner;8livebytes32modes28late27keyBack18touchBack12outkey/finder Paper1-Pom2includingtarget-zeroClear36focus/eightNoJS/all32docfit; eachcard3of26 FAIL/noN-A. No physical-family outcome. Final EOF/freeze/different full7review/release pending."
+    },
+    {
       "id": "KAL-IMP-063",
       "title": "Repair Car Ramp Distance Test first release and existing handoffs",
       "kind": "existing-owner-implementation",
