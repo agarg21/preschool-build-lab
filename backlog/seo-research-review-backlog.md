@@ -1,5 +1,11 @@
 # SEO Research & Review Backlog
 
+RES073 final Curie full7 PASS/noP0-P3; timing P3 corrected, native217/reviewer216/structured-privacy-EOF pass. [Decision](../seo/i-spy-preschool-guide-discovery-2026-10-27.md) DEFER newURL/REJECT missing-adaptation hypothesis; fresh docs-only release/alignment next, no I Spy build.
+
+## October27 - I Spy Non-Reader Guide Discovery
+
+[RES073 decision](../seo/i-spy-preschool-guide-discovery-2026-10-27.md). RES073 DEFER new I Spy URL/REJECT noletters-pointing-fairturns differentiation: current Raising Children already supplies all plus access/breaks; First5/PBS/WordsForLife/Wisconsin primary bodies cover start/hints/turns. Three caregiverquestion bodies (one explicitly reused), one observer rules thread and one narrative are not five exact requests or demand; date conflicts retained. No exact estimate/owner, broad July game estimates not transferable. Preserve finder truthful0/Clear36; fourmodes+oneNoJS/five200bytes pass. Desk19/24/all13/mobileN-A, not newguide/family validation. Exact demand plus concrete missing live-body output needed to reopen; no build promoted. Native217/full7 review/docs release pending; same02:04:12Z/completed1/deadline02:49:12Z/November1.
+
 COMPLETED learned-only 8586cce7dbe1426318f4a692c3f5c07774be4e10: Raman full7 plus factual-receipt delta PASS/noP0-P3, Master213/reviewer212nonmutating, exact7/152IDs/100GSC/348final-docrefs/privacy/EOF/stagedwhitespace exit0. Fresh completed fetch0/0/empty incoming-unpushed/exact7 staged hash/privacy check; complete unpushed range byte-identical to inspected reviewed staged diff; docs-only main push and postpush fresh fetch clean0/0 passed. No site/Pages/physical outcome. Three transactions completed; helper denies fourth. Next eligible heartbeat separately register Cup Balance Watch repair across existing card/library/math with reviewed assembly/central support/empty check/supported loading/unclear-end/trust limits. No dependency blocker; owned behavior/outcomes remain UNKNOWN. November1/October30 unchanged.
 
 RES072 full7 Raman PASS/noP0-P3/native213/structured/privacy/EOF; [decision](../reviews/balance-basket-first-start-audit-2026-10-27.md) ready for docs-only release. Three-owner Cup Balance Watch repair next eligible heartbeat, no fourth here.

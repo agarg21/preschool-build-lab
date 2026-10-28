@@ -1,5 +1,15 @@
 # Product Learning Ledger
 
+RES073 final Curie full7 PASS/noP0-P3; timing P3 corrected, native217/reviewer216/structured-privacy-EOF pass. [Decision](../seo/i-spy-preschool-guide-discovery-2026-10-27.md) DEFER newURL/REJECT missing-adaptation hypothesis; fresh docs-only release/alignment next, no I Spy build.
+
+## 2026-10-27 - KAL-RES-073 I Spy Non-Reader Discovery
+
+- Decision/persona: [source/question/flow audit](../seo/i-spy-preschool-guide-discovery-2026-10-27.md) DEFERS new URL and rejects noletters-pointing-fairturns as missing differentiation. Preschool non-reader/ambiguous clue/younger reach/nonspoken turn stress.
+- Hypothesis/result: current primary bodies already supply proposed adaptations and rescue; no exact material demand or missing output established. Three caregiver questions include one explicit reuse; observer thread/narrative are separately labeled, date conflicts preserved, not five exact requests. No build promoted.
+- Sources/classes: current RaisingChildren/First5/PBS/WordsForLife/Wisconsin bodies SOURCE_BACKED within limits; July29 broad Semrush TOOL_ESTIMATE not I Spy demand; livefinder/repo/GSC MEASURED; task RESEARCH_HYPOTHESIS; rejection/rubric EDITORIAL_JUDGMENT; market/physical-family-learning-safety-SEO UNKNOWN.
+- Confidence/lesson: high current source coverage/moderate persona inference. Current full primary body can solve the adaptation an older snippet omits. Falsify only exact nonproduct focus-age material demand plus repeated concrete output missing from maintained live bodies, then separate source/render review; not cadence or unavailable paid/family evidence.
+- Boundary/next: desk19/24/all13/mobileN-A; four existingfinder modes0/Clear36/focus/width+oneNoJS/five200bytes, not proposedguide/family evaluation. Native217/full7 independent review/docs-only release pending. Preserve site, November1/October30.
+
 COMPLETED production-verified c6bc6ffae222b0bf27721df76cec08cbc3d0d567 / exact-SHA Pages40620249366 success, Mill full16 PASS/noP0-P3/native217. Five changed/seven preserved live200bytes and same12productionmodes/6incomingBack/4touch/3outgoingMathBack/8disclosures/new-old-plastic1-zero-keyboardClear36focus/threeNoJS/canonical-H1-credit-images-wordfit pass; live390/root32 top/setup viewed. No marker; no release retry/regression or physical/family/SEO outcome. Known pre-existing favicon404 remains explicitly excluded, no other sampled errors. Fresh release fetch0/0, reviewer closed/server8789 stopped; completed1. Factual same7 closeout/alignment then original02:04:12Z/02:49:12Z guard before any next independent action; November1/October30 retained.
 
 IMP055 full16 Mill independent PASS/noP0-P3/native217/reviewer216nonmutating; [packet](../reviews/cup-balance-first-start-repair-2026-10-27.md) records actual QA and limits. Exact reviewed main release/exactSHA production pending; same02:04:12Z/completed0/deadline02:49:12Z.
