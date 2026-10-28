@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-075 Follow the Leader
+
+- Decision/persona: [source decision](../seo/follow-the-leader-preschool-discovery-2026-10-27.md). DEFER a new Follow the Leader URL; REJECT no-equipment/adult-model/leader-turn generic differentiation. Current primary bodies already supply it; three adjacent caregiver bodies (two newly retained, one explicitly reused) do not establish exact material demand. No clean KAL owner, but full home controls/missing-output/demand gates remain; no build or family/outcome proof.
+- Hypothesis/result: non-reader visual imitation/role-turn job is distinct from RES060 music-pause, but model/turns/no-prop wording is already answered; no new URL promoted. Source-set proxy17/24,12applicable/mobileN-A; critical demand/utility/home controls override score.
+- Sources/classes: current five primary HTML bodies plus BC PDFpage1/text/visual SOURCE_BACKED within limits; questions/parent task RESEARCH_HYPOTHESIS; publication call EDITORIAL_JUDGMENT; exact demand/homefit/physical-family/learning/safety/SEO UNKNOWN. Same100GSC sensing does not qualify demand.
+- Confidence/lesson: high generic coverage, moderate defer. Missing inventory is not demand, and volunteer-leading sources already answer basic turn-taking. No paid or firsthand gate invented.
+- Next falsification: exact/repeated constrained focus-age request or aligned finalized query plus missing live-body output and reconciled home lineage; do not repeat merely on hourly cadence. Native221/full7 review/docs-only release next; same03:27:00Z/completed1/deadline04:12:00Z.
+
 COMPLETED KAL-IMP-056: reviewed ecef6bd8551d0f3a63dc4aef8faa1b8f250a6236; exact-SHA Pages40627797285 SUCCESS. Dewey full19 PASS/noP0-P3; native221. Eight changed and five preserved live200bytes, same24productionmodes/15keyboardBack/10touchBack/9outgoingBack/20disclosures/finder exact-material-zero-Clear36focus/sixNoJS/word-H1-headerfit; live390/root32 top/setup viewed. No release marker exists; exact-SHA deploy plus affected bytes/task verified. No retry/regression or physical/family/SEO claim; known favicon404 remains excluded. Fresh completedfetch/mainclean0/0; reviewer closed/server8790 stopped. Completed1, same03:27:00Z/deadline04:12:00Z. Factual7 closeout then clock/durable selection; November1/October30 unchanged.
 
 ## 2026-10-27 - KAL-IMP-056 Spoon Transfer Repair

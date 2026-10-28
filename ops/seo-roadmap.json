@@ -6,6 +6,50 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-075",
+      "title": "Qualify a no-prop Follow the Leader first-rule guide",
+      "kind": "play-guide-discovery",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "dfd46a6dd3e85e961fab94f0a03ca33954ad1d10",
+      "exact_paths": [
+        "seo/follow-the-leader-preschool-discovery-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "RES060 current movement research established no freeze/SimonSays/followleader owner but qualified/deferred ONLY freeze-dance music pause job. No named Follow the Leader first-rule qualification found by targeted retained search. New gap: visual action-copy/adult-child leader role/turn transfer and no-prop space fit, not music on-off or freeze requalification.",
+      "evidence_class": [
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Caregiver seeks one understandable no-prop shared imitation game for a non-reader around3-6: decide ability/space/attention fit, who leads/follows and how to give a turn or end without elimination or forced movement.",
+      "hypothesis": "Current exact query-family bodies and focus-age caregiver questions may support a distinct visual imitation/role-turn job and missing parent output beyond existing KAL owners and current public bodies; no demand/build presumed.",
+      "acceptance": "Live exact family and ranking bodies, current questions if found with date/ability/privacy limits, retained exact demand/ownership, source-owned default/role-turn-space-stop limits. Explicit build/upgrade/preserve/defer/reject and unresolved gates; fourlenses/everysection/all13 denominator/N-A. No repetition of completed freeze qualification, generic no-prop/no-out differentiation or physical/outcome invention.",
+      "qa_plan": "Native221/jq/allchangedJSON-GSC100-uniqueIDs-docrefs/privacy/EOF/exact7/diffcheck. Different fresh read-only full7review/fixP0-P2/fresh completed fetch/no divergence/completeunpushed/exactstage-stagedcheckexit0/docs-onlymainpush/factualcloseout/alignment. Any supported build separately registered only within original run limits.",
+      "invariants": "Allsite/code/data/config/assets/automation/ControlRoom read-only. No new paid spend/product/indexing/outreach/rankability/demand/family-learning-safety claims. Preserve all observation windows/known deferred candidates; no reuse counted as new demand.",
+      "observation_window": "Sameheartbeat03:26:53.084Z/immutableactual03:27:00Z NYOctober27/completed1/max3/startdeadline04:12:00Z. IMP056ecef6bd/Pages40627797285/closeoutdfd46a6 complete; cleanfetch0/0. November1/October30 retained.",
+      "reconsider_if": "Exact prior qualification/cleanexistingfit/currentadequatebody/no exactmaterialdemand/unsupported movement or role controls; no build absent all gates. P0-P2/privacy/divergence stop release.",
+      "blockers": "No dependency blocker for research; exact demand/incremental utility/full home controls remain publication gates, not proof activity is unsuitable.",
+      "next_action": "Fresh completedfetch/no divergence/fullunpushed/exact7 reviewed stage/privacy/EOF/stagedwhitespace exit0/docs-onlymainpush/factualcloseout/alignment. No build.",
+      "phase": "independent_review_passed",
+      "decision": "DEFER a new Follow the Leader URL; REJECT no-equipment/adult-model/leader-turn generic differentiation. Current primary bodies already supply it; three adjacent caregiver bodies (two newly retained, one explicitly reused) do not establish exact material demand. No clean KAL owner, but full home controls/missing-output/demand gates remain; no build or family/outcome proof.",
+      "qa_result": "Master native221, jq/onechangedJSON/157uniqueIDs/369localdocrefs/GSC100/privacy/exact7/EOF/whitespace PASS. Source PDFpage1 text+visual inspected after one web502/direct-download retry; no site/code/data/config change. Different full7 reviewer/fresh docs-only main release/alignment pending.",
+      "independent_review": {
+        "reviewer": "Turing",
+        "id": "01a1809b-40c4-70c1-a821-621bfe81de40",
+        "verdict": "PASS",
+        "cycles": 1,
+        "findings": "No P0-P3",
+        "receipt": "Turing (01a1809b-40c4-70c1-a821-621bfe81de40), fresh independent full7 cycle1 PASS/noP0-P3. Independently220nonmutating/100GSC-157IDs-369docrefs/exact7/privacy-EOF-whitespace; five current HTML+three question bodies/BC PDFp1 text-suppliedvisual-directbytes/fourlenses-everysection-all13 planning17/24 mobileN-A pass. FrozenHEAD/hashes intact; site/code/data/config unchanged, no browser/physical/family/release claim. Reviewer closed; fresh exact docs-only release/alignment next. Same03:27:00Z/completed1/deadline04:12:00Z."
+      }
+    },
+    {
       "id": "KAL-IMP-056",
       "title": "Repair Spoon Transfer material fit and first start",
       "kind": "existing-owner-repair",
