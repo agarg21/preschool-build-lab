@@ -9,7 +9,7 @@
       "id": "KAL-RES-088",
       "title": "Qualify the retained Paper Path and Engineering Paper Bridge hub first-start handoffs",
       "kind": "existing-owner-qualification",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "13730ea8fcf32561629a2ad051411d1cb124923b",
       "exact_paths": [
@@ -36,12 +36,14 @@
       "invariants": "Sevenresearch/operatorpaths only. Preserveguide/card/pack/age4hub/currentIMP067 and allpeers/site/assets/CSV/config. No paid/product/indexing/tracking/outreach/automation/ControlRoom/newURL. No borrowed newdemand or physical-family/timing-mess-learning-safety/SEO claims.",
       "observation_window": "Sameactual14:58:11/count1/startdeadline15:43:11/max3. IMP067freshreview/liveaccepted/closeout13730ea pushed/mainclean0/0. November1synthesis/October30restoration/globalcutoff unchanged.",
       "reconsider_if": "Criticalsource/task/ownership/scope contradiction or insufficient evidence. No blanketqualification of other unreviewed PaperBridge owners.",
-      "phase": "independent-pass-docs-release-pending",
+      "phase": "research-reviewed-released",
+      "release_commit": "3d46b23d321629541e487b5601a166631b1c3c06",
+      "release_evidence": "Docs-onlymainpush/freshfetchclean0-0 verified2026-10-28T15:38:03Z; exact7/frozenstage/rangeSHA256c15dcf96e1cf9bc6cbd0c3858d91470e07dc8b608a657c1bac42862557de285d; no site/Pageschange.",
       "reviewer": "01a18325-53a1-7902-86cc-0af818d67c48",
       "review_verdict": "PASS cycle1; no P0-P3; Master265/independent264; full7 frozen unchanged",
       "decision": "IMPROVE existing two hub handoffs to an explicit DIFFERENT stationary-test checked-card choice; DEFER moving-toy variant/newURL. Current source/task audit rejects equivalence, not physical feasibility. Preserve card/guide/allotherowners.",
       "artifact": "reviews/paper-bridge-hub-handoff-audit-2026-10-28.md",
-      "next_action": "Full265/structuredprivacyEOF/freshdifferent full7review/docs-onlyrelease/alignment, then separately register exact IMP068 brief promptly if original15:43:11/countguard permits."
+      "next_action": "Factualcloseout/push/alignment then original14:58:11/count2/deadline15:43:11 guard and promptly separately register qualified exact13 IMP068 if eligible. Do not repeat qualification."
     },
     {
       "id": "KAL-IMP-067",
