@@ -1,5 +1,7 @@
 # SEO Research & Review Backlog
 
+RES080 [Block first-placement audit](../reviews/block-play-first-start-audit-2026-10-28.md): IMPROVE nine actual surfaces/seven runnable and phantomIndoor separately, DEFERnewURL; current four primary bodies/12livebytes/36modes/24keyBack/nineNoJS/legacy4/26. Exact three-block/two-high/flat-rescue recipe editorial, no photo/physical or safety proof. Preserve indoorbytes/CSV/otherblockowners/peers; full7QA/differentreview/docs-only release before separate repair/originalguard.
+
 COMPLETED learned-only RES079 4eba9bbdf0fc931f25a19fdf5904857d81ccde48: Harvey fresh full7 PASS/noP0-P3; Master229/independent228/exact7-163IDs-391refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/fullunpushedrange identity passed. Docs-only main push/freshfetch clean0/0 confirmed, no Pages wait or site delivery. Qualifies separate five-surface TapeTrain repair plus phantom-indoor declaration/materialroot32fit; maintained TapeRoad/indoorbytes/CSV/peers protected. Owned/physical/family outcomes UNKNOWN. Completed2, no fourth. Reviewer/browsers closed; factual7closeout then original retained05:07:03Z/conservative deadline05:49:53.460Z guard before third repair registration. November1/October30 retained.
 
 ## October28 - Tape Train Tracks First Start

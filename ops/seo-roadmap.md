@@ -1,5 +1,11 @@
 # Kid Activity Lab Operator Roadmap
 
+RES080 final Erdos full7 PASS/noP0-P3/native233. [Audit](../reviews/block-play-first-start-audit-2026-10-28.md) qualifies separate bounded repair, not a site release; exact reviewed docs-only main push next.
+
+RES080 decision IMPROVE nine actual Block owners/seven runnable and phantomIndoor separately; DEFERnewURL. [Audit](../reviews/block-play-first-start-audit-2026-10-28.md). Three-block/two-high trial/roles/flat-or-end editorial, not source-photo or physical proof. Full7QA/differentreview/docsrelease required before build/originalguard.
+
+RES080 REGISTERED9d0a4a7 exact7: current Block Play first-stack and maintained Wide-Base handoff qualification, not a presumed build/newURL or repeated completed source audit. Retained06:03:01Z/conservative deadline06:45:23.664Z/completed0; fullQA/different review/docs-only release required. November1/October30 unchanged.
+
 COMPLETED IMP059 4cd81d0eac991302443226a85ce09d3fb816d97a/exact-SHA Pages40640564346 SUCCESS, Nash finalPASS/native233; seven changed+five preserved livebytes/full20mode task/readable key-touch arrivals/no-cut nativehorizontalchooser/livevisuals pass. [Full evidence](../reviews/tape-train-tracks-first-start-repair-2026-10-28.md). Third transaction complete/no fourth; no physical/family/SEO claim, November1/October30 unchanged.
 
 IMP059 final full24/cycle2 Nash PASS/noP0-P3/native233. Exact reviewed main release/exactSHA production next; [packet](../reviews/tape-train-tracks-first-start-repair-2026-10-28.md). Third-final/no fourth; existing transaction finishes beyond selection deadline.

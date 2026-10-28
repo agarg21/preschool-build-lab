@@ -6,6 +6,51 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-080",
+      "title": "Qualify Block Play first stack and wide-base handoff",
+      "kind": "existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "9d0a4a758f403589f49878a06eeef813f11a621a",
+      "exact_paths": [
+        "reviews/block-play-first-start-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Current CSV card Block Play age2-5/2minutes/lowmess/early uninspected video/pick-build-knock-repeat conflicts canonical Block Tower3-6/count-taller and maintained building Wide-Base6-10 blocks/belowshoulder default. July/August history broad chooser review, not complete owned-block-first-stack lineage. No exact demand/newURL presumed.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Decide owned blocks/all-child readiness and adult setup; choose one low first stack or flat/decline, controlled take-apart and collection without height/counting/knockdown requirement or creator dependency.",
+      "hypothesis": "Current primary block-play mechanisms and actual renderer inventory can qualify improve/preserve/defer/pause within existing owners, with one maintained building handoff rather than another guide.",
+      "acceptance": "Current live family/primary bodies and relevant visuals; exact material/geometry/role/firstmove-stop-rescue lineage and actual owners; reproducible desktop/mobile/root32/key/finder/noJS baseline; source-derived lenses/every-section/all13 scored with critical failures. Explicit decision, evidence limits, exact separate brief if qualified.",
+      "qa_plan": "Full native233/jq/changedJSON-GSC-IDs-docrefs/privacy/EOF/exact7/diffcheck. Different independent read-only full7 review/fixP0-P2/fresh exact docs-only main release/stagedwhitespace exit0/complete unpushed range identity/factualcloseout/alignment. Any build separately registered after research release/original guard.",
+      "invariants": "Allsite/code/data/CSV/config/scheduler/ControlRoom read-only. No newURL/paid/product/purchase/indexing/outreach/video inspection/physical-family-time-mess-learning-safety-SEO claims. Preserve building peers/other block owners.",
+      "observation_window": "Heartbeat06:00:23.664Z; first retained actual06:03:01Z/02:03:01EDT, initial clock output lost at compaction. Helper retainedactual; stricter selection deadline06:45:23.664Z prevents extension. Completed0/max3; November1 synthesis/October30 restoration/global cutoff unchanged.",
+      "reconsider_if": "Already completed exact qualification, no material task gap, source/owned-material conflict, critical output missing, overlap/peer drift/privacy/P0-P2/divergence.",
+      "blockers": "None known; owned blocks and physical family performance UNKNOWN.",
+      "qa_result": "RES080 Master233/jq/exact7/onechangedJSON/165uniqueIDs/403localdocrefs/GSC100/privacy/EOF/whitespace PASS. Four current primary bodies/retainedCSV parsed/12production200bytes/36modes-28late-24incomingkeyBack/finder2-target-present-zero-keyClear36focus/nine390NoJS; three supplied captures viewed. Allsite/code/data/config unchanged, photo403/PMCverification excluded; no creator/physical/family/AT/truezoom/console-clean claim. Fresh different full7 review/docs-only release required before separate repair; same retained06:03:01Z/conservative06:45:23.664Z/completed0.",
+      "phase": "reviewed-awaiting-release",
+      "independent_review": {
+        "reviewer": "Erdos",
+        "id": "01a18120-6b50-70a2-8171-310056c92386",
+        "verdict": "PASS",
+        "cycles": 1,
+        "findings": "NoP0-P3",
+        "receipt": "Erdos (01a18120-6b50-70a2-8171-310056c92386), fresh independent full7 cycle1 PASS/noP0-P3. Independently232nonmutating/GSC100-165IDs-403refs/priorroadmap-preservation/privacy-EOF-whitespace/exact7/actualowners-CSV-phantom/current primary boundaries/12livebytes-36modes-28late-24keyBack-finder-nineNoJS/three supplied captures/fourlenses-everysection-all13card4/26 pass. Source NAEYC continuation timedout/searchbody available; no unseen photo/PMC/physical-family/AT/truezoom/build approval. Frozen7/HEAD intact; Master233 distinct. Fresh exact docs-only main release next, same retained06:03:01Z/conservative06:45:23.664Z/completed0."
+      },
+      "next_action": "Full7 structuredQA/freshdifferentreview/docs-only release then separately register qualified bounded repair promptly under originalguard.",
+      "decision": "IMPROVE nine actual surfaces/seven runnable plus phantomIndoor separately; DEFERnewURL. Exact three-block/two-high widened-base trial/flat-or-end/role/collection editorial; preserve indoorbytes/CSV/other owners/peers."
+    },
+    {
       "id": "KAL-IMP-059",
       "title": "Repair Tape Train Tracks station start and discovery fit",
       "kind": "existing-owner-repair",

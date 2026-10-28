@@ -1,5 +1,11 @@
 # Product Learning Ledger
 
+## 2026-10-28 - RES080 Block First Placement
+
+- Decision/persona: [audit and separate brief](../reviews/block-play-first-start-audit-2026-10-28.md), IMPROVE nine existing visible surfaces/seven runnable plus target phantomIndoor correction; DEFER newURL. Caregiver needs owned-block/youngest-reach/role/first-placement/flat-or-end/controlled collection, not mandatory height/count/knockdown/repeat.
+- Hypothesis/result/classes: four current primary bodies support flat stacking/adult model/clear area/own pace/labels SOURCE_BACKED; exact three-block/two-high widened-base trial/roles/stops EDITORIAL_JUDGMENT; persona RESEARCH_HYPOTHESIS;12livebytes/36modes/28late/24keyBack/finder2-target-zero-Clear36/nineNoJS MEASURED. Legacycard4/26/all13/noN-A; no proposed repair score. Source headerphoto403/PMC verification excluded, no physical/family/outcome proof.
+- Confidence/lesson/trigger: high inventory/moderate editorial utility/low exactmarket. Age/count/low ceiling do not supply an owned-block first placement or safety guarantee. Reopen source/label/criticaltask/clutter/peer/privacy/P0-P2/divergence; no repeated qualification by cadence. Time/mess/child/learning/safety/SEO UNKNOWN. Native233, full7 structured/differentreview/docsrelease pending; any build separate/original06:45:23.664Z guard. November1/October30 retained.
+
 COMPLETED IMP059 4cd81d0eac991302443226a85ce09d3fb816d97a/exact-SHA Pages40640564346 SUCCESS, Nash finalPASS/native233; seven changed+five preserved livebytes/full20mode task/readable key-touch arrivals/no-cut nativehorizontalchooser/livevisuals pass. [Full evidence](../reviews/tape-train-tracks-first-start-repair-2026-10-28.md). Third transaction complete/no fourth; no physical/family/SEO claim, November1/October30 unchanged.
 
 ## 2026-10-28 - IMP059 Train Station Implementation
