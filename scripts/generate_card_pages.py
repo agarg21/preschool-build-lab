@@ -92,6 +92,10 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "spoon-transfer": {
+        "kicker": "One pom | Adult checks, models and stays",
+        "description": "Spoon Transfer: one owned play pom-pom, an adult spoon-fit trial, two bowls and a tray. Scoop and tip, point, watch or decline; research-backed, not family-tested.",
+    },
     "balance-scale-baskets": {
         "kicker": "Adult holds and loads | Point or watch",
         "description": "Cup Balance Watch: adult-made matching cup handles, central support, an empty-level check and supported loading. Uncalibrated observation; research-backed, not family-tested.",
@@ -772,6 +776,7 @@ def quick_page(slug):
     is_pattern_path = slug == "pattern-path"
     is_toy_distance = slug == "measuring-tape-jumps"
     is_cup_balance = slug == "balance-scale-baskets"
+    is_spoon_transfer = slug == "spoon-transfer"
     has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge or is_cup_tower
     routes = related_routes_html(
@@ -795,8 +800,8 @@ def quick_page(slug):
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
         </div>'''
-    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt or is_ramp_texture or is_wind_tower or is_pattern_path or is_toy_distance or is_cup_balance:
-        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix" if is_color_mix else "drop-tilt" if is_drop_tilt else "ramp-texture" if is_ramp_texture else "wind-tower" if is_wind_tower else "pattern-path" if is_pattern_path else "toy-distance" if is_toy_distance else "cup-balance"
+    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt or is_ramp_texture or is_wind_tower or is_pattern_path or is_toy_distance or is_cup_balance or is_spoon_transfer:
+        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix" if is_color_mix else "drop-tilt" if is_drop_tilt else "ramp-texture" if is_ramp_texture else "wind-tower" if is_wind_tower else "pattern-path" if is_pattern_path else "toy-distance" if is_toy_distance else "cup-balance" if is_cup_balance else "spoon-transfer"
         readiness = "\n".join(
             f'          <p><strong>{esc(label)}:</strong> {esc(text)}</p>'
             for label, text in activity["readiness_groups"]
@@ -878,7 +883,8 @@ def quick_page(slug):
         "kid-card wind-tower-card" if is_wind_tower else
         "kid-card pattern-path-card" if is_pattern_path else
         "kid-card toy-distance-card" if is_toy_distance else
-        "kid-card cup-balance-card" if is_cup_balance else "kid-card"
+        "kid-card cup-balance-card" if is_cup_balance else
+        "kid-card spoon-transfer-card" if is_spoon_transfer else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
@@ -896,7 +902,8 @@ def quick_page(slug):
         "ramp-texture-card-1" if is_ramp_texture else
         "wind-tower-card-1" if is_wind_tower else
         "pattern-path-card-1" if is_pattern_path else
-        "toy-distance-card-1" if is_toy_distance else "nav-stable-2"
+        "toy-distance-card-1" if is_toy_distance else
+        "spoon-transfer-card-1" if is_spoon_transfer else "nav-stable-2"
     )
     previous_video = '''
 
@@ -983,7 +990,9 @@ def cards_index():
             f'Place by hand; compare marked gaps | {activity["time"]} · {activity["materials"]}'
             if slug == "measuring-tape-jumps" else
             f'Adult holds and loads; child watches | {activity["time"]} · {activity["materials"]}'
-            if slug == "balance-scale-baskets" else f'{activity["time"]} · {activity["materials"]}'
+            if slug == "balance-scale-baskets" else
+            f'Adult checks, models and stays; scoop or point | {activity["time"]} · {activity["materials"]}'
+            if slug == "spoon-transfer" else f'{activity["time"]} · {activity["materials"]}'
         )
         cards.append(
             f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(summary)}</span><template data-search="{esc(search_text)}"></template></a>'

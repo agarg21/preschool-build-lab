@@ -797,6 +797,46 @@ th {
   scroll-margin-top: max(104px, 6rem);
 }
 
+.spoon-transfer-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.spoon-transfer-card h1 {
+  font-size: 1.7rem;
+  line-height: 1.15;
+}
+
+.spoon-transfer-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.spoon-transfer-card .step-tile {
+  min-height: 0;
+}
+
+.spoon-transfer-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.spoon-transfer-card .spoon-transfer-materials,
+.spoon-transfer-card .spoon-transfer-readiness {
+  line-height: 1.5;
+}
+
+.spoon-transfer-card .spoon-transfer-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.spoon-transfer-card .spoon-transfer-readiness p {
+  margin: 8px 0 0;
+}
+
 .cup-balance-card {
   max-width: 720px;
   margin: 0 auto;

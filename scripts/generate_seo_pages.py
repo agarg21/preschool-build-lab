@@ -228,13 +228,26 @@ ACTIVITIES = {
         "title": "Spoon Transfer",
         "url": "../cards/spoon-transfer.html",
         "ages": "3-5",
-        "time": "2 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "spoon, two bowls, large objects",
-        "best_for": "fine motor practice, focus, hand control",
-        "steps": ["Fill one bowl.", "Scoop one thing.", "Move it.", "Do it again."],
-        "parent": "Use large non-choking objects.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Editorial ages 3-5; check fit",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult checks, models and stays",
+        "materials": "1 intact LARGE owned play pom-pom from an age-labelled play set, 1 smooth wide/deep spoon comfortable to hold, 2 stable unbreakable bowls and 1 rimmed tray",
+        "best_for": "trying a scoop, carry and tip, or pointing for the adult",
+        "readiness_groups": [
+            ("Materials", "Adult checks labels, condition and suitability for every reachable child. No shedding, loose filling, damaged or detachable parts. No craft fluff, food, beans, rice, pasta, coins, beads, marbles, magnets, water or cork substitutes. No suitable owned play pom? Choose another activity."),
+            ("Adult and fit", "Stay beside every reachable child and steady bowls as needed. Try when the child can hold the spoon comfortably and pause on request, or point for you. Skip for mouthing, uncertain parts, younger reach you cannot control or unavailable attention. Size and supervision are not a choking guarantee; do not test materials in a mouth."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab. This one-pom fit trial and controls are editorial adaptations, not tested protection. Watching or declining is enough; no forced grip, counting or spoken answer."),
+        ],
+        "stop": "End for mouthing, shedding, throwing, force, spoon play toward bodies, lost control, discomfort, anything leaving the tray or shifted adult attention. Adult collects all materials.",
+        "adult_setup": "Use a stable low clear table away from edges. Set bowls side by side on the tray, one pom in one bowl and the other empty. BEFORE child access, adult gently scoops that pom, carries it above the empty bowl and tips it in once. It must rest freely on the spoon: no squeezing, stabbing, flicking or launching. Failed fit? Skip, not smaller filler. Return the pom to the starting bowl if continuing.",
+        "steps": ["Try one scoop from the starting bowl. Use a comfortable hand, or point for the adult to scoop while you watch.", "Carry the spoon above the empty bowl and tip the pom inside. One try is enough; you can stop without finishing.", "Dropped in the tray? Put the spoon down. Adult collects the pom and may replace it once if you want, or end. Do not chase pieces or race."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If scooping is difficult, watch one adult model or end; do not force a grip or use smaller filler. A pom leaving the tray ends the activity. Adult collects the pom and any loose bits, checks table and floor, clears the surface and stores ALL pom, spoon, bowls and tray out of reach. Duration, effort and mess are not measured.",
+        "sources": [("Montessori Academy: two bowls, hand-fit spoon and adult model", "https://montessoriacademy.com.au/montessori-at-home/toddler-resources/scooping-spooning-and-pouring/"), ("SDN: pom-poms, bowls and adult stays", "https://www.sdn.org.au/village-of-learning/activities-scoop-sort-and-pour/"), ("The Toy Foundation: large-spoon context", "https://toyfoundation.org/genius/play-ideas-tips/play-ideas/pom-pom-fun-games.aspx"), ("AAP: owned toy labels, condition and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx")],
+        "source_note": "Sources checked October27,2026. Montessori Academy Home Lesson Four supplies the two-bowl, hand-fit spoon, tray and adult demonstration. SDN supplies pom-pom scooping with an adult staying; The Toy Foundation supplies large-spoon context. The single owned age-labelled play-pom, fit trial, roles, skip/stop and cleanup are Kid Activity Lab editorial adaptations, not an inspected source procedure or tested setup. We exclude source food/small fillers, jug pouring, tongs, timed races and forced non-dominant-hand use. AAP gives general toy guidance, not certification of this set. Source age labels and photos do not prove readiness or fit. Owned fit, understanding, enjoyment, learning, repetition, duration, mess and safety outcomes are unknown. No product recommendation, therapy or safety assurance.",
     },
     "paper-bridge": {
         "title": "Paper Bridge",
@@ -682,6 +695,9 @@ ACTIVITIES["measuring-tape-jumps"]["start_cue"] = " ".join(
 ACTIVITIES["balance-scale-baskets"]["start_cue"] = " ".join(
     text for _, text in ACTIVITIES["balance-scale-baskets"]["readiness_groups"]
 ) + " Stop: " + ACTIVITIES["balance-scale-baskets"]["stop"]
+ACTIVITIES["spoon-transfer"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["spoon-transfer"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["spoon-transfer"]["stop"]
 
 
 PAGES = [
@@ -971,7 +987,7 @@ PAGES = [
         "kicker": "Fine motor",
         "description": "Fine motor activities for preschoolers using pom poms, paper rolls, blocks, tape, spoons, cups, and household objects.",
         "intro": "Fine motor practice does not have to look like worksheets. Preschoolers build hand strength and control while dropping, stacking, peeling, scooping, connecting, and balancing.",
-        "tip": "Use large pieces first. If an item can fit in a mouth, treat it as a direct-supervision activity.",
+        "tip": "Adult checks labels, condition and abilities for every child who can reach the materials. Unsuitable parts, mouthing, uncertain younger-child reach or unavailable attention mean choose another activity. Size or direct supervision is not permission to use unsuitable items.",
         "activities": ["paper-roll-drop", "pom-pom-drop", "spoon-transfer", "lego-color-tower", "duplo-games", "magnetic-tile-ideas", "cup-tower", "tape-road"],
         "related": ["fine motor activities for preschoolers at home", "fine motor activities for preschoolers pdf", "fine motor activities for preschoolers printables"],
     },
