@@ -613,13 +613,30 @@ ACTIVITIES = {
         "title": "Straw Bridge",
         "url": "../cards/straw-bridge.html",
         "ages": "4-6",
-        "time": "8 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "straws, tape, two cups",
-        "best_for": "engineering, balance, testing strength",
-        "steps": ["Put cups apart.", "Tape straws together.", "Make a bridge.", "Test one toy."],
-        "parent": "Adult handles tape and keeps the bridge low.",
+        "time": "Time not measured",
+        "mess": "Not measured",
+        "help": "Adult joins and stays",
+        "materials": "SIX whole straight paper straws of equal length, TWO strips of owned painter's tape, TWO broad low closed books of matching height; no load required",
+        "best_for": "joining a flat row and noticing an empty span",
+        "fit_cue": "Adult stays beside the setup and owns tape, books, trials and collection. Skip for mouthing, uncontrolled younger reach, damaged materials or uncertain adult attention. Child may choose, point, watch or end. Check owned material and tape directions; decline if they do not fit. No cutting straws or substituting bendy, silicone or plastic straws in this start.",
+        "stop": "Stop for loose tape, bent, wet or damaged straws, sliding supports, mouthing, throwing, climbing, wanting to leave or lost adult attention. Remove any optional object before any change; do not reinforce under load.",
+        "steps": [
+            "Adult lays SIX whole paper straws side by side on a flat dry surface, ends even. Keep one FLAT row, not a round bundle.",
+            "Adult lays a tape strip across the row near one end, folds it around BOTH outside edges and joins the tape to itself underneath. Repeat near the other end. Each band wraps the WHOLE flat row, not individual straws. Do not squeeze or twist; end if the tape will not hold or straws deform.",
+            "Adult puts TWO broad low CLOSED books flat on clear floor, at matching height with a gap shorter than the straws. Lay the deck so BOTH ends of EVERY straw rest well on the covers. Do not tape it to the books. Adult checks the EMPTY span while staying beside it.",
+            "Look or point: flat, bending or slipping? Do not push. No object is required. Adult can lift the empty deck off, move books closer for ONE empty retry, or end. Loose tape or damaged straws mean end, not another trial.",
+        ],
+        "rescue": "If it will not span, lift it off before moving books closer for one empty retry, or end. Keep the joined row flat on the floor for a DIFFERENT joining-only activity if its tape and straws remain intact; that is not a bridge. Do not add cups, stacks, clips, string or hanging loads.",
+        "optional_load": "Only after an intact, stable empty trial: the adult may gently place and remove ONE owned intact LARGE lightweight flat-base block that fits wholly on the deck without balancing. Check its condition, label and suitability for EVERY reachable child. If base, size, fit or adult control is uncertain, stay empty or end. No cups, coins, marbles, washers, driving or load-to-failure. Remove the object before ANY change; stop if it bends or slips.",
+        "cleanup": "Adult removes the optional object first, lifts the deck off the books, collects all tape, straws and loose fragments, then puts the books away. End with any damaged or loose material; do not leave pieces for younger children.",
+        "parent": "Adult joins and stays; read fit, stop, joint and empty-trial checks before handling. Low closed books replace the old cup supports. Research-backed editorial start, not physically or family-tested by Kid Activity Lab.",
+        "sources": [
+            ("U-M activity: whole-row tape wrap only", "https://www.uofmhealth.org/camp-little-victors/straw-flute"),
+            ("Science Buddies: flatness and over-tight tape", "https://www.sciencebuddies.org/science-fair-projects/project-ideas/CE_p011/civil-engineering/the-effect-of-bridge-design-on-weight-bearing-capacity"),
+            ("TeachEngineering: joined-straw material comparison", "https://www.teachengineering.org/content/uot_/activities/uot-2982-fairy-tale-engineering/uot-2982-fairy-tale-research-activity-worksheet.pdf"),
+            ("AAP: owned toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx"),
+        ],
+        "source_note": "Sources checked October 28, 2026. U-M describes a paper-straw flute: we use its written whole-row wrapping principle only, not cutting, blowing, mouthing or medical guidance. Science Buddies describes flat straw assemblies and warns against tape that twists or deforms them. TeachEngineering compares joined straws in a different hanging-load activity, not this deck. The SIX straws, TWO bands, no-cut paper material, low-book layout, empty trial, optional block, diagram, roles and stops are KAL editorial adaptations, not a source-tested preschool setup. No truss, hanging-load or break-to-failure challenge is offered. Actual assembly, adhesion, fit, stability, understanding, timing, mess, enjoyment, repetition, learning and safety outcomes are unknown; no strength or universal safety promise.",
     },
     "paper-chain-test": {
         "title": "Paper Chain Test",
@@ -1450,7 +1467,8 @@ PAGES = [
             ("A tray can get wet", ("Empty Foil Boat", "#foil-boat-test"), "An adult stays beside the tray; try an empty hull, no cargo."),
             ("Blocks or cups are ready", [("Wind Tower", "#wind-tower-test"), ("Cup Doorway (paused)", "#cup-tower")], "Wind Tower: Keep the build low and run one gentle test. Cup Doorway is paused; read a different choice's checks before handling or decline."),
             ("Toy cars are the hook", [("Target Ramp", "#car-ramp-distance-test"), ("Box Garage", "#box-garage")], "Set the boundary or target; let the child decide the change."),
-            ("The child wants more building", [("Straw Bridge", "#straw-bridge"), ("Ball Maze", "#ball-maze-box")], "Handle cutting or tape and leave the layout decisions to the child."),
+            ("Six whole paper straws, owned tape and two low closed books", ("Straw Bridge: empty first", "#straw-bridge"), "Adult joins and stays; read the card's checks before handling. No cup supports or required toy load."),
+            ("A box lid, chunky blocks and suitable large ball", ("Ball Maze", "#ball-maze-box"), "Use Ball Maze's own checks; adult controls the ball while the child chooses the layout or points."),
         ],
         "process_steps": [
             ("Ask", "What must the build do?"),
@@ -1469,15 +1487,8 @@ PAGES = [
             "straw-bridge": {
                 "slug": "straw-bridge",
                 "title": "Straw Bridge",
-                "materials": "drinking straws, painter tape, two paper cups, one lightweight toy",
-                "mission": "Join straws into a bridge that holds one toy between the cups.",
-                "adult_role": "Handle any cutting and tear short pieces of tape before the build begins.",
-                "steps": ["Put the cups a short distance apart.", "Join straws into one bridge deck.", "Set the toy in the middle."],
-                "test": "Does the bridge stay across the cups while the toy rests on it?",
-                "redesign": "Tape one more straw under the middle and test the same toy.",
-                "rescue": "Move the cups closer or test without the toy first.",
-                "stop": "Stop if straws or tape go in a mouth, a cup will not stay put, or the child wants to leave the build.",
-                "parent": "Use paper or silicone straws when possible and keep all cut pieces accounted for.",
+                "straw_bridge_handoff": True,
+                "steps": [],
             },
             "foil-boat-test": {
                 "slug": "foil-boat-test",
@@ -1641,7 +1652,7 @@ PAGES = [
         "tip_link": ("Check the different Box Garage start", "../cards/box-garage.html"),
         "building_layout": True,
         "evidence_note": "Kid Activity Lab created this chooser from current source and search research. We have not family-tested these setups. The age-four route, material choices, adult roles, rescue steps, and stop boundaries are editorial guidance; timing, mess, engagement, learning, repeatability, and safety outcomes are unknown.",
-        "readiness_note": "Choose materials that are appropriate for the youngest child who can reach the build. Remove cracked or damaged materials and any piece with an exposed magnet. If any child may mouth materials, stay within reach and watch continuously; skip straws, loose tape, and other loose pieces and use larger solid blocks instead. The Wide-Base Tower below instead requires skipping for mouthing or younger reach you cannot control; larger blocks do not remove its checks. The different flat house picture and Box Garage also require skipping for mouthing or uncertain reach; the larger-block/watch suggestion does NOT override either activity's checks. The different stationary Paper Path test also requires skipping for mouthing, uncontrolled younger reach or uncertain adult attention; the larger-block/watch suggestion does NOT override these checks.",
+        "readiness_note": "Choose materials that are appropriate for the youngest child who can reach the build. Remove cracked or damaged materials and any piece with an exposed magnet. If any child may mouth materials, stay within reach and watch continuously; skip straws, loose tape, and other loose pieces and use larger solid blocks instead. The Wide-Base Tower below instead requires skipping for mouthing or younger reach you cannot control; larger blocks do not remove its checks. The different flat house picture and Box Garage also require skipping for mouthing or uncertain reach; the larger-block/watch suggestion does NOT override either activity's checks. The different stationary Paper Path test also requires skipping for mouthing, uncontrolled younger reach or uncertain adult attention; the larger-block/watch suggestion does NOT override these checks. Straw Span also requires skipping for mouthing, uncontrolled younger reach, damaged materials or uncertain adult attention; larger blocks or watching do NOT override these checks. Read its checked card before handling; low closed books replace its old cup supports.",
         "image_warning": "Cup Doorway is paused. Do not copy the cup-over-gap depiction in this illustration; it is not a qualified setup. Material checks do not supply its missing instructions. The paper on stacked books is also not the different stationary Paper Path start offered below; do not copy those stacks as instructions.",
         "image": {
             "src": "../assets/preschool-building/building-material-chooser.webp",
@@ -1657,7 +1668,7 @@ PAGES = [
             ("Large blocks", ("Wide-Base Tower", "#block-tower"), "Wide-Base Tower needs three checked matching blocks; adult models and stays."),
             ("Paper cups", ("Cup Doorway (paused)", "#cup-tower"), "Do not start this doorway. Read a different choice's checks before handling or decline."),
             ("Paper, two low closed books and one suitable large block or soft toy", ("Different stationary Paper Path test", "#paper-bridge"), "Read this choice's checks before handling; adult stays. Not a moving-toy path."),
-            ("Straws and suitable supports", ("Straw Span", "#straw-bridge"), "Set the supports; handle cutting or tape."),
+            ("Six whole paper straws, owned tape and two low closed books", ("Straw Span: empty first", "#straw-bridge"), "Adult joins and stays; read the card's checks before handling. No cup supports or required toy load."),
             ("Two whole tubes, cardboard base and owned painter tape", ("Tube Sculpture", "#tube-sculpture"), "Adult checks and attaches; child chooses a low arrangement or points. Untaped or end if tape fails."),
             ("Blanket, three large blocks and one large toy", ("Blanket Crossing", "#blanket-river"), "Adult stays beside a tiny toy-only crossing; never for feet."),
         ],
@@ -1715,13 +1726,8 @@ PAGES = [
                 "slug": "straw-bridge",
                 "title": "Straw Span",
                 "job": "Join materials",
-                "materials": "drinking straws, painter tape, two paper cups, one lightweight toy",
-                "mission": "Join several straws into a path between the two cups.",
-                "adult_role": "Handle any cutting and prepare short pieces of painter tape before the build.",
-                "steps": ["Lay straws side by side.", "Join them with short tape pieces.", "Rest the span across the cups."],
-                "rescue": "Use fewer straws and move the cups closer.",
-                "stop": "Stop if straws splinter or bend into sharp ends, tape goes in a mouth, or cups slide.",
-                "parent": "Use wide straws when possible and remove loose tape and damaged pieces promptly.",
+                "straw_bridge_handoff": True,
+                "steps": [],
             },
             "tube-sculpture": {
                 "slug": "tube-sculpture",
@@ -1983,6 +1989,19 @@ def activity_card(activity):
         </article>'''
 
 
+def straw_bridge_handoff_card(activity, layout):
+    return f'''        <article class="seo-activity {layout}" id="{esc(activity["slug"])}">
+          <p class="challenge-label">Adult joins; empty span first</p>
+          <h2>{esc(activity["title"])}</h2>
+          <p class="straw-start-cue"><strong>Join a flat row; try it EMPTY first.</strong></p>
+          <p><strong>Need:</strong> {esc(ACTIVITIES["straw-bridge"]["materials"])}. These low closed books replace the old cup supports.</p>
+          <p><strong>BEFORE handling:</strong> {esc(activity["fit_cue"])}</p>
+          <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
+          <p><a href="../cards/straw-bridge.html">Open the checked joint, diagram and empty-trial steps</a>. No toy is required. Read the card's separate fit checks before any optional one-block observation.</p>
+          <p>Research-backed editorial start, not physically or family-tested by Kid Activity Lab. Time, mess, strength, learning and safety outcomes are unknown.</p>
+        </article>'''
+
+
 def paper_bridge_handoff_card(activity, layout):
     return f'''        <article class="seo-activity {layout}" id="{esc(activity["slug"])}">
           <p class="challenge-label">Different stationary choice</p>
@@ -2012,6 +2031,8 @@ def cup_doorway_pause_card(activity, layout):
 
 
 def engineering_activity_card(activity):
+    if activity.get("straw_bridge_handoff"):
+        return straw_bridge_handoff_card(activity, "engineering-challenge")
     if activity.get("paper_bridge_handoff"):
         return paper_bridge_handoff_card(activity, "engineering-challenge")
     if activity.get("cup_doorway_pause"):
@@ -2062,6 +2083,8 @@ def engineering_activity_card(activity):
 
 
 def building_activity_card(activity):
+    if activity.get("straw_bridge_handoff"):
+        return straw_bridge_handoff_card(activity, "building-build")
     if activity.get("paper_bridge_handoff"):
         return paper_bridge_handoff_card(activity, "building-build")
     if activity.get("cup_doorway_pause"):
@@ -2327,7 +2350,7 @@ def engineering_page_html(page):
     <title>{esc(page["title"])}</title>
     <meta name="description" content="{esc(page["description"])}">
     <link rel="canonical" href="{esc(canonical)}">
-    <link rel="stylesheet" href="{root}styles.css?v=engineering-arrival-1-paper-bridge-1">
+    <link rel="stylesheet" href="{root}styles.css?v=engineering-arrival-1-paper-bridge-1-straw-1">
   </head>
   <body>
     <header class="site-header">
@@ -2429,7 +2452,7 @@ def engineering_page_html(page):
 
 def building_page_html(page):
     root = rel_root(page["path"])
-    style_version = f"{CSS_VERSION}-paper-bridge-1"
+    style_version = f"{CSS_VERSION}-paper-bridge-1-straw-1"
     image_warning = f'<p class="building-image-warning"><strong>{esc(page["image_warning"])}</strong></p>' if page.get("image_warning") else ""
     tip_link = f'<p><a href="{esc(page["tip_link"][1])}">{esc(page["tip_link"][0])}</a></p>' if page.get("tip_link") else ""
     head_style = f'\n    <style>{page["head_style"]}</style>' if page.get("head_style") else ""

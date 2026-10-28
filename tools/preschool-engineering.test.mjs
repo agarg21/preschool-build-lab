@@ -102,9 +102,9 @@ test("page states evidence limits and does not imply measured family outcomes", 
 
 test("chooser, engineering loop, and all nine challenges are complete", () => {
   const chooser = html.match(/<tbody>([\s\S]*?)<\/tbody>/)?.[1] ?? "";
-  assert.equal([...chooser.matchAll(/<tr>/g)].length, 5);
+  assert.equal([...chooser.matchAll(/<tr>/g)].length, 6);
   for (const label of ["What is ready", "Start with", "Adult role"]) {
-    assert.equal([...chooser.matchAll(new RegExp(`data-label="${label}"`, "g"))].length, 5);
+    assert.equal([...chooser.matchAll(new RegExp(`data-label="${label}"`, "g"))].length, 6);
   }
   assert.deepEqual(
     [...chooser.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map((match) => [match[2], match[1]]),
@@ -115,7 +115,7 @@ test("chooser, engineering loop, and all nine challenges are complete", () => {
       ["Cup Doorway (paused)", "#cup-tower"],
       ["Target Ramp", "#car-ramp-distance-test"],
       ["Box Garage", "#box-garage"],
-      ["Straw Bridge", "#straw-bridge"],
+      ["Straw Bridge: empty first", "#straw-bridge"],
       ["Ball Maze", "#ball-maze-box"],
     ],
   );
@@ -129,6 +129,17 @@ test("chooser, engineering loop, and all nine challenges are complete", () => {
   const challenges = [...html.matchAll(/<article class="seo-activity engineering-challenge" id="([^"]+)">([\s\S]*?)<\/article>/g)];
   assert.deepEqual(challenges.map((match) => match[1]), challengeSlugs);
   for (const [slug, body] of challenges.map((match) => [match[1], match[2]])) {
+    if (slug === "straw-bridge") {
+      assert.match(body, /Join a flat row; try it EMPTY first/);
+      assert.match(body, /SIX whole straight paper straws/);
+      assert.match(body, /TWO broad low closed books/);
+      assert.match(body, /BEFORE handling/);
+      assert.match(body, /Skip for mouthing, uncontrolled younger reach/);
+      assert.match(body, /href="\.\.\/cards\/straw-bridge.html"/);
+      assert.ok(body.indexOf("Stop:") < body.indexOf('href="../cards/straw-bridge.html"'));
+      assert.doesNotMatch(body, /<li>|Set the toy in the middle|Open the base activity card/);
+      continue;
+    }
     if (slug === "paper-bridge") {
       assert.match(body, /Moving-toy road not provided/);
       assert.match(body, /Choose a DIFFERENT stationary-object test, or decline/);

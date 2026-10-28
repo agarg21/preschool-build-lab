@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620" role="img" aria-labelledby="title desc">
+  <title id="title">Flat straw row and empty book-supported span</title>
+  <desc id="desc">Two top views. Six parallel whole straws are held as one flat row by two tape bands that wrap around the outside edges and join underneath. The row then spans a short empty gap between two closed books. Both ends of every straw rest on book covers. No object, cup or stack is shown. Original schematic, not to scale or test evidence.</desc>
+  <rect width="800" height="620" fill="#ffffff"/>
+  <g font-family="Arial, sans-serif" fill="#193e35" font-size="28">
+    <text x="40" y="42">1. Whole flat row</text>
+    <text x="40" y="330">2. Empty span</text>
+  </g>
+  <g fill="#f5ce57" stroke="#6c641f" stroke-width="2">
+    <rect x="170" y="75" width="460" height="20" rx="3"/>
+    <rect x="170" y="99" width="460" height="20" rx="3"/>
+    <rect x="170" y="123" width="460" height="20" rx="3"/>
+    <rect x="170" y="147" width="460" height="20" rx="3"/>
+    <rect x="170" y="171" width="460" height="20" rx="3"/>
+    <rect x="170" y="195" width="460" height="20" rx="3"/>
+  </g>
+  <g fill="#b9def1" fill-opacity=".85" stroke="#246b8f" stroke-width="3">
+    <path d="M215 68H248V222H215Z"/>
+    <path d="M552 68H585V222H552Z"/>
+  </g>
+  <g fill="none" stroke="#246b8f" stroke-width="3" stroke-dasharray="6 5">
+    <path d="M215 222V235H248V222"/>
+    <path d="M552 222V235H585V222"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#193e35" font-size="24">
+    <text x="40" y="278">Two adult wraps around the WHOLE row</text>
+  </g>
+  <g stroke="#32694c" stroke-width="3">
+    <rect x="100" y="355" width="220" height="220" rx="3" fill="#d3e9db"/>
+    <rect x="480" y="355" width="220" height="220" rx="3" fill="#d3e9db"/>
+  </g>
+  <g fill="#f5ce57" stroke="#6c641f" stroke-width="2">
+    <rect x="170" y="385" width="460" height="20" rx="3"/>
+    <rect x="170" y="409" width="460" height="20" rx="3"/>
+    <rect x="170" y="433" width="460" height="20" rx="3"/>
+    <rect x="170" y="457" width="460" height="20" rx="3"/>
+    <rect x="170" y="481" width="460" height="20" rx="3"/>
+    <rect x="170" y="505" width="460" height="20" rx="3"/>
+  </g>
+  <g fill="#b9def1" fill-opacity=".85" stroke="#246b8f" stroke-width="3">
+    <path d="M215 378H248V532H215Z"/>
+    <path d="M552 378H585V532H552Z"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#193e35" font-size="22" text-anchor="middle">
+    <text x="210" y="562">Closed book</text>
+    <text x="590" y="562">Closed book</text>
+    <text x="400" y="609">Short gap; both ends rest on covers</text>
+  </g>
+</svg>

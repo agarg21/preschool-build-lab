@@ -958,7 +958,84 @@ def magnet_hunt_pause_page():
 '''
 
 
+def straw_bridge_page():
+    activity = ACTIVITIES["straw-bridge"]
+    steps = "\n".join(f'          <li>{esc(step)}</li>' for step in activity["steps"])
+    sources = "\n".join(f'          <li><a href="{esc(url)}">{esc(label)}</a></li>' for label, url in activity["sources"])
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Straw Bridge: Join a Flat Row, Try It Empty | Kid Activity Lab</title>
+    <meta name="description" content="An adult joins six whole paper straws into a flat row, then tries an empty span across two low closed books. Joint steps, original diagram, rescue and cleanup; not family-tested.">
+    <link rel="canonical" href="https://kidactivitylab.com/cards/straw-bridge.html">
+    <link rel="stylesheet" href="../styles.css?v=straw-start-1">
+  </head>
+  <body>
+    <header class="site-header"><nav class="nav" aria-label="Main navigation">
+      <a class="brand" href="/">Kid Activity Lab</a>
+      <div class="nav-links"><a href="/">Home</a><a href="../original/">Original</a><a href="../cards.html">Cards</a></div>
+    </nav></header>
+    <main class="straw-card">
+      <p class="kicker">Editorial ages 4-6; check actual readiness</p>
+      <h1>Straw Bridge</h1>
+      <p class="straw-start-cue"><strong>Adult joins; try the span EMPTY first.</strong></p>
+      <p>Child mission: choose, point or look for flat, bending or slipping. Watching or ending is a complete choice. No toy load is required.</p>
+      <p><strong>Get:</strong> {esc(activity["materials"])}. Low closed books replace the old cup supports; do not substitute cups or stacks.</p>
+      <p class="straw-boundary">Research-backed editorial start, not physically or family-tested by Kid Activity Lab. Time and mess are not measured; fit, stability and safety outcomes are unknown.</p>
+      <section id="straw-checks" aria-labelledby="straw-checks-title">
+        <h2 id="straw-checks-title">Before handling</h2>
+        <p>{esc(activity["fit_cue"])}</p>
+        <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
+      </section>
+      <section id="straw-start" aria-labelledby="straw-start-title">
+        <h2 id="straw-start-title">Join the flat row</h2>
+        <ol>
+{steps}
+        </ol>
+        <figure>
+          <img src="../assets/straw-bridge/straw-deck-start.svg" width="800" height="620" alt="Top views: six whole parallel straws form one flat row. Two tape bands cross the whole row near its ends and wrap underneath. The same row spans a short empty gap between two closed book covers, with both ends of every straw resting on the covers. No load is shown.">
+          <figcaption>Original KAL schematic, not to scale or proof of a working or safe setup. Tape wraps underneath; it does not fasten the deck to the books. <a href="../assets/straw-bridge/straw-deck-start.svg">Open the full-size diagram</a>.</figcaption>
+        </figure>
+      </section>
+      <section id="straw-rescue" aria-labelledby="straw-rescue-title">
+        <h2 id="straw-rescue-title">If it slips or will not span</h2>
+        <p>{esc(activity["rescue"])}</p>
+        <p>If tape feel or joining is unwelcome, the adult can do all handling while the child points, watches or ends. Keep siblings outside the setup unless the adult can maintain every check. For a different idea, return to the <a href="../cards.html">activity cards</a>; read that choice's checks rather than transferring these.</p>
+      </section>
+      <section id="straw-optional" aria-labelledby="straw-optional-title">
+        <h2 id="straw-optional-title">Optional one-block observation</h2>
+        <p>{esc(activity["optional_load"])}</p>
+        <p>Look for a change or an unclear result, not a weight limit. An empty observation is enough; do not add objects or repeat until failure.</p>
+      </section>
+      <section id="straw-cleanup" aria-labelledby="straw-cleanup-title">
+        <h2 id="straw-cleanup-title">End and collect</h2>
+        <p>{esc(activity["cleanup"])}</p>
+      </section>
+      <details>
+        <summary>Sources and evidence limits</summary>
+        <ul>
+{sources}
+        </ul>
+        <p>{esc(activity["source_note"])}</p>
+        <p>The purpose is an adult-supported observation of a joined material across a gap, not a validated lesson or strength test. The age label is editorial, not source certification or a substitute for fit checks.</p>
+      </details>
+      <section class="parent-strip" aria-label="Related activity pages">
+        <p><a href="../collections/building-activities-for-4-year-olds.html">Building activities for 4 year olds</a></p>
+        <p><a href="../collections/engineering-activities-for-4-year-olds.html">Engineering activities for 4 year olds</a></p>
+      </section>
+      <p><a href="../cards.html">Back to all activity cards</a></p>
+    </main>
+    <footer class="footer"><span>Kid Activity Lab</span><a href="../about.html">About and evidence</a></footer>
+  </body>
+</html>
+'''
+
+
 def quick_page(slug):
+    if slug == "straw-bridge":
+        return straw_bridge_page()
     if slug == "foil-boat-test":
         return foil_boat_page()
     if slug == "paper-chain-test":
@@ -1238,6 +1315,8 @@ def cards_index():
         if slug == "balance-scale-baskets":
             search_text += " Balance Basket Scale"
         summary = (
+            f'Adult joins and stays; EMPTY first | {activity["time"]} · {activity["materials"]}'
+            if slug == "straw-bridge" else
             "Paused; different flat-picture or ONE box/car job, not two rooms"
             if activity.get("tile_build_pause") else
             f'Flat PICTURE, not a toy room; adult stays beside | {activity["time"]} · {activity["materials"]}'

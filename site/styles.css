@@ -3150,3 +3150,28 @@ th {
 .paper-bridge-image-warning {
   overflow-wrap: anywhere;
 }
+
+.straw-card {
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 24px 20px 40px;
+}
+
+.straw-card h1 { font-size: min(2rem, 48px); letter-spacing: 0; margin: 8px 0; }
+.straw-card h2 { font-size: min(1.35rem, 36px); letter-spacing: 0; margin: 24px 0 8px; }
+.straw-card p, .straw-card li { line-height: 1.5; }
+.straw-card p { margin: 12px 0; }
+.straw-card ol, .straw-card ul { padding-left: 1.5rem; }
+.straw-card li { margin: 12px 0; }
+.straw-card section { scroll-margin-top: 8rem; }
+.straw-card figure { margin: 24px 0; }
+.straw-card img { display: block; width: 100%; height: auto; aspect-ratio: 40 / 31; }
+.straw-card figcaption, .straw-boundary { font-size: 0.9rem; }
+.straw-card details { border-top: 1px solid var(--line); padding: 16px 0; }
+.straw-card summary { cursor: pointer; font-weight: 700; padding: 8px 0; }
+.straw-card a:focus-visible, .straw-card summary:focus-visible { outline: 3px solid #246b8f; outline-offset: 3px; }
+.straw-card h1, .straw-card h2, .straw-card p, .straw-card li, .straw-card a,
+.straw-card summary, .straw-card figcaption,
+.building-build#straw-bridge, .engineering-challenge#straw-bridge {
+  overflow-wrap: anywhere;
+}

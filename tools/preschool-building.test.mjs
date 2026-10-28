@@ -108,7 +108,7 @@ test("material chooser, support steps, and architecture boundary are complete", 
       ["Wide-Base Tower", "#block-tower"],
       ["Cup Doorway (paused)", "#cup-tower"],
       ["Different stationary Paper Path test", "#paper-bridge"],
-      ["Straw Span", "#straw-bridge"],
+      ["Straw Span: empty first", "#straw-bridge"],
       ["Tube Sculpture", "#tube-sculpture"],
       ["Blanket Crossing", "#blanket-river"],
     ],
@@ -129,10 +129,21 @@ test("material chooser, support steps, and architecture boundary are complete", 
   assert.match(html, /neighboring pages support different activity goals/);
 });
 
-test("five runnable builds retain checks and four distinct paused or handoff jobs remain", () => {
+test("four runnable builds retain checks and five distinct paused or handoff jobs remain", () => {
   const builds = [...html.matchAll(/<article class="seo-activity building-build" id="([^"]+)">([\s\S]*?)<\/article>/g)];
   assert.deepEqual(builds.map((match) => match[1]), buildSlugs);
   for (const [slug, body] of builds.map((match) => [match[1], match[2]])) {
+    if (slug === "straw-bridge") {
+      assert.match(body, /Join a flat row; try it EMPTY first/);
+      assert.match(body, /SIX whole straight paper straws/);
+      assert.match(body, /TWO broad low closed books/);
+      assert.match(body, /BEFORE handling/);
+      assert.match(body, /Skip for mouthing, uncontrolled younger reach/);
+      assert.match(body, /href="\.\.\/cards\/straw-bridge.html"/);
+      assert.ok(body.indexOf("Stop:") < body.indexOf('href="../cards/straw-bridge.html"'));
+      assert.doesNotMatch(body, /<li>|Test one toy|Open the base activity card/);
+      continue;
+    }
     if (slug === "paper-bridge") {
       assert.match(body, /Moving-toy road not provided/);
       assert.match(body, /Choose a DIFFERENT stationary-object test, or decline/);

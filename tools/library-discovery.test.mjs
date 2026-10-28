@@ -60,8 +60,8 @@ test("literal matching, empty state, and clear work without changing the card so
 
   query.value = "  PAPER   tape  ";
   listeners.input();
-  assert.equal(count.textContent, "3 of 36 activity cards");
-  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tube-sculpture.html", "cards/paper-chain-test.html", "cards/water-drop-race.html"]);
+  assert.equal(count.textContent, "4 of 36 activity cards");
+  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tube-sculpture.html", "cards/straw-bridge.html", "cards/paper-chain-test.html", "cards/water-drop-race.html"]);
   assert.equal(empty.hidden, true);
   assert.equal(clear.disabled, false);
 
@@ -74,11 +74,11 @@ test("literal matching, empty state, and clear work without changing the card so
 
   query.value = "painter tape";
   listeners.input();
-  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tape-train-tracks.html", "cards/tube-sculpture.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
+  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tape-train-tracks.html", "cards/tube-sculpture.html", "cards/tape-city.html", "cards/straw-bridge.html", "cards/measuring-tape-jumps.html"]);
 
   query.value = "painter's tape";
   listeners.input();
-  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tape-train-tracks.html", "cards/tube-sculpture.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
+  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tape-train-tracks.html", "cards/tube-sculpture.html", "cards/tape-city.html", "cards/straw-bridge.html", "cards/measuring-tape-jumps.html"]);
 
   for (const [term, expected] of [
     ["cup", "cards/color-mixing-cups.html"],

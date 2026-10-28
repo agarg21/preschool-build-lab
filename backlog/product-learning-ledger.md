@@ -2513,3 +2513,32 @@ observe for a post-release crawl or finalized page/query change.
   fresh ranking/demand measure, usability evaluation, family test, developmental
   result, timing estimate, or safety assurance. All family outcomes remain
   `UNKNOWN`; production and protected observation windows remain unchanged.
+
+## 2026-10-28 - KAL-IMP-069 - Empty-First Straw Bridge
+
+- Decision/persona: apply reviewed RES089 to the existing card and two hub
+  handoffs; a source-derived caregiver must decide fit, join a flat row, make
+  an EMPTY observation, rescue or decline, then collect. Younger reach or
+  uncertain adult attention is the secondary decline constraint.
+- Hypothesis: a complete whole-row wrap/underside/repeat and low-book empty
+  start remove joint/load guessing without needing a new guide.
+- Sources/classes: current primary source reconciliation and limits in the
+  [repair packet](../reviews/straw-bridge-first-start-repair-2026-10-28.md)
+  and linked RES089 audit. SOURCE_BACKED principles, EDITORIAL_JUDGMENT
+  six-straw/two-band/book setup and schematic, RESEARCH_HYPOTHESIS personas,
+  MEASURED executed code/byte/browser proxies only; family outcomes UNKNOWN.
+- Result: implementation/full276/native and local7bytes16modes21keyboard/
+  14touchBack/finder4noJS/diagram-pixel-textfit checks pass. Freshdifferent
+  reviewer01a183a6 full19/cycle1 PASS/no findings, independent275/pure17renders/
+  samebrowserplus10chooserarrivals/662repo-byte conservation PASS.
+  Exact-SHA production acceptance pending. Not delivered yet.
+  New task card25/26/hub routes23/26, all13/no N/A, not an old-task gain.
+- Confidence/lesson: high for inspected copy/ownership conservation, provisional
+  for start/decline proxy, unknown for physical performance. A material
+  substitution needs an explicit first joint and matched discovery controls,
+  not just a changed material label or a hidden optional load.
+- Next falsification trigger: first-joint/diagram/role contradiction, failed
+  mobile/reach/attention proxy, independent finding, real owned-material
+  failure or future valid firsthand evidence.
+- Measurement boundary: no new demand/rank measure, actual assembly, child
+  comprehension, enjoyment, timing, mess, learning, strength or safety result.
