@@ -9,7 +9,7 @@
       "id": "KAL-RES-079",
       "title": "Qualify Tape Train Tracks first route and material handoff",
       "kind": "existing-owner-source-task-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "2d693592300dc8f572a36e72fd9edceb4d0d40f7",
       "exact_paths": [
@@ -37,8 +37,8 @@
       "observation_window": "Same retainedactual05:07:03Z/conservative selection deadline05:49:53.460Z/completed1/max3; first IMP058 fully released2347455/exactSHA Pages40637551276/closeout2d69359 clean0/0. November1/October30/global cutoff retained.",
       "reconsider_if": "Existing exactqualification, source-material-fit conflict, unsupported brand/protectionclaim, no actual task gap, critical missing output/privacy/P0-P2/divergence. Do not force repair/newURL.",
       "blockers": "None known; source geometry/owned toy-tape fit and source-video procedure UNKNOWN.",
-      "phase": "review_pass_release_pending",
-      "next_action": "Full7native/structured/privacy/EOF and different review/docs-only release; if completed within original guard register separate repair promptly, no silent research expansion.",
+      "phase": "released",
+      "next_action": "Factual7closeout/push/alignment then original05:49:53.460Z conservative guard; separately register qualified five-surface train repair plus phantom-indoor correction/materialroot32fit promptly if eligible. No repeat qualification/newURL/fourth.",
       "decision": "IMPROVE five actual TapeTrain surfaces plus target phantom-indoor declaration separately; DEFER newURL. Source-supported visual rails/cardboard/station, exact one-ownedtrain/three-strip trial/roles/stop editorial. Preserve maintained TapeRoad/indoorbytes/CSV/peers; fix measured materialroot32word383.109 at320.",
       "qa_result": "RES079 Master229/jq/exact7/onechangedJSON/163IDs/391docrefs/GSC100/privacy/EOF/whitespace PASS; six current primary/tutorial bodies/two source visuals/CSV source_id parsed/10production200bytes/20modes-eightlate-12incomingkeyBack-finderexact1-zero-keyClear36focus-fiveNoJS; card/material/guide root32wordranges/three topcaptures+card390full viewed. Material383/activities.383.109 at320; card/guide fit. Site/code/data/CSV/config unchanged; no creator/physical/family/AT/truezoom/SEO claim. Different frozen full7 review/docs-only release required before separate repair; same retained05:07:03Z/conservative deadline05:49:53.460Z/completed1.",
       "independent_review": {
@@ -48,7 +48,15 @@
         "cycles": 1,
         "findings": "NoP0-P3",
         "receipt": "Harvey (01a180fd-e177-7741-ac0b-9923bfd34399), fresh independent full7 cycle1 PASS/noP0-P3. Independently228 nonmutating/exact7-163IDs-391refs-GSC100/priorroadmap preservation/privacy-EOF-whitespace/actualowners-staticCSVphantom/10prodbytes20modes8late12keyBack-finder5noJS/root32wordranges/six-source limits-two currentJPEGs/fourlenses-everysection-all13legacycard5/26 pass. Five bodies verified; 3MUK reviewer web timeout/Chrome denial, Master current body accessible. Frozen7/HEAD intact/browsers closed. Research approval only, no build/physical-family/AT/truezoom/production proof."
-      }
+      },
+      "completed_on": "2026-10-28",
+      "release": {
+        "commit": "4eba9bbdf0fc931f25a19fdf5904857d81ccde48",
+        "type": "docs-only",
+        "verification": "Fresh postpushfetch/mainclean0/0; frozen7/stagedwhitespace exit0/fullunpushedrange identity; no Pages wait",
+        "range_hash": "c1d789265dd5b4beb329b1607caabf6f8864645741d35004193fbc33a3284d78"
+      },
+      "completion_receipt": "COMPLETED learned-only RES079 4eba9bbdf0fc931f25a19fdf5904857d81ccde48: Harvey fresh full7 PASS/noP0-P3; Master229/independent228/exact7-163IDs-391refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/fullunpushedrange identity passed. Docs-only main push/freshfetch clean0/0 confirmed, no Pages wait or site delivery. Qualifies separate five-surface TapeTrain repair plus phantom-indoor declaration/materialroot32fit; maintained TapeRoad/indoorbytes/CSV/peers protected. Owned/physical/family outcomes UNKNOWN. Completed2, no fourth. Reviewer/browsers closed; factual7closeout then original retained05:07:03Z/conservative deadline05:49:53.460Z guard before third repair registration. November1/October30 retained."
     },
     {
       "id": "KAL-IMP-058",
