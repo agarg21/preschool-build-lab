@@ -1,7 +1,7 @@
 # Preschool Observational-Drawing Qualification
 
-KAL-RES-094, October 28, 2026. Research disposition recorded; independent
-review and docs-only release pending. Base b2bcedd0bbd170d7b7724f92446f1ed76fed6fb1.
+KAL-RES-094, October 28, 2026. COMPLETED learned-only research; reviewed
+docs release7130e42. Base b2bcedd0bbd170d7b7724f92446f1ed76fed6fb1.
 Actual start21:58:52Z/17:58:52EDT/count0/new-action deadline22:43:52Z/max3.
 Exact seven paths registered before research. No site or build preselected.
 
@@ -265,12 +265,12 @@ progress promise. November1/October30/globalcutoff unchanged.
 
 ## Independent Review And Release
 
-Master278/0fail native tests, diffcheck/jq,106trackedJSON/19unchangedCSV/
+Initial-freeze Master278/0fail native tests, diffcheck/jq,106trackedJSON/19unchangedCSV/
 2212rows including headers/191uniqueIDs/677relativeMDrefs/all101GSC/
 source-privacy/sevenSingleEOF PASS. Previous190roadmap items conserved;
 site/source/data/config unchanged,65sitemap/sevenarticles preserved.
-No generators required for docs-only work. Fresh different full-seven review
-and docs release pending.
+No generators required for docs-only work. The initial review/release gates
+were satisfied by the final review and release recorded below.
 Initial independent01a1848f-95c9-7900-83ad-831aba11bde1 full7 review FAIL:
 procedure P2, not content defect. Four mistaken negative-filter test runs
 executed excluded datecase/eight temporary-fixture sitemap.main calls.
@@ -278,8 +278,8 @@ Final positive-title277/0fail excluded it correctly, but does not erase the
 restriction breach. No content P0-P3; all672checkout/sevenhashes/HEAD/status/
 empty staging/raw index hash conserved. Own source/PDF/browser checks passed
 within recorded limits; one later desktop source image resolved, not a
-mechanics pass. Reviewer/browser closed. Fresh different compliant full7
-review required; this attempt does not authorize release.
+mechanics pass. Reviewer/browser closed. This attempt required a fresh
+compliant full7 review and did not authorize release.
 Freshdifferent01a18495-156d-7b92-8d8c-6d96548f36b5 full7/cycle2 PASS,
 noP0-P3. Independently273tests from58otherfiles plus four positive exact-title
 architecture cases =277pass/0fail/0skips; forbidden datecase never executed,
@@ -294,4 +294,15 @@ Reviewer source form-locator timeout corrected; in-scroll capture excluded
 and newly named settled captures inspected. Cookie/blur/date limits retained.
 Initial procedureFAIL remains factual, not release approval. Final reviewer
 and browsers closed/no server. Fullreport /tmp/kal-res094-review2-report.md.
-Exact docs release/factualcloseout next; no delivery or build approval yet.
+Reviewed docs release 7130e424413dc477ee63d831b644c10cfa2b5ac7 pushed under standing
+authority. Exact7 frozenstage/complete committed unpushed-range SHA256
+ef85591563291bb50efddcc4a403536efb7e1698d13693a852d90a69ff3c50a0
+identity/privacyEOF PASS. Completedprestagefetch/no divergence/push exit0/
+completedpostpushfetch clean0/0 verified22:25:34Z. Final metadata native278/
+679relative refs/sevenEOF PASS; factualcloseout/push/alignment next.
+Docs-only, no Pages wait, site delivery or build approval. No release blocker.
+Sameactual21:58:52Z/count1/deadline22:43:52Z/max3 retained; this run completed
+one learned-only transaction. No second selected and three is not a quota.
+Next eligible selection first checks pretend-shop retained ownership/closed
+decisions, then current question discovery only for a named missing gate;
+not a future progress promise or presumed guide.
