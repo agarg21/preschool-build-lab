@@ -1,5 +1,11 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP059 final full24/cycle2 Nash PASS/noP0-P3/native233. Exact reviewed main release/exactSHA production next; [packet](../reviews/tape-train-tracks-first-start-repair-2026-10-28.md). Third-final/no fourth; existing transaction finishes beyond selection deadline.
+
+IMP059 exact24 now includes six necessary prior fixtures registered before edits: additive Train QUICK dispatch/guide map/literal painter-tape match/no-cutdate. No prior behavior checks weakened.
+
+IMP059 REGISTERED854608c exact18: separately implement reviewed RES079 five-surface train-station start, phantomIndoor correction/materialroot32fit. Preserve maintainedTapeRoad/indoorbytes/CSV/noindex/peers. Same retained05:07:03Z/conservative deadline05:49:53.460Z/completed2/third-final/no fourth. FullQA/differentreview/exactSHA production required.
+
 COMPLETED learned-only RES079 4eba9bbdf0fc931f25a19fdf5904857d81ccde48: Harvey fresh full7 PASS/noP0-P3; Master229/independent228/exact7-163IDs-391refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/fullunpushedrange identity passed. Docs-only main push/freshfetch clean0/0 confirmed, no Pages wait or site delivery. Qualifies separate five-surface TapeTrain repair plus phantom-indoor declaration/materialroot32fit; maintained TapeRoad/indoorbytes/CSV/peers protected. Owned/physical/family outcomes UNKNOWN. Completed2, no fourth. Reviewer/browsers closed; factual7closeout then original retained05:07:03Z/conservative deadline05:49:53.460Z guard before third repair registration. November1/October30 retained.
 
 RES079 current decision IMPROVE five actual TapeTrain surfaces plus phantom-indoor declaration separately; DEFERnewURL. Preserve maintained TapeRoad/indoorbytes/CSV/peers; qualify exact editorial board/ownedtrain/three-strip station trial and measured materialroot32fit repair. [Evidence](../reviews/tape-train-tracks-first-start-audit-2026-10-28.md). Full7QA/different review/docs-only release required before separate build; same05:49:53.460Z conservative guard/completed1.

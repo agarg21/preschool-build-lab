@@ -74,11 +74,11 @@ test("literal matching, empty state, and clear work without changing the card so
 
   query.value = "painter tape";
   listeners.input();
-  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tube-sculpture.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
+  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tape-train-tracks.html", "cards/tube-sculpture.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
 
   query.value = "painter's tape";
   listeners.input();
-  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tube-sculpture.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
+  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tape-train-tracks.html", "cards/tube-sculpture.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
 
   for (const [term, expected] of [
     ["cup", "cards/color-mixing-cups.html"],

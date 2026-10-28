@@ -9,6 +9,7 @@ BASE_URL = "https://kidactivitylab.com"
 NON_CONTENT_HTML = {"googled495b3fc6f0765f8.html"}
 LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"}
 CONTENT_LASTMODS = {
+    "cards/tape-train-tracks.html": "2026-10-28",
     "cards/lego-color-tower.html": "2026-10-28",
     "cards/tube-sculpture.html": "2026-10-28",
     "cards/spoon-transfer.html": "2026-10-27",
@@ -29,7 +30,7 @@ CONTENT_LASTMODS = {
     "ages/activities-for-5-year-olds-at-home.html": "2026-10-28",
     "collections/building-activities-for-4-year-olds.html": "2026-10-28",
     "cards/paper-roll-play.html": "2026-10-27",
-    "collections/no-cut-preschool-activities.html": "2026-10-27",
+    "collections/no-cut-preschool-activities.html": "2026-10-28",
     "cards/duplo-games.html": "2026-10-27",
     "collections/fine-motor-activities-for-preschoolers.html": "2026-10-28",
     "articles/paper-straw-rocket.html": "2026-09-22",

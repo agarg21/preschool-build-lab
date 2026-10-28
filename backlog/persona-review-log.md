@@ -1,5 +1,9 @@
 # Persona Review Log
 
+## October28 - Train Station First Start
+
+[IMP059 packet](../reviews/tape-train-tracks-first-start-repair-2026-10-28.md) applies RES079 start-now/constraint/rescue/trust lenses and every visible block. Required outputs: owned train/all-child labels, adult board/tape checks, two visual lines/one station, free-motion trial/reset, one push/point/watch/end, conditional bare-board alternative and full collection. Five actual surfaces/two runnable; staticpeer and maintained depth/indoor bytes preserved. All13/noN-A rubric provisional until mobile task/review; no physical/family/AT/truezoom test.
+
 COMPLETED IMP058: Color Tower sorting-first repair production verified at 234745523d346149af8965775e5ad2cc9bb62451; exact-SHA Pages40637551276 SUCCESS. Pasteur final full24/cycle2 PASS/noP0-P3; Master229/independent228. Nine changed+three preserved live200bytes and same28modes/18incomingkeyboardBack/12touchBack/9outgoingBack/24disclosures/finder exact1-material1-zero-keyboardClear36focus/sevenNoJS/word-H1parentfit passed; live390/root32 top/setup viewed. No release marker exists; exact-SHA deployment plus bytes/tasks verified. No retry or sampled regression; known baselinefavicon404 only excluded. No physical/family/AT/truezoom/SEO result. Fresh releasefetch0/0; reviewer/browsers closed/server8792 stopped. First transaction complete; factual7 closeout/push/finalalignment then original retained05:07:03Z/conservative selection deadline05:49:53.460Z guard before next queue selection. November1/October30 retained.
 
 IMP058 Pasteur cycle1 independent24/26/all13/noN-A (sensory1/repetition1), noP0-P2. Two P3 fixes applied: physical Foundation page14 fragment/label/packet and target-card-only redundant Best for removal. Card age-band omission is not a task gap given explicit owned-label/readiness/point-watch-decline controls. Final full QA and reviewer confirmation pending; no outcome proof.

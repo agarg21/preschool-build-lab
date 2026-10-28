@@ -1,5 +1,11 @@
 # Product Learning Ledger
 
+## 2026-10-28 - IMP059 Train Station Implementation
+
+- Decision/persona: [repair packet](../reviews/tape-train-tracks-first-start-repair-2026-10-28.md), implements reviewed RES079 five-surface owned-train/cardboard station start plus materialroot32fit/phantomIndoor correction. Adult decides fit, prepares/trials/reset, offers one push/point/watch/end and collects; maintained TapeRoad depth/indoorbytes protected.
+- Hypothesis/classes: explicit visual rails/one station and conditional untaped rescue should make start or decline actionable without floor/mechanical-track promises. Source mechanisms SOURCE_BACKED; exact three-strip recipe/trials/roles/stop EDITORIAL_JUDGMENT; persona RESEARCH_HYPOTHESIS; technical checks MEASURED only as recorded; physical/child/time/mess/safety/SEO UNKNOWN.
+- Result/confidence/lesson/trigger: implementation pending fullQA/different review/exactSHA production; high inventory/technical confidence, moderate editorial utility. Tape rails are visual, not mechanical, and failed free movement must end rather than force. Reopen source/label/fit/criticaltask/clutter/peer/privacy/P0-P2/divergence; no fourth this run, November1/October30 unchanged.
+
 COMPLETED learned-only RES079 4eba9bbdf0fc931f25a19fdf5904857d81ccde48: Harvey fresh full7 PASS/noP0-P3; Master229/independent228/exact7-163IDs-391refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/fullunpushedrange identity passed. Docs-only main push/freshfetch clean0/0 confirmed, no Pages wait or site delivery. Qualifies separate five-surface TapeTrain repair plus phantom-indoor declaration/materialroot32fit; maintained TapeRoad/indoorbytes/CSV/peers protected. Owned/physical/family outcomes UNKNOWN. Completed2, no fourth. Reviewer/browsers closed; factual7closeout then original retained05:07:03Z/conservative deadline05:49:53.460Z guard before third repair registration. November1/October30 retained.
 
 ## 2026-10-28 - RES079 Tape Train First Start

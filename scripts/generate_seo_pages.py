@@ -134,13 +134,41 @@ ACTIVITIES = {
         "title": "Tape Train Tracks",
         "url": "../cards/tape-train-tracks.html",
         "ages": "3-6",
-        "time": "5 min",
-        "mess": "low",
-        "help": "low",
-        "materials": "masking tape, toy trains",
-        "best_for": "pretend play, floor maps, rainy days",
-        "steps": ["Make tracks.", "Add a station.", "Drive the train.", "Change tracks."],
-        "parent": "Test tape before sticking it down.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Editorial ages 3-6; check readiness",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult sets and stays",
+        "materials": "1 suitable owned hand-pushed toy train, 1 sacrificial cardboard board, owned removable painter tape",
+        "best_for": "one pretend station stop between visible tape lines, not mechanical tracks or a precision test",
+        "readiness_groups": [
+            ("Materials", "Choose ONE intact large owned hand-pushed toy train. Follow its age and warning labels for EVERY reachable child. No magnets, batteries, cords, detachable or loose small parts, damage, motor or launch mechanism, or linked train cars. No suitable owned train? Choose another activity, not a purchase. An owned large vehicle can use the separate Tape Road routine only if that activity's checks fit."),
+            ("Adult and space", "Use ONE intact flat sacrificial cardboard board, fully supported on a low stable clear surface away from edges and walkways. Adult selects owned removable painter tape whose instructions fit this use, follows its labels and removal limits, and controls the roll, strips and spares. No household-floor or furniture default, electrical or duct tape, stronger adhesive, blades, tools, heat or chemicals. Stay beside every reachable child. Skip mouthing, younger reach you cannot control, unavailable attention or inability to pause. Point, watch or decline; no forced touch or train sounds."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab. The one-train, three-strip start, fit trial, roles and stop rules are editorial choices, not a source-tested setup or safety guarantee. A brief tape test does not prove future clean removal. Owned fit, child response, time, mess, learning and safety outcomes are unknown."),
+        ],
+        "stop": "Stop for tape peeling, chewing or wrapping; toy mouthing, throwing, damage or loose parts; forced motion, board moving, materials leaving the setup, discomfort, surface change or attention shifting.",
+        "adult_setup_groups": [
+            ("Tape check", "BEFORE child access, adult makes short strips by hand away from children only if the owned tape permits; otherwise use an untaped board route or end. Press and gently remove ONE short tape test piece on that board per the tape's instructions; clear the piece and any bits. Cardboard may tear. Failed hold, shedding or uncertain fit or labels? Use an untaped board route or end, not stronger tape."),
+            ("Layout", "If continuing, lay TWO short straight parallel strips wider apart than the actual train, plus ONE short cross-strip joining them at the far end: the station mark. All three strips lie flat with no loose edges, within the board and comfortable reach. No extra ties, loop, crossing or props."),
+            ("Train trial", "Adult gently pushes the train along the clear gap to the station and stops. Wheels run on cardboard BETWEEN the lines, not on tape rails; the tape does not guide wheels mechanically. It must move freely without force, catching or board movement. Failed tape or route? Remove strips and use a bare-board trip ONLY if the train now moves freely and the board stays still. Otherwise end, never force motion. Return the train to the open end. Say: Take the train between these lines. Stop at this station mark."),
+        ],
+        "steps": [
+            "Push the train once between the lines toward the station mark, or point for the adult to do it. Watch or decline if wanted; stopping elsewhere is a valid finish.",
+            "If tape or the route does not fit, adult removes loose tape and points to a spot on the bare board as the pretend station. Only if the train moves freely on the still board, make one gentle untaped trip, watch or end.",
+            "Adult may reset the SAME train only if wanted. No speed or precision target, required sounds, longer route, extra pieces or required repeat. This is a pretend station stop, not a railway-building challenge.",
+        ],
+        "parent_label": "Rescue and cleanup",
+        "parent": "Adult collects the train, all used tape (ALL THREE route strips if laid, whether still attached or already removed), the tape roll and any bits; checks the surface and floor; follows the owned tape's removal guidance and stores all materials out of reach. Adult clears or discards a damaged board. Do not leave an accessible setup unattended. Setup, duration and mess have not been measured.",
+        "sources": [
+            ("Toy Association: Tape Track", "https://www.toyassociation.org/genius/play-ideas-tips/play-ideas/tape-track.aspx"),
+            ("Princeton: Train Time (2014)", "https://popgoesthepage.princeton.edu/train-time/"),
+            ("Preschool Toolkit: cardboard train tracks (2016)", "https://preschooltoolkit.com/blog/diy-train-tracks-for-pretend-play/"),
+            ("3M UK: follow owned tape and removal instructions", "https://www.3m.co.uk/3M/en_GB/home-improvement-eu/correct-tape-removal/"),
+            ("3M Canada: tape types and surface limits", "https://www.scotchblue.com/3M/en_CA/scotchblue-ca/your-questions/"),
+            ("AAP: toy labels and parts guidance", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx"),
+        ],
+        "source_note": "Sources checked October28,2026. Parallel tape routes, cardboard support and pretend station stops are source-backed mechanisms. Source photos show larger loops, ties and a crafted train, not this exact three-strip reduction or an approved owned toy/tape combination. Our quantity, straight geometry, board choice, trials, roles, alternatives, stops and collection are editorial, not an inspected creator-video procedure or tested setup. Source floor, electrical-tape, small-prop, tool, pull-cord, water and developmental claims are not transferred. No universal clean-removal, physical safety, clinical, learning or family outcome is established.",
     },
     "lego-color-tower": {
         "title": "LEGO or DUPLO Color Tower",
@@ -743,6 +771,14 @@ ACTIVITIES["lego-color-tower"]["start_cue"] = " ".join(
 ) + " Stop: " + ACTIVITIES["lego-color-tower"]["stop"]
 
 
+ACTIVITIES["tape-train-tracks"]["adult_setup"] = " ".join(
+    text for _, text in ACTIVITIES["tape-train-tracks"]["adult_setup_groups"]
+)
+ACTIVITIES["tape-train-tracks"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["tape-train-tracks"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["tape-train-tracks"]["stop"]
+
+
 PAGES = [
     {
         "path": "ages/activities-for-3-year-olds-at-home.html",
@@ -971,7 +1007,7 @@ PAGES = [
                 "link_text": "Open the base blanket-river card",
             },
         ],
-        "activities": ["tape-road", "tape-train-tracks", "sock-ball-roll", "blanket-river", "cardboard-car-ramp", "cup-tower", "magnetic-tile-house", "block-tower", "tape-city"],
+        "activities": ["tape-road", "sock-ball-roll", "blanket-river", "cardboard-car-ramp", "cup-tower", "magnetic-tile-house", "block-tower", "tape-city"],
         "related": ["rainy day activities for preschoolers", "active indoor games for preschoolers", "indoor gross motor activities for preschoolers", "screen free activities for kids indoors"],
         "related_routes": [
             ("Preschool building chooser", "Choose a material and structure job when the child wants a deeper build.", "../collections/building-activities-for-4-year-olds.html"),
@@ -1749,6 +1785,12 @@ def activity_card(activity):
         f'\n          <p><strong>Adult setup:</strong> {esc(activity["adult_setup"])}</p>'
         if activity.get("adult_setup") else ""
     )
+    if activity.get("adult_setup_groups"):
+        setup_paragraphs = "".join(
+            f'<p><strong>{esc(label)}:</strong> {esc(text)}</p>'
+            for label, text in activity["adult_setup_groups"]
+        )
+        adult_setup = '\n          <div class="activity-setup"><strong>Adult setup:</strong>' + setup_paragraphs + '</div>'
     source_note = ""
     if activity.get("sources"):
         links = "; ".join(

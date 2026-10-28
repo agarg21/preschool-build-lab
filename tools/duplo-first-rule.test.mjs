@@ -11,7 +11,7 @@ const before = (html, marker, steps) => {
 };
 
 test("rendered DUPLO card dispatches to a complete visible-copy rule", () => {
-  assert.match(fs.readFileSync("scripts/generate_card_pages.py", "utf8"), /slug in \{"cup-tower", "duplo-games", "tube-sculpture", "lego-color-tower"\}/);
+  assert.match(fs.readFileSync("scripts/generate_card_pages.py", "utf8"), /slug in \{"cup-tower", "duplo-games", "tube-sculpture", "lego-color-tower", "tape-train-tracks"\}/);
   assert.match(card, /class="kid-card duplo-game-card"/);
   before(card, "Copy beside me:", 'aria-label="Before starting"');
   for (const marker of ["4 large DUPLO bricks: 2 matching pairs", "matching shape-and-colour pairs", "age/warning labels", "skip if parts, pairs or attention do not fit", "Stop for mouthing", "not family-tested by Kid Activity Lab", "Leave it visible", "No timer, winner or height target"]) before(card, marker, 'class="steps-grid"');

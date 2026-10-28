@@ -14,6 +14,7 @@ const LEGACY_REDIRECT_FILE = path.join(
   "rainy-day-activities-for-preschoolers.html",
 );
 const DIRECT_GUIDE_ROUTES = new Map([
+  ["tape-train-tracks", "articles/painter-tape-road-kids.html"],
   ["cup-tower", "articles/paper-cup-tower-kids.html"],
   ["ball-maze-box", "articles/cardboard-ball-maze-kids.html"],
   ["paper-bridge", "articles/paper-bridge-challenge-kids.html"],
