@@ -9,6 +9,7 @@ BASE_URL = "https://kidactivitylab.com"
 NON_CONTENT_HTML = {"googled495b3fc6f0765f8.html"}
 LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"}
 CONTENT_LASTMODS = {
+    "cards/wind-tower-test.html": "2026-10-27",
     "cards/ramp-texture-test.html": "2026-10-27",
     "cards/water-drop-race.html": "2026-10-27",
     "cards/color-mixing-cups.html": "2026-10-27",
@@ -37,7 +38,7 @@ CONTENT_LASTMODS = {
     "cards/tape-road.html": "2026-10-05",
     "cards/foil-boat-test.html": "2026-09-24",
     "ages/stem-activities-for-4-year-olds.html": "2026-10-27",
-    "collections/original-stem-activities-for-4-year-olds.html": "2026-10-14",
+    "collections/original-stem-activities-for-4-year-olds.html": "2026-10-27",
     "articles/paper-bridge-challenge-kids.html": "2026-09-26",
     "cards/paper-chain-test.html": "2026-10-15",
     "cards/sound-shaker-match.html": "2026-10-17",

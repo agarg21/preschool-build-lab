@@ -793,6 +793,41 @@ th {
   margin: 8px 0 0;
 }
 
+.wind-tower-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.wind-tower-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.wind-tower-card .step-tile {
+  min-height: 0;
+}
+
+.wind-tower-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.wind-tower-card .wind-tower-materials,
+.wind-tower-card .wind-tower-readiness {
+  line-height: 1.5;
+}
+
+.wind-tower-card .wind-tower-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.wind-tower-card .wind-tower-readiness p {
+  margin: 8px 0 0;
+}
+
 .ramp-texture-card {
   max-width: 720px;
   margin: 0 auto;

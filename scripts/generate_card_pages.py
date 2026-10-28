@@ -92,6 +92,10 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "wind-tower-test": {
+        "kicker": "Build low | Adult fans",
+        "description": "Wind Tower Test activity card: a checked low block build, adult-only paper fan and standing, moved, fell or unclear result. Research-backed, not family-tested.",
+    },
     "ramp-texture-test": {
         "kicker": "Same car | Adult steadies",
         "description": "Ramp Texture Test activity card: adult-supported floor ramp, same-car releases and one optional secured cloth comparison, with an unclear-result end. Research-backed, not family-tested.",
@@ -752,6 +756,7 @@ def quick_page(slug):
     is_color_mix = slug == "color-mixing-cups"
     is_drop_tilt = slug == "water-drop-race"
     is_ramp_texture = slug == "ramp-texture-test"
+    is_wind_tower = slug == "wind-tower-test"
     has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge or is_cup_tower
     routes = related_routes_html(
@@ -775,8 +780,8 @@ def quick_page(slug):
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
         </div>'''
-    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt or is_ramp_texture:
-        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix" if is_color_mix else "drop-tilt" if is_drop_tilt else "ramp-texture"
+    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt or is_ramp_texture or is_wind_tower:
+        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix" if is_color_mix else "drop-tilt" if is_drop_tilt else "ramp-texture" if is_ramp_texture else "wind-tower"
         readiness = "\n".join(
             f'          <p><strong>{esc(label)}:</strong> {esc(text)}</p>'
             for label, text in activity["readiness_groups"]
@@ -850,7 +855,8 @@ def quick_page(slug):
         "kid-card ice-watch-card" if is_ice_watch else
         "kid-card color-mix-card" if is_color_mix else
         "kid-card drop-tilt-card" if is_drop_tilt else
-        "kid-card ramp-texture-card" if is_ramp_texture else "kid-card"
+        "kid-card ramp-texture-card" if is_ramp_texture else
+        "kid-card wind-tower-card" if is_wind_tower else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
@@ -865,7 +871,8 @@ def quick_page(slug):
         "ice-watch-card-1" if is_ice_watch else
         "color-mix-card-1" if is_color_mix else
         "drop-tilt-card-1" if is_drop_tilt else
-        "ramp-texture-card-1" if is_ramp_texture else "nav-stable-2"
+        "ramp-texture-card-1" if is_ramp_texture else
+        "wind-tower-card-1" if is_wind_tower else "nav-stable-2"
     )
     previous_video = '''
 
@@ -940,7 +947,9 @@ def cards_index():
             f'Adult steadies; child tilts or watches | {activity["time"]} · {activity["materials"]}'
             if slug == "water-drop-race" else
             f'Adult steadies; child releases or watches | {activity["time"]} · {activity["materials"]}'
-            if slug == "ramp-texture-test" else f'{activity["time"]} · {activity["materials"]}'
+            if slug == "ramp-texture-test" else
+            f'Adult controls paper fan; standing is a result | {activity["time"]} · {activity["materials"]}'
+            if slug == "wind-tower-test" else f'{activity["time"]} · {activity["materials"]}'
         )
         cards.append(
             f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(summary)}</span><template data-search="{esc(search_text)}"></template></a>'

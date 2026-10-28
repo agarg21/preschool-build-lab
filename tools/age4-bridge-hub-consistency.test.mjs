@@ -40,6 +40,6 @@ test("sitemap keeps the updated existing age-four hub and pack URLs", () => {
   const sitemap = fs.readFileSync("site/sitemap.xml", "utf8");
   assert.match(sitemap, /<loc>https:\/\/kidactivitylab\.com\/ages\/stem-activities-for-4-year-olds\.html<\/loc>\s*<lastmod>2026-10-27<\/lastmod>/);
   assert.equal(sitemap.split("<loc>https://kidactivitylab.com/ages/stem-activities-for-4-year-olds.html</loc>").length - 1, 1);
-  assert.match(sitemap, /<loc>https:\/\/kidactivitylab\.com\/collections\/original-stem-activities-for-4-year-olds\.html<\/loc>\s*<lastmod>2026-10-14<\/lastmod>/);
+  assert.match(sitemap, /<loc>https:\/\/kidactivitylab\.com\/collections\/original-stem-activities-for-4-year-olds\.html<\/loc>\s*<lastmod>2026-10-27<\/lastmod>/);
   assert.equal(sitemap.split("<loc>https://kidactivitylab.com/collections/original-stem-activities-for-4-year-olds.html</loc>").length - 1, 1);
 });

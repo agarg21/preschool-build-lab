@@ -453,13 +453,27 @@ ACTIVITIES = {
         "title": "Wind Tower Test",
         "url": "../cards/wind-tower-test.html",
         "ages": "4-6",
-        "time": "6 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "blocks, paper fan",
-        "best_for": "structure, stability, redesign",
-        "steps": ["Build a tower.", "Fan it gently.", "See what falls.", "Build it wider."],
-        "parent": "Keep towers low and fan gently.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Check placement and readiness",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult controls the paper fan",
+        "materials": "6 matching intact lightweight nonmagnetic blocks with no small or detachable parts, 1 adult-prepared folded paper fan",
+        "best_for": "noticing whether a low block build stands, moves or falls during adult fanning",
+        "readiness_groups": [
+            ("Materials", "Follow the owned toy labels and check blocks and paper for damage or loose pieces. Adult folds the paper fan and controls it and spares. No electric fan, hairdryer, heavy book or mouth blowing."),
+            ("Adult and space", "Use a level floor away from walking paths. Adult stays beside every reachable child. Before fanning, move everyone's hands and bodies clear of possible falling pieces; leave room to wave without touching blocks or people. Retrieve only after the fan stops and pieces settle."),
+            ("Fit or skip", "Try when the child can place blocks gently and follow a stop cue, or point and watch the adult. Skip if labels, mouthing, space, attention or keeping the fan clear do not fit. Stop if falling or noise is unwelcome."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab. Counts, layout and waves are editorial choices, not calibrated wind or tested protection."),
+        ],
+        "stop": "End for loose parts, mouthing, throwing, climbing, fan contact risk, discomfort or shifted attention. Stop fanning sooner if pieces move or fall, or anyone wants to stop. Never fan harder, move closer or build taller to force collapse.",
+        "adult_setup": "Adult checks a flat three-block base on the floor. Add up to three blocks on top only if steady and wanted; use no more than two layers and keep below the child's chest. If the blocks will not sit flat, use a single row or skip fanning. Choose one fan position with room for a small clear wave and keep it for any repeat. Keep spares out of reach.",
+        "steps": ["Place three blocks side by side. With adult help, add up to three on top only if steady, or watch. Keep the build below the child's chest.", "Move hands and bodies clear. Adult alone makes up to three small slow paper-fan waves from the chosen spot, without touching blocks or people. Stop sooner if pieces move or fall, or anyone wants to stop.", "Notice or point: standing, moved, fell or unclear. Wait for the fan to stop and pieces to settle before retrieving. One fan test is enough; you can finish."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If nothing moves or the result is unclear, finish without stronger or closer fanning. If wanted, adult helps make a lower or wider build from the same blocks and repeats from the same spot with the same gentle waves; force is not calibrated. Otherwise keep a flat row or end. Adult promptly puts the fan and blocks away and clears the floor. Duration and mess are not measured.",
+        "sources": [("Franklin Institute: block building and hand-held airflow", "https://fi.edu/en/science-and-education/science-recipes/building-tall"), ("Kansas Children's Discovery Center: standing and same-distance retesting", "https://kansasdiscovery.org/materials-testing-discovery-at-home/"), ("Boston Children's Museum: folded-paper fans and no-movement results", "https://resourcehub.bostonchildrensmuseum.org/resources/wind-races"), ("AAP: owned toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx")],
+        "source_note": "Sources reviewed October27,2026. Block building, hand-held airflow, descriptive observation and consistent-position retesting are source-backed. The six-block, at-most-two-layer floor default, adult-only paper fan, up-to-three gentle waves, readiness and stop rules are Kid Activity Lab editorial adaptations, not a tested setup. Source tall builds, electric fans, small loose objects, age labels, photos, timing and learning claims do not validate this arrangement. Owned material fit, fan force, stability, motion, family understanding, duration, mess, enjoyment, learning and safety outcomes are unknown. A standing or fallen build is not proof of wind resistance or safety; no clinical rule or product recommendation.",
     },
     "pattern-path": {
         "title": "Pattern Path",
@@ -612,6 +626,12 @@ ACTIVITIES["water-drop-race"]["start_cue"] = " ".join(
 ACTIVITIES["ramp-texture-test"]["start_cue"] = " ".join(
     text for _, text in ACTIVITIES["ramp-texture-test"]["readiness_groups"]
 ) + " Stop: " + ACTIVITIES["ramp-texture-test"]["stop"]
+ACTIVITIES["wind-tower-test"]["fit_cue"] = " ".join(
+    text for _, text in ACTIVITIES["wind-tower-test"]["readiness_groups"]
+)
+ACTIVITIES["wind-tower-test"]["start_cue"] = (
+    ACTIVITIES["wind-tower-test"]["fit_cue"] + " Stop: " + ACTIVITIES["wind-tower-test"]["stop"]
+)
 
 
 PAGES = [
@@ -1089,11 +1109,11 @@ PAGES = [
                 "mess": "Not measured",
                 "mess_label": "Dry setup; cleanup varies",
                 "help_label": "Adult stays involved",
-                "materials": "light blocks with no small or detachable parts, paper plate or folded paper fan",
-                "parent": "Check age labels and condition; keep towers low and skip if younger siblings can reach unsuitable pieces.",
+                "materials": ACTIVITIES["wind-tower-test"]["materials"],
+                "parent": ACTIVITIES["wind-tower-test"]["parent"],
                 "url": "../collections/original-stem-activities-for-4-year-olds.html#windproof-tower",
                 "link_text": "Open in original test pack",
-                "best_for": "structure, stability, redesign",
+                "best_for": ACTIVITIES["wind-tower-test"]["best_for"],
             },
             "foil-boat-test": {
                 "title": "Empty Foil Boat",
@@ -1198,15 +1218,16 @@ PAGES = [
             "wind-tower-test": {
                 "slug": "wind-tower-test",
                 "title": "Wind Tower",
-                "materials": "six blocks, one folded-paper fan",
-                "mission": "Build a six-block tower that stays up through three gentle fan waves.",
-                "adult_role": "Keep the tower low and do the same three gentle fan waves for each test.",
-                "steps": ["Build with all six blocks.", "Move hands away.", "Ask the adult to fan three times."],
-                "test": "Is the tower still standing after the third fan wave?",
-                "redesign": "Move the widest blocks to the bottom and test again.",
-                "rescue": "Begin with four blocks and a base two blocks wide.",
-                "stop": "Stop if blocks are thrown, stacked for climbing, or the child does not want another wind test.",
-                "parent": "Use lightweight blocks and keep the tower below the child's shoulders.",
+                "materials": ACTIVITIES["wind-tower-test"]["materials"],
+                "mission": "Build low, then watch one adult fan test. The build may stay standing.",
+                "adult_role": ACTIVITIES["wind-tower-test"]["adult_setup"],
+                "steps": ACTIVITIES["wind-tower-test"]["steps"],
+                "test": "Standing, moved, fell or unclear are all results; no collapse is required.",
+                "redesign": "Only if wanted, make a lower or wider build using the same blocks and repeat from the same fan position with the same gentle waves. This is not calibrated force.",
+                "rescue": ACTIVITIES["wind-tower-test"]["parent"],
+                "stop": ACTIVITIES["wind-tower-test"]["stop"],
+                "parent": ACTIVITIES["wind-tower-test"]["fit_cue"],
+                "stop_before_action": True,
             },
             "car-ramp-distance-test": {
                 "slug": "car-ramp-distance-test",
@@ -1663,7 +1684,7 @@ def engineering_activity_card(activity):
     early_stop = stop_html if activity.get("stop_before_action") else ""
     late_stop = "" if early_stop else stop_html
     source_note = ""
-    if activity["slug"] == "box-garage":
+    if activity["slug"] in {"box-garage", "wind-tower-test"}:
         links = "; ".join(f'<a href="{esc(url)}">{esc(label)}</a>' for label, url in activity["sources"])
         source_note = f'<details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
     return f'''        <article class="seo-activity engineering-challenge" id="{esc(activity["slug"])}">
