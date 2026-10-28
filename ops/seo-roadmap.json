@@ -9,7 +9,7 @@
       "id": "KAL-OPS-009",
       "title": "Reconcile stale contributor-next strategy with verified release",
       "kind": "current-strategy-release-truth-correction",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "31866fc018af089296fdc60e9d5c966c0d6eaa70",
       "exact_paths": [
@@ -36,10 +36,12 @@
       "invariants": "Do not edit site/generator/data/config/scheduler/ControlRoom or historical IMP038 packet. No new page, paid call, indexing request, product, credential/portrait, human-expertise/sole-authorship/human-review-everypage or SEO benefit claim. Retain all publication/persona/source/review/release gates. No re-opening completed seed/hunt/listening qualifications or unavailable family-testing dependency.",
       "observation_window": "Actual19:57:23Z/completed0/deadline20:42:23Z/max3; sprintactive/Nov1synthesisnotdue/Oct30exactrestoration/globalcutoff unchanged. One writer; factualdocs correction not attribution redeploy.",
       "reconsider_if": "Current source/site/release contradicts completed layer, live role route fails, independent P0-P2 or remote divergence; preserve/checkpoint and amend scope before any site correction. Next run inspect actualartifact/outcome, not heartbeat activation.",
-      "phase": "independently-reviewed-ready-for-docs-release",
+      "phase": "reviewed-docs-released-factual-closeout",
+      "release_commit": "5b2dd3e1b27c1bde58ebb437c3d58096bd4ef44a",
+      "release_evidence": "Exact7 frozenstage/completecommittedunpushedrange 555532ece1e41c546292904d07289ddba80f74b464080432eb8fe19ef07cb308 identity/privacyEOF PASS; completed pre-stage fetch/no divergence/push exit0/completed postpushfetch clean0/0 verified20:17:34Z. Docs-only/no Pages or productionfix. Currentanchor10/12criticalFAIL retained, qualified separate IMP070 next. Reviewer/browserclosed/no server.",
       "review_evidence": "Freshdifferent reviewer01a18421-aa67-7a83-8774-44b6141d76e5 (Dalton): full7cycle1PASS_WITH_P3/noP0-P2; sole seven-fragment coverage P3 corrected (return included), boundedcycle2PASS/no remaining findings. Independent275/0fail/0skipped/datecaseomitted; exactreverse4/prior186/190sourcehash/106JSON19CSV2212rows187IDs527MDrefs101GSC/privacyEOF PASS. ThreeHTML+twoCSS livebytes/EnterBack-freshhash/noJS/textfit/visuals independently reproduce existing32.672px occlusion; role10/12criticalFAIL retained. All667repo/HEAD/status/rawindex unchanged; helper created beforeMasterread/no execution or overwrite; helper encoding-path-scan adjustments passed. Reviewer/browserclosed/no server; no physical-family-SEO/AT/truezoom result or repair acceptance.",
       "decision": "CORRECT four stale-current strategy passages; preserve site/policy. Verified existing publisher-anchor defect320/root32 (H2top110.156/header142.828) qualifies separately registered IMP070 next after OPS009 release; no production repair or full role-task PASS by OPS009.",
-      "next_action": "Full276/structuredprivacyEOF/freshdifferent full7 independent review/exact docs release/alignment, then promptly register exact9 IMP070 bounded CSS anchor repair if original19:57:23/count0/deadline20:42:23/max3 permits. No overlapping writer or silent site expansion."
+      "next_action": "Factualsix-file closeout/push/alignment then clockguard and promptly register qualified exact9 IMP070/allSEVENtargetfragments. Sameactual19:57:23/completed1/deadline20:42:23/max3. No overlapping writer or silent site expansion; preserve currentstrategy f9ca558f unchanged."
     },
     {
       "id": "KAL-RES-091",

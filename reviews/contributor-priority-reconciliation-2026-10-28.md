@@ -1,6 +1,6 @@
 # Contributor Priority And Release-Truth Reconciliation
 
-KAL-OPS-009, October28,2026. Status: independently reviewed; release pending.
+KAL-OPS-009, October28,2026. Status: COMPLETED docs-only correction,5b2dd3e.
 Base31866fc018af089296fdc60e9d5c966c0d6eaa70.
 Heartbeat19:57:16.928Z; actual19:57:23Z/15:57:23EDT, count0,
 new-action deadline20:42:23Z/max3. Exact7 registered paths; Master sole writer.
@@ -245,7 +245,11 @@ Helpers created independently before Master helper read; no execution or
 capture overwrite, no generator entrypoint. Reviewer helper encoding/path/
 scan adjustments passed on rerun. Cycle2 only verifies coverage correction,
 no native/browser/source rerun. Reviewer and owned Chrome closed, no server.
-Pending completedfreshfetch/no divergence/
-frozenstage/completeunpushedrange/docs-onlymainpush/alignment.
+Released 5b2dd3e1b27c1bde58ebb437c3d58096bd4ef44a; completed pre-stage fetch/no divergence;
+exact7 frozenstage/complete committed unpushed-range SHA256
+555532ece1e41c546292904d07289ddba80f74b464080432eb8fe19ef07cb308
+identity/privacyEOF PASS. Push exit0; subsequent completedfetch clean0/0
+verified20:17:34Z. Sameactual19:57:23Z/completed1/deadline20:42:23Z/max3;
+factualsix-file closeout/push/alignment then promptly register qualified IMP070.
 No production fix or new deployment by OPS009. Source/role UI remains with the
 explicit anchor defect; next independent repair acceptance is not presumed.
