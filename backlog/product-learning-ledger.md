@@ -1,5 +1,11 @@
 # Product Learning Ledger
 
+## 2026-10-28 - KAL-RES-076 Completion
+
+COMPLETED learned-only 6d3963ff6046a192ee59790704f355f67fd67241, NYOctober28: Huygens final full7 PASS/no remainingP0-P3 after sole QA-wording correction; Master221/reviewer220/exact7-158IDs-373refs-GSC100/privacy/EOF/stagedwhitespace exit0. Fresh completedfetch/no divergence/emptyunpushed/frozenstage/complete committed-range identity passed; docs-only main push and fresh postpush clean0/0 confirmed at04:05:07Z. No site/Pages/build or physical/family outcome. Qualified next separate five-owner Tube repair plus phantom-declaration/card-fit correction; source/task collectionOctober27, independent completionOctober28. Completed3; same03:27:00Z/deadline04:12:00Z/no fourth. Reviewers/browsers closed; no active server/release; November1/October30 unchanged.
+
+Maintained-source/actual-owner audit decision: improve existing first attachment and discovery, not a new URL. Persona and hypothesis, source classes, result/unknowns, confidence/lesson and exact falsification triggers remain in the October27 RES076 entry and linked audit below. This is the same unit finalized after midnight, not an additional source-question sample or physical test.
+
 ## 2026-10-27 - KAL-RES-076 Tube Sculpture First Start
 
 - Decision/persona: [audit and brief](../reviews/tube-sculpture-first-start-audit-2026-10-27.md). IMPROVE five actual Tube Sculpture owners separately, DEFER newURL: exact adult first attachment/flat two-tube composition, role-fit/untaped-end/cleanup/trust limits; preserve whole/base/flat-rescue utility and building peers/assets. Remove only Tube's phantom preschool declaration without changing preschool output; fix measured card root32 word right356.453 at320. No CSV/video/physical outcome claim or implementation here.
