@@ -9,7 +9,7 @@
       "id": "KAL-RES-075",
       "title": "Qualify a no-prop Follow the Leader first-rule guide",
       "kind": "play-guide-discovery",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "dfd46a6dd3e85e961fab94f0a03ca33954ad1d10",
       "exact_paths": [
@@ -36,8 +36,8 @@
       "observation_window": "Sameheartbeat03:26:53.084Z/immutableactual03:27:00Z NYOctober27/completed1/max3/startdeadline04:12:00Z. IMP056ecef6bd/Pages40627797285/closeoutdfd46a6 complete; cleanfetch0/0. November1/October30 retained.",
       "reconsider_if": "Exact prior qualification/cleanexistingfit/currentadequatebody/no exactmaterialdemand/unsupported movement or role controls; no build absent all gates. P0-P2/privacy/divergence stop release.",
       "blockers": "No dependency blocker for research; exact demand/incremental utility/full home controls remain publication gates, not proof activity is unsuitable.",
-      "next_action": "Fresh completedfetch/no divergence/fullunpushed/exact7 reviewed stage/privacy/EOF/stagedwhitespace exit0/docs-onlymainpush/factualcloseout/alignment. No build.",
-      "phase": "independent_review_passed",
+      "next_action": "Factual7 closeout/alignment, then original03:27:00Z/04:12:00Z clock guard before any third-final selection. No Follow the Leader or freeze requalification without named new gap.",
+      "phase": "released",
       "decision": "DEFER a new Follow the Leader URL; REJECT no-equipment/adult-model/leader-turn generic differentiation. Current primary bodies already supply it; three adjacent caregiver bodies (two newly retained, one explicitly reused) do not establish exact material demand. No clean KAL owner, but full home controls/missing-output/demand gates remain; no build or family/outcome proof.",
       "qa_result": "Master native221, jq/onechangedJSON/157uniqueIDs/369localdocrefs/GSC100/privacy/exact7/EOF/whitespace PASS. Source PDFpage1 text+visual inspected after one web502/direct-download retry; no site/code/data/config change. Different full7 reviewer/fresh docs-only main release/alignment pending.",
       "independent_review": {
@@ -47,7 +47,15 @@
         "cycles": 1,
         "findings": "No P0-P3",
         "receipt": "Turing (01a1809b-40c4-70c1-a821-621bfe81de40), fresh independent full7 cycle1 PASS/noP0-P3. Independently220nonmutating/100GSC-157IDs-369docrefs/exact7/privacy-EOF-whitespace; five current HTML+three question bodies/BC PDFp1 text-suppliedvisual-directbytes/fourlenses-everysection-all13 planning17/24 mobileN-A pass. FrozenHEAD/hashes intact; site/code/data/config unchanged, no browser/physical/family/release claim. Reviewer closed; fresh exact docs-only release/alignment next. Same03:27:00Z/completed1/deadline04:12:00Z."
-      }
+      },
+      "completed_on": "2026-10-27",
+      "release": {
+        "commit": "affef5a0c9a277c8d05a6dadb5412d659c64b6f2",
+        "type": "docs-only",
+        "verification": "Postpush fresh completedfetch/mainclean0/0 at03:47:35Z; staged frozen7/complete unpushed range identity/stagedwhitespace exit0; no Pages wait",
+        "range_hash": "2b0ced6e537bedc592c98b53b4bb963b4092d5df28d871ccb06840497845b60b"
+      },
+      "completion_receipt": "COMPLETED learned-only affef5a0c9a277c8d05a6dadb5412d659c64b6f2: Turing full7 PASS/noP0-P3, native221/reviewer220; exact7/157IDs/369docrefs/GSC100/privacy/EOF/stagedwhitespace exit0. Fresh no-divergence fetch, frozen stage and complete unpushed range identity passed; docs-only main push and postpush fresh clean0/0 confirmed. DEFER Follow the Leader newURL/REJECT generic no-prop-model-turn differentiation; exact demand/missing-output/full home lineage gates remain. No site/Pages/build/outcome claim. Completed2; sameactual03:27:00Z/deadline04:12:00Z. Factual7 closeout/alignment then clock/durable selection; November1/October30 retained."
     },
     {
       "id": "KAL-IMP-056",
