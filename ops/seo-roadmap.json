@@ -9,7 +9,7 @@
       "id": "KAL-RES-073",
       "title": "Qualify an I Spy start for preschool non-readers",
       "kind": "play-lane-guide-discovery",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "38481e6",
       "exact_paths": [
@@ -37,8 +37,8 @@
       "observation_window": "Same heartbeat02:04:07.121Z/immutableactual02:04:12Z NYOctober27/completed1/max3/deadline02:49:12Z. Sprint endsOctober30 11:58:33Z; weeklyNovember1/globalNovember3 retained.",
       "reconsider_if": "Prior exact qualification or existing clean owner found; no exact demand or incremental utility; conflicting critical rule/material-role/space evidence, inaccessible current bodies, criticalclutter/P0-P2/privacy/divergence. Do not turn broad adjacent anecdotes into exact demand.",
       "blockers": "No dependency blocker for research. NewURL not eligible: exact demand and missing incremental output unestablished; no build promoted.",
-      "next_action": "Fresh completedfetch/no divergence/full unpushed/exact7 reviewed staging/private-unsafeclaim-EOF-whitespace exit0/docs-onlymainpush/factualcloseout/alignment. No I Spy build or cadence-only repeat.",
-      "phase": "independent_review_passed",
+      "next_action": "After factual closeout/alignment and original clock/count guard, separately register third-final Spoon Transfer first-start source-task audit: non-choking assurance, large-object/spoon fit, adult/younger reach and stop-cleanup current6owner gaps; prior onlyfinder audit. No recipe/build presumed or fourth action. I Spy reopens only exact demand plus missing-output gates.",
+      "phase": "released",
       "independent_review": {
         "reviewer": "Curie",
         "id": "01a18058-f64f-7c21-9856-a06095c6f343",
@@ -47,6 +47,12 @@
         "findings": "No remaining P0-P3; provenance-time P3 corrected and bounded re-review accepted",
         "scope": "Full exact7 at38481e6; sole corrected timing delta confirmed; other6 hashes/HEAD intact",
         "qa": "Curie (01a18058-f64f-7c21-9856-a06095c6f343) fresh different independent final full7 PASS/noP0-P3, cycle2/3. Nonblocking source-time P3 corrected02:22:43..02:28:08, exact response instantsUNKNOWN retained; reversed sole correction reproduces frozen packet, six peers/HEAD intact. Independently216nonmutating/154IDs-355docrefs-GSC100/exact7/privacy-EOF-whitespace/five primary+five public bodies/WisconsinPDF livebytes-text-page6visual/five productionbytes/1280x720 finder0-keyboardClear36focus-width and supplied mobilevisuals pass. Master217/fourfinder modes/oneNoJS distinct. DEFER/REJECT source inference/all13desk19/24-mobileN-A accepted; no build/outcome proof. Reviewer closed; fresh docs-only release next, same02:04:12Z/completed1/deadline02:49:12Z."
+      },
+      "release": {
+        "commit": "2f7fc8c2fe996c66fe2beaf2e2510cda4af15a37",
+        "type": "docs-only",
+        "pages": "N/A; no site/workflow change",
+        "verification": "Successful main push/fresh completed fetchclean0/0; exact7 reviewed staged/hash/privacy/EOF-whitespace exit0, complete unpushed payload identical. Timing P3 closed in final CuriePASS."
       }
     },
     {
