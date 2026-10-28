@@ -6,6 +6,51 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-077",
+      "title": "Qualify a shared oral-story first-turn job",
+      "kind": "create-imagine-guide-discovery",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "6f4200df8fc26532a91121bd754766b727999889",
+      "exact_paths": [
+        "seo/turn-taking-story-game-discovery-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "July29 retained exact broad storytelling activities for kids30/KD20 US TOOL_ESTIMATE is dated seed, not exact preschool turn-taking demand. RES053 paper-bag puppet craft/firstscene and RES062 treasure-map picture chain deferred; neither qualifies an oral co-created story first-turn mechanism. No targeted prior exact oral-turn qualification found in recent roadmap/source-title scan; no guide assumed.",
+      "evidence_class": [
+        "TOOL_ESTIMATE",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Adult with non-reader around3-6 needs a no-prop shared story starter, clear adult-child contribution/turn/pass and recovery when child only watches, changes direction or cannot add words, without another broad search or forced speech.",
+      "hypothesis": "Current oral-story query bodies and caregiver questions may establish a distinct Create/Imagine job and missing first-turn output beyond existing owners/adequate public answers; no demand, educational effect or build presumed.",
+      "acceptance": "Inspect3-5 current public question bodies retaining only dated paraphrased decision/ability constraints; one live queryfamily and direct primary answer bodies; reconcile exact demand/ownership/material-role-starter-turn-pass-stop/maintainability; fourlenses/everysection/all13 denominator/N-A. Explicit build/upgrade/preserve/defer/reject with named gates; no repeat puppet/map qualification.",
+      "qa_plan": "Native225/jq/changedJSON-GSC100-IDs-docrefs/privacy/EOF/exact7/diffcheck; finder/production baseline if task warrants, no unbuiltpage usability claim. Different fresh full7 read-only review/fixP0-P2/fresh exact docs-onlymainrelease/fullunpushed/stagedcheckexit0/factualcloseout/alignment. Any supported build separately registered before04:51:59Z and only after this release.",
+      "invariants": "All site/code/data/CSV/assets/config/automation/ControlRoom read-only. No paid spend/product/indexing/outreach/clinical or developmental guidance/childspeech or learning guarantee/firsthand-family claim. Protect all existing owners/observation windows; no story prompts or generic no-prop adaptation automatically qualify a URL.",
+      "observation_window": "Sameheartbeat04:06:53.241Z/immutableactual04:06:59Z NYOctober28/completed1/max3/startdeadline04:51:59Z. IMP057fdc4e15/Pages40632130385/closeout6f4200d fully complete and freshmainclean0/0. November1/October30 retained.",
+      "reconsider_if": "Prior exact qualification/cleanexistingowner/adequatecurrentanswers/no exactmaterialdemand or unresolved firstturn/sourcecontrols. Return preserve/defer/reject rather than invent novelty/outcomes. P0-P2/privacy/divergence stoprelease.",
+      "blockers": "No dependency blocker for research; exact material demand/incremental output/readiness remain unknown publication gates.",
+      "next_action": "Native225/full7structured/privacy/EOF/source-task review; fresh different full7 reviewer then exact docs-onlymainrelease/alignment. No oral-story build promoted.",
+      "phase": "review-passed-release",
+      "decision": "DEFER new oral-story URL; REJECT generic no-prop/adult-starter/sentence-turn/cue/pass/ending differentiation, already supplied by current bodies. Three qualitative question bodies counter assuming story requests mean willingness to co-author or adult-effort relief. Exact material demand/incremental output and one full default lineage remain gates; no build or clinical/family outcome.",
+      "qa_result": "RES077 Master225/jq/onechangedJSON/160uniqueIDs/380localdocrefs/GSC100/privacy/exact7/EOF/whitespace PASS. Retained CSV parsed with csv.DictReader; story30/KD20/game10/KD14/CPC0.00 dates/types verified, not summed/refreshed. EightHTML+Game166PDFpage6 text/localvisual/three public bodies with date/age/privacy limits; fiveproduction200bytes/fourfinder modes-threezeroqueries-keyboardClear36focus/one390NoJS and both supplied finder captures viewed. Allsite/code/data/config unchanged; no oral-game/child/AT/truezoom or guide-mobile task claimed. Different full7 review/fresh exact docs-only release pending; same04:06:59Z/completed1/deadline04:51:59Z.",
+      "independent_review": {
+        "reviewer": "Dirac",
+        "id": "01a180c8-1435-7623-b15f-51bff50600df",
+        "verdict": "PASS",
+        "cycles": 2,
+        "findings": "Sole P3 Boston source-context corrected; no remaining P0-P3",
+        "receipt": "Dirac (01a180c8-1435-7623-b15f-51bff50600df), fresh independent final full7 plus sole-row confirmation cycle2/3 PASS/no remainingP0-P3. Boston chalk/story context P3 corrected, oral-only extraction explicitly editorial; reverse sole row reproduces originalpacket, other6/HEAD intact. Independently224nonmutating/160IDs-380docrefs-GSC100/retainedCSV/privacy-EOF-whitespace/full8HTML-threequestionbodies/PDFpage6text-render/fiveproduction200bytes/fourfinder modes-threezeroqueries-keyboardClear36focus-oneNoJS/fourlenses-everysection-all13 desk20/24-mobileN-A pass. No generator mains/repo edits/clinical/game/child/AT/truezoom/release proof; browsers closed. Master225 distinct; fresh exact docs-only main release next, same04:06:59Z/completed1/deadline04:51:59Z."
+      }
+    },
+    {
       "id": "KAL-IMP-057",
       "title": "Repair Tube Sculpture attachment and first start",
       "kind": "existing-owner-repair",

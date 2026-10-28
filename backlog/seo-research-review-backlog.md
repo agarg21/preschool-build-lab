@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October28 - Shared Oral Story
+
+[RES077 discovery](../seo/turn-taking-story-game-discovery-2026-10-28.md): DEFER new oral-story URL; REJECT generic no-prop/adult-starter/sentence-turn/cue/pass/ending differentiation, already supplied by current bodies. Three qualitative question bodies counter assuming story requests mean willingness to co-author or adult-effort relief. Exact material demand/incremental output and one full default lineage remain gates; no build or clinical/family outcome. Current8HTML+PDF/three question bodies/fiveproductionbytes/fourfinder modes, desk20/24/mobileN-A; native225/different full7review/docs-only release required.
+
 COMPLETED learned-only 6d3963ff6046a192ee59790704f355f67fd67241, NYOctober28: Huygens final full7 PASS/no remainingP0-P3 after sole QA-wording correction; Master221/reviewer220/exact7-158IDs-373refs-GSC100/privacy/EOF/stagedwhitespace exit0. Fresh completedfetch/no divergence/emptyunpushed/frozenstage/complete committed-range identity passed; docs-only main push and fresh postpush clean0/0 confirmed at04:05:07Z. No site/Pages/build or physical/family outcome. Qualified next separate five-owner Tube repair plus phantom-declaration/card-fit correction; source/task collectionOctober27, independent completionOctober28. Completed3; same03:27:00Z/deadline04:12:00Z/no fourth. Reviewers/browsers closed; no active server/release; November1/October30 unchanged.
 
 ## October27 - Tube Sculpture First Start
