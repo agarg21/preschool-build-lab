@@ -57,7 +57,7 @@ test("Train discovery keeps noindex, routes, inventories and corrected dates", (
   assert.match(noCut,/Tape Train Tracks is an adult-prepared cardboard station start; duration is not measured/);
   assert.doesNotMatch(noCut,/Tape Train Tracks<\/a> are better for longer floor play/);
   assert.equal((read("cards.html").match(/class="mini-card"/g)||[]).length,36);
-  assert.equal((read("sitemap.xml").match(/<loc>/g)||[]).length,67);
+  assert.equal((read("sitemap.xml").match(/<loc>/g)||[]).length,66);
   for(const p of ["cards/tape-train-tracks.html","cards.html","ages/activities-for-4-year-olds-at-home.html","collections/no-cut-preschool-activities.html"])assert.ok(read("sitemap.xml").includes(p+"</loc>\n    <lastmod>2026-10-28</lastmod>"));
   assert.doesNotMatch(read("sitemap.xml"),/<loc>[^<]+materials\/painter-tape.html/);
 });

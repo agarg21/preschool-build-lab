@@ -59,6 +59,6 @@ test("Spoon Transfer keeps existing routes, finder and inventories while withdra
   assert.match(entry, /Adult checks, models and stays; scoop or point \| Open-ended/);
   assert.match(entry, /<template data-search="Spoon Transfer 1 intact LARGE owned play pom-pom/);
   assert.equal((read("cards.html").match(/class="mini-card"/g) || []).length, 36);
-  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 67);
+  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 66);
   assert.ok(read("sitemap.xml").includes("cards/spoon-transfer.html</loc>\n    <lastmod>2026-10-27</lastmod>"));
 });

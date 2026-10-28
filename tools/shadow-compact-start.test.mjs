@@ -61,6 +61,6 @@ test("Shadow identity, library count, scoped layout and sitemap retain their own
   assert.equal((library.match(/class="mini-card"/g) || []).length, 36);
   assert.match(library, /href="cards\/shadow-shape-match.html"><strong>Shadow Builder<\/strong><span>Adult-controlled wall light/);
   const sitemap = read("sitemap.xml");
-  assert.equal((sitemap.match(/<loc>/g) || []).length, 67);
+  assert.equal((sitemap.match(/<loc>/g) || []).length, 66);
   assert.ok(sitemap.includes("cards/shadow-shape-match.html</loc>\n    <lastmod>2026-10-27</lastmod>"));
 });

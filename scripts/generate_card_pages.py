@@ -289,6 +289,8 @@ def page(row, slug):
         return ramp_card_page(row)
     if slug == "paper-roll-play":
         return paper_roll_card_page(row)
+    if slug == "paper-plate-ramp":
+        return paper_plate_pause_page()
     is_tape_road = slug == "tape-road"
     steps = [row[f"kid_step_{i}"] for i in range(1, 5) if row.get(f"kid_step_{i}")]
     step_html = "\n".join(
@@ -694,6 +696,50 @@ def foil_boat_page():
 '''
 
 
+def paper_plate_pause_page():
+    activity = ACTIVITIES["paper-plate-ramp"]
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Paper Plate Ramp Paused | Kid Activity Lab</title>
+    <meta name="description" content="The incomplete Paper Plate Ramp version is paused. Check the different materials for the maintained cardboard-ramp guide, or decline.">
+    <meta name="robots" content="noindex,follow">
+    <link rel="canonical" href="https://kidactivitylab.com/cards/paper-plate-ramp.html">
+    <link rel="stylesheet" href="../styles.css?v=nav-stable-2">
+    <style>.plate-pause-card {{ max-width: 720px; margin: 0 auto; overflow-wrap: anywhere; }} .plate-pause-card h1 {{ font-size: min(1.7rem, 43px); line-height: 1.15; }} .plate-pause-card h2 {{ font-size: 1.15rem; }}</style>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="/">Kid Activity Lab</a>
+        <div class="nav-links"><a href="/">Home</a><a href="../original/">Original</a><a href="../cards.html">Cards</a></div>
+      </nav>
+    </header>
+    <main class="card-shell">
+      <article class="kid-card plate-pause-card">
+        <p class="kicker">Paused</p>
+        <h1>Paper Plate Ramp</h1>
+        <p><strong>Do not start this version.</strong></p>
+        <p><a href="{esc(activity['alternative_url'])}">{esc(activity['alternative_label'])}</a></p>
+        <p>{esc(activity['alternative_check'])}</p>
+        <p>{esc(activity['parent'])}</p>
+        <p>Research-backed decision; not family-tested by Kid Activity Lab. Time, mess and physical outcomes are unknown.</p>
+        <details>
+          <summary>Why this version is paused</summary>
+          <p>{esc(activity['pause_reason'])}</p>
+          <p><a href="https://kansasdiscovery.org/paper-plate-ramp-discovery-at-home/">Original Kansas Children's Discovery Center written project</a>; <a href="https://www.pnc.com/en/about-pnc/corporate-responsibility/grow-up-great/lesson-center/transportation/rolling-with-ramps.html">PNC cardboard-ramp context</a>; <a href="https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx">AAP owned-toy guidance</a>.</p>
+          <p>{esc(activity['source_note'])}</p>
+        </details>
+      </article>
+    </main>
+    <footer class="site-footer"><p><a href="../cards.html">Back to activity cards</a></p></footer>
+  </body>
+</html>
+'''
+
+
 def magnet_hunt_pause_page():
     activity = ACTIVITIES["magnet-hunt"]
     return f'''<!doctype html>
@@ -1030,6 +1076,8 @@ def cards_index():
         summary = (
             "Paused; choose a non-magnet activity"
             if slug == "magnet-hunt" else
+            "Paused; cardboard-ramp alternative uses different materials"
+            if slug == "paper-plate-ramp" else
             f'Toy-only, adult stays beside | {activity["time"]} · {activity["materials"]}'
             if slug == "blanket-river" else
             f'One-car no-cut start, adult stays beside | {activity["time"]} · {activity["materials"]}'

@@ -147,14 +147,19 @@ ACTIVITIES = {
     "paper-plate-ramp": {
         "title": "Paper Plate Ramp",
         "url": "../cards/paper-plate-ramp.html",
-        "ages": "4-6",
-        "time": "5 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "paper plate, car, books",
-        "best_for": "ramp experiments, flexible building",
-        "steps": ["Make a slope.", "Place a car.", "Let it roll.", "Change the ramp."],
-        "parent": "Adult helps bend or tape the plate.",
+        "ages": "Paused",
+        "time": "Paused",
+        "mess": "Not measured",
+        "help": "not runnable",
+        "materials": "Not a runnable plate setup",
+        "best_for": "Paused; choose a different-material ramp or end",
+        "steps": [],
+        "pause_reason": "The old plate, car and books instructions did not give a complete plate construction. The original museum project is a different cut-and-taped spiral around a cardboard tube. That project is not the procedure offered here.",
+        "alternative_url": "../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start",
+        "alternative_label": "Different materials: cardboard-ramp guide",
+        "alternative_check": "The alternative needs flat stiff cardboard, TWO broad sturdy closed books and a suitable intact owned toy vehicle, not a plate substitute. Follow owned toy age, warning and use labels for EVERY reachable child; avoid small or detachable parts, magnets and batteries. Adult clears floor space, sets and stabilizes the low support and stays beside all children. Read the guide's checks BEFORE child handling.",
+        "parent": "Only have a plate, unsuitable materials, mouthing, younger reach you cannot control or no adult attention? Do not switch; end or choose another activity. Do not bend, cut or tape a plate to improvise this old version. Pointing, watching or declining is valid. Adult puts the unused plate and spares out of reach. Stop for climbing, throwing, mouthing, sliding, damage, discomfort or lost attention; use the guide's rescue and collection before leaving.",
+        "source_note": "Research-backed decision, not family-tested by Kid Activity Lab. Source linkage and current written instructions were checked October28,2026; the creator video was not watched. The museum project is not being declared unsafe, and no plate construction is certified here. Pausing the incomplete quick version and offering the existing cardboard guide are editorial decisions. Owned fit, physical performance, timing, mess, understanding, enjoyment, learning and safety outcomes remain unknown.",
     },
     "tape-train-tracks": {
         "title": "Tape Train Tracks",
@@ -1248,7 +1253,7 @@ PAGES = [
             ("NAEYC: Two Mathematical Heads Are Better than One", "https://www.naeyc.org/resources/pubs/yc/fall2022/peer-based-math-learning"),
             ("NAEYC: The Intentional Teacher excerpt", "https://www.naeyc.org/sites/default/files/globally-shared/downloads/PDFs/resources/pubs/intentional-teacher-third-edition-chap-1-excerpt.pdf"),
         ],
-        "activities": ["car-ramp-distance-test", "paper-bridge", "cardboard-car-ramp", "paper-plate-ramp", "cup-tower", "magnetic-tile-ideas"],
+        "activities": ["car-ramp-distance-test", "paper-bridge", "cardboard-car-ramp", "cup-tower", "magnetic-tile-ideas"],
         "related": ["engineering activities for preschoolers", "science activities for preschoolers", "stem projects for preschoolers"],
     },
     {
@@ -1841,6 +1846,15 @@ def chooser_pick_cell(pick):
 
 
 def activity_card(activity):
+    if activity["url"] == "../cards/paper-plate-ramp.html":
+        return f'''        <article class="seo-activity plate-pause">
+          <h2>Paper Plate Ramp (paused)</h2>
+          <p><strong>Do not start this version.</strong> {esc(activity['pause_reason'])}</p>
+          <p><a href="{esc(activity['alternative_url'])}">{esc(activity['alternative_label'])}</a></p>
+          <p>{esc(activity['alternative_check'])}</p>
+          <p>{esc(activity['parent'])}</p>
+          <p>Research-backed decision; not family-tested by Kid Activity Lab. Time, mess and physical outcomes are unknown.</p>
+        </article>'''
     steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
     link = ""
     if activity["url"]:

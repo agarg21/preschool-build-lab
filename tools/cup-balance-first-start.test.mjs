@@ -57,6 +57,6 @@ test("Cup Balance keeps URL, legacy finder, math route and inventories", () => {
   assert.match(entry, /Adult holds and loads; child watches \| Open-ended/);
   assert.match(entry, /<template data-search="[^"]*Balance Basket Scale"/);
   assert.equal((read("cards.html").match(/class="mini-card"/g) || []).length, 36);
-  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 67);
+  assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 66);
   assert.ok(read("sitemap.xml").includes("cards/balance-scale-baskets.html</loc>\n    <lastmod>2026-10-27</lastmod>"));
 });
