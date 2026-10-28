@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-071",
+      "title": "Qualify Measuring Tape Jumps first start and toy-movement control",
+      "kind": "existing-owner-source-task-audit",
+      "status": "reviewed",
+      "registered_on": "2026-10-27",
+      "base_commit": "ed61b84",
+      "exact_paths": [
+        "reviews/measuring-tape-compact-start-audit-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Actual card/library/math owner5min/mediumhelp/paintertape-toy-floor/make marks-jump toy-see landing-repeat/late toy-not-kid note omits how toy moves, start/endpoints, adult control, actual comparison/unit, fit-stop-cleanup and local evidence boundary. Targeted retained history covers finder only, no completed first-start qualification. Prior Pattern release58a1102/Pages40610437940 succeeded, closeouted61b84 clean0/0.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Caregiver needs to choose/decline a concrete distance-comparison activity, understand toy movement and adult/material controls, read a result or uncertainty and stop-clean without broad search.",
+      "hypothesis": "Current primary measurement/movement guidance and actual three-owner task can qualify preserve/improve/pause/defer with a complete bounded default or an honest pause, not presume a toy-launch recipe or newURL.",
+      "acceptance": "Inspect one current live query family and primary bodies/relevant visuals; actual card/library/math source-task/retainedownership comparison, source-traced persona/fourlenses/everysection/all13 denominator. Return PRESERVE/IMPROVE/PAUSE/DEFER with precise material/measurement/role/movement/result-rescue-stop/claim gates. No site or recipe presumed.",
+      "qa_plan": "Native209/changedJSON-uniqueIDs-GSC100-docrefs/privacy/exact7/diffcheck plus explicit newfileEOF; livebyte/desktop-mobile-root32/incomingBack/finder/noJS baseline as appropriate. Different full7 independent read-only reviewer/fixP0-P2/fresh completed fetch/no divergence/fullunpushed/exactreviewedstage/stagedcheckexit0/docs-onlypush/alignment before separate supported build under originalguard.",
+      "invariants": "Allsite/code/dataCSV/assets/config/scheduler/ControlRoom read-only. Preserve released Pattern/Wind/Ramp and existing movement/distance owners. No paid/indexing/product/clinical/physical-family-learning-safety-SEO claims or newURL/demand proof.",
+      "observation_window": "Heartbeat2026-10-28T01:00:36.944Z/immutableactual01:00:43Z NYOctober27/completed0/max3/startdeadline01:45:43Z. November1 weekly/October30 sprint/globalcutoff unchanged.",
+      "reconsider_if": "Already completed qualification/adequate owner, source-material-motion-control conflict or clinical dependency, unsupported outcome/benefit, P0-P2/privacy/peerdrift/divergence. Research may pause/reject; no automatic build.",
+      "blockers": "None known; toy jump mechanism/source and valid measurement method unresolved.",
+      "next_action": "Fresh completedfetch/no divergence/fullunpushed/exactreviewed7stage/privateunsafeclaimscan/stagedcheckexit0/docs-onlymainpush/factualcloseout/alignment then separate supported3owner repair under originalguard.",
+      "decision": "IMPROVE3 existing owners to Toy Distance Marks qualitative static hand-placement/common-facing-edge comparison. Withdraw unspecified launch/jump/numeric-measurement claims; preserve all other owners/URLs; DEFER newURL.",
+      "reviewer": "Singer01a1800d-87c4-7263-887e-e73bf3af50ab corrected final full7 PASS/noP0-P3. Source-date P3 closed;208nonmutating/100GSC-150IDs-342refs/exact7/EOF-whitespace/privacy/current source-visual/ninebytes/390keyboard-finder checked, fullmatrixMaster-only.",
+      "qa_result": "Master209/JSON150IDs-342refs/GSC100/exact7/privacy/newfileEOF/diffcheck PASS. Legacy12modes/8late/6keyboardBack/finder-threeNoJS/ninelivebytes/root386 observed, not allfitpass."
+    },
+    {
       "id": "KAL-IMP-053",
       "title": "Make Pattern Path starter and next-piece choice explicit",
       "kind": "reviewed-five-owner-compact-start-repair",
