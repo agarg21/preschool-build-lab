@@ -9,7 +9,7 @@
       "id": "KAL-RES-071",
       "title": "Qualify Measuring Tape Jumps first start and toy-movement control",
       "kind": "existing-owner-source-task-audit",
-      "status": "reviewed",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "ed61b84",
       "exact_paths": [
@@ -37,10 +37,11 @@
       "observation_window": "Heartbeat2026-10-28T01:00:36.944Z/immutableactual01:00:43Z NYOctober27/completed0/max3/startdeadline01:45:43Z. November1 weekly/October30 sprint/globalcutoff unchanged.",
       "reconsider_if": "Already completed qualification/adequate owner, source-material-motion-control conflict or clinical dependency, unsupported outcome/benefit, P0-P2/privacy/peerdrift/divergence. Research may pause/reject; no automatic build.",
       "blockers": "None known; toy jump mechanism/source and valid measurement method unresolved.",
-      "next_action": "Fresh completedfetch/no divergence/fullunpushed/exactreviewed7stage/privateunsafeclaimscan/stagedcheckexit0/docs-onlymainpush/factualcloseout/alignment then separate supported3owner repair under originalguard.",
+      "next_action": "Factual7 closeout/alignment then separately register reviewed3owner Toy Distance Marks repair under originalguard; preserve peers/no newURL. Completed1/November1/October30 retained.",
       "decision": "IMPROVE3 existing owners to Toy Distance Marks qualitative static hand-placement/common-facing-edge comparison. Withdraw unspecified launch/jump/numeric-measurement claims; preserve all other owners/URLs; DEFER newURL.",
       "reviewer": "Singer01a1800d-87c4-7263-887e-e73bf3af50ab corrected final full7 PASS/noP0-P3. Source-date P3 closed;208nonmutating/100GSC-150IDs-342refs/exact7/EOF-whitespace/privacy/current source-visual/ninebytes/390keyboard-finder checked, fullmatrixMaster-only.",
-      "qa_result": "Master209/JSON150IDs-342refs/GSC100/exact7/privacy/newfileEOF/diffcheck PASS. Legacy12modes/8late/6keyboardBack/finder-threeNoJS/ninelivebytes/root386 observed, not allfitpass."
+      "qa_result": "209tests/exact7/JSON150IDs-342refs/GSC100/privacy-newfileEOF/whitespace PASS; Singer final full7PASS. Fresh completedfetch0/0/emptyunpushed/exactreviewedstaged7/stagedcheckexit0/docs-onlymainpush/postpushfreshfetchclean0/0 PASS. No site/Pages. Current source/task findings qualify static comparison only, not physical launch or numeric measurement.",
+      "release_commit": "cadc875"
     },
     {
       "id": "KAL-IMP-053",
