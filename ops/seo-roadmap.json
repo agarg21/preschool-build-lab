@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-090",
+      "title": "Qualify a preschool listening-walk observation job",
+      "kind": "bounded-explore-discover-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "79b8c63768d0f5e092b0888961d9852f852853cf",
+      "exact_paths": [
+        "seo/preschool-listening-walk-discovery-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "MEASURED",
+        "UNKNOWN"
+      ],
+      "evidence": "New direct heartbeat18:09:16.146Z; actual18:09:21Z/14:09:21EDT. Prior IMP069 and factualcloseout79b8c63 fullypushed/clean0/0, no active item. Targeted rg found no listening-walk/sound-walk/nature-journal/birdwatch/sit-spot/observation-walk qualification in seo/reviews/currenttargets; this is a bounded hypothesis, not demand or missing-output proof. Closed leaf/nature/photo-hunt hypotheses stay closed.",
+      "parent_problem": "A caregiver may need a no-collect/no-print ambient-sound observation start for ages3-6, with adult route/attention control and permission to watch, move on or end; exact parent demand and missing output must be established, not assumed.",
+      "hypothesis": "A listening-only observation job is distinct from collect/find hunts and indoor Sound Shaker matching, with a current material parent need and a maintainable useful output absent from existing live bodies. Reject/defer if current sources already supply the proposed simplification, demand is not established or ownership overlaps.",
+      "acceptance": "Inspect3-5 current public caregiver question bodies (date/URL/paraphrase/abilities/constraints only), one exact listening-walk query family with retained provider/sample limitations and ranking bodies, primary default/control lineage and current KAL owner/finder task. Return BUILD/UPGRADE/PRESERVE/DEFER/REJECT with exact unresolved gates and standalone reviewed build brief ONLY if all publication gates clear. Four source-derived lenses/everysection/all13 applicable dimensions with N/A reasons, no fake parent tests/outcomes or invented rank/demand/zero metrics.",
+      "qa_plan": "Research-only exact7. Full276tests/gitdiffcheck/jq/changedJSON and all retainedURL/source/privacy/EOF/MDrefs/roadmap uniqueness/all101GSC; preserve source/site/data/config byte identity. Concrete desktop/mobile existing discovery/owner task plus source task evaluation. Freshdifferent full7 read-only independent review max3/PASS orPASS_WITH_P3, then completedfetch/no divergence/exactfrozenstage/completeunpushedrange/docs-onlymainpush/finalalignment; no Pages wait.",
+      "invariants": "No site/generator/data/config/automation/ControlRoom/indexrequest/account/outreach/paid/product/newURL edits. No re-opening closed leaf/nature/photo-hunt merely for another variant; indoor Sound Shaker is not automatically outdoor owner. Question anecdotes not material demand. Raw usernames/private details/copied threads prohibited; outcomes UNKNOWN.",
+      "observation_window": "Actual18:09:21Z/completed0/deadline18:54:21Z/max3. Sprintactive/Nov1synthesisnotdue/Oct30exactrestoration/globalcutoff retained. One writer; independently finish research before any separate build.",
+      "reconsider_if": "Current question/source/ownership evidence contradicts job or reveals a verified independently eligible defect. Record changed scope before substantive edits; unavailable specific candidate gate does not block independent candidates. Never reset actualrunclock.",
+      "phase": "independent-pass-docs-release-required",
+      "review_evidence": "Freshdifferent01a183bf-3ed1-7cd0-b35a-8c2254c16273 full7cycle1PASS_WITH_P3/noP0-P2; sole67allowlist wordingP3 corrected, cycle2PASS/no remaining findings/revert-only hashidentity. Master276/independent275/source-browser-structuredprivacyEOF/conservation PASS; all665repo bytes/HEAD/status/rawindex/7hashes unchanged percycle. Helper-read-order caveat (read beforeindependenthelpercreation, noexecution/overwrite) retained. Reviewer/browserclosed/no server.",
+      "decision": "DEFER new listening-walk URL/card/guide; REJECT generic no-print/no-app/no-collect/seated starter differentiation; PRESERVE truthful library zero/recovery and indoor Sound Shaker. Exact demand and missing output unresolved, not no-demand or need-for-family-testing.",
+      "research_evidence": "Six currentprimary/specialist bodies/fourretainedqualitativequestions (threefocusage/oneadjacent2yo), exactquery sample rank-market-depth/metricsUNKNOWN; currentprimarybodies already supply simplifications. Site3bytes8modes4actualkeyBack2noJS/finderzeroClear36Sound1 PASS. CLI1280/390body/tips observed; RCNUIfailedhostname/webtextonly; NDNAactualPDF/renderinspected; Zoo404excluded. All13 NEWambienttask KAL2/26 CLI17/26/noN-A/criticalattention-route gap, not sitebug or physical-family-safety-SEO result.",
+      "next_action": "Completedfreshfetch/no divergence/exactfrozen7stage/rangeidentity/docs-onlymainpush/finalalignment. No qualified build; candidate-specific demand/output gates do not block an independent selection after completed transaction/actualclock guard."
+    },
+    {
       "id": "KAL-IMP-069",
       "title": "Make the Straw Bridge first joint and empty-span start runnable",
       "kind": "existing-owner-first-start-repair",

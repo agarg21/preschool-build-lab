@@ -2546,3 +2546,32 @@ observe for a post-release crawl or finalized page/query change.
   failure or future valid firsthand evidence.
 - Measurement boundary: no new demand/rank measure, actual assembly, child
   comprehension, enjoyment, timing, mess, learning, strength or safety result.
+
+## 2026-10-28 - KAL-RES-090 - Listening-Walk Qualification
+
+- Decision/persona: DEFER new guide; REJECT generic no-print/no-app/no-collect/
+  seated starter differentiation; PRESERVE truthful library zero and indoor
+  Sound Shaker. A source-derived caregiver needs a shared sound observation,
+  not on-time travel, independent occupation or a behavioural solution.
+- Hypothesis/sources: current six primary/specialist bodies, four retained
+  qualitative caregiver questions and exact listening-walk query sample in
+  [qualification](../seo/preschool-listening-walk-discovery-2026-10-28.md).
+  SOURCE_BACKED mechanisms, RESEARCH_HYPOTHESIS job/personas,
+  EDITORIAL_JUDGMENT disposition/rubric, MEASURED executed finder/browser
+  checks. Exact material demand/outcomes UNKNOWN, not zero.
+- Result: current sources already provide the generic simplifications;
+  exact demand and missing output remain gates. KAL ambient-task2/26 and
+  CLI source17/26/all13/no N/A are proxies, not old-task gains or family
+  evidence. Existing discovery3bytes8modes4keyBack2noJS passes. CLI desktop/
+  mobile body/tips observed; RCN UI unavailable, web text only.
+- Confidence/lesson: high source-overlap/ownership, moderate job hypothesis,
+  unknown demand/performance. Questions about walking pace or adult presence
+  must not become automatic demand for another outdoor activity.
+- Reopen: credible exact demand plus repeated missing attention/route output
+  and bounded maintained default; no requalification merely for cadence.
+- Review: Master276/independent275; freshdifferent01a183bf full7 cycle2 PASS/
+  no remaining findings after67-allowlist wording P3. Source/browser/privacy/
+  EOF/conservation/all665repo hashes pass; helper-read-order caveat retained
+  in qualification, no execution/overwrite. Exact docs release pending.
+- Boundary: no new URL/site edit, paid spend, physical/family/clinical/safety/
+  learning/engagement or ranking result.
