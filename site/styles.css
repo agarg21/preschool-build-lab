@@ -797,6 +797,46 @@ th {
   scroll-margin-top: max(104px, 6rem);
 }
 
+.color-tower-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.color-tower-card h1 {
+  font-size: 1.7rem;
+  line-height: 1.15;
+}
+
+.color-tower-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.color-tower-card .step-tile {
+  min-height: 0;
+}
+
+.color-tower-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.color-tower-card .color-tower-materials,
+.color-tower-card .color-tower-readiness {
+  line-height: 1.5;
+}
+
+.color-tower-card .color-tower-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.color-tower-card .color-tower-readiness p {
+  margin: 8px 0 0;
+}
+
 .tube-sculpture-card {
   max-width: 720px;
   margin: 0 auto;

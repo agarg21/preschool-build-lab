@@ -61,5 +61,8 @@ test("Pattern Path keeps identity, maintained depth ownership and inventories", 
   assert.equal((read("cards.html").match(/class="mini-card"/g) || []).length, 36);
   assert.match(read("cards.html"), /Adult sets ABAB; choose or point once \| Open-ended/);
   assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 67);
-  for (const path of ["cards/pattern-path.html", owners[1]]) assert.ok(read("sitemap.xml").includes(path + "</loc>\n    <lastmod>2026-10-27</lastmod>"));
+  for (const path of ["cards/pattern-path.html", owners[1]]) {
+    const date = path === owners[1] ? "2026-10-28" : "2026-10-27";
+    assert.ok(read("sitemap.xml").includes(path + "</loc>\n    <lastmod>" + date + "</lastmod>"));
+  }
 });

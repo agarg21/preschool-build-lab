@@ -9,12 +9,13 @@ BASE_URL = "https://kidactivitylab.com"
 NON_CONTENT_HTML = {"googled495b3fc6f0765f8.html"}
 LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"}
 CONTENT_LASTMODS = {
+    "cards/lego-color-tower.html": "2026-10-28",
     "cards/tube-sculpture.html": "2026-10-28",
     "cards/spoon-transfer.html": "2026-10-27",
     "cards/balance-scale-baskets.html": "2026-10-27",
     "cards/measuring-tape-jumps.html": "2026-10-27",
     "cards/pattern-path.html": "2026-10-27",
-    "collections/math-activities-for-4-year-olds-at-home.html": "2026-10-27",
+    "collections/math-activities-for-4-year-olds-at-home.html": "2026-10-28",
     "cards/wind-tower-test.html": "2026-10-27",
     "cards/ramp-texture-test.html": "2026-10-27",
     "cards/water-drop-race.html": "2026-10-27",
@@ -22,7 +23,7 @@ CONTENT_LASTMODS = {
     "cards/ice-melt-rescue.html": "2026-10-27",
     "cards/shadow-shape-match.html": "2026-10-27",
     "cards/box-garage.html": "2026-10-27",
-    "ages/activities-for-4-year-olds-at-home.html": "2026-10-27",
+    "ages/activities-for-4-year-olds-at-home.html": "2026-10-28",
     "ages/activities-for-6-year-olds-at-home.html": "2026-10-28",
     "cards/blanket-river.html": "2026-10-27",
     "ages/activities-for-5-year-olds-at-home.html": "2026-10-28",
@@ -30,7 +31,7 @@ CONTENT_LASTMODS = {
     "cards/paper-roll-play.html": "2026-10-27",
     "collections/no-cut-preschool-activities.html": "2026-10-27",
     "cards/duplo-games.html": "2026-10-27",
-    "collections/fine-motor-activities-for-preschoolers.html": "2026-10-27",
+    "collections/fine-motor-activities-for-preschoolers.html": "2026-10-28",
     "articles/paper-straw-rocket.html": "2026-09-22",
     "articles/paper-helicopter-kids.html": "2026-09-19",
     "articles/paper-cup-tower-kids.html": "2026-10-27",

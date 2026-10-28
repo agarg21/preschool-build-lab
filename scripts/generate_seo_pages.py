@@ -146,13 +146,35 @@ ACTIVITIES = {
         "title": "LEGO or DUPLO Color Tower",
         "url": "../cards/lego-color-tower.html",
         "ages": "4-6",
-        "time": "3 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "LEGO or DUPLO",
-        "best_for": "color sorting, counting, small builds",
-        "steps": ["Pick a color.", "Stack bricks.", "Count them.", "Try another color."],
-        "parent": "Use DUPLO if younger siblings are nearby.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Editorial ages 4-6; check readiness",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult stays beside setup",
+        "materials": "4 intact large owned DUPLO bricks: same shape, 2 matching-color pairs",
+        "best_for": "matching two visible colors, then an optional two-brick stack; no color naming or counting required",
+        "readiness_groups": [
+            ("Materials", "Use four intact large basic DUPLO bricks of the same compatible shape and footprint: two matching-color pairs, with two colors the child can distinguish. Follow the owned set's age and warning labels for EVERY reachable child. No small standard LEGO, loose or detachable small parts, magnets, battery pieces, damage, tools or mixed-family substitutes. No suitable owned set? Choose another activity, not a purchase."),
+            ("Adult and space", "Use a low stable clear surface away from edges and walkways. Adult stays beside every reachable child; keep spares and small LEGO out of reach. Skip for mouthing, younger reach you cannot control, unavailable attention or inability to pause. Point, watch or decline without forced touch, grip, color naming or counting. If the colors do not look distinct, watch an adult flat arrangement or end; do not quiz or correct the child."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab. The exact four-brick reduction, fit trial, roles and stop rules are editorial choices, not a source-tested recipe or safety guarantee. Owned fit, child response, time, mess, learning and safety outcomes are unknown."),
+        ],
+        "stop": "Stop for mouthing, throwing, damage or loose parts, forceful pulling, collapse, discomfort, pieces leaving the surface or attention shifting.",
+        "adult_setup": "BEFORE child access, gently check each matching pair joins, stays joined and separates without teeth, force or tools. Failed fit? Keep flat pairs or end, not smaller pieces or more pressure. Lay ALL FOUR loose again. Put ONE brick of each color side by side, separated and visible as seeds; keep the other two as choices. If modeling helps, place one choice beside its matching seed, then RETURN it to the choices; leave both seeds in place. Say: Which brick could go beside one that looks the same?",
+        "steps": [
+            "Choose one brick from the two choices. Put it BESIDE its matching-color seed, or point for the adult to place it. Offer the last brick or finish; no speed, score or spoken answer.",
+            "Optional: make ONE two-brick stack from a matching pair. Adult steadies the lower brick, studs up; align the matching brick above and press gently. No force. Keep both stacks on the surface and at two bricks high; try the other pair only if wanted.",
+            "If choosing or joining is difficult, leave flat pairs, watch or end. No taller tower or required repeat. Adult handles separation; do not pull hard or use teeth or tools.",
+        ],
+        "parent_label": "Rescue and cleanup",
+        "parent": "Flat pairs are a complete finish, not a failed tower. Adult collects ALL FOUR bricks and any bits, checks surface and floor, separates gently without teeth or tools, stores everything out of reach and clears the area. Do not leave an accessible setup unattended. Duration and mess have not been measured.",
+        "sources": [
+            ("Play Included: Sorting Bricks (undated public PDF, inspected October28)", "https://assets.ctfassets.net/ly9gc1zip4av/1wGLm5J367UbqaIHSibQFa/1a00039d471f36dce697d21d2980b1ee/ACTIVITY_02_-_SORTING_BRICKS.pdf"),
+            ("LEGO Foundation: Colour Sorting (2016 booklet, PDF page14 / printed26)", "https://education.theiet.org/media/5551/duplo-activity-booklet-pdf-1-140kb.pdf#page=14"),
+            ("LEGO: check the specific set's age markings", "https://www.lego.com/en-us/themes/duplo/about"),
+            ("AAP: toy labels and parts guidance", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx"),
+        ],
+        "source_note": "Play Included supports fewer bricks, two groups, a visible seed and adult modeling; the Foundation booklet supports color sorting followed by optional same-color building. Their larger or varied sets and photos do not validate this exact four-large-DUPLO routine. The Foundation's adjacent hidden-model activity is not used here. Play Included's current resource portal requires an account; this public PDF was inspected without one. Our quantity, geometry, pair trial, roles, alternatives, stop and collection rules are editorial, not an inspected creator-video procedure or tested setup. No clinical, developmental, safety or family outcome is established.",
     },
     "duplo-games": {
         "title": "DUPLO Games",
@@ -716,6 +738,11 @@ ACTIVITIES["tube-sculpture"]["start_cue"] = " ".join(
 ) + " Stop: " + ACTIVITIES["tube-sculpture"]["stop"]
 
 
+ACTIVITIES["lego-color-tower"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["lego-color-tower"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["lego-color-tower"]["stop"]
+
+
 PAGES = [
     {
         "path": "ages/activities-for-3-year-olds-at-home.html",
@@ -1114,7 +1141,7 @@ PAGES = [
             ("NAEYC: Two Mathematical Heads Are Better than One", "https://www.naeyc.org/resources/pubs/yc/fall2022/peer-based-math-learning"),
             ("NAEYC: The Intentional Teacher excerpt", "https://www.naeyc.org/sites/default/files/globally-shared/downloads/PDFs/resources/pubs/intentional-teacher-third-edition-chap-1-excerpt.pdf"),
         ],
-        "activities": ["car-ramp-distance-test", "paper-bridge", "cardboard-car-ramp", "paper-plate-ramp", "cup-tower", "magnetic-tile-ideas", "lego-color-tower"],
+        "activities": ["car-ramp-distance-test", "paper-bridge", "cardboard-car-ramp", "paper-plate-ramp", "cup-tower", "magnetic-tile-ideas"],
         "related": ["engineering activities for preschoolers", "science activities for preschoolers", "stem projects for preschoolers"],
     },
     {

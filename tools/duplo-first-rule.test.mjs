@@ -11,7 +11,7 @@ const before = (html, marker, steps) => {
 };
 
 test("rendered DUPLO card dispatches to a complete visible-copy rule", () => {
-  assert.match(fs.readFileSync("scripts/generate_card_pages.py", "utf8"), /slug in \{"cup-tower", "duplo-games", "tube-sculpture"\}/);
+  assert.match(fs.readFileSync("scripts/generate_card_pages.py", "utf8"), /slug in \{"cup-tower", "duplo-games", "tube-sculpture", "lego-color-tower"\}/);
   assert.match(card, /class="kid-card duplo-game-card"/);
   before(card, "Copy beside me:", 'aria-label="Before starting"');
   for (const marker of ["4 large DUPLO bricks: 2 matching pairs", "matching shape-and-colour pairs", "age/warning labels", "skip if parts, pairs or attention do not fit", "Stop for mouthing", "not family-tested by Kid Activity Lab", "Leave it visible", "No timer, winner or height target"]) before(card, marker, 'class="steps-grid"');
@@ -49,5 +49,8 @@ test("DUPLO discovery inventory and scoped fit retain one owner", () => {
   assert.match(fine, /font-size: min\(2\.5rem, 43px\)/);
   const sitemap = fs.readFileSync("site/sitemap.xml", "utf8");
   assert.equal([...sitemap.matchAll(/<loc>/g)].length, 67);
-  for (const path of ["cards/duplo-games.html", entries[3]]) assert.ok(sitemap.includes(`${path}</loc>\n    <lastmod>2026-10-27</lastmod>`));
+  for (const path of ["cards/duplo-games.html", entries[3]]) {
+    const date = path === entries[3] ? "2026-10-28" : "2026-10-27";
+    assert.ok(sitemap.includes(`${path}</loc>\n    <lastmod>${date}</lastmod>`));
+  }
 });
