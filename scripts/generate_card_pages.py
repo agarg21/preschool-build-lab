@@ -92,6 +92,10 @@ GUIDE_ROUTES = {
     },
 }
 QUICK_CARD_OVERRIDES = {
+    "pattern-path": {
+        "kicker": "One AB pair | Adult sets choices",
+        "description": "Pattern Path activity card: an adult-laid A-B-A-B starter, two next-piece choices, pointing or matching fallback, and one extension. Research-backed, not family-tested.",
+    },
     "wind-tower-test": {
         "kicker": "Build low | Adult fans",
         "description": "Wind Tower Test activity card: a checked low block build, adult-only paper fan and standing, moved, fell or unclear result. Research-backed, not family-tested.",
@@ -757,6 +761,7 @@ def quick_page(slug):
     is_drop_tilt = slug == "water-drop-race"
     is_ramp_texture = slug == "ramp-texture-test"
     is_wind_tower = slug == "wind-tower-test"
+    is_pattern_path = slug == "pattern-path"
     has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge or is_cup_tower
     routes = related_routes_html(
@@ -780,8 +785,8 @@ def quick_page(slug):
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
         </div>'''
-    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt or is_ramp_texture or is_wind_tower:
-        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix" if is_color_mix else "drop-tilt" if is_drop_tilt else "ramp-texture" if is_ramp_texture else "wind-tower"
+    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt or is_ramp_texture or is_wind_tower or is_pattern_path:
+        prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix" if is_color_mix else "drop-tilt" if is_drop_tilt else "ramp-texture" if is_ramp_texture else "wind-tower" if is_wind_tower else "pattern-path"
         readiness = "\n".join(
             f'          <p><strong>{esc(label)}:</strong> {esc(text)}</p>'
             for label, text in activity["readiness_groups"]
@@ -842,6 +847,10 @@ def quick_page(slug):
         early_guide = '''
 
         <p><a href="../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start">Basic ramp setup and troubleshooting</a>. The guide compares landing surfaces, not a cloth covering. <a href="../collections/original-stem-activities-for-4-year-olds.html#ramp-detective">Deeper surface-observation routine</a>.</p>'''
+    if is_pattern_path:
+        early_guide = '''
+
+        <p><a href="../collections/stem-activities-for-preschoolers.html#continue-a-pattern">Preschool pattern start and diagram</a>.</p>'''
     card_class = (
         "kid-card maze-card" if is_ball_maze else
         "kid-card bridge-card" if is_paper_bridge else
@@ -856,7 +865,8 @@ def quick_page(slug):
         "kid-card color-mix-card" if is_color_mix else
         "kid-card drop-tilt-card" if is_drop_tilt else
         "kid-card ramp-texture-card" if is_ramp_texture else
-        "kid-card wind-tower-card" if is_wind_tower else "kid-card"
+        "kid-card wind-tower-card" if is_wind_tower else
+        "kid-card pattern-path-card" if is_pattern_path else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
@@ -872,7 +882,8 @@ def quick_page(slug):
         "color-mix-card-1" if is_color_mix else
         "drop-tilt-card-1" if is_drop_tilt else
         "ramp-texture-card-1" if is_ramp_texture else
-        "wind-tower-card-1" if is_wind_tower else "nav-stable-2"
+        "wind-tower-card-1" if is_wind_tower else
+        "pattern-path-card-1" if is_pattern_path else "nav-stable-2"
     )
     previous_video = '''
 
@@ -949,7 +960,9 @@ def cards_index():
             f'Adult steadies; child releases or watches | {activity["time"]} · {activity["materials"]}'
             if slug == "ramp-texture-test" else
             f'Adult controls paper fan; standing is a result | {activity["time"]} · {activity["materials"]}'
-            if slug == "wind-tower-test" else f'{activity["time"]} · {activity["materials"]}'
+            if slug == "wind-tower-test" else
+            f'Adult sets ABAB; choose or point once | {activity["time"]} · {activity["materials"]}'
+            if slug == "pattern-path" else f'{activity["time"]} · {activity["materials"]}'
         )
         cards.append(
             f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(summary)}</span><template data-search="{esc(search_text)}"></template></a>'

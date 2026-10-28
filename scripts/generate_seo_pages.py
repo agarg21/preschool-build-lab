@@ -479,13 +479,27 @@ ACTIVITIES = {
         "title": "Pattern Path",
         "url": "../cards/pattern-path.html",
         "ages": "4-6",
-        "time": "4 min",
-        "mess": "low",
-        "help": "low",
-        "materials": "blocks, tiles, or paper squares",
-        "best_for": "patterns, sequencing, early math",
-        "steps": ["Pick two colors.", "Make a path.", "Say the pattern.", "Add one more."],
-        "parent": "Use pieces too large to mouth if younger siblings are nearby.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Check matching and placement",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult sets the starter and choices",
+        "materials": "6 intact lightweight nonmagnetic blocks: 3 of kind A and 3 of kind B, visibly different in shape, type or color; no small or detachable parts",
+        "best_for": "noticing and continuing one repeating AB pair",
+        "readiness_groups": [
+            ("Materials", "Adult follows owned toy labels and checks condition and suitability for every reachable child. Size alone is not assurance. Use two kinds the child can distinguish without naming colors."),
+            ("Adult and space", "Use a stable tabletop away from edges. This is a row of blocks, not a walking path. Adult stays beside every reachable child and controls spare pieces."),
+            ("Fit or skip", "Try when the child can match two kinds and gently place a piece, or point for the adult. Otherwise match two alike, watch or end. Skip if labels, mouthing, visibility or attention do not fit."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab. Counts, script, retry and controls are editorial choices."),
+        ],
+        "stop": "End for mouthing, throwing, damaged or loose parts, discomfort or shifted attention, or whenever the child wants to stop. Adult gathers all pieces and puts them away.",
+        "adult_setup": "Call the two kinds A and B. Lay four blocks A-B-A-B, using two of each kind. Name or point to the AB pair once. Offer the remaining A and B together and ask what comes next; do not supply the answer immediately.",
+        "steps": ["Look along A-B-A-B. Choose the next piece from the adult's A and B choices, or point for the adult to place it.", "If it continues the pattern, say or point to the AB part that repeats. No color names are needed.", "One extension is enough. You can watch, stop or help the adult collect the blocks; no need to keep repeating."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If B is chosen, point to the first AB pair and compare the second; offer one supported retry. Then end or match two alike with the adult. Matching is not a completed repeating pattern. No response is a reason to watch or end, not drill or assess. Adult collects and stores all blocks. Duration and mess are not measured.",
+        "sources": [("DREME: repeating units and concrete objects", "https://preschoolmath.stanford.edu/toolkit/patterns-at-a-glance/"), ("DREME: next-piece choices and pointing", "https://prek-math-te.stanford.edu/patterns-algebra/pattern-and-algebra-assessment-protocols"), ("AAP: owned toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx")],
+        "source_note": "Sources checked October27,2026. Repeated units, concrete objects, next-piece choices and pointing are source-backed. The six-piece, two-unit starter, adult roles, one-extension limit, retry, matching alternative and stop rules are Kid Activity Lab editorial adaptations, not a tested setup. DREME's assessment context is not our child assessment; source age labels and examples do not establish individual readiness. Owned material fit, understanding, enjoyment, learning, duration, mess and safety outcomes are unknown. No clinical rule, product recommendation or safety assurance.",
     },
     "measuring-tape-jumps": {
         "title": "Measuring Tape Jumps",
@@ -632,6 +646,9 @@ ACTIVITIES["wind-tower-test"]["fit_cue"] = " ".join(
 ACTIVITIES["wind-tower-test"]["start_cue"] = (
     ACTIVITIES["wind-tower-test"]["fit_cue"] + " Stop: " + ACTIVITIES["wind-tower-test"]["stop"]
 )
+ACTIVITIES["pattern-path"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["pattern-path"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["pattern-path"]["stop"]
 
 
 PAGES = [
@@ -1318,6 +1335,7 @@ PAGES = [
         "primary": "math activities for 4 year olds at home",
         "title": "Math Activities for 4 Year Olds at Home | Kid Activity Lab",
         "h1": "Math activities for 4 year olds at home.",
+        "head_style": ".hero h1 { overflow-wrap: anywhere; }",
         "kicker": "Early math",
         "description": "Hands-on math activities for 4 year olds at home: patterns, counting, measuring, comparing weight, sorting colors, towers, and tape marks.",
         "intro": "At age 4, math works best when it is built into play. Counting cups, repeating patterns, comparing distance, and balancing objects all give a child math language without a worksheet.",
@@ -1650,7 +1668,9 @@ def activity_card(activity):
         source_note = f'\n          <details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
     depth_links = (
         '\n          <p><a href="../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start">Basic ramp setup and troubleshooting</a> (the guide compares landing surfaces, not a cloth covering). <a href="../collections/original-stem-activities-for-4-year-olds.html#ramp-detective">Deeper surface-observation routine</a>.</p>'
-        if activity["url"] == "../cards/ramp-texture-test.html" else ""
+        if activity["url"] == "../cards/ramp-texture-test.html" else
+        '\n          <p><a href="../collections/stem-activities-for-preschoolers.html#continue-a-pattern">Preschool pattern start and diagram</a> with readiness alternatives.</p>'
+        if activity["url"] == "../cards/pattern-path.html" else ""
     )
     return f'''        <article class="seo-activity">
           <div>

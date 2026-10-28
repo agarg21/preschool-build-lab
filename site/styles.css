@@ -793,6 +793,45 @@ th {
   margin: 8px 0 0;
 }
 
+#continue-a-pattern {
+  scroll-margin-top: max(104px, 6rem);
+}
+
+.pattern-path-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.pattern-path-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.pattern-path-card .step-tile {
+  min-height: 0;
+}
+
+.pattern-path-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.pattern-path-card .pattern-path-materials,
+.pattern-path-card .pattern-path-readiness {
+  line-height: 1.5;
+}
+
+.pattern-path-card .pattern-path-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.pattern-path-card .pattern-path-readiness p {
+  margin: 8px 0 0;
+}
+
 .wind-tower-card {
   max-width: 720px;
   margin: 0 auto;
