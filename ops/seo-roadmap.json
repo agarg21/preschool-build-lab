@@ -6,6 +6,51 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-072",
+      "title": "Qualify Balance Basket Scale assembly, zero and adult control",
+      "kind": "existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "3150940",
+      "exact_paths": [
+        "reviews/balance-basket-first-start-audit-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "RES072 decision IMPROVE existing card/library/math separately to Cup Balance Watch: selected paper-cup handle lineage/symmetric central adult support/empty-level-freehang/lower-before-loading/point-watch-unclear-end/disassemble. No doors/pencil-book mounts/child handling/compulsory balance/numeric or equal-mass claim. Current primary bodies/two viewed source visuals/nine200bytes/12modes-fit/8late/6keyboardBack/finder-threeNoJS; legacy7/26 all13/no N-A, critical controls override. Native213/JSON-GSC-docrefs/privacy/exact7/different full7 review/docs-only release pending. Same01:00:43Z/completed2/third-final/no fourth; next eligible run separate repair; November1/October30 retained.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Caregiver must choose/decline a weight-comparison setup, know complete adult assembly/material controls, what an initially empty/tilted balance means, how to place/remove a load or watch, and stop-clean without broad search.",
+      "hypothesis": "Current primary balance/measurement/material guidance and actual3owner task can qualify preserve/improve/pause/defer with exact assembly-tare-role-control and interpretation limits; no hanger recipe or newURL presumed.",
+      "acceptance": "Currentlive queryfamily/primarybodies/relevantvisuals; actualcard-library-math task/maintained ownercomparison; source-traced persona/fourlenses/everysection/all13 denominator; PRESERVE/IMPROVE/PAUSE/DEFER with precise material-support-attachment-emptybalance-loading-meaning-rescue-stop gates. Research-only, third-final/no fourth.",
+      "qa_plan": "Native213/changedJSON-uniqueIDs-GSC100-docrefs/privacy/exact7/newfileEOF/diffcheck; livebytes/desktop-mobile-root32/keyboardBack/finder/noJS baseline as appropriate. Different full7 independent read-only reviewer/fixP0-P2/fresh completedfetch-no divergence/fullunpushed/exactreviewedstage-stagedcheckexit0/docs-onlymainpush/factualcloseout/alignment. Any supported implementation next eligible run, not fourth.",
+      "invariants": "Allsite/code/dataCSV/assets/config/scheduler/ControlRoom read-only; preserve delivered ToyDistance/Pattern/Wind/Ramp/Sock/Road and other owners. No productrecommendation/paid/indexing/outreach/clinical/physical-family-learning-safety-SEO claims or newURL/demand proof. Complete-source adaptation not arbitrary firsthand gate.",
+      "observation_window": "Sameheartbeat01:00:36.944Z/immutableactual01:00:43Z NYOctober27/completed2/third-final/no fourth/deadline01:45:43Z. Fresh main0/0/base3150940. November1/October30/globalcutoff retained.",
+      "reconsider_if": "Already qualified/adequate owner, source material/attachment/support/tare/role contradiction, clinical/product dependency, criticalclutter/P0-P2/privacy/peerdrift/divergence. Honest pause/decline preferable to invented assembly or inference from source photo.",
+      "blockers": "No dependency blocker. Owned material behavior/outcomes UNKNOWN; decline and uncalibrated observation limits explicit.",
+      "next_action": "Fresh completed fetch/no divergence/full unpushed review/exact7 staged privacy and whitespace exit0/docs-only main push/factual closeout/finalalignment. No fourth; next eligible heartbeat separate Cup Balance Watch three-owner repair.",
+      "phase": "independent_review_passed",
+      "independent_review": {
+        "reviewer": "Raman",
+        "id": "01a1802c-2514-7280-84e5-51d11f3176a8",
+        "verdict": "PASS",
+        "findings": "No P0-P3",
+        "base": "3150940a27d670cd64635007f23395c51d3bf826",
+        "scope": "All exact7; frozen HEAD and hashes intact; read-only",
+        "qa": "212nonmutating/100GSC/152IDs/345refs/exact7/EOF-whitespace/privacy/ninebytes/5primary bodies/two supplied visuals/nine normaltext modes/390routes-finder. Full12mode-root32-noJS Master-only/native213 distinct."
+      },
+      "qa_result": "Master native213/JSON-GSC100-152IDs-345docrefs/exact7/privacy/EOF-whitespace; ninebytes/12modes-fit/8late/6keyboardBack/finder/threeNoJS. No site change."
+    },
+    {
       "id": "KAL-IMP-054",
       "title": "Replace undefined toy jumping with an honest distance comparison",
       "kind": "reviewed-three-owner-first-start-repair",

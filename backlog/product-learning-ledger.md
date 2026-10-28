@@ -1,5 +1,15 @@
 # Product Learning Ledger
 
+RES072 learned-only decision independently accepted by Raman full7 PASS/noP0-P3; Master213/reviewer212nonmutating and exact7 structured/privacy/EOF pass. [Audit](../reviews/balance-basket-first-start-audit-2026-10-27.md); docs-only release pending, no site/physical outcome.
+
+## 2026-10-27 - KAL-RES-072 Balance Basket First Start
+
+- Decision/persona: [three-owner audit](../reviews/balance-basket-first-start-audit-2026-10-27.md) qualifies a separate adult-controlled cup observation, not a newURL or accurate weighing task. Younger reach/uneven empty cups/unclear motion/divided attention stress.
+- Hypothesis/result: explicit assembly, symmetric support, empty-level check and supported loading can replace improvisation; observed legacy7/26/all13 critical controls fail despite responsive fit. Source reduction qualified, site repair not implemented.
+- Sources/classes: current PBS SoCal/PBS Parents/PBS-MPT PDF/NRICH bodies and two viewed visuals SOURCE_BACKED; earlier same-invocation AAP reused explicitly. Browser/repo/GSC MEASURED; persona RESEARCH_HYPOTHESIS; exact adult-role/floor-load/stop recipe and rubric EDITORIAL_JUDGMENT; owned mechanics/time/mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson: high inspected omissions/ownership, moderate proxy utility. Empty/free baseline and explicit suspension/loading roles are instructions, not optional rescue. Falsify source/role/attachment/zero conflict, mass/calibration implication, adequate existing owner, clutter/P0-P2/privacy/peerdrift/divergence.
+- Boundary/next: ninebytes/12modes/8late/6keyboardBack/finder-threeNoJS; no physical/family/AT/truezoom/demand proof. Native213/full7 review/docs-only release pending; third-final/no fourth, separate three-owner repair next eligible run. November1/October30 retained.
+
 COMPLETED reviewede7d3aec0e53d9c224dac5d33020c44c82d67c4ad/Copernicus full16 PASS/native213/exactSHA Pages40615364353 success/no marker. Five affected/seven preserved live200bytes/same12productionmodes-6incomingBack-4touch-3outgoingMathBack-8disclosures-newoldAlias1-painter3-zero-keyboardClear36focus/threeNoJS/canonicalH1creditimages-allwordfit-parentfit/live390-root32 viewed pass. No release retry/regression/outcome claim; fresh completedfetchmainclean0/0/reviewer closed/server8788 stopped. Completed2; factual7 closeout/alignment then original01:00:43Z/01:45:43Z guard before any third selection. November1/October30 retained.
 
 Copernicus01a18019-4090-7ec1-ba0d-5ef0e37e7aeb fresh different independent full16 cycle-one PASS/noP0-P3;212nonmutating/fournew/exact5outputs-94site-35canonical-35library-7math peers/PAGES unchanged/73HTML-1013refs-89fragments-8LD-67URLs/100GSC-151IDs-354refs/privacy-EOF/12modes-keyboardBack-disclosures-finder-newoldalias-painter3-zero-Clearfocus/current sourceprinciples-fourlenses-everysection-all13 pass. FullwordRange/touch/noJS/twiceaggregate Master-only213 distinct; reviewer root32 temporary CSS-only proxy, not file edit/truezoom. Fullparsed frozen16/HEAD intact/reviewer closed; fresh reviewed main release/exactSHA production next. Same01:00:43Z/completed1/01:45:43Z.
