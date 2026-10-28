@@ -9,7 +9,7 @@
       "id": "KAL-RES-077",
       "title": "Qualify a shared oral-story first-turn job",
       "kind": "create-imagine-guide-discovery",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "6f4200df8fc26532a91121bd754766b727999889",
       "exact_paths": [
@@ -37,10 +37,10 @@
       "observation_window": "Sameheartbeat04:06:53.241Z/immutableactual04:06:59Z NYOctober28/completed1/max3/startdeadline04:51:59Z. IMP057fdc4e15/Pages40632130385/closeout6f4200d fully complete and freshmainclean0/0. November1/October30 retained.",
       "reconsider_if": "Prior exact qualification/cleanexistingowner/adequatecurrentanswers/no exactmaterialdemand or unresolved firstturn/sourcecontrols. Return preserve/defer/reject rather than invent novelty/outcomes. P0-P2/privacy/divergence stoprelease.",
       "blockers": "No dependency blocker for research; exact material demand/incremental output/readiness remain unknown publication gates.",
-      "next_action": "Native225/full7structured/privacy/EOF/source-task review; fresh different full7 reviewer then exact docs-onlymainrelease/alignment. No oral-story build promoted.",
-      "phase": "review-passed-release",
+      "next_action": "Factual7 closeout/alignment then actual04:06:59Z/04:51:59Z guard; third-final LEGO Color Tower source/task qualification only if retained gap remains. No oral-story/puppet/map requalification absent named gap.",
+      "phase": "released",
       "decision": "DEFER new oral-story URL; REJECT generic no-prop/adult-starter/sentence-turn/cue/pass/ending differentiation, already supplied by current bodies. Three qualitative question bodies counter assuming story requests mean willingness to co-author or adult-effort relief. Exact material demand/incremental output and one full default lineage remain gates; no build or clinical/family outcome.",
-      "qa_result": "RES077 Master225/jq/onechangedJSON/160uniqueIDs/380localdocrefs/GSC100/privacy/exact7/EOF/whitespace PASS. Retained CSV parsed with csv.DictReader; story30/KD20/game10/KD14/CPC0.00 dates/types verified, not summed/refreshed. EightHTML+Game166PDFpage6 text/localvisual/three public bodies with date/age/privacy limits; fiveproduction200bytes/fourfinder modes-threezeroqueries-keyboardClear36focus/one390NoJS and both supplied finder captures viewed. Allsite/code/data/config unchanged; no oral-game/child/AT/truezoom or guide-mobile task claimed. Different full7 review/fresh exact docs-only release pending; same04:06:59Z/completed1/deadline04:51:59Z.",
+      "qa_result": "RES077 Master225/jq/onechangedJSON/160uniqueIDs/380localdocrefs/GSC100/privacy/exact7/EOF/whitespace PASS. Retained CSV parsed with csv.DictReader; story30/KD20/game10/KD14/CPC0.00 dates/types verified, not summed/refreshed. EightHTML+Game166PDFpage6 text/localvisual/three public bodies with date/age/privacy limits; fiveproduction200bytes/fourfinder modes-threezeroqueries-keyboardClear36focus/one390NoJS and both supplied finder captures viewed. Allsite/code/data/config unchanged; no oral-game/child/AT/truezoom or guide-mobile task claimed. Dirac finalPASS and fresh exact docs-only release/alignment complete; same04:06:59Z/completed1/deadline04:51:59Z.",
       "independent_review": {
         "reviewer": "Dirac",
         "id": "01a180c8-1435-7623-b15f-51bff50600df",
@@ -48,7 +48,15 @@
         "cycles": 2,
         "findings": "Sole P3 Boston source-context corrected; no remaining P0-P3",
         "receipt": "Dirac (01a180c8-1435-7623-b15f-51bff50600df), fresh independent final full7 plus sole-row confirmation cycle2/3 PASS/no remainingP0-P3. Boston chalk/story context P3 corrected, oral-only extraction explicitly editorial; reverse sole row reproduces originalpacket, other6/HEAD intact. Independently224nonmutating/160IDs-380docrefs-GSC100/retainedCSV/privacy-EOF-whitespace/full8HTML-threequestionbodies/PDFpage6text-render/fiveproduction200bytes/fourfinder modes-threezeroqueries-keyboardClear36focus-oneNoJS/fourlenses-everysection-all13 desk20/24-mobileN-A pass. No generator mains/repo edits/clinical/game/child/AT/truezoom/release proof; browsers closed. Master225 distinct; fresh exact docs-only main release next, same04:06:59Z/completed1/deadline04:51:59Z."
-      }
+      },
+      "completed_on": "2026-10-28",
+      "release": {
+        "commit": "db23daa3f2b80736494624d38316aa617b9f2648",
+        "type": "docs-only",
+        "verification": "Fresh postpushfetch/mainclean0/0; frozen7/stagedwhitespace exit0/fullunpushedrange identity; no Pages wait",
+        "range_hash": "3a300547389d9838744627e93fd44e2177a8a50c98cc574eccae385c18401423"
+      },
+      "completion_receipt": "COMPLETED learned-only db23daa3f2b80736494624d38316aa617b9f2648: Dirac final full7/sole-row PASS/no remainingP0-P3; Master225/reviewer224/exact7-160IDs-380docrefs-GSC100/privacy/EOF/stagedwhitespace exit0. Fresh fetch/no divergence/emptyunpushed/frozenstage/complete committedrange identity passed; docs-onlymainpush and postpush freshmainclean0/0 confirmed. DEFER oral-storynewURL/REJECT generic prompts/turns novelty; exactdemand/missingoutput/full default gates remain. No site/Pages/build/clinical or family outcome. Completed2; factual7closeout/alignment then original04:06:59Z/deadline04:51:59Z guard before a third-final LEGO Color Tower source/task audit only if retained gap confirmed, no automatic repair. November1/October30 retained."
     },
     {
       "id": "KAL-IMP-057",
