@@ -9,7 +9,7 @@
       "id": "KAL-RES-081",
       "title": "Qualify Tape City first-start and maintained-guide handoffs",
       "kind": "existing-owner-source-task-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "2c1c1ffa4ee3b498b7a7be8e42be5bca6f8bd423",
       "exact_paths": [
@@ -37,9 +37,9 @@
       "observation_window": "Same retained06:03:01Z/conservative selectiondeadline06:45:23.664Z/completed2/third-final/no fourth. RES080abfa8f8/ErdosPASS and IMP0606a6650b/exactSHA Pages40644611935/full live verification/closeout2c1c1ff complete; freshmainclean0/0 at06:36:12Z. November1/October30/global cutoff unchanged.",
       "reconsider_if": "Exact previously completed City handoff qualification, no demonstrable task gap, source/material conflict, guide already supplies clear early route, overlap/privacy/P0-P2/divergence. Do not force novel recipe/new guide.",
       "blockers": "None known; owned physical fit and source-video procedure UNKNOWN.",
-      "phase": "reviewed-awaiting-release",
+      "phase": "released-research-only",
       "decision": "IMPROVE seven editable/fourrunnable City owners plus phantomIndoor correction and toycarroot32doc536/H1word535.938 repair separately; preserve maintainedguide/card/asset/actualindoor, DEFERnewURL. Exact optionalflatblock/handoff/roles editorial, not new road geometry or physical proof.",
-      "next_action": "Fresh exact reviewed docs-only main release/factualcloseout/alignment; no fourth. Next eligible invocation separately register qualified City repair, preserve maintained guide/card/asset/actualindoor/noindex; no repeat qualification.",
+      "next_action": "NEXT eligible invocation separately register seveneditable/fourrunnable City repair plus phantomIndoor and toycarroot32fit per released brief; preserve maintained guide/card/asset/actualindoor/noindex. No repeat qualification/newURL/no fourth. Finish factual exact7 closeout and fresh alignment now.",
       "qa_result": "RES081 Master237/jq/exact7/onechangedJSON/167uniqueIDs/415localdocrefs/GSC100/privacy/EOF/whitespace PASS. Thirteen live200bytes/32modes-16late-21incomingkeyBack-3guidekeyBack-2guideTouchBack/finder-eightNoJS and four supplied captures/maintained AI asset viewed. Toycarroot32doc536/H1word535.938 measured unfixed; other31 doc widths fit, not all-word fit or sampled console-clean. Three newly inspected primary bodies plus same-invocation MSU/AAP, partial3M excluded; allsite/code/data/CSV/config unchanged. Different full7 review/docs-only release required; no physical/family/AT/truezoom/creator claim.",
       "independent_review": {
         "reviewer": "Gibbs",
@@ -48,7 +48,16 @@
         "cycles": 2,
         "findings": "Sole cycle1 P3 library inventory corrected; no remainingP0-P3",
         "receipt": "Gibbs (01a18151-d218-7561-a190-f5f8f24da0e3), fresh independent final full7/cycle2 PASS/no remainingP0-P3. Sole cycle1 P3 library Open-ended override vs canonical5min corrected; reversal reproduces cycle1 packet, other6/HEAD intact. Independently236nonmutating/exact7-167IDs-415refs-GSC100/privacy-EOF-whitespace/priorroadmap preservation/pure renderer parity/73HTML848local-links89fragments/13livebytes32modes16late21incomingkeyBack3guidekeyBack2touchBack/finder-eightNoJS/four captures+AIasset/source boundaries/fourlenses-everysection-all13card7/26 passed. Toycarroot32doc536/H1word535.938 unfixed; no incomingtouch/allwordfit/consoleclean/AT/realzoom/physical-family-sourcevideo proof. Frozen7/HEAD intact, reviewer/browser closed. Master237 distinct; research-only approval, no future-build approval."
-      }
+      },
+      "completed_on": "2026-10-28",
+      "release": {
+        "commit": "55c4e5775e62e6cd765fec75d92492c034c10dcd",
+        "kind": "docs-only-main-push",
+        "aligned_verified_at": "2026-10-28T07:08:12Z",
+        "pages": "not required; no site/workflow change",
+        "range_hash": "ded278bc2aeab9199a81c8bb74ae99b5e9423a19d2cf2bab27b8645a83b74d9c"
+      },
+      "completion_receipt": "COMPLETED learned-only RES08155c4e5775e62e6cd765fec75d92492c034c10dcd: Gibbs final full7/cycle2 PASS/no remainingP0-P3; Master237/independent236/exact7-167IDs-417refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/complete unpushed range identity passed. Docs-only main push/freshfetch clean0/0 confirmed07:08:12Z; no Pages wait or site delivery. Qualifies seveneditable/fourrunnable City repair plus phantomIndoor and toycarroot32fit, preserving guide/card/asset/actualindoor/noindex. NewURL deferred; physical/family/SEO outcomes UNKNOWN. Completed3/no fourth; original06:03:01Z clock retained despite queued06:58 heartbeat."
     },
     {
       "id": "KAL-IMP-060",

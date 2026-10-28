@@ -1,5 +1,7 @@
 # SEO Research & Review Backlog
 
+RES081 COMPLETED learned-only55c4e57/Gibbs finalPASS/native237; [released brief](../reviews/tape-city-first-start-handoff-audit-2026-10-28.md) qualifies NEXT eligible separate City repair. Guide/card/asset/actualindoor/noindex protected, newURL deferred; same actualrun completed3/no fourth, no known dependency blocker.
+
 RES081 [Tape City handoff audit](../reviews/tape-city-first-start-handoff-audit-2026-10-28.md): IMPROVE seven editable/fourrunnable owners plus phantomIndoor and measured toycarroot32doc536/H1word535.938; preserve maintained guide/card/asset/actualindoor. Current3primary bodies+same-invocationMSU/AAP,13bytes32modes/21incomingkeyBack/guidekeytouch/finder-eightNoJS/card7/26. Different full7QA/review/docsrelease before NEXT eligible separate build; no fourth/newURL/repeatedguide qualification.
 
 COMPLETED learned-only RES080 abfa8f8619d71b615c9a6b04ee962ce5b7719ac6: Erdos fresh full7 PASS/noP0-P3; Master233/reviewer232/exact7-165IDs-404refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/complete unpushed range identity pass. Docs-only main push/freshfetch clean0/0 confirmed06:12:45Z, no Pages wait/site release. Qualifies separate nine-surface Block first-placement repair plus phantomIndoor correction, preserves indoorbytes/CSV/peers. Owned stability/physical-family outcomes UNKNOWN. Completed1; factual7 closeout/push/alignment then original06:45:23.664Z conservative guard before separate build. November1/October30 unchanged.
