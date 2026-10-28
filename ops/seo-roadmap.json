@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-091",
+      "title": "Qualify a seed-in-bag observation and care job",
+      "kind": "bounded-explore-discover-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "9f24c20e2117e2ac5a4bbcdcd75ab81fddaba0e8",
+      "exact_paths": [
+        "seo/seed-in-bag-observation-qualification-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "MEASURED",
+        "UNKNOWN"
+      ],
+      "evidence": "Heartbeat19:01:16.726Z, actual19:01:21Z/15:01:21EDT. Prior RES090 factualcloseout9f24c20 clean0/0/freshfetch; no unfinished release or overlapping writer. Targeted keyword/owner/qualification search found no seed/bean/germination qualification or existing clean seed-observation owner; internal absence is not demand.",
+      "parent_problem": "A caregiver of an ages3-6 child may need to decide whether to start and maintain a visible seed observation over several days, versus an immediate activity or soil-growing project; small seeds, water, placement, waiting and disposal need bounded adult decisions.",
+      "hypothesis": "A visible seed-in-bag observation may be a distinct maintained exploration job with material search demand and a specific missing care/stop/rescue output. Reject generic novelty or defer if demand/utility/default lineage is unproven; do not transfer hunt demand or classroom outcomes.",
+      "acceptance": "Inspect3-5 current public caregiver question bodies; exact seed-in-bag/germination query family and current primary ranking bodies with honest provider/date/market/depth/sample limitations; retained keyword datasets; existing discovery task at desktop/mobile plus one source task, all13 rubric/four source-derived lenses/everysection/default-lineage gates. Return BUILD/UPGRADE/PRESERVE/DEFER/REJECT with exact gates; separately scoped build brief only if qualified.",
+      "qa_plan": "Exact7 research/operator files only. Full276tools tests/diffcheck/jq/changedJSON/URL-source-privacy-EOF-relativeMDrefs/uniqueactionIDs/all101GSC/conserve source-site-data-config; actual browser discovery/source task. Freshdifferent full7 read-only reviewer max3/PASS orPASS_WITH_P3; completedfetch/no divergence/exactfrozenstage/completeunpushedrange/docs-onlymainpush/alignment, no Pages wait.",
+      "invariants": "No site/generator/data/config/automation/ControlRoom/paid/product/indexrequest/account/outreach/newURL change. No eating sprouted beans, edible/safe/developmental promises or invented growing/timing/family results. Small anecdotes not material demand; 0/UNKNOWN distinct. Closed listening-walk/leaf/nature/photo-hunt decisions preserved.",
+      "observation_window": "Actual19:01:21Z/completed0/deadline19:46:21Z/max3. Sprintactive/Nov1synthesisnotdue/Oct30exactrestoration/globalcutoff retained. One writer; qualify research before any separately registered build.",
+      "reconsider_if": "Current source/question/ownership evidence contradicts hypothesis or reveals eligible independent defect; amend exactscope before edits. Candidate-specific demand/control gap does not block unrelated work. Never reset actualclock.",
+      "phase": "independently-reviewed-ready-for-docs-release",
+      "review_evidence": "Freshdifferent reviewer01a183ee-90e7-7c92-b550-b8f82aba68eb (Russell): full7 cycle1PASS_WITH_P3/noP0-P2; sole desktop-capture traceability P3 corrected, bounded cycle2PASS/no remaining findings. Independent275passed/0failed/0skipped (only exact date-mutating case omitted), full7/666repo hashes/HEAD/status/rawindex unchanged; other6 and659out-of-scope files conserved through correction. Independent3bytes8modes12keyClear2noJS/source1280-390/actualphotos-DukePDF/106JSON19CSV186IDs638MDrefs101GSC/privacyEOF PASS. Helper independently designed before readingMaster; no execution/overwrite/generator entrypoint, reviewer/browserclosed. Material conclusions/rubric unchanged; no source outage, physical/family/SEO/AT/truezoom result.",
+      "decision": "DEFER new seed guide/card; REJECT generic soil-free/staple-free/no-print/daily-observation novelty; PRESERVE current owners. Exact material demand and a maintained care/exit default unresolved, not family-testing blocker.",
+      "research_evidence": "Eight primary/publisher bodies/four qualitative questions/18 unordered retained result observations from exactquery with ranks-market-depth-metricsUNKNOWN; no before-page baseline. Source proxy16/26/all13/noN-A/criticalFAIL. Discovery3bytes8modes12actualkeyboardClear2noJS/source1280-390/visuals; initial premature mobilecapture diagnosed, final source photo overflow530at390 retained. Current101GSC validated/no new snapshot. No paid calls/sitechange or outcomes.",
+      "next_action": "Exact reviewed docs release/alignment, then factualcloseout. No qualified build; independent next selection only after original19:01:21 clock/count guard."
+    },
+    {
       "id": "KAL-RES-090",
       "title": "Qualify a preschool listening-walk observation job",
       "kind": "bounded-explore-discover-qualification",

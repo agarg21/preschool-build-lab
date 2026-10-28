@@ -2577,3 +2577,34 @@ observe for a post-release crawl or finalized page/query change.
   stage/complete committedrange d65a0656 identity/privacyEOF PASS.
 - Boundary: no new URL/site edit, paid spend, physical/family/clinical/safety/
   learning/engagement or ranking result.
+
+## 2026-10-28 - KAL-RES-091 - Seed Observation Qualification
+
+- Decision/persona: DEFER seed-in-bag guide/card; REJECT generic soil-free,
+  staple-free/no-print daily-observation novelty; PRESERVE existing owners.
+  Source-derived caregiver wants bounded ongoing work and an honest endpoint,
+  not guaranteed growth, independent occupation or an edible project.
+- Hypothesis/sources/classes: eight primary bodies/four live qualitative
+  questions/exact incomplete query sample in
+  [qualification](../seo/seed-in-bag-observation-qualification-2026-10-28.md).
+  SOURCE_BACKED mechanisms, RESEARCH_HYPOTHESIS care/exit job,
+  EDITORIAL_JUDGMENT disposition/rubric, MEASURED executed UI/byte checks;
+  material demand and all physical/family/search outcomes UNKNOWN.
+- Result: no new build qualifies. Existing sources supply simplifications;
+  demand and bounded maintained default remain gaps. No before-page baseline.
+  Source proxy16/26/all13/no N/A/criticalFAIL; not a KAL regression.
+  Three live bytes/eight site modes/12keyboard Clear/two noJS pass;
+  source two widths rendered after diagnosed premature capture, mobile
+  photo overflow530at390 retained. Current101GSC validated, no new snapshot.
+- Confidence/lesson: high recurrence/ownership, moderate care hypothesis.
+  A sprout observation is not automatically an ongoing plant-care promise.
+  Source abundance and anecdotes are not material demand.
+- Next falsification/reopen: exact material demand plus repeated missing
+  care/exit output and coherent seed/geometry/closure/role/disposal lineage;
+  otherwise select independent work, not repeated seed variants.
+- Measurement boundary: no family test, actual growth, timing, mess, safety,
+  learning, engagement, rank or traffic result; no site/Pages change.
+  Master276/independent275; freshdifferent01a183ee full7 cycle1PASS_WITH_P3,
+  bounded cycle2PASS/no remaining findings after desktop-capture traceability
+  correction. All666repo bytes/HEAD/status/rawindex conserved; no helper
+  execution/overwrite or generator entrypoint. Docs-only release pending.
