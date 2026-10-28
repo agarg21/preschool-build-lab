@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-087",
+      "title": "Resolve the retained Cup Doorway first-span and toy-opening evidence gate",
+      "kind": "existing-owner-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "51dab34a251f502e5896bd46778f33e15bd96e4d",
+      "exact_paths": [
+        "reviews/cup-doorway-first-span-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "SOURCE_BACKED",
+        "MEASURED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "September16 LEARN004 explicitly left cup-over-gap geometry unqualified, rejecting job interchangeability; later maintained CupTower qualifies different bottom-to-bottom stacking, not doorway. Current Building/Engineering retain two short walls/one topcup with no orientation/first support/clearance. Named NEW gate: current primary bounded written/visual firstspan and actual two-owner task/earlychooser reconciliation, not repeat completed consolidation or CupTower qualification.",
+      "parent_problem": "Caregiver with six owned paper cups and a toy must decide whether and how a cup-only doorway can start; cannot borrow another stacking job as evidence.",
+      "hypothesis": "Current maintained primary procedure and real-owner parent tasks can qualify the firstspan or identify an exact bounded correction while retaining job differences.",
+      "acceptance": "Current query/source bodies, available diagrams or explicit unavailable limits; actual two-owner source/earlychooser/module map, desktop/mobile/keyboard/directhash/noJS/readability proxy; four source-grounded lenses/everysection/all13 scores; disposition preserve/improve/pause/defer/reject with exact separately registered implementation brief if qualified. No preselected replacement, geometry inferred from simulation, new URL or family proof.",
+      "qa_plan": "Full261/jq/diffcheck/changedJSON/allJSONCSV/privacy/singleEOF/uniqueIDs/localMDrefs/GSC100/exact7; site/source/data/config unchanged. Fresh different full7 read-only reviewer/P0-P2 max3 cycles/PASS or PASS_WITH_P3, freshfetch0divergence/frozenexactstage/cachedcheck/rangeidentity/docs-onlymainpush/factualcloseout/alignment. No Pages delivery for research.",
+      "invariants": "Only seven research/operator files. Preserve production IMP066, CupTower, peers, sitemap65/CSV/config/styles/assets. No paid/newURL/indexing/tracking/product/purchase/outreach/automation/ControlRoom. Do not label source unavailable as nonexistent or desk check as physical failure/success; family/material-fit/time-mess-learning-safety outcomes UNKNOWN.",
+      "observation_window": "Same actual13:56:11Z/completed1/deadline14:41:11Z/max3. IMP06651dab34 closeout alignedclean0/0 before selection. November1 synthesis/October30 restoration/globalcutoff unchanged.",
+      "reconsider_if": "Independent source/scope/task contradiction or no sufficient current sources. Qualified build separately and promptly within same run guard, not silently expand.",
+        "phase": "independent-pass-docs-release-pending",
+        "independent_review": "RES087 independent reviewer01a182e7-0496-7712-836f-b02c458b77cf (Hubble), fresh full7/cycle1 PASS/noP0-P3, different fromIMP066. Final260 tests retain allotherarchitecture cases; sixlivebytes8modes16keyboard2noJS/fourcaptures/sourceimages/twolocalillustrations/current8primarybodies/105trackedJSON19CSV100GSC179IDs568MDrefs/privacy-EOF-whitespace/source-site-data conservation PASS; all7hashes/HEAD/status/sitemap unchanged. Caveat: three initial negative-pattern attempts ran261 including excluded date-mutating test on its temporary fixture, violating requested no-generator-entrypoint restriction; final260 used negative pattern plus exact-name skip safeguard. Repo bytes never changed; do not claim all reviewer attempts nonmutating or no entrypoint invocation. No material source/task finding; browser/reviewer closed. Research-only, no site delivery; exactdocs release/alignment next. Source403/rejection limits and eachold7/26/differenttask boundary retained.",
+        "decision": "IMPROVE two existing owners by pause/distinctcheckedchoices; DEFER runnable/newURL. Different tower and paper-span sources do not qualify our firstspan, not exhaustive sourceabsence. BOTH earlierchoosers and Building unsupported-lintel imagecaption/readiness implication included. EACHoldtask7/26, no future differenttask gain inferred.",
+        "next_action": "Full261/structured exact7/privacyEOF/freshdifferent full7review/docs-onlyrelease/alignment, then separately register qualified build promptly within original guard."
+    },
+    {
       "id": "KAL-IMP-066",
       "title": "Pause unsupported generic magnetic-tile build starts and offer distinct checked choices",
       "kind": "existing-owner-implementation",
