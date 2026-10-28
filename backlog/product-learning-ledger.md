@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+RES083 Hooke full7/cycle1 PASS_WITH_P3, two ownership sentences fixed/final bounded cycle2 PASS/no findings; Master245/independent244. [Receipt](../reviews/car-ramp-distance-first-start-audit-2026-10-28.md). Reviewer/browser closed, no server. Fresh exact docs-only main release next, original10:02/count2/third-final/no fourth; approved brief is not a site release.
+
+## 2026-10-28 - RES083 Distance First Start
+
+- Decision/persona: [audit/separate brief](../reviews/car-ramp-distance-first-start-audit-2026-10-28.md), IMPROVE eight existing compact/discovery owners/six runnable and phantom preschool declaration; PRESERVE maintained guide/card/image/pack/actualpreschool; DEFERnewURL. Parent needs controlled release/natural-stop observation or honest decline, not a winner.
+- Hypothesis/classes/result: current PNC/PEEP/PBS written bodies and AAP SOURCE_BACKED context; default/roles/unclear/point-only marker EDITORIAL_JUDGMENT; persona RESEARCH_HYPOTHESIS;16livebytes44modes24late15incomingkeyBack10touchBack9outgoing/finder11NoJS MEASURED. Card6/26/all13/noN-A; root32 doc328/320 and Distance right328.141. New exact demand, time/mess/physical-family/learning/safety/SEO UNKNOWN.
+- Confidence/lesson/trigger: high inventory/criticalorder, moderate editorialutility. A source-backed comparison must still define release/reference and admit unclear results; maintained guide review does not qualify an untouched CSV distance card. Full245/structured/freshdifferent review/docs-only release required. Reopen source/ownedfit/criticaltask/peer/privacy/P0-P2/divergence. Any repair NEXT eligible invocation; original10:02/count2/third-final/no fourth.
+
 IMP062 delivered8670de5/Pages40673275283 SUCCESS/live12bytes-same28mode task/visuals; James finalPASS/native245. [Full release receipt](../reviews/paper-plate-ramp-pause-repair-2026-10-28.md). Pause-and-switch applied, maintained guide/peers preserved; no physical-family claim or known blocker. Completed2/original10:02clock/deadline10:47; factualcloseout/alignment then guard before any third.
 
 IMP062 James fresh full38/cycle1 PASS_WITH_P3, sole count typo fixed and bounded cycle2 PASS/no remaining findings; Master245/independent244. [Review receipt](../reviews/paper-plate-ramp-pause-repair-2026-10-28.md). Reviewer/browser closed; Masterserver8796 needed. Fresh reviewed exact main release/exactSHA production next, same actual10:02:00Z/completed1/deadline10:47:00Z; not yet released.

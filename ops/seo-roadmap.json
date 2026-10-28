@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-083",
+      "title": "Qualify Car Ramp Distance Test controlled start and maintained handoffs",
+      "kind": "existing-owner-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "1178a37f722cb40f9f5ea6ba90e380f522b9078c",
+      "exact_paths": [
+        "reviews/car-ramp-distance-first-start-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "After IMP062 exact-SHA Pages40673275283/fullcloseout1178a37 clean0/0, direct CarRampDistanceTest still old CSV video-first Roll a car/Mark where stops/Try another car, timing5min/late Keep testing area clear. Roadmap references exact card only broad/shared-credit scope, not first-release/mark/controlled comparison qualification. Maintained generic ramp/pack qualification distinct, preserved.",
+      "parent_problem": "Parent needs actual low owned-ramp/vehicle/space fit, controlled first release and stopping-point marker without unsupported winner/comparison, adult roles and valid maintained depth handoff or decline.",
+      "hypothesis": "A source-reconciled controlled comparison/observable stop boundary may support existing-owner improvement; no repair/newURL presumed.",
+      "acceptance": "Current exact query family/opened primary bodies and maintained guide/pack ownership; actual CSV/canonical/overrides/visible-owner inventory; source-grounded persona/stress/fourlenses/everysection/all13 and desktop/mobile-root32/key-finder-noJS motivating task; return improve/preserve/defer/reject with exact separate brief and remaining gates. No repeat generic ramp qualification or source video claim.",
+      "qa_plan": "Full245/jq/diffcheck/changedJSON-CSV parse/uniqueIDs-localdocrefs/100GSC/privacy-singleEOF/exact7/site-code-data-config unchanged; different independent full7 read-onlyreview/P0-P2<=3cycles/PASS-PASS_WITH_P3/freshfetch-no divergence/exact reviewed stage/completeunpushedrange/main docs-onlypush/factualcloseout/finalalignment. No Pages wait for research.",
+      "invariants": "Research-only exact7. No site/source-code/data/config/URL/asset/product/purchase/paid/indexing/tracking/outreach/automation/ControlRoom edits. Preserve maintained guide/card/image/pack and peers; no physical-family/time-mess-learning-safety-SEO claim. Existing observation windows and deferred018/019 unchanged.",
+      "observation_window": "Originalactual10:02:00Z/completed2/new-actiondeadline10:47:00Z; third-final, no fourth even if queued heartbeat arrives. November1 synthesis/October30 restoration/global cutoff retained.",
+      "reconsider_if": "Prior exact qualification found, critical source/role/material/marker gap, unsupported claim/privacy/peer change/P0-P2/divergence; defer runnable publication rather than substitute unsupported mechanism.",
+      "blockers": "None known; physical/family outcomes UNKNOWN.",
+      "phase": "independent-review-pass-release-pending",
+      "next_action": "Full245/exact7 structured/privacyEOF/sourceCSV/preservedsite-code-data-config checks, freshdifferent full7review/docs-only main release/factualcloseout/alignment. Qualified repair NEXT eligible invocation, no fourth.",
+      "qa_actual": "Current9query incomplete-family sample/PNC-PEEP-PBS-written-AAP full bodies;16live200bytes44modes24late15incomingkeyBack10touchBack9outgoing/finder11NoJS/card6of26/43of44docwidthfit. Directroot32doc328/320/Distance right328.141, viewed390top-full/root32top. No allword-consoleclean/video-family claim.",
+      "independent_review": "Hooke (01a1821d-fe23-7f90-af5f-f5f120b4590c), fresh independent full7/cycle1 PASS_WITH_P3, bounded cycle2 PASS/no remainingP0-P3. Two audit ownership sentences corrected: preschool STEM actually shadow/bridge/pattern; separate indoor page owns LowCarRamp; preserve BOTH. Other6/HEAD/99site hashes unchanged, no edits by reviewer/browser closed/no server. Independently244nonmutating/native,171IDs461refs/GSC100/privacyEOFwhitespace/19CSVs-three existingblankrecords/rendererparity/live16bytes44modes24late15keyBack10touchBack9outgoing/finder11NoJS/43of44docfit and three Master plus separate reviewer captures passed. Directroot32doc328/320/Distance right328.140625 reproduced. Sources PNC/PEEP/PBSwritten/AAP rechecked; all13card6/26/no-N-A/fourlenses/everysection support research-only decision, not runnable success/newURL. Source/physical-family/AT/truezoom/allword-consoleclean/demand/rank limits retained. Master full245 distinct. Fresh exact docs-only release still required, original10:02/count2/third-final/no fourth."
+    },
+    {
       "id": "KAL-IMP-062",
       "title": "Withdraw unsupported Paper Plate Ramp and offer maintained alternative",
       "kind": "existing-owner-trust-correction",

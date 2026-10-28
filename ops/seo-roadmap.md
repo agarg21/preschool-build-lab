@@ -1,5 +1,11 @@
 # Kid Activity Lab Operator Roadmap
 
+RES083 Hooke full7/cycle1 PASS_WITH_P3, two ownership sentences fixed/final bounded cycle2 PASS/no findings; Master245/independent244. [Receipt](../reviews/car-ramp-distance-first-start-audit-2026-10-28.md). Reviewer/browser closed, no server. Fresh exact docs-only main release next, original10:02/count2/third-final/no fourth; approved brief is not a site release.
+
+RES083 IMPROVE eightcompact-sixrunnable/phantompreschool, preserve maintaineddepth/pack/actualpreschool and DEFERnewURL; [brief](../reviews/car-ramp-distance-first-start-audit-2026-10-28.md). Full7QA/different review/docs-only release pending, any build NEXT eligible invocation/third-final/no fourth.
+
+RES083 REGISTERED1178a37 exact7: CarRampDistanceTest distinct first-release/mark/controlled-comparison gap, not repeat maintained-ramp/pack research. Same actual10:02/count2/deadline10:47/third-final; current source/task qualification, fullQA/different review/docs-only release required. Any build NEXT eligible run, no fourth.
+
 IMP062 delivered8670de5/Pages40673275283 SUCCESS/live12bytes-same28mode task/visuals; James finalPASS/native245. [Full release receipt](../reviews/paper-plate-ramp-pause-repair-2026-10-28.md). Pause-and-switch applied, maintained guide/peers preserved; no physical-family claim or known blocker. Completed2/original10:02clock/deadline10:47; factualcloseout/alignment then guard before any third.
 
 IMP062 James fresh full38/cycle1 PASS_WITH_P3, sole count typo fixed and bounded cycle2 PASS/no remaining findings; Master245/independent244. [Review receipt](../reviews/paper-plate-ramp-pause-repair-2026-10-28.md). Reviewer/browser closed; Masterserver8796 needed. Fresh reviewed exact main release/exactSHA production next, same actual10:02:00Z/completed1/deadline10:47:00Z; not yet released.
