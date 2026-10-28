@@ -9,7 +9,7 @@
       "id": "KAL-IMP-061",
       "title": "Repair Tape City guide-first start and existing handoffs",
       "kind": "existing-owner-content-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "a1d3f2cbeb78df1f72d6c1edcd2e2d1f7e3f5054",
       "exact_paths": [
@@ -56,8 +56,8 @@
       "observation_window": "New heartbeat07:57:24.073Z/actualrun07:57:32Z/03:57:32EDT/completed0/max3/new-actiondeadline08:42:32Z. Prioractual06:03run fully closed a1d3f2c clean0/0. November1 synthesis/October30 restoration/global cutoff unchanged.",
       "reconsider_if": "Material source/ownedlabel/criticaltask/guideorder/trust/clutter/peer/privacy/P0-P2/divergence or ambiguous production regression. No repeated qualification or new guide.",
       "blockers": "None known; owned fit/physical-family outcomes UNKNOWN.",
-      "phase": "reviewed-awaiting-release",
-      "next_action": "Fresh different full26read-only review/fixP0-P2<=3cycles; exact reviewed main release/exactSHA Pages/livebytes-sametask/factualcloseout/alignment. No new selection, original07:57:32Z deadline expired.",
+      "phase": "released-production-verified",
+      "next_action": "NEXT eligible invocation check Paper Plate Ramp plate/owned-vehicle fit and adult first-start qualification history; if the named gap remains, register a bounded source/task audit before edits. Current roadmap path history only shows shared contributor transaction, not that content qualification. Do not repeat City/guide qualification or presume a new URL.",
       "scope_note": "Exact20 expanded to26 BEFORE six necessary fixture edits: additive City QUICKdispatch in five existing assertions and City guide-label/material assertions in one maintained-guide test. Initial237 pass231/fail6; not green, no unrelated behavior assertions removed. Queued09:03 heartbeat keeps actual07:57:32Z/completed0/deadline08:42:32Z; finish existing only.",
       "qa_result": "IMP061 Master241/fournew/all3twice finalwhole-site8ee0c0cb49ca1be6f9c9c3cdd30089bba2c64d1599801c3e261064522608ec25/nineoutputs-90sitepeers-35canonical-35library-7/7/7hubpeers-toycar4/material2peers/CSV conserved-parsed;73HTML1017refs89fragments8LD67URLs. Exact26/168IDs/425docrefs/GSC100/privacy-EOF-whitespace pass. Local14HTTP200bytes/32modes-21incomingkeyBack14touchBack-12outkeyBack8touchBack-16disclosures/finder title1-material1-zero-keyClear36focus/eightNoJS/non-tableword-H1parentfit-runtime pass, only baselinefavicon404 excluded.390/root32 cardtop/setup,root32guidearrival/toycar captures viewed. All13 editorial25/26 vs7/26/noN-A/sensory1, not physical-family/AT/realzoom/SEO proof. No release marker exists; exactSHA production still required. Queued09:03 keeps original07:57:32Z/completed0/finish existing only.",
       "independent_review": {
@@ -67,7 +67,19 @@
         "cycles": 1,
         "findings": "No P0-P3",
         "receipt": "Pascal (01a181c7-1c60-7150-a213-44516a53c477), fresh independent full26/cycle1 PASS/noP0-P3. Independently240nonmutating/pure-render-sourcecompile/conservation9outputs90sitepeers35canonical-library7/7/7hubpeers-staticpeers-CSV/whole-site8ee0c0cb49ca1be6f9c9c3cdd30089bba2c64d1599801c3e261064522608ec25/73HTML1017refs89frags8LD67URLs/168IDs100GSC/privacy-EOF-whitespace passed. Browser14bytes32modes/incomingkey-touchBack21/14-outgoing12/8/16disclosures/finder-eightNoJS/non-tablewordfit-arrivals-images-runtime and six captures passed; only baselinefavicon404 excluded, screenshots protected in memory/browser closed. Fourlenses/everysection/all13card25/26 vs7/26/noN-A/sensory1 independently agrees, source/editorial/untested boundaries pass. Frozen26/HEAD intact; reviewer closed. Master241 and twice generators distinct; no independent generator-mains/idempotence claim. No physical-family/AT/realzoom/SEO proof; exactSHA production still required."
-      }
+      },
+      "completed_on": "2026-10-28",
+      "release": {
+        "commit": "f122508ffc201ad3ac4cb01a54976c87e1ed00cc",
+        "pages_run": 40662960045,
+        "pages_url": "https://github.com/agarg21/preschool-build-lab/actions/runs/40662960045",
+        "conclusion": "success",
+        "production_verified_at": "2026-10-28T09:18:01Z",
+        "release_marker": "absent; current site/workflow search no matches, exactSHA deployment plus14live byte matches and tasks verified",
+        "verification": "Same32modes/keytouchBack/disclosures/finder-eightNoJS/non-tableword-H1parentfit/images-runtime/livevisuals pass; no retry or sampledregression",
+        "range_hash": "51aaab8846b16fdaf15ed97933d692dce867dbf4a1a19e0819e617f9fa2fd7aa"
+      },
+      "completion_receipt": "COMPLETED IMP061 f122508ffc201ad3ac4cb01a54976c87e1ed00cc; exact-SHA Pages40662960045 SUCCESS. Pascal full26/cycle1 PASS/noP0-P3; Master241/independent240. Production09:18:01Z:9changed+5preserved HTTP200byte matches, same32modes/incomingkey-touchBack21/14-outgoing12/8/16disclosures/finder-eightNoJS/non-tablewordfit-arrivals-images-runtime pass; live390/root32 top/setup/guidearrival/toycar visuals viewed. No release marker: exactSHA deployment plus bytes/tasks verified. No retry or sampledregression; baselinefavicon404 only excluded. Maintained guide/card/asset/actualindoor/noindex/CSV/peers preserved; no newURL or physical-family/AT/realzoom/SEO proof. Fresh releasefetch0/0/exact26frozenstage/stagedcheckexit0/complete unpushed range identity passed. Reviewer/browser closed, owned QAserver8795 verified/stopped (intentional exit143). Original07:57:32Z retained despite queued09:03 heartbeat; completed1, no new selection after08:42:32Z deadline."
     },
     {
       "id": "KAL-RES-081",

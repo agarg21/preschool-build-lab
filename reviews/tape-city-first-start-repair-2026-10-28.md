@@ -3,7 +3,7 @@
 KAL-IMP-061; October28,2026 New York; base a1d3f2cbeb78df1f72d6c1edcd2e2d1f7e3f5054.
 Original actualrun07:57:32Z/completed0/deadline08:42:32Z. Queued09:03 heartbeat
 does not reset it; finish existing only. Exact20 expanded to26 before six
-necessary fixture edits. Not independently approved or production verified yet.
+necessary fixture edits. Released and production verified; see completion below.
 
 ## Decision And Lineage
 
@@ -115,6 +115,10 @@ Card-only editorial proxy, same task/all13/noN-A; not family improvement:
 | Total | 7 | 25 | /26, critical outputs independently required |
 
 ## QA And Release Gate
+
+COMPLETED IMP061 f122508ffc201ad3ac4cb01a54976c87e1ed00cc; exact-SHA Pages40662960045 SUCCESS. Pascal full26/cycle1 PASS/noP0-P3; Master241/independent240. Production09:18:01Z:9changed+5preserved HTTP200byte matches, same32modes/incomingkey-touchBack21/14-outgoing12/8/16disclosures/finder-eightNoJS/non-tablewordfit-arrivals-images-runtime pass; live390/root32 top/setup/guidearrival/toycar visuals viewed. No release marker: exactSHA deployment plus bytes/tasks verified. No retry or sampledregression; baselinefavicon404 only excluded. Maintained guide/card/asset/actualindoor/noindex/CSV/peers preserved; no newURL or physical-family/AT/realzoom/SEO proof. Fresh releasefetch0/0/exact26frozenstage/stagedcheckexit0/complete unpushed range identity passed. Reviewer/browser closed, owned QAserver8795 verified/stopped (intentional exit143). Original07:57:32Z retained despite queued09:03 heartbeat; completed1, no new selection after08:42:32Z deadline.
+Release range identity:51aaab8846b16fdaf15ed97933d692dce867dbf4a1a19e0819e617f9fa2fd7aa.
+Exact-run [Pages evidence](https://github.com/agarg21/preschool-build-lab/actions/runs/40662960045).
 
 Pascal (01a181c7-1c60-7150-a213-44516a53c477), fresh independent full26/cycle1 PASS/noP0-P3. Independently240nonmutating/pure-render-sourcecompile/conservation9outputs90sitepeers35canonical-library7/7/7hubpeers-staticpeers-CSV/whole-site8ee0c0cb49ca1be6f9c9c3cdd30089bba2c64d1599801c3e261064522608ec25/73HTML1017refs89frags8LD67URLs/168IDs100GSC/privacy-EOF-whitespace passed. Browser14bytes32modes/incomingkey-touchBack21/14-outgoing12/8/16disclosures/finder-eightNoJS/non-tablewordfit-arrivals-images-runtime and six captures passed; only baselinefavicon404 excluded, screenshots protected in memory/browser closed. Fourlenses/everysection/all13card25/26 vs7/26/noN-A/sensory1 independently agrees, source/editorial/untested boundaries pass. Frozen26/HEAD intact; reviewer closed. Master241 and twice generators distinct; no independent generator-mains/idempotence claim. No physical-family/AT/realzoom/SEO proof; exactSHA production still required.
 

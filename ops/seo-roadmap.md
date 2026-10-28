@@ -1,5 +1,7 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP061 COMPLETED f122508/exact-SHA Pages40662960045 SUCCESS/live verified; Pascal full26PASS/native241. [Receipt](../reviews/tape-city-first-start-repair-2026-10-28.md). Original07:57:32Z/completed1/deadline expired, finish factual closeout only. Next eligible check Paper Plate Ramp's named plate/vehicle-fit-firststart history before registering an unresolved-gap audit; no repeat City qualification/newURL presumption.
+
 IMP061 final Pascal full26/cycle1 PASS/noP0-P3/native241. [Receipt](../reviews/tape-city-first-start-repair-2026-10-28.md). Fresh exact main release/exactSHA production next; no new selection, same07:57:32Z originalclock.
 
 IMP061 Master241/exact26/168IDs/425refs/GSC100/privacy-EOF-whitespace/local32mode fulltask/conservation PASS; [packet](../reviews/tape-city-first-start-repair-2026-10-28.md). Fresh different full26review/exactSHA production next, original07:57:32Z/queued09:03 finish-only, no new selection.
