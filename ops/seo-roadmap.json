@@ -6,6 +6,51 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-079",
+      "title": "Qualify Tape Train Tracks first route and material handoff",
+      "kind": "existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "2d693592300dc8f572a36e72fd9edceb4d0d40f7",
+      "exact_paths": [
+        "reviews/tape-train-tracks-first-start-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Legacy actual Tape Train card5minutes/age3-5/maskingtape-toytrains/Make tracks-addstation-drive-change/earlyuninspectedvideo; canonical3-6/5min/testtapefirst omits concrete first route/adult role/trainsurfacefit. Two declared hubs age4/indoor; exact first-start qualification history search finds only July review/August consolidation, not complete lineage. Maintained TapeRoad guide may already own base geometry, so no newURL or recipe presumed.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Judge owned toy/tape/support/surface/all-child reach fit and adult setup, know a first visual train-route move/station cue or decline, rescue-stop and collect without creator dependency, damage guarantee or new broad search.",
+      "hypothesis": "Current primary sources and actual renderer/maintained TapeRoad ownership may support improve/preserve/defer/pause; a maintained handoff may beat duplicating a base route or inventing physical tracks.",
+      "acceptance": "Current primary query/bodies/visuals if needed; exact source-role/geometry/adult-material/firstmove-stop-owner lineage, actual outputs/desktopmobile-root32-key-finder-noJS baseline/fourlenses-everysection-all13. Explicit decision and unresolved gates; no inferred sourcevideo/product/child outcome.",
+      "qa_plan": "Native229/jq/changedJSON-GSC100-IDs-docrefs/privacy/EOF/exact7/diffcheck; source/task/evidence-class/peer preservation. Fresh independent full7 read-only review/fixP0-P2/fresh exact docs-only main release/stagedwhitespace exit0/fullunpushedrange identity/factualcloseout/alignment. Any qualified repair separate after research completion and original guard.",
+      "invariants": "Research-only allsite/code/data/CSV/config/scheduler/ControlRoom read-only. No newURL/purchase/paid/indexing/outreach/creatorvideo inspection/physical-family-time-mess-learning-safety-SEO claim. Preserve TapeRoad owner/peers.",
+      "observation_window": "Same retainedactual05:07:03Z/conservative selection deadline05:49:53.460Z/completed1/max3; first IMP058 fully released2347455/exactSHA Pages40637551276/closeout2d69359 clean0/0. November1/October30/global cutoff retained.",
+      "reconsider_if": "Existing exactqualification, source-material-fit conflict, unsupported brand/protectionclaim, no actual task gap, critical missing output/privacy/P0-P2/divergence. Do not force repair/newURL.",
+      "blockers": "None known; source geometry/owned toy-tape fit and source-video procedure UNKNOWN.",
+      "phase": "review_pass_release_pending",
+      "next_action": "Full7native/structured/privacy/EOF and different review/docs-only release; if completed within original guard register separate repair promptly, no silent research expansion.",
+      "decision": "IMPROVE five actual TapeTrain surfaces plus target phantom-indoor declaration separately; DEFER newURL. Source-supported visual rails/cardboard/station, exact one-ownedtrain/three-strip trial/roles/stop editorial. Preserve maintained TapeRoad/indoorbytes/CSV/peers; fix measured materialroot32word383.109 at320.",
+      "qa_result": "RES079 Master229/jq/exact7/onechangedJSON/163IDs/391docrefs/GSC100/privacy/EOF/whitespace PASS; six current primary/tutorial bodies/two source visuals/CSV source_id parsed/10production200bytes/20modes-eightlate-12incomingkeyBack-finderexact1-zero-keyClear36focus-fiveNoJS; card/material/guide root32wordranges/three topcaptures+card390full viewed. Material383/activities.383.109 at320; card/guide fit. Site/code/data/CSV/config unchanged; no creator/physical/family/AT/truezoom/SEO claim. Different frozen full7 review/docs-only release required before separate repair; same retained05:07:03Z/conservative deadline05:49:53.460Z/completed1.",
+      "independent_review": {
+        "reviewer": "Harvey",
+        "id": "01a180fd-e177-7741-ac0b-9923bfd34399",
+        "verdict": "PASS",
+        "cycles": 1,
+        "findings": "NoP0-P3",
+        "receipt": "Harvey (01a180fd-e177-7741-ac0b-9923bfd34399), fresh independent full7 cycle1 PASS/noP0-P3. Independently228 nonmutating/exact7-163IDs-391refs-GSC100/priorroadmap preservation/privacy-EOF-whitespace/actualowners-staticCSVphantom/10prodbytes20modes8late12keyBack-finder5noJS/root32wordranges/six-source limits-two currentJPEGs/fourlenses-everysection-all13legacycard5/26 pass. Five bodies verified; 3MUK reviewer web timeout/Chrome denial, Master current body accessible. Frozen7/HEAD intact/browsers closed. Research approval only, no build/physical-family/AT/truezoom/production proof."
+      }
+    },
+    {
       "id": "KAL-IMP-058",
       "title": "Repair Color Tower sorting-first handoffs",
       "kind": "existing-owner-repair",
