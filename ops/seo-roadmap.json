@@ -9,7 +9,7 @@
       "id": "KAL-IMP-053",
       "title": "Make Pattern Path starter and next-piece choice explicit",
       "kind": "reviewed-five-owner-compact-start-repair",
-      "status": "reviewed",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "8c7ebd8",
       "exact_paths": [
@@ -47,10 +47,12 @@
       "invariants": "No newURL/dataCSV/assets/config/scheduler/ControlRoom/productrecommendation/paid/indexing/outreach/family-or-physical-or-clinical/learning/safety/SEO outcome claims. Preserve completed IMP052Wind/IMP051Ramp and maintained preschool; source assessment/age labels not ours.",
       "observation_window": "Sameheartbeat00:05:06.753Z/immutableactual00:05:11Z October27EDT/completed2/third-final/no fourth/deadline00:50:11Z. Fresh completedfetch/mainclean0/0/8c7ebd8; November1 synthesis/October30 expiry retained.",
       "reconsider_if": "Source/label/choice arithmetic/role/readiness contradiction, critical clutter/P0-P2, peerdrift/divergence/ambiguous regression. Six/count/script/one retry/control editorial, not validated safe or optimal arrangement.",
-      "blockers": "None known; no physical testing or universal age fit assumed.",
-      "next_action": "Fresh completed fetch/no divergence/fulloutgoing/exact reviewed18stage/privateunsafeclaimscan/stagedcheckexit0/mainpush/exactSHA Pages/liveaffectedandpeerbytes/sametask/screenshots/factualcloseout/alignment. Third-final/no fourth.",
-      "qa_result": "IMP053 local209/fourfocused/twicef898771c/exact7outputs/92site-35canonical-35library-21hub peers/PAGES mathheadstyleonly/maintainedpreschool+diagram conserved/73HTML-1013refs-89fragments-8LD-67URLs pass.20modes/12incomingBack/8touch/12depthBack/3freshhash/16disclosures/finder-five noJS/allwordfit/viewed390-root32/all13 editorial6->25/26/noN-A/sensory1. Before-edit same18 amended only maintained anchor scrolloffset after real enlarged-text arrival failure; final rerun passed. Full18 structured/privacy/freshdifferent review/exactSHAproduction pending; third-final/no fourth/same00:05:11Z/00:50:11Z/November1.",
-      "reviewer": "Hypatia01a17fef-7894-7e51-ae40-da6305ef307d fresh different full18 cycle-one PASS/noP0-P3.208nonmutating/actual5renderers/conservation/parse-GSC100-149IDs-349refs/privacy-newfileEOF/20modes-routes-touch-depth-disclosures-finder-fiveNoJS/wordfit/current source-boundaries/fourlenses-everysection/all13 independently pass; Master209/twice distinct. Frozen18/HEAD intact/reviewer closed."
+      "blockers": "None; exactSHA production verified, no unfinished transaction/release. RES070 stagedEOF failure corrected0795db3 after independent review and fresh stagedexit0; not hidden.",
+      "next_action": "No fourth: completed3/helper denies. Factual7 closeout/finalalignment then end. Next eligible heartbeat verify actualreceipts/fresh sensing and inspect Measuring Tape Jumps card/library/math toy-movement/material-adult-control gaps against retained finder-only history; register bounded first-start qualification only if named gap remains, no presumed repair/newURL/repeated qualification. November1/October30 retained.",
+      "qa_result": "209tests/fourfocused/twicef898771c46373b21a7ba67a69b81e558fc74aaefab1b3eb1c8752c9e0bf74f82/exact7outputs-92site-35canonical-35library-21hub peers/PAGES mathH1headstyleonly/maintainedpreschool HTML-diagram-source conserved/73HTML-1013refs-89fragments-8LD-67URLs/JSON149IDs-349refs-GSC100/privacy PASS. Different Hypatia full18PASS/208nonmutating. Fresh release fetch0/0/emptyunpushed/exact18staged/privateunsafeclaimscan/stagedwhitespaceexit0/reviewedmainpush/exactSHA Pages success/sevenaffected-sevenpreserved live200bytes/same20productionmodes-12incomingBack-8touch-12depthBack-3freshhash-16disclosures-finder-fiveNoJS/allwordfit-canonicalH1creditimages/viewedlive390-root32 PASS. No release retry/regression/physical-family-AT-truezoom-hardware claim; reviewer closed/server8787 stopped.",
+      "reviewer": "Hypatia01a17fef-7894-7e51-ae40-da6305ef307d fresh different full18 cycle-one PASS/noP0-P3.208nonmutating/actual5renderers/conservation/parse-GSC100-149IDs-349refs/privacy-newfileEOF/20modes-routes-touch-depth-disclosures-finder-fiveNoJS/wordfit/current source-boundaries/fourlenses-everysection/all13 independently pass; Master209/twice distinct. Frozen18/HEAD intact/reviewer closed.",
+      "release_commit": "58a11024e80f6cae1bb034ed3c100b3876bb6878",
+      "pages_run": "40610437940 exact58a11024e80f6cae1bb034ed3c100b3876bb6878 completed success; no release marker"
     },
     {
       "id": "KAL-RES-070",
