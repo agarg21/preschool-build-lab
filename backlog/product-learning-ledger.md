@@ -1,5 +1,11 @@
 # Product Learning Ledger
 
+## 2026-10-28 - IMP060 Block First Placement
+
+- Decision/persona: [repair packet](../reviews/block-play-first-start-repair-2026-10-28.md), applies independently completed RES080 to nineactual/sevenrunnable owners plus phantomIndoor/directhost conflicts. Adult trials one three-block/two-high start, optional placement/point/watch/flat/end, top-first collection; preserve peers/CSV/indoor.
+- Hypothesis/classes: one explicit owned-material/role/geometry/decline path should make first start actionable without counting/taller/knockdown/repeat or stability promise. Primary mechanism SOURCE_BACKED; exact recipe/roles/stops EDITORIAL_JUDGMENT; personas RESEARCH_HYPOTHESIS; browser/repo MEASURED; child/physical/time/mess/learning/safety/SEO UNKNOWN.
+- Result/confidence/lesson/trigger: native237/newfour/main36mode-key-touch-chooser-finder-nineNoJS pass; all13 editorial25/26 vs4/26/noN-A/sensory1, not family improvement. Additional actual Mathroot32 introduction892>844 found, bounded scoped cap and explicit rerun gives558.281. High technical/moderate editorial confidence; heading-only is not intro-visible proof. Fullstructured/freshdifferent review/exactSHA production pending. Reopen source/label/criticaltask/clutter/peer/privacy/P0-P2/divergence, not cadence; November1/October30 retained.
+
 COMPLETED learned-only RES080 abfa8f8619d71b615c9a6b04ee962ce5b7719ac6: Erdos fresh full7 PASS/noP0-P3; Master233/reviewer232/exact7-165IDs-404refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/complete unpushed range identity pass. Docs-only main push/freshfetch clean0/0 confirmed06:12:45Z, no Pages wait/site release. Qualifies separate nine-surface Block first-placement repair plus phantomIndoor correction, preserves indoorbytes/CSV/peers. Owned stability/physical-family outcomes UNKNOWN. Completed1; factual7 closeout/push/alignment then original06:45:23.664Z conservative guard before separate build. November1/October30 unchanged.
 
 ## 2026-10-28 - RES080 Block First Placement

@@ -140,7 +140,9 @@ test("all nine builds expose mission, setup, rescue, stop, and parent checks", (
     assert.match(body, /Open (?:the base activity card|the test-and-redesign version)/);
   }
   const tower = builds.find((match) => match[1] === "block-tower")?.[2] ?? "";
-  assert.match(tower, /Keep the tower low and away from faces, overhead areas, walkways, pets, and breakable objects/);
+  assert.match(tower, /firm level floor patch away from feet, doors, walking paths, faces, pets and breakables/);
+  assert.match(tower, /Keep only TWO blocks high/);
+  assert.match(tower, /wider footprint is not a stability guarantee/);
   assert.doesNotMatch(tower, /without a climbing or overhead hazard/);
 });
 

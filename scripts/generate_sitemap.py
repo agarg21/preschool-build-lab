@@ -9,6 +9,7 @@ BASE_URL = "https://kidactivitylab.com"
 NON_CONTENT_HTML = {"googled495b3fc6f0765f8.html"}
 LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"}
 CONTENT_LASTMODS = {
+    "cards/block-tower.html": "2026-10-28",
     "cards/tape-train-tracks.html": "2026-10-28",
     "cards/lego-color-tower.html": "2026-10-28",
     "cards/tube-sculpture.html": "2026-10-28",
@@ -37,7 +38,7 @@ CONTENT_LASTMODS = {
     "articles/paper-helicopter-kids.html": "2026-09-19",
     "articles/paper-cup-tower-kids.html": "2026-10-27",
     "cards/cup-tower.html": "2026-10-27",
-    "collections/independent-activities-for-preschoolers.html": "2026-10-27",
+    "collections/independent-activities-for-preschoolers.html": "2026-10-28",
     "cards.html": "2026-10-28",
     "cards/cardboard-car-ramp.html": "2026-10-13",
     "articles/cardboard-box-car-ramp-preschoolers.html": "2026-10-13",
@@ -52,10 +53,10 @@ CONTENT_LASTMODS = {
     "cards/sound-shaker-match.html": "2026-10-17",
     "cards/sink-or-float-tray.html": "2026-10-24",
     "cards/sock-ball-roll.html": "2026-10-27",
-    "ages/activities-for-3-year-olds-at-home.html": "2026-10-27",
-    "collections/no-prep-activities-for-preschoolers.html": "2026-10-27",
+    "ages/activities-for-3-year-olds-at-home.html": "2026-10-28",
+    "collections/no-prep-activities-for-preschoolers.html": "2026-10-28",
     "collections/science-experiments-for-4-year-olds.html": "2026-10-27",
-    "collections/no-prep-stem-activities-for-4-year-olds.html": "2026-10-27",
+    "collections/no-prep-stem-activities-for-4-year-olds.html": "2026-10-28",
     "collections/stem-activities-for-preschoolers.html": "2026-10-27",
     "articles/cardboard-ball-maze-kids.html": "2026-10-01",
     "articles/painter-tape-road-kids.html": "2026-09-15",

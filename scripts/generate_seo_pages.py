@@ -98,13 +98,39 @@ ACTIVITIES = {
         "title": "Block Tower",
         "url": "../cards/block-tower.html",
         "ages": "3-6",
-        "time": "2 min",
-        "mess": "low",
-        "help": "low",
-        "materials": "blocks",
-        "best_for": "counting, balance, quick resets",
-        "steps": ["Stack blocks.", "Count them.", "Make it taller.", "Start over."],
-        "parent": "Keep towers low around toddlers.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Editorial ages 3-6; check readiness",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult checks, models and stays",
+        "materials": "3 matching intact large lightweight non-interlocking blocks with flat faces; no small or detachable parts, magnets or batteries",
+        "best_for": "choosing one on-top placement or a flat row, not a height or counting challenge",
+        "readiness_groups": [
+            ("Materials", "Follow owned toy age, warning and use labels for EVERY reachable child. Check condition and flat faces. No suitable owned blocks? Choose another activity, not a purchase or substitute small pieces."),
+            ("Adult and space", "Clear a firm level floor patch away from feet, doors, walking paths, faces, pets and breakables. Adult stays beside every reachable child and keeps spares out of reach."),
+            ("Fit or skip", "Try when the child can place gently with help and follow a stop cue. Pointing, watching or declining is valid. Skip for mouthing, younger reach you cannot control, distress or unavailable attention."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab."),
+        ],
+        "stop": "End for mouthing, throwing, climbing, damage, sliding or unstable pieces, unwanted collapse, discomfort or shifted attention. No pushing a tower over or building higher to get a result.",
+        "adult_setup_groups": [
+            ("Trial", "BEFORE child access, place TWO blocks flat side by side, touching. Center the THIRD flat on ONE lower block with its entire bottom supported by that block, NOT across the seam. Keep only TWO blocks high. If it rocks, slides, tips or needs force, remove the top and use a flat row or end."),
+            ("Offer", "Adult takes the top block off FIRST and puts it beside the base. Say: Which lower block could this sit on? Offer one placement, pointing or watching. A wider footprint is not a stability guarantee."),
+        ],
+        "steps": [
+            "Choose one lower block. With adult help, place the third flat on it, or point for the adult; keep its whole bottom supported and only two blocks high.",
+            "If stacking does not fit or is unwanted, adult removes any top FIRST and leaves ALL THREE flat in a row. That is a finished build; watching or ending is valid.",
+            "Adult takes the top off FIRST, if stacked, then collects the base. Repeat with the SAME pieces only if wanted, or finish; no required count, height or knockdown.",
+        ],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If checked blocks do not match or stack, choose a flat row or end; do not add height, force or heavy pieces. Adult keeps pieces low, removes any top before the base, collects ALL THREE blocks and any spares, checks the floor and stores everything out of reach. Duration and mess have not been measured.",
+        "sources": [
+            ("NAEYC: flat stacking and adult modelling", "https://www.naeyc.org/resources/pubs/yc/mar2020/rocking-and-rolling-building-new-skills-block-construction-toddler"),
+            ("NZ Ministry of Education: space, own pace and tidying", "https://www.education.govt.nz/parents-and-caregivers/early-learning/early-learning-home/simple-toys-and-endless-play/blocks-stack-it-build-it-knock-it-down"),
+            ("Mississippi State Extension: clear space and block arrangements", "https://accessibility.extension.msstate.edu/publications/block-play"),
+            ("AAP: owned toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx"),
+        ],
+        "source_note": "Sources checked October28,2026. Flat stacking, adult modelling, clear space, own pace and tidying are source-backed. The three-block, two-high floor start, widened base, trial, roles, stops and flat-row rescue are Kid Activity Lab editorial adaptations, not an inspected creator-video procedure or tested setup. Source photos do not establish this arrangement. Owned block fit, stability, family understanding, timing, mess, enjoyment, learning and safety outcomes are unknown. No product recommendation, developmental rule or safety assurance.",
     },
     "car-ramp-distance-test": {
         "title": "Car Ramp Distance Test",
@@ -779,6 +805,17 @@ ACTIVITIES["tape-train-tracks"]["start_cue"] = " ".join(
 ) + " Stop: " + ACTIVITIES["tape-train-tracks"]["stop"]
 
 
+ACTIVITIES["block-tower"]["fit_cue"] = " ".join(
+    text for _, text in ACTIVITIES["block-tower"]["readiness_groups"]
+)
+ACTIVITIES["block-tower"]["start_cue"] = (
+    ACTIVITIES["block-tower"]["fit_cue"] + " Stop: " + ACTIVITIES["block-tower"]["stop"]
+)
+ACTIVITIES["block-tower"]["adult_setup"] = " ".join(
+    text for _, text in ACTIVITIES["block-tower"]["adult_setup_groups"]
+)
+
+
 PAGES = [
     {
         "path": "ages/activities-for-3-year-olds-at-home.html",
@@ -790,7 +827,7 @@ PAGES = [
         "kicker": "Age 3",
         "description": "Low-prep activities for 3 year olds at home using blocks, tape, cups, paper rolls, toy cars, and household materials.",
         "intro": "Three year olds usually do best with short, visible steps and activities that can be reset quickly. These picks avoid long craft instructions and start with things you probably already have out.",
-        "tip": "Choose low-help ideas first: stacking, rolling, roads, tunnels, and simple pretend play.",
+        "tip": "Use each activity's checks before starting. Block Tower is adult-guided: the adult checks, models and stays beside every reachable child.",
         "activities": ["cup-tower", "cardboard-car-ramp", "tape-road", "paper-roll-drop", "duplo-games", "block-tower", "magnetic-tile-house", "sock-ball-roll"],
         "related": ["games for 3 year olds at home", "fun activities for 3 year olds at home", "indoor activities for 3 year olds at home"],
     },
@@ -875,7 +912,7 @@ PAGES = [
         "kicker": "No prep",
         "description": "No-prep preschool activities parents can start quickly with household items: cups, blocks, toy cars, tape, socks, books, and cardboard.",
         "intro": "This page is for the moment when you need something now. The activities use visible materials, short steps, and quick cleanup. No printable, no long supply list, no complicated craft setup.",
-        "tip": "If you have only two minutes, choose cups, blocks, socks, or a single toy car ramp.",
+        "tip": "Choose what is already out, then read its adult-role checks. Block Tower is an adult-guided small start; its duration and mess are not measured.",
         "activities": ["cup-tower", "block-tower", "cardboard-car-ramp", "sock-ball-roll", "tape-road", "paper-roll-drop", "duplo-games", "magnetic-tile-house", "spoon-transfer"],
         "related": ["easy no prep activities for kids", "no prep activities for toddlers", "no prep activities for kids"],
     },
@@ -1007,7 +1044,7 @@ PAGES = [
                 "link_text": "Open the base blanket-river card",
             },
         ],
-        "activities": ["tape-road", "sock-ball-roll", "blanket-river", "cardboard-car-ramp", "cup-tower", "magnetic-tile-house", "block-tower", "tape-city"],
+        "activities": ["tape-road", "sock-ball-roll", "blanket-river", "cardboard-car-ramp", "cup-tower", "magnetic-tile-house", "tape-city"],
         "related": ["rainy day activities for preschoolers", "active indoor games for preschoolers", "indoor gross motor activities for preschoolers", "screen free activities for kids indoors"],
         "related_routes": [
             ("Preschool building chooser", "Choose a material and structure job when the child wants a deeper build.", "../collections/building-activities-for-4-year-olds.html"),
@@ -1463,7 +1500,7 @@ PAGES = [
         "primary": "math activities for 4 year olds at home",
         "title": "Math Activities for 4 Year Olds at Home | Kid Activity Lab",
         "h1": "Math activities for 4 year olds at home.",
-        "head_style": ".hero h1 { overflow-wrap: anywhere; }",
+        "head_style": ".hero h1 { overflow-wrap: anywhere; } @media (max-width: 480px) { .hero h1 { font-size: min(2.5rem, 43px); } }",
         "kicker": "Early math",
         "description": "Hands-on math activities for 4 year olds at home: patterns, counting, measuring, comparing weight, sorting colors, towers, and tape marks.",
         "intro": "At age 4, math works best when it is built into play. Counting cups, repeating patterns, comparing distance, and balancing objects all give a child math language without a worksheet.",
@@ -1499,7 +1536,7 @@ PAGES = [
         "tip": "Start with a low block home for one favorite toy. Put out six to ten large blocks, set the toy beside them, and ask: Where could the toy go?",
         "building_layout": True,
         "evidence_note": "Kid Activity Lab created this chooser from current source and search research. We have not family-tested these setups. The age-four route, material choices, adult roles, rescue steps, and stop boundaries are editorial guidance; timing, mess, engagement, learning, repeatability, and safety outcomes are unknown.",
-        "readiness_note": "Choose materials that are appropriate for the youngest child who can reach the build. Remove cracked or damaged materials and any piece with an exposed magnet. If any child may mouth materials, stay within reach and watch continuously; skip straws, loose tape, and other loose pieces and use larger solid blocks instead.",
+        "readiness_note": "Choose materials that are appropriate for the youngest child who can reach the build. Remove cracked or damaged materials and any piece with an exposed magnet. If any child may mouth materials, stay within reach and watch continuously; skip straws, loose tape, and other loose pieces and use larger solid blocks instead. The Wide-Base Tower below instead requires skipping for mouthing or younger reach you cannot control; larger blocks do not remove its checks.",
         "image": {
             "src": "../assets/preschool-building/building-material-chooser.webp",
             "alt": "Illustration of large blocks, paper cups, a paper bridge, a cardboard-tube sculpture, and a blanket path as preschool building material choices.",
@@ -1510,7 +1547,7 @@ PAGES = [
         "chooser_title": "Choose by what is ready and what to build",
         "chooser_label": "Preschool building activity chooser",
         "chooser": [
-            ("Large blocks or tiles", [("Toy Home", "#magnetic-tile-house"), ("Wide-Base Tower", "#block-tower")], "Put out a small set and let the child decide the shape."),
+            ("Large blocks or tiles", [("Toy Home", "#magnetic-tile-house"), ("Wide-Base Tower", "#block-tower")], "Wide-Base Tower needs three checked matching blocks; adult models and stays. Toy Home has its own checks."),
             ("Paper cups", ("Cup Doorway", "#cup-tower"), "Keep the build on the floor and the toy lane short."),
             ("Paper, straws, or two low books", [("Paper Path", "#paper-bridge"), ("Straw Span", "#straw-bridge")], "Set the supports; handle cutting or tape."),
             ("Two whole tubes, cardboard base and owned painter tape", ("Tube Sculpture", "#tube-sculpture"), "Adult checks and attaches; child chooses a low arrangement or points. Untaped or end if tape fails."),
@@ -1551,13 +1588,13 @@ PAGES = [
                 "slug": "block-tower",
                 "title": "Wide-Base Tower",
                 "job": "Build up",
-                "materials": "six to ten lightweight blocks",
-                "mission": "Build upward from a base that is wider than the top.",
-                "adult_role": "Set the blocks on the floor and keep the finished build below the child's shoulders.",
-                "steps": ["Make a wide first level.", "Add a smaller level.", "Choose one block for the top."],
-                "rescue": "Use two levels and call the wide base the finished build.",
-                "stop": "Stop if blocks are thrown, used as steps, or stacked near a face, pet, or breakable object.",
-                "parent": "Choose lightweight blocks. Keep the tower low and away from faces, overhead areas, walkways, pets, and breakable objects.",
+                "materials": ACTIVITIES["block-tower"]["materials"],
+                "mission": "Choose one on-top placement above a two-block footprint, or leave all three flat.",
+                "adult_role": ACTIVITIES["block-tower"]["adult_setup"],
+                "rescue": ACTIVITIES["block-tower"]["parent"],
+                "stop": ACTIVITIES["block-tower"]["stop"],
+                "parent": ACTIVITIES["block-tower"]["fit_cue"],
+                "stop_before_action": True,
             },
             "cup-tower": {
                 "slug": "cup-tower",
@@ -1874,7 +1911,7 @@ def building_activity_card(activity):
     early_stop = stop_html if activity.get("stop_before_action") else ""
     late_stop = "" if early_stop else stop_html
     source_note = ""
-    if activity["slug"] in {"blanket-river", "tube-sculpture"}:
+    if activity["slug"] in {"blanket-river", "tube-sculpture", "block-tower"}:
         links = "; ".join(f'<a href="{esc(url)}">{esc(label)}</a>' for label, url in activity["sources"])
         source_note = f'<details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
     return f'''        <article class="seo-activity building-build" id="{esc(activity["slug"])}">

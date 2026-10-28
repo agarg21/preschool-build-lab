@@ -1,5 +1,13 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP060 Lovelace final full32/cycle2 PASS/no remainingP0-P3/native237. [Packet](../reviews/block-play-first-start-repair-2026-10-28.md). Fresh reviewed exact main release/exactSHA production required; not yet production verified. Same retained06:03:01Z/completed1/originalguard.
+
+IMP060 exact32 adds retained Pattern math exact-style fixture before edit after verified Mathintro cap; preserve overflow-wrap assertion and add exact cap. First237aftercap236/1literal failure, finalQA/full32 independent review required.
+
+IMP060 exact31 now includes nine necessary prior-fixture paths registered before edits: additive Block QUICKdispatch/changed-content dates/target tower boundary. No unrelated behavior weakening.
+
+IMP060 REGISTEREDbf6f05e exact22: separately implement reviewed RES080 nineactual/sevenrunnable Block first-placement/flat-or-end/role/collection and phantomIndoor correction. Bounded directly conflicting block host guidance only; preserve peers/indoorbytes/CSV. Same retained06:03:01Z/conservative06:45:23.664Z/completed1. FullQA/differentreview/exactSHA production required.
+
 COMPLETED learned-only RES080 abfa8f8619d71b615c9a6b04ee962ce5b7719ac6: Erdos fresh full7 PASS/noP0-P3; Master233/reviewer232/exact7-165IDs-404refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/complete unpushed range identity pass. Docs-only main push/freshfetch clean0/0 confirmed06:12:45Z, no Pages wait/site release. Qualifies separate nine-surface Block first-placement repair plus phantomIndoor correction, preserves indoorbytes/CSV/peers. Owned stability/physical-family outcomes UNKNOWN. Completed1; factual7 closeout/push/alignment then original06:45:23.664Z conservative guard before separate build. November1/October30 unchanged.
 
 RES080 final Erdos full7 PASS/noP0-P3/native233. [Audit](../reviews/block-play-first-start-audit-2026-10-28.md) qualifies separate bounded repair, not a site release; exact reviewed docs-only main push next.

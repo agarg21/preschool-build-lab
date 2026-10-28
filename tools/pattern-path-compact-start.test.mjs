@@ -28,7 +28,7 @@ test("Pattern Path compact readiness and narrow math H1 wrap stay explicit", () 
   assert.match(card, /class="kid-card pattern-path-card"/);
   assert.match(read("styles.css"), /\.pattern-path-card \.steps-grid \{\s*grid-template-columns: 1fr/);
   assert.match(read("styles.css"), /#continue-a-pattern \{\s*scroll-margin-top: max\(104px, 6rem\)/);
-  assert.match(read(owners[1]), /<style>\.hero h1 \{ overflow-wrap: anywhere; \}<\/style>/);
+  assert.match(read(owners[1]), /<style>\.hero h1 \{ overflow-wrap: anywhere; \} @media \(max-width: 480px\) \{ \.hero h1 \{ font-size: min\(2\.5rem, 43px\); \} \}<\/style>/);
   for (const path of [owners[0], owners[2], "collections/stem-activities-for-preschoolers.html"]) assert.doesNotMatch(read(path), /<style>\.hero h1 \{ overflow-wrap: anywhere; \}<\/style>/);
 });
 

@@ -94,7 +94,7 @@ test("library inventory, independent exception, scoped fit and dated routes rema
   const sitemap = read("sitemap.xml");
   assert.equal((sitemap.match(/<loc>/g) || []).length, 67);
   for (const path of ["cards/box-garage.html", "cards.html", "ages/activities-for-4-year-olds-at-home.html", "ages/activities-for-6-year-olds-at-home.html", "collections/independent-activities-for-preschoolers.html", "collections/engineering-activities-for-4-year-olds.html"]) {
-    const date = ["cards.html", "ages/activities-for-4-year-olds-at-home.html", "ages/activities-for-6-year-olds-at-home.html"].includes(path) ? "2026-10-28" : "2026-10-27";
+    const date = ["cards.html", "ages/activities-for-4-year-olds-at-home.html", "ages/activities-for-6-year-olds-at-home.html", "collections/independent-activities-for-preschoolers.html"].includes(path) ? "2026-10-28" : "2026-10-27";
     assert.ok(sitemap.includes(`${path}</loc>\n    <lastmod>${date}</lastmod>`), path);
   }
 });

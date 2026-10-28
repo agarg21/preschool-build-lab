@@ -797,6 +797,46 @@ th {
   scroll-margin-top: max(104px, 6rem);
 }
 
+.block-tower-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.block-tower-card h1 {
+  font-size: 1.7rem;
+  line-height: 1.15;
+}
+
+.block-tower-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.block-tower-card .step-tile {
+  min-height: 0;
+}
+
+.block-tower-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.block-tower-card .block-tower-materials,
+.block-tower-card .block-tower-readiness {
+  line-height: 1.5;
+}
+
+.block-tower-card .block-tower-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.block-tower-card .block-tower-readiness p {
+  margin: 8px 0 0;
+}
+
 .train-station-card {
   max-width: 720px;
   margin: 0 auto;
