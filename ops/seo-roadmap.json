@@ -6,6 +6,51 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-074",
+      "title": "Qualify Spoon Transfer material fit and adult control",
+      "kind": "existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "608a950da79eed5d7c9cda3c84c4ac0455fb63c5",
+      "exact_paths": [
+        "reviews/spoon-transfer-first-start-audit-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "RES074 IMPROVE six existing Spoon Transfer owners separately plus bounded fine-motor host tip; withdraw non-choking/supervision assurance, qualify single age-labelled owned play-pom/spoon-two bowls-tray/adult fit trial/point-watch-decline/drop-end/cleanup editorial reduction. Current MontessoriLesson4/SDN/ToyFoundation/Georgia/NAEYC bodies+AAP same-invocation context/SDNvisual; ten200bytes/24modes-fit/20late/15keyboardBack/finder-sixNoJS, legacy6/26/all13. No newURL, race/food/tongs/therapy or outcome proof; peer bodies preserved. Native217/full7different review/docsrelease pending; actual02:04:12Z/completed2/third-final/no fourth/deadline02:49:12Z/November1.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Caregiver must choose or decline an actual spoonable material/tool/bowl fit, know who handles/collects, account for younger reach/mouthing/attention, perform one transfer or point/watch and stop-clean without a non-choking assurance or forced repetition.",
+      "hypothesis": "Current primary transfer/material guidance and six-owner actual task can qualify improve/preserve/pause/defer with concrete material-fit/adult-control/stop and host-tip limits, without inventing a new recipe or requiring unavailable family testing.",
+      "acceptance": "Current live queryfamily/primary bodies/relevantvisuals, actual card/library/four hub task/source-owned comparison, fourlenses/everysection/all13 explicit denominator. Decision includes universal non-choking withdrawal, large-object/spoon fit, adult/younger reach, nonresult/end/cleanup, and narrowly bounded fine-motor host-tip correction if supported. No newURL or assumed build/default.",
+      "qa_plan": "Native217/jq/JSON-GSC100-uniqueIDs-docrefs/privacy/exact7/EOF/diffcheck; six-owner livebytes/desktop-mobile-root32/keyboardBack/finder/noJS baseline as appropriate. Different full7 independent read-only review/fixP0-P2/fresh completed fetch/no divergence/fullunpushed/exactreviewedstage-stagedcheckexit0/docs-onlymainpush/factualcloseout/alignment.",
+      "invariants": "Site/code/data/assets/config/scheduler/ControlRoom read-only. Preserve Cup/ToyDistance/Pattern/others; no peer-body rewrites or newURL/demand/paid/product/indexing/outreach/clinical/universal safety/physical-family-learning claims. Third-final/no fourth; any supported repair next eligible run separately registered.",
+      "observation_window": "Sameheartbeat02:04:07.121Z/immutableactual02:04:12Z NYOctober27/completed2/third-final/no fourth/startdeadline02:49:12Z. Registered after clock02:38:37Z and clean release608a950. November1/October30/global cutoff retained.",
+      "reconsider_if": "Prior exact qualification, already adequate owner, material/tool/control or sourcevisual conflict, critical missing owned behavior or clinical/product dependence, P0-P2/privacy/peerdrift/divergence. Explicit decline/pause preferable to invented non-choking or supervision assurance.",
+      "blockers": "No dependency blocker for research. Owned fit/strength/outcomes UNKNOWN and explicit precheck/decline; no arbitrary family-test prerequisite.",
+      "next_action": "Fresh completedfetch/no divergence/fullunpushed/exact7 stage/private-unsafeclaim-EOF-whitespace exit0/docs-onlymainpush/factualcloseout/finalalignment. Third-final/no fourth; next eligible separate Spoon Transfer six-owner/host-tip repair.",
+      "phase": "independent_review_passed",
+      "independent_review": {
+        "reviewer": "Plato",
+        "id": "01a18081-1f1a-7a40-afa5-408a75f2b910",
+        "verdict": "PASS",
+        "cycles": 2,
+        "findings": "No remaining P0-P3; stale-QA-status P3 corrected and bounded confirmation accepted",
+        "scope": "Full7 at608a950; substantivepacket/sixpeer hashes/HEAD intact",
+        "qa": "Plato (01a18081-1f1a-7a40-afa5-408a75f2b910) fresh different independent final full7 PASS/noP0-P3, cycle2/3. Stale-QA-status P3 corrected; sole paragraph correction preserves substantive source/decision/brief, other6 hashes/HEAD intact. Independently216nonmutating/100GSC-155IDs-361docrefs/exact7/privacy-EOF-whitespace/ten200bytes/18normaltext browsermodes-5keyboardBack/finder1-zero-keyboardClear36focus/spoon3materialmatches/sixprimary bodies-independently downloadedSDNimage pass. Master217/full24root32-20late-15keyboardBack-sixNoJS distinct; source-to-default changes editorial, no physical/owned-fit/family outcome proof. Reviewer closed; fresh exact docs-only release/alignment pending, third-final/no fourth/same02:04:12Z."
+      },
+      "qa_result": "Master217/jq/exact7/155uniqueIDs/361originaldocrefs/GSC100/privacy/EOF-whitespace. Tenlivebytes/24modes-fit/20late/15keyboardBack/finder-sixNoJS; independent216/18normalmodes/5keyboardBack distinct."
+    },
+    {
       "id": "KAL-RES-073",
       "title": "Qualify an I Spy start for preschool non-readers",
       "kind": "play-lane-guide-discovery",
