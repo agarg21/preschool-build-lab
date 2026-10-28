@@ -91,14 +91,38 @@ ACTIVITIES = {
     "magnetic-tile-house": {
         "title": "Magnetic Tile House",
         "url": "../cards/magnetic-tile-house.html",
+        "flat_house": True,
         "ages": "3-6",
-        "time": "3 min",
-        "mess": "low",
-        "help": "low",
-        "materials": "magnetic tiles, small toy",
-        "best_for": "spatial play, pretend play, quiet time",
-        "steps": ["Make walls.", "Add a roof.", "Put a toy inside.", "Open the door."],
-        "parent": "Do not use cracked magnetic tiles.",
+        "age_label": "Check abilities, not age alone",
+        "time": "Time not measured",
+        "mess": "Not measured",
+        "mess_label": "Cleanup not measured",
+        "help": "high",
+        "help_label": "Adult stays beside setup",
+        "materials": "TWO intact LARGE tiles from ONE identifiable, age-labelled owned set: ONE square and ONE triangle; firm low dry level space",
+        "start_cue": "Flat picture only. Adult stays. Skip mouthing or uncertain fit.",
+        "best_for": "The standing-house version is withdrawn. This is an optional DIFFERENT task: a flat house PICTURE, not a room for a toy. Nothing goes inside; there is NO opening door",
+        "adult_setup_groups": [
+            ("Fit or decline", "Check the owned set's identity, age labels, warnings, use and recall notices for EVERY reachable child. Inspect faces, edges and joins for cracks, damage, loose or missing parts and exposed magnets. Use only the TWO intact LARGE shapes if appropriate for them all. Unknown identity, labels, condition or uncontrolled younger reach means decline. No tiny or mini pieces, loose magnets, balls, rods, cubes, mixed-set assumptions, dismantling or taped repairs. Inspection and supervision do not certify suitability."),
+            ("Adult and space", "Clear a firm low dry level space away from edges and traffic. Stay beside EVERY reachable child and control both tiles and all spares throughout. Skip for mouthing, rough handling or unavailable attention. Try only if the child can lay a piece gently and pause on request; otherwise the adult places while the child watches or points, or decline."),
+        ],
+        "stop": "End for mouthing, throwing, discomfort, damage, missing parts, exposed magnets, uncontrolled movement, uncertain reach or shifted adult attention. If the pieces cannot remain flat under adult control, separate them or end. For damaged or uncertain material, follow the owned maker's guidance; do not repair and continue.",
+        "adult_setup": "Lay the square FLAT. Lay the triangle FLAT outside ONE square edge, with its broad edge facing the square and opposite corner pointing away. A SMALL GAP is fine: no magnetic join, snap, force, upright wall or supported roof is needed. If pieces pull together or repel, separate them and leave a gap, or end.",
+        "steps": [
+            'Adult says: "This square is the house picture. Which way could the roof point?"',
+            "Lay the triangle flat as modelled, point, watch or decline. No naming, counting or story is required.",
+            "Notice the square body and triangle roof as a PICTURE. Keep both flat; nothing goes inside.",
+            "If wanted, the adult moves one flat piece apart to reset. Otherwise end.",
+        ],
+        "parent": "Adult controls separation and accounts for BOTH tiles, checks for damage and stores them and all spares away. Leave a gap or end if movement is not controlled. This is not a standing-house or toy-enclosure recipe.",
+        "sources": [
+            ("MAGNA-TILES: beginner flat-house option", "https://magnatiles.com/"),
+            ("MAGNA-TILES: supervision and condition", "https://magnatiles.com/pages/faq"),
+            ("Manufacturer flat house pattern", "https://cdn.shopify.com/s/files/1/0734/5009/4831/files/HauntedHouse.pdf?v=1791815584"),
+            ("CPSC: magnet context", "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Magnets"),
+            ("AAP: owned toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx"),
+        ],
+        "source_note": "Sources checked October28,2026. Manufacturer text supports laying simple houses flat; its inspected flat pattern uses mini tiles and a printable, which we do NOT transfer. Our TWO LARGE owned shapes, gap, layout, roles, rescue and stop are editorial synthesis, not that exact pattern or an inspected creator-video procedure. Brand, source ages and supervision do not establish owned-set fit, compatibility, strength or safety. Research-backed, not family-tested by Kid Activity Lab. Time, mess, comprehension, enjoyment, engagement, learning, repeatability and safety outcomes are UNKNOWN. No product recommendation or purchase is needed.",
     },
     "magnetic-tile-ideas": {
         "title": "Magnetic Tile Builds",
@@ -1127,7 +1151,7 @@ PAGES = [
                 "link_text": "Open the base blanket-river card",
             },
         ],
-        "activities": ["tape-road", "sock-ball-roll", "blanket-river", "cardboard-car-ramp", "cup-tower", "magnetic-tile-house"],
+        "activities": ["tape-road", "sock-ball-roll", "blanket-river", "cardboard-car-ramp", "cup-tower"],
         "related": ["rainy day activities for preschoolers", "active indoor games for preschoolers", "indoor gross motor activities for preschoolers", "screen free activities for kids indoors"],
         "related_routes": [
             ("Preschool building chooser", "Choose a material and structure job when the child wants a deeper build.", "../collections/building-activities-for-4-year-olds.html"),
@@ -1618,10 +1642,11 @@ PAGES = [
         "kicker": "Preschool building | Age 4 route included",
         "description": "Choose preschool building activities with blocks, cups, magnetic tiles, paper, straws, tubes, and blankets. Start by material and the kind of structure a child wants to make.",
         "intro": "Choose what is already out, then give the child one structure job: make a place, build up, span a gap, shape a sculpture, or build big on the floor. These research-backed routes keep the design with the child and make the adult setup visible.",
-        "tip": "Start with a low block home for one favorite toy. Put out six to ten large blocks, set the toy beside them, and ask: Where could the toy go?",
+        "tip": "The old block-or-tile Toy Home instructions are withdrawn. For a toy-entry job, Box Garage uses DIFFERENT materials: an already-open box and a suitable owned car, not tiles or a flat picture. Read its checks before handling materials or decline.",
+        "tip_link": ("Check the different Box Garage start", "../cards/box-garage.html"),
         "building_layout": True,
         "evidence_note": "Kid Activity Lab created this chooser from current source and search research. We have not family-tested these setups. The age-four route, material choices, adult roles, rescue steps, and stop boundaries are editorial guidance; timing, mess, engagement, learning, repeatability, and safety outcomes are unknown.",
-        "readiness_note": "Choose materials that are appropriate for the youngest child who can reach the build. Remove cracked or damaged materials and any piece with an exposed magnet. If any child may mouth materials, stay within reach and watch continuously; skip straws, loose tape, and other loose pieces and use larger solid blocks instead. The Wide-Base Tower below instead requires skipping for mouthing or younger reach you cannot control; larger blocks do not remove its checks.",
+        "readiness_note": "Choose materials that are appropriate for the youngest child who can reach the build. Remove cracked or damaged materials and any piece with an exposed magnet. If any child may mouth materials, stay within reach and watch continuously; skip straws, loose tape, and other loose pieces and use larger solid blocks instead. The Wide-Base Tower below instead requires skipping for mouthing or younger reach you cannot control; larger blocks do not remove its checks. The different flat house picture and Box Garage also require skipping for mouthing or uncertain reach; the larger-block/watch suggestion does NOT override either activity's checks.",
         "image": {
             "src": "../assets/preschool-building/building-material-chooser.webp",
             "alt": "Illustration of large blocks, paper cups, a paper bridge, a cardboard-tube sculpture, and a blanket path as preschool building material choices.",
@@ -1632,7 +1657,8 @@ PAGES = [
         "chooser_title": "Choose by what is ready and what to build",
         "chooser_label": "Preschool building activity chooser",
         "chooser": [
-            ("Large blocks or tiles", [("Toy Home", "#magnetic-tile-house"), ("Wide-Base Tower", "#block-tower")], "Wide-Base Tower needs three checked matching blocks; adult models and stays. Toy Home has its own checks."),
+            ("Already-open box and suitable owned car (DIFFERENT materials)", ("Toy Home", "#magnetic-tile-house"), "Read the maintained Box Garage checks before handling; skip if fit, reach or adult attention is uncertain."),
+            ("Large blocks", ("Wide-Base Tower", "#block-tower"), "Wide-Base Tower needs three checked matching blocks; adult models and stays."),
             ("Paper cups", ("Cup Doorway", "#cup-tower"), "Keep the build on the floor and the toy lane short."),
             ("Paper, straws, or two low books", [("Paper Path", "#paper-bridge"), ("Straw Span", "#straw-bridge")], "Set the supports; handle cutting or tape."),
             ("Two whole tubes, cardboard base and owned painter tape", ("Tube Sculpture", "#tube-sculpture"), "Adult checks and attaches; child chooses a low arrangement or points. Untaped or end if tape fails."),
@@ -1649,13 +1675,12 @@ PAGES = [
                 "slug": "magnetic-tile-house",
                 "title": "Toy Home",
                 "job": "Make a place",
-                "materials": "six to ten intact large magnetic tiles or blocks, one large toy",
-                "mission": "Make a place with an opening where the toy can go inside and come back out.",
-                "adult_role": "Choose intact pieces, place the toy beside them, and keep the build on the floor.",
-                "steps": ["Make two side walls.", "Leave an opening for the toy.", "Add a back wall or roof if wanted."],
-                "rescue": "Use three walls and leave the roof off.",
-                "stop": "Stop if a tile is cracked, a magnet is exposed, or pieces are thrown or mouthed.",
-                "parent": "Follow the toy maker's age guidance and remove damaged magnetic pieces immediately.",
+                "checked_handoff": True,
+                "handoff_url": "../cards/box-garage.html",
+                "handoff_label": "Check the different Box Garage start",
+                "materials": "DIFFERENT materials: an already-open box and suitable owned car, not magnetic tiles or blocks",
+                "mission": "After the linked checks, choose the maintained park-and-out task or decline. A flat tile picture is NOT a room for a toy.",
+                "parent": "The previous tile-or-block house instructions are withdrawn. Read the Box Garage owned-material, fit, adult-role, stop and collection checks BEFORE handling. Adult stays beside every reachable child; skip mouthing, uncertain reach, unsuitable materials or unavailable attention. Do not substitute tiles into that recipe.",
             },
             "magnetic-tile-ideas": {
                 "slug": "magnetic-tile-ideas",
@@ -1922,7 +1947,7 @@ def activity_card(activity):
             for label, text in activity["adult_setup_groups"]
         )
         adult_setup = '\n          <div class="activity-setup"><strong>Adult setup:</strong>' + setup_paragraphs + '</div>'
-    if activity.get("distance_start") or activity.get("tube_drop"):
+    if activity.get("distance_start") or activity.get("tube_drop") or activity.get("flat_house"):
         adult_setup += f'\n          <p><strong>Stop:</strong> {esc(activity["stop"])}</p><p><strong>First model:</strong> {esc(activity["adult_setup"])}</p><p>Research-backed, not family-tested by Kid Activity Lab. Time, mess and physical outcomes are unknown.</p>'
     source_note = ""
     if activity.get("sources"):
@@ -2009,6 +2034,16 @@ def engineering_activity_card(activity):
 
 
 def building_activity_card(activity):
+    if activity.get("checked_handoff"):
+        return f'''        <article class="seo-activity building-build" id="{esc(activity["slug"])}">
+          <p class="challenge-label">{esc(activity["job"])}</p>
+          <h2>{esc(activity["title"])}</h2>
+          <p>{esc(activity["materials"])}</p>
+          <p><a class="small-link" href="{esc(activity["handoff_url"])}">{esc(activity["handoff_label"])}</a></p>
+          <p><strong>Before starting:</strong> {esc(activity["parent"])}</p>
+          <p>{esc(activity["mission"])}</p>
+          <p>Research-backed, not family-tested by Kid Activity Lab. Time, mess and physical outcomes are unknown.</p>
+        </article>'''
     steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
     link = ""
     if activity["url"]:
@@ -2352,6 +2387,7 @@ def engineering_page_html(page):
 
 def building_page_html(page):
     root = rel_root(page["path"])
+    tip_link = f'<p><a href="{esc(page["tip_link"][1])}">{esc(page["tip_link"][0])}</a></p>' if page.get("tip_link") else ""
     head_style = f'\n    <style>{page["head_style"]}</style>' if page.get("head_style") else ""
     activity_html = "\n".join(
         building_activity_card(page_activity(page, key))
@@ -2413,7 +2449,7 @@ def building_page_html(page):
 
       <section class="seo-page building-page">
         <div class="callout">
-          <strong>Start here:</strong> {esc(page["tip"])}
+          <strong>Start here:</strong> {esc(page["tip"])}{tip_link}
         </div>
 
         <div class="building-disclosure" role="note">

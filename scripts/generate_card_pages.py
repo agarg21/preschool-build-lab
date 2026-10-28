@@ -285,6 +285,8 @@ def related_routes_html(slug, include_guide=True, max_links=MAX_RELATED_ROUTES):
 
 
 def page(row, slug):
+    if slug == "magnetic-tile-house":
+        return flat_house_page()
     if slug in {"paper-roll-drop", "pom-pom-drop"}:
         return tube_drop_page(slug)
     if slug == "cardboard-car-ramp":
@@ -695,6 +697,47 @@ def foil_boat_page():
       <p><a href="../cards.html">Choose another activity</a></p>
     </article></main>
     <footer class="site-footer"><p>Kid Activity Lab</p></footer>
+  </body>
+</html>
+'''
+
+
+def flat_house_page():
+    activity = ACTIVITIES["magnetic-tile-house"]
+    checks = "".join(f'<p><strong>{esc(label)}:</strong> {esc(text)}</p>' for label, text in activity["adult_setup_groups"])
+    steps = "".join(f'<li>{esc(step)}</li>' for step in activity["steps"])
+    sources = "; ".join(f'<a href="{esc(url)}">{esc(label)}</a>' for label, url in activity["sources"])
+    routes = related_routes_html("magnetic-tile-house", include_guide=False, max_links=3)
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Magnetic Tile House Activity Card | Kid Activity Lab</title>
+    <meta name="description" content="The standing-house version is withdrawn. Choose a different flat house picture with two checked owned shapes, adult control and gap-or-end choices. Not family-tested.">
+    <link rel="canonical" href="https://kidactivitylab.com/cards/magnetic-tile-house.html">
+    <link rel="stylesheet" href="../styles.css?v=nav-stable-2">
+    <style>.flat-house-card {{ max-width: 720px; margin: 0 auto; overflow-wrap: anywhere; }} .flat-house-card h1 {{ font-size: min(1.7rem, 43px); line-height: 1.15; }} .flat-house-card h2 {{ font-size: 1.15rem; }} .flat-house-card li {{ margin-bottom: 0.7rem; }}</style>
+  </head>
+  <body>
+    <header class="site-header"><nav class="nav" aria-label="Main navigation"><a class="brand" href="/">Kid Activity Lab</a><div class="nav-links"><a href="/">Home</a><a href="../original/">Original</a><a href="../cards.html">Cards</a></div></nav></header>
+    <main class="card-shell"><article class="kid-card flat-house-card">
+      <p class="kicker">A different flat-picture task</p>
+      <h1>Magnetic Tile House</h1>
+      <p class="flat-house-start-cue"><strong>{esc(activity["start_cue"])}</strong></p>
+      <p>{esc(activity["best_for"])}. Research-backed, not family-tested by Kid Activity Lab. Time and mess are not measured.</p>
+      <p><strong>Need:</strong> {esc(activity["materials"])}</p>
+      {checks}
+      <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
+      <p><strong>Adult model:</strong> {esc(activity["adult_setup"])}</p>
+      <h2>Make a picture, not a room</h2>
+      <ol class="flat-house-steps">{steps}</ol>
+      <p><strong>Rescue and collection:</strong> {esc(activity["parent"])}</p>
+      <p>Want a toy to go inside? <a href="box-garage.html">Check the different Box Garage start</a>: an already-open box and suitable owned car, not tiles. Read its checks before handling or decline.</p>
+      <details><summary>Sources and testing status</summary><p>{sources}.</p><p>{esc(activity["source_note"])}</p></details>
+{routes}
+    </article></main>
+    <footer class="site-footer"><p><a href="../cards.html">Back to activity cards</a></p></footer>
   </body>
 </html>
 '''
@@ -1162,6 +1205,8 @@ def cards_index():
         if slug == "balance-scale-baskets":
             search_text += " Balance Basket Scale"
         summary = (
+            f'Flat PICTURE, not a toy room; adult stays beside | {activity["time"]} · {activity["materials"]}'
+            if activity.get("flat_house") else
             f'Same held-tube default; adult holds throughout | {activity["time"]} · {activity["materials"]}'
             if activity.get("tube_drop") else
             "Paused; choose a non-magnet activity"

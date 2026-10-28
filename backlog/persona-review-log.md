@@ -1,5 +1,11 @@
 # Persona Review Log
 
+IMP065 independent reviewer01a182a4-238b-7bf2-93cd-426b65cfcba5 fresh full19/cycle1 PASS/noP0-P3; Master257/independent256/conservation/local32modes and earliercallout/BoxGarage arrivals verified. [Receipt](../reviews/magnetic-tile-house-first-start-repair-2026-10-28.md). Source/site bytes frozen unchanged; fresh exact main release/exactSHA Pages/live task next, not delivered yet. Conservative12:59:25.176/count0/deadline13:44:25.176 unchanged; reviewer browsers closed, Masterserver8799 retained.
+
+## 2026-10-28 - IMP065 House Task Identity
+
+[Repair](../reviews/magnetic-tile-house-first-start-repair-2026-10-28.md): source-derived novice/material-attention/ability-interest/toyroom-reset lenses and everysection; NEW flat-picture all13 24/26/noN-A (sensory1/detours1), NOT gain versus old standing2/26. Local11bytes32modes16forms16disclosures12incomingkey8touchBack/9boxkey6touchBack including EARLIERcallout-module-card/9relatedkey6touchBack/3chooserkey2touch3hash/finder-eightNoJS/non-tableword-parentfit PASS. Root32cue592.75-797.5/viewport844; ToyHomeheading178.625-225.281/header142.828. Full checks still scroll; no physical-family/AT/truezoom/outcome evidence. Freshdifferent full19 review/exactSHA production pending.
+
 RES085 COMPLETED learned-only4f4f355/final independent full7cycle2PASS/native253/docs-onlymainaligned12:47:56Z; [release/next brief](../reviews/magnetic-tile-house-first-start-audit-2026-10-28.md). Earlier Building Start here P2 reconciled explicitly; qualified different-task flatpicture/ToyHome boxroute/phantomIndoor repair NEXT eligible, not delivered. Completed2/original12:01:32/deadline12:46:32 expired/no third; no known dependency blocker.
 
 RES085 independent reviewer01a18284-a7c0-7823-b394-ebc35e93b02b full7/cycle2 PASS/no remainingP0-P3; soleP2 earlier Building Start here explicitly reconciled in brief. Master253/independent252. [Review/next brief](../reviews/magnetic-tile-house-first-start-audit-2026-10-28.md). Reviewer/browser closed/no server. Exact docs-only release/factualcloseout/alignment next; original12:01:32/count1/deadline12:46:32 expired, finish existing only/qualified build NEXT eligible/no third.

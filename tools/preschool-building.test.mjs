@@ -97,9 +97,9 @@ test("page states evidence limits before the illustration and chooser", () => {
 
 test("material chooser, support steps, and architecture boundary are complete", () => {
   const chooser = html.match(/<section class="chooser"[\s\S]*?<\/section>/)?.[0] ?? "";
-  assert.equal([...chooser.matchAll(/<tr>/g)].length, 6);
+  assert.equal([...chooser.matchAll(/<tr>/g)].length, 7);
   for (const label of ["What is ready", "Build job", "Adult role"]) {
-    assert.equal([...chooser.matchAll(new RegExp(`data-label="${label}"`, "g"))].length, 5);
+    assert.equal([...chooser.matchAll(new RegExp(`data-label="${label}"`, "g"))].length, 6);
   }
   assert.deepEqual(
     [...chooser.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map((match) => [match[2], match[1]]),
@@ -129,10 +129,19 @@ test("material chooser, support steps, and architecture boundary are complete", 
   assert.match(html, /neighboring pages support different activity goals/);
 });
 
-test("all nine builds expose mission, setup, rescue, stop, and parent checks", () => {
+test("eight runnable builds retain checks and Toy Home has a distinct checked handoff", () => {
   const builds = [...html.matchAll(/<article class="seo-activity building-build" id="([^"]+)">([\s\S]*?)<\/article>/g)];
   assert.deepEqual(builds.map((match) => match[1]), buildSlugs);
   for (const [slug, body] of builds.map((match) => [match[1], match[2]])) {
+    if (slug === "magnetic-tile-house") {
+      assert.match(body, /DIFFERENT materials: an already-open box and suitable owned car/);
+      assert.match(body, /href="\.\.\/cards\/box-garage.html"/);
+      assert.match(body, /checks BEFORE handling/);
+      assert.match(body, /skip mouthing, uncertain reach/);
+      assert.match(body, /previous tile-or-block house instructions are withdrawn/);
+      assert.doesNotMatch(body, /<li>|Open the base activity card|href="\.\.\/cards\/magnetic-tile-house.html"/);
+      continue;
+    }
     for (const label of ["Kid mission:", "Need", "Adult setup:", "If the build stalls", "Stop:", "Parent check:"]) {
       assert.ok(body.includes(label), `${slug} is missing ${label}`);
     }
