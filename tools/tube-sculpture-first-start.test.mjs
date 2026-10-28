@@ -47,7 +47,7 @@ print(json.dumps({p:with_contributor_credit(h,p) for p,h in out.items()}))`;
   assert.equal(Object.keys(out).length, 5);
   for (const [path, html] of Object.entries(out)) assert.equal(html, read(path), path);
   const source = fs.readFileSync("scripts/generate_card_pages.py", "utf8");
-  assert.match(source, /quick_page\(slug\) if slug in \{"cup-tower", "duplo-games", "tube-sculpture", "lego-color-tower", "tape-train-tracks", "block-tower"\} else page\(row, slug\)/);
+  assert.match(source, /quick_page\(slug\) if slug in \{"cup-tower", "duplo-games", "tube-sculpture", "lego-color-tower", "tape-train-tracks", "block-tower", "tape-city"\} else page\(row, slug\)/);
 });
 
 test("Tube Sculpture routes only to actual owners, keeps finder/inventories and corrects the target chooser", () => {

@@ -1,5 +1,13 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP061 final Pascal full26/cycle1 PASS/noP0-P3/native241. [Receipt](../reviews/tape-city-first-start-repair-2026-10-28.md). Fresh exact main release/exactSHA production next; no new selection, same07:57:32Z originalclock.
+
+IMP061 Master241/exact26/168IDs/425refs/GSC100/privacy-EOF-whitespace/local32mode fulltask/conservation PASS; [packet](../reviews/tape-city-first-start-repair-2026-10-28.md). Fresh different full26review/exactSHA production next, original07:57:32Z/queued09:03 finish-only, no new selection.
+
+IMP061 exact26 now includes six necessary fixture paths registered before edits; initial237 pass231/fail6 on additive dispatch/City label assumptions. Queued09:03 heartbeat does not restart original07:57 clock; finish existing only. No new build/qualification selection.
+
+IMP061 REGISTEREDa1d3f2c exact20: apply [RES081](../reviews/tape-city-first-start-handoff-audit-2026-10-28.md) seveneditable/fourrunnable City guide-first repair, target phantomIndoor/toycarfit/age4 host conflict. Preserve maintained guide/card/asset/actualindoor/CSV/noindex/peers. New actual07:57:32Z/completed0/deadline08:42:32Z; fullQA/freshdifferent review/exactSHA production required. No repeat qualification/newURL.
+
 COMPLETED learned-only RES08155c4e5775e62e6cd765fec75d92492c034c10dcd: Gibbs final full7/cycle2 PASS/no remainingP0-P3; Master237/independent236/exact7-167IDs-417refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/complete unpushed range identity passed. Docs-only main push/freshfetch clean0/0 confirmed07:08:12Z; no Pages wait or site delivery. Qualifies seveneditable/fourrunnable City repair plus phantomIndoor and toycarroot32fit, preserving guide/card/asset/actualindoor/noindex. NewURL deferred; physical/family/SEO outcomes UNKNOWN. Completed3/no fourth; original06:03:01Z clock retained despite queued06:58 heartbeat.
 
 RES081 final Gibbs full7/cycle2 PASS/no remainingP0-P3/Master237. [Receipt](../reviews/tape-city-first-start-handoff-audit-2026-10-28.md). Sole library inventory P3 corrected; exact docs-only release next, no fourth or future-build approval.

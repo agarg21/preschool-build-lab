@@ -1,5 +1,17 @@
 # Current Cycle
 
+IMP061 Pascal fresh full26/cycle1 PASS/noP0-P3/frozen26HEAD intact. [Receipt](../reviews/tape-city-first-start-repair-2026-10-28.md). Master241/independent240/fulltask/conservation pass; reviewer/browser closed, Masterserver8795 still needed. Fresh exact reviewed release/exactSHA production next, original07:57:32Z/completed0/queued09:03 finish-only, no new selection.
+
+IMP061 Master241/fournew/all3twice finalsite8ee0c0cb49ca1be6f9c9c3cdd30089bba2c64d1599801c3e261064522608ec25/nineoutputs-90sitepeers-35canonical-35library-7/7/7hubpeers-staticpeers/CSV conserved.73HTML1017refs89fragments8LD67URLs/local14bytes32modes-21incomingkeyBack14touchBack-12outkeyBack8touchBack-16disclosures/finder title1-material1-zero-keyClear36focus/eightNoJS/non-tableword-H1parentfit-runtime pass.390/root32 top/setup/guidearrival/toycar captures viewed. Generic materialquery first matched4; corrected actual City phrase and fullmatrix rerun, BOTH-toy exclusions explicit. All13card25/26 vs7/26/noN-A/sensory1/editorial only. Structured/freshdifferent full26review/exactSHA production next, same actual07:57:32Z/completed0/finish existing only; no new selection.
+
+IMP061 scope20->26 BEFORE six fixture edits: five additive CSV QUICKdispatch literals plus City guide-label test. Initial237 pass231/fail6, not green; prior behavior checks retained. Newest queued09:03:54.324Z/actual09:04:01Z has no redirect; retain original07:57:32Z/completed0/deadline08:42:32Z/helpercan_start=false. Finish existing transaction only, no new selection this run. FullQA/review/exactSHA production still required.
+
+## Run Checkpoint - Tape City Repair
+
+- Newest heartbeat07:57:24.073Z; actualrun07:57:32Z/03:57:32EDT/completed0/max3/new-actiondeadline08:42:32Z. Prior run fully closed a1d3f2c; fresh mainclean0/0/no incoming/unfinished release/new redirect. Sprint active; November1/October30/global cutoff unchanged.
+- IMP061 REGISTERED exact20 before edits: apply reviewed RES081 City seveneditable/fourrunnable guide-first fit/roles/stop/optionalflatblock/collection, target phantomIndoor and toycarroot32fit/age4 host contradiction. Preserve guide/card/asset/actualindoor/CSV/noindex/peers; no newURL or physical guarantee. Library already Open-ended, retained.
+- Next implement source/actual CSV dispatch/targetstatic summaries/scoped style; register necessary fixtures before edits; fullnative/all3twice/conservation/links/desktopmobile-root32-keytouchBack-finder-noJS-wordfit/disclosures/errors/all13-everysection/different fullscope review/exactSHA Pages/livebytes-task/factualcloseout/alignment. No known dependency blocker.
+
 ## Run Checkpoint - Invocation Complete
 
 - COMPLETED learned-only RES08155c4e5775e62e6cd765fec75d92492c034c10dcd: Gibbs final full7/cycle2 PASS/no remainingP0-P3; Master237/independent236/exact7-167IDs-417refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/complete unpushed range identity passed. Docs-only main push/freshfetch clean0/0 confirmed07:08:12Z; no Pages wait or site delivery. Qualifies seveneditable/fourrunnable City repair plus phantomIndoor and toycarroot32fit, preserving guide/card/asset/actualindoor/noindex. NewURL deferred; physical/family/SEO outcomes UNKNOWN. Completed3/no fourth; original06:03:01Z clock retained despite queued06:58 heartbeat.

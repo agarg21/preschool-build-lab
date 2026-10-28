@@ -282,14 +282,40 @@ ACTIVITIES = {
     "tape-city": {
         "title": "Tape City",
         "url": "../cards/tape-city.html",
-        "ages": "4-6",
-        "time": "5 min",
-        "mess": "low",
-        "help": "low",
-        "materials": "painter tape, cars, blocks",
-        "best_for": "pretend play, maps, collaborative play",
-        "steps": ["Make roads.", "Add buildings.", "Drive cars.", "Move the city."],
-        "parent": "Test tape before sticking it down.",
+        "ages": "3-6",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Editorial ages 3-6; check readiness",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult tapes and stays",
+        "materials": "owned surface-appropriate painter's tape, compatible allowed surface or removable board, 1 intact large hand-pushed toy vehicle and OPTIONAL 1 intact large lightweight nonmagnetic block; BOTH toys without small or detachable parts, magnets or batteries",
+        "best_for": "adding one pretend place beside an existing short road, or keeping a plain road",
+        "readiness_groups": [
+            ("Surface", "Use the full road guide first. Follow owned tape AND surface instructions, including a hidden-area test. A brief test does not guarantee later clean removal; a board can tear too. No allowed compatible surface or board? Decline."),
+            ("Fit and adult", "Follow owned toy age, warning and use labels for EVERY reachable child. Adult applies and removes ALL tape, controls roll and spares, stays beside all children and clears a firm level area away from feet and walkways. Try when the child can push gently and pause. Skip for mouthing, younger reach you cannot control or unavailable attention."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab. Pointing, watching or declining is valid."),
+        ],
+        "stop": "End for peeling tape, chewing, wrapping, mouthing, throwing, climbing, damage, unstable support, surface change, discomfort, unwanted action or lost attention. Do not force tape, wheels or a building to work.",
+        "adult_setup_groups": [
+            ("Road first", "BEFORE child access, use the guide's surface checks, short broad road and parking start. Adult tries one gentle vehicle push. If tape or the vehicle does not fit, use the guide's untaped/end rescue. Keep tape roll, loose bits and spares out of reach."),
+            ("Optional place", "Place ONE checked block lying FLAT BESIDE the road, OUTSIDE the wheel and parking path, as a pretend building. No stacking, bridge, roof, ramp, extra figures or tools. No suitable block? Keep a plain road, not a substitute small toy or purchase."),
+        ],
+        "steps": [
+            "Choose a plain road or one flat building beside it. Place the checked block with adult help, or point for the adult; no building is required.",
+            "Say: Where could the vehicle park? Push gently to the guide's parking place, point or watch. Pause when asked; ending is valid.",
+            "Finish, or repeat the SAME short route only if wanted. Adult handles all tape and collection; no bigger city or timed reset is required.",
+        ],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If the building distracts or does not fit, adult removes it; use the plain road or point/watch/end. For tape or vehicle trouble use the full guide's untaped/end rescue, not more force. Adult follows owned removal instructions, stops peeling if the surface changes, collects ALL used tape and bits, roll, vehicle, optional block and spares, checks the area and stores everything out of reach. Duration and mess have not been measured.",
+        "sources": [
+            ("Toy Association: short wide road and surface warning", "https://www.toyassociation.org/genius/play-ideas-tips/play-ideas/tape-track.aspx"),
+            ("TALK: optional block buildings", "https://textandlearn.org/tools/hands-on/toddler-activities/masking-tape-roads/"),
+            ("FrogTape: product-specific hidden-area test", "https://www.frogtape.com/how-to-use/painters-tape"),
+            ("MSU Extension: clear space and block arrangements", "https://accessibility.extension.msstate.edu/publications/block-play"),
+            ("AAP: owned toy labels and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx"),
+        ],
+        "source_note": "Sources audited October28,2026; Toy Association, TALK and FrogTape rechecked for this repair, MSU and AAP retained from that day's reviewed audit. Short wide roads and optional block buildings are source-backed. One flat block, exact counts, roles, skips, stops and collection are Kid Activity Lab editorial adaptations, not an inspected creator-video procedure or tested setup. FrogTape describes painting, not a universal tape-play recipe; its wet-paint, blade and tool instructions are not adopted. Small cars, magnetic props, long routes, crawling and developmental promises are excluded. Complete road setup remains in the linked guide. Owned fit, adhesion, removal, family understanding, time, mess, enjoyment, learning and safety outcomes are unknown. No brand recommendation or damage-free promise.",
     },
     "sock-ball-roll": {
         "title": "Sock Ball Roll",
@@ -816,6 +842,14 @@ ACTIVITIES["block-tower"]["adult_setup"] = " ".join(
 )
 
 
+ACTIVITIES["tape-city"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["tape-city"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["tape-city"]["stop"]
+ACTIVITIES["tape-city"]["adult_setup"] = " ".join(
+    text for _, text in ACTIVITIES["tape-city"]["adult_setup_groups"]
+)
+
+
 PAGES = [
     {
         "path": "ages/activities-for-3-year-olds-at-home.html",
@@ -841,14 +875,14 @@ PAGES = [
         "kicker": "Age 4",
         "description": "Easy activities for 4 year olds at home: building, pretend play, ramps, tape roads, blocks, magnetic tiles, and low-mess STEM prompts.",
         "intro": "Four year olds can handle a little more planning: make a road, test a ramp, build a bridge, or set up a tiny city. Keep the activity small enough that the child still owns the work.",
-        "tip": "If you need one activity now, choose the cardboard ramp. If your child wants a challenge, open the original age-4 STEM test pack. If you need quiet pretend play, choose Tape City or Magnetic Tile Builds.",
+        "tip": "If you need one activity now, choose the cardboard ramp. If your child wants a challenge, open the original age-4 STEM test pack. Tape City first needs the road guide's surface checks and adult tape handling; quietness, mess and setup time are not measured. Magnetic Tile Builds has its own checks.",
         "chooser_title": "Start here by parent situation",
         "chooser_label": "Age 4 at-home chooser",
         "chooser": [
             ("I need a proven low-prep activity", ("Cardboard ramp parent guide", "../articles/cardboard-box-car-ramp-preschoolers.html"), "Google is already finding this page, and the setup is fast: cardboard, books, toy cars."),
             ("I want a 5-10 minute STEM challenge", ("Original age-4 STEM test pack", "../collections/original-stem-activities-for-4-year-olds.html"), "Five activities with parent jobs, kid steps, safety notes, and stop rules."),
             ("I want more STEM choices", ("STEM activities for 4 year olds", "../ages/stem-activities-for-4-year-olds.html"), "A broader chooser for ramps, bridges, shadows, towers, and water tests."),
-            ("I need quiet pretend play", "Tape City or Magnetic Tile Builds", "Good for low-mess play when you can do one quick setup."),
+            ("I want a pretend place", "Tape City or Magnetic Tile Builds", "Tape City starts with checked tape/surface and one optional flat block; adult stays. Quietness, mess and setup time are not measured. Magnetic Tile Builds has its own checks."),
         ],
         "activity_overrides": {
             "car-ramp-distance-test": {
@@ -1044,7 +1078,7 @@ PAGES = [
                 "link_text": "Open the base blanket-river card",
             },
         ],
-        "activities": ["tape-road", "sock-ball-roll", "blanket-river", "cardboard-car-ramp", "cup-tower", "magnetic-tile-house", "tape-city"],
+        "activities": ["tape-road", "sock-ball-roll", "blanket-river", "cardboard-car-ramp", "cup-tower", "magnetic-tile-house"],
         "related": ["rainy day activities for preschoolers", "active indoor games for preschoolers", "indoor gross motor activities for preschoolers", "screen free activities for kids indoors"],
         "related_routes": [
             ("Preschool building chooser", "Choose a material and structure job when the child wants a deeper build.", "../collections/building-activities-for-4-year-olds.html"),
@@ -1841,9 +1875,13 @@ def activity_card(activity):
         '\n          <p><a href="../collections/stem-activities-for-preschoolers.html#continue-a-pattern">Preschool pattern start and diagram</a> with readiness alternatives.</p>'
         if activity["url"] == "../cards/pattern-path.html" else ""
     )
+    guide_handoff = (
+        '\n            <p><a href="../articles/painter-tape-road-kids.html">Full Painter\'s Tape Road guide</a> for surface, first road, rescue and removal checks before starting.</p>'
+        if activity["url"] == "../cards/tape-city.html" else ""
+    )
     return f'''        <article class="seo-activity">
           <div>
-            <h2>{esc(activity["title"])}</h2>{start_cue}{early_link}
+            <h2>{esc(activity["title"])}</h2>{guide_handoff}{start_cue}{early_link}
             <p>{esc(activity["best_for"])}</p>
             <div class="source-tags">
               <span class="tag">{esc(activity.get("age_label", activity["ages"] + " years"))}</span>

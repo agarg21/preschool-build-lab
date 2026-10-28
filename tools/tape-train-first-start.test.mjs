@@ -44,7 +44,7 @@ print(json.dumps({p:with_contributor_credit(h,p) for p,h in out.items()}))`;
   const out = JSON.parse(execFileSync("python3", ["-B", "-c", code], {encoding:"utf8",maxBuffer:8*1024*1024}));
   assert.equal(Object.keys(out).length,3);
   for (const [p,h] of Object.entries(out)) assert.equal(h,read(p),p);
-  assert.match(fs.readFileSync("scripts/generate_card_pages.py","utf8"), /"lego-color-tower", "tape-train-tracks", "block-tower"\} else page\(row, slug\)/);
+  assert.match(fs.readFileSync("scripts/generate_card_pages.py","utf8"), /"lego-color-tower", "tape-train-tracks", "block-tower", "tape-city"\} else page\(row, slug\)/);
 });
 
 test("Train discovery keeps noindex, routes, inventories and corrected dates", () => {

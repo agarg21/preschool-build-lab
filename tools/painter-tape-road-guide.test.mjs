@@ -80,7 +80,7 @@ test("visual and both compact cards agree with one guide owner", () => {
   const roadCard = fs.readFileSync(ROAD_CARD_PATH, "utf8");
   const cityCard = fs.readFileSync(CITY_CARD_PATH, "utf8");
   assert.match(roadCard, /href="\.\.\/articles\/painter-tape-road-kids\.html">Full Painter&#x27;s Tape Road guide<\/a>/);
-  assert.match(cityCard, /href="\.\.\/articles\/painter-tape-road-kids\.html">Start with the Painter&#x27;s Tape Road guide<\/a>/);
+  assert.match(cityCard, /href="\.\.\/articles\/painter-tape-road-kids\.html">Full Painter's Tape Road guide<\/a>/);
   for (const card of [roadCard, cityCard]) {
     assert.match(card, /Open-ended/);
     assert.match(card, /Adult (?:chooses|applies)/);

@@ -225,7 +225,8 @@ QUICK_CARD_OVERRIDES = {
     },
     "tape-city": {
         "time": "Open-ended",
-        "materials": "surface-appropriate painter's tape, large toy vehicles, chunky blocks",
+        "kicker": "Editorial ages 3-6 | Adult tapes and stays",
+        "description": "Tape City: start with the maintained road guide, one checked vehicle and an optional flat building. Adult checks, tapes and stays; research-backed, not family-tested.",
     },
 }
 
@@ -802,10 +803,11 @@ def quick_page(slug):
     is_color_tower = slug == "lego-color-tower"
     is_train = slug == "tape-train-tracks"
     is_block_tower = slug == "block-tower"
+    is_city = slug == "tape-city"
     has_start_cue = bool(activity.get("start_cue"))
     early_handoff = is_ball_maze or is_paper_bridge or is_cup_tower
     routes = related_routes_html(
-        slug, include_guide=not early_handoff,
+        slug, include_guide=not (early_handoff or is_city),
         max_links=2 if is_paper_bridge or is_cup_tower else MAX_RELATED_ROUTES,
     )
     parent_label = activity.get("parent_label", "Parent check")
@@ -825,7 +827,7 @@ def quick_page(slug):
         <div class="card-meta" aria-label="Activity details">
 {meta_html}
         </div>'''
-    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt or is_ramp_texture or is_wind_tower or is_pattern_path or is_toy_distance or is_cup_balance or is_spoon_transfer or is_tube_sculpture or is_color_tower or is_train or is_block_tower:
+    if is_box_garage or is_shadow or is_ice_watch or is_color_mix or is_drop_tilt or is_ramp_texture or is_wind_tower or is_pattern_path or is_toy_distance or is_cup_balance or is_spoon_transfer or is_tube_sculpture or is_color_tower or is_train or is_block_tower or is_city:
         prefix = "box-garage" if is_box_garage else "shadow" if is_shadow else "ice-watch" if is_ice_watch else "color-mix" if is_color_mix else "drop-tilt" if is_drop_tilt else "ramp-texture" if is_ramp_texture else "wind-tower" if is_wind_tower else "pattern-path" if is_pattern_path else "toy-distance" if is_toy_distance else "cup-balance" if is_cup_balance else "tube-sculpture" if is_tube_sculpture else "spoon-transfer"
         readiness = "\n".join(
             f'          <p><strong>{esc(label)}:</strong> {esc(text)}</p>'
@@ -837,6 +839,8 @@ def quick_page(slug):
             prefix = "train-station"
         if is_block_tower:
             prefix = "block-tower"
+        if is_city:
+            prefix = "tape-city"
         activity_start = f'''
 
         <p class="{prefix}-materials"><strong>Need:</strong> {esc(activity['materials'])}.<br>Open-ended; duration and mess not measured.</p>
@@ -908,6 +912,10 @@ def quick_page(slug):
         early_guide = '''
 
         <p><a href="../collections/stem-activities-for-preschoolers.html#continue-a-pattern">Preschool pattern start and diagram</a>.</p>'''
+    if is_city:
+        early_guide = '''
+
+        <p><a href="../articles/painter-tape-road-kids.html">Full Painter's Tape Road guide</a> for surface, first road, rescue and removal checks before starting.</p>'''
     card_class = (
         "kid-card maze-card" if is_ball_maze else
         "kid-card bridge-card" if is_paper_bridge else
@@ -930,7 +938,8 @@ def quick_page(slug):
         "kid-card tube-sculpture-card" if is_tube_sculpture else
         "kid-card color-tower-card" if is_color_tower else
         "kid-card train-station-card" if is_train else
-        "kid-card block-tower-card" if is_block_tower else "kid-card"
+        "kid-card block-tower-card" if is_block_tower else
+        "kid-card tape-city-card" if is_city else "kid-card"
     )
     css_version = (
         "ball-maze-card-1" if is_ball_maze else
@@ -953,9 +962,10 @@ def quick_page(slug):
         "tube-sculpture-card-1" if is_tube_sculpture else
         "color-tower-card-1" if is_color_tower else
         "train-station-card-1" if is_train else
-        "block-tower-card-1" if is_block_tower else "nav-stable-2"
+        "block-tower-card-1" if is_block_tower else
+        "tape-city-card-1" if is_city else "nav-stable-2"
     )
-    best_for = "" if is_color_tower or is_train or is_block_tower else f'''
+    best_for = "" if is_color_tower or is_train or is_block_tower or is_city else f'''
 
         <section class="parent-strip" aria-label="Best for">
           <strong>Best for:</strong> {esc(activity['best_for'])}.
@@ -1051,7 +1061,9 @@ def cards_index():
             f'Adult prepares board and stays; one station stop or point | {activity["time"]} · {activity["materials"]}'
             if slug == "tape-train-tracks" else
             f'Adult checks, models and stays; one placement or flat row | {activity["time"]} · {activity["materials"]}'
-            if slug == "block-tower" else f'{activity["time"]} · {activity["materials"]}'
+            if slug == "block-tower" else
+            f'Guide first; adult tapes and stays | {activity["time"]} · {activity["materials"]}'
+            if slug == "tape-city" else f'{activity["time"]} · {activity["materials"]}'
         )
         cards.append(
             f'        <a class="mini-card" href="cards/{esc(slug)}.html"><strong>{esc(activity["title"])}</strong><span>{esc(summary)}</span><template data-search="{esc(search_text)}"></template></a>'
@@ -1135,7 +1147,7 @@ def main():
     for source_id in CARD_ROWS:
         row = rows[source_id]
         slug = SLUGS[source_id]
-        (OUT / f"{slug}.html").write_text(quick_page(slug) if slug in {"cup-tower", "duplo-games", "tube-sculpture", "lego-color-tower", "tape-train-tracks", "block-tower"} else page(row, slug))
+        (OUT / f"{slug}.html").write_text(quick_page(slug) if slug in {"cup-tower", "duplo-games", "tube-sculpture", "lego-color-tower", "tape-train-tracks", "block-tower", "tape-city"} else page(row, slug))
     for slug in QUICK_CARD_SLUGS:
         (OUT / f"{slug}.html").write_text(quick_page(slug))
     (ROOT / "site" / "cards.html").write_text(cards_index())

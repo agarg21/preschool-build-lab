@@ -20,7 +20,7 @@ test("Block compact card uses actual CSV quick dispatch without video or purpose
  assert.doesNotMatch(card,/<iframe|q3HXNJxREy8|class="meta-tile"|aria-label="Best for"|collections\/indoor-activities-for-preschoolers.html/);
  assert.match(card,/href="\.\.\/collections\/building-activities-for-4-year-olds.html"/);
  assert.match(read("styles.css"),/\.block-tower-card \.steps-grid \{\s*grid-template-columns: 1fr/);
- assert.match(fs.readFileSync("scripts/generate_card_pages.py","utf8"),/"tape-train-tracks", "block-tower"\} else page\(row, slug\)/);
+ assert.match(fs.readFileSync("scripts/generate_card_pages.py","utf8"),/"tape-train-tracks", "block-tower", "tape-city"\} else page\(row, slug\)/);
 });
 test("Block eight generated surfaces agree, keeping actual indoor outside membership",()=>{
  const code=`import sys,json,csv

@@ -50,7 +50,7 @@ print(json.dumps({p:with_contributor_credit(h,p) for p,h in out.items()}))`;
   const out = JSON.parse(execFileSync("python3", ["-B", "-c", script], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 }));
   assert.equal(Object.keys(out).length, 7);
   for (const [path, html] of Object.entries(out)) assert.equal(html, read(path), path);
-  assert.match(fs.readFileSync("scripts/generate_card_pages.py", "utf8"), /quick_page\(slug\) if slug in \{"cup-tower", "duplo-games", "tube-sculpture", "lego-color-tower", "tape-train-tracks", "block-tower"\} else page\(row, slug\)/);
+  assert.match(fs.readFileSync("scripts/generate_card_pages.py", "utf8"), /quick_page\(slug\) if slug in \{"cup-tower", "duplo-games", "tube-sculpture", "lego-color-tower", "tape-train-tracks", "block-tower", "tape-city"\} else page\(row, slug\)/);
 });
 
 test("Color Tower preserves identity, real routes, finder inventories and affected dates", () => {

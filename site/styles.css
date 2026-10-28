@@ -797,6 +797,46 @@ th {
   scroll-margin-top: max(104px, 6rem);
 }
 
+.tape-city-card {
+  max-width: 720px;
+  margin: 0 auto;
+  overflow-wrap: anywhere;
+}
+
+.tape-city-card h1 {
+  font-size: 1.7rem;
+  line-height: 1.15;
+}
+
+.tape-city-card .steps-grid {
+  grid-template-columns: 1fr;
+}
+
+.tape-city-card .step-tile {
+  min-height: 0;
+}
+
+.tape-city-card .step-tile p {
+  margin: 8px 0 0;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.tape-city-card .tape-city-materials,
+.tape-city-card .tape-city-readiness {
+  line-height: 1.5;
+}
+
+.tape-city-card .tape-city-readiness h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.tape-city-card .tape-city-readiness p {
+  margin: 8px 0 0;
+}
+
 .block-tower-card {
   max-width: 720px;
   margin: 0 auto;

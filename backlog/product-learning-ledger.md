@@ -1,5 +1,11 @@
 # Product Learning Ledger
 
+## 2026-10-28 - IMP061 Tape City Guide First
+
+- Decision/task: apply [RES081 through the repair packet](../reviews/tape-city-first-start-repair-2026-10-28.md) to seveneditable/fourrunnable existing owners. Owned surface/toy/all-child/attention first, maintained road guide, optional one flat building/plainroad-point-watch-end, adult tape and full collection; no newURL/guide duplication.
+- Hypothesis/classes/result: consistent early guide and shared fit-role-stop should make the first task actionable. Mechanism SOURCE_BACKED, exact flatblock/roles EDITORIAL_JUDGMENT, task RESEARCH_HYPOTHESIS, local32modes/keytouchBack/disclosures/finder-eightNoJS MEASURED. All13card25/26 vs7/26/noN-A/sensory1, not family improvement; Toycar root32 overflow cleared. Time/mess/physical-family-learning-safety/SEO UNKNOWN.
+- Confidence/lesson/trigger: high technical/moderate editorial confidence. Audit library overrides as well as canonical data; generic material queries can match several valid cards. Native241/all3twice/conservation/localtask pass; structured/freshdifferent review/exactSHA production pending. Reopen source/label/criticaltask/clutter/peer/privacy/P0-P2/divergence. Same actual07:57:32Z/queued09:03 finish-only; November1/October30 unchanged.
+
 ## 2026-10-28 - RES081 Tape City Handoff
 
 - Completion: COMPLETED learned-only RES08155c4e5775e62e6cd765fec75d92492c034c10dcd: Gibbs final full7/cycle2 PASS/no remainingP0-P3; Master237/independent236/exact7-167IDs-417refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/complete unpushed range identity passed. Docs-only main push/freshfetch clean0/0 confirmed07:08:12Z; no Pages wait or site delivery. Qualifies seveneditable/fourrunnable City repair plus phantomIndoor and toycarroot32fit, preserving guide/card/asset/actualindoor/noindex. NewURL deferred; physical/family/SEO outcomes UNKNOWN. Completed3/no fourth; original06:03:01Z clock retained despite queued06:58 heartbeat.
