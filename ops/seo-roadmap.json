@@ -9,7 +9,7 @@
       "id": "KAL-RES-089",
       "title": "Qualify Straw Span first-joint, supported-span and load controls",
       "kind": "existing-owner-qualification",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "38a949a3d03074cb1c1e331c7beb711c4eceacc1",
       "exact_paths": [
@@ -36,12 +36,14 @@
       "invariants": "Research-only exact7. Preserve allsite/generators/assets/CSV/config, maintained PaperBridge/card-guide/CupDoorway/otherowners and existing observationwindows. No newpaid/product/indexing/tracking/accounts/outreach/ControlRoom/automation/family or physical-safety-learning-SEO claims. NewURL needs distinctmaterialdemand/noexistingowner and separateeligibility.",
       "observation_window": "Actualrun-start2026-10-28T16:04:12Z/12:04:12EDT, completed0/startdeadline16:49:12Z/max3. Prior run finalized15:57:12Z/full3; newheartbeat16:04:06.356Z. Sprintactive/Nov1synthesis notdue/Oct30restoration/globalNov3cutoff unchanged.",
       "reconsider_if": "Criticalsource/job/ownership/control contradiction, overlappingwork, remote divergence or missing reviewer. Preserve if currentbody/task qualifies; no duplicate qualification without namednewgap.",
-      "phase": "independent-pass-docs-release-pending",
+      "phase": "research-reviewed-released",
+      "release_commit": "2dbdb265ba605f66121f3a2bc83897d3e80bc1ef",
+      "release_evidence": "Docs-onlypush/completedpostpushfreshfetchclean0-0 verified16:26:51Z; exact7stage/range9b4840e49c8af9aecec6ab143e53b866d563c521233fcc8389b7eb3d8eb70435 identity. Prestagefetchsession acknowledgment caveat recorded; awaityieldedsessions subsequently.",
       "reviewer": "01a1834f-4bd4-7d93-a80b-4aeb40fdd4cb",
       "review_verdict": "Finalcycle2PASS/noP0-P3; cycle1P3failedURLprovenance fixed, qualification unchanged; Master269/independent268/full7.",
       "artifact": "reviews/straw-bridge-first-joint-audit-2026-10-28.md",
       "decision": "IMPROVE existing card/library/twohub execution with no-cut editorial SIX whole paper-straw flat row/two wraps/low closed BOOK supports/EMPTY first; optional single-object fit-gated. Not exact source-tested setup or automatic gain vsoldcup-toy task. DEFERnewURL.",
-      "next_action": "Full269/structuredprivacyEOF/freshdifferent full7review/docsrelease/alignment, then promptly separately register qualified IMP069 exact18 brief within original16:49:12/countguard."
+      "next_action": "Factualcloseout/push/alignment then original16:04:12/count1/deadline16:49:12 guard and promptly register qualified exact18 IMP069. No repeated qualification."
     },
     {
       "id": "KAL-IMP-068",
