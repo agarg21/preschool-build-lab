@@ -3142,3 +3142,11 @@ th {
     font-size: min(1.75rem, 40px);
   }
 }
+
+.building-build#paper-bridge h2,
+.building-build#paper-bridge p,
+.engineering-challenge#paper-bridge h2,
+.engineering-challenge#paper-bridge p,
+.paper-bridge-image-warning {
+  overflow-wrap: anywhere;
+}

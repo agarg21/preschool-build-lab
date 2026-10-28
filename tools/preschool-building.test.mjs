@@ -97,9 +97,9 @@ test("page states evidence limits before the illustration and chooser", () => {
 
 test("material chooser, support steps, and architecture boundary are complete", () => {
   const chooser = html.match(/<section class="chooser"[\s\S]*?<\/section>/)?.[0] ?? "";
-  assert.equal([...chooser.matchAll(/<tr>/g)].length, 7);
+  assert.equal([...chooser.matchAll(/<tr>/g)].length, 8);
   for (const label of ["What is ready", "Build job", "Adult role"]) {
-    assert.equal([...chooser.matchAll(new RegExp(`data-label="${label}"`, "g"))].length, 6);
+    assert.equal([...chooser.matchAll(new RegExp(`data-label="${label}"`, "g"))].length, 7);
   }
   assert.deepEqual(
     [...chooser.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map((match) => [match[2], match[1]]),
@@ -107,7 +107,7 @@ test("material chooser, support steps, and architecture boundary are complete", 
       ["Toy Home", "#magnetic-tile-house"],
       ["Wide-Base Tower", "#block-tower"],
       ["Cup Doorway (paused)", "#cup-tower"],
-      ["Paper Path", "#paper-bridge"],
+      ["Different stationary Paper Path test", "#paper-bridge"],
       ["Straw Span", "#straw-bridge"],
       ["Tube Sculpture", "#tube-sculpture"],
       ["Blanket Crossing", "#blanket-river"],
@@ -129,10 +129,18 @@ test("material chooser, support steps, and architecture boundary are complete", 
   assert.match(html, /neighboring pages support different activity goals/);
 });
 
-test("six runnable builds retain checks and three distinct paused or handoff jobs remain", () => {
+test("five runnable builds retain checks and four distinct paused or handoff jobs remain", () => {
   const builds = [...html.matchAll(/<article class="seo-activity building-build" id="([^"]+)">([\s\S]*?)<\/article>/g)];
   assert.deepEqual(builds.map((match) => match[1]), buildSlugs);
   for (const [slug, body] of builds.map((match) => [match[1], match[2]])) {
+    if (slug === "paper-bridge") {
+      assert.match(body, /Moving-toy road not provided/);
+      assert.match(body, /Choose a DIFFERENT stationary-object test, or decline/);
+      assert.match(body, /BEFORE handling or opening the card/);
+      assert.match(body, /href="\.\.\/cards\/paper-bridge.html"/);
+      assert.doesNotMatch(body, /<li>|Open the base activity card|Move the toy along/);
+      continue;
+    }
     if (slug === "magnetic-tile-house") {
       assert.match(body, /DIFFERENT materials: an already-open box and suitable owned car/);
       assert.match(body, /href="\.\.\/cards\/box-garage.html"/);

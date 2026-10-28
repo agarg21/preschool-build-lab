@@ -109,7 +109,7 @@ test("chooser, engineering loop, and all nine challenges are complete", () => {
   assert.deepEqual(
     [...chooser.matchAll(/<a href="([^"]+)">([^<]+)<\/a>/g)].map((match) => [match[2], match[1]]),
     [
-      ["Paper Bridge", "#paper-bridge"],
+      ["Different stationary Paper Bridge test", "#paper-bridge"],
       ["Empty Foil Boat", "#foil-boat-test"],
       ["Wind Tower", "#wind-tower-test"],
       ["Cup Doorway (paused)", "#cup-tower"],
@@ -129,6 +129,14 @@ test("chooser, engineering loop, and all nine challenges are complete", () => {
   const challenges = [...html.matchAll(/<article class="seo-activity engineering-challenge" id="([^"]+)">([\s\S]*?)<\/article>/g)];
   assert.deepEqual(challenges.map((match) => match[1]), challengeSlugs);
   for (const [slug, body] of challenges.map((match) => [match[1], match[2]])) {
+    if (slug === "paper-bridge") {
+      assert.match(body, /Moving-toy road not provided/);
+      assert.match(body, /Choose a DIFFERENT stationary-object test, or decline/);
+      assert.match(body, /BEFORE handling or opening the card/);
+      assert.match(body, /href="\.\.\/cards\/paper-bridge.html"/);
+      assert.doesNotMatch(body, /<li>|Open the base activity card|Send the car/);
+      continue;
+    }
     if (slug === "cup-tower") {
       assert.match(body, /Cup doorway version paused/);
       assert.match(body, /Do not start this version/);

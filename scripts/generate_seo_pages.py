@@ -1429,9 +1429,11 @@ PAGES = [
         "h1": "Engineering activities for preschoolers ages 4-6.",
         "route_label": "Engineering activities for 4 year olds",
         "kicker": "Preschool engineering | Ages 4-6",
-        "description": "Choose preschool engineering activities with paper, foil, blocks, cups, straws, and toy cars. Each challenge includes a test and one redesign.",
+        "description": "Choose preschool engineering activities and checked-card choices with paper, foil, blocks, cups, straws, and toy cars. Read each route's checks first.",
         "intro": "Pick a small problem, give the child a clear mission, test the build, and change one thing. These research-backed challenges use household materials and show the adult job without taking over the design.",
-        "tip": "Start with Paper Bridge: two low books, one sheet of paper, and one toy car. If the paper bends, fold it once and test again.",
+        "tip": "For Paper Bridge, choose a DIFFERENT stationary-object test, not a moving-car road. Read its adult, material and stop checks BEFORE handling, or decline.",
+        "tip_link": ("Check the different paper-bridge choice", "#paper-bridge"),
+        "image_warning": "The pictured car on folded paper is not the stationary-object start offered below. Do not copy that structure as instructions; check the different choice before handling.",
         "engineering_layout": True,
         "evidence_note": "Kid Activity Lab created this chooser from current source and search research. We have not family-tested these setups. The age range, adult roles, rescue steps, and first changes are editorial guidance; timing, mess, engagement, learning, repeatability, and safety outcomes are unknown.",
         "image": {
@@ -1439,12 +1441,12 @@ PAGES = [
             "alt": "Paper bridge, foil boat, cup tower, box-lid maze, straws, and painter tape arranged as engineering challenge materials.",
             "width": "1672",
             "height": "941",
-            "caption": "Illustration of possible setups. This is not a Kid Activity Lab family-test photo.",
+            "caption": "Illustration of possible materials, not a Kid Activity Lab family-test photo. The car on folded paper is not the different stationary-object test offered below; do not copy it as that setup.",
         },
         "chooser_title": "Choose by what is already out",
         "chooser_label": "Preschool engineering activity chooser",
         "chooser": [
-            ("Paper and a toy car", ("Paper Bridge", "#paper-bridge"), "Set two low books in place, then let the child own the bridge."),
+            ("Paper, two low closed books and one suitable large block or soft toy", ("Different stationary Paper Bridge test", "#paper-bridge"), "Read this choice's checks before handling; adult stays. Not a moving-car road."),
             ("A tray can get wet", ("Empty Foil Boat", "#foil-boat-test"), "An adult stays beside the tray; try an empty hull, no cargo."),
             ("Blocks or cups are ready", [("Wind Tower", "#wind-tower-test"), ("Cup Doorway (paused)", "#cup-tower")], "Wind Tower: Keep the build low and run one gentle test. Cup Doorway is paused; read a different choice's checks before handling or decline."),
             ("Toy cars are the hook", [("Target Ramp", "#car-ramp-distance-test"), ("Box Garage", "#box-garage")], "Set the boundary or target; let the child decide the change."),
@@ -1461,15 +1463,8 @@ PAGES = [
             "paper-bridge": {
                 "slug": "paper-bridge",
                 "title": "Paper Bridge",
-                "materials": "one sheet of paper, two low books, one toy car",
-                "mission": "Build a paper road that carries the car across the gap.",
-                "adult_role": "Place two low, stable books on the floor and keep them from sliding.",
-                "steps": ["Lay the paper across the books.", "Send the car across once.", "Look at where the paper bends."],
-                "test": "Can the car cross without the paper dropping into the gap?",
-                "redesign": "Fold the paper lengthwise once, then test the same car again.",
-                "rescue": "Move the books closer together and keep the first sheet flat.",
-                "stop": "Stop if the books slide, the child climbs on them, or the paper test is no longer welcome.",
-                "parent": "Keep the bridge on the floor and use books the child can lift only with help.",
+                "paper_bridge_handoff": True,
+                "steps": [],
             },
             "straw-bridge": {
                 "slug": "straw-bridge",
@@ -1646,14 +1641,14 @@ PAGES = [
         "tip_link": ("Check the different Box Garage start", "../cards/box-garage.html"),
         "building_layout": True,
         "evidence_note": "Kid Activity Lab created this chooser from current source and search research. We have not family-tested these setups. The age-four route, material choices, adult roles, rescue steps, and stop boundaries are editorial guidance; timing, mess, engagement, learning, repeatability, and safety outcomes are unknown.",
-        "readiness_note": "Choose materials that are appropriate for the youngest child who can reach the build. Remove cracked or damaged materials and any piece with an exposed magnet. If any child may mouth materials, stay within reach and watch continuously; skip straws, loose tape, and other loose pieces and use larger solid blocks instead. The Wide-Base Tower below instead requires skipping for mouthing or younger reach you cannot control; larger blocks do not remove its checks. The different flat house picture and Box Garage also require skipping for mouthing or uncertain reach; the larger-block/watch suggestion does NOT override either activity's checks.",
-        "image_warning": "Cup Doorway is paused. Do not copy the cup-over-gap depiction in this illustration; it is not a qualified setup. Material checks do not supply its missing instructions.",
+        "readiness_note": "Choose materials that are appropriate for the youngest child who can reach the build. Remove cracked or damaged materials and any piece with an exposed magnet. If any child may mouth materials, stay within reach and watch continuously; skip straws, loose tape, and other loose pieces and use larger solid blocks instead. The Wide-Base Tower below instead requires skipping for mouthing or younger reach you cannot control; larger blocks do not remove its checks. The different flat house picture and Box Garage also require skipping for mouthing or uncertain reach; the larger-block/watch suggestion does NOT override either activity's checks. The different stationary Paper Path test also requires skipping for mouthing, uncontrolled younger reach or uncertain adult attention; the larger-block/watch suggestion does NOT override these checks.",
+        "image_warning": "Cup Doorway is paused. Do not copy the cup-over-gap depiction in this illustration; it is not a qualified setup. Material checks do not supply its missing instructions. The paper on stacked books is also not the different stationary Paper Path start offered below; do not copy those stacks as instructions.",
         "image": {
             "src": "../assets/preschool-building/building-material-chooser.webp",
             "alt": "Illustration of large blocks, paper cups, a paper bridge, a cardboard-tube sculpture, and a blanket path as preschool building material choices.",
             "width": "1672",
             "height": "941",
-            "caption": "Illustrated material routes, not a Kid Activity Lab family-test photo or a product recommendation. The cup-doorway depiction is withdrawn as instructions; do not copy it. The blanket path is a toy-only material prompt, not the three-block start below or a child-bearing route.",
+            "caption": "Illustrated material routes, not a Kid Activity Lab family-test photo or a product recommendation. The cup-doorway depiction is withdrawn as instructions; do not copy it. The paper on stacked books is not the different stationary Paper Path test below, which uses two low closed books, not these stacks. The blanket path is a toy-only material prompt, not the three-block start below or a child-bearing route.",
         },
         "chooser_title": "Choose by what is ready and what to build",
         "chooser_label": "Preschool building activity chooser",
@@ -1661,7 +1656,8 @@ PAGES = [
             ("Already-open box and suitable owned car (DIFFERENT materials)", ("Toy Home", "#magnetic-tile-house"), "Read the maintained Box Garage checks before handling; skip if fit, reach or adult attention is uncertain."),
             ("Large blocks", ("Wide-Base Tower", "#block-tower"), "Wide-Base Tower needs three checked matching blocks; adult models and stays."),
             ("Paper cups", ("Cup Doorway (paused)", "#cup-tower"), "Do not start this doorway. Read a different choice's checks before handling or decline."),
-            ("Paper, straws, or two low books", [("Paper Path", "#paper-bridge"), ("Straw Span", "#straw-bridge")], "Set the supports; handle cutting or tape."),
+            ("Paper, two low closed books and one suitable large block or soft toy", ("Different stationary Paper Path test", "#paper-bridge"), "Read this choice's checks before handling; adult stays. Not a moving-toy path."),
+            ("Straws and suitable supports", ("Straw Span", "#straw-bridge"), "Set the supports; handle cutting or tape."),
             ("Two whole tubes, cardboard base and owned painter tape", ("Tube Sculpture", "#tube-sculpture"), "Adult checks and attaches; child chooses a low arrangement or points. Untaped or end if tape fails."),
             ("Blanket, three large blocks and one large toy", ("Blanket Crossing", "#blanket-river"), "Adult stays beside a tiny toy-only crossing; never for feet."),
         ],
@@ -1712,14 +1708,8 @@ PAGES = [
             "paper-bridge": {
                 "slug": "paper-bridge",
                 "title": "Paper Path",
-                "job": "Span a gap",
-                "materials": "one sheet of paper, two low stable books, one lightweight toy",
-                "mission": "Make a paper path that connects the two books for the toy.",
-                "adult_role": "Place two low books on the floor and keep them from sliding.",
-                "steps": ["Lay the paper across the books.", "Move the toy along the path.", "Fold or curve the edges if wanted."],
-                "rescue": "Move the books closer until the paper reaches easily.",
-                "stop": "Stop if books slide, the child climbs on them, or the paper is torn into sharp strips.",
-                "parent": "Keep the supports low and use books the child moves only with adult help.",
+                "paper_bridge_handoff": True,
+                "steps": [],
             },
             "straw-bridge": {
                 "slug": "straw-bridge",
@@ -1993,6 +1983,20 @@ def activity_card(activity):
         </article>'''
 
 
+def paper_bridge_handoff_card(activity, layout):
+    return f'''        <article class="seo-activity {layout}" id="{esc(activity["slug"])}">
+          <p class="challenge-label">Different stationary choice</p>
+          <h2>{esc(activity["title"])}</h2>
+          <p class="paper-bridge-choice-cue"><strong>Moving-toy road not provided.</strong></p>
+          <p>Choose a DIFFERENT stationary-object test, or decline. It does not fulfill the old moving-toy or car-crossing job. This is not a finding that moving-toy bridges cannot work.</p>
+          <p><strong>BEFORE handling or opening the card:</strong> an adult stays beside the setup and controls two low closed books. Use one sheet of paper and one intact large lightweight block or soft toy suitable for EVERY reachable child; no car, coins or marbles as this default. Choose this when the child can place gently and follow a stop cue. Skip for mouthing, uncontrolled younger reach or uncertain adult attention.</p>
+          <p><strong>Stop:</strong> sliding books, thrown objects, mouthed or torn paper, climbing or wanting to leave. Remove loose paper pieces. The adult can place the object while the child points or watches, or end.</p>
+          <p><a href="../cards/paper-bridge.html">Read the different stationary Paper Bridge card from the start</a>. Read its fit, parent and placement checks before starting; the linked guide adds the optional fold, rescue and cleanup.</p>
+          <p>Research-backed choice, not family-tested by Kid Activity Lab. Time, mess, physical performance, learning and safety outcomes are unknown.</p>
+          <p>Source context: <a href="https://www.sciencebuddies.org/stem-activities/build-best-bridge">Science Buddies</a> and <a href="https://science.anu.edu.au/engagement/science-lab-experiments-home-school/paper-bridge-challenge-science-strong-shapes">ANU</a> describe stationary loads and paper shapes, not this moving-toy road. Our large-object, low-book controls are editorial adaptations, not a source-tested exact setup.</p>
+        </article>'''
+
+
 def cup_doorway_pause_card(activity, layout):
     return f'''        <article class="seo-activity {layout}" id="{esc(activity["slug"])}">
           <p class="challenge-label">Cup doorway version paused</p>
@@ -2008,6 +2012,8 @@ def cup_doorway_pause_card(activity, layout):
 
 
 def engineering_activity_card(activity):
+    if activity.get("paper_bridge_handoff"):
+        return paper_bridge_handoff_card(activity, "engineering-challenge")
     if activity.get("cup_doorway_pause"):
         return cup_doorway_pause_card(activity, "engineering-challenge")
     steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
@@ -2056,6 +2062,8 @@ def engineering_activity_card(activity):
 
 
 def building_activity_card(activity):
+    if activity.get("paper_bridge_handoff"):
+        return paper_bridge_handoff_card(activity, "building-build")
     if activity.get("cup_doorway_pause"):
         return cup_doorway_pause_card(activity, "building-build")
     if activity.get("tile_build_pause"):
@@ -2280,6 +2288,8 @@ def preschool_stem_page_html(page):
 
 def engineering_page_html(page):
     root = rel_root(page["path"])
+    image_warning = f'<p class="paper-bridge-image-warning"><strong>{esc(page["image_warning"])}</strong></p>' if page.get("image_warning") else ""
+    tip_link = f'<p><a href="{esc(page["tip_link"][1])}">{esc(page["tip_link"][0])}</a></p>' if page.get("tip_link") else ""
     activity_html = "\n".join(
         engineering_activity_card(page_activity(page, key))
         for key in page["activities"]
@@ -2317,7 +2327,7 @@ def engineering_page_html(page):
     <title>{esc(page["title"])}</title>
     <meta name="description" content="{esc(page["description"])}">
     <link rel="canonical" href="{esc(canonical)}">
-    <link rel="stylesheet" href="{root}styles.css?v=engineering-arrival-1">
+    <link rel="stylesheet" href="{root}styles.css?v=engineering-arrival-1-paper-bridge-1">
   </head>
   <body>
     <header class="site-header">
@@ -2340,7 +2350,7 @@ def engineering_page_html(page):
 
       <section class="seo-page engineering-page">
         <div class="callout">
-          <strong>Start here:</strong> {esc(page["tip"])}
+          <strong>Start here:</strong> {esc(page["tip"])}{tip_link}
         </div>
 
         <div class="engineering-disclosure" role="note">
@@ -2348,6 +2358,7 @@ def engineering_page_html(page):
           <p>{esc(page["evidence_note"])}</p>
         </div>
 
+        {image_warning}
         <figure class="engineering-visual">
           <img src="{esc(image["src"])}" alt="{esc(image["alt"])}" width="{esc(image["width"])}" height="{esc(image["height"])}">
           <figcaption>{esc(image["caption"])}</figcaption>
@@ -2373,7 +2384,7 @@ def engineering_page_html(page):
 
         <section class="engineering-process related" aria-labelledby="engineering-process-title">
           <h2 id="engineering-process-title">A preschool engineering loop</h2>
-          <p>Use the same loop for every challenge. The five-part structure is adapted from TERC Head Start on Engineering and HeadStart.gov; the short prompts are Kid Activity Lab editorial wording.</p>
+          <p>Use this loop for runnable challenges. For a different-card choice, read that card's checks before starting; a paused version is not a build instruction. The five-part structure is adapted from TERC Head Start on Engineering and HeadStart.gov; the short prompts are Kid Activity Lab editorial wording.</p>
           <ol>
 {process_steps}
           </ol>
@@ -2381,9 +2392,9 @@ def engineering_page_html(page):
 
         <section class="engineering-challenges" aria-labelledby="engineering-challenges-title">
           <div class="section-heading">
-            <p class="kicker">Nine challenges</p>
+            <p class="kicker">Nine choices</p>
             <h2 id="engineering-challenges-title">Choose one problem to solve</h2>
-            <p>Run one test and one first change. The rescue is a smaller version, not a promise that the activity will fit every child.</p>
+            <p>Follow each route's checks first. Runnable challenges offer a test and optional first change; different-card choices and paused versions are not local recipes. No route promises to fit every child.</p>
           </div>
           <div class="seo-activity-grid" aria-label="Preschool engineering challenges">
 {activity_html}
@@ -2418,6 +2429,7 @@ def engineering_page_html(page):
 
 def building_page_html(page):
     root = rel_root(page["path"])
+    style_version = f"{CSS_VERSION}-paper-bridge-1"
     image_warning = f'<p class="building-image-warning"><strong>{esc(page["image_warning"])}</strong></p>' if page.get("image_warning") else ""
     tip_link = f'<p><a href="{esc(page["tip_link"][1])}">{esc(page["tip_link"][0])}</a></p>' if page.get("tip_link") else ""
     head_style = f'\n    <style>{page["head_style"]}</style>' if page.get("head_style") else ""
@@ -2458,7 +2470,7 @@ def building_page_html(page):
     <title>{esc(page["title"])}</title>
     <meta name="description" content="{esc(page["description"])}">
     <link rel="canonical" href="{esc(canonical)}">
-    <link rel="stylesheet" href="{root}styles.css?v={CSS_VERSION}">{head_style}
+    <link rel="stylesheet" href="{root}styles.css?v={style_version}">{head_style}
   </head>
   <body>
     <header class="site-header">
