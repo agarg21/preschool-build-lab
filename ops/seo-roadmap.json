@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-093",
+      "title": "Qualify a simple paper-weaving first-strip job",
+      "kind": "bounded-create-imagine-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "36294dddc7e046f1e90b287b45306f98b3c62f47",
+      "exact_paths": [
+        "seo/preschool-paper-weaving-qualification-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "MEASURED",
+        "UNKNOWN"
+      ],
+      "evidence": "Sameactual21:02:22Z/count1/deadline21:47:22Z; selected21:21:33Z after RES092 docs release2367841/factualcloseout36294dd, freshfetch clean0/0/no writer overlap. Retained IMP032 already covers library self-jump root32/noJS: preserve/no repeat. Targeted retained owner/qualification search found no paper-weaving owner or prior pack; absence not demand.",
+      "parent_problem": "Caregiver of an ages3-6 non-reader with ordinary paper and adult-only cutting may need to judge readiness, prepare one intact paper loom, start the first strip, recognize a missed slot and reset without unrelated threading tools or a large craft plan.",
+      "hypothesis": "First-strip paper weaving could be a distinct Create/Imagine job with material search demand and missing execution/repair utility over maintained museum/publisher answers. Do not treat simple wider strips, template-free or no-reading as inherently original, or source age labels as physical readiness.",
+      "acceptance": "One exact live preschool paper-weaving query family and representative current primary/original-publisher bodies plus public caregiver inputs where available; dated keyword/owner audit. Freeze one mechanism lineage: folded/cut intact paper loom versus loose strips/other weaves distinct. Trace material/firstcut-or-adult-prep/firstover-under/secondrow/error-reset/stops across text and actual sourcevisual; fourlenses/everysection/all13/desktop-mobile proxy. Return BUILD/UPGRADE/PRESERVE/DEFER/REJECT with exact gates, separate build only if qualified.",
+      "qa_plan": "Exact7 docs/research only; full278tools tests/diffcheck/jq/JSON-CSV/sourceprivacy/EOF/relativeMDrefs/uniqueIDs/all101GSC/conserve site-source-data-config. Actual desktop/mobile browser proxy with limitations/captures. Freshdifferent full7 read-only review max3/PASS orPASS_WITH_P3; completedfetch/no divergence/exactfrozenstage/completeunpushedrange/docs-onlymainpush/alignment; no Pages wait.",
+      "invariants": "No site/generator/data/config/automation/ControlRoom/indexrequest/paid/product/account/outreach/newURL change. No childscissor prescription, universally safe craft, developmental/medical/family/tested claim, copied template or private community data. Preserve closed collage/puppet/lacing and all prior decisions.",
+      "observation_window": "Sameactual21:02:22Z/count1/deadline21:47:22Z/max3, second sequential transaction; sprintactive/November1/October30/globalcutoff unchanged. Research before any separately registered build.",
+      "reconsider_if": "Current demand/output/default/source evidence disconfirms job or clean owner exists; preserve/defer/reject without inventing page. Narrow candidate gate does not block independent work; actual clock never resets.",
+      "phase": "independently-reviewed-ready-for-docs-release",
+      "review_evidence": "Freshdifferent independent01a1846e-6bf6-77e1-bbda-9051810dd8b8 full7/cycle1PASS/noP0-P3. Independent277pass/0fail/0runner skips, exact datecase verified-excluded before execution; Master278 separate. All671checkout/sevenhashes/HEAD/status/empty stageddiff/rawgit-index actualhash conserved, prior189items/source-site-data-config unchanged. Independently2livebytes/sixzero-keyClear36/twoNoJS/ownsettledMAAM1280-390UI+4processphotos/5HTML-onePDFTEXT-fivepublicbodies and106JSON19CSV2212rows190IDs664refs101GSC67allowlist/privacyEOF PASS. No Masterhelper read-executed-copied/captureoverwrite; owncaptures beforeMaster visual comparison. CSVhelper initial existingblankrow rejection corrected without changingdata; PDF404-406/PBSHTML403/Cranbrookconsent-doc622/cachedDaytonMasterprovenance limits retained. Reviewer/browserclosed/no server or family-physical-SEO claim.",
+      "decision": "DEFERnew paper-weaving guide/card; REJECTgeneric pre-cut/wider/no-template/first-row/second-row-reversal novelty; PRESERVEowners. Exactdemand/incrementaloutput and one adultcontrolleddefault unqualified. Noncheckerboard choice is not automatically an error; no family-testing blocker.",
+      "research_evidence": "Five accessibleHTML bodies+oneCranbrookPDFtext/11selectedunorderedobservations/fivepublicbodies with age/date/reuse limits. MAAM4actualprocessphotos/finalsettled1280-390source task12of26criticalFAIL/notKALbaseline; initiallazy-placeholder/consent/fade captures excluded. TwoKALbytes/sixzero-actualkeyClear36/twoNoJS; PDF404-406 and broadcasterHTML403 limits do not block rejection. Master278/106JSON19CSV2212/site-source-config conserved/all101GSC, no physical-family/SEO outcome.",
+      "next_action": "Freshdifferent full7 read-onlyreview, exactdocs mainrelease/alignment/factualcloseout. No implementation qualified; sameactual21:02:22/count1/deadline21:47:22/max3; no externalblocker."
+    },
+    {
       "id": "KAL-RES-092",
       "title": "Qualify a preschool cloud-watching observation job",
       "kind": "bounded-explore-discover-qualification",
