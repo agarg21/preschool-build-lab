@@ -6,6 +6,51 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-078",
+      "title": "Qualify LEGO Color Tower material and first-sort handoffs",
+      "kind": "existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "7bd50522afa2f7aa8fa27c1103d880824ecfe456",
+      "exact_paths": [
+        "reviews/lego-color-tower-first-start-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Actual legacy card3minutes/LEGOorDUPLO/pickcolor-stack-maketaller-repeat/late younger-sibling warning; canonical4-6/3min/lowmess/mediumhelp/pickcolor-stack-count-repeat/UseDUPLOifyoungersiblingsnearby. Recent targetedresearch/title search finds no exact ColorTower material/firstsort qualification; prior samepath scope is shared contributor credit, not content approval. Named new gap: color-sort/count-vs-height, owned brick/youngerreach and actual renderer agreement, distinct from reviewed DUPLO visible-copy rule.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Adult must judge owned brick family/condition/age and younger access, know one color/shape choice and first sort/place or point/watch/decline, adult role, failed fit/color alternative/stop/collection without a creator-video dependency or skill/safety promise.",
+      "hypothesis": "Current source mechanisms and actual live canonical/CSV/custom owners may qualify improve/preserve/defer/pause, reconciling material and first sort/low stack while preserving maintained prior utility and peer owners; no forced color naming/counting, new recipe or repair presumed.",
+      "acceptance": "Current primary query/bodies/visuals where needed, retained exact lineage, actual owner/renderer inventory incl custom phantom declarations, desktop/mobile-root32-key/finder baseline ifapplicable; fourlenses/everysection/all13 denominator. Explicit improve/preserve/defer/pause and exact source-material-role-firstaction-stop gates. No retroactive creator/physical testing or automatic transfer of DUPLOcopy rule.",
+      "qa_plan": "Native225/jq/changedJSON-GSC100-IDs-docrefs/privacy/EOF/exact7/diffcheck; source/task/actualowner livebytes/routes/fit/noJS baseline. Different fresh full7 read-only reviewer/fixP0-P2/fresh exact docs-onlymainrelease/fullunpushed/stagedcheckexit0/factualcloseout/alignment. No fourth build this run; any supported repair next eligible heartbeat separately registered.",
+      "invariants": "Research-only allsite/code/data/CSV/assets/config/automation/ControlRoom read-only; preserve shared contributor and maintained DUPLO-copy/Pattern owners and allpeers. No newURL/paid/productrecommendation/indexing/outreach/clinical/skill-time-mess-safety/physical-family claims. No family-test prerequisite invented.",
+      "observation_window": "Sameheartbeat04:06:53.241Z/immutableactual04:06:59Z NYOctober28/completed2/third-final/no fourth/startdeadline04:51:59Z. IMP057fdc4e15/Pages40632130385/closeout6f4200d and RES077db23daa/closeout7bd5052 complete; freshmainclean0/0. November1/October30 retained.",
+      "reconsider_if": "Prior exact completedqualification/source-visual/material conflict/criticalcontrolunknown/adequate existingmaintainedowner. Preserve/pause rather than invent joint/colorreadiness/recipe. P0-P2/privacy/peerdrift/divergence stoprelease.",
+      "blockers": "No dependency blocker for research; owned brick suitability/fit and child outcomes UNKNOWN, not generic DUPLO guarantee.",
+      "next_action": "Native225/exact7structured-privacy-EOF/currentbody/task review/differentfull7review/fresh docs-only release/alignment; next eligible heartbeat separately register repair, no fourth.",
+      "phase": "review-passed-release",
+      "decision": "IMPROVE seven actual Color Tower owners separately to sorting-first/four owned large DUPLO/two visible color seeds/optional two-high pair stacks with early fit-role-reach/point-watch-decline/flat-end/collection and untested limits. Preserve titles/URLs/CSV/maintained peers; remove only phantom preschool declaration, preschool bytes unchanged. DEFER newURL; no creator/physical/child/product assurance.",
+      "qa_result": "RES078 Master225/jq/onechangedJSON/161uniqueIDs/383localdocrefs/GSC100/privacy/exact7/EOF/whitespace PASS. Two PDFs/text/three local renders/current manufacturer-label-limited landing/RCN/AAP bodies, source_id CSV parsed after corrected column; 11live200bytes/28modes/24latechecks/18incomingkeyboardBack/exact1-zero-keyboardClear36focus/sevenNoJS/cardroot32wordranges and390full-320top viewed. Preschool phantom independently inventoried; no current overflow or broken video inferred, embeds deliberately blocked. Allsite/code/data/CSV/config unchanged. Different full7review/fresh exact docs-only release pending; same04:06:59Z/completed2/third-final/no fourth/deadline04:51:59Z.",
+      "independent_review": {
+        "reviewer": "Beauvoir",
+        "id": "01a180d2-ecd2-7d21-83d2-88ab65fecca5",
+        "verdict": "PASS",
+        "cycles": 2,
+        "findings": "Sole P3 undated-source label corrected; no remaining P0-P3",
+        "receipt": "Beauvoir (01a180d2-ecd2-7d21-83d2-88ab65fecca5), fresh independent final full7 plus sole-phrase confirmation cycle2/3 PASS/no remainingP0-P3. Ledger source-date P3 corrected to undated inspectedOctober28; reversephrase reproduces originalledger, other6/HEAD intact. Independently224nonmutating/GSC100-161IDs-383refs/exact7-JSONpreservation/privacy-EOF-whitespace/canonicalCSV-actual5hubs-phantompreschool-route/11production200bytes/28modes-24late-18incomingBack-sevenNoJS-finder exact1-zero-Clear36focus/twoPDFbytehashes-text-threevisuals-two cardcaptures/fourlenses-everysection-all13 legacy5/26 pass. No generator mains/repo edits/sourcevideo/physical-family/AT/truezoom/build/release proof. Reviewer browser closed; Master225 distinct, fresh exact docs-only release next. Same04:06:59Z/completed2/third-final/no fourth/deadline04:51:59Z."
+      }
+    },
+    {
       "id": "KAL-RES-077",
       "title": "Qualify a shared oral-story first-turn job",
       "kind": "create-imagine-guide-discovery",

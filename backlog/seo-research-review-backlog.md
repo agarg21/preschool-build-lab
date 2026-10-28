@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October28 - LEGO Color Tower First Start
+
+[RES078 audit](../reviews/lego-color-tower-first-start-audit-2026-10-28.md): IMPROVE seven actual Color Tower owners separately to sorting-first/four owned large DUPLO/two visible color seeds/optional two-high pair stacks with early fit-role-reach/point-watch-decline/flat-end/collection and untested limits. Preserve titles/URLs/CSV/maintained peers; remove only phantom preschool declaration, preschool bytes unchanged. DEFER newURL; no creator/physical/child/product assurance. Current primarytwoPDFs/visuals/ownedlabel context and actual28modes/24late/18keyboardBack/finder-sevenNoJS/legacy5/26; no prior exact qualification found, contributor credit is not content approval. Native225/differentfull7review/docsrelease required.
+
 COMPLETED learned-only db23daa3f2b80736494624d38316aa617b9f2648: Dirac final full7/sole-row PASS/no remainingP0-P3; Master225/reviewer224/exact7-160IDs-380docrefs-GSC100/privacy/EOF/stagedwhitespace exit0. Fresh fetch/no divergence/emptyunpushed/frozenstage/complete committedrange identity passed; docs-onlymainpush and postpush freshmainclean0/0 confirmed. DEFER oral-storynewURL/REJECT generic prompts/turns novelty; exactdemand/missingoutput/full default gates remain. No site/Pages/build/clinical or family outcome. Completed2; factual7closeout/alignment then original04:06:59Z/deadline04:51:59Z guard before a third-final LEGO Color Tower source/task audit only if retained gap confirmed, no automatic repair. November1/October30 retained.
 
 ## October28 - Shared Oral Story
