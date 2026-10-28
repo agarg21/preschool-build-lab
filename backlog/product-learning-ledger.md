@@ -1,5 +1,7 @@
 # Product Learning Ledger
 
+COMPLETED learned-only RES080 abfa8f8619d71b615c9a6b04ee962ce5b7719ac6: Erdos fresh full7 PASS/noP0-P3; Master233/reviewer232/exact7-165IDs-404refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/complete unpushed range identity pass. Docs-only main push/freshfetch clean0/0 confirmed06:12:45Z, no Pages wait/site release. Qualifies separate nine-surface Block first-placement repair plus phantomIndoor correction, preserves indoorbytes/CSV/peers. Owned stability/physical-family outcomes UNKNOWN. Completed1; factual7 closeout/push/alignment then original06:45:23.664Z conservative guard before separate build. November1/October30 unchanged.
+
 ## 2026-10-28 - RES080 Block First Placement
 
 - Decision/persona: [audit and separate brief](../reviews/block-play-first-start-audit-2026-10-28.md), IMPROVE nine existing visible surfaces/seven runnable plus target phantomIndoor correction; DEFER newURL. Caregiver needs owned-block/youngest-reach/role/first-placement/flat-or-end/controlled collection, not mandatory height/count/knockdown/repeat.

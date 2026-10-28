@@ -9,7 +9,7 @@
       "id": "KAL-RES-080",
       "title": "Qualify Block Play first stack and wide-base handoff",
       "kind": "existing-owner-source-task-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "9d0a4a758f403589f49878a06eeef813f11a621a",
       "exact_paths": [
@@ -38,7 +38,10 @@
       "reconsider_if": "Already completed exact qualification, no material task gap, source/owned-material conflict, critical output missing, overlap/peer drift/privacy/P0-P2/divergence.",
       "blockers": "None known; owned blocks and physical family performance UNKNOWN.",
       "qa_result": "RES080 Master233/jq/exact7/onechangedJSON/165uniqueIDs/403localdocrefs/GSC100/privacy/EOF/whitespace PASS. Four current primary bodies/retainedCSV parsed/12production200bytes/36modes-28late-24incomingkeyBack/finder2-target-present-zero-keyClear36focus/nine390NoJS; three supplied captures viewed. Allsite/code/data/config unchanged, photo403/PMCverification excluded; no creator/physical/family/AT/truezoom/console-clean claim. Fresh different full7 review/docs-only release required before separate repair; same retained06:03:01Z/conservative06:45:23.664Z/completed0.",
-      "phase": "reviewed-awaiting-release",
+      "phase": "released",
+      "completed_on": "2026-10-28",
+      "release": {"commit":"abfa8f8619d71b615c9a6b04ee962ce5b7719ac6","type":"docs-only","verification":"Fresh postpushfetch clean0/0 at06:12:45Z; exact7frozenstage/stagedcheck exit0/complete committedrange identity; no Pages wait","range_hash":"b1d44758aff60e372c45e7d3b37eece9ed95058c0a51a07c8426cf5140832599"},
+      "completion_receipt": "COMPLETED learned-only RES080 abfa8f8619d71b615c9a6b04ee962ce5b7719ac6: Erdos fresh full7 PASS/noP0-P3; Master233/reviewer232/exact7-165IDs-404refs-GSC100/privacy-EOF-whitespace/stagedcheck exit0/frozenstage/complete unpushed range identity pass. Docs-only main push/freshfetch clean0/0 confirmed06:12:45Z, no Pages wait/site release. Qualifies separate nine-surface Block first-placement repair plus phantomIndoor correction, preserves indoorbytes/CSV/peers. Owned stability/physical-family outcomes UNKNOWN. Completed1; factual7 closeout/push/alignment then original06:45:23.664Z conservative guard before separate build. November1/October30 unchanged.",
       "independent_review": {
         "reviewer": "Erdos",
         "id": "01a18120-6b50-70a2-8171-310056c92386",
