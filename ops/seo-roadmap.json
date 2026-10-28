@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-092",
+      "title": "Qualify a preschool cloud-watching observation job",
+      "kind": "bounded-explore-discover-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "7a14aa7813530618e0571e1e5c3e0fbce2ea9b38",
+      "exact_paths": [
+        "seo/preschool-cloud-watching-qualification-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "MEASURED",
+        "UNKNOWN"
+      ],
+      "evidence": "Heartbeat21:02:17.136Z, actual21:02:22Z/17:02:22EDT, completed0/deadline21:47:22Z. Freshfetch/clean0/0; prior IMP070 closeout7a14aa7 complete, no overlap or unfinished release. Current queue has no qualified unbuilt guide; November1 synthesis not due. Weather exploration was separately deferred as a distinct job in August indoor consolidation, never a cloud-specific qualification.",
+      "parent_problem": "Caregiver of an ages3-6 non-reader may want an immediate sky-observation start without charts, identification expertise, collecting or elaborate craft; weather, viewing direction, no-visible-cloud and no-recognizable-shape exits matter.",
+      "hypothesis": "Cloud watching may serve a distinct observation-and-description job beyond existing science/hunt/listening owners, with material search support and a specific missing caregiver output. Do not equate accessible institutional activities with demand or generic no-print novelty.",
+      "acceptance": "Inspect one exact current cloud-watching query family and maintained primary result bodies; current public caregiver-question bodies where available, not snippets as body evidence; dated keyword/owner audit. Source-grounded four lenses, desktop/mobile source/discovery task and all13/every-section/default-lineage assessment. Return BUILD/UPGRADE/PRESERVE/DEFER/REJECT with exact remaining gates; separate build registration only if qualified.",
+      "qa_plan": "Exact7 docs/research only; full278tools tests/diffcheck/jq/JSON-CSV/sourceprivacy/EOF/relativeMDrefs/uniqueIDs/all101GSC/conserve site-source-data-config. Actual desktop/mobile browser proxy with limitations/captures. Freshdifferent full7 read-only review max3/PASS orPASS_WITH_P3; completedfetch/no divergence/exactfrozenstage/completeunpushedrange/docs-onlymainpush/alignment; no Pages wait.",
+      "invariants": "No site/generator/data/config/automation/ControlRoom/indexrequest/paid/product/account/outreach/newURL edit. No weather forecast, sun-looking, universal safety/educational/family result or copied/private community data. No transfer of leaf/nature/listening/seed demand or reopening their closed decisions.",
+      "observation_window": "Actual21:02:22Z/count0/new-actiondeadline21:47:22Z/max3, sprintactive. Prior transactions closed; November1/October30/globalcutoff retained. Research before separately scoped build.",
+      "reconsider_if": "Current demand/output/default/source evidence disconfirms job or clean owner exists; preserve/defer/reject without inventing page. Narrow candidate gate does not block independent work; actual clock never resets.",
+      "phase": "independently-reviewed-ready-for-docs-release",
+      "review_evidence": "Freshdifferent independent01a1845a-3545-7122-a1c2-30b79b4c3682 full7/cycle1PASS/noP0-P3; corrected exact-exclusion277pass, initial278pass/Master278. All670checkout/HEAD/status/empty staged diff and sevenhashes conserved, raw.git-index bytes NOT hashed, prior188items unchanged. Independently11sourcebodies/fourpublicthreads/threeproductionbytes/sixzero-keyClear36/twoNoJS/ownSesame1280-390UIcaptures/MasterUAFbothrenders/106JSON19CSV2212rows189IDs651refs101GSC67allowlist/privacyEOF PASS. Ownhelper designed first, Masterhelper never read/executed/copied/no captureoverwrite. Initial date-test ran sitemap.main twice against redirected temporarySITE-only fixtures, no sharedsite or generatorCLIentrypoint; explicit exclusion rerun passed. No site/build/family/SEO outcome.",
+      "decision": "DEFER new cloud guide/card; REJECT generic no-print-chart-app/seated/description-first novelty; PRESERVEowners. Materialdemand/current incrementaloutput and one boundeddefault unqualified, not family-testing blocker.",
+      "research_evidence": "Eleven primary/organization/publisher bodies (tenHTML/onePDFbothpages),12selected unordered resultobservations/two2026adjacent-plus2olderexactpublicbodies, no exactmetrics/rank/overlap inference. Fourgrounded lenses/everysection/source-text14of26criticalFAIL/notKALbaseline. Production3bytes/sixfinder-zero-keyClear36/twoNoJS/source1280-390 readable/nooverflow/PDFvisuals, no video/AT/truezoom/physical-family outcome. Master278/106JSON19CSV2212/source-site-config unchanged/all101GSC.",
+      "next_action": "Freshdifferent full7read-onlyreview, exactdocs mainrelease/alignment/factualcloseout. No build qualified; sameactual21:02:22/count0/deadline21:47:22/max3; no externalblocker."
+    },
+    {
       "id": "KAL-IMP-070",
       "title": "Keep contributor and publisher heading arrivals clear of sticky navigation",
       "kind": "verified-existing-owner-anchor-accessibility-repair",

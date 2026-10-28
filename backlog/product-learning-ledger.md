@@ -2681,3 +2681,13 @@ observe for a post-release crawl or finalized page/query change.
   alignment PASS. No release marker, production retry or regression; owned
   server stopped/session79653exit143ack/portempty20:40:44Z. Applied delivery,
   not a family/trust/SEO outcome; source/policy/99sitepeers preserved.
+
+## 2026-10-28 - KAL-RES-092 Cloud-Watching Qualification
+
+- Decision/persona: [cloud observation packet](../seo/preschool-cloud-watching-qualification-2026-10-28.md), DEFERnewguide/card/REJECTgenericno-print-chart-app-seated-description-first novelty/PRESERVEowners. Approximately4 non-reader/shared-target/weather-exit task, four source-derived hypotheses, not family evidence.
+- Hypothesis: natural-sky observation might supply a distinct material-demand job and missing target-sharing/exit output beyond simpler maintained answers. Current elevenprimary-org-publisher bodies/12selectedunorderedobservations and fourpublicbodies(twoolderexact,two2026adjacent) do not establish that conjunction.
+- Classes/sources: named live query/original bodies, UAFbothPDFpages, NASA/UCAR/NWS; SOURCE_BACKED within limits, personas RESEARCH_HYPOTHESIS, scoring/disposition EDITORIAL_JUDGMENT, actualbrowser/GSC MEASURED, exactdemand/ranks/physical-family/time-calm-learning-safety-SEO outcomes UNKNOWN. No paid calls, sourcecopy or personal data.
+- Result: sourceTEXT14/26/all13/noN-A/criticalFAIL, noKALbeforepagebaseline. Three livebytes/sixfinder-zero-actualkeyClear36/twoNoJS/source1280-390/visuals; current owner gap correctly remains zero, no replacement synonym or newURL. Master278/structuredprivacy/source conservation pass; freshdifferent full7review/docs release pending.
+- Confidence/lesson: high inspected owner/simple-source coverage, moderate archival shared-target hypothesis, low exact demand. A sensible adaptation does not itself justify an indexable page; several simplifications already exist.
+- Next falsification trigger: exact focus-age demand or repeated current constrained need plus a missing execution/decision output over inspected answers and one reconciled adult-controlled default/exit. Reopen only named evidence, not more broad cloud recaps or absent family testing. No project-wide blocker; November1/October30/globalcutoff retained.
+- Review: freshdifferent01a1845a full7/cycle1PASS/noP0-P3, corrected277pass/Master278/670checkout invariant. Initial278pass/temporarySITE-only date-test filter error, explicit-exclusion rerun, own sourceUIcaptures/MasterPDF distinction and rawgit-index nothashed disclosed in packet. No implementation qualified; exactdocs release/alignment next.
