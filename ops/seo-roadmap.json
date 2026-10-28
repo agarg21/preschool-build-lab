@@ -6,6 +6,44 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-088",
+      "title": "Qualify the retained Paper Path and Engineering Paper Bridge hub first-start handoffs",
+      "kind": "existing-owner-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "13730ea8fcf32561629a2ad051411d1cb124923b",
+      "exact_paths": [
+        "reviews/paper-bridge-hub-handoff-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "SOURCE_BACKED",
+        "MEASURED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "RES036/IMP027 qualified guide/originalpack and compactcard handoff, not the separate BuildingPaperPath or EngineeringPaperBridge three-step override/earlyStartHere/chooser/image cues. LatestIMP067 conserved these as peers, not individually approved. NamedNEWgate: actual two-hub firstsupport/object/adult-stop-before-action versus maintained PaperBridge owner; no repeated guide/card qualification.",
+      "parent_problem": "Caregiver following an existing structure-hub paper-span start needs a supported first placement/material/adult/stop/rescue and correct maintained depth before handling, not discover later that a generic toy or car sequence differs from guide.",
+      "hypothesis": "The two existing hub starts and their earlier cues already agree with the maintained guide's source/control boundary and need no correction.",
+      "acceptance": "Current live query/source bodies/available relevant visuals and source-job/control lineage; actualPAGES overrides/all knownowners map; desktopmobile-root32-keytouchBack-noJS task/fourlenses/everysection/all13scores; preserve/improve/defer/reject disposition and exact separatebrief ifsupported. Inspect Engineering EARLYStartHere and bothchoosers/pictures; don't presume recipe, equivalenttask, newURL or sourceabsence.",
+      "qa_plan": "Full265/jq/diff/structuredJSONCSV/privacyEOF/exact7/GSC100/IDs/MDrefs/source-site-code-data-config unchanged. Freshdifferent full7read-onlyreview max3/PASS-PASS_WITH_P3/freshfetch-frozenexactstage-cachedcheck-completeunpushedrange/docs-onlymainpush/factualcloseout/alignment. Ifqualifies build separately promptly within original15:43:11/countguard.",
+      "invariants": "Sevenresearch/operatorpaths only. Preserveguide/card/pack/age4hub/currentIMP067 and allpeers/site/assets/CSV/config. No paid/product/indexing/tracking/outreach/automation/ControlRoom/newURL. No borrowed newdemand or physical-family/timing-mess-learning-safety/SEO claims.",
+      "observation_window": "Sameactual14:58:11/count1/startdeadline15:43:11/max3. IMP067freshreview/liveaccepted/closeout13730ea pushed/mainclean0/0. November1synthesis/October30restoration/globalcutoff unchanged.",
+      "reconsider_if": "Criticalsource/task/ownership/scope contradiction or insufficient evidence. No blanketqualification of other unreviewed PaperBridge owners.",
+      "phase": "independent-pass-docs-release-pending",
+      "reviewer": "01a18325-53a1-7902-86cc-0af818d67c48",
+      "review_verdict": "PASS cycle1; no P0-P3; Master265/independent264; full7 frozen unchanged",
+      "decision": "IMPROVE existing two hub handoffs to an explicit DIFFERENT stationary-test checked-card choice; DEFER moving-toy variant/newURL. Current source/task audit rejects equivalence, not physical feasibility. Preserve card/guide/allotherowners.",
+      "artifact": "reviews/paper-bridge-hub-handoff-audit-2026-10-28.md",
+      "next_action": "Full265/structuredprivacyEOF/freshdifferent full7review/docs-onlyrelease/alignment, then separately register exact IMP068 brief promptly if original15:43:11/countguard permits."
+    },
+    {
       "id": "KAL-IMP-067",
       "title": "Pause unsupported Cup Doorway starts and distinguish maintained alternatives",
       "kind": "existing-owner-implementation",
