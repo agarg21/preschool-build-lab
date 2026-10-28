@@ -9,7 +9,7 @@
       "id": "KAL-IMP-052",
       "title": "Make Wind Tower fan control and non-fall outcomes explicit",
       "kind": "reviewed-five-owner-first-start-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "db96664",
       "exact_paths": [
@@ -50,7 +50,7 @@
       "observation_window": "Heartbeat2026-10-28T00:05:06.753Z/immutableactual00:05:11Z (October27 20:05:11EDT)/completed0/deadline00:50:11Z/max3. Fresh cleanmain0/0 atdb96664; prior3transaction handoff closed. November1/October30 retained.",
       "reconsider_if": "Source/label/ownedfan-blocks/attention/no-contact/control contradiction, criticalclutter/P0-P2/peerdrift/divergence/ambiguous regression. Decline affectedsetup not invent test.",
       "blockers": "None. Scope amended before fixture edits to20/time-date expectations only; allother trust-inventories preserved. Anscombe full20 PASS/no P0-P3/204nonmutating/conservation/current3bodies-retainedKansas/task/privacy pass; Master205-twice-full24modes distinct/frozen20HEAD intact/reviewer closed. Fresh exactmainpush/exactSHA Pages/live gates next.",
-      "next_action": "Reconcile current sources/required protocols then canonical+windtargetoverrides+packmodule/scopedcompactdisplay/targetdates/focusedtests; native-generator-browser-differentreview/exactSHAproduction/factualcloseout/alignment."
+      "next_action": "COMPLETED reviewed9d4949eee4beac2e97c23ddf4e449e3a03c147e2/Anscombe full20 PASS/native205/exactSHA Pages40607830241 success/no marker. Seven affected/seven unchanged live200bytes/same24production modes-12incomingBack-8touch-9outgoing-6freshreadablehash-finder-16disclosures-sixnoJS/canonical-H1-credit-images-wordfit/card-pack390-root32 viewed pass. No release retry/regression/outcome claim; fresh release fetchclean0/0/reviewer closed/server8786 stopped. Completed1; factual7 closeout/QA/push/alignment then originalactual00:05:11Z/deadline00:50:11Z guard before next selection. Kansas access limit unchanged; November1/October30 retained."
     },
     {
       "id": "KAL-RES-069",
