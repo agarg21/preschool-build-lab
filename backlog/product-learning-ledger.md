@@ -1,5 +1,15 @@
 # Product Learning Ledger
 
+RES085 independent reviewer01a18284-a7c0-7823-b394-ebc35e93b02b full7/cycle2 PASS/no remainingP0-P3; soleP2 earlier Building Start here explicitly reconciled in brief. Master253/independent252. [Review/next brief](../reviews/magnetic-tile-house-first-start-audit-2026-10-28.md). Reviewer/browser closed/no server. Exact docs-only release/factualcloseout/alignment next; original12:01:32/count1/deadline12:46:32 expired, finish existing only/qualified build NEXT eligible/no third.
+
+RES085 review found oneP2: a later handoff cannot reconcile an earlier block-house instruction. [Brief](../reviews/magnetic-tile-house-first-start-audit-2026-10-28.md) now explicitly withdraws Building Start here and verifies checked different-material route ordering. No sitechange or completed learning claim yet; cycle2 review required.
+
+## 2026-10-28 - RES085 Magnetic Tile House
+
+- Decision/persona: [audit/separate brief](../reviews/magnetic-tile-house-first-start-audit-2026-10-28.md), IMPROVE existing house to explicitly different flat2-tile picture task; preserve ToyHome toy-entry job via explicit DIFFERENT-material maintained BoxGarage handoff; remove phantomIndoor declaration only. DEFER generic3D/newURL; no universal unsafe finding/product recommendation.
+- Hypothesis/classes/result: manufacturer flat text/flatPDF/condition context SOURCE_BACKED, exact2piece/roles/gap-or-end EDITORIAL_JUDGMENT, fourlenses RESEARCH_HYPOTHESIS;10livebytes32modes20late15incomingkeyBack10touchBack9outkey6outtouch/chooser-hash/finder-eightNoJS MEASURED. OLD3Dtask2/26/noN-A FAIL, root32doc345; proposedflat task DIFFERENT, no numericgain claim.
+- Confidence/lesson/trigger: high technical/moderate editorialconfidence; flat picture cannot stand in for a toy enclosure, and product-specific door/manual/mini pattern cannot certify generic owned materials. No exact material demand/rank/physical-family/time-mess-learning-safety-SEO evidence. Reopen source/ownedidentity/flat-vs-room/criticaltask/peer/privacy/divergence. Full253/structured/different review/docs-only release pending; any build separate promptly within original12:46:32/count guard, else nexteligible. No family-test prerequisite.
+
 IMP064 COMPLETED bd8b1b3/exact-SHA Pages40687104406 SUCCESS/live14bytes-same32mode task/visuals; independent full20PASS/native253. [Release receipt](../reviews/tube-drop-first-start-repair-2026-10-28.md). Shared existing-default repair applied; no newURL/physical-family claim or known blocker. Reviewer/browsers/server closed; completed1/original12:01:32/deadline12:46:32, factualcloseout/alignment then guard/currentqueue.
 
 IMP064 independent Codex reviewer01a1826e-2a74-79f2-a400-7bbc25c96d29 full20/cycle1 PASS/noP0-P3; Master253/independent252. [Review receipt](../reviews/tube-drop-first-start-repair-2026-10-28.md). Reviewer/browser closed, Masterserver8798 retained. Fresh exact main release/exactSHA production next; sameactual12:01:32/count0/deadline12:46:32, not yet delivered.

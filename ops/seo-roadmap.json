@@ -6,6 +6,44 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-085",
+      "title": "Qualify Magnetic Tile House pieces, first join and owned-set controls",
+      "kind": "existing-owner-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "9360157cfd76c3a706f707a3716e0b9f9b44cf12",
+      "exact_paths": [
+        "reviews/magnetic-tile-house-first-start-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "IMP064bd8b1b3/Pages40687104406/fullcloseout9360157 fully complete, freshmainclean0/0/helpereligible12:24:35Z. Existing MagneticTileHouse CSVcard video-first Make walls/Add roof/Put toy inside/Open door lacks owned pieces/firstjoin/geometry/door/attendance/decline; exactpath history only broad/sharedcredits, not this mechanism qualification. No repair/newURL or unsafe-universal conclusion presumed.",
+      "parent_problem": "Caregiver with owned magnetic tiles needs exact suitable pieces/first placement/join and house representation, all-child owned-set readiness/control, observable completion/reset/decline without unexplained hinged door, smalltoy or unsupported structural/safety promise.",
+      "hypothesis": "Current primary written-and-visual mechanism reconciliation plus real existing-owner desktop/mobile task can support improve/preserve/pause/defer for this card without a new indexable page or product recommendation.",
+      "acceptance": "Current live queryfamily/opened primary bodies/necessary sourcevisuals, ownedset guidance, actualCSV/canonical/overrides/visible owners and honestlimits. Source-traced persona/stress/fourlenses/everysection/all13card baseline and desktopmobile-root32/keytouchBack-finder-noJS. Freeze one source/geometry/material/role/first-start/stop/rescue lineage or DEFER runnable change with exact gap; build/pause brief separately, no silent material/mechanism substitution or mandatoryfamilytest gate.",
+      "qa_plan": "Full253/jq/diffcheck/JSONCSVparse/uniqueIDs-localrefs/GSC100/privacy-singleEOF/exact7/site-code-data-config unchanged; freshdifferent full7readonlyreview/P0-P2<=3cycles/PASS-PASS_WITH_P3/freshfetch-no divergence/exactfrozenstage-completeunpushedrange/docs-onlymainpush/factualcloseout/alignment. No Pages wait for research. Qualified build separately promptly within original12:46:32 deadline/count, else nexteligible.",
+      "invariants": "Research-only exact7. No site/source/data/config/URL/asset/product/purchase/paid/indexing/tracking/outreach/automation/ControlRoom mutations. Preserve genericMagneticTileBuilds as independently unqualified peer, all existing releases/observation windows/deferred018019. No watchedvideo/source-exact-house/safety/physical-family/learning/engagement/time/mess/SEO claim invented; no ingestion medical advice or material certification.",
+      "observation_window": "Sameactual12:01:32Z/completed1/deadline12:46:32Z/max3. IMP064fullcloseout9360157 pushed/clean0/0 at12:24:35Z; reviewer/browsers/server closed, no releasepending/newredirect. November1/October30/globalcutoff retained.",
+      "reconsider_if": "Prior exact qualification found, source/ownedlabel/geometry/criticaltask/privacy/peer/P0-P2/divergence. No newURL from thin variants or generic magnet building; ordinary non-product research eligible without paid/family evidence.",
+      "blockers": "None known; exact owned fit/physical-family outcomes UNKNOWN.",
+      "phase": "reviewed-release-pending",
+      "independent_review": "Independent Codex reviewer01a18284-a7c0-7823-b394-ebc35e93b02b, fresh full7/read-only/cycle1 FAIL/soleP2 (earlier Building Start here owner missed); bounded cycle2 PASS/no remainingP0-P3. Explicit PAGES.tip cue withdrawal/DIFFERENT box-car checked-start before handling/hero-callout-chooser-ToyHome alignment, target-only readiness exception and focused rendered-copy/order/actualkeyboard-touch-Back requirements verified. New7hashes/HEAD matched;647repo/all99site files unchanged during review. Independent252 fromcycle1 excluded ONLY exact date-mutating sitemap testname; cycle2 retained not rerun.175IDs514refs105JSON/GSC100/19CSV3oldblanks/privacy-singleEOF-whitespace/priorroadmap/source-site-code-data-config conservation PASS. Initial browser10livebytes32modes20late15incomingkeyBack10touchBack9outkey6outtouch/chooserhash/finder-eightNoJS reproduced, fourreviewercapturesbyte-identical and remotePDFbytes/source boundaries checked.31of32docfit/oldroot32doc345/ToyHomeheading166.813 clears142.828header reproduced. Fourlenses/everysection/all13 OLDtask2of26/noN-A retained, not comparable to DIFFERENT flat-picture task. Source/ownedfit controls editorial/no physical-family/certification/medical-legal/product/SEO claim. Reviewer/browser closed/no writes/server. Master253 distinct; research-only exact docs release/factualcloseout/alignment required. Original12:01:32/count1/deadline12:46:32 expired during review; finish existing only, qualified build nexteligible, no third.",
+      "review_cycle1": "Independent reviewer01a18284-a7c0-7823-b394-ebc35e93b02b full7 FAIL/oneP2/noP0-P1-P3: earlier Building Start here unqualified block-home start was not explicitly reconciled. Research-only audit/brief corrected to withdraw earlier cue, put DIFFERENT box/car checked route before handling and require focused rendered-copy/order/keyboard-touch-Back QA. Preserve8peers/ConnectedRooms/Indoor. Initial252/structured/source/visual/baseline checks passed, frozen7/HEAD/647files unchanged; bounded cycle2 required.",
+      "next_action": "Exact docs-only main release/factualcloseout/alignment then return: original12:46:32 new-action deadline expired during review. Qualified different-task flat picture/ToyHome explicit different-box-handoff/earlier Start here-readiness/phantomIndoor repair NEXT eligible invocation, no repeated qualification/newURL/generic3D/product presumed.",
+      "qa_actual": "Current primary flat text/flatHauntedPDF+Discovery3DPDF visuals/FAQ-CPSC-AAP context and actual6owners5runnable/CSV-canonical-intentionalToyHomeoverride/phantomIndoor;10livebytes32modes20late15incomingkeyBack10touchBack9outkey6outtouch/3chooserkey2touch3directhash/finder-eightNoJS/31of32docfit/directroot32doc345. OLD3Dcard2of26/noN-A FAIL; proposedflat DIFFERENTtask/no numericgain. No site/code/data/config mutation or physical-family outcome. Full253/structured/review/release pending."
+    },
+    {
       "id": "KAL-IMP-064",
       "title": "Repair shared tube-drop first start and all existing handoffs",
       "kind": "existing-owner-implementation",

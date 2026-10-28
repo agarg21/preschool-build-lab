@@ -1,5 +1,13 @@
 # Persona Review Log
 
+RES085 independent reviewer01a18284-a7c0-7823-b394-ebc35e93b02b full7/cycle2 PASS/no remainingP0-P3; soleP2 earlier Building Start here explicitly reconciled in brief. Master253/independent252. [Review/next brief](../reviews/magnetic-tile-house-first-start-audit-2026-10-28.md). Reviewer/browser closed/no server. Exact docs-only release/factualcloseout/alignment next; original12:01:32/count1/deadline12:46:32 expired, finish existing only/qualified build NEXT eligible/no third.
+
+RES085 toy-room/reset lens failed cycle1 on earlier Building Start here callout. [Audit/brief](../reviews/magnetic-tile-house-first-start-audit-2026-10-28.md) now names cue withdrawal/explicit DIFFERENT box-car checked-start before handling/focused route-order checks. Bounded cycle2 pending; no sitechange or old-vs-flat score comparison.
+
+## 2026-10-28 - RES085 Tile House
+
+[Audit](../reviews/magnetic-tile-house-first-start-audit-2026-10-28.md): four traced novice/material-attention/ability-interest/toyroom-reset lenses, every affected section, all13 old3Dtask2/26/noN-A FAIL. Proposed flat picture is DIFFERENTtask, no numericgainclaim; ToyHome needs explicit different-material box route.10livebytes32modes20late15incomingkeyBack10touchBack9outkey6outtouch/3chooserkey2touch3directhash/finder-eightNoJS;31of32docfit/directroot32doc345, ToyHomeheading166.813 clears142.828header. Fourbaseline captures/current2D+3DPDFvisuals inspected, no physical-family/video/allword-console/AT/truezoom claim. Full7review/docsrelease before separate build.
+
 IMP064 COMPLETED bd8b1b3/exact-SHA Pages40687104406 SUCCESS/live14bytes-same32mode task/visuals; independent full20PASS/native253. [Release receipt](../reviews/tube-drop-first-start-repair-2026-10-28.md). Shared existing-default repair applied; no newURL/physical-family claim or known blocker. Reviewer/browsers/server closed; completed1/original12:01:32/deadline12:46:32, factualcloseout/alignment then guard/currentqueue.
 
 IMP064 independent Codex reviewer01a1826e-2a74-79f2-a400-7bbc25c96d29 full20/cycle1 PASS/noP0-P3; Master253/independent252. [Review receipt](../reviews/tube-drop-first-start-repair-2026-10-28.md). Reviewer/browser closed, Masterserver8798 retained. Fresh exact main release/exactSHA production next; sameactual12:01:32/count0/deadline12:46:32, not yet delivered.

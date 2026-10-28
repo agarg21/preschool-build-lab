@@ -1,5 +1,13 @@
 # Kid Activity Lab Operator Roadmap
 
+RES085 independent reviewer01a18284-a7c0-7823-b394-ebc35e93b02b full7/cycle2 PASS/no remainingP0-P3; soleP2 earlier Building Start here explicitly reconciled in brief. Master253/independent252. [Review/next brief](../reviews/magnetic-tile-house-first-start-audit-2026-10-28.md). Reviewer/browser closed/no server. Exact docs-only release/factualcloseout/alignment next; original12:01:32/count1/deadline12:46:32 expired, finish existing only/qualified build NEXT eligible/no third.
+
+RES085 cycle1 FAIL/soleP2 fixed in research brief: reconcile EARLIER Building Start here, withdraw blocks/three-side start, distinct box/car checked route before handling and focused copy/order/actual-route QA. Preserve8modules/ConnectedRooms/Indoor; bounded cycle2 full7 re-review before release. Originalclock/count unchanged.
+
+RES085 decision IMPROVE existing house with explicitly different flat-picture task; ToyHome toy-entry job gets explicit different-material BoxGarage route, phantomIndoor declaration only removed/actualIndoor preserved. [Audit/separate brief](../reviews/magnetic-tile-house-first-start-audit-2026-10-28.md), oldcard2/26/root32doc345, no numericgain/newURL/generic3D/product qualification. Full253/structured/different full7review/docs-only release pending, any build separately promptly under original12:46:32/count guard.
+
+RES085 REGISTERED9360157 exact7: qualify existing MagneticTileHouse ownedpieces/firstjoin/geometry/door/adult-control, not genericMagneticTileBuilds or a newURL. Current source/body/visual/task/disposition/full253/structured/different full7review/docs-only release required. Sameactual12:01:32/count1/deadline12:46:32; November1/October30 retained.
+
 IMP064 COMPLETED bd8b1b3/exact-SHA Pages40687104406 SUCCESS/live14bytes-same32mode task/visuals; independent full20PASS/native253. [Release receipt](../reviews/tube-drop-first-start-repair-2026-10-28.md). Shared existing-default repair applied; no newURL/physical-family claim or known blocker. Reviewer/browsers/server closed; completed1/original12:01:32/deadline12:46:32, factualcloseout/alignment then guard/currentqueue.
 
 IMP064 independent Codex reviewer01a1826e-2a74-79f2-a400-7bbc25c96d29 full20/cycle1 PASS/noP0-P3; Master253/independent252. [Review receipt](../reviews/tube-drop-first-start-repair-2026-10-28.md). Reviewer/browser closed, Masterserver8798 retained. Fresh exact main release/exactSHA production next; sameactual12:01:32/count0/deadline12:46:32, not yet delivered.
