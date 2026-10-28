@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+Planck01a17fe6-e879-7d83-9f37-923fc0684bff independent final full7 PASS_WITH_P3/noP0-P2;204nonmutating/100GSC-148IDs-337refs/exact7/privacy-whitespace/ninelivebytes/20modes-16late-12keyboardBack-finder-five noJS/maintained3modes/sourcebody-visual404/all13 independently checked. Reproduced math H1 word363.078 not table overflow. P3 mirrored summary corrected to later diagnosis, frozen7/HEAD intact, Master205 distinct. Research only; fresh docs-only release/alignment next then separate owner repair under originalguard.
+
+## 2026-10-27 - KAL-RES-070 Pattern Path Compact Start
+
+- Decision/persona: [audit](../reviews/pattern-path-compact-start-audit-2026-10-27.md) improves five legacy copies separately; preserve preschool. Caregiver needs literal ABAB/two nextchoices/pointing-retry-end while younger child reaches.
+- Hypothesis/result: maintained depth does not repair generic compact starter; current primary bodies and actual20modes/12keyboardBack/finder/fivenoJS/ninelivebytes/three maintained modes confirm named gaps, all13 editorial6/26/no N/A. Later text-Range confirms math H1 word overflow363.078 at320/root32; table278/620/auto correctly contained, scoped H1 wrapping qualified separately.
+- Sources/classes: current DREME/NAEYC/NYS plus earlier same-invocation AAP SOURCE_BACKED within limits; count/script/retry/controls EDITORIAL_JUDGMENT; task RESEARCH_HYPOTHESIS; repo/browser MEASURED; ownedfit/response/learning/time/mess/safety/SEO UNKNOWN.
+- Confidence/lesson/falsification: high inspected gaps/moderate proxy utility; offer a true A/B choice and pointing rather than require color naming. Reopen material-label/choice/readiness conflict, criticalclutter/P0-P2, already adequate owner, peer drift/divergence. No physical/family/AT/truezoom/benefit claim. Exact7/native205/structured/privacy/different review/docs release pending, November1 retained.
+
 ## 2026-10-27 - KAL-IMP-052 Wind Tower Repair
 
 COMPLETED reviewed9d4949eee4beac2e97c23ddf4e449e3a03c147e2/Anscombe full20 PASS/native205/exactSHA Pages40607830241 success/no marker. Seven affected/seven unchanged live200bytes/same24production modes-12incomingBack-8touch-9outgoing-6freshreadablehash-finder-16disclosures-sixnoJS/canonical-H1-credit-images-wordfit/card-pack390-root32 viewed pass. No release retry/regression/outcome claim; fresh release fetchclean0/0/reviewer closed/server8786 stopped. Completed1; factual7 closeout/QA/push/alignment then originalactual00:05:11Z/deadline00:50:11Z guard before next selection. Kansas access limit unchanged; November1/October30 retained.

@@ -1,5 +1,13 @@
 # Operator Review
 
+Planck01a17fe6-e879-7d83-9f37-923fc0684bff independent final full7 PASS_WITH_P3/noP0-P2;204nonmutating/100GSC-148IDs-337refs/exact7/privacy-whitespace/ninelivebytes/20modes-16late-12keyboardBack-finder-five noJS/maintained3modes/sourcebody-visual404/all13 independently checked. Reproduced math H1 word363.078 not table overflow. P3 mirrored summary corrected to later diagnosis, frozen7/HEAD intact, Master205 distinct. Research only; fresh docs-only release/alignment next then separate owner repair under originalguard.
+
+## October27 - KAL-RES-070 Pattern Path (review pending)
+
+KAL-RES-070 decision IMPROVE five Pattern compact/discovery owners separately/PRESERVE maintained preschool/DEFER newURL. Current primary bodies/one viewed assessment visual (other linked404), nine livebytes/20modes-16latechecks-12keyboardBack-finder-five noJS/maintained3modes/viewedcard390-root32; commoncompact6/26/all13. Later text-Range confirms math H1 activities word reaches363.078 at320/root32; table correctly contained278/620/auto; scoped H1 wrapping qualified separately; initial science-owner harness error corrected. Exact7/native205/structured/privacy/different review/docs release pending. Sameactual00:05:11Z/completed1/deadline00:50:11Z/November1 retained.
+
+[Audit](../reviews/pattern-path-compact-start-audit-2026-10-27.md). No site changes or approval inferred.
+
 ## October27 - KAL-IMP-052 Wind Tower (PASS / released)
 
 COMPLETED reviewed9d4949eee4beac2e97c23ddf4e449e3a03c147e2/Anscombe full20 PASS/native205/exactSHA Pages40607830241 success/no marker. Seven affected/seven unchanged live200bytes/same24production modes-12incomingBack-8touch-9outgoing-6freshreadablehash-finder-16disclosures-sixnoJS/canonical-H1-credit-images-wordfit/card-pack390-root32 viewed pass. No release retry/regression/outcome claim; fresh release fetchclean0/0/reviewer closed/server8786 stopped. Completed1; factual7 closeout/QA/push/alignment then originalactual00:05:11Z/deadline00:50:11Z guard before next selection. Kansas access limit unchanged; November1/October30 retained.

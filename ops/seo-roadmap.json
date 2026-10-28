@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-070",
+      "title": "Audit Pattern Path compact starter, choices and maintained handoff",
+      "kind": "existing-owner-source-task-audit",
+      "status": "reviewed",
+      "registered_on": "2026-10-27",
+      "base_commit": "2b13348",
+      "exact_paths": [
+        "reviews/pattern-path-compact-start-audit-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Actual canonical4min-low-low/blocks-tiles-papersquares/picktwocolors-makepath-say-addone/late size-only mouth note lacks literal starter/complete choice set/role/readiness/nonverbal-rescue-stop-cleanup/local evidence. September preschool rebalance explicitly made maintained same-page Pattern start own task, excluding legacycard as requiredsurface. Audit new compact/card-library-age4-math-no-prep gaps, not repeat completed preschool qualification.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Choose/decline a concrete repeating-pattern start, distinguish two piece kinds without relying only on spoken color naming, see fixed ABAB starter and choose one next piece or match/point/end.",
+      "hypothesis": "Current primary pattern guidance plus actual compact and maintained-owner task can qualify a bounded starter-choice-role/trust/handoff repair without rewriting the maintained preschool start or newURL.",
+      "acceptance": "One current live query family/primary bodies/relevant visuals; five compact/discovery owners plus maintained preschool source/task comparison. Source-traced four lenses/everysection/all13/commoncompactscore; PRESERVE/IMPROVE/PAUSE/DEFER with exact material-choice/starter/role/result-rescue/stop/handoff gates. No site edits/newURL presumed.",
+      "qa_plan": "Native205/JSON-GSC100-docrefs/privacy/exact7/whitespace; livebytes/desktop-mobile-root32/routes/finder/noJS appropriate baseline. Different full7 read-only reviewer/fixP0-P2/fresh completed fetch/no divergence/full outgoing/exact docs-only main push/alignment before any separately registered build if guard admits.",
+      "invariants": "Allsite/code/data/assets/CSV/config/automation/ControlRoom read-only. Preschool#continue-a-pattern/IMP052Wind/IMP051Ramp and all peers preserved. No paid tools/indexing/family/physical/clinical/learning/safety/SEO outcome or newURL/demand claim.",
+      "observation_window": "Same heartbeat00:05:06.753Z/actual00:05:11Z October27EDT/completed1/deadline00:50:11Z/max3. IMP0529d4949e/Pages40607830241/closeout2b13348 completed fresh main0/0; November1/October30 retained.",
+      "reconsider_if": "Repeated completed qualification or maintained handoff already sufficient, source material/choice/role/age contradiction/clinical dependency/P0-P2/privacy/divergence. Keep unknowns.",
+      "blockers": "None known; qualification not implementation approval.",
+      "next_action": "Fresh completed fetch/no divergence/full outgoing/exact reviewed docs-only main push/alignment/factual closeout; separate qualified repair promptly under originalguard.",
+      "decision": "IMPROVE five compact/discovery owners separately; PRESERVE preschool#continue-a-pattern body/diagram/definition; DEFER newURL. Current primary bodies/assessmentvisual/actual20modes and maintained3modes confirm starter/choice/role/nonverbal/stop/trust gap. Deeper text-Range localizes math H1 activities word to x363.078 at320/root32; table correctly contained. Qualify only scoped math H1 wrapping with separate owner repair.",
+      "qa_result": "205 tests PASS; exact7/changedJSON1/148uniqueIDs/337docrefs/GSC100/privacy/whitespace PASS; nine200livebytes/20modes/16latechecks/12keyboardBack/finder1-zero-Clear36/fivenoJS/viewedcard390-root32/maintained3modes. Math root32 table-only overflow observation not coredefect/allfitpass. Full7 independent review pending. Later text-Range diagnosis supersedes table-only inference: confirmed math H1 word overflow, table auto containment valid; no site edit.",
+      "reviewer": "Planck01a17fe6-e879-7d83-9f37-923fc0684bff; final full7 PASS_WITH_P3/noP0-P2; mirrored-summary P3 corrected in factual receipt.204nonmutating/100GSC-148IDs-337refs/exact7/privacy/20modes-routes-finder-noJS/maintained3modes/current sourcevisual-H1 diagnosis independently checked."
+    },
+    {
       "id": "KAL-IMP-052",
       "title": "Make Wind Tower fan control and non-fall outcomes explicit",
       "kind": "reviewed-five-owner-first-start-repair",
