@@ -1,5 +1,7 @@
 # Operator Review
 
+IMP063 COMPLETED e0cdb36/exact-SHA Pages40679617435 SUCCESS/live17bytes-same48mode task/visuals. Herschel full25PASS/native249; [release receipt](../reviews/car-ramp-distance-first-start-repair-2026-10-28.md). One-car controlled-start repair applied, no newURL/physical-family claim or known blocker. Reviewer/browser/server closed; completed1/original10:56:02/deadline11:41:02, factualcloseout/alignment then guard/nextqueue.
+
 IMP063 Herschel fresh full25/cycle1 PASS/noP0-P3; Master249/independent248. [Review receipt](../reviews/car-ramp-distance-first-start-repair-2026-10-28.md). Reviewer/browser closed; server8797 needed. Fresh exact reviewed main release/exactSHA production next, actual10:56:02/count0/deadline11:41:02; not yet delivered.
 
 ## October28 - IMP063 / Review Pending
