@@ -9,6 +9,38 @@ BASE_URL = "https://kidactivitylab.com"
 CSS_VERSION = "nav-stable-2"
 
 
+TUBE_DROP_DEFAULT = {
+    "tube_drop": True,
+    "ages": "3-5",
+    "age_label": "Check abilities, not age alone",
+    "time": "Time not measured",
+    "mess": "Not measured",
+    "mess_label": "Cleanup not measured",
+    "help": "high",
+    "help_label": "Adult holds throughout",
+    "materials": "1 short open paper tube, 1 intact LARGE owned age-labelled play-pom, 1 shallow unbreakable receiver",
+    "best_for": "Same held-tube default: release one checked play-pom and watch it land",
+    "start_cue": "Adult stays. Skip: mouthing or uncertain fit.",
+    "adult_setup_groups": [
+        ("Fit or decline", "Follow the owned play set's age, warning and use labels for EVERY reachable child. Choose ONE intact LARGE play-pom, not loose craft poms, food, cotton, balls or marbles. Check the short lightweight open paper tube: clean, dry and intact, without staples, sharp edges, loose covering or residue. Large alone is not sufficient; supervision does not make unsuitable parts acceptable. Uncertain labels, condition or fit? Choose another activity, not a purchase or smaller filler."),
+        ("Adult and space", "Place a stable shallow unbreakable receiver on a low clear surface away from edges, feet and walkways. Adult stays beside EVERY reachable child, holds the tube with its lower opening CLEAR ABOVE the receiver and its top within comfortable reach, and controls all unused material. No wall tape, cutting, tongs or child-catching job. Skip for mouthing, tearing, younger reach you cannot control or unavailable attention. Try when the child can release with help and pause on request; otherwise the adult drops while the child watches or points. Declining is valid; no forced touch, naming or counting."),
+        ("Trial before child access", "Adult tries the ONE pom: it must fall FREELY through the tube and land in the receiver WITHOUT pushing or squeezing. No suitable combination? End; do not force it or switch to smaller filler. This checks immediate passage only, not material suitability or safety."),
+    ],
+    "stop": "Stop for mouthing, tearing or shedding, throwing, damage, unstable receiver, blocked passage, uncertain reach, discomfort, a request to stop or shifted adult attention. Adult takes and accounts for all materials; no forceful poking or shaking at people.",
+    "adult_setup": "Adult holds the checked tube clear above the receiver and models one free drop. Say: Let go at the top; watch where it comes out. The adult may drop while the child watches or points.",
+    "steps": ["Adult holds the tube above the receiver.", "Release the ONE checked pom at the top, or watch the adult do it.", "Watch it come out below and land; no catching required.", "Adult retrieves ONLY after landing. Offer the same pom again if wanted, or end."],
+    "parent_label": "Rescue and collection",
+    "parent": "Stuck or not seen? Stop child action. Adult takes the tube and pom out of child reach, locates and collects the ONE item without poking, squeezing or shaking at people. Recheck once only if the same free passage is plainly restored; otherwise end, not smaller filler. For texture refusal, watch or point without handling, or stop. Account for the ONE pom, tube and receiver, remove damaged pieces and store all materials out of reach.",
+    "sources": [
+        ("SDN: tube drop and no-mouthing supervision", "https://www.sdn.org.au/media/2726/healthy-bodies-pom-pom-drop.pdf"),
+        ("Linds Makes: written held-tube variation", "https://www.lindsmakes.com/pom-pom-drop/"),
+        ("Becker: one-at-a-time drop and receiver", "https://www.shopbecker.com/resource-cafe/activity-page/math/drop-and-plop-color-game/"),
+        ("AAP: toy labels, condition and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx"),
+    ],
+    "source_note": "Sources checked October28,2026. SDN describes tubes on a box and supervision against mouthing. Linds Makes describes and pictures a held tube; Becker describes and pictures receivers below attached tubes. Our ONE adult-held tube, checked owned play-pom, low receiver, free-passage trial, roles, rescue and stop are editorial synthesis, not either source's exact setup or inspected creator-video instructions. We exclude small craft fillers, cotton, balls, marbles, tongs, wall courses, child catching, paint, races and required color sorting. Source ages, photos, large size and supervision do not certify readiness or material fit. AAP supplies general toy-selection guidance, not certification of this set. Paper Roll Drop and Pom Pom Drop use this SAME default, not separately tested recipes. Research-backed, not family-tested by Kid Activity Lab. No product recommendation, developmental claim or safety assurance.",
+}
+
+
 ACTIVITIES = {
     "cardboard-car-ramp": {
         "title": "Cardboard Car Ramp",
@@ -47,28 +79,14 @@ ACTIVITIES = {
         "parent": "Use lightweight cups only.",
     },
     "paper-roll-drop": {
+        **TUBE_DROP_DEFAULT,
         "title": "Paper Roll Drop",
         "url": "../cards/paper-roll-drop.html",
-        "ages": "3-5",
-        "time": "2 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "paper roll, pom poms",
-        "best_for": "fine motor practice, repetition, color naming",
-        "steps": ["Tape or hold a tube.", "Drop a pom pom.", "Catch it.", "Try another color."],
-        "parent": "Use large items if younger siblings are nearby.",
     },
     "pom-pom-drop": {
+        **TUBE_DROP_DEFAULT,
         "title": "Pom Pom Drop",
         "url": "../cards/pom-pom-drop.html",
-        "ages": "3-5",
-        "time": "3 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "cardboard tube, pom poms",
-        "best_for": "hand control, sorting, quiet play",
-        "steps": ["Set up a tube.", "Drop pom poms.", "Catch them.", "Sort by color."],
-        "parent": "Pom poms can be choking hazards.",
     },
     "magnetic-tile-house": {
         "title": "Magnetic Tile House",
@@ -1137,7 +1155,7 @@ PAGES = [
         "kicker": "Independent play",
         "description": "Independent preschool activity choices with parent setup and activity-specific adult involvement. Cup Tower and Box Garage are adult-guided, not hands-off activities.",
         "intro": "Independent does not mean unsupervised. Let the child choose and try actions while keeping the adult involvement the activity needs. Cup Tower below requires an adult beside the setup throughout, not just a quick demonstration. Box Garage also requires an adult to stay beside every reachable child.",
-        "tip": "Start together and check the activity's adult role before choosing. For Cup Tower, stay beside every child who can reach the cups; skip it if you cannot attend to them. For Box Garage, choose the adult-guided one-car start or skip if you cannot stay beside it.",
+        "tip": "Start together and check the activity's adult role before choosing. For Cup Tower, stay beside every child who can reach the cups; skip it if you cannot attend to them. For Box Garage, choose the adult-guided one-car start or skip if you cannot stay beside it. Paper Roll Drop is adult-held throughout, not hands-off play; skip if attention or materials do not fit.",
         "activities": ["magnetic-tile-house", "magnetic-tile-ideas", "block-tower", "cup-tower", "duplo-games", "paper-roll-drop", "tape-road", "box-garage"],
         "activity_overrides": {
             "cup-tower": {
@@ -1904,7 +1922,7 @@ def activity_card(activity):
             for label, text in activity["adult_setup_groups"]
         )
         adult_setup = '\n          <div class="activity-setup"><strong>Adult setup:</strong>' + setup_paragraphs + '</div>'
-    if activity.get("distance_start"):
+    if activity.get("distance_start") or activity.get("tube_drop"):
         adult_setup += f'\n          <p><strong>Stop:</strong> {esc(activity["stop"])}</p><p><strong>First model:</strong> {esc(activity["adult_setup"])}</p><p>Research-backed, not family-tested by Kid Activity Lab. Time, mess and physical outcomes are unknown.</p>'
     source_note = ""
     if activity.get("sources"):
