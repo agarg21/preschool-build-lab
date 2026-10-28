@@ -1,5 +1,7 @@
 # Product Learning Ledger
 
+COMPLETED learned-only 8586cce7dbe1426318f4a692c3f5c07774be4e10: Raman full7 plus factual-receipt delta PASS/noP0-P3, Master213/reviewer212nonmutating, exact7/152IDs/100GSC/348final-docrefs/privacy/EOF/stagedwhitespace exit0. Fresh completed fetch0/0/empty incoming-unpushed/exact7 staged hash/privacy check; complete unpushed range byte-identical to inspected reviewed staged diff; docs-only main push and postpush fresh fetch clean0/0 passed. No site/Pages/physical outcome. Three transactions completed; helper denies fourth. Next eligible heartbeat separately register Cup Balance Watch repair across existing card/library/math with reviewed assembly/central support/empty check/supported loading/unclear-end/trust limits. No dependency blocker; owned behavior/outcomes remain UNKNOWN. November1/October30 unchanged.
+
 RES072 learned-only decision independently accepted by Raman full7 PASS/noP0-P3; Master213/reviewer212nonmutating and exact7 structured/privacy/EOF pass. [Audit](../reviews/balance-basket-first-start-audit-2026-10-27.md); docs-only release pending, no site/physical outcome.
 
 ## 2026-10-27 - KAL-RES-072 Balance Basket First Start

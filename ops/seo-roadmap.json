@@ -9,7 +9,7 @@
       "id": "KAL-RES-072",
       "title": "Qualify Balance Basket Scale assembly, zero and adult control",
       "kind": "existing-owner-source-task-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "3150940",
       "exact_paths": [
@@ -21,7 +21,7 @@
         "ops/seo-roadmap.json",
         "ops/seo-roadmap.md"
       ],
-      "evidence": "RES072 decision IMPROVE existing card/library/math separately to Cup Balance Watch: selected paper-cup handle lineage/symmetric central adult support/empty-level-freehang/lower-before-loading/point-watch-unclear-end/disassemble. No doors/pencil-book mounts/child handling/compulsory balance/numeric or equal-mass claim. Current primary bodies/two viewed source visuals/nine200bytes/12modes-fit/8late/6keyboardBack/finder-threeNoJS; legacy7/26 all13/no N-A, critical controls override. Native213/JSON-GSC-docrefs/privacy/exact7/different full7 review/docs-only release pending. Same01:00:43Z/completed2/third-final/no fourth; next eligible run separate repair; November1/October30 retained.",
+      "evidence": "IMPROVE existing balance card/library/math separately to Cup Balance Watch per reviews/balance-basket-first-start-audit-2026-10-27.md. Current primary bodies/two viewed source visuals/actual3owner task; paper-cup handle lineage/symmetric adult central support/empty-level/supported-loading/unclear-end/disassemble, no calibration or safety outcome. COMPLETED learned-only8586cce; no newURL/site change.",
       "evidence_class": [
         "MEASURED",
         "SOURCE_BACKED",
@@ -37,8 +37,8 @@
       "observation_window": "Sameheartbeat01:00:36.944Z/immutableactual01:00:43Z NYOctober27/completed2/third-final/no fourth/deadline01:45:43Z. Fresh main0/0/base3150940. November1/October30/globalcutoff retained.",
       "reconsider_if": "Already qualified/adequate owner, source material/attachment/support/tare/role contradiction, clinical/product dependency, criticalclutter/P0-P2/privacy/peerdrift/divergence. Honest pause/decline preferable to invented assembly or inference from source photo.",
       "blockers": "No dependency blocker. Owned material behavior/outcomes UNKNOWN; decline and uncalibrated observation limits explicit.",
-      "next_action": "Fresh completed fetch/no divergence/full unpushed review/exact7 staged privacy and whitespace exit0/docs-only main push/factual closeout/finalalignment. No fourth; next eligible heartbeat separate Cup Balance Watch three-owner repair.",
-      "phase": "independent_review_passed",
+      "next_action": "Next eligible heartbeat: fresh clock/state/sensing then separately register existing balance card/library/math Cup Balance Watch repair from reviewed RES072. Keep URL/legacy finder alias/peers and explicit editorial-untested controls; full site QA/different review/exact-SHA production required. This run completed3, no fourth.",
+      "phase": "released",
       "independent_review": {
         "reviewer": "Raman",
         "id": "01a1802c-2514-7280-84e5-51d11f3176a8",
@@ -48,7 +48,13 @@
         "scope": "All exact7; frozen HEAD and hashes intact; read-only",
         "qa": "212nonmutating/100GSC/152IDs/345refs/exact7/EOF-whitespace/privacy/ninebytes/5primary bodies/two supplied visuals/nine normaltext modes/390routes-finder. Full12mode-root32-noJS Master-only/native213 distinct."
       },
-      "qa_result": "Master native213/JSON-GSC100-152IDs-345docrefs/exact7/privacy/EOF-whitespace; ninebytes/12modes-fit/8late/6keyboardBack/finder/threeNoJS. No site change."
+      "qa_result": "Master213/reviewer212nonmutating; exact7/152uniqueIDs/100GSC/345original-348receipt-delta docrefs/privacy/EOF-whitespace. Nine livebytes/12modes-fit/8late/6keyboardBack/finder-threeNoJS; representative independent9normal modes/routes/finder. No physical/family outcomes.",
+      "release": {
+        "commit": "8586cce7dbe1426318f4a692c3f5c07774be4e10",
+        "type": "docs-only push",
+        "pages": "N/A; no site/workflow change",
+        "verification": "Fresh completed fetch0/0; exact7 reviewed staged/EOF/privacy/whitespace exit0; complete unpushed range byte-identical to inspected staged diff; successful main push; postpush fresh fetch/mainclean0/0 at01:50:42Z."
+      }
     },
     {
       "id": "KAL-IMP-054",
