@@ -1,5 +1,7 @@
 # Toy Distance Marks First-Start Repair
 
+COMPLETED reviewede7d3aec0e53d9c224dac5d33020c44c82d67c4ad/Copernicus full16 PASS/native213/exactSHA Pages40615364353 success/no marker. Five affected/seven preserved live200bytes/same12productionmodes-6incomingBack-4touch-3outgoingMathBack-8disclosures-newoldAlias1-painter3-zero-keyboardClear36focus/threeNoJS/canonicalH1creditimages-allwordfit-parentfit/live390-root32 viewed pass. No release retry/regression/outcome claim; fresh completedfetchmainclean0/0/reviewer closed/server8788 stopped. Completed2; factual7 closeout/alignment then original01:00:43Z/01:45:43Z guard before any third selection. November1/October30 retained.
+
 Copernicus01a18019-4090-7ec1-ba0d-5ef0e37e7aeb fresh different independent full16 cycle-one PASS/noP0-P3;212nonmutating/fournew/exact5outputs-94site-35canonical-35library-7math peers/PAGES unchanged/73HTML-1013refs-89fragments-8LD-67URLs/100GSC-151IDs-354refs/privacy-EOF/12modes-keyboardBack-disclosures-finder-newoldalias-painter3-zero-Clearfocus/current sourceprinciples-fourlenses-everysection-all13 pass. FullwordRange/touch/noJS/twiceaggregate Master-only213 distinct; reviewer root32 temporary CSS-only proxy, not file edit/truezoom. Fullparsed frozen16/HEAD intact/reviewer closed; fresh reviewed main release/exactSHA production next. Same01:00:43Z/completed1/01:45:43Z.
 
 KAL-IMP-054; base2571f3e; NYOctober27,2026. Registered exact16 before edits.

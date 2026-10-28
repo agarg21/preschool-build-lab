@@ -9,7 +9,7 @@
       "id": "KAL-IMP-054",
       "title": "Replace undefined toy jumping with an honest distance comparison",
       "kind": "reviewed-three-owner-first-start-repair",
-      "status": "reviewed",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "2571f3e",
       "exact_paths": [
@@ -45,10 +45,12 @@
       "invariants": "No newURL/indexabilitychange/assets/CSV/config/scheduler/ControlRoom/paid/indexing/outreach/productrecommendation or physical-family-clinical-learning-safety-SEO claims. Currentqualitativecomparison differs from actualjump/numericmeasurement; no claim of childmeasurement gains. Preserve other owners and publishedURLs.",
       "observation_window": "Sameheartbeat01:00:36.944Z/immutableactual01:00:43Z NYOctober27/completed1/max3/startdeadline01:45:43Z. RES071 learned-onlycadc875/closeout2571f3e complete freshmain0/0; November1/October30 retained.",
       "reconsider_if": "Source-label-surface-referenceedge-role conflict, criticalclutter/P0-P2, hidden numeric/launch implication, peerdrift/divergence/ambiguous regression. Exact board/strips/roles/stop editorialnotvalidated protection; no forcedresult.",
-      "blockers": "None known; owned material fit/adhesion/understanding/outcomes remain unknown.",
-      "next_action": "Fresh completedfetch/no divergence/fullunpushed/exactreviewed16stage/privateunsafeclaimscan/stagedcheckexit0/mainpush/exactSHAPages/live5affected7peers/sametask/screenshots/factualcloseout/alignment.",
-      "qa_result": "IMP054 local213/fourfocused/twice9318cc22/exact5outputs/94site-35canonical-35library-7math peers/PAGES unchanged/73HTML-1013refs-89fragments-8LD-67URLs pass.12modes/6incomingBack/4touch/3outgoingMathBack/8disclosures/new-oldAlias1-painter3-zero-keyboardClear36focus/3noJS/allwordfit-H1parentfit/viewed390-root32 pass. Current staticcomparison all13 editorial25/26/noN-A/sensory1, not childskillgain over withdrawn jump task. Initial newtest hidden-spot falsepositive corrected to attributes, no productfailure/oldfixturechange. Full16 structured/privacy/freshdifferent review/exactSHAproduction pending; same01:00:43Z/completed1/deadline01:45:43Z/November1.",
-      "reviewer": "Copernicus01a18019-4090-7ec1-ba0d-5ef0e37e7aeb fresh different full16 cycle-onePASS/noP0-P3;212nonmutating/conservation/parse-GSC100-151IDs-354refs/privacy-EOF/12modes-root32CSSproxy/keyboard-finder-disclosures/sourceprinciples-fourlenses-everysection-all13 checked. FullwordRange/touch/noJS/twice Master-only213. Fullparsed frozen16/HEAD intact/reviewer closed."
+      "blockers": "None; production verified, no unfinishedtransaction/release. Materialfit/adhesion/understanding/outcomes unknown, not tested status.",
+      "next_action": "Factual7 closeout/fresh finalalignment then originalguard before third selection; completed2. Review next named existing-owner qualification gap, no automatic recipe/newURL/repeatedqualification. November1/October30 retained.",
+      "qa_result": "213tests/fourfocused/twice9318cc22bcec4bf3d9f102f4894b8cf444c711bd0afa42f40480d1cda337209f/exact5outputs-94site-35canonical-35library-7math peers/PAGES unchanged/73HTML-1013refs-89fragments-8LD-67URLs/JSON151IDs-354refs-GSC100/privacy-EOF/whitespace PASS. Copernicusfull16PASS/212nonmutating. Freshfetch0/0-emptyunpushed-exact16staged-privateunsafeclaimscan-stagedcheckexit0/mainpush/exactSHAPages/live5affected7peers/same12productionmodes-6incomingBack-4touch-3outgoingMathBack-8disclosures-newoldAlias1-painter3-zero-keyboardClear36focus-threeNoJS/allwordfit-H1parentfit/canonicalH1creditsimages/viewedlive390-root32 PASS. No release retry/regression/physical-family-AT-truezoom-hardware outcome; reviewerclosed/server8788stopped.",
+      "reviewer": "Copernicus01a18019-4090-7ec1-ba0d-5ef0e37e7aeb fresh different full16 cycle-onePASS/noP0-P3;212nonmutating/conservation/parse-GSC100-151IDs-354refs/privacy-EOF/12modes-root32CSSproxy/keyboard-finder-disclosures/sourceprinciples-fourlenses-everysection-all13 checked. FullwordRange/touch/noJS/twice Master-only213. Fullparsed frozen16/HEAD intact/reviewer closed.",
+      "release_commit": "e7d3aec0e53d9c224dac5d33020c44c82d67c4ad",
+      "pages_run": "40615364353 exacte7d3aec0e53d9c224dac5d33020c44c82d67c4ad success; no release marker"
     },
     {
       "id": "KAL-RES-071",
