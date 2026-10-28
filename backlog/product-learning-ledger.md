@@ -2674,4 +2674,10 @@ observe for a post-release crawl or finalized page/query change.
 - Boundary: one CSS output only, no new guide, body/date/policy/scheduler/data/
   indexing/product changes. Freshdifferent01a18432 full9cycle1PASS/noP0-P3,
   independent277/all669repo invariant/all50captures identity, helper-first
-  and initialnoJS-stall/favicon diagnostic limits retained. Production pending.
+  and initialnoJS-stall/favicon diagnostic limits retained. Released66099f7/
+  exactSHA Pages40764923527 SUCCESS. Production20:39:34Z4bytes/fullsame
+  matrix PASS;50livecaptures identical reviewedlocal/visuals inspected20:40:01Z.
+  Exact9 frozenstage-range0d41c85d identity/privacyEOF and completedfreshfetch
+  alignment PASS. No release marker, production retry or regression; owned
+  server stopped/session79653exit143ack/portempty20:40:44Z. Applied delivery,
+  not a family/trust/SEO outcome; source/policy/99sitepeers preserved.

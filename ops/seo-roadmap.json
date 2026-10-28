@@ -9,7 +9,7 @@
       "id": "KAL-IMP-070",
       "title": "Keep contributor and publisher heading arrivals clear of sticky navigation",
       "kind": "verified-existing-owner-anchor-accessibility-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "3e643285dd385ca0f9a1a1bc0d3d956d044663d4",
       "exact_paths": [
@@ -38,10 +38,12 @@
       "invariants": "Do not edit generators, HTML/text, globalstyles, source-check dates, authorship, URLs, sitemap, data, strategy, scheduler/ControlRoom, accounts, tracking, paid/indexrequest/product/portrait. No family/physical/AT/truezoom/trustgain/SEO outcome claim. NewCSSonlyscopedprofileH2; no JS corrective scrolling or test-only altered production response.",
       "observation_window": "Actual19:57:23Z/completed1/deadline20:42:23Z/max3, registered20:19Z; finish startedrepair safely even after new-actiondeadline. One writer/OPS009closed. Sprintactive/November1/October30/globalcutoff unchanged; no traffic attribution window for CSSfix.",
       "reconsider_if": "Any target still obscured, runtime/wordfit/navigation regression, out-of-scope generated output, P0-P2 or remote divergence; preserve/checkpoint, no ambiguousrollback. New third selection only after sameclock/count/durable queue guard.",
-      "phase": "independently-reviewed-ready-for-main-and-pages-release",
+      "phase": "production-verified-factual-closeout",
+      "release_commit": "66099f7b6a1eb6bf1ad668ceeb19fb279cbd3eec",
+      "release_evidence": "Exact9 frozenstage/completecommittedunpushedrange0d41c85dbb5e7eab007b549bfa45bf59b68ee3ebc8519c671da058886319641e identity/privacyEOF PASS; completed pre-stagefetch/no divergence/push exit0/completed postpushfetch clean0/0 verified20:37:37Z. ExactSHA Pages40764923527 SUCCESS, no release marker. First productionrun20:39:34Z4bytes12owner modes28freshhash12Enter12Back14noJShashes2NORMAL390tours4unknown/runtime-wordfit PASS;50livecaptures identical reviewedlocal/enlarged-desktop-mobile visuals inspected20:40:01Z. AllSEVEN/same12of12, no retry/regression/outcome claim. Reviewer/Chromeclosed/ownedserver8804PID15566 commandverified-stopped/session79653exit143ack/portempty20:40:44Z.",
       "review_evidence": "Freshdifferent independent01a18432-a349-7eb3-aada-c78bb18dfeaf full9/cycle1PASS/noP0-P3. Independent277/0fail/0skipped(datecaseomitted);4localbytes12ownermodes28freshhash12Enter12Back14noJShashes2NORMAL390tours4unknownhash/canonicalH1-wordfit/50comparablecaptures byte-identical/7targets samegeometry PASS. Oldproductionfailure reproduced, localroot32 publisher224.156>142.828. 73HTML1041refs100frags8LD65sitemap106JSON19CSV2212rows188IDs646MDrefs101GSC/67allowlist/privacyEOF/99sitepeers/prior187items/pure2support-renders PASS. All669repo/HEAD/status/rawindex/9hashes unchanged, no sourcewrites/generatorentrypoints/helperexecution/captureoverwrite; ownhelpercreatedbeforeMasterread. InitialnoJSCSS-injectionstall corrected/fullmatrix rerun; generic404 independentlyCDPtracedfavicon, no nonfaviconerrors. Master278/twicegenerators inspectednotrerun. Reviewer/browserclosed, Masterserver8804PID15566 retained. No productionacceptance/AT/truezoom/family-trust-SEO claim.",
       "local_evidence": "Master278/2focused/all3generatorsTWICE aggregatec9067b3fad3e149699d3598cc7545954794941cb9b2726379595cf1cd824e07f/onlyoneCSS99peers/source-data-strategy-workflow unchanged/73HTML1041refs100frags8LD65sitemap PASS. Local4bytes12owner modes28freshhash12actualEnter12Back14noJSnativefrags(two sizes)2NORMALmobile noJStours4unknownhash/runtime/wordfit/visuals PASS. AllSEVENtargets; publisherroot32 top224.156>142.828header, same task10/12criticalFAIL->12/12. Exploratory noJSreanchor excluded from acceptance; finaldriver size before nativehash/normal tours distinct. No production acceptance.",
-      "next_action": "Completedfetch/exactmainrelease/exactSHA Pages/liveCSS+3unchangedbodies/samebrowser-visual task/factualcloseout/alignment. Sameactual19:57:23/completed1/deadline20:42:23/max3; ownedserver8804PID15566 retained, no productionacceptance yet."
+      "next_action": "Factualseven-file closeout/push/finalalignment thenreturn, two completedtransactions/three notquota. Next eligible heartbeat clockguard/remote/newGSC/currentqueue; verified defect/unfinished release first, else evidence-qualified guide/improvement or named missing gate, never reselect completed attribution or closed candidate absent new evidence. Sameactual19:57:23/completed2/deadline20:42:23/max3; no current dependency blocker."
     },
     {
       "id": "KAL-OPS-009",
