@@ -9,7 +9,7 @@
       "id": "KAL-IMP-056",
       "title": "Repair Spoon Transfer material fit and first start",
       "kind": "existing-owner-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "a36a770c3b15d0779abdbcc767a20b51ce9f370b",
       "exact_paths": [
@@ -49,8 +49,8 @@
       "observation_window": "Heartbeat2026-10-28T03:26:53.084Z/actual03:27:00Z NYOctober27/completed0/max3/startdeadline04:12:00Z. November1 synthesis/October30 sprint expiry/global cutoff retained.",
       "reconsider_if": "Source/label/fit/control conflict, unresolved P0-P2, critical clutter or motivating task failure, peer drift/unsafeclaim/privacy/divergence/ambiguous production regression. If safe usable editorial set cannot be stated decline/withdraw, no invented filler.",
       "blockers": "None known; actual owned fit and family outcomes UNKNOWN, precheck/decline explicit.",
-      "next_action": "Fresh completedfetch/no divergence/fullunpushed/exact19 reviewed stage/privacy/stagedwhitespace exit0/mainpush/exactSHA Pages/livebytes-same24mode task/factualcloseout/finalalignment.",
-      "phase": "independent_review_passed",
+      "next_action": "Factual7 closeout/QA/push/alignment; then actual03:27:00Z sprint guard and durable queue before next independent selection. No Spoon requalification absent named gap.",
+      "phase": "released",
       "qa_result": "IMP056 Master221/fournew/sixactualrenderers; all3generators twice aggregate6eebc106cfdde59007b568f5b898529c0f96fd5d909eacc64671b1397a4a5cd4/exact8outputs/91site-35canonical-35library-29hubpeer blocks/PAGES fine-motor tip only conserved.73HTML/1013localrefs/89fragments/8LD/67URLs.13local200bytes/24modes/15incomingkeyboardBack/10touchBack/9outgoingBack/20disclosures/exact1-material1-zero-keyboardClear36focus/sixNoJS/allword-H1parentfit/viewed390-root32top-setup pass. Known pre-existing favicon404 only excluded; no other sampled errors. Current all13 editorial25/26/noN-A/sensory1 is not physical/family/SEO outcome proof. Full19structured/different review/exactSHA production pending; same03:27:00Z/completed0/deadline04:12:00Z/November1.",
       "independent_review": {
         "reviewer": "Dewey",
@@ -60,7 +60,16 @@
         "findings": "No P0-P3",
         "scope": "Full19 frozen at a36a770, HEAD/hash intact",
         "receipt": "Dewey (01a18090-8b83-7ca3-ae3d-b46b78b4581e), fresh different read-only full19 cycle1 PASS/noP0-P3. Frozen HEAD/hashes intact. Independently220nonmutating/six renderers/91site-35canonical-35library-29hubpeers/PAGES tip-only/73HTML-1013refs-89fragments-8LD-67URLs/100GSC-156IDs-374docrefs/privacy-EOF-whitespace;18browsermodes/15incomingBack/9outgoingBack/15disclosures/10touch/sixNoJS/finder and supplied8visuals pass. Current primary4+context2/fourlenses/everysection/all13 editorial25/26 accepted; root32 CSS proxy, no physical/family/AT/truezoom. Master221/twiceaggregate/full24modes/20disclosures distinct. Reviewer closed; exact reviewed main release/exactSHA production next, same03:27:00Z/completed0/deadline04:12:00Z."
-      }
+      },
+      "completed_on": "2026-10-27",
+      "release": {
+        "commit": "ecef6bd8551d0f3a63dc4aef8faa1b8f250a6236",
+        "pages_run": 40627797285,
+        "conclusion": "success",
+        "production": "Eight changed and five preserved live200byte matches; same24modes/fulltask/livevisuals pass, no marker/retry/regression; freshfetch/mainclean0/0",
+        "range_hash": "28c493c4086251bd8731256e864a1894733c931eae8a61a8fc56764573fce112"
+      },
+      "completion_receipt": "COMPLETED KAL-IMP-056: reviewed ecef6bd8551d0f3a63dc4aef8faa1b8f250a6236; exact-SHA Pages40627797285 SUCCESS. Dewey full19 PASS/noP0-P3; native221. Eight changed and five preserved live200bytes, same24productionmodes/15keyboardBack/10touchBack/9outgoingBack/20disclosures/finder exact-material-zero-Clear36focus/sixNoJS/word-H1-headerfit; live390/root32 top/setup viewed. No release marker exists; exact-SHA deploy plus affected bytes/task verified. No retry/regression or physical/family/SEO claim; known favicon404 remains excluded. Fresh completedfetch/mainclean0/0; reviewer closed/server8790 stopped. Completed1, same03:27:00Z/deadline04:12:00Z. Factual7 closeout then clock/durable selection; November1/October30 unchanged."
     },
     {
       "id": "KAL-RES-074",
