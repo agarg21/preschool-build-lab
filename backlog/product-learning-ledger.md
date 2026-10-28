@@ -2646,3 +2646,32 @@ observe for a post-release crawl or finalized page/query change.
   5b2dd3e pushed/exact7 frozenstage-range555532ec identity/privacyEOF PASS;
   completed pre-stagefetch/no divergence/postpush completedfetch clean0/0
   verified20:17:34Z. No productionfix; qualified separate IMP070 next.
+
+## 2026-10-28 - KAL-IMP-070 - Contributor Heading Arrivals
+
+- Decision/persona: apply reviewed OPS009 only: scoped contributor H2 offset
+  max110px/7rem, two regression tests, all seven target headings. A caregiver
+  following AI-role/publisher/process/return routes needs the named heading
+  below navigation with enlarged text; activity and disclosure copy unchanged.
+- Sources/classes: [repair and QA packet](../reviews/contributor-anchor-repair-2026-10-28.md);
+  reviewed OPS009/source text SOURCE_BACKED, geometry/bytes/native MEASURED,
+  bounded rule/rubric EDITORIAL_JUDGMENT, lenses RESEARCH_HYPOTHESIS,
+  physical-family/trustgain/SEO/truezoom/AT outcomes UNKNOWN.
+- Result: local same-task10/12criticalFAIL ->12/12, six applicable/seven N-A,
+  enlarged publisher top224.156 now clears142.828header. All278native/all3
+  generators twice/siteaggregatec9067b3f/exactoneCSS99peers/links pass.
+  Local4bytes12owner modes28freshhash12actualkey12Back14noJSfragments/
+  two normal-mobile noJStours/four unknownhash/sampled runtime pass;
+  enlarged publisher/return and mobile process screenshots inspected.
+  No production acceptance yet; freshdifferent full9 review/exactSHA release
+  remains. Exploratory noJS cross-document text-size reanchor was not accepted
+  as first arrival; final enlarged nativehash and normal tours are separate.
+- Confidence/lesson: high technical matrix, no human outcome inference.
+  A fixed pixel offset can pass normal text while hiding a named trust target
+  under an enlarged header; enumerate all actual headings, not an assumed six.
+- Falsify/reconsider: source/peer/role/heading contradiction, failed route or
+  fragment fit, out-of-scope output, native/P0-P2 or divergence.
+- Boundary: one CSS output only, no new guide, body/date/policy/scheduler/data/
+  indexing/product changes. Freshdifferent01a18432 full9cycle1PASS/noP0-P3,
+  independent277/all669repo invariant/all50captures identity, helper-first
+  and initialnoJS-stall/favicon diagnostic limits retained. Production pending.

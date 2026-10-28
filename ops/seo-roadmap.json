@@ -6,6 +6,44 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-070",
+      "title": "Keep contributor and publisher heading arrivals clear of sticky navigation",
+      "kind": "verified-existing-owner-anchor-accessibility-repair",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "3e643285dd385ca0f9a1a1bc0d3d956d044663d4",
+      "exact_paths": [
+        "site/assets/contributors.css",
+        "tools/contributor-anchor.test.mjs",
+        "reviews/contributor-anchor-repair-2026-10-28.md",
+        "ops/current-cycle.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/operator-review.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "EDITORIAL_JUDGMENT",
+        "RESEARCH_HYPOTHESIS",
+        "UNKNOWN"
+      ],
+      "evidence": "OPS009 independently reviewed5b2dd3e/full7Daltoncycle2PASS and closeout3e64328 fullypushed/clean0/0 verified20:18:51Z; no active item. Reconciliationpacket/currentCSS and actual320/root32 publisherarrival H2top110.156<header142.828,32.672px obscured; processroute same-rule defect. Currentrole10/12criticalFAIL. AllSEVENprofile/About H2 IDs enumerated after coverageP3 correction. Freshclock/helper eligible same19:57:23/completed1/deadline20:42:23/max3.",
+      "parent_problem": "A caregiver following a contributor/publisher/evidence link with enlarged text needs the named target heading readable below sticky navigation, while honest AI-role/review/firsthand limits and return routes stay intact.",
+      "hypothesis": "Replacing only .contributor-profile h2 fixed110px scroll margin with max(110px,7rem), an existing local responsive pattern, makes all seven current fragment arrivals clear at declared view/text modes without changing content, layout, identity, metadata or unrelated activity behavior.",
+      "acceptance": "Exact one site output: site/assets/contributors.css; all99other site files identical. All seven IDs contribution/review/publisher/return/apoorva-garg/research-process/evidence-limits clear actual header at1280x900,390x844,320x844,320root32. Same-state geometry/captures, actual keyboard credit/profile/publisher/process/Back and freshhash/noJS/unknownfragment behavior. Two positive-negative fixed-offset regression tests; same all13role task improves criticalFAIL without outcome claims. No newURL/demand gate or false first-hand/SEO benefit.",
+      "qa_plan": "Full278expected tests/diffcheck/jq/allchangedJSONCSV/privacyEOF/188IDs/localMDrefs/all101GSC/parseallJSONCSV; all3generatorsTWICE/idempotence/all100site output conservation/source-data-profile metadata unchanged/local-links-fragments. Localbrowser/keyboard/Back/noJS/textfit/sampledruntime/screenshots/fourlenses-everysection-all13. FreshDIFFERENTfull9read-only reviewer max3/PASS orPASS_WITH_P3. Completedfreshfetch/no divergence/exactfrozenstage/completeunpushedrange/mainpush/exactSHA PagesSUCCESS/liveCSS+unchanged3bodies/canonicalH1links/sameproductiontask+visuals/actualmarker status/finalalignment.",
+      "invariants": "Do not edit generators, HTML/text, globalstyles, source-check dates, authorship, URLs, sitemap, data, strategy, scheduler/ControlRoom, accounts, tracking, paid/indexrequest/product/portrait. No family/physical/AT/truezoom/trustgain/SEO outcome claim. NewCSSonlyscopedprofileH2; no JS corrective scrolling or test-only altered production response.",
+      "observation_window": "Actual19:57:23Z/completed1/deadline20:42:23Z/max3, registered20:19Z; finish startedrepair safely even after new-actiondeadline. One writer/OPS009closed. Sprintactive/November1/October30/globalcutoff unchanged; no traffic attribution window for CSSfix.",
+      "reconsider_if": "Any target still obscured, runtime/wordfit/navigation regression, out-of-scope generated output, P0-P2 or remote divergence; preserve/checkpoint, no ambiguousrollback. New third selection only after sameclock/count/durable queue guard.",
+      "phase": "independently-reviewed-ready-for-main-and-pages-release",
+      "review_evidence": "Freshdifferent independent01a18432-a349-7eb3-aada-c78bb18dfeaf full9/cycle1PASS/noP0-P3. Independent277/0fail/0skipped(datecaseomitted);4localbytes12ownermodes28freshhash12Enter12Back14noJShashes2NORMAL390tours4unknownhash/canonicalH1-wordfit/50comparablecaptures byte-identical/7targets samegeometry PASS. Oldproductionfailure reproduced, localroot32 publisher224.156>142.828. 73HTML1041refs100frags8LD65sitemap106JSON19CSV2212rows188IDs646MDrefs101GSC/67allowlist/privacyEOF/99sitepeers/prior187items/pure2support-renders PASS. All669repo/HEAD/status/rawindex/9hashes unchanged, no sourcewrites/generatorentrypoints/helperexecution/captureoverwrite; ownhelpercreatedbeforeMasterread. InitialnoJSCSS-injectionstall corrected/fullmatrix rerun; generic404 independentlyCDPtracedfavicon, no nonfaviconerrors. Master278/twicegenerators inspectednotrerun. Reviewer/browserclosed, Masterserver8804PID15566 retained. No productionacceptance/AT/truezoom/family-trust-SEO claim.",
+      "local_evidence": "Master278/2focused/all3generatorsTWICE aggregatec9067b3fad3e149699d3598cc7545954794941cb9b2726379595cf1cd824e07f/onlyoneCSS99peers/source-data-strategy-workflow unchanged/73HTML1041refs100frags8LD65sitemap PASS. Local4bytes12owner modes28freshhash12actualEnter12Back14noJSnativefrags(two sizes)2NORMALmobile noJStours4unknownhash/runtime/wordfit/visuals PASS. AllSEVENtargets; publisherroot32 top224.156>142.828header, same task10/12criticalFAIL->12/12. Exploratory noJSreanchor excluded from acceptance; finaldriver size before nativehash/normal tours distinct. No production acceptance.",
+      "next_action": "Completedfetch/exactmainrelease/exactSHA Pages/liveCSS+3unchangedbodies/samebrowser-visual task/factualcloseout/alignment. Sameactual19:57:23/completed1/deadline20:42:23/max3; ownedserver8804PID15566 retained, no productionacceptance yet."
+    },
+    {
       "id": "KAL-OPS-009",
       "title": "Reconcile stale contributor-next strategy with verified release",
       "kind": "current-strategy-release-truth-correction",
