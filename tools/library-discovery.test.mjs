@@ -21,7 +21,7 @@ test("library keeps its owner and all static routes without JavaScript", () => {
   assert.match(html, /<section class="library-grid" aria-label="Activity cards">/);
   assert.match(html, /<script src="assets\/cards-finder.js\?v=2" defer><\/script>/);
   assert.match(css, /\.library-grid \.mini-card\[hidden\]\s*\{\s*display: none;/);
-  assert.match(fs.readFileSync("site/sitemap.xml", "utf8"), /<loc>https:\/\/kidactivitylab.com\/cards.html<\/loc>\s*<lastmod>2026-10-27<\/lastmod>/);
+  assert.match(fs.readFileSync("site/sitemap.xml", "utf8"), /<loc>https:\/\/kidactivitylab.com\/cards.html<\/loc>\s*<lastmod>2026-10-28<\/lastmod>/);
 });
 
 test("finder has a named input, status, and a truthful deck route", () => {
@@ -60,8 +60,8 @@ test("literal matching, empty state, and clear work without changing the card so
 
   query.value = "  PAPER   tape  ";
   listeners.input();
-  assert.equal(count.textContent, "2 of 36 activity cards");
-  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/paper-chain-test.html", "cards/water-drop-race.html"]);
+  assert.equal(count.textContent, "3 of 36 activity cards");
+  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tube-sculpture.html", "cards/paper-chain-test.html", "cards/water-drop-race.html"]);
   assert.equal(empty.hidden, true);
   assert.equal(clear.disabled, false);
 
@@ -74,11 +74,11 @@ test("literal matching, empty state, and clear work without changing the card so
 
   query.value = "painter tape";
   listeners.input();
-  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
+  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tube-sculpture.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
 
   query.value = "painter's tape";
   listeners.input();
-  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
+  assert.deepEqual(links.filter((link) => !link.hidden).map((link) => link.href), ["cards/tape-road.html", "cards/tube-sculpture.html", "cards/tape-city.html", "cards/measuring-tape-jumps.html"]);
 
   for (const [term, expected] of [
     ["cup", "cards/color-mixing-cups.html"],

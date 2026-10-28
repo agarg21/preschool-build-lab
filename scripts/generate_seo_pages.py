@@ -182,13 +182,26 @@ ACTIVITIES = {
         "title": "Tube Sculpture",
         "url": "../cards/tube-sculpture.html",
         "ages": "4-6",
-        "time": "8 min",
-        "mess": "medium",
-        "help": "medium",
-        "materials": "cardboard tubes, tape",
-        "best_for": "building, art, vertical balance",
-        "steps": ["Stack tubes.", "Tape gently.", "Make it taller.", "Start over."],
-        "parent": "Adult helps if tubes need cutting.",
+        "time": "Open-ended",
+        "mess": "Not measured",
+        "help": "adult-guided",
+        "age_label": "Editorial ages 4-6; check fit",
+        "mess_label": "Mess not measured",
+        "help_label": "Adult checks, tapes and stays",
+        "materials": "2 whole clean dry paper-towel-type cardboard tubes, 1 flat intact sacrificial cardboard base large enough for both, owned painter tape",
+        "best_for": "choosing a low tube arrangement and noticing its shape, or pointing for the adult",
+        "readiness_groups": [
+            ("Materials", "Adult checks intact tubes and base: no staples, sharp or torn edges, dampness, loose fibers, unknown residue/coatings or packing plastic. No heavy industrial tubes, small decorations or fillers. Follow owned tape guidance for the planned use. Unsuitable or uncertain? Choose another activity. No cutting, glue, heat, solvents, slotting or tools."),
+            ("Adult and space", "Use a stable low clear surface away from edges and walkways. Stay beside every reachable child, steady the base and control the tape roll and loose strips. Try when the child can place with help and pause on request, or point for you. Skip for mouthing, peeling/wrapping, younger reach you cannot control or unavailable attention."),
+            ("Evidence", "Research-backed, not family-tested by Kid Activity Lab. The two-tube layout, tape trial and controls are editorial adaptations, not tested protection or an adhesion promise. Pointing, watching or declining is enough; no forced touch, grip, counting or naming."),
+        ],
+        "stop": "End for mouthing, peeling/wrapping, throwing, damaged or loose material, rolling/sliding, discomfort or shifted adult attention. No launchers, steps, climbing, pulling attached tubes or lifting the assembly. Adult collects materials.",
+        "adult_setup": "BEFORE child access, lay the FIRST tube on its long side, fully on the base, not upright. Hold it still. Lay one tape strip across its curved body near one end; press both free ends onto the base on opposite sides. Repeat near the other end. Both strips must reach the base on both sides with no loose ends; keep tube openings clear. Gently check for rolling, lifting or peeling, not strength. Failed hold? Remove loose tape; choose an untaped flat arrangement or end, not stronger glue or stacking. Keep this adult model on the base if continuing.",
+        "steps": ["Place the SECOND tube on its long side beside the first, parallel or at an angle, fully inside the base edges. Do not stack tubes across or inside each other. Or point for the adult to place it.", "Adult holds and attaches the second tube with the same two-strip method. If it rolls or tape lifts, adult collects loose tape and chooses the untaped flat arrangement or ends.", "Look from above or beside. What shape do you see? Point, name it or just look. One arrangement is enough; no extra pieces, height goal or required repeat."],
+        "parent_label": "Rescue and cleanup",
+        "parent": "If tape will not hold, remove loose tape and look at the tubes lying untaped on the base, or end. Do not add weights or stronger glue. Adult slowly removes tape; if cardboard tears, stop peeling and collect the damaged piece. Collect all tape, fibers and tubes, check table and floor, clear the surface and store ALL materials out of reach. Do not leave the assembly accessible unattended. Duration, effort and mess are not measured.",
+        "sources": [("Grinnell Arts: tape-joined tube sculpture", "https://www.grinnellarts.org/crafts-activities-blog/2017/6/23/recyclable-sculptures"), ("Core Knowledge: adult model and cardboard base (PDF pp92-94)", "https://www.coreknowledge.org/wp-content/uploads/2025/11/CKVA_GK_TG_W2.pdf"), ("Chicago Children's Museum: paper forms on a flat base", "https://www.chicagochildrensmuseum.org/parenting-playbook-posts/2020/7/13/at-home-activity-whoop-de-doo-roller-coaster-sculpture"), ("AAP: general parts and age guidance", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx")],
+        "source_note": "Grinnell, Chicago and AAP bodies rechecked October28,2026; Core Knowledge pp92-94 re-read from the October27 download. Sources support tube/tape assemblage, an adult model and a cardboard base, not this exact horizontal two-tube strap procedure. That layout, counts, roles, trial, untaped/end fallback and cleanup are Kid Activity Lab editorial adaptations, not an inspected source procedure or tested setup. We exclude source knives, slit joints, glue, paint, small decorations and height challenges. AAP gives general toy guidance, not certification of reused cardboard. Owned tape instructions govern its use; no source verifies this cardboard joint or damage-free removal. Actual fit, adhesion, hygiene, understanding, enjoyment, learning, repetition, duration, mess and safety outcomes are unknown. The old creator video was not watched or used as this procedure's source. No product recommendation or safety assurance.",
     },
     "tape-city": {
         "title": "Tape City",
@@ -698,6 +711,9 @@ ACTIVITIES["balance-scale-baskets"]["start_cue"] = " ".join(
 ACTIVITIES["spoon-transfer"]["start_cue"] = " ".join(
     text for _, text in ACTIVITIES["spoon-transfer"]["readiness_groups"]
 ) + " Stop: " + ACTIVITIES["spoon-transfer"]["stop"]
+ACTIVITIES["tube-sculpture"]["start_cue"] = " ".join(
+    text for _, text in ACTIVITIES["tube-sculpture"]["readiness_groups"]
+) + " Stop: " + ACTIVITIES["tube-sculpture"]["stop"]
 
 
 PAGES = [
@@ -1098,7 +1114,7 @@ PAGES = [
             ("NAEYC: Two Mathematical Heads Are Better than One", "https://www.naeyc.org/resources/pubs/yc/fall2022/peer-based-math-learning"),
             ("NAEYC: The Intentional Teacher excerpt", "https://www.naeyc.org/sites/default/files/globally-shared/downloads/PDFs/resources/pubs/intentional-teacher-third-edition-chap-1-excerpt.pdf"),
         ],
-        "activities": ["car-ramp-distance-test", "paper-bridge", "cardboard-car-ramp", "paper-plate-ramp", "cup-tower", "tube-sculpture", "magnetic-tile-ideas", "lego-color-tower"],
+        "activities": ["car-ramp-distance-test", "paper-bridge", "cardboard-car-ramp", "paper-plate-ramp", "cup-tower", "magnetic-tile-ideas", "lego-color-tower"],
         "related": ["engineering activities for preschoolers", "science activities for preschoolers", "stem projects for preschoolers"],
     },
     {
@@ -1434,7 +1450,7 @@ PAGES = [
             ("Large blocks or tiles", [("Toy Home", "#magnetic-tile-house"), ("Wide-Base Tower", "#block-tower")], "Put out a small set and let the child decide the shape."),
             ("Paper cups", ("Cup Doorway", "#cup-tower"), "Keep the build on the floor and the toy lane short."),
             ("Paper, straws, or two low books", [("Paper Path", "#paper-bridge"), ("Straw Span", "#straw-bridge")], "Set the supports; handle cutting or tape."),
-            ("Cardboard tubes and painter tape", ("Tube Sculpture", "#tube-sculpture"), "Prepare short tape pieces and leave the arrangement to the child."),
+            ("Two whole tubes, cardboard base and owned painter tape", ("Tube Sculpture", "#tube-sculpture"), "Adult checks and attaches; child chooses a low arrangement or points. Untaped or end if tape fails."),
             ("Blanket, three large blocks and one large toy", ("Blanket Crossing", "#blanket-river"), "Adult stays beside a tiny toy-only crossing; never for feet."),
         ],
         "support_steps": [
@@ -1520,13 +1536,11 @@ PAGES = [
                 "slug": "tube-sculpture",
                 "title": "Tube Sculpture",
                 "job": "Make a sculpture",
-                "materials": "whole cardboard tubes, cardboard base, painter tape",
-                "mission": "Arrange tubes into a shape that can stand on the cardboard base.",
-                "adult_role": "Provide whole tubes and short tape pieces; handle all cutting.",
-                "steps": ["Stand two tubes on the base.", "Add a tube beside or across them.", "Turn the sculpture and add one more piece."],
-                "rescue": "Start with tubes lying flat in a connected shape.",
-                "stop": "Stop if cardboard tears into sharp edges, tape is mouthed, or tubes are used as launchers or steps.",
-                "parent": "Remove staples, rough edges, and loose tape before and during the build.",
+                "mission": "Choose a low arrangement of two whole tubes on a base, then look at its shape. Pointing, watching or declining is enough.",
+                "adult_role": ACTIVITIES["tube-sculpture"]["adult_setup"],
+                "rescue": ACTIVITIES["tube-sculpture"]["parent"],
+                "parent": " ".join(text for _, text in ACTIVITIES["tube-sculpture"]["readiness_groups"]),
+                "stop_before_action": True,
             },
             "wind-tower-test": {
                 "slug": "wind-tower-test",
@@ -1791,7 +1805,7 @@ def building_activity_card(activity):
     early_stop = stop_html if activity.get("stop_before_action") else ""
     late_stop = "" if early_stop else stop_html
     source_note = ""
-    if activity["slug"] == "blanket-river":
+    if activity["slug"] in {"blanket-river", "tube-sculpture"}:
         links = "; ".join(f'<a href="{esc(url)}">{esc(label)}</a>' for label, url in activity["sources"])
         source_note = f'<details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
     return f'''        <article class="seo-activity building-build" id="{esc(activity["slug"])}">

@@ -17,7 +17,7 @@ test("sink or float stays on the existing card and collection URLs", () => {
   assert.match(collection, /rel="canonical" href="https:\/\/kidactivitylab.com\/collections\/science-experiments-for-4-year-olds.html"/);
   for (const path of ["cards/sink-or-float-tray.html", "collections/science-experiments-for-4-year-olds.html", "cards.html"]) {
     assert.equal(sitemap.split(`<loc>https://kidactivitylab.com/${path}</loc>`).length - 1, 1);
-    const lastmod = path === "cards/sink-or-float-tray.html" ? "2026-10-24" : "2026-10-27";
+    const lastmod = path === "cards/sink-or-float-tray.html" ? "2026-10-24" : path === "cards.html" ? "2026-10-28" : "2026-10-27";
     assert.match(sitemap, new RegExp(`<loc>https://kidactivitylab\\.com/${path.replaceAll(".", "\\.")}</loc>\\s*<lastmod>${lastmod}</lastmod>`));
   }
 });

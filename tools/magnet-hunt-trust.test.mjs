@@ -31,7 +31,8 @@ test("direct Magnet Hunt URL is a noindex pause with a first-screen decline", ()
     "collections/no-prep-stem-activities-for-4-year-olds.html",
     "collections/stem-activities-for-preschoolers.html",
   ]) {
-    assert.ok(sitemap.includes(`<loc>https://kidactivitylab.com/${path}</loc>\n    <lastmod>2026-10-27</lastmod>`), path);
+    const date = path === "cards.html" ? "2026-10-28" : "2026-10-27";
+    assert.ok(sitemap.includes(`<loc>https://kidactivitylab.com/${path}</loc>\n    <lastmod>${date}</lastmod>`), path);
   }
 });
 

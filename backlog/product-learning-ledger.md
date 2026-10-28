@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-28 - KAL-IMP-057 Tube Sculpture
+
+- Decision/persona: [repair](../reviews/tube-sculpture-first-start-repair-2026-10-28.md) applies reviewed RES076 to five actual existing owners, no newURL. Adult checks/attaches first whole tube on base, one optional second arrangement/point/watch/end, untaped rescue/collection; preserve preschool output and building peers.
+- Hypothesis: explicit editorial first joint and true renderer/route ownership can enable a start or decline without broad search; no source joint/adhesion or physical success assumed.
+- Sources/classes: Grinnell/Chicago/AAP current bodies plus retained Core PDF re-read SOURCE_BACKED within packet limits; two-whole-horizontal-tube strap/default/roles/stops EDITORIAL_JUDGMENT; persona RESEARCH_HYPOTHESIS; repo/browser MEASURED; fit/adhesion/hygiene/child/time-mess/learning/safety/SEO UNKNOWN.3M current timeout/retry excluded as new evidence.
+- Result/confidence: initial native failures isolated stale dates/additive dispatch/literal material matches; fixed without weakening behavior. Final full225 passes; exact7outputs/92site-35canonical-35library-22hubpeers/PAGES only target override-chooser-phantom declaration conserved. Complete task/independent review/release evidence recorded by dated receipts, not inferred from registration. High inventory confidence, moderate editorial proxy utility.
+- Lesson/trigger: actual rendered owners and exact adult first attachment matter more than a declared list or tape-gently instruction. Reopen source/label/joint conflict, critical task/fit/clutter, peer drift/P0-P2/privacy/divergence. No family or physical result; daily learning applies prior qualification rather than recounting it. November1/October30 retained.
+
 ## 2026-10-28 - KAL-RES-076 Completion
 
 COMPLETED learned-only 6d3963ff6046a192ee59790704f355f67fd67241, NYOctober28: Huygens final full7 PASS/no remainingP0-P3 after sole QA-wording correction; Master221/reviewer220/exact7-158IDs-373refs-GSC100/privacy/EOF/stagedwhitespace exit0. Fresh completedfetch/no divergence/emptyunpushed/frozenstage/complete committed-range identity passed; docs-only main push and fresh postpush clean0/0 confirmed at04:05:07Z. No site/Pages/build or physical/family outcome. Qualified next separate five-owner Tube repair plus phantom-declaration/card-fit correction; source/task collectionOctober27, independent completionOctober28. Completed3; same03:27:00Z/deadline04:12:00Z/no fourth. Reviewers/browsers closed; no active server/release; November1/October30 unchanged.

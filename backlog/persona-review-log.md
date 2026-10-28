@@ -1,5 +1,13 @@
 # Persona Review Log
 
+IMP057 Godel cycle1 independently scores card25/26/building24/26 due solely repeated early stop. Readiness-only parent fix retains all controls and one early stop; full20mode/chooser matrix rerun passes. Master building detours now2, editorial25/26; final confirmation pending, no physical/family effect inferred.
+
+IMP057 current editorial all13: answerability2/age2/materials2/setup-duration-cleanup2/adult2/setting2/mixedage2/sensory1/purpose2/safety-trust2/mobile2/detours2/decision2 =25/26/noN-A; sources and critical-output basis in packet. Sensory1 is no individual adaptation proof, safety2 is evidence/decline not physical outcome, no measured family gain. Full20modes/chooserheader task pass; different full26 review and production pending.
+
+## October28 Tube Sculpture First Start
+
+[IMP057 packet](../reviews/tube-sculpture-first-start-repair-2026-10-28.md) applies source-traced start-now/constraint-point/rescue/trust-younger-reach lenses and every visible section. Critical outputs: adult first model/two strips opposite sides/gentle check before access, second long-side placement or point/watch/decline, untaped-end/collection and early limits across four runnable owners/library. No real family/physical/AT/truezoom test. Actual task, all13 score and release evidence are recorded in chronological receipts; a total cannot override a critical failure.
+
 COMPLETED KAL-IMP-056: reviewed ecef6bd8551d0f3a63dc4aef8faa1b8f250a6236; exact-SHA Pages40627797285 SUCCESS. Dewey full19 PASS/noP0-P3; native221. Eight changed and five preserved live200bytes, same24productionmodes/15keyboardBack/10touchBack/9outgoingBack/20disclosures/finder exact-material-zero-Clear36focus/sixNoJS/word-H1-headerfit; live390/root32 top/setup viewed. No release marker exists; exact-SHA deploy plus affected bytes/task verified. No retry/regression or physical/family/SEO claim; known favicon404 remains excluded. Fresh completedfetch/mainclean0/0; reviewer closed/server8790 stopped. Completed1, same03:27:00Z/deadline04:12:00Z. Factual7 closeout then clock/durable selection; November1/October30 unchanged.
 
 ## October27 Spoon Transfer First-Start Repair

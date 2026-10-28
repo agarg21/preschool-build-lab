@@ -9,6 +9,7 @@ BASE_URL = "https://kidactivitylab.com"
 NON_CONTENT_HTML = {"googled495b3fc6f0765f8.html"}
 LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"}
 CONTENT_LASTMODS = {
+    "cards/tube-sculpture.html": "2026-10-28",
     "cards/spoon-transfer.html": "2026-10-27",
     "cards/balance-scale-baskets.html": "2026-10-27",
     "cards/measuring-tape-jumps.html": "2026-10-27",
@@ -22,10 +23,10 @@ CONTENT_LASTMODS = {
     "cards/shadow-shape-match.html": "2026-10-27",
     "cards/box-garage.html": "2026-10-27",
     "ages/activities-for-4-year-olds-at-home.html": "2026-10-27",
-    "ages/activities-for-6-year-olds-at-home.html": "2026-10-27",
+    "ages/activities-for-6-year-olds-at-home.html": "2026-10-28",
     "cards/blanket-river.html": "2026-10-27",
-    "ages/activities-for-5-year-olds-at-home.html": "2026-10-27",
-    "collections/building-activities-for-4-year-olds.html": "2026-10-27",
+    "ages/activities-for-5-year-olds-at-home.html": "2026-10-28",
+    "collections/building-activities-for-4-year-olds.html": "2026-10-28",
     "cards/paper-roll-play.html": "2026-10-27",
     "collections/no-cut-preschool-activities.html": "2026-10-27",
     "cards/duplo-games.html": "2026-10-27",
@@ -35,7 +36,7 @@ CONTENT_LASTMODS = {
     "articles/paper-cup-tower-kids.html": "2026-10-27",
     "cards/cup-tower.html": "2026-10-27",
     "collections/independent-activities-for-preschoolers.html": "2026-10-27",
-    "cards.html": "2026-10-27",
+    "cards.html": "2026-10-28",
     "cards/cardboard-car-ramp.html": "2026-10-13",
     "articles/cardboard-box-car-ramp-preschoolers.html": "2026-10-13",
     "cards/ball-maze-box.html": "2026-10-02",

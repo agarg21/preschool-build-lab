@@ -58,5 +58,8 @@ test("library, responsive owners and sitemap keep established routes", () => {
   assert.match(css, /\.blanket-river-card \.step-tile \{\s*min-height: 0;/);
   const sitemap = read("sitemap.xml");
   assert.equal((sitemap.match(/<loc>/g) || []).length, 67);
-  for (const p of ["cards/blanket-river.html", "cards.html", "ages/activities-for-5-year-olds-at-home.html", "collections/indoor-activities-for-preschoolers.html", "collections/building-activities-for-4-year-olds.html"]) assert.ok(sitemap.includes(`${p}</loc>\n    <lastmod>2026-10-27</lastmod>`), p);
+  for (const p of ["cards/blanket-river.html", "cards.html", "ages/activities-for-5-year-olds-at-home.html", "collections/indoor-activities-for-preschoolers.html", "collections/building-activities-for-4-year-olds.html"]) {
+    const date = ["cards.html", "ages/activities-for-5-year-olds-at-home.html", "collections/building-activities-for-4-year-olds.html"].includes(p) ? "2026-10-28" : "2026-10-27";
+    assert.ok(sitemap.includes(`${p}</loc>\n    <lastmod>${date}</lastmod>`), p);
+  }
 });
