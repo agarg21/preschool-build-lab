@@ -1,5 +1,7 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP064 COMPLETED bd8b1b3/exact-SHA Pages40687104406 SUCCESS/live14bytes-same32mode task/visuals; independent full20PASS/native253. [Release receipt](../reviews/tube-drop-first-start-repair-2026-10-28.md). Shared existing-default repair applied; no newURL/physical-family claim or known blocker. Reviewer/browsers/server closed; completed1/original12:01:32/deadline12:46:32, factualcloseout/alignment then guard/currentqueue.
+
 IMP064 independent Codex reviewer01a1826e-2a74-79f2-a400-7bbc25c96d29 full20/cycle1 PASS/noP0-P3; Master253/independent252. [Review receipt](../reviews/tube-drop-first-start-repair-2026-10-28.md). Reviewer/browser closed, Masterserver8798 retained. Fresh exact main release/exactSHA production next; sameactual12:01:32/count0/deadline12:46:32, not yet delivered.
 
 IMP064 localQA253/all3twice/exact9siteoutputs90peers/14bytes32modes-keytouchBack-disclosures-finder-eightNoJS-wordfit PASS; [packet](../reviews/tube-drop-first-start-repair-2026-10-28.md). Eachcard24/26 vs3/26/noN-A, no physical-family claim. Exact20structured/freshdifferent review/exactSHA production required; original12:01:32/count0/deadline12:46:32.
