@@ -1,7 +1,7 @@
 # Preschool Cloud-Watching Qualification
 
-KAL-RES-092, October28,2026. Status: independent full7 PASS;
-docs-only release pending. Actual21:02:22Z/17:02:22EDT,
+KAL-RES-092, October28,2026. Status: COMPLETED learned-only research;
+independently reviewed release2367841. Actual21:02:22Z/17:02:22EDT,
 heartbeat21:02:17.136Z, deadline21:47:22Z/count0/max3.
 Base7a14aa7813530618e0571e1e5c3e0fbce2ea9b38; exact7 registered before research.
 
@@ -303,3 +303,16 @@ afterward and explicit exclusion rerun277passed.
 This is disclosed, not described as compliant initial omission. All owned
 browser contexts closed, no server or external mutation. Exact docs release
 and factual closeout next; independent review does not authorize a new guide.
+
+## Release Receipt
+
+Reviewed 23678419723e1978bd90224c36bdb162654b5087 pushed under standing reviewed-release authority.
+Exact7 frozenstage/complete committed unpushed-range SHA256
+94aea2f58aa4c66d36c02260e877dc1568fecdc355417b66b0c5c11382050c3e
+identity/privacyEOF PASS. Completedprestagefetch/no divergence/push exit0/
+completedpostpushfetch clean0/0 verified21:19:08Z. Docs-only, no Pages wait or
+site delivery. Browser/reviewer closed, no server or dependency blocker.
+Sameactual21:02:22Z/count1/deadline21:47:22Z/max3 retained. Factualcloseout
+push/alignment next; separately inspect history of library self-jump readable
+arrival before selecting any uncovered defect. This task used manual scroll,
+not that jump; do not treat that omission alone as a verified defect.
