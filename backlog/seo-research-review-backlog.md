@@ -1,5 +1,9 @@
 # SEO Research & Review Backlog
 
+## October27 - Tube Sculpture First Start
+
+[RES076 audit](../reviews/tube-sculpture-first-start-audit-2026-10-27.md): IMPROVE five actual Tube Sculpture owners separately, DEFER newURL: exact adult first attachment/flat two-tube composition, role-fit/untaped-end/cleanup/trust limits; preserve whole/base/flat-rescue utility and building peers/assets. Remove only Tube's phantom preschool declaration without changing preschool output; fix measured card root32 word right356.453 at320. No CSV/video/physical outcome claim or implementation here. New first-attachment/renderer gap, not repeated August4 broad qualification. Full7 native221/independent review/docs release required.
+
 COMPLETED learned-only affef5a0c9a277c8d05a6dadb5412d659c64b6f2: Turing full7 PASS/noP0-P3, native221/reviewer220; exact7/157IDs/369docrefs/GSC100/privacy/EOF/stagedwhitespace exit0. Fresh no-divergence fetch, frozen stage and complete unpushed range identity passed; docs-only main push and postpush fresh clean0/0 confirmed. DEFER Follow the Leader newURL/REJECT generic no-prop-model-turn differentiation; exact demand/missing-output/full home lineage gates remain. No site/Pages/build/outcome claim. Completed2; sameactual03:27:00Z/deadline04:12:00Z. Factual7 closeout/alignment then clock/durable selection; November1/October30 retained.
 
 ## October27 - Follow the Leader

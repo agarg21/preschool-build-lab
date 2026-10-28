@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-27 - KAL-RES-076 Tube Sculpture First Start
+
+- Decision/persona: [audit and brief](../reviews/tube-sculpture-first-start-audit-2026-10-27.md). IMPROVE five actual Tube Sculpture owners separately, DEFER newURL: exact adult first attachment/flat two-tube composition, role-fit/untaped-end/cleanup/trust limits; preserve whole/base/flat-rescue utility and building peers/assets. Remove only Tube's phantom preschool declaration without changing preschool output; fix measured card root32 word right356.453 at320. No CSV/video/physical outcome claim or implementation here.
+- Hypothesis/result: source-reconciled first attachment and actual renderer membership can support a bounded parent start. Five liveowners/eight200bytes/20modes/16late/12keyboardBack/finder-fiveNoJS; legacycard5/26/all13/noN-A. First harness failed stale declared preschool membership, corrected inventory and full rerun; embed deliberately blocked, no playback failure inferred.
+- Sources/classes: current Grinnell/CoreK/Chicago/OMCA/KID/3M/AAP text and Corep94/Grinnellvisual SOURCE_BACKED within limits; flat two-whole-tube strap/default/roles/stops EDITORIAL_JUDGMENT, persona RESEARCH_HYPOTHESIS, repo/browser MEASURED; adhesion/hygiene/child/time-mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson: high inventory/omission, moderate proxy utility. PAGES membership can be stale and tape gently is not a first attachment; retained August4 whole/base/flat rescue is real prior value.
+- Falsification/next: label/material/attachment/source conflict or critical clutter/P0-P2/privacy/peerdrift/divergence. Different full7 review/docs-only release, then next eligible separate five-owner repair, no fourth. No family-test prerequisite or newURL demand inferred.
+
 COMPLETED learned-only affef5a0c9a277c8d05a6dadb5412d659c64b6f2: Turing full7 PASS/noP0-P3, native221/reviewer220; exact7/157IDs/369docrefs/GSC100/privacy/EOF/stagedwhitespace exit0. Fresh no-divergence fetch, frozen stage and complete unpushed range identity passed; docs-only main push and postpush fresh clean0/0 confirmed. DEFER Follow the Leader newURL/REJECT generic no-prop-model-turn differentiation; exact demand/missing-output/full home lineage gates remain. No site/Pages/build/outcome claim. Completed2; sameactual03:27:00Z/deadline04:12:00Z. Factual7 closeout/alignment then clock/durable selection; November1/October30 retained.
 
 ## 2026-10-27 - KAL-RES-075 Follow the Leader

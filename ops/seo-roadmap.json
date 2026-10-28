@@ -6,6 +6,52 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-076",
+      "title": "Qualify Tube Sculpture attachment and first-start handoffs",
+      "kind": "existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-27",
+      "base_commit": "ce7e5c67fb3f0403f3235d58395f40094776987b",
+      "exact_paths": [
+        "reviews/tube-sculpture-first-start-audit-2026-10-27.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Current video-derived card8minutes/cardboardtubes-tape/stack-tapegently-maketaller lacks base/attachment/adult role/reach/stop/evidence boundary. Canonical hubs similar; August4 building qualification already added base/whole tubes/flat rescue/stops but does not specify first attachment. Targeted retained history finds broadAug4 owner work, no complete current cross-renderer attachment-first-start audit. Do not call broad missingbase research new.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Caregiver must choose owned tube/tape/base fit, know adult preparation and first attachment/arrangement, offer one sculpture mission or decline/rescue/end/cleanup, without relying on embedded video or assuming height/strength/time outcomes.",
+      "hypothesis": "Current primary construction/art mechanism and actual canonical/CSV/override/live owner task may qualify a bounded improve/preserve/defer/pause decision, reconciling complete assembly/attachment and material controls while preserving existing source-owned building utility.",
+      "acceptance": "Inventory actual owners/canonical-CSV-cardoverrides/building overrides and retainedAug4lineage; current primaryquery bodies/relevantvisuals/firstattachment-role-space-stop/source distinction; desktop/mobile-root32/key/finder baseline if applicable; fourlenses/everysection/all13 denominator. Explicit decision/exact unresolved gates, no new recipe or source video assumed.",
+      "qa_plan": "Native221/jq/changedJSON-GSC100-uniqueIDs-docrefs/privacy/EOF/exact7/diffcheck; live affectedbytes/actualowner tasks/routes/fit/noJS as appropriate, source visual reconciliation. Different full7 independent read-only reviewer/fixP0-P2/fresh exact reviewed docs-onlymainpush/factualcloseout/finalalignment. Any implementation separately registered next eligible run, not fourth.",
+      "invariants": "Research-only site/code/data/CSV/assets/config/automation/ControlRoom read-only. Preserve maintained building's whole/base/flat-rescue utility and all peers/global assets, not a byte-freeze of the target routine in a future separate build. Preserve actual preschool HTML while removing only stale Tube declaration in that separate build. No newURL/product/paid/indexing/physical-family-learning-safety/time-mess/SEO guarantee or pretend video inspection/family-test gate.",
+      "observation_window": "Sameheartbeat03:26:53.084Z/immutableactual03:27:00Z NYOctober27/completed2/third-final/no fourth/startdeadline04:12:00Z. Registered after03:48:17Z cleancloseoutce7e5c6; November1/October30/cutoff retained.",
+      "reconsider_if": "Prior exact completedqualification/source-visual-attachment/material conflict/criticalmissingcontrol/unsupported recipe or video dependence; choosepreserve/pauseinsteadinvent. P0-P2/privacy/peerdrift/divergence stoprelease.",
+      "blockers": "No dependency blocker for research; owned fit/adhesion unknown and explicit adult precheck/untaped-end. No physical validation claimed.",
+      "next_action": "Fresh completedfetch/no divergence/fullunpushed/exact7 reviewed stage/privacy/EOF/stagedwhitespace exit0/docs-onlymainpush/factualcloseout/alignment. No build/fourth action.",
+      "phase": "independent_review_passed",
+      "decision": "IMPROVE five actual Tube Sculpture owners separately, DEFER newURL: exact adult first attachment/flat two-tube composition, role-fit/untaped-end/cleanup/trust limits; preserve whole/base/flat-rescue utility and building peers/assets. Remove only Tube's phantom preschool declaration without changing preschool output; fix measured card root32 word right356.453 at320. No CSV/video/physical outcome claim or implementation here.",
+      "qa_result": "Master221/jq/onechangedJSON/158uniqueIDs/373localdocrefs/GSC100/privacy/exact7/EOF/whitespace PASS. Eightlive200bytes/20modes/16late/12keyboardBack/finder-fiveNoJS/card root32 word356.453 verified; initial stale-owner harness error corrected, embed blocked/no video inspection. Full7 different review/fresh docs-only release/alignment pending.",
+      "independent_review": {
+        "reviewer": "Huygens",
+        "id": "01a180aa-3399-7540-8d98-6ab5935b898f",
+        "verdict": "PASS",
+        "cycles": 2,
+        "findings": "P3 stale QA wording corrected; no remaining P0-P3",
+        "scope": "Full7 atce7e5c6 plus sole QAparagraph confirmation; research only",
+        "receipt": "Huygens (01a180aa-3399-7540-8d98-6ab5935b898f), fresh independent final full7 PASS/no remainingP0-P3, cycle2/3. Stale-QA-wording P3 corrected; reversing sole paragraph reproduces frozen audit hash, other6/HEAD intact. Independently220nonmutating/GSC100-158IDs-373refs/exact7/privacy-EOF-whitespace/eight200bytes/20modes-16late-card356.453/4keyboardBack/finder-fiveNoJS/current sources/CorePDFbytehash/suppliedvisuals/fourlenses-everysection-all13 card5/26 pass. 3M FAQ reviewer retry denied; Master currentbody inspected. Master12keyboardBack/native221 distinct. Research only, no build/physical/family/creatorvideo approval. Reviewer closed; fresh exact docs-only release/alignment next, original03:27:00Z/completed2/third-final/no fourth. Review completion NYOctober28; sources/task collectedOctober27."
+      }
+    },
+    {
       "id": "KAL-RES-075",
       "title": "Qualify a no-prop Follow the Leader first-rule guide",
       "kind": "play-guide-discovery",
