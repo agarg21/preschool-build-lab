@@ -1,6 +1,6 @@
 # Seed-In-Bag Observation Qualification
 
-Status: review-clean research; release pending.
+Status: COMPLETED learned-only research; reviewed release6e96dfd.
 Action: KAL-RES-091. Prepared October28,2026.
 Actual run start19:01:21Z/15:01:21EDT; new-action deadline19:46:21Z,
 completed0/max3. Base9f24c20e2117e2ac5a4bbcdcd75ab81fddaba0e8.
@@ -315,6 +315,12 @@ actualphotos-DukePDF/106JSON19CSV186IDs638MDrefs101GSC/privacyEOF pass.
 Helper independently created before Master helper read; no execution or capture
 overwrite, no generator entrypoint. Cycle2 was receipt-only, no test/browser
 rerun. Reviewer and owned browsers closed. Research/rubric unchanged.
-Pending: completed pre-stage fetch/no divergence, frozen exact stage/complete
-unpushed-range identity, docs-only main push and completed final fetch/alignment.
-No Pages wait required; no production delivery.
+Released 6e96dfd39b0c562eab6012fdf25c98dbd4ec362d. Completed pre-stage fetch/no divergence;
+exact7 frozen stage/complete committed unpushed-range SHA256
+f7bb0ac5569e81d163f2982630a9ddc78a514de77e7b72e971cd9cf1ea200584
+identity/EOF/privacy PASS. Push exit0 and subsequent completed freshfetch
+confirmed clean0/0 at19:22:28Z. Final factualreceipt simplification resolves
+637relativeMDrefs (pre-review638); native276 still PASS. No site/Pages change,
+no Pages wait or production delivery. Factual seven-file closeout next;
+original19:01:21Z/completed1/deadline19:46:21Z/max3 retained. No second build
+qualifies from this result; three is not a quota.
