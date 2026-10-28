@@ -9,7 +9,7 @@
       "id": "KAL-IMP-059",
       "title": "Repair Tape Train Tracks station start and discovery fit",
       "kind": "existing-owner-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "854608c44107ad717aeaddcd5243f261e133f901",
       "exact_paths": [
@@ -54,8 +54,8 @@
       "observation_window": "Same retainedactual05:07:03Z/conservative new-action deadline05:49:53.460Z/completed2/third-final/no fourth. IMP058productionverified/RES079docsreleased854608c clean0/0; November1/October30/globalcutoff retained.",
       "reconsider_if": "Source/ownedlabel/fit conflict, criticalmissingtask/clutter/unsupportedclaim, peerdrift/privacy/P0-P2/divergence/ambiguousprodregression. Prefer untaped/watch/end, not stronger tape/motorforce or invented physicalfit.",
       "blockers": "None known; ownedtape-train-supportfit/physical-child outcomes UNKNOWN.",
-      "phase": "review_pass_release_pending",
-      "next_action": "Implement qualified exact18 repair; register any necessary oldfixture expansion before edits, fullQA/different review/exactSHA production; no fourth.",
+      "phase": "released",
+      "next_action": "No fourth this actualrun. Next eligible heartbeat: actualUTC/NY, active_sprint/sprint-mode helper, checkpoint/roadmap, freshremote/GSC; choose next verifieddefect/unfinishedeligible action or named missing qualification, no repeatclosed ColorTower/Train research. November1/October30 retained.",
       "qa_result": "IMP059 Master233/fournew; all3generators twice aggregate2ae6910e6ccf08d16e7fbd78e7f7cca0dffb8d3dcd5c403c4defffb033f72d35/exact7outputs/92sitepeers/35canonical-35library-sevenage4peers/PAGES targetIndoor-only/CSV-staticpeercards-nontargetanchors conserved.73HTML-1013refs-89fragments-8LD-67URLs; exact24/164IDs/401docrefs/GSC100/changedJSON/privacy/EOF/whitespace pass. Elevenlocal200bytes/20modes/12incomingkeyboardBack/8incomingtouchBack/6outgoingkeyBack/4outgoingtouchBack/8disclosures/finder exact1-material1-zero-keyClear36focus/fiveNoJS/allword-H1parentfit pass;390/root32 top/setup/material and guidearrival viewed. Materialroot32doc383->320/activities.word383.109->211.719; card/guide fit. Wholeguide arrivals header/heading:1280 61/121.016,390 92.906/140.922,root32 142.828/256.859; touchsame mobilevalues. All13 editorial25/26/noN-A/sensory1, not physical/family/AT/truezoom/SEO result; only knownbaselinefavicon404 excluded. After three Nash P3 fixes, full233/twice generators/conservation/parser/structured and complete20mode-key-touch matrix rerun pass; revised setup/material/arrival captures viewed. Final full24 confirmation/exactSHA production pending, third-final/no fourth/same retained05:07:03Z/conservative deadline05:49:53.460Z.",
       "independent_review": {
         "reviewer": "Nash",
@@ -64,7 +64,16 @@
         "cycles": 2,
         "findings": "Three P3 fixed; no remainingP0-P3",
         "receipt": "Nash (01a18108-9931-7eb2-a9c1-9963f0946c7f), fresh independent full24 plus cycle2 bounded confirmation PASS/no remainingP0-P3. Conditional used-tape count/optional repeat/three setup paragraphs fixed in both runnable owners; joining groups preserves prior instruction sequence, reversing generator corrections reproduces cycle1 source hashes. Independently232 nonmutating/54pure outputs/conservation92site-35canonical-35library-sevenage4-staticpeers-CSV-maintainedTapeRoad-indoor/parser/exact24-164IDs-401refs-GSC100/privacy-EOF-whitespace/full20modes-12key8touch6outkey4outtouchBack8disclosures-finder5noJS/visuals/fourlenses-everysection-all13 25/26 sensory1 pass. Final24hashes/HEAD intact; browsers closed. Master233/twiceaggregate distinct. Exact reviewed release/exactSHA production pending; no physical/family/product/AT/realzoom/SEO proof."
-      }
+      },
+      "completed_on": "2026-10-28",
+      "release": {
+        "commit": "4cd81d0eac991302443226a85ce09d3fb816d97a",
+        "pages_run": 40640564346,
+        "conclusion": "success",
+        "production": "Seven changed+five preserved live200bytes/full20mode task/readable key-touch arrivals/no-cutnativehorizontalchooser/livevisuals pass; no marker/retry/sampledregression; freshfetch0/0",
+        "range_hash": "fff2a2a1cb90759d125ee8e71f78309e204ea7a6c67061ce9b42661fab0a549e"
+      },
+      "completion_receipt": "COMPLETED IMP059 production verified at 4cd81d0eac991302443226a85ce09d3fb816d97a; exact-SHA Pages40640564346 SUCCESS. Nash final full24/cycle2 PASS/noP0-P3; Master233/independent232. Seven changed+five preserved live200bytes (including earlier ColorTower) and same20modes/12incomingkeyBack/8incomingtouchBack/6outgoingkeyBack/4outgoingtouchBack/8disclosures/finder exact1-material1-zero-keyClear36focus/fiveNoJS/word-H1parentfit passed. Live top/setup/material/guidearrival/no-cut row visuals viewed; materialroot32doc320, word211.719, guidearrival256.859>header142.828. No-cut horizontal chooser nativeTab/settledArrowRight reaches rightmost column at390 scroll272/348of620 androot32 scroll342/278of620; initial End/immediate probe was invalid/unasserted, corrected and asserted before claiming pass. No marker exists; exact-SHA deployment plus bytes/tasks verified. No retry or sampled regression, baselinefavicon404 only excluded. No physical/family/product/AT/realzoom/SEO outcome. Fresh releasefetch0/0; reviewers/browsers closed/server8793 stopped. Completed3/no fourth; next eligible heartbeat actualclock/sprint/remote/GSC and durablequeue guard, no repeated closed qualification. November1/October30/global cutoff unchanged."
     },
     {
       "id": "KAL-RES-079",
