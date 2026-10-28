@@ -9,7 +9,7 @@
       "id": "KAL-RES-070",
       "title": "Audit Pattern Path compact starter, choices and maintained handoff",
       "kind": "existing-owner-source-task-audit",
-      "status": "corrective_release_review",
+      "status": "completed",
       "registered_on": "2026-10-27",
       "base_commit": "2b13348",
       "exact_paths": [
@@ -37,11 +37,12 @@
       "observation_window": "Same heartbeat00:05:06.753Z/actual00:05:11Z October27EDT/completed1/deadline00:50:11Z/max3. IMP0529d4949e/Pages40607830241/closeout2b13348 completed fresh main0/0; November1/October30 retained.",
       "reconsider_if": "Repeated completed qualification or maintained handoff already sufficient, source material/choice/role/age contradiction/clinical dependency/P0-P2/privacy/divergence. Keep unknowns.",
       "blockers": "None known; qualification not implementation approval.",
-      "next_action": "Finish whitespace-only correction and factual release receipt with resumed Planck/fresh205-structured-stagedcheck/freshfetch0/0/exact7 corrective push/alignment before separate implementation.",
+      "next_action": "Separate registered reviewed five-owner Pattern ABAB/choice/role/pointing/rescue/trust/handoff repair plus only scoped math H1 wrap under originalguard; preserve maintained preschool.",
       "decision": "IMPROVE five compact/discovery owners separately; PRESERVE preschool#continue-a-pattern body/diagram/definition; DEFER newURL. Current primary bodies/assessmentvisual/actual20modes and maintained3modes confirm starter/choice/role/nonverbal/stop/trust gap. Deeper text-Range localizes math H1 activities word to x363.078 at320/root32; table correctly contained. Qualify only scoped math H1 wrapping with separate owner repair.",
-      "qa_result": "Master205/JSON148IDs/337refs/GSC100/privacy/actual source-task evidence pass. Initial cached whitespace exit2 new packet EOF blank was incorrectly allowed through8d40772 push; corrected without rewrite, requires fresh stagedcheck/QA/review/corrective push before completion.",
-      "reviewer": "Planck final full7 PASS/noP0-P3 after summary correction; resumed for factual whitespace corrective closeout.",
-      "release_commit": "8d40772379edce787a9a0eec3059c05a91630e65"
+      "qa_result": "Master205/JSON148IDs-337refs-GSC100/privacy/exact7 passed; initial new-file stagedEOF exit2 and erroneous continue explicitly retained. Corrective0795db3 EOF/stagedcheck exit0/reviewed main push/fresh completed fetchclean0/0 passed. No site/Pages.",
+      "reviewer": "Planck final full7 and corrective delta PASS/noP0-P3; independent204nonmutating/exact7/148IDs-337refs-GSC100/privacy/diagnosis/source-task checks.",
+      "release_commit": "8d40772379edce787a9a0eec3059c05a91630e65",
+      "corrective_commit": "0795db3"
     },
     {
       "id": "KAL-IMP-052",
