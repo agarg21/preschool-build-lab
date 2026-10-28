@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+## 2026-10-28 - RES094 Drawing Invitation Boundary
+
+Freshdifferent01a18495 full7/cycle2 PASS/noP0-P3, Master278/independent277; all672checkout/rawindex/HEAD/status/previous190items conserved, own source/PDF/browser/structuredprivacyEOF reproduced. Prior procedureFAIL retained. [Review/qualification](../seo/preschool-observational-drawing-qualification-2026-10-28.md). Exactdocs release/alignment next; no site/build/family/SEO outcome.
+
+Initial01a1848f full7 review FAIL procedure P2: four excluded-datecase runs/eight temporary-fixture sitemap.main calls; all672files/rawindex/HEAD/status conserved/no content P0-P3. Final277pass does not erase breach. Freshdifferent compliant full7 review required; no release approval.
+
+Persona: approximately4/non-reader with owned paper/tool/object, secondary request for adult drawing or non-resembling marks. Hypothesis: observational first-mark instructions supply a distinct demanded missing output. DEFER newguide/card; generic one-object/no-print/process novelty REJECTED. [Qualification and source/task audit](../seo/preschool-observational-drawing-qualification-2026-10-28.md). Seven HTML/two PDF bodies SOURCE_BACKED within limits; July29 US drawing260 TOOL_ESTIMATE not exact demand; four age/job/date-limited questions/personas RESEARCH_HYPOTHESIS. Browser/repository MEASURED, source10/26 task/disposition EDITORIAL_JUDGMENT, not KAL baseline/human test. Confidence high distinction/owner absence, moderate interpretation, low demand. Lesson: participation, age assessment and older-child lessons are different jobs. Falsify on exact focus-age need plus missing output plus reconciled object/tool/adult/choice-stop default. Family/time-mess-safety-learning-confidence/SEO UNKNOWN; no developmental/medical/product advice. Independent full7 review/native QA/docs release pending; no site delivery.
+
 ## 2026-10-28 - RES089 Straw Joint Qualification
 
 COMPLETED learned-only RES089 2dbdb265ba605f66121f3a2bc83897d3e80bc1ef; final full7 reviewer01a1834f cycle2PASS/noP0-P3, Master269/independent268. [Audit and qualified separate IMP069 brief](../reviews/straw-bridge-first-joint-audit-2026-10-28.md). Exact7/frozenstage/range9b4840e49c8af9aecec6ab143e53b866d563c521233fcc8389b7eb3d8eb70435 identity/privacyEOF PASS; docs-onlypush and completed freshfetch clean0/0 confirmed16:26:51Z. No site/Pages or physical-family claim. Original16:04:12/count1/deadline16:49:12; factualcloseout then guard and promptly register qualified exact18 IMP069. Reviewer/browserclosed/no server.

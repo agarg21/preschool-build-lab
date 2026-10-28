@@ -6,6 +6,45 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-094",
+      "title": "Qualify a preschool observational-drawing first-mark job",
+      "kind": "bounded-create-imagine-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "b2bcedd0bbd170d7b7724f92446f1ed76fed6fb1",
+      "exact_paths": [
+        "seo/preschool-observational-drawing-qualification-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "MEASURED",
+        "UNKNOWN"
+      ],
+      "evidence": "Heartbeat21:58:47.396Z, actual21:58:52Z/17:58:52EDT/count0/deadline22:43:52Z. Freshfetch clean0/0 atb2bcedd; prior RES0937c4f194/factualcloseoutb2bcedd fully closed/no overlap. Roadmap next names observational-drawing first-mark discovery; no prior standalone qualification or clean owned drawing guide in targeted retained search. No newGSC snapshot; November1 notdue.",
+      "parent_problem": "Caregiver of an ages3-6 non-reader may need a small real-object observation/drawing start, with an owned drawing tool and paper, without adult copying, perfect-image pressure, templates or purchases. First mark, what to say, choice/help/decline and put-away must be bounded without developmental or emotional guarantees.",
+      "hypothesis": "Observing and drawing one ordinary object may serve a distinct Create/Imagine parent job with material current search support and a missing first-mark/agency/rescue output over maintained museum/early-childhood answers. Generic no-print, one-object or process-over-product framing is not inherently original.",
+      "acceptance": "Inspect exact current observational-drawing preschool query family and primary/original-publisher bodies,3-5 public caregiver/educator question bodies with recency/age/reuse limits; dated keyword and owner audit. Trace one real-object observation/marking lineage versus adultmodel-copy/directeddrawing/freeplay, actual sourcevisual and desktop-mobile task; fourgroundedlenses/everysection/all13/critical outputs. Return BUILD/UPGRADE/PRESERVE/DEFER/REJECT with exact gates; separately register build only if qualified.",
+      "qa_plan": "Exact7 docs/research only; full278tools tests/diffcheck/jq/JSON-CSV/sourceprivacy/EOF/relativeMDrefs/uniqueIDs/all101GSC/conserve site-source-data-config. Actual desktop/mobile browser proxy with limitations/captures. Freshdifferent full7 read-only review max3/PASS orPASS_WITH_P3; completedfetch/no divergence/exactfrozenstage/completeunpushedrange/docs-onlymainpush/alignment; no Pages wait.",
+      "invariants": "No site/generator/data/config/automation/ControlRoom/indexrequest/paid/product/account/outreach/newURL change. No diagnostic/developmental/anxiety/medical/satisfaction or family-tested claim, no child artwork/photos or personal details copied. No adult hand-over-hand prescription or forced identical finished picture; owned tool labels not product recommendation. Preserve closed collage/puppet/lacing/story/weaving/cloud decisions.",
+      "observation_window": "Actual21:58:52Z/count0/new-actiondeadline22:43:52Z/max3, sprintactive. Prior allclosed, one writer. November1/October30/globalcutoff unchanged; research before separate implementation.",
+      "reconsider_if": "Current demand/output/default/source evidence disconfirms job or clean owner exists; preserve/defer/reject without inventing page. Narrow candidate gate does not block independent work; actual clock never resets.",
+      "phase": "freshdifferent-full7-review-pass-exact-docs-release-next",
+      "review_result": "01a18495-156d-7b92-8d8c-6d96548f36b5 full7/cycle2 PASS/noP0-P3; independent277pass via58otherfiles273+fourPOSITIVEexacttitles, no forbidden datecase/main. All672checkout/rawindex/HEAD/status conserved; own source-PDF-browser/structuredprivacyEOF reproduced. Prior procedureFAIL retained; reviewer/browser closed.",
+      "initial_review": "01a1848f full7 FAIL procedure P2: four excluded-datecase executions/eight temporary-fixture sitemap.main calls; final277pass excluded correctly but no approval. No content P0-P3, all672checkout/rawindex/HEAD/status conserved. Reviewer/browser closed; freshdifferent full7 required.",
+      "qa_result": "Master278/0fail;106JSON19CSV2212/191IDs677MDrefs/all101GSC/privacyEOF PASS; prior190items/source-site-data-config conserved; two livebytes/four zero-keyClear36/twoNoJS/threePDFvisuals/sourceUI limits verified.",
+      "decision": "DEFER new observational-drawing guide/card; REJECT generic one-object-no-print-process novelty; PRESERVE owners. Broader260 estimate not exact demand; source10/26 criticalFAIL not KAL baseline or newURL qualification.",
+      "artifact": "seo/preschool-observational-drawing-qualification-2026-10-28.md",
+      "next_action": "Full278/structuredprivacyEOF and freshdifferent full7review, exactdocs release/alignment; no build. Later unselected pretend-shop current-question gate only after retained ownership/closed-decision check."
+    },
+    {
       "id": "KAL-RES-093",
       "title": "Qualify a simple paper-weaving first-strip job",
       "kind": "bounded-create-imagine-qualification",
