@@ -6,6 +6,51 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-081",
+      "title": "Qualify Tape City first-start and maintained-guide handoffs",
+      "kind": "existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "2c1c1ffa4ee3b498b7a7be8e42be5bca6f8bd423",
+      "exact_paths": [
+        "reviews/tape-city-first-start-handoff-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/seo-research-review-backlog.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence": "Current TapeCity card has owned-surface tape/largevehicle/chunkyblock/openended but early uninspectedvideo/four meta tiles/shortroad-building-parking steps before surface-stop-guide route. September15 completed guide qualification keeps City optional variation, October4-5 audited/repaired TapeRoad card only; current City material-firststart/early-guide/actual hub agreement named gap not completedqualification repeat.",
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Decide owned tape/surface-or-board/toy-block/all-child/adult fit, find existing complete road start before child execution, add at most one checked building or decline, stop/rescue/remove and collect without creator dependency or a competing City article.",
+      "hypothesis": "Maintained-guide/task audit can qualify bounded existing handoff/firststart improvement or preserve/defer without repeating the completed guide mechanism or inventing new physical geometry.",
+      "acceptance": "Targeted history/actual renderer and eight visible owner inventory; current maintained-source bodies/guide lineage boundary; desktopmobile-root32/key/finder/noJS reproducible baseline, source-grounded task/fourlenses/everysection/all13 card rubric with critical override. One decision/exact separate brief, no newURL or source-video/physical-family claim.",
+      "qa_plan": "Full237/jq/changedJSON-GSC-IDs-docrefs/privacy/EOF/exact7/diffcheck; source/task/peer preservation; different independent read-only full7review/fixP0-P2<=3cycles/fresh exact docs-onlymain release/stagedcheckexit0/frozenstage/completeunpushedrangeidentity/factualcloseout/finalalignment. Any qualified repair separate NEXT eligible invocation (third-final/no fourth).",
+      "invariants": "Allsite/code/data/CSV/config/scheduler/ControlRoom read-only; preserve maintainedTapeRoad guide/card/illustration/lineage and otheractivityowners. No newURL/product/purchase/paid/indexing/outreach/creator inspection/physical-family-time-mess-learning-safety-SEO assurances.",
+      "observation_window": "Same retained06:03:01Z/conservative selectiondeadline06:45:23.664Z/completed2/third-final/no fourth. RES080abfa8f8/ErdosPASS and IMP0606a6650b/exactSHA Pages40644611935/full live verification/closeout2c1c1ff complete; freshmainclean0/0 at06:36:12Z. November1/October30/global cutoff unchanged.",
+      "reconsider_if": "Exact previously completed City handoff qualification, no demonstrable task gap, source/material conflict, guide already supplies clear early route, overlap/privacy/P0-P2/divergence. Do not force novel recipe/new guide.",
+      "blockers": "None known; owned physical fit and source-video procedure UNKNOWN.",
+      "phase": "reviewed-awaiting-release",
+      "decision": "IMPROVE seven editable/fourrunnable City owners plus phantomIndoor correction and toycarroot32doc536/H1word535.938 repair separately; preserve maintainedguide/card/asset/actualindoor, DEFERnewURL. Exact optionalflatblock/handoff/roles editorial, not new road geometry or physical proof.",
+      "next_action": "Fresh exact reviewed docs-only main release/factualcloseout/alignment; no fourth. Next eligible invocation separately register qualified City repair, preserve maintained guide/card/asset/actualindoor/noindex; no repeat qualification.",
+      "qa_result": "RES081 Master237/jq/exact7/onechangedJSON/167uniqueIDs/415localdocrefs/GSC100/privacy/EOF/whitespace PASS. Thirteen live200bytes/32modes-16late-21incomingkeyBack-3guidekeyBack-2guideTouchBack/finder-eightNoJS and four supplied captures/maintained AI asset viewed. Toycarroot32doc536/H1word535.938 measured unfixed; other31 doc widths fit, not all-word fit or sampled console-clean. Three newly inspected primary bodies plus same-invocation MSU/AAP, partial3M excluded; allsite/code/data/CSV/config unchanged. Different full7 review/docs-only release required; no physical/family/AT/truezoom/creator claim.",
+      "independent_review": {
+        "reviewer": "Gibbs",
+        "id": "01a18151-d218-7561-a190-f5f8f24da0e3",
+        "verdict": "PASS",
+        "cycles": 2,
+        "findings": "Sole cycle1 P3 library inventory corrected; no remainingP0-P3",
+        "receipt": "Gibbs (01a18151-d218-7561-a190-f5f8f24da0e3), fresh independent final full7/cycle2 PASS/no remainingP0-P3. Sole cycle1 P3 library Open-ended override vs canonical5min corrected; reversal reproduces cycle1 packet, other6/HEAD intact. Independently236nonmutating/exact7-167IDs-415refs-GSC100/privacy-EOF-whitespace/priorroadmap preservation/pure renderer parity/73HTML848local-links89fragments/13livebytes32modes16late21incomingkeyBack3guidekeyBack2touchBack/finder-eightNoJS/four captures+AIasset/source boundaries/fourlenses-everysection-all13card7/26 passed. Toycarroot32doc536/H1word535.938 unfixed; no incomingtouch/allwordfit/consoleclean/AT/realzoom/physical-family-sourcevideo proof. Frozen7/HEAD intact, reviewer/browser closed. Master237 distinct; research-only approval, no future-build approval."
+      }
+    },
+    {
       "id": "KAL-IMP-060",
       "title": "Repair Block Tower first placement and wide-base handoffs",
       "kind": "existing-owner-content-repair",

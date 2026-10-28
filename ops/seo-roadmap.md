@@ -1,5 +1,13 @@
 # Kid Activity Lab Operator Roadmap
 
+RES081 final Gibbs full7/cycle2 PASS/no remainingP0-P3/Master237. [Receipt](../reviews/tape-city-first-start-handoff-audit-2026-10-28.md). Sole library inventory P3 corrected; exact docs-only release next, no fourth or future-build approval.
+
+RES081 Master237/exact7/167IDs/415refs/GSC100/privacy-EOF-whitespace PASS; fresh independent review/docs-only release next. Queued06:58 heartbeat cannot reset original06:03:01Z clock/completed2/third-final; finish existing only, no fourth. Qualified build NEXT eligible invocation.
+
+RES081 currentdecision IMPROVE seveneditable City surfaces/fourrunnable plus phantomIndoor and toycarroot32fit; preserve maintainedTapeRoad guide/card/asset/actualindoor, DEFERnewURL. [Audit](../reviews/tape-city-first-start-handoff-audit-2026-10-28.md), full7QA/differentreview/docsrelease required before NEXT eligible build. Third-final/no fourth/sameactualguard.
+
+RES081 REGISTERED2c1c1ff exact7 research-only: named TapeCity late fit/firststart/maintainedguide handoff, not repeated TapeRoadguide/card qualification. Same retained06:03:01Z/completed2/third-final/no fourth/conservative06:45:23.664Z. FullQA/differentreview/docsrelease; any build next eligible heartbeat. IMP060 fully production verified, November1/October30 unchanged.
+
 COMPLETED IMP060: reviewed6a6650b2fc689bfdc0aaacbfd8320988d2307c0a/exact-SHA Pages40644611935 SUCCESS. Lovelace final full32/cycle2 PASS/no remainingP0-P3/native237. Eleven changed+five preserved live200bytes and same36modes/24incomingkeyBack-16touchBack/9outkeyBack-6outtouchBack/28disclosures/3chooserkeyBack-2touchBack-3directhash/finder title2-target-material1-zero-keyClear36/nineNoJS/allword-H1parentfit/errors/native no-cut table-right+Mathintro tasks pass; live390/root32 top/setup/building-chooser/Math/no-cutright captures viewed. No release marker exists; exact-SHA deploy plus bytes/behavior verified. No retry or sampled regression, knownfavicon404 only excluded. No physical/family/AT/truezoom/SEO claim. Fresh releasefetch0/0/exact32frozenstage/stagedcheck exit0/complete unpushed range identity passed. Completed2; factual7closeout/push/alignment then original06:45:23.664Z conservative guard before any third. No repeat Block qualification; November1/October30 unchanged.
 
 IMP060 Lovelace final full32/cycle2 PASS/no remainingP0-P3/native237. [Packet](../reviews/block-play-first-start-repair-2026-10-28.md). Fresh reviewed exact main release/exactSHA production required; not yet production verified. Same retained06:03:01Z/completed1/originalguard.
