@@ -9,7 +9,7 @@
       "id": "KAL-IMP-058",
       "title": "Repair Color Tower sorting-first handoffs",
       "kind": "existing-owner-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "e0956c1cb517e67af93b7a1a01d2c9c369e3759e",
       "exact_paths": [
@@ -54,8 +54,8 @@
       "observation_window": "Newest scheduled05:04:53.460Z; first retained actual clock05:07:03Z (initial output lost at compaction). Helper uses retained actual; conservatively stop selection by05:49:53.460Z, earlier than helper deadline, no timer extension. Completed0/max3. November1/October30/global cutoff retained.",
       "reconsider_if": "Owned label/fit/source conflict, critical missing control/clutter/peer drift/privacy/P0-P2/divergence/ambiguous production regression; flat/end not smaller pieces/force or invented safety.",
       "blockers": "None known; physical fit/child/time/mess/safety outcomes UNKNOWN.",
-      "next_action": "Implement qualified existing-owner repair, then full QA/different review/exact-SHA production.",
-      "phase": "review_pass_release_pending",
+      "next_action": "Factual7 closeout/push/alignment, then retained05:07:03Z/conservative deadline05:49:53.460Z guard and durable queue before next eligible independent selection; do not repeat ColorTower qualification.",
+      "phase": "released",
       "qa_result": "IMP058 Master229/fournew; all3generators twice aggregated5a7b329714a29d8cb6db75ed43fd2706f184f0ed6ad5eb5968dbd6153c92cbb/exact9outputs/90sitepeers/35canonical-35library-35hubpeerblocks/PAGES target phantom declaration only/CSV conserved-parsed;73HTML-1013refs-89fragments-8LD-67URLs. Exact24/162IDs/392docrefs/GSC100/changedJSON/privacy/EOF/whitespace pass. Twelve local200bytes/28modes/18incomingkeyboardBack/12touchBack/9outgoingBack/24disclosures/finder exact1-material1-zero-keyboardClear36focus/sevenNoJS/allword-H1parentfit pass;390/root32 top/setup screenshots viewed. Copied material query initially returned Tube in harness, corrected to target pair phrase/full matrix rerun passes; no product failure. Known baselinefavicon404 only excluded. All13 editorial25/26/noN-A/sensory1, not physical/family/AT/truezoom/SEO outcome. After two Pasteur P3 fixes, full229/twice generators/conservation/parser/structured and full28mode matrix rerun pass. Physical Foundation14/printed26 fragment corrected; target-only late Bestfor removed. Final full24 confirmation and exactSHA production required; same retained05:07:03Z/conservative deadline05:49:53.460Z/completed0.",
       "independent_review": {
         "reviewer": "Pasteur",
@@ -65,7 +65,16 @@
         "findings": "Two P3 corrected; no remainingP0-P3",
         "scope": "Full24 plus bounded cycle2 delta, frozen HEAD/hashes intact",
         "checks": "Independently228 nonmutating/sevenrenderers/conservation/links-structured-GSC100-162IDs-392refs/privacy-EOF-AST-whitespace/full28modes-18key12touch9out24disclosures-finder7noJS/fourlenses-everysection-all13 25/26 sensory1; no physical/family/AT/truezoom/SEO/production proof."
-      }
+      },
+      "completed_on": "2026-10-28",
+      "release": {
+        "commit": "234745523d346149af8965775e5ad2cc9bb62451",
+        "pages_run": 40637551276,
+        "conclusion": "success",
+        "production": "Nine changed+three preserved live200bytes/full28modes task/livevisuals pass; no marker/retry/sampledregression; freshfetch0/0",
+        "range_hash": "ed8da7a899a82293585d3033b17b2f4527e1004d742b207543d0cdea8a25ee1f"
+      },
+      "completion_receipt": "COMPLETED IMP058: Color Tower sorting-first repair production verified at 234745523d346149af8965775e5ad2cc9bb62451; exact-SHA Pages40637551276 SUCCESS. Pasteur final full24/cycle2 PASS/noP0-P3; Master229/independent228. Nine changed+three preserved live200bytes and same28modes/18incomingkeyboardBack/12touchBack/9outgoingBack/24disclosures/finder exact1-material1-zero-keyboardClear36focus/sevenNoJS/word-H1parentfit passed; live390/root32 top/setup viewed. No release marker exists; exact-SHA deployment plus bytes/tasks verified. No retry or sampled regression; known baselinefavicon404 only excluded. No physical/family/AT/truezoom/SEO result. Fresh releasefetch0/0; reviewer/browsers closed/server8792 stopped. First transaction complete; factual7 closeout/push/finalalignment then original retained05:07:03Z/conservative selection deadline05:49:53.460Z guard before next queue selection. November1/October30 retained."
     },
     {
       "id": "KAL-RES-078",
