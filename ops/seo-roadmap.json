@@ -9,7 +9,7 @@
       "id": "KAL-RES-070",
       "title": "Audit Pattern Path compact starter, choices and maintained handoff",
       "kind": "existing-owner-source-task-audit",
-      "status": "reviewed",
+      "status": "corrective_release_review",
       "registered_on": "2026-10-27",
       "base_commit": "2b13348",
       "exact_paths": [
@@ -37,10 +37,11 @@
       "observation_window": "Same heartbeat00:05:06.753Z/actual00:05:11Z October27EDT/completed1/deadline00:50:11Z/max3. IMP0529d4949e/Pages40607830241/closeout2b13348 completed fresh main0/0; November1/October30 retained.",
       "reconsider_if": "Repeated completed qualification or maintained handoff already sufficient, source material/choice/role/age contradiction/clinical dependency/P0-P2/privacy/divergence. Keep unknowns.",
       "blockers": "None known; qualification not implementation approval.",
-      "next_action": "Fresh completed fetch/no divergence/full outgoing/exact reviewed docs-only main push/alignment/factual closeout; separate qualified repair promptly under originalguard.",
+      "next_action": "Finish whitespace-only correction and factual release receipt with resumed Planck/fresh205-structured-stagedcheck/freshfetch0/0/exact7 corrective push/alignment before separate implementation.",
       "decision": "IMPROVE five compact/discovery owners separately; PRESERVE preschool#continue-a-pattern body/diagram/definition; DEFER newURL. Current primary bodies/assessmentvisual/actual20modes and maintained3modes confirm starter/choice/role/nonverbal/stop/trust gap. Deeper text-Range localizes math H1 activities word to x363.078 at320/root32; table correctly contained. Qualify only scoped math H1 wrapping with separate owner repair.",
-      "qa_result": "205 tests PASS; exact7/changedJSON1/148uniqueIDs/337docrefs/GSC100/privacy/whitespace PASS; nine200livebytes/20modes/16latechecks/12keyboardBack/finder1-zero-Clear36/fivenoJS/viewedcard390-root32/maintained3modes. Math root32 table-only overflow observation not coredefect/allfitpass. Full7 independent review pending. Later text-Range diagnosis supersedes table-only inference: confirmed math H1 word overflow, table auto containment valid; no site edit.",
-      "reviewer": "Planck01a17fe6-e879-7d83-9f37-923fc0684bff; final full7 PASS_WITH_P3/noP0-P2; mirrored-summary P3 corrected in factual receipt.204nonmutating/100GSC-148IDs-337refs/exact7/privacy/20modes-routes-finder-noJS/maintained3modes/current sourcevisual-H1 diagnosis independently checked."
+      "qa_result": "Master205/JSON148IDs/337refs/GSC100/privacy/actual source-task evidence pass. Initial cached whitespace exit2 new packet EOF blank was incorrectly allowed through8d40772 push; corrected without rewrite, requires fresh stagedcheck/QA/review/corrective push before completion.",
+      "reviewer": "Planck final full7 PASS/noP0-P3 after summary correction; resumed for factual whitespace corrective closeout.",
+      "release_commit": "8d40772379edce787a9a0eec3059c05a91630e65"
     },
     {
       "id": "KAL-IMP-052",
