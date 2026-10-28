@@ -1,5 +1,13 @@
 # Product Learning Ledger
 
+IMP063 Herschel fresh full25/cycle1 PASS/noP0-P3; Master249/independent248. [Review receipt](../reviews/car-ramp-distance-first-start-repair-2026-10-28.md). Reviewer/browser closed; server8797 needed. Fresh exact reviewed main release/exactSHA production next, actual10:56:02/count0/deadline11:41:02; not yet delivered.
+
+## 2026-10-28 - IMP063 Distance First Start
+
+- Decision/task: apply [RES083 through the repair](../reviews/car-ramp-distance-first-start-repair-2026-10-28.md), eight existing owners/sixrunnable, onecar/no-push/point-stop/optionalrepeat/unclear/end and distinct guide/pack/target routes. No newURL; maintaineddepth/pack/actualpreschoolSTEM+indoor and90sitepeers preserved.
+- Hypothesis/classes/result: source context SOURCE_BACKED; exact reduction/roles EDITORIAL_JUDGMENT; persona RESEARCH_HYPOTHESIS; local17bytes48modes-keytouchBack-disclosures-finder12NoJS-wordfit MEASURED. Same13card24/26 vs6/26/noN-A/sensory1-detours1, not family improvement. Initial root32cue bottom905.297 failed; finalfullcue554.156-758.906 fits. Pack longcallout requires scroll, not claimed fixed.
+- Confidence/lesson/trigger: high technical/moderate editorialconfidence. Compare observed stop positions without promising speed/winner; keep reference/unclear branch. Materialquery legitimately matches3, not a finder failure. Time/mess/physical-family/learning/safety/SEO UNKNOWN. Native249/all3twice/conservation/localtask pass; exact25structured/freshdifferent review/exactSHA production pending. Reopen source/ownedfit/criticaltask/peer/privacy/P0-P2/divergence. Sameactual10:56:02/count0/deadline11:41:02.
+
 RES083 COMPLETED learned-onlyc710edc/Hooke final full7PASS/native245/docs-only main aligned10:51:34Z; [release/next brief](../reviews/car-ramp-distance-first-start-audit-2026-10-28.md). Qualifies next-run eight-owner distance repair; no newURL/site/physical-family delivery. Completed3/no fourth/original10:02clock retained; actual STEM and indoor outputs preserved, no known dependency blocker.
 
 RES083 Hooke full7/cycle1 PASS_WITH_P3, two ownership sentences fixed/final bounded cycle2 PASS/no findings; Master245/independent244. [Receipt](../reviews/car-ramp-distance-first-start-audit-2026-10-28.md). Reviewer/browser closed, no server. Fresh exact docs-only main release next, original10:02/count2/third-final/no fourth; approved brief is not a site release.

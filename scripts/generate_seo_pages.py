@@ -136,13 +136,41 @@ ACTIVITIES = {
         "title": "Car Ramp Distance Test",
         "url": "../cards/car-ramp-distance-test.html",
         "ages": "4-6",
-        "time": "5 min",
-        "mess": "low",
-        "help": "medium",
-        "materials": "ramp, tape, toy cars",
-        "best_for": "early STEM, measuring, prediction",
-        "steps": ["Roll a car.", "Mark where it stops.", "Try another car.", "Compare the marks."],
-        "parent": "Keep the rolling area clear.",
+        "time": "Open-ended",
+        "time_label": "Time not measured",
+        "mess": "Not measured",
+        "mess_label": "Mess not measured",
+        "help": "adult stays",
+        "help_label": "Adult sets up and stays",
+        "materials": "flat stiff cardboard, TWO broad sturdy closed books, 1 suitable intact owned freely rolling toy vehicle; no tape or loose marker required",
+        "best_for": "noticing a stopping spot, not measuring speed or choosing a winner",
+        "distance_start": True,
+        "guide_url": "../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start",
+        "guide_label": "Read the cardboard-ramp checks before handling",
+        "start_cue": "Adult stays. Stop: mouthing, throwing, support slips.",
+        "fit_cue": "Follow owned toy age, warning and use labels for EVERY reachable child. Use an intact freely rolling vehicle without small or detachable parts, magnets or batteries. Adult clears floor space with room for a natural stop, sets and stabilizes the low ramp, and stays beside all children. Skip for mouthing, younger reach you cannot control, unsuitable materials or unavailable attention. Point, watch or decline; no forced touching, counting or naming.",
+        "adult_setup_groups": [
+            ("Fit", "Follow owned toy age, warning and use labels for EVERY reachable child. Choose one intact freely rolling vehicle without small or detachable parts, magnets or batteries. No fit or uncertain labels? Choose another activity; do not buy a replacement for this start."),
+            ("Space and adult", "Clear a floor lane away from stairs, walkways, faces, feet, pets and breakables, with room for a natural stop. Adult sets and stabilizes the cardboard on TWO broad sturdy closed books and stays beside every reachable child. Skip for mouthing, younger reach you cannot control, unsuitable materials or unavailable attention. Point, watch or decline; no forced touch, counting or naming."),
+        ],
+        "adult_setup": "BEFORE child handling, read the full ramp checks. Adult makes the low floor setup and trials ONE car. Point to a repeatable starting spot; use the same part of the car at that spot each time. Let go WITHOUT pushing and wait for a natural stop. Point to the stopped position from beside the lane, then collect the car before any reset. No tape, loose marker or second car is required.",
+        "steps": [
+            "Put the SAME car at the adult's starting spot, or point for the adult. Let go WITHOUT pushing.",
+            "Wait for a natural stop, then point to the spot, watch or finish. Keep hands and feet out of the rolling lane.",
+            "Only if wanted, repeat with the SAME car, ramp, floor and release spot. The stop may be near the first spot, farther, closer or unclear; one roll is enough.",
+        ],
+        "stop": "Stop for climbing, throwing, mouthing, sliding supports, damaged parts, the car leaving the clear lane, discomfort or attention shifting.",
+        "parent_label": "Rescue and collection",
+        "parent": "A pushed, veering, blocked or not-off-ramp run is unclear, not a failed child or a winner. Adult may reset the SAME low setup once or end; no stronger push, taller support or forced repeat. Collect the car, books, cardboard and any spares, check the floor and store all materials out of reach. Setup, duration and mess have not been measured.",
+        "extension": "Later, an optional SECOND owned car needs its own label and condition checks. Keep the ramp, floor, release position and release method the same. Cars differ in several ways: do not claim that weight or size alone caused a result, that this is a calibrated fair test, or that a farther stop means higher speed. Pointing, free play or ending remains valid.",
+        "sources": [
+            ("PNC: wheeled trials and natural stopping marks", "https://www.pnc.com/en/about-pnc/corporate-responsibility/grow-up-great/lesson-center/transportation/rolling-with-ramps.html"),
+            ("PEEP: matching conditions and natural stops", "https://peepandthebigwideworld.com/en/educators/curriculum/center-based-educators/ramps/activity/stand-alone/491/rolling-on-different-surfaces-indoors/"),
+            ("PEEP: roll-out space and target context", "https://peepandthebigwideworld.com/en/educators/curriculum/center-based-educators/ramps/activity/stand-alone/489/steep-and-steeper/"),
+            ("PBS: written comparison context, not a watched video", "https://www.pbs.org/video/cars-ramps-jlzsqr/"),
+            ("AAP: owned toy labels, condition and parts", "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/how-to-buy-safe-toys.aspx"),
+        ],
+        "source_note": "Written sources checked October28,2026. PNC supplies wheeled trials/stopping marks, PEEP matching-condition/natural-stop/target context, and PBS written comparison context. Their balls, marbles, simultaneous races, escalating heights, taps, timers and fastest-result claims are not transferred. Our one-car, point-only first observation, optional repeat, roles, controls and unclear/end branches are editorial adaptations using the maintained cardboard guide, not a source-tested exact procedure. The old creator video was not watched or used as this procedure's authority. Research-backed, not family-tested by Kid Activity Lab. Owned fit, physical performance, understanding, enjoyment, learning, repeatability, time, mess and safety outcomes remain unknown. No product recommendation or safety assurance.",
     },
     "paper-plate-ramp": {
         "title": "Paper Plate Ramp",
@@ -884,7 +912,7 @@ PAGES = [
         "chooser_title": "Start here by parent situation",
         "chooser_label": "Age 4 at-home chooser",
         "chooser": [
-            ("I need a proven low-prep activity", ("Cardboard ramp parent guide", "../articles/cardboard-box-car-ramp-preschoolers.html"), "Google is already finding this page, and the setup is fast: cardboard, books, toy cars."),
+            ("A checked car-ramp start fits", ("Cardboard ramp parent guide", "../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start"), "Read owned-material and adult checks first; setup, play and cleanup time are not measured."),
             ("I want a 5-10 minute STEM challenge", ("Original age-4 STEM test pack", "../collections/original-stem-activities-for-4-year-olds.html"), "Five activities with parent jobs, kid steps, safety notes, and stop rules."),
             ("I want more STEM choices", ("STEM activities for 4 year olds", "../ages/stem-activities-for-4-year-olds.html"), "A broader chooser for ramps, bridges, shadows, towers, and water tests."),
             ("I want a pretend place", "Tape City or Magnetic Tile Builds", "Tape City starts with checked tape/surface and one optional flat block; adult stays. Quietness, mess and setup time are not measured. Magnetic Tile Builds has its own checks."),
@@ -892,11 +920,9 @@ PAGES = [
         "activity_overrides": {
             "car-ramp-distance-test": {
                 "title": "Cardboard ramp for toy cars",
-                "url": "../articles/cardboard-box-car-ramp-preschoolers.html",
-                "link_text": "Open ramp parent guide",
-                "materials": "cardboard, books, toy cars",
-                "steps": ["Lean cardboard on books.", "Roll one car.", "Change the ramp height.", "Mark where the car stops."],
-                "parent": "Keep the ramp low and do not let kids climb on the setup.",
+                "url": "../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start",
+                "link_text": "Open ramp parent guide at the checked start",
+                "suppress_late_link": True,
             },
             "paper-bridge": {
                 "title": "Bridge Rescue paper bridge",
@@ -1253,7 +1279,7 @@ PAGES = [
             ("NAEYC: Two Mathematical Heads Are Better than One", "https://www.naeyc.org/resources/pubs/yc/fall2022/peer-based-math-learning"),
             ("NAEYC: The Intentional Teacher excerpt", "https://www.naeyc.org/sites/default/files/globally-shared/downloads/PDFs/resources/pubs/intentional-teacher-third-edition-chap-1-excerpt.pdf"),
         ],
-        "activities": ["car-ramp-distance-test", "paper-bridge", "cardboard-car-ramp", "cup-tower", "magnetic-tile-ideas"],
+        "activities": ["paper-bridge", "cardboard-car-ramp", "cup-tower", "magnetic-tile-ideas"],
         "related": ["engineering activities for preschoolers", "science activities for preschoolers", "stem projects for preschoolers"],
     },
     {
@@ -1289,9 +1315,10 @@ PAGES = [
                 "help_label": "Adult stays involved",
                 "url": "../collections/original-stem-activities-for-4-year-olds.html#ramp-detective",
                 "link_text": "Open in original test pack",
-                "materials": "low ramp, towel or placemat, toy car",
-                "best_for": "ramps, prediction, measuring",
-                "steps": ["Roll on a plain ramp.", "Add one road surface.", "Guess what will happen.", "Mark where the car stops."],
+                "guide_url": "../collections/original-stem-activities-for-4-year-olds.html#before-start",
+                "guide_label": "Read original-pack material and stop checks before handling",
+                "best_for": "one plain roll first; optional surface observation in Ramp Detective",
+                "steps": ACTIVITIES["car-ramp-distance-test"]["steps"][:2] + ["For an OPTIONAL surface-change routine, use Ramp Detective in the original pack after its before-start checks. Adult selects and handles the towel or placemat, keeps car, ramp and release spot the same, and checks for slipping. A stuck, veering or unclear roll is a result; point, watch or end."],
             },
             "paper-bridge": {
                 "title": "Bridge Rescue paper bridge",
@@ -1453,15 +1480,16 @@ PAGES = [
             "car-ramp-distance-test": {
                 "slug": "car-ramp-distance-test",
                 "title": "Target Ramp",
-                "materials": "low ramp, one toy car, painter tape target",
-                "mission": "Change the ramp so the car stops as close as possible to the tape target.",
-                "adult_role": "Set a low ramp on the floor, test the tape first, and keep the rolling lane clear.",
-                "steps": ["Roll the car from the same starting spot.", "Put the target near where it stopped.", "Change one part of the ramp."],
-                "test": "After the change, does the car stop closer to the target?",
-                "redesign": "Raise or lower the ramp by one book and roll the same car again.",
-                "rescue": "Move the target closer and use a shorter rolling lane.",
-                "stop": "Stop if the ramp or books slide, cars leave the clear lane, or rolling becomes throwing.",
-                "parent": "Keep the ramp away from stairs, feet, pets, and breakable objects.",
+                "materials": ACTIVITIES["car-ramp-distance-test"]["materials"],
+                "mission": "Notice whether a car stops near a spot the adult points to; no target hit is required.",
+                "adult_role": ACTIVITIES["car-ramp-distance-test"]["adult_setup"],
+                "steps": ["Make one plain roll from the adult's starting spot WITHOUT pushing, or point for the adult.", "After the car stops, adult points to a nearby target spot from beside the lane, then moves the hand out before another roll. No tape or loose target object is needed.", "If wanted, release the SAME car again from the SAME spot on the SAME low setup. Watch where it stops or end."],
+                "test": "Nearer, farther, beside the target, not off the ramp or unclear are observations, not speed measurements or a guaranteed hit.",
+                "redesign": "Only after the car is collected, an adult may LOWER the support within the full guide's low, stable setup checks, then recheck before release. Do not add height, push harder or ask the child to move supports. If it will not stay stable, end.",
+                "rescue": ACTIVITIES["car-ramp-distance-test"]["parent"],
+                "stop": ACTIVITIES["car-ramp-distance-test"]["stop"],
+                "parent": ACTIVITIES["car-ramp-distance-test"]["fit_cue"],
+                "stop_before_action": True,
             },
             "ball-maze-box": {
                 "slug": "ball-maze-box",
@@ -1865,7 +1893,7 @@ def activity_card(activity):
         if activity.get("start_cue") else ""
     )
     early_link = f"\n            <p>{link}</p>" if activity.get("link_before_steps") else ""
-    late_link = "" if early_link else "          " + link
+    late_link = "" if early_link or activity.get("suppress_late_link") else "          " + link
     adult_setup = (
         f'\n          <p><strong>Adult setup:</strong> {esc(activity["adult_setup"])}</p>'
         if activity.get("adult_setup") else ""
@@ -1876,6 +1904,8 @@ def activity_card(activity):
             for label, text in activity["adult_setup_groups"]
         )
         adult_setup = '\n          <div class="activity-setup"><strong>Adult setup:</strong>' + setup_paragraphs + '</div>'
+    if activity.get("distance_start"):
+        adult_setup += f'\n          <p><strong>Stop:</strong> {esc(activity["stop"])}</p><p><strong>First model:</strong> {esc(activity["adult_setup"])}</p><p>Research-backed, not family-tested by Kid Activity Lab. Time, mess and physical outcomes are unknown.</p>'
     source_note = ""
     if activity.get("sources"):
         links = "; ".join(
@@ -1890,12 +1920,15 @@ def activity_card(activity):
         if activity["url"] == "../cards/pattern-path.html" else ""
     )
     guide_handoff = (
+        f'\n            <p><a href="{esc(activity["guide_url"])}">{esc(activity["guide_label"])}</a></p>'
+        if activity.get("distance_start") else
         '\n            <p><a href="../articles/painter-tape-road-kids.html">Full Painter\'s Tape Road guide</a> for surface, first road, rescue and removal checks before starting.</p>'
         if activity["url"] == "../cards/tape-city.html" else ""
     )
+    heading_support = start_cue + guide_handoff if activity.get("distance_start") else guide_handoff + start_cue
     return f'''        <article class="seo-activity">
           <div>
-            <h2>{esc(activity["title"])}</h2>{guide_handoff}{start_cue}{early_link}
+            <h2>{esc(activity["title"])}</h2>{heading_support}{early_link}
             <p>{esc(activity["best_for"])}</p>
             <div class="source-tags">
               <span class="tag">{esc(activity.get("age_label", activity["ages"] + " years"))}</span>
@@ -1925,13 +1958,21 @@ def engineering_activity_card(activity):
     early_stop = stop_html if activity.get("stop_before_action") else ""
     late_stop = "" if early_stop else stop_html
     source_note = ""
-    if activity["slug"] in {"box-garage", "wind-tower-test"}:
+    if activity["slug"] in {"box-garage", "wind-tower-test", "car-ramp-distance-test"}:
         links = "; ".join(f'<a href="{esc(url)}">{esc(label)}</a>' for label, url in activity["sources"])
         source_note = f'<details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
+    guide_handoff = (
+        '<p><a href="../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start">Read the cardboard-ramp checks before handling</a></p>'
+        if activity["slug"] == "car-ramp-distance-test" else ""
+    )
+    first_cue = (
+        f'<p class="distance-start-cue"><strong>{esc(ACTIVITIES["car-ramp-distance-test"]["start_cue"])}</strong></p>'
+        if activity["slug"] == "car-ramp-distance-test" else ""
+    )
     return f'''        <article class="seo-activity engineering-challenge" id="{esc(activity["slug"])}">
           <div>
             <p class="challenge-label">Challenge</p>
-            <h2>{esc(activity["title"])}</h2>{early_stop}
+            <h2>{esc(activity["title"])}</h2>{first_cue}{early_stop}{guide_handoff}
             <p class="challenge-mission"><strong>Kid mission:</strong> {esc(activity["mission"])}</p>
             <div class="source-tags">
               <span class="tag">Editorial range: ages 4-6</span>

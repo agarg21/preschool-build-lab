@@ -40,7 +40,7 @@ test("reviewed empty-boat module remains exactly frozen", () => {
   assert.equal(createHash("sha256").update(article("tiny-boat-cargo-test")).digest("hex"), "815a41c350555e43d4f9acdf128a29ae1fa893e1ddacef696ba2b3c512bc2af5");
 });
 
-test("age-hub four local overrides qualify timing and effort without changing shared defaults", () => {
+test("age-hub four local overrides qualify timing and effort while preserving peer defaults", () => {
   const result = JSON.parse(execFileSync("python3", ["-c", `import runpy,json
 g=runpy.run_path('scripts/generate_seo_pages.py')
 p=next(p for p in g['PAGES'] if p['path']=='ages/stem-activities-for-4-year-olds.html')
@@ -52,7 +52,7 @@ print(json.dumps({'local':[g['page_activity'](p,k) for k in keys], 'global':[g['
     assert.equal(row.mess_label, "Dry setup; cleanup varies");
     assert.equal(row.help_label, "Adult stays involved");
   }
-  assert.deepEqual(result.global.map(row => row.time), ["5 min", "3 min", "Open-ended", "Open-ended"]);
+  assert.deepEqual(result.global.map(row => row.time), ["Open-ended", "3 min", "Open-ended", "Open-ended"]);
   assert.equal(age.split('class="tag">Time not measured</span>').length - 1, 4);
   assert.doesNotMatch(age, /fast reset|Calm, low mess|Adult stays involved help/);
 });

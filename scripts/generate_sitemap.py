@@ -9,6 +9,7 @@ BASE_URL = "https://kidactivitylab.com"
 NON_CONTENT_HTML = {"googled495b3fc6f0765f8.html"}
 LEGACY_REDIRECT_HTML = {"collections/rainy-day-activities-for-preschoolers.html"}
 CONTENT_LASTMODS = {
+    "cards/car-ramp-distance-test.html": "2026-10-28",
     "cards/tape-city.html": "2026-10-28",
     "cards/block-tower.html": "2026-10-28",
     "cards/tape-train-tracks.html": "2026-10-28",
@@ -47,7 +48,7 @@ CONTENT_LASTMODS = {
     "cards/paper-bridge.html": "2026-10-10",
     "cards/tape-road.html": "2026-10-05",
     "cards/foil-boat-test.html": "2026-09-24",
-    "ages/stem-activities-for-4-year-olds.html": "2026-10-27",
+    "ages/stem-activities-for-4-year-olds.html": "2026-10-28",
     "collections/original-stem-activities-for-4-year-olds.html": "2026-10-27",
     "articles/paper-bridge-challenge-kids.html": "2026-09-26",
     "cards/paper-chain-test.html": "2026-10-15",
@@ -61,7 +62,7 @@ CONTENT_LASTMODS = {
     "collections/stem-activities-for-preschoolers.html": "2026-10-27",
     "articles/cardboard-ball-maze-kids.html": "2026-10-01",
     "articles/painter-tape-road-kids.html": "2026-09-15",
-    "collections/engineering-activities-for-4-year-olds.html": "2026-10-27",
+    "collections/engineering-activities-for-4-year-olds.html": "2026-10-28",
     "collections/indoor-activities-for-preschoolers.html": "2026-10-27",
 }
 

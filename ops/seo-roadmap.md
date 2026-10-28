@@ -1,5 +1,7 @@
 # Kid Activity Lab Operator Roadmap
 
+IMP063 Herschel fresh full25/cycle1 PASS/noP0-P3/Master249-independent248; [repair/review receipt](../reviews/car-ramp-distance-first-start-repair-2026-10-28.md). Local17bytes48modes/all3twice/conservation/structured pass, eight-owner controlledstart/handoffs, same13card24/26/no familyclaim. Fresh exact reviewed release/exactSHA production next, actual10:56:02/count0/deadline11:41:02; maintaineddepth/pack/actualSTEM+indoor/peers preserved.
+
 RES083 COMPLETED learned-onlyc710edc/Hooke final full7PASS/native245/docs-only main aligned10:51:34Z; [release/next brief](../reviews/car-ramp-distance-first-start-audit-2026-10-28.md). Qualifies next-run eight-owner distance repair; no newURL/site/physical-family delivery. Completed3/no fourth/original10:02clock retained; actual STEM and indoor outputs preserved, no known dependency blocker.
 
 RES083 Hooke full7/cycle1 PASS_WITH_P3, two ownership sentences fixed/final bounded cycle2 PASS/no findings; Master245/independent244. [Receipt](../reviews/car-ramp-distance-first-start-audit-2026-10-28.md). Reviewer/browser closed, no server. Fresh exact docs-only main release next, original10:02/count2/third-final/no fourth; approved brief is not a site release.

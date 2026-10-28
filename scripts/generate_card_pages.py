@@ -291,6 +291,8 @@ def page(row, slug):
         return paper_roll_card_page(row)
     if slug == "paper-plate-ramp":
         return paper_plate_pause_page()
+    if slug == "car-ramp-distance-test":
+        return car_ramp_distance_page()
     is_tape_road = slug == "tape-road"
     steps = [row[f"kid_step_{i}"] for i in range(1, 5) if row.get(f"kid_step_{i}")]
     step_html = "\n".join(
@@ -696,6 +698,50 @@ def foil_boat_page():
 '''
 
 
+def car_ramp_distance_page():
+    activity = ACTIVITIES["car-ramp-distance-test"]
+    checks = "".join(f'<p><strong>{esc(label)}:</strong> {esc(text)}</p>' for label, text in activity["adult_setup_groups"])
+    steps = "".join(f'<li>{esc(step)}</li>' for step in activity["steps"])
+    sources = "; ".join(f'<a href="{esc(url)}">{esc(label)}</a>' for label, url in activity["sources"])
+    routes = related_routes_html("car-ramp-distance-test", include_guide=False, max_links=2)
+    return f'''<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Car Ramp Distance Test Activity Card | Kid Activity Lab</title>
+    <meta name="description" content="One checked car-ramp stopping observation, with adult setup, no-push release, optional repeat and unclear/end choices. Research-backed, not family-tested.">
+    <link rel="canonical" href="https://kidactivitylab.com/cards/car-ramp-distance-test.html">
+    <link rel="stylesheet" href="../styles.css?v=nav-stable-2">
+    <style>.distance-card {{ max-width: 720px; margin: 0 auto; overflow-wrap: anywhere; }} .distance-card h1 {{ font-size: min(1.7rem, 43px); line-height: 1.15; }} .distance-card h2 {{ font-size: 1.15rem; }} .distance-card li {{ margin-bottom: 0.7rem; }}</style>
+  </head>
+  <body>
+    <header class="site-header"><nav class="nav" aria-label="Main navigation"><a class="brand" href="/">Kid Activity Lab</a><div class="nav-links"><a href="/">Home</a><a href="../original/">Original</a><a href="../cards.html">Cards</a></div></nav></header>
+    <main class="card-shell">
+      <article class="kid-card distance-card">
+        <p class="kicker">One car</p>
+        <h1>Car Ramp Distance Test</h1>
+        <p class="distance-start-cue"><strong>{esc(activity["start_cue"])}</strong></p>
+        <p><a href="{esc(activity["guide_url"])}">{esc(activity["guide_label"])}</a></p>
+        <p>{esc(activity["best_for"]).capitalize()}. Research-backed, not family-tested by Kid Activity Lab. Time and mess are not measured.</p>
+        <p><strong>Need:</strong> {esc(activity["materials"])}</p>
+        {checks}
+        <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
+        <p><strong>Adult model:</strong> {esc(activity["adult_setup"])}</p>
+        <h2>Release once and notice</h2>
+        <ol class="distance-steps">{steps}</ol>
+        <p><strong>Rescue and collection:</strong> {esc(activity["parent"])}</p>
+        <details><summary>Optional different-car observation</summary><p>{esc(activity["extension"])}</p></details>
+        <details><summary>Sources and testing status</summary><p>{sources}.</p><p>{esc(activity["source_note"])}</p></details>
+{routes}
+      </article>
+    </main>
+    <footer class="site-footer"><p><a href="../cards.html">Back to activity cards</a></p></footer>
+  </body>
+</html>
+'''
+
+
 def paper_plate_pause_page():
     activity = ACTIVITIES["paper-plate-ramp"]
     return f'''<!doctype html>
@@ -1078,6 +1124,8 @@ def cards_index():
             if slug == "magnet-hunt" else
             "Paused; cardboard-ramp alternative uses different materials"
             if slug == "paper-plate-ramp" else
+            f'Adult checks, releases and stays; point to a natural stop | {activity["time"]} · {activity["materials"]}'
+            if slug == "car-ramp-distance-test" else
             f'Toy-only, adult stays beside | {activity["time"]} · {activity["materials"]}'
             if slug == "blanket-river" else
             f'One-car no-cut start, adult stays beside | {activity["time"]} · {activity["materials"]}'
