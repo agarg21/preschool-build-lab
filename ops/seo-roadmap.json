@@ -9,7 +9,7 @@
       "id": "KAL-IMP-068",
       "title": "Make paper bridge hub task changes and checked-card handoffs explicit",
       "kind": "existing-owner-handoff-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "a943165b6f25b6dfdfc238269b83e03614792fe9",
       "exact_paths": [
@@ -44,12 +44,15 @@
       "invariants": "No card/guide/newURL/asset/CSV/config/globalstyle/otherowner change; no new qualification/demand/products/paid/indexing/tracking/ControlRoom/automation. Dates alreadyOct28 no sitemapchurn. Allphysical-family/time-mess-safety-learning/SEO/AT/truezoom UNKNOWN.",
       "observation_window": "Selected2026-10-28T15:38:33Z; sameactual14:58:11/completed2/deadline15:43:11/max3. Thirdtransaction mayfinishafterdeadline; do notstartfourth. November1synthesis/October30restoration/globalcutoff unchanged.",
       "reconsider_if": "Criticalsource/control/route/ownership/peer/privacy contradiction or productionregression; stop ambiguousrollback; preregister required additionalfixtures beforeedits.",
-      "phase": "independent-pass-exact-release-pending",
+      "phase": "production-verified",
+      "release_commit": "d5e80886c81a61af72ed071cb7cb9cebc7a7d91c",
+      "pages_run": "40720346574",
+      "production_evidence": "ExactSHA PagesSUCCESS/headreadback; live2026-10-28T15:54:18Z 8bytes8modes9incomingkey6touch18outkey12touchBack4noJS,9PNGbyteidentical/vieweddesktopmobile15:54:46Z. No marker exists; exactSHA+bytes. No retry/regression. Server/reviewer/browserclosed.",
       "reviewer": "01a18332-518e-7542-8c2e-8ebd5e70e13f",
       "review_verdict": "PASS cycle1/noP0-P3/full15 frozen unchanged; Master269/independent268; localmatrix reproduced",
       "artifact": "reviews/paper-bridge-hub-handoff-repair-2026-10-28.md",
       "scope_amendment": "Two existing fixture paths registered BEFORE edits; exact15. Preserve oldarticleclass; splitchooser count/targethandoff assertions, allpeerchecks retained. Engineering generic process/header runnable-only exception reconciled within registeredsource/output.",
-      "next_action": "Exact15 structuredprivacyEOF/freeze/freshdifferent full15review/exactmainrelease/exactSHA Pages/livebytes-task-visuals/factualcloseout/alignment. Originalstartdeadline15:43:11 expired; finish third only/no fourth."
+      "next_action": "Next eligible heartbeat: actualUTC/New_York/guard/checkpoint/freshremote/newGSC, then check retained Straw Span/Engineering Straw Bridge first-joint/load-source qualification lineage before registering any missing-gate research. Do not repeat completed arrival/copy checks, presume a pause/newURL, or start a fourth action now."
     },
     {
       "id": "KAL-RES-088",
