@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-086",
+      "title": "Resolve generic Magnetic Tile Builds first-wall/roof and Connected Rooms job lineage",
+      "kind": "existing-owner-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "0c99c4e3b3071815d27c71dd9ac0b39203c80fd7",
+      "exact_paths": [
+        "reviews/magnetic-tile-builds-first-start-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "IMP065a053c50/Pages40695302005 fully delivered and factualcloseout0c99c4e pushed/freshmainclean0/0 at13:21:59Z. RES085 explicitly left generic TileBuilds/ConnectedRooms UNQUALIFIED preserved peers. Exact target path history only IMP038 contributor credits, not mechanism qualification. Real CSVcard Picktiles/Makewall/Addroof/Knockdown versus canonical Change shape and intentional two-room override require their OWN lineage; flat-house source cannot qualify them. Current public GSC stillOct27, no new snapshot or exact keyword match; absence not zero.",
+      "parent_problem": "Caregiver with owned tiles needs concrete pieces, first placement/join, controlled wall/roof or two-room meaning, all-reachable-child roles and observable reset/end, not unsupported independence or teardown. Distinguish generic building job from already qualified different flat picture and different box/car toy-entry task.",
+      "hypothesis": "Current primary written/visual reconciliation plus actual-owner persona task can resolve preserve/improve/pause/defer and an exact separate brief for generic TileBuilds and ConnectedRooms without reopening the completed flat-house task.",
+      "acceptance": "Inspect one live generic/two-room query family and primary bodies/required visuals; inventory actualCSV/canonical/overrides/manual/discovery owners and compare released source lineage. Four source-traced lenses/everysection/all13 baseline/desktopmobile-root32-keytouchBack-finder-noJS. Return one supported disposition and exact separate implementation scope or named unresolved gates; no prechosen generic recipe/newURL or demand proof.",
+      "qa_plan": "Full257/jq/diffcheck/JSONCSV-GSC-IDs-docrefs/privacy-singleEOF/exact7/site-code-data-config unchanged; freshdifferent full7read-onlyreview/P0-P2<=3cycles/PASS-PASS_WITH_P3/freshfetch-no divergence/exactfrozenstage-completeunpushedrange/docs-onlymainpush/factualcloseout/alignment. A qualified build separately registered promptly within original13:44:25.176/count<=3, else nexteligible; no silent scope expansion.",
+      "invariants": "Research-only7. Preserve released flatHouse/BoxGarage/actualIndoor/all site-code-data-config/counts/URLs/credits. No new paid/product/indexing/tracking/outreach/automation/ControlRoom change. Do not repeat RES085 or infer its flat geometry qualifies generic3D/two rooms. No watchedcreator/physical-family/owned-fit/safety/engagement/learning/demand/rank claim invented.",
+      "observation_window": "Same conservative EARLIER12:59:25.176Z bound, actualverified13:21:59Z/09:21:59EDT/completed1/deadline13:44:25.176Z/max3. IMP065 fully delivered/factualcloseout0c99c4e pushed/clean0-0; no active reviewer/browser/server/release/newredirect. November1/October30/globalcutoff retained.",
+      "reconsider_if": "Prior exact mechanism qualification found, current primary lineage resolves ordinary job without change, critical task/source or privacy/peer/P0-P2/divergence. No family-test prerequisite or thin/newURL assumption.",
+      "blockers": "None known; exact owned fit/physical-family outcomes UNKNOWN.",
+      "independent_review": "Cycle1 fresh reviewer01a182b5-da02-71c1-9d19-3c0d9e8af8f3 FAIL/oneP2: three surrounding NoCut cues omitted. Audit/everysection/brief now explicitly reconcile intro invitation, small-piece-only boundary and quick-magnet-check cue plus focused ALL6surface rendered-copy/actualroute QA; unrelated peers preserved/no universalunsafe claim. Independent256/sourcePDFcurrentbytes/52modes/fourcapturematches/structured/privacyEOF and all650repo99site unchanged passed. Legacy lesson text provider-cached/direct endpoints404 noted. Bounded cycle2 pending; no sitechange or third action after original conservative13:44:25.176 deadline.",
+      "review_receipt": "Independent Codex reviewer01a182b5-da02-71c1-9d19-3c0d9e8af8f3 (Ramanujan), fresh full7/cycle1 FAIL/soleP2 NoCut surrounding cues; bounded cycle2 PASS/no remainingP0-P3. Audit/everysection/exactbrief and allsixmetadata now cover ALL6NoCut surfaces including intro35/smallpiece83/quickmagnetcheck87 with focused renderedcopy/actualkeytouchBack QA; unrelated peers/no universalunsafe boundary preserved. All7newhashes/HEAD/650files unchanged during cycle2; outside7 and all99site unchanged fromcycle1. Independent256/native only exact date-mutating sitemap testNAME excluded;15bytes52modes32late/27incomingkey18touchBack/9outkey6touchBack/finder13noJS/fourbaseline screenshots byte-identical/currentBCP+challengePDF bytes/visuals/177IDs549MDrefs105JSON19CSV3oldblanks9AST100GSC/73HTML1021refs99frags8LD66URLs/privacy-singleEOF-whitespace/priorroadmap conservation PASS. Cycle2 did not rerun old native-browser-source checks; retained fromcycle1, no new materialsource. Legacy lesson providercache/direct404 limitation explicit. Sourcevideo throttled/notwatched/no contradiction, no physical-family/AT/truezoom/allword-console/sourceabsence/universalunsafe claim. Reviewerbrowser closed/no writes/server. Master257 distinct. Originaldeadline13:44:25.176 expired; exact docs release/factualcloseout/alignment only, qualifiedbuild NEXTeligible/no third.",
+      "phase": "independent-pass-docs-release-pending-finish-only",
+      "next_action": "Current primary generic/two-room query bodies/necessary visuals and actualowner task, disposition/exactseparatebrief, native/structured/different full7review/docs-only release/factualcloseout/alignment; any implementation separately within original guard."
+    },
+    {
       "id": "KAL-IMP-065",
       "title": "Replace unqualified standing house with disclosed flat-picture choice and distinct Toy Home handoff",
       "kind": "existing-owner-implementation",
