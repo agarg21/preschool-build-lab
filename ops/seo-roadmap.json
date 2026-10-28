@@ -9,7 +9,7 @@
       "id": "KAL-RES-078",
       "title": "Qualify LEGO Color Tower material and first-sort handoffs",
       "kind": "existing-owner-source-task-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "7bd50522afa2f7aa8fa27c1103d880824ecfe456",
       "exact_paths": [
@@ -37,10 +37,10 @@
       "observation_window": "Sameheartbeat04:06:53.241Z/immutableactual04:06:59Z NYOctober28/completed2/third-final/no fourth/startdeadline04:51:59Z. IMP057fdc4e15/Pages40632130385/closeout6f4200d and RES077db23daa/closeout7bd5052 complete; freshmainclean0/0. November1/October30 retained.",
       "reconsider_if": "Prior exact completedqualification/source-visual/material conflict/criticalcontrolunknown/adequate existingmaintainedowner. Preserve/pause rather than invent joint/colorreadiness/recipe. P0-P2/privacy/peerdrift/divergence stoprelease.",
       "blockers": "No dependency blocker for research; owned brick suitability/fit and child outcomes UNKNOWN, not generic DUPLO guarantee.",
-      "next_action": "Native225/exact7structured-privacy-EOF/currentbody/task review/differentfull7review/fresh docs-only release/alignment; next eligible heartbeat separately register repair, no fourth.",
-      "phase": "review-passed-release",
+      "next_action": "Next eligible heartbeat separately register seven actual Color Tower owner sorting-first repair plus target phantom preschool declaration correction from reviewed audit; preserve actual preschool bytes/CSV/DUPLOcopy/Pattern/peers. Completed3/no fourth; do not repeat qualification absent named gap.",
+      "phase": "released",
       "decision": "IMPROVE seven actual Color Tower owners separately to sorting-first/four owned large DUPLO/two visible color seeds/optional two-high pair stacks with early fit-role-reach/point-watch-decline/flat-end/collection and untested limits. Preserve titles/URLs/CSV/maintained peers; remove only phantom preschool declaration, preschool bytes unchanged. DEFER newURL; no creator/physical/child/product assurance.",
-      "qa_result": "RES078 Master225/jq/onechangedJSON/161uniqueIDs/383localdocrefs/GSC100/privacy/exact7/EOF/whitespace PASS. Two PDFs/text/three local renders/current manufacturer-label-limited landing/RCN/AAP bodies, source_id CSV parsed after corrected column; 11live200bytes/28modes/24latechecks/18incomingkeyboardBack/exact1-zero-keyboardClear36focus/sevenNoJS/cardroot32wordranges and390full-320top viewed. Preschool phantom independently inventoried; no current overflow or broken video inferred, embeds deliberately blocked. Allsite/code/data/CSV/config unchanged. Different full7review/fresh exact docs-only release pending; same04:06:59Z/completed2/third-final/no fourth/deadline04:51:59Z.",
+      "qa_result": "RES078 Master225/jq/onechangedJSON/161uniqueIDs/383localdocrefs/GSC100/privacy/exact7/EOF/whitespace PASS. Two PDFs/text/three local renders/current manufacturer-label-limited landing/RCN/AAP bodies, source_id CSV parsed after corrected column; 11live200bytes/28modes/24latechecks/18incomingkeyboardBack/exact1-zero-keyboardClear36focus/sevenNoJS/cardroot32wordranges and390full-320top viewed. Preschool phantom independently inventoried; no current overflow or broken video inferred, embeds deliberately blocked. Allsite/code/data/CSV/config unchanged. Beauvoir finalPASS and fresh exact docs-only release/alignment complete; same04:06:59Z/completed2/third-final/no fourth/deadline04:51:59Z.",
       "independent_review": {
         "reviewer": "Beauvoir",
         "id": "01a180d2-ecd2-7d21-83d2-88ab65fecca5",
@@ -48,7 +48,15 @@
         "cycles": 2,
         "findings": "Sole P3 undated-source label corrected; no remaining P0-P3",
         "receipt": "Beauvoir (01a180d2-ecd2-7d21-83d2-88ab65fecca5), fresh independent final full7 plus sole-phrase confirmation cycle2/3 PASS/no remainingP0-P3. Ledger source-date P3 corrected to undated inspectedOctober28; reversephrase reproduces originalledger, other6/HEAD intact. Independently224nonmutating/GSC100-161IDs-383refs/exact7-JSONpreservation/privacy-EOF-whitespace/canonicalCSV-actual5hubs-phantompreschool-route/11production200bytes/28modes-24late-18incomingBack-sevenNoJS-finder exact1-zero-Clear36focus/twoPDFbytehashes-text-threevisuals-two cardcaptures/fourlenses-everysection-all13 legacy5/26 pass. No generator mains/repo edits/sourcevideo/physical-family/AT/truezoom/build/release proof. Reviewer browser closed; Master225 distinct, fresh exact docs-only release next. Same04:06:59Z/completed2/third-final/no fourth/deadline04:51:59Z."
-      }
+      },
+      "completed_on": "2026-10-28",
+      "release": {
+        "commit": "e0127293e2c56518a5e763e605fbd223b0596d29",
+        "type": "docs-only",
+        "verification": "Fresh postpushfetch/mainclean0/0; frozen7/stagedwhitespace exit0/fullunpushedrange identity; no Pages wait",
+        "range_hash": "fdde664fb12c1cff09938af640575b37041979d3ef23e90fb5915d63dbc58013"
+      },
+      "completion_receipt": "COMPLETED learned-only e0127293e2c56518a5e763e605fbd223b0596d29: Beauvoir final full7/sole-phrase PASS/no remainingP0-P3; Master225/reviewer224/exact7-161IDs-383refs-GSC100/privacy/EOF/stagedwhitespace exit0. Fresh fetch/no divergence/emptyunpushed/frozenstage/fullcommittedrange identity passed; docs-onlymainpush/postpush freshmainclean0/0 confirmed. Qualifies next eligible separate seven-owner Color Tower sorting-first repair plus target phantom-preschool-route correction, not a released site change/newURL/physical-family outcome. Completed3; no fourth. Reviewer/browsers closed; no active server/release. Next register reviewed repair, preserve preschoolbytes/CSV/DUPLOcopy/Pattern/peers, no repeated qualification absent named gap. November1/October30 unchanged."
     },
     {
       "id": "KAL-RES-077",
