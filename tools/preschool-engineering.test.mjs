@@ -112,7 +112,7 @@ test("chooser, engineering loop, and all nine challenges are complete", () => {
       ["Paper Bridge", "#paper-bridge"],
       ["Empty Foil Boat", "#foil-boat-test"],
       ["Wind Tower", "#wind-tower-test"],
-      ["Cup Doorway", "#cup-tower"],
+      ["Cup Doorway (paused)", "#cup-tower"],
       ["Target Ramp", "#car-ramp-distance-test"],
       ["Box Garage", "#box-garage"],
       ["Straw Bridge", "#straw-bridge"],
@@ -129,6 +129,15 @@ test("chooser, engineering loop, and all nine challenges are complete", () => {
   const challenges = [...html.matchAll(/<article class="seo-activity engineering-challenge" id="([^"]+)">([\s\S]*?)<\/article>/g)];
   assert.deepEqual(challenges.map((match) => match[1]), challengeSlugs);
   for (const [slug, body] of challenges.map((match) => [match[1], match[2]])) {
+    if (slug === "cup-tower") {
+      assert.match(body, /Cup doorway version paused/);
+      assert.match(body, /Do not start this version/);
+      assert.match(body, /Different Cup Tower stacking/);
+      assert.match(body, /Different one-car Box Garage/);
+      assert.match(body, /BEFORE handling/);
+      assert.doesNotMatch(body, /<li>|Open the base activity card|Place one cup across/);
+      continue;
+    }
     for (const label of ["Kid mission:", "Adult setup:", "Test", "First change", "If the build stalls", "Stop:", "Parent check:"]) {
       assert.ok(body.includes(label), `${slug} is missing ${label}`);
     }

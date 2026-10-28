@@ -1446,7 +1446,7 @@ PAGES = [
         "chooser": [
             ("Paper and a toy car", ("Paper Bridge", "#paper-bridge"), "Set two low books in place, then let the child own the bridge."),
             ("A tray can get wet", ("Empty Foil Boat", "#foil-boat-test"), "An adult stays beside the tray; try an empty hull, no cargo."),
-            ("Blocks or cups are ready", [("Wind Tower", "#wind-tower-test"), ("Cup Doorway", "#cup-tower")], "Keep the build low and run one gentle test."),
+            ("Blocks or cups are ready", [("Wind Tower", "#wind-tower-test"), ("Cup Doorway (paused)", "#cup-tower")], "Wind Tower: Keep the build low and run one gentle test. Cup Doorway is paused; read a different choice's checks before handling or decline."),
             ("Toy cars are the hook", [("Target Ramp", "#car-ramp-distance-test"), ("Box Garage", "#box-garage")], "Set the boundary or target; let the child decide the change."),
             ("The child wants more building", [("Straw Bridge", "#straw-bridge"), ("Ball Maze", "#ball-maze-box")], "Handle cutting or tape and leave the layout decisions to the child."),
         ],
@@ -1573,15 +1573,8 @@ PAGES = [
             "cup-tower": {
                 "slug": "cup-tower",
                 "title": "Cup Doorway",
-                "materials": "six lightweight paper cups, one toy car",
-                "mission": "Build a cup doorway that stands while the toy car drives through it.",
-                "adult_role": "Choose light cups, set the build on the floor, and keep the car lane short.",
-                "steps": ["Build two short cup walls.", "Place one cup across the top.", "Drive the car through the opening."],
-                "test": "Can the car pass through without touching the cup walls?",
-                "redesign": "Move the two walls farther apart and rebuild the top.",
-                "rescue": "Remove the top cup and make a wide gate first.",
-                "stop": "Stop if cups are thrown, crushed into sharp edges, or used as steps.",
-                "parent": "Use empty lightweight cups only and keep the structure below the child's shoulders.",
+                "cup_doorway_pause": True,
+                "steps": [],
             },
         },
         "activities": ["paper-bridge", "straw-bridge", "foil-boat-test", "paper-chain-test", "wind-tower-test", "car-ramp-distance-test", "ball-maze-box", "box-garage", "cup-tower"],
@@ -1654,19 +1647,20 @@ PAGES = [
         "building_layout": True,
         "evidence_note": "Kid Activity Lab created this chooser from current source and search research. We have not family-tested these setups. The age-four route, material choices, adult roles, rescue steps, and stop boundaries are editorial guidance; timing, mess, engagement, learning, repeatability, and safety outcomes are unknown.",
         "readiness_note": "Choose materials that are appropriate for the youngest child who can reach the build. Remove cracked or damaged materials and any piece with an exposed magnet. If any child may mouth materials, stay within reach and watch continuously; skip straws, loose tape, and other loose pieces and use larger solid blocks instead. The Wide-Base Tower below instead requires skipping for mouthing or younger reach you cannot control; larger blocks do not remove its checks. The different flat house picture and Box Garage also require skipping for mouthing or uncertain reach; the larger-block/watch suggestion does NOT override either activity's checks.",
+        "image_warning": "Cup Doorway is paused. Do not copy the cup-over-gap depiction in this illustration; it is not a qualified setup. Material checks do not supply its missing instructions.",
         "image": {
             "src": "../assets/preschool-building/building-material-chooser.webp",
             "alt": "Illustration of large blocks, paper cups, a paper bridge, a cardboard-tube sculpture, and a blanket path as preschool building material choices.",
             "width": "1672",
             "height": "941",
-            "caption": "Illustrated material routes, not a Kid Activity Lab family-test photo or a product recommendation. The blanket path is a toy-only material prompt, not the three-block start below or a child-bearing route.",
+            "caption": "Illustrated material routes, not a Kid Activity Lab family-test photo or a product recommendation. The cup-doorway depiction is withdrawn as instructions; do not copy it. The blanket path is a toy-only material prompt, not the three-block start below or a child-bearing route.",
         },
         "chooser_title": "Choose by what is ready and what to build",
         "chooser_label": "Preschool building activity chooser",
         "chooser": [
             ("Already-open box and suitable owned car (DIFFERENT materials)", ("Toy Home", "#magnetic-tile-house"), "Read the maintained Box Garage checks before handling; skip if fit, reach or adult attention is uncertain."),
             ("Large blocks", ("Wide-Base Tower", "#block-tower"), "Wide-Base Tower needs three checked matching blocks; adult models and stays."),
-            ("Paper cups", ("Cup Doorway", "#cup-tower"), "Keep the build on the floor and the toy lane short."),
+            ("Paper cups", ("Cup Doorway (paused)", "#cup-tower"), "Do not start this doorway. Read a different choice's checks before handling or decline."),
             ("Paper, straws, or two low books", [("Paper Path", "#paper-bridge"), ("Straw Span", "#straw-bridge")], "Set the supports; handle cutting or tape."),
             ("Two whole tubes, cardboard base and owned painter tape", ("Tube Sculpture", "#tube-sculpture"), "Adult checks and attaches; child chooses a low arrangement or points. Untaped or end if tape fails."),
             ("Blanket, three large blocks and one large toy", ("Blanket Crossing", "#blanket-river"), "Adult stays beside a tiny toy-only crossing; never for feet."),
@@ -1712,13 +1706,8 @@ PAGES = [
                 "slug": "cup-tower",
                 "title": "Cup Doorway",
                 "job": "Make an opening",
-                "materials": "six lightweight paper cups, one large toy car or figure",
-                "mission": "Make a doorway wide enough for the toy to pass through.",
-                "adult_role": "Use empty lightweight cups and place the toy on a short floor lane.",
-                "steps": ["Make two short cup walls.", "Place one cup across the top.", "Move the toy through the opening."],
-                "rescue": "Remove the top cup and make a wide gate first.",
-                "stop": "Stop if cups are thrown, crushed into sharp edges, or used as steps.",
-                "parent": "Discard torn cups and keep the structure below the child's shoulders.",
+                "cup_doorway_pause": True,
+                "steps": [],
             },
             "paper-bridge": {
                 "slug": "paper-bridge",
@@ -2004,7 +1993,23 @@ def activity_card(activity):
         </article>'''
 
 
+def cup_doorway_pause_card(activity, layout):
+    return f'''        <article class="seo-activity {layout}" id="{esc(activity["slug"])}">
+          <p class="challenge-label">Cup doorway version paused</p>
+          <h2>{esc(activity["title"])}</h2>
+          <p class="cup-doorway-pause-cue"><strong>Do not start this version.</strong></p>
+          <p>Our old six-cup doorway instructions do not establish the cup orientation, first support or toy clearance. Neither the top-cup step nor its open-gate rescue is a qualified start here. This is not a finding that no cup doorway can work.</p>
+          <p>BEFORE handling, open the chosen activity and read its owned-material, adult-role, stop and collection checks for EVERY reachable child, or decline. Adult stays beside the setup. Skip for mouthing, uncertain fit or reach, or unavailable adult attention.</p>
+          <p><a href="../cards/cup-tower.html">Different Cup Tower stacking</a>: two checked matching paper cups; no toy opening.</p>
+          <p><a href="../cards/box-garage.html">Different one-car Box Garage</a>: DIFFERENT materials, an already-open box and a suitable owned car; ONE park-and-out job. Do not substitute cups into that recipe.</p>
+          <p>Neither choice fulfills the paused cup-doorway job. Research-backed decision, not family-tested by Kid Activity Lab. Time, mess and physical outcomes are unknown.</p>
+          <p>Research limits: <a href="https://discovere.org/engineering-activities/tallest-cup-tower/">DiscoverE's cup tower</a> and <a href="https://resourcehub.bostonchildrensmuseum.org/resources/cup-creations">Boston Children's Museum's cup challenges</a> describe other building tasks, not these missing doorway instructions.</p>
+        </article>'''
+
+
 def engineering_activity_card(activity):
+    if activity.get("cup_doorway_pause"):
+        return cup_doorway_pause_card(activity, "engineering-challenge")
     steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
     link = ""
     if activity["url"]:
@@ -2051,6 +2056,8 @@ def engineering_activity_card(activity):
 
 
 def building_activity_card(activity):
+    if activity.get("cup_doorway_pause"):
+        return cup_doorway_pause_card(activity, "building-build")
     if activity.get("tile_build_pause"):
         return f'''        <article class="seo-activity building-build" id="{esc(activity["slug"])}">
           <p class="challenge-label">{esc(activity["job"])}</p>
@@ -2411,6 +2418,7 @@ def engineering_page_html(page):
 
 def building_page_html(page):
     root = rel_root(page["path"])
+    image_warning = f'<p class="building-image-warning"><strong>{esc(page["image_warning"])}</strong></p>' if page.get("image_warning") else ""
     tip_link = f'<p><a href="{esc(page["tip_link"][1])}">{esc(page["tip_link"][0])}</a></p>' if page.get("tip_link") else ""
     head_style = f'\n    <style>{page["head_style"]}</style>' if page.get("head_style") else ""
     activity_html = "\n".join(
@@ -2486,6 +2494,7 @@ def building_page_html(page):
           <p>{esc(page["readiness_note"])}</p>
         </div>
 
+        {image_warning}
         <figure class="building-visual">
           <img src="{esc(image["src"])}" alt="{esc(image["alt"])}" width="{esc(image["width"])}" height="{esc(image["height"])}">
           <figcaption>{esc(image["caption"])}</figcaption>

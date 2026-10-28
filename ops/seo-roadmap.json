@@ -6,6 +6,48 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-067",
+      "title": "Pause unsupported Cup Doorway starts and distinguish maintained alternatives",
+      "kind": "existing-owner-implementation",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "b7547be851ff65012c20891e98658ddc8a454604",
+      "exact_paths": [
+        "scripts/generate_seo_pages.py",
+        "site/collections/building-activities-for-4-year-olds.html",
+        "site/collections/engineering-activities-for-4-year-olds.html",
+        "tools/preschool-building.test.mjs",
+        "tools/preschool-engineering.test.mjs",
+        "tools/cup-doorway-pause.test.mjs",
+        "reviews/cup-doorway-pause-repair-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "SOURCE_BACKED",
+        "MEASURED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "CompletedRES087633338f/factualcloseoutb7547be/full7cycle1PASS reviewerHubble: current6queries/8accessibleprimarybodies/2sourcevisuals/twoowner8modes6bytes16keyboard2noJS/oldEACH7of26 missingfirstspan and wrongbase. BOTH earlierchoosers/Building picturedlintel andreadiness captured. No usable exactprocedure in inspected set, not exhaustiveabsence/unsafe claim.",
+      "parent_problem": "Parent must not start OUR incomplete cup doorway, mistake a stack for a doorway base, or infer pictured cupspan is a verified procedure. Distinguish optional different stack versus one-car box task and read owned-fit/adult/stop/collection before handling or decline.",
+      "hypothesis": "Consistent early pause and distinct checked choices across two overrides/modules, earlierchooserrows and Building picture/readiness resolve the demonstrated trust/task failure without changing maintained guides or peer jobs.",
+      "acceptance": "StableCupDoorwayH2/#cup-tower/bothURL-H1canonical-indexability/sitemap65. No oldwall/top/test/widen/gate recipe in actualoverride/render. Explicit DIFFERENTCupTowerstack-noopening or DIFFERENTBoxGarageONEcar-ownedmaterials, neither cupdoorway. Early adult-stays/allreachable/uncertainfit-reach-attention skip/readselectedchecks beforehandling. Building beforeimage pause plus captionwithdrawalcupdepiction; genericreadinessdoesnotqualifydoorway. Engineering WindTower chooser half preserved, all16peerarticles/36canonical-library/assets/cards/guides/data/styles/config unchanged.",
+      "qa_plan": "Full261+4focused/jq/diff/structuredprivacyEOF/105JSON19CSV100GSC/uniqueIDs/MDrefs. All3generators twice/idempotence/exact2siteoutputs97peers (both sitemapdates alreadyOct28 so NO sitemap or generator change needed); all36canonical/library and16peerarticles preserved. Scoped Building/Engineering fixture exceptions retain other8each andWindTowerhalf. Desktop1280/mobile390-320/root32/word-parentfit changedtarget-cues-caption-readiness/chooserkeyboardtouchBack/directhash/alternativekeyboardtouchBack-realownedchecks/noJS/images/errors/visuals/fourlenses-everysection/all13NEWdecision not gainvsold7of26. Freshdifferent full13read-onlyreview max3/PASS-PASS_WITH_P3/freshfetch-nodivergence/frozenstage-cachedcheck-completeunpushedrange/mainpush/exactSHA Pages/livebytes-sametask-visuals/factualcloseout/alignment.",
+      "invariants": "No recipe/newURL/asset/globalCSS/card/guide/canonical/library/CSV/config/paid/product/purchase/indexing/tracking/outreach/automation/ControlRoom. Preserve previousIMP066, CupTower, BoxGarage,16peers. Physical-family/ownedfit/time-mess-learning-safety/SEO UNKNOWN; no sourcevideo/AIimage-performance/AT/truezoom proof.",
+      "observation_window": "Sameactual13:56:11Z/count2/deadline14:41:11Z/max3; selected14:32:34Z after RES087closeout b7547be clean0/0. Finish current safely even if deadline passes, no fourth/newclock. November1/October30/globalcutoff unchanged.",
+      "reconsider_if": "P0-P2/criticalpause-jobchoice/source/caption-order/readability/peer/privacy/indexability/divergence or ambiguousproductionregression; bounded currentwritten+visual firstspan evidence needed for runnable doorway.",
+      "phase": "registered-implementation",
+      "independent_review": "IMP067 independent reviewer01a182f4-68ed-7341-bb87-b3e30c471ab5 (Bacon), fresh full13/cycle1PASS/noP0-P3, all13hashes/HEAD/status/emptyindex and655repo files unchanged; no generatorentrypoints or captureoverwrites. Exact-name-skip native264PASS/zeroFAIL; Node22.22 omits excluded testcase and reports0skipped, NOT1. Pure61render/contributor parity,2outputs97peers16articles36canonical/sitemap65identical, browser9bytes8modes6incomingkey4touch12outkey8touchBack5noJS/7captures/independentroot32checks PASS. Boxfullchecks1024.234 scroll/materialstart560.234 visible, orderedbeforeaction. 73HTML1036refs99frags8LD105JSON19CSV8AST100GSC180IDs572MDrefs/privacyEOF-whitespace PASS; threeoldCSV irregularities unchanged. Fourlenses/everysection/all13NEWdecision22/24 educationN-A, not old7/26gain; RES087retainedsource/no refetch/physical-family-AT-truezoom-playback unknowns unchanged. Master265/all3twice inspectednotrerun. Reviewer/browserclosed/server8801PID70942 retained. Exactmainrelease/exactSHA Pages/liveverification next, NOT production yet. Sameactual13:56:11/count2/deadline14:41:11 expired; finish existingthird only/no fourth.",
+      "qa_actual": "Master265/all3twice14d45d08/exact2outputs97peers/16peerarticles36canonical/sitemapunchanged/73HTML1036refs99frags8LD105JSON19CSV8AST/local9bytes8modes6key4touch12outkey8outtouch5noJS-targetwordfit/visuals PASS. NEWdecision22/24 not oldrunnablegain; selectedfullchecks scroll. StructuredprivacyEOF/differentfull13review/exactSHAproduction pending.",
+      "next_action": "Finish structuredprivacyEOF, freshdifferent full13review, exactSHArelease/live/factualcloseout/alignment; third existing transaction only after original deadline."
+    },
+    {
       "id": "KAL-RES-087",
       "title": "Resolve the retained Cup Doorway first-span and toy-opening evidence gate",
       "kind": "existing-owner-qualification",

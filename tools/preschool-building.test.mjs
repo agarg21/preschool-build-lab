@@ -106,7 +106,7 @@ test("material chooser, support steps, and architecture boundary are complete", 
     [
       ["Toy Home", "#magnetic-tile-house"],
       ["Wide-Base Tower", "#block-tower"],
-      ["Cup Doorway", "#cup-tower"],
+      ["Cup Doorway (paused)", "#cup-tower"],
       ["Paper Path", "#paper-bridge"],
       ["Straw Span", "#straw-bridge"],
       ["Tube Sculpture", "#tube-sculpture"],
@@ -129,7 +129,7 @@ test("material chooser, support steps, and architecture boundary are complete", 
   assert.match(html, /neighboring pages support different activity goals/);
 });
 
-test("seven runnable builds retain checks and Toy Home and paused Rooms remain distinct", () => {
+test("six runnable builds retain checks and three distinct paused or handoff jobs remain", () => {
   const builds = [...html.matchAll(/<article class="seo-activity building-build" id="([^"]+)">([\s\S]*?)<\/article>/g)];
   assert.deepEqual(builds.map((match) => match[1]), buildSlugs);
   for (const [slug, body] of builds.map((match) => [match[1], match[2]])) {
@@ -149,6 +149,15 @@ test("seven runnable builds retain checks and Toy Home and paused Rooms remain d
       assert.match(body, /BEFORE handling/);
       assert.match(body, /href="\.\.\/cards\/box-garage.html"/);
       assert.doesNotMatch(body, /<li>|Make one open shape|Join them with a wall or doorway/);
+      continue;
+    }
+    if (slug === "cup-tower") {
+      assert.match(body, /Cup doorway version paused/);
+      assert.match(body, /Do not start this version/);
+      assert.match(body, /Different Cup Tower stacking/);
+      assert.match(body, /Different one-car Box Garage/);
+      assert.match(body, /BEFORE handling/);
+      assert.doesNotMatch(body, /<li>|Open the base activity card|Place one cup across/);
       continue;
     }
     for (const label of ["Kid mission:", "Need", "Adult setup:", "If the build stalls", "Stop:", "Parent check:"]) {
