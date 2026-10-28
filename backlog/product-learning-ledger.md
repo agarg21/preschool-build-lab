@@ -2531,7 +2531,11 @@ observe for a post-release crawl or finalized page/query change.
   14touchBack/finder4noJS/diagram-pixel-textfit checks pass. Freshdifferent
   reviewer01a183a6 full19/cycle1 PASS/no findings, independent275/pure17renders/
   samebrowserplus10chooserarrivals/662repo-byte conservation PASS.
-  Exact-SHA production acceptance pending. Not delivered yet.
+  Reviewed release78450e0 and exact-SHA Pages40741718986 SUCCESS.
+  Production18:05:46Z:7byte matches/16modes21keyboard14touchBack4noJS/
+  finder/directhash/pixels/textfit PASS;12captures identical reviewedlocal,
+  mobile/diagram/root32 visually inspected. Applied improvement delivered;
+  no marker, retry, regression or known dependency blocker.
   New task card25/26/hub routes23/26, all13/no N/A, not an old-task gain.
 - Confidence/lesson: high for inspected copy/ownership conservation, provisional
   for start/decline proxy, unknown for physical performance. A material

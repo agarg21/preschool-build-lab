@@ -163,7 +163,7 @@ family safety, education or a numerical gain over the old task.
   its browser; no site change or transient-site retry was involved.
 - Exact19/184 distinct roadmap IDs/629 Markdown references/100 GSC snapshots/
   105 JSON/19 unchanged CSV (3 historical blank rows)/privacy/single-EOF PASS.
-  Frozen independent review still required.
+  Final independent review and release receipts follow below.
   Installed Playwright/owned headless Chrome only, no global configuration.
   Owned HTTP server127.0.0.1:8803 PID92091/session25412.
 - Local visual inspection so far: desktop diagram,390px diagram,
@@ -194,9 +194,9 @@ exact19 hashes unchanged. Reviewer and owned browsers closed; Master server
 retained for acceptance. No physical/family, true-zoom or AT claim.
 
 Completed pre-release fetch, exact stage/range identity, main push, exact-SHA
-successful Pages run and live same-task/byte/visual acceptance still required.
-Workflow uploads site directly; no release marker exists in site/workflow.
-Not released yet; stop/checkpoint rather than claim unperformed acceptance.
+successful Pages run and live same-task/byte/visual acceptance are recorded
+below. Workflow uploads site directly; no release marker exists in
+site/workflow. Only actual performed checks are claimed.
 
 ### Pre-Release Incoming Snapshot
 
@@ -212,3 +212,41 @@ different September28-October25 window. All10 configured inspections indexed;
 Complete raw query rows remain unavailable, not zero demand. No causal,
 query-intent or family outcome inference; the source-qualified repair remains
 independently eligible. No indexing request or separate new action.
+
+### Production Acceptance - Completed
+
+- Reviewed release78450e063d35365aff6ebe5ebd1f9d17bfb23646.
+  [Exact-SHA Pages40741718986](https://github.com/agarg21/preschool-build-lab/actions/runs/40741718986)
+  completed SUCCESS; returned headSha matches exactly.
+- Completed fresh fetch BEFORE stage, no divergence or unpushed range.
+  Exact19 staged hashes equal final reviewed material plus factual receipts;
+  cached whitespace/privacy/JSON/singleEOF and empty unstaged/untracked PASS.
+  Committed complete unpushed range equals staged payload SHA256
+  9259e2ab656d3e109a73cf7aac221229d52fcca137ed4a0e694aee3c5db4168b.
+  Push exited0, subsequent completed fetch confirmed clean0/0.
+- Temporary staging checker initially exceeded Node's default1MB buffer on
+  the existing roadmap JSON. Increased its READ buffer to32MB, reran the full
+  stage check successfully BEFORE commit. No repository bytes were changed
+  by that checker failure or fix; no unverified stage was released.
+- Production browser exited0 by18:05:46Z:7HTTP200 byte matches
+  (card, library, BOTH hubs, stylesheet, original SVG and sitemap);16viewport
+  modes;21 actual keyboard/14touch activations with Back;4no-JS pages;
+  canonical/H1/link ownership,4direct card hashes, finder1/zero/Clear36/refocus,
+  sources disclosure, image/pixel/word-fit/focus/runtime checks PASS.
+- All12 production captures byte-identical to reviewed local captures.
+  Live390card/diagram and320/root32Engineering arrival visually inspected
+  at18:06Z. Headings/cues clear headers and text fits; full checks scroll.
+  No marker is present; exact-SHA deployment plus live bytes used.
+- No production retry, detected regression or known dependency blocker.
+  Workflow's existing runner/action-version warnings are not a deployment
+  failure and were not expanded into this content transaction.
+- Reviewer/owned browsers closed. Owned server8803/PID92091 command verified
+  before termination; session25412 exit143 acknowledged, port empty.
+- Same actual16:04:12Z/completed2/deadline16:49:12Z: no third transaction.
+  Factual seven-document closeout/push/final alignment only remains.
+  November1 synthesis, October30 exact restoration and global cutoff retained.
+- Learned result: first joint plus matched discovery controls was the missing
+  output; no new URL or outcome claim. Next eligible invocation starts with
+  current clock/guard/remote/GSC, then bounded current-question discovery for
+  an Explore/Discover job outside already-closed leaf/nature/photo-hunt
+  hypotheses. No build or exact candidate is presumed.
