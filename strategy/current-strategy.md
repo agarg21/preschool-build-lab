@@ -8,8 +8,10 @@ the source comparison, exact window, review gates and automatic restoration.
 Use Riley Hart as a clearly disclosed AI research contributor and Apoorva
 Garg as founder/publisher. Linked credits describe research, drafting and
 maintenance; they do not establish human expertise, firsthand experience,
-retroactive sole authorship or a ranking benefit. A separately registered
-site transaction implements this shared accountability layer.
+retroactive sole authorship or a ranking benefit. The separately registered
+`KAL-IMP-038` transaction released this shared accountability layer on
+October27; its [reviewed release record](../reviews/contributor-credits-2026-10-27.md)
+retains the exact deployment and disclosure boundaries.
 
 Prioritize useful released parent decisions. When qualification clears a
 candidate, promptly register its build as the next transaction within the
@@ -48,8 +50,11 @@ The latest reviewed work corrected first-start, result, discovery and trust
 failures in existing owners. `KAL-IMP-037` paused unsupported Magnet Hunt and
 routes old links to a maintained alternative. Current roadmap release
 records, rather than historical planned labels, determine what is unfinished.
-The October27 contributor implementation is next; then select the strongest
-distinct guide or existing-owner candidate from current evidence.
+The October27 contributor implementation is complete (`KAL-IMP-038`), not a
+pending action. Select the strongest distinct qualified guide or existing-owner
+improvement from current evidence; otherwise resolve one named missing
+qualification gate. Contributor attribution does not qualify an activity or
+establish family, trust or SEO outcomes.
 
 The July29 demand map remains dated context for free activities, household
 games, board-game purchases and standard-deck play. Non-product activity/game
@@ -82,9 +87,10 @@ constraints and filters. They are not the site's mission.
 Evidence-qualified dedicated activity guides are the primary editorial and
 SEO growth experiment. They should own one concrete activity-running or
 problem-solving job and help a caregiver judge fit, start, recover, and vary
-the activity without another broad search. The September 6 decision is
-directional rather than causal: the only current long-form guide is also the
-site's dominant GSC page, but one page cannot prove a format effect.
+the activity without another broad search. The September 6 decision was
+directional rather than causal: at that dated baseline, the only long-form
+guide was also the dominant GSC page. One page could not prove a format effect;
+the current seven-guide inventory does not remove the confounding factors.
 
 Broad hubs remain concise choice and routing surfaces. Activity and game cards
 remain the compact utility layer for one-screen execution. A hub should route
@@ -134,8 +140,8 @@ reconcile current sources, add a useful KAL chooser or explanatory visual,
 state that it is untested when ambiguity is likely, and preserve every
 parent/child outcome as `UNKNOWN`.
 
-The newest available public-safe GSC snapshot, collected October26 and
-finalized through October24, has453 rolling28-day impressions and5clicks;
+The historical public-safe GSC baseline used for this strategy was collected
+October26 and finalized through October24:453 rolling28-day impressions and5clicks;
 the prior overlapping snapshot has481/6. The cardboard-ramp guide has313/2;
 10/10 priority URLs are indexed. The61 discovered-page count and July5 sitemap
 read are historical API values, not the current65-URL sitemap inventory.

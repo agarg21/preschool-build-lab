@@ -2611,3 +2611,35 @@ observe for a post-release crawl or finalized page/query change.
   pushed; exact7 frozenstage/completeunpushedrange f7bb0ac5 identity/privacyEOF
   PASS. Completed pre-stage fetch/no divergence; postpush completedfreshfetch
   clean0/0 verified19:22:28Z. No site/Pages delivery.
+
+## 2026-10-28 - KAL-OPS-009 - Contributor State Reconciliation
+
+- Decision/persona: correct four stale-current strategy passages, preserve
+  disclosure/site/publication gates. A source-derived reader needs honest
+  AI/independent-review/firsthand/publisher boundaries; the operator must not
+  reselect completed attribution from an old current-strategy directive.
+- Sources/classes: [reconciliation and separate repair brief](../reviews/contributor-priority-reconciliation-2026-10-28.md).
+  Repository/role/release SOURCE_BACKED; git/API/byte/browser MEASURED;
+  correction/repair EDITORIAL_JUDGMENT; task lenses RESEARCH_HYPOTHESIS;
+  family/trust/SEO/truezoom/AT outcomes UNKNOWN.
+- Result: IMP038 exactSHA48d93e0/Pages40504204320 SUCCESS rechecked; original
+  profile byte-identical. Four-passage reverse identity/prior186roadmap
+  conservation pass. Current publisher heading110.156 under142.828header at
+  320/root32 reproduces a32.672px occlusion, same-state screenshot inspected.
+  Parent role proxy10/12/six applicable/seven N-A/criticalFAIL; no numeric
+  historical regression or family evidence. Qualifies separate IMP070,
+  NOT repaired by this strategy-only transaction.
+- Confidence/lesson: high for release-state contradiction and current geometry.
+  Delivered attribution and source credits do not imply every arrival is
+  accessible or every activity's evidence is approved. Date retained baselines
+  explicitly instead of repeatedly selecting completed work.
+- Falsify/reconsider: scope/source/release mismatch, failed native/review,
+  out-of-scope output or fresh live route evidence. Next eligible action is
+  separately registered IMP070, before expansion research.
+- Boundary: no new guide, paid/indexing/product/automation work, family test,
+  human expert, personal-review-everypage or SEO benefit. Native/full7 review/
+  exact docs release pending; no production fix claimed. Master276 and
+  freshdifferent01a18421 full7cycle1PASS_WITH_P3/boundedcycle2PASS/no remaining
+  findings/independent275; seven-target coverage P3 corrected (return included),
+  all667repo/HEAD/status/rawindex conserved. Helper-order/encoding adjustments
+  and existing enlarged defect retained in linked receipt.

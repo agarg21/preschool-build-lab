@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-OPS-009",
+      "title": "Reconcile stale contributor-next strategy with verified release",
+      "kind": "current-strategy-release-truth-correction",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "31866fc018af089296fdc60e9d5c966c0d6eaa70",
+      "exact_paths": [
+        "strategy/current-strategy.md",
+        "reviews/contributor-priority-reconciliation-2026-10-28.md",
+        "ops/current-cycle.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "ops/operator-review.md",
+        "backlog/product-learning-ledger.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "EDITORIAL_JUDGMENT",
+        "RESEARCH_HYPOTHESIS",
+        "UNKNOWN"
+      ],
+      "evidence": "Fresh heartbeat19:57:16.928Z/actual19:57:23Z/15:57:23EDT. Previous RES091 closeout31866fc fullypushed/clean0/0; no active action. Current strategy line51 still calls October27 contributor implementation next, contradicting completed IMP038/48d93e0/exactSHA Pages40504204320 and current profile/About/shared credits. Targeted authoritative-document search found this actionable stale directive only in current-strategy.",
+      "parent_problem": "A caregiver must still see honest AI-contributor/publisher/evidence boundaries, while the Master must not repeatedly select a completed attribution task or infer that credits approve activity instructions.",
+      "hypothesis": "Correcting only four declared stale-current strategy passages (two attribution, September6 one-guide baseline, October26 GSC baseline) removes reproducible current-vs-historical contradictions without changing site bytes, disclosure policy, activity eligibility or scheduler.",
+      "acceptance": "Record exact before contradiction and release evidence; change only four declared strategy passages, preserve all other text and all source/site/data/config. Amendment before third-fourth edits: dated September6 one-guide and October26 GSC baseline phrases found during everysection audit; label historical without altering original figures/conclusions. Prove post-correction operator task plus preserved parent identity/role/publisher/return at desktop-mobile/keyboard/noJS. Four evidence-derived lenses/everysection and all13 applicable/N-A rubric without fake parent outcomes. New review receipt/learning; full276/structured/privacyEOF/freshdifferent full7 read-only review/docs-only release/alignment.",
+      "qa_plan": "Diffcheck/jq/full276tools tests/allchangedJSON/uniqueIDs/relativeMDrefs/all101GSC; allJSON/CSV parse/source-site-data-tools conservation. Exact reverse-patch strategy to base except four passages, prior186roadmap items intact. Current three public owner bytes and 1280-390 profile/publisher keyboardBack/noJS/fit/visual checks; no generators required for docs-only scope. Completedfetch/no divergence/exactfrozenstage/completeunpushedrange/mainpush/finalalignment; no Pages wait.",
+      "invariants": "Do not edit site/generator/data/config/scheduler/ControlRoom or historical IMP038 packet. No new page, paid call, indexing request, product, credential/portrait, human-expertise/sole-authorship/human-review-everypage or SEO benefit claim. Retain all publication/persona/source/review/release gates. No re-opening completed seed/hunt/listening qualifications or unavailable family-testing dependency.",
+      "observation_window": "Actual19:57:23Z/completed0/deadline20:42:23Z/max3; sprintactive/Nov1synthesisnotdue/Oct30exactrestoration/globalcutoff unchanged. One writer; factualdocs correction not attribution redeploy.",
+      "reconsider_if": "Current source/site/release contradicts completed layer, live role route fails, independent P0-P2 or remote divergence; preserve/checkpoint and amend scope before any site correction. Next run inspect actualartifact/outcome, not heartbeat activation.",
+      "phase": "independently-reviewed-ready-for-docs-release",
+      "review_evidence": "Freshdifferent reviewer01a18421-aa67-7a83-8774-44b6141d76e5 (Dalton): full7cycle1PASS_WITH_P3/noP0-P2; sole seven-fragment coverage P3 corrected (return included), boundedcycle2PASS/no remaining findings. Independent275/0fail/0skipped/datecaseomitted; exactreverse4/prior186/190sourcehash/106JSON19CSV2212rows187IDs527MDrefs101GSC/privacyEOF PASS. ThreeHTML+twoCSS livebytes/EnterBack-freshhash/noJS/textfit/visuals independently reproduce existing32.672px occlusion; role10/12criticalFAIL retained. All667repo/HEAD/status/rawindex unchanged; helper created beforeMasterread/no execution or overwrite; helper encoding-path-scan adjustments passed. Reviewer/browserclosed/no server; no physical-family-SEO/AT/truezoom result or repair acceptance.",
+      "decision": "CORRECT four stale-current strategy passages; preserve site/policy. Verified existing publisher-anchor defect320/root32 (H2top110.156/header142.828) qualifies separately registered IMP070 next after OPS009 release; no production repair or full role-task PASS by OPS009.",
+      "next_action": "Full276/structuredprivacyEOF/freshdifferent full7 independent review/exact docs release/alignment, then promptly register exact9 IMP070 bounded CSS anchor repair if original19:57:23/count0/deadline20:42:23/max3 permits. No overlapping writer or silent site expansion."
+    },
+    {
       "id": "KAL-RES-091",
       "title": "Qualify a seed-in-bag observation and care job",
       "kind": "bounded-explore-discover-qualification",
