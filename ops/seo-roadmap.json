@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-104",
+      "title": "Discover a distinct shared-drawing parent decision without imposed turns",
+      "kind": "bounded-create-imagine-question-discovery",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "1e3424180b4135bb3535c5c5c3453c9019ebf153",
+      "exact_paths": [
+        "seo/shared-drawing-parent-decision-discovery-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "TOOL_ESTIMATE",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Three newretained questionbodies/twofocusage+one18monthcontrast. DirectRCN retryPASS/FDP/Crayola/PBS/Illinois(reusedsource) distinguishpapermechanisms; Parmenextractonly/unavailablebody. No exactmaterialdemand or missingutility established; protectedpersonalartgoal notcoauthorship consent.",
+      "parent_problem": "Caregiver and preschooler may want drawinghelp, parallelpictures or a jointlymarkedpicture; choose involvement and start/decline without requiring resemblance, compulsoryturns or developmental outcomes.",
+      "hypothesis": "3-5 currentpublic caregiverquestionbodies and narrowlivequery/body/owner evidence can distinguish a real shared-mark decision from adult-demanded drawing or observationaltutorials, and qualify one missingoutput or supporteddefer/reject.",
+      "acceptance": "Inspect3-5 caregiverbodies withURL/date/paraphraseddecision/ability/constraint only; exactqueryfamily/currentprimarybodies and closedowner comparison. Define source-groundedtask/stress/fourlenses/everysection/all13 withN-A. State materialdemand/sourceutility/no-cleanowner/publication gates; build/upgrade/preserve/defer/reject, no automaticpage. Do not imply turnsreduceadultburden or requestforadultdrawing meansco-authorconsent.",
+      "qa_plan": "Full302native/diffcheck/jq/exact7/structuredJSON-CSV101GSC/privacyEOF/docrefs/prior206items/site-source-configconservation; freshdifferent independent full7read-onlyPASSmax3cycles/nonmutating301/rawindexconserved. Freshfetch/no divergence/exactfrozenstage/completeunpushedrange/docs-onlymainpush/alignment; no Pageswait.",
+      "invariants": "Mastersolewriter/nooverlap; no site/data/code/config/automation/ControlRoom/privatequeries/paid/products/index/accounts/tracking. No drawingdevelopment/medical/engagement/safetyclaims, copiedquestions/identities orhumanoutcomes. Closedqualificationsnotreopened absent namednewgate.",
+      "observation_window": "Actual2026-10-29T07:57:18Z/03:57:18EDT, heartbeat07:57:10.624Z; count0/max3/newactiondeadline08:42:18Z. Oct30restoration/Nov3cutoffunchanged.",
+      "reconsider_if": "Defer/reject ifquestionsactuallyseekadultperformance/clinicalassessment/oldertutorials, existingbodyalreadyanswersgenericsharedmarks, cleanownerfit or materialdemandunknown; no inventedgap or forcednewURL.",
+      "phase": "reviewed-awaiting-release",
+      "next_action": "Exactdocsrelease/alignment; actualclock/guard before separatelyselecting maintainedShadowShapeMatchowner/closedscopecheck, no newdrawingguide or automaticshadowrepair.",
+      "review_result": "Wegener the 2nd01a186b1 full7cycle1PASS/noP0-P3;301safe/all696files+actualrawindex-writeRelevantmetadata conserved/atime diagnostic"
+    },
+    {
       "id": "KAL-RES-103",
       "title": "Qualify non-reader hidden-animal guessing demand and incremental utility",
       "kind": "bounded-demand-and-rule-qualification",
