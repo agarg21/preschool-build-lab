@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-103",
+      "title": "Qualify non-reader hidden-animal guessing demand and incremental utility",
+      "kind": "bounded-demand-and-rule-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "5fdf884ee7550f159bf6b00d474972535c00eb27",
+      "exact_paths": [
+        "seo/nonreader-animal-guessing-qualification-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "TOOL_ESTIMATE",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Sixnew directrulebodies KidsCo/EALT/Dologi/TopParent/Chapeau/ActUp; exactquerysample no currentrequestestablished, almost5oldbody anecdotenotrequest. ReuseRES102questions/RCN-Purdue mechanism, notnewdemand. Genericnonreader/noPrint/twoPlayer supports alreadyanswered; completehomedefault unqualified.",
+      "parent_problem": "Nonreader actor must select an animal without disclosingit toguesser, communicate one permittedclue and recover from no guess; caregiverneeds rule/adult-assistance/finishfit without paying or searching again.",
+      "hypothesis": "Exact current constrained query/question bodies and corresponding rule publishers can falsify no-reading/no-print/quiet-two-player as a distinct publication gap, or establish real missingoutput/materialdemand; prior adjacentquestions/stockfeatures cannot clearit.",
+      "acceptance": "Inspect exact constrainedlivequeryfamily andselection-drivingbodies, currentrequestifavailable withdatedprivacy limits; reuse ratherthanrecount RES102fivequestions. Trace actorinformation/selection/clue/reveal versus imitation, maintainedowner/source controls; all13 source-groundedtask/stress/fourlenses/everysection with explicitN-A. BUILD/UPGRADE/PRESERVE/DEFER/REJECT with namedgates. If no demand/incrementalutility, closecandidate and no repeatedqualification absentnewgate.",
+      "qa_plan": "Full302 native/diffcheck/jq/exact7/allJSON-CSV101GSC/privacyEOF/docrefs/prior205items/site-source-configconservation; freshdifferent full7readonlyPASSmax3cycles/nonmutating301/rawindexconserved; exactreviewedstage/fullunpushedrange/freshfetchno divergence/docs-onlymainpush/alignment. No site/Pageswork.",
+      "invariants": "Mastersolewriter/nooverlap; no site/data/code/config/scheduler/ControlRoom/privatequeries/paid/index/accounts/products/tracking. Sourcefacts limited; no currentdemand fromanecdotes/replycount/broadhistorical estimates. Allfamily-physical-learning-enjoyment-safety-timing-mess-SEOunknown.",
+      "observation_window": "Same retainedactual2026-10-29T06:59:26Z/initialclockoutputlost; stricter07:41:40.398Z cutoff/count1/max3. Selected07:19:23Z afterRES102/factualfullypushedfreshclean0/0. Oct30restoration/Nov3cutoffunchanged.",
+      "reconsider_if": "No build ifexactmaterialdemand/missingutility/homecontrols remainunknown; preserveclosedRES060/075/097. No newunboundedresearch or silentrecipe adoption.",
+      "phase": "reviewed-awaiting-release",
+      "next_action": "Exactdocsrelease/alignment; closecandidate absentnewdemand+missingoutput. Nexteligible distinctCreate/Imagine questiondiscovery afterowner/closedchecks, no build.",
+      "review_result": "Maxwell the 2nd 01a1868b-a94e-7e63-8597-20c3d8ce4d33 full7cycle1withheld statusbeforebaseline/cycle2PASS noP0-P3;301safe/all695files+74342actualrawindexbytes-writeRelevantmetadata conserved/atime diagnostic"
+    },
+    {
       "id": "KAL-RES-102",
       "title": "Discover one unresolved caregiver decision in simple cooperative movement play",
       "kind": "bounded-public-question-discovery",
