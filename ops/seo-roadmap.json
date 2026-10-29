@@ -9,7 +9,7 @@
       "id": "KAL-RES-108",
       "title": "Audit Paper Helicopter direct-drop stop-cue re-entry",
       "kind": "bounded-existing-guide-entry-trust-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "7619ffcf90c03cc7cf6820baedea7c9b1e368518",
       "exact_paths": [
@@ -36,7 +36,8 @@
       "invariants": "Mastersolewriter/nooverlap/no site/code/data/config/scheduler/ControlRoom/spend/products/index/accounts/tracking editsinresearch. PreserveIMP042CSS/title/arrivalandIMP0137x21geometry/no-ruler/map/sourcecheck-publicationdates/roles/no clips-weight-climbing/unknownoutcomes. No fakefamily/physical/safe-use/SEO claims; no newURL assumed.",
       "observation_window": "Heartbeat2026-10-29T09:57:40.956Z; actualrunstart2026-10-29T09:57:47Z/05:57:47EDT/count0/max3/newactiondeadline10:42:47Z. Selectedafterpriorruncomplete; October30restoration/November1synthesis/November3cutoffunchanged.",
       "reconsider_if": "Preserveunlessuncoveredactualdirect-drop criticalcue failure demonstrated; no cosmeticchurn/repeatgeometryqualification. Anyrepairseparateregister exactpaths/nativeQA/fullindependentreview/exactSHAproduction. Stoponcontradiction/overlap/divergence.",
-      "phase": "review_pass_release_pending",
+      "phase": "released",
+      "release": "bfcf7cad7c9050091e3dba710f21580ed32ca311 docs-only main push; exact7 stage/full unpushed range64fc51772615ea97906312926d9148e210fc9aa8437e9e91bf92030ff7e4ed75 identity; freshfetch/postpushclean0/0 verified10:13:21Z. Count1 same09:57:47 actual clock. No site release implied.",
       "independent_review": "Darwin01a1871f/Codex RES108-r7a full7 cycle1 PASS/no P0-P3; own302SAFE/production routes; all701files and actualrawindex bytes-nsmetadata conserved, no writes. Master303/structured-scope PASS.",
       "decision": "IMPROVE existing owner via separately registered exact13 repair: copy exact existing hero Stop first inside #drop; keep hero and all qualified geometry/CSS/roles. Four modes show no local cue; new task17/26 critical failure, not family outcome.",
       "next_action": "Full303/structured-scope QA, fresh different full7 independent review and docs-only release, then promptly register separate IMP078 if same actual09:57:47/count/deadline10:42:47 allows."
