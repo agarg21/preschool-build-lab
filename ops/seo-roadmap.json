@@ -6,6 +6,41 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-107",
+      "title": "Audit Straw Rocket direct-launch before-action stop boundary",
+      "kind": "bounded-existing-guide-trust-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "d714c033cac6f8e1ef2ace250d9e951d678b812b",
+      "exact_paths": [
+        "reviews/straw-rocket-prelaunch-boundary-audit-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "RES106b77b2ae/factuald714c03 fullypushed/freshclean0/0. Actualguide#launch firstparagraph adult blows beforethirdStopparagraph. PriorIMP014everysection sayscontrols atmoment/stop-before-repair, notthisbefore-firstlaunch/directhash task. RetainRES015 qualified JPLmechanism/diagram/template/adultroles, no requalification/newrecipe.",
+      "parent_problem": "Caregiver takes existingFirstlaunchjump/direct#launch for firstadult launch; must encounterexistingmouthing-damage-attention/control stops before launch action, not after it. Preserve adult-only andoptionalchild roles.",
+      "hypothesis": "Actualproductionbytes/currentprimary-retainedlineage and desktop/mobile persistentroot32/key-touch-Back/noJS/blockedimage can determine whether existingStoporder is a critical preactionfailure and qualify an exact paragraphmove within#launch, orpreserve ifnot demonstrated.",
+      "acceptance": "Checkclosedreview andcurrentNASAprimary bodies/queryfamily withoutredoinggeometryqualification; preservePDF/diagramlineagewithhonestfreshvsretained status. Verify actualguide/library/routes/assets/canonical-H1, fourmodes/root32/freshhash-key-touch-Back/noJS/textfit/imagefallback/normalerrors. Fourtracedlenses/everysection/all13/newbeforetaskscore. Ifrepairqualifies exactseparatepaths-datefixtures/invariants; no implicitbuild ornewURL.",
+      "qa_plan": "Full302native/diffcheck/jq/exact7/structured106JSON19CSV2212rows/101GSC/privacyEOF/docrefs/prior209items/source-siteconservation; freshdifferentfull7readonlyreviewmax3/nonmutating301/rawactualindexconserved. Freshfetch-no divergence/frozenstage/fullunpushedrange/docs-onlypush/alignment. LocalbrowserCLI fallbackbecausejs_repltoolmissing; no configchange.",
+      "invariants": "Mastersolewriter/nooverlap. No site-source-data-config-scheduler-ControlRoom edits in research; no products/paid/index/accounts/tracking. Preserve JPLprinter-papercylinder-fins-tapednose/pencilremove/adultlaunch/no suction-force-weight/diagram/anchors/sourcecheckeddate/peers. No physical-family-safety-SEO or newdevice/ageclaim.",
+      "observation_window": "Sameactual2026-10-29T09:01:52Z/count1/deadline09:46:52/max3; selected09:16:50Z afterRES106/factuald714c03 fullyaligned. Oct30restoration/Nov1synthesis/Nov3cutoff unchanged.",
+      "reconsider_if": "PRESERVE unlessnewactualtask/route/sourcefailure beyondclosedreview established. Ifcritical source/geometryconflict do notinventrepair; no rollout absentdifferentreview. Qualify exactstopmoveonlyifshown, preserve unrelatedscore/dates/history.",
+      "phase": "reviewed-awaiting-release",
+      "review_result": "Copernicus01a186f7 full7cycle1PASS/noP0-P3/independent301/ownsevenbyte-fourmode-route-visual-sourcechecks/all699files-actualrawindex-writeRelevantnsmetadata conserved; reviewerbrowserclosed",
+      "next_action": "IMPROVEexactexistingStopparagraphfirstinside#launch; sevenbytes/fourmodes24key6tap20Back/twoNoJS/sixvisuals/new18of26criticalFAIL. Full302/freshdifferentfull7review/docsrelease thenregisterseparateexact12IMP077 promptly ifsame09:01:52/count1/deadline09:46:52 permits. Preserve recipe/diagram/sourcechecked-dates/99unchangedsitepeers; no newURL."
+    },
+    {
       "id": "KAL-RES-106",
       "title": "Discover a distinct preschool small-creature observation decision",
       "kind": "bounded-explore-discover-parent-question-research",
