@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-076",
+      "title": "Align Pack Ramp Detective with maintained checked start and card handoff",
+      "kind": "bounded-static-existing-owner-firststart-repair",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "bd4d0545e5c4ef06acd576e24063cd1d5e53a77f",
+      "exact_paths": [
+        "site/collections/original-stem-activities-for-4-year-olds.html",
+        "tools/ramp-detective-pack-start.test.mjs",
+        "reviews/ramp-detective-pack-start-repair-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "RES101 Tesla full7cycle1PASS/releasedc182fa9/factualbd4d054 aligned. PackzeroCard-guideforwardlinks/undefinedsupport/same-start-cover gaps despiteearlygeneralchecks; currentPBS-PNC-AAP+2PBSphotos and7livebytes/fourmodes24key9tap21Back/twoNoJS/fourvisuals/new11of26criticaltask fail. ExistingRampTexture methodownscheckedplain/covered job; no newrecipe.",
+      "parent_problem": "Pack-first caregiver needs one before-action checkedsetup and local plain/optionalcover sequence, samecar/start/height, nonresult/end/cleanup, withyoungerchild/cover-slip/phone-root32 stress.",
+      "hypothesis": "Pack-only aligned default plusimperativeearlyfullCardlink resolves missingconstruction/control handoff withoutchanging maintainedCard/guide/peers or addingURL.",
+      "acceptance": "OnlystaticRampmodule:id-title/time/before-start/optionalnote retained; onealreadymaintained2bookfloor-cardboard-ownedcar/optional-thintowel-ownedtape default; earlyroles/stop/fullCardroute/adultpretest;4simplestepsplain/adultcover/same-release/notice; immediateend/watch/plain-only/cleanup/sourceboundedlimits. Preservecovered-ramp vsguide landing-surface distinction; no newgeometry/outcome guarantee. FourPackpeers/completeoutsideHTML/100sitepeers/cards/guide/assets/CSS/generators/sitemap/metadata byte-identical. PackalreadyOct29/no datefixtures.",
+      "qa_plan": "All3generators twice idempotent/exact1siteoutput; normalizedoutsidePacktargetexactbytes/100sitepeers/fourpeers/203prioritems/scripts-data-config unchanged. Fourfocusednew/full302/diffcheck/jq/allJSON-CSV101GSC/privacyEOF/links-fragmentsLD. Actualfourmodes/persistentroot32/chooserNEWPackCardkey-touch-Back/noJS/optionalnote/reversePackdepth-guide#ramp-start/unknownhash/textfit/visuals/normalerrors, targetimage-formN-A. Freshdifferentfull9readonlyPASSmax3/rawindexallfilesconserved/no datefixture. Freshfetch/exactfreeze-stage/fullrange/mainpush/exactSHA Pages/livebytes-task/canonicalH1/alignment.",
+      "invariants": "Mastersolewriter/nooverlap; targetPackmoduleonly/notnewpage/card/guide/research-source-outcome/brand/CSS/metadata change. No paid/index/accounts/products/automation/ControlRoom/privatequery writes. Allphysicalfamily/adhesion/stability/timing/mess/safety/learning/SEOunknown.",
+      "observation_window": "Actual2026-10-29T05:58:46Z/count1/deadline06:43:46Z/max3; selected06:15:43Z afterresearchfullyclosed. Oct30restoration/Nov3cutoff unchanged.",
+      "reconsider_if": "Stopifearlylinkskipschecks/changedcovered-vslandingjob/nonresultnotallowed/unsupportedassurance/peer-card-guide drift/divergence/regression/ambiguousrollback; no silentscopegrowth.",
+      "phase": "registered-before-site-edits",
+      "next_action": "Exact9staticmodule/focusedtests thenfullQA/independentfull9review/exactSHAproduction beforecompletion."
+    },
+    {
       "id": "KAL-RES-101",
       "title": "Audit Original Pack Ramp Detective construction and pre-start handoff",
       "kind": "bounded-existing-owner-task-source-audit",
