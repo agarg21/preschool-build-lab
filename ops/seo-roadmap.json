@@ -9,7 +9,7 @@
       "id": "KAL-RES-106",
       "title": "Discover a distinct preschool small-creature observation decision",
       "kind": "bounded-explore-discover-parent-question-research",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "d1cbc1fa87966dee99677b9a25707747f61e7fe3",
       "exact_paths": [
@@ -37,9 +37,11 @@
       "invariants": "Mastersolewriter/nooverlap/noControlRoom/scheduler/site/data/code/config/spend/products/index/accounts/tracking. No collecting/handling/identification/medical/legal/petcare/universal-safe or developmental instructions assumed. No private data/copiedquestions/firsthandoutcomes. Closednaturehunt/listening/cloud/drawing not repeated absentnamednewgate.",
       "observation_window": "Heartbeat2026-10-29T09:01:40.849Z; actualrunstart2026-10-29T09:01:52Z/05:01:52EDT/count0/max3/newactiondeadline09:46:52Z. Oct30restoration/Nov1synthesis/Nov3cutoff unchanged.",
       "reconsider_if": "Defer/reject ifquestionsadjacent/olderorpet-medical, currentanswersalreadycoverproposedoutput, exactmaterialdemandunknown ordefault/control-lineageunresolved; no absenceofsourceasopportunity or familytest/paidtooldependency. No themevariant simplybecauseownerabsent.",
-      "phase": "reviewed-awaiting-release",
+      "phase": "research-released",
       "review_result": "Volta01a186eb full7cycle1PASS/noP0-P3/independent301/all698files-actualrawindex-writeRelevantmetadata conserved; own3questions5bodies/845docrefs/structured-privacy PASS; reviewerclosed",
-      "next_action": "DEFERnewsmall-creatureguide/REJECTmedia-book-discomfort=>activity-demand inference. Threebody/fiveinstruction-source/fourlens-everysection-all13 evidence14of24; exactdemand/missingutility/homedefault unqualified. Fullnative/structured/differentfull7review/docsrelease, then independenteligible task only/no repeatclosedgate/no quota."
+      "next_action": "Factualcloseout/alignment then same09:01:52/count1/deadline09:46:52 guard before separateStrawRocket#launchStop-before-actiontask audit; priorreview stop-before-repair notsamearrival. Currentprimary/livebytes/fourmodes-key-touch-Back/closedcoverage required, no newrecipe/buildpresumed.",
+      "release_commit": "b77b2ae52406e570dfb342aa2e8569012bee3511",
+      "release_result": "Exact7 frozenstage/fullunpushedrangedf6efbc2f85e4ff6bdc5c4ea1a141d988ccecc133ccf4adbe73529c9a3e1be10 identity/privacyEOF/freshfetch-no divergence/docs-onlypush/postpushfreshclean0/0 verified09:15:15Z; no site orfamilyoutcome."
     },
     {
       "id": "KAL-RES-105",
