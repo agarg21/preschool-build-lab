@@ -9,7 +9,7 @@
       "id": "KAL-IMP-080",
       "title": "Clear remaining Tape Road section headings at enlarged text",
       "kind": "verified-accessibility-arrival-defect-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "1a83db53f25ae892d1755b03b087d000af4fc3a1",
       "exact_paths": [
@@ -42,10 +42,11 @@
       "invariants": "Mastersolewriter/nooverlap/thirdfinaltransaction-no fourth. Preserveallprose/controls/roles/hero/otherstyleproperties/imageSHA42363506a75d2460b1271d71c64f3944e24282b3dbfdd1b9b78b3a4bf6b356fe/source-publication-modificationdates/sitemap/hubs/cards/library/credits/unknownoutcomes. No newURL/research demand/recipe/product/physicalfamily-safety-SEOclaim/ControlRoom/automation/spend/index/accounts/tracking/configchange.",
       "observation_window": "Selected11:33:29Z afterIMP079release/factualalignment. Sameactual2026-10-29T10:55:47Z/06:55:47EDT/count2/max3/newactiondeadline11:40:47Z. Thirdfinal; finishstartedtransaction safelyafterdeadline ifneeded. Oct30restoration/Nov1synthesis/Nov3cutoffunchanged.",
       "reconsider_if": "StopP0-P2max3/unexpectedtext-style-peerbytes/headingorcontrolsregression/divergence/ambiguousrollback. No broad accessibility/familyproof from textmodeproxy.",
-      "phase": "review_pass_release_pending",
+      "phase": "production_verified",
+      "release": "91a3131204da9a8ba7c857e4c1f7b31b91abe71c exactSHA Pages40868152244 SUCCESS/no marker/exactSHA+bytes. Production11:48:55Z sevenbyte/24arrivals24Back/sixNoJS/fullheads-beginnings/unchangedcontrols12key3tap7Back/twoNoJS/blockedimage/unknownhash/fit/errorsEMPTY PASS. Tenviewedlivecaptures11:49:10Z/eightarrivalPNGs identical local. Exact13stage-fullrangebf6cbbc3b028cc9708334475ae25091daa46f9fc41bbf0a5a0ee5625ba13df6b identity/privacy/freshfetch/push/postpush0/0. Alltext-dates-sitemap-image99peersconserved; fiveoldresiduals resolvedrecordedmodes. Browser/reviewerclosed/owned8813PID7127stopped-session71174exit143ack-portempty. No retry/rollback/blocker/familyphysical-SEOoutcome.",
       "independent_review": "Newton01a18774/Codex-IMP080-Independent-RW0-20261029 full13cycle1PASS/noP0-P3; own307safe/24arrivals-sixNoJS-controls/tenviewedcaptures/all707files andactualrawindexSHA40b9a12519344f6738945ec05d86067a0ab06c040c39515e6ea96a1c70ed8666/nsmetadata conserved. Master308 PASS. ExactSHAproduction pending; finishthirdonly/no fourth afterdeadline.",
       "local_qa": "Master308/all3twice/a62bd848c3af4a3dba5e389a410d4576d83bb0ded1cae4bd69858430a717adbc idempotent/entirequeryonly-sourceguide/CSSoneproperty/99peers/694outside/prior215/sitemapidentical/strictlinks PASS.24hash+24Back/sixNoJS/eightviewedarrivals allsixclear, unchangedcontrols12key3tap7Back/twoNoJS/blockedimage/wordfit/sevenbytes/errorsEMPTY. Newtask20->24/26proxy only.",
-      "next_action": "Fresh different full13 read-only review then exactSHAproduction andfactualcloseout/alignment/serverstop; thirdfinal/no fourth evenifdeadlinepassed."
+      "next_action": "Factualsevencloseout/alignment thenRETURN; sameactual10:55:47/count3/max3/deadline11:40:47expired, no fourth. Next invocationfreshguard/remote/newGSC then namedunresolveddefect/candidategate selection versusclosedcoverage, no TapeRoad requalification. Oct30/Nov1/Nov3 unchanged."
     },
     {
       "id": "KAL-IMP-079",
