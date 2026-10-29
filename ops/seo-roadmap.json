@@ -9,7 +9,7 @@
       "id": "KAL-RES-104",
       "title": "Discover a distinct shared-drawing parent decision without imposed turns",
       "kind": "bounded-create-imagine-question-discovery",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "1e3424180b4135bb3535c5c5c3453c9019ebf153",
       "exact_paths": [
@@ -37,9 +37,11 @@
       "invariants": "Mastersolewriter/nooverlap; no site/data/code/config/automation/ControlRoom/privatequeries/paid/products/index/accounts/tracking. No drawingdevelopment/medical/engagement/safetyclaims, copiedquestions/identities orhumanoutcomes. Closedqualificationsnotreopened absent namednewgate.",
       "observation_window": "Actual2026-10-29T07:57:18Z/03:57:18EDT, heartbeat07:57:10.624Z; count0/max3/newactiondeadline08:42:18Z. Oct30restoration/Nov3cutoffunchanged.",
       "reconsider_if": "Defer/reject ifquestionsactuallyseekadultperformance/clinicalassessment/oldertutorials, existingbodyalreadyanswersgenericsharedmarks, cleanownerfit or materialdemandunknown; no inventedgap or forcednewURL.",
-      "phase": "reviewed-awaiting-release",
-      "next_action": "Exactdocsrelease/alignment; actualclock/guard before separatelyselecting maintainedShadowShapeMatchowner/closedscopecheck, no newdrawingguide or automaticshadowrepair.",
-      "review_result": "Wegener the 2nd01a186b1 full7cycle1PASS/noP0-P3;301safe/all696files+actualrawindex-writeRelevantmetadata conserved/atime diagnostic"
+      "phase": "research-released",
+      "next_action": "Factualcloseout/alignment theninspectmaintainedShadowShapeMatchowner/closedrepair scopebeforeanyseparateselection. Same07:57:18/count1/deadline08:42:18/max3; no newdrawingURL/automaticshadowrepair.",
+      "review_result": "Wegener the 2nd01a186b1 full7cycle1PASS/noP0-P3;301safe/all696files+actualrawindex-writeRelevantmetadata conserved/atime diagnostic",
+      "release_commit": "974220c2188856f917fe1388b27403332508ead4",
+      "release_result": "Exact7 frozenstage/fullrange7d5406a610d8aa1efb531afe6e9070d9bcf3e673e9d0c7b4b49241eb580f479e identity/privacyEOF/freshfetch-no divergence/mainpush/postpushfreshclean0/0 verified08:10:34Z; docs-only/noPages."
     },
     {
       "id": "KAL-RES-103",
