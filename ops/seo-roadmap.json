@@ -6,6 +6,40 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-101",
+      "title": "Audit Original Pack Ramp Detective construction and pre-start handoff",
+      "kind": "bounded-existing-owner-task-source-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "ed3abd0fa71e39dba203da107eef07a8657931d8",
+      "exact_paths": [
+        "reviews/ramp-detective-pack-start-audit-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "RunstartpriorIMP075/factualed3abd0 aligned; Shadow earlycue alreadyIMP030/Oct14 covered, preserve no repeatedaudit. OriginalPackRampDetective has broad books-or-cushion/cardboard-or-tray construction, local cloth-on-ramp comparison and generalbefore-start link; closedcompactramp/guide reviews expresslypreserved thisdistinctPack, not construction task qualification.",
+      "parent_problem": "Pack-first caregiver with checked toycar/cardboard/lowbooks/cloth, younger-child reach and phone/root32 must choose one supported setup, understand unchanged car/release versus surface-on-ramp comparison, stop/recover/cleanup without a new broad search or confusing maintained guide's landing-surface job.",
+      "hypothesis": "Current retained/current source lineage and actual Pack-first task can distinguish a missing construction/control handoff from intentional surface-on-ramp depth; qualify an exact existing-owner repair only if a named observable failure is reproduced.",
+      "acceptance": "Currentprimary/retainedscope/sourceclassification; concretefourlenses/all13/everysection task with actualdesktop-mobile-root32-keytouchBack-noJS and source/maintainedguide distinction. Returnimprove/preserve/defer with exact unresolved gates, no newURL/physical outcome. PreserveShadow/otherPackpeers/cards/guide/image/recipe unless separatelyqualified; no automatic build.",
+      "qa_plan": "Full298/diffcheck/jq/changedJSON/allCSV/source/privacy/EOF/101GSC/202prioritems/exact7/docrefs. Differentindependentread-onlyfull7PASSmax3/noP0-P2/rawindexallfileconservation. Freshfetch/no divergence/exactfrozenstage/fullunpushedrange/docs mainpush/alignment; no siteedit/Pageswait.",
+      "invariants": "Mastersolewriter/nooverlap. No newURL/demandrank/recipeoutcomeclaim, no paid/index/accounts/products/automation/ControlRoom/data/site/configchanges inresearch. CurrentGSCoverlapnotcausal; Shadowalreadycovered notnewdefect.",
+      "observation_window": "Actual2026-10-29T05:58:46Z/count0/deadline06:43:46Z/max3; October29learningalreadycompleted apply/deepen result. Nov1weeklynotdue/Oct30restoration/Nov3cutoff unchanged.",
+      "reconsider_if": "Preserve if currenttask givescoherentconstruction/beforeactionchecks or onlyclosedgatesrepeat; independentlyqualifiedchange separatelyregistered. Stop ondivergence/missingreview; no silent scopeexpansion.",
+      "phase": "registered-before-extended-audit",
+      "next_action": "Reconcile Pack's actual source/construction and retainedclosedreview coverage, test live Pack-guide choice and document bounded disposition."
+    },
+    {
       "id": "KAL-IMP-075",
       "title": "Put existing Foil Boat stops and required folds route before execution",
       "kind": "bounded-three-owner-prestart-repair",
