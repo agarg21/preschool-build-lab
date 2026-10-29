@@ -6,6 +6,40 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-097",
+      "title": "Qualify Simon Says first contrast and re-entry for preschool play",
+      "kind": "bounded-play-lane-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "f8224731fda981f30340f434f26b3fde521b7262",
+      "exact_paths": [
+        "seo/simon-says-preschool-qualification-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Heartbeat2026-10-29T00:57:09.185Z; actual00:57:16Z/October28 20:57:16EDT/count0/newactiondeadline01:42:16/max3. Completedfetch clean0/0 f822473, previous RES096/IMP071 fullyreleased/factualcloseout. Targetedsource/data/site/roadmap search found SimonSays only as unqualified owner-absence mention in RES060; freeze dance and FollowLeader qualification closed, not this act-versus-withhold verbalcue contrast.",
+      "parent_problem": "Caregiver of child3-6 wants shared no-prop game and must distinguish copying the adult from acting only when the named cue is present, handle mistaken action/withheld action, re-entry, player/adult role, space/stop and voluntaryfinish. Secondarymixedability or a child choosing to watch; no school-readiness/behavioral or clinical outcome assumed.",
+      "hypothesis": "Act-only-on-cue and first noncue contrast is a distinct parent execution job from continuous imitation or musicstop, but current sources may already solve it. A new guide qualifies only if current materialdemand, incrementaloutput, bounded maintaineddefault and no existingowner all clear.",
+      "acceptance": "Current exactquery family/selectedresult bodies,3-5publiccaregiverquestion decisions withdate/ability/privacy limits, authoritativeprimaryrules/default lineage, existingowner/retainedcloseddecision audit, desktop-mobile concreteproxy/fourlenses/everysection/all13 disposition BUILD/UPGRADE/PRESERVE/DEFER/REJECT. Never inferdemandfromanecdotes or noowner, or inventnewnovelty/weakSERP/attainablerank. Separatelyregister any qualifiedbuild promptly afterresearchreview/release under sameactualclock.",
+      "qa_plan": "Exact7research/operator; full283/diffcheck/jq/allchangedJSONCSV/sourceprivacy/EOF/refs/uniqueIDs/all101GSC/prior194items/site-source-data-config unchanged. Freshdifferent full7 read-onlyreview max3/PASSonly. Reviewer278other59files plusfourpositiveexactarchitecture282, forbidden datefixtureexcludedbeforeexecution/no generators/sitemap.main. Completedfetch/no divergence/exactfrozenstage/completeunpushedrange identity/docs mainpush/alignment/noPageswait.",
+      "invariants": "One writer/nooverlap. No site/generator/data/config/automation/ControlRoom/indexrequests/paid/products/account/outreach changes. Existingcardchooser/movement/sound/pattern owners preserved; no newURL/rulesengine/recipe preapproval, no family/learning/safety/clinical/SEO claim. Qualitativequestions URL/date/paraphrase/ability/constraints only; no usernames/privatecontext/copiedthreadtext.",
+      "observation_window": "Actual2026-10-29T00:57:16Z/count0/startdeadline01:42:16Z/max3; sprintactive/October28locallearning, November1/October30/globalcutoff unchanged.",
+      "reconsider_if": "Current primary bodies or keywordownership show this exactjob alreadyqualified/cleanowner, preserve ratherthanrepeat. Ifsource/demand/incrementaloutput/defaultgatesremain, explicitdefer withnamedfalsificationtrigger; no genericallyapprovebuild.",
+      "phase": "source-task-disposition-DEFER-native283-PASS-before-independent-review",
+      "next_action": "Inspect current SimonSays exactquery/primaryrule bodies and3-5 caregiverquestions; evaluate one firstcue/noncue/reentry task and freeze disposition."
+    },
+    {
       "id": "KAL-IMP-071",
       "title": "Align Tape Road hub trust labels and guide-first handoffs",
       "kind": "existing-owner-trust-and-handoff-repair",
