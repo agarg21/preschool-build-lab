@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-112",
+      "title": "Qualify preschool paper-fan making versus the prepared-fan tower component",
+      "kind": "bounded-making-candidate-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "03a6b834e5d758c9fc916ff233a67b286be4818e",
+      "exact_paths": [
+        "seo/preschool-paper-fan-qualification-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "TOOL_ESTIMATE",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Freshclock13:03:18Z/09:03:18EDT/guardcanstart; clean aligned main03a6b83 afterRES110/111 fullyclosed. No newOct29GSC/latestretainedOct28. PriorWindproofTower expects adult-preparedfoldedfan; no exact paper-fan making qualification in checkedseo/reviews/briefs/targets. Absence notdemand; no duplicate fan-as-tower-tool assumed.",
+      "parent_problem": "Adult and child ages3-6 may want to fold and open a paper fan as a making task, judging fold/hold/fastening/childrole fit and rescue before start; this is not the separate tower-wind test. Current questions and sources must establish or reject that hypothesis.",
+      "hypothesis": "A child-facing fold/open/use job may be distinct from a pre-made fan component, but requires current material demand, maintainable one-mechanism lineage and useful missing live-source output. If clean existing owner solves it, upgrade/preserve that owner; no standalone guide by inventory gap alone.",
+      "acceptance": "Return build/upgrade/preserve/defer/reject with exact unresolvedgates. Inspectcurrent queryfamily/openedprimaryrankingbodies/currentcaregiverquestions ifavailable; source/date/surface/privacy limits explicit. Reconcile one fold/fix/open mechanism, materials, adult/kidroles, stop/rescue and sourcevisual or markunknown. CompareWindTower/otherpaperowners. Four source-tracedlenses/everyproposedsection/all13scores withN-A/denominator/no fabricatedbeforepage. No buildpresumed; eligiblebuild separatelyregister promptly withinrunlimits.",
+      "qa_plan": "Exact7research-only; native308/diffcheck/jq/changedJSONCSVparse/101GSC/privacy/docrefs/prior218roadmapobjects and everyoutsidefile conserved including101site. FreshDIFFERENTindependent full7readonly reviewer307SAFE/allfilehash-writeRelevantnsmetadata and actualrawindexSHA/nsstat conserved; maximum3cyclesfixP0-P2/PASSonly. Frozenexactstage/fullunpushedrange/freshfetch-no divergence/docs-only mainpush/finalalignment. No site/generator/browser claims without actualwork.",
+      "invariants": "Mastersolewriter/nooverlap/noControlRoom/automation/spend/indexing/account/tracking/products/family or safety-learning-outcomeclaims. Preserveallsite-source-data/65URL/36cards/credits/knownunknowns. Do not repeatWindTower testqualification or closedpaperairplane/weaving/bridge recipes absentnamedgap. A fanmakingquestion must not silentlyexpandintotowerupgrade.",
+      "observation_window": "Heartbeat2026-10-29T13:03:11.736Z; immutable actualrunstart13:03:18Z/09:03:18EDT/count0/max3/newactiondeadline13:48:18Z. October30exactnormalrestoration/November1synthesis/November3globalcutoff unchanged.",
+      "reconsider_if": "Missing exactdemand/incrementalutility or criticallineage conflict meansdefer notinventevidence. No genericno-scissors/no-printer novelty. Stopdivergence/unsafeclaims/P0-P2 beyond3cycles; qualifyownerupgradeonlyfromdemonstratedgap.",
+      "phase": "review_pass_release_pending",
+      "independent_review": "RES112 fresh cycle2 Kepler01a187d0/Codex-RES112-C2-9c72 full7 PASS/noP0-P3; own307SAFE/fourprimarybodies/twosourceimageviews/structured-privacy/conservation. All710files and actualrawindexSHA5f13b3964902fb14899a05e576757f5e8a0b39e18e976a2c59fd68688cc17700/native-ns first-execution baseline conserved; HEAD-status-emptyindex unchanged. Firstattempt NOTapproval remains preserved. Master308; reviewerclosed/no browser/server. Exactdocs-only release next; no build/site/family result. Actual13:03:18/count0/deadline13:48:18/max3.",
+      "review_attempt_1": "RES112 review attempt1 Lovelace01a187c9/Index5f13-R1 NOT release approval: initial shell captured second-resolution index stat, ns baseline only second execution beforeGit. No substantiveP0-P3/307SAFE/710files-indexbytes conserved, but strict first-execution gate unsatisfied. Preserve report /tmp/kal-res112-independent-report.md; reviewerclosed/no repochanges. Fresh different full7 review cycle2 required; no waiver/push/site change. Sameactual13:03:18/count0/deadline13:48:18/max3."
+    },
+    {
       "id": "KAL-RES-111",
       "title": "Audit filtered-library Back-state coherence during two-card comparison",
       "kind": "bounded-existing-flow-audit",
