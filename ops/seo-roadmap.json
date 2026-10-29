@@ -9,7 +9,7 @@
       "id": "KAL-RES-107",
       "title": "Audit Straw Rocket direct-launch before-action stop boundary",
       "kind": "bounded-existing-guide-trust-task-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "d714c033cac6f8e1ef2ace250d9e951d678b812b",
       "exact_paths": [
@@ -36,9 +36,11 @@
       "invariants": "Mastersolewriter/nooverlap. No site-source-data-config-scheduler-ControlRoom edits in research; no products/paid/index/accounts/tracking. Preserve JPLprinter-papercylinder-fins-tapednose/pencilremove/adultlaunch/no suction-force-weight/diagram/anchors/sourcecheckeddate/peers. No physical-family-safety-SEO or newdevice/ageclaim.",
       "observation_window": "Sameactual2026-10-29T09:01:52Z/count1/deadline09:46:52/max3; selected09:16:50Z afterRES106/factuald714c03 fullyaligned. Oct30restoration/Nov1synthesis/Nov3cutoff unchanged.",
       "reconsider_if": "PRESERVE unlessnewactualtask/route/sourcefailure beyondclosedreview established. Ifcritical source/geometryconflict do notinventrepair; no rollout absentdifferentreview. Qualify exactstopmoveonlyifshown, preserve unrelatedscore/dates/history.",
-      "phase": "reviewed-awaiting-release",
+      "phase": "research-released",
       "review_result": "Copernicus01a186f7 full7cycle1PASS/noP0-P3/independent301/ownsevenbyte-fourmode-route-visual-sourcechecks/all699files-actualrawindex-writeRelevantnsmetadata conserved; reviewerbrowserclosed",
-      "next_action": "IMPROVEexactexistingStopparagraphfirstinside#launch; sevenbytes/fourmodes24key6tap20Back/twoNoJS/sixvisuals/new18of26criticalFAIL. Full302/freshdifferentfull7review/docsrelease thenregisterseparateexact12IMP077 promptly ifsame09:01:52/count1/deadline09:46:52 permits. Preserve recipe/diagram/sourcechecked-dates/99unchangedsitepeers; no newURL."
+      "next_action": "Factualcloseout/alignment then same09:01:52/count2/deadline09:46:52 guard andpromptlyregisterexact12IMP077. ExistingStopmove qualified; no repeatedresearch ornewrecipe. Thirdfinal/no fourth.",
+      "release_commit": "9d9e3b4cd881ecb5c2db06496e85cb74e76ae4f3",
+      "release_result": "Exact7 frozenstage/fullunpushedranged5164f172b65e1813b4acd0fb849a712d9e23d7d10c7c44b448bd6bff92ad3c8 identity/privacyEOF/freshfetch-no divergence/docs-onlypush/postpushfreshclean0/0 verified09:28:33Z; no sitebuild orfamilyoutcome."
     },
     {
       "id": "KAL-RES-106",
