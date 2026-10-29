@@ -1551,6 +1551,7 @@ PAGES = [
                 "rescue": "Use only three walls and make a wide path first.",
                 "stop": "Stop if the ball or a block goes in a mouth, is thrown, or leaves the clear area; if the lid is shaken or lifted near a face; or if any material is damaged.",
                 "parent": "The adult keeps the ball and spare blocks out of reach between runs and removes the ball first at cleanup. This editorial setup is not a safety assurance.",
+                "stop_before_action": True,
             },
             "box-garage": {
                 "slug": "box-garage",
@@ -2063,7 +2064,9 @@ def engineering_activity_card(activity):
         source_note = f'<details><summary>Sources and testing status</summary><p>{links}.</p><p>{esc(activity["source_note"])}</p></details>'
     guide_handoff = (
         '<p><a href="../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start">Read the cardboard-ramp checks before handling</a></p>'
-        if activity["slug"] == "car-ramp-distance-test" else ""
+        if activity["slug"] == "car-ramp-distance-test" else
+        '<p><a href="../articles/cardboard-ball-maze-kids.html">Read the full Ball Maze checks before handling</a></p>'
+        if activity["slug"] == "ball-maze-box" else ""
     )
     first_cue = (
         f'<p class="distance-start-cue"><strong>{esc(ACTIVITIES["car-ramp-distance-test"]["start_cue"])}</strong></p>'
@@ -3153,7 +3156,7 @@ def ball_maze_guide_html():
         "headline": "Cardboard Ball Maze for Kids",
         "description": "Make a no-cut cardboard ball maze with a shallow box lid, three movable chunky blocks, and one large lightweight ball.",
         "datePublished": "2026-09-14",
-        "dateModified": "2026-09-14",
+        "dateModified": "2026-10-28",
         "author": {
           "@type": "Organization",
           "name": "Kid Activity Lab"
@@ -3185,12 +3188,12 @@ def ball_maze_guide_html():
             <h2 id="maze-start-title">Fit and start</h2>
             <p><strong>Try it when:</strong> your child can move a chunky block and follow a stop cue. An adult can steady or tilt the lid if two-handed control is still difficult.</p>
             <p><strong>Get:</strong> one shallow intact box lid, three chunky blocks, and one large lightweight foam ball chosen by the adult for every child who can reach the setup.</p>
+            <p class="maze-stop"><strong>Stop:</strong> if the ball or a block goes in a mouth, is thrown, or leaves the clear area; if the lid is lifted near a face or shaken hard; or if cardboard or a block becomes damaged.</p>
             <ol>
               <li><strong>Adult:</strong> put the lid flat in a clear floor or low-table space and keep control of the ball between runs.</li>
               <li><strong>Child:</strong> place three blocks as wide walls, then hold two sides and tilt gently to guide the ball through.</li>
             </ol>
             <p><strong>Mission:</strong> move the ball from one end of the lid to the other without lifting it by hand.</p>
-            <p class="maze-stop"><strong>Stop:</strong> if the ball or a block goes in a mouth, is thrown, or leaves the clear area; if the lid is lifted near a face or shaken hard; or if cardboard or a block becomes damaged.</p>
           </section>
         </header>
 
@@ -3202,6 +3205,9 @@ def ball_maze_guide_html():
         <div class="content">
           <section id="first-run" aria-labelledby="first-run-title">
             <h2 id="first-run-title">Make one wide path</h2>
+            <div class="callout">
+              <strong>Adult boundary:</strong> Stay beside the setup, keep the lid below face level, and keep the surrounding path clear. The adult controls when the ball enters and leaves the lid. Stop and reset after hard shaking, throwing, mouthing, a spill, or damaged material.
+            </div>
             <ol class="steps">
               <li>Put the empty lid flat. Check that it is intact, shallow, and easy for the child to hold at two sides.</li>
               <li>Place three chunky blocks flat inside as loose walls. Leave gaps much wider than the ball.</li>
@@ -3209,9 +3215,6 @@ def ball_maze_guide_html():
               <li>Hold two sides of the lid and tilt only enough to make the ball roll. Guide it around the walls to the other end.</li>
               <li>Put the lid flat. The adult takes control of the ball before the next run or cleanup.</li>
             </ol>
-            <div class="callout">
-              <strong>Adult boundary:</strong> Stay beside the setup, keep the lid below face level, and keep the surrounding path clear. The adult controls when the ball enters and leaves the lid. Stop and reset after hard shaking, throwing, mouthing, a spill, or damaged material.
-            </div>
           </section>
 
           <section id="one-wall" aria-labelledby="one-wall-title">

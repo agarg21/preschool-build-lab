@@ -21,7 +21,8 @@ test("ball maze guide owns one singular search job", () => {
   assert.match(html, /<article class="maze-article">/);
   const data = JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)?.[1] ?? "{}");
   assert.equal(data["@type"], "Article");
-  assert.equal(data.dateModified, "2026-09-14");
+  assert.equal(data.datePublished, "2026-09-14");
+  assert.equal(data.dateModified, "2026-10-28");
 });
 
 test("first start exposes the frozen parent decision", () => {
@@ -121,7 +122,7 @@ test("keyword inventory and sitemap contain the guide once", () => {
     .map((match) => match[1])
     .filter((entry) => entry.includes("cardboard-ball-maze-kids.html"));
   assert.equal(entries.length, 1);
-  assert.match(entries[0], /<lastmod>2026-10-01<\/lastmod>/);
+  assert.match(entries[0], /<lastmod>2026-10-28<\/lastmod>/);
   const cardEntry = [...sitemap.matchAll(/<url>([\s\S]*?)<\/url>/g)]
     .map((match) => match[1])
     .find((entry) => entry.includes("cards/ball-maze-box.html"));

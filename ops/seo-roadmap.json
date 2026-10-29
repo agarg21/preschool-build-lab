@@ -6,6 +6,47 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-072",
+      "title": "Move Ball Maze existing controls before execution",
+      "kind": "bounded-existing-owner-trust-repair",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "af1052ef15be7297df7a77ffbfefb1772aefe96f",
+      "exact_paths": [
+        "scripts/generate_seo_pages.py",
+        "scripts/generate_sitemap.py",
+        "site/collections/engineering-activities-for-4-year-olds.html",
+        "site/articles/cardboard-ball-maze-kids.html",
+        "site/sitemap.xml",
+        "tools/ball-maze-start-boundary.test.mjs",
+        "tools/ball-maze-guide.test.mjs",
+        "reviews/ball-maze-start-boundary-repair-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "RES098 released0e54b91/closeoutaf1052e; fresh Euler full7 PASS. Existing Engineering Stop/Parent, guide quickStop/full Adult boundary follow execution; baseline18/26criticalFAIL; rendered8min-pingpong hypothesis disproven, preserve global metadata.",
+      "parent_problem": "Caregiver with younger child in reach must encounter existing material/adult/stop controls before first execution cue and reach sameactivity depth without latecard detour.",
+      "hypothesis": "Moving unchanged controls and one early Engineering fullguide link will pass cueorder/route technical task without altering recipe or claiming physical/family outcomes.",
+      "acceptance": "Existing Engineering stop_before_action for maze and one early guide link; unchanged quickStop and full Adultcallout before respective lists. DatePublishedSep14 preserved; dateModified/guide sitemapOct28. Exact14; all peer prose/materials/card/CSS/asset/globalmetadata/65URLs preserved.",
+      "qa_plan": "All3generators twice idempotent; full native/diffcheck/jq/JSONCSV/linkfragmentJSONLD; exact2HTML+sitemap,97sitepeers/eightEngineeringpeers/other14PAGES conserved. Actual1280x900/390x844/persistentroot32 390and320/key-touch-Back/noJS/directhash/errors/textfit/imagevisual/fourlenses/everysection/all13 NEWproxy. Freshdifferent full14 readonly review max3/PASSonly; exactfreeze-stage/fullrange/freshfetch/no divergence/mainpush/exactSHA Pages+livebytes/task/finalalignment.",
+      "invariants": "One Masterwriter, third/finaltransaction. Preserve instructions/materials/rules/card/CSS/image/peerpages/data/workflows/globalmetadata. No newURL/product/spend/index/accounts/ControlRoom/automation/familytesting/SEO or safetyassurance.",
+      "observation_window": "Actual2026-10-29T00:57:16Z/count2/startdeadline01:42:16/max3; selected beforedeadline; finishsafeafterdeadline/no fourth. November1/October30/globalcutoff retained.",
+      "reconsider_if": "Stop on critical cue/route/claim/peer regression or divergence/ambiguousrollback; no silently broadened source/content scope.",
+      "phase": "registered-before-source-edits",
+      "next_action": "Implement exact unchanged-control moves/earlyguide/datefixtures; run full QA and independent review before release."
+    },
+    {
       "id": "KAL-RES-098",
       "title": "Audit Ball Maze engineering-to-guide first stop boundary",
       "kind": "bounded-existing-owner-start-boundary-audit",
