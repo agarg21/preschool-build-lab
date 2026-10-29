@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-073",
+      "title": "Resolve implicit favicon fallback without a branding rewrite",
+      "kind": "bounded-static-asset-defect-repair",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "e512183d1f9a6a3345367b06e461f0b1ebf70fa1",
+      "exact_paths": [
+        "scripts/generate_favicon.py",
+        "site/favicon.ico",
+        "tools/favicon.test.mjs",
+        "reviews/favicon-fallback-repair-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "IMP072 production and independent browser trace isolated repeated sameorigin/favicon.ico404 on pages with no expliciticon; root has noiconasset and guides already intentionally use data:, blankicons. Cleanalignede512183/newactual01:58:49/October28 21:58:49EDT/count0/deadline02:43:49/max3. No newGSC snapshot/all101 validate; November1notdue.",
+      "parent_problem": "Caregiver follows current Engineering-to-BallMaze task on desktop/mobile; browser should not request missing fallback resource or introduce inventedbrand identity. This is small technical hygiene, not a failure to run the activity or measuredtrust/SEO benefit.",
+      "hypothesis": "A deterministic valid transparent rootICO fallback will replace implicit404 with200 without changing HTML/visiblebrand/claims/content/links/65contentURLs or explicitdata:,icon behavior.",
+      "acceptance": "Reproduce implicitfavicon404 and currentprimarybrowser behavior. Add root transparent1x1 ICO/native deterministic reproducible encoder and parser-focused tests; no newlogo/artwork/HTML/CSS/sitemapchange. BrowserCDP confirmactualimplicitrequest200, validICOdisplaytype/noothererrors, ordinarydesktop-mobile/key-touch-Back/noJS task unaffected. Iftransparentfallbackunsupported/rejected, defer ratherthan expandbranding.",
+      "qa_plan": "Newencoderroundtrip-headerdirectory-DIB-ANDmask/inmemorypure/nativefulltests; all3standardgenerators twice plus faviconencoder reproducible; 100existingsitefiles and65URLs conserved; parseJSONCSV/linksfragmentLD/privacyEOF/exact10/prior197roadmapitems. Freshdifferent full10readonlyreview max3/PASSonly; exclude reviewerdatefixture beforeexecution, no generators/mains. Exactfrozenstage/fullunpushedrange/privacy/freshfetch/no divergence/mainpush/exactSHA Pages+liveasset-oldfiles/task/finalalignment.",
+      "invariants": "One Masterwriter/nooverlap/no newcontentURL/brand/logo/HTML/CSS/recipe/claims/GSCconfig/data/workflow/automation/ControlRoom/account/index/paid spend. Binaryasset EOF rule inapplicable; alltext singleEOF. No parent/child/safety/education/searchoutcome or tabrecognition claim.",
+      "observation_window": "Actual2026-10-29T01:58:49Z/count0/startdeadline02:43:49/max3. Sprintactive; October30restoration/November3cutoff retained.",
+      "reconsider_if": "Current browser disprovesimplicitrequest, sourcevalidity/blankintent unclear or changes require visiblebrand decision, preserve/defer. Stop anypeer drift, releaseerror/divergence/ambiguousrollback.",
+      "phase": "registered-before-extended-triage-or-code",
+      "next_action": "Reconcile currentprimaryfavicon specification and actualbaselineimplicitrequest; implement only transparentrootfallback ifsupported, then QA/review/release."
+    },
+    {
       "id": "KAL-IMP-072",
       "title": "Move Ball Maze existing controls before execution",
       "kind": "bounded-existing-owner-trust-repair",
