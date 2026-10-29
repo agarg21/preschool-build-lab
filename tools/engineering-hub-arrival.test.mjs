@@ -20,5 +20,5 @@ test("engineering hub ships its scoped readable-arrival styles", () => {
   assert.match(css, /@media \(max-width: 640px\)\s*\{\s*\.engineering-hero h1\s*\{\s*font-size:\s*1\.5rem;/);
   assert.match(css, /@media \(max-width: 350px\)\s*\{\s*\.engineering-hero h1\s*\{\s*font-size:\s*1\.4rem;/);
   assert.match(css, /\.engineering-page \[id\]\s*\{[^}]*scroll-margin-top:\s*7rem;/);
-  assert.match(sitemap, /<loc>https:\/\/kidactivitylab\.com\/collections\/engineering-activities-for-4-year-olds\.html<\/loc>\s*<lastmod>2026-10-28<\/lastmod>/);
+  assert.match(sitemap, /<loc>https:\/\/kidactivitylab\.com\/collections\/engineering-activities-for-4-year-olds\.html<\/loc>\s*<lastmod>2026-10-29<\/lastmod>/);
 });

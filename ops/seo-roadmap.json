@@ -6,6 +6,47 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-074",
+      "title": "Put Paper Chain Engineering checks and maintained-card route before execution",
+      "kind": "bounded-existing-owner-boundary-repair",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "9761ce5ccac14fc46d0122730464fc2ad8282bd8",
+      "exact_paths": [
+        "scripts/generate_seo_pages.py",
+        "scripts/generate_sitemap.py",
+        "site/collections/engineering-activities-for-4-year-olds.html",
+        "site/sitemap.xml",
+        "tools/paper-chain-engineering-boundary.test.mjs",
+        "tools/engineering-hub-arrival.test.mjs",
+        "tools/box-garage-first-start.test.mjs",
+        "reviews/paper-chain-engineering-boundary-repair-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "RES099 independentlyGalileo full7PASS released806c3a9/factual9761ce5 aligned. StandaloneEngineering PaperChain Stop/Parent+cardlate after3steps; card-originalreadyhaschecks. Source/currenttask reconciled, all13baseline15of26criticalFAIL; exact14 qualifiedincludingtwoEngineering-onlydatefixtures. Newactualsame03:56:16/count1/deadline04:41:16/max3, selection04:11:56Z/Oct29local.",
+      "parent_problem": "Hub-first caregiver needs existingstop/material/adult/reach checks and linked-loopdiagram before starting preservedbook-reach mission; youngerchildinreach, phone/root32/noJS. No one-sheetlengthrule or sourceoutcome imported.",
+      "hypothesis": "Existingstop_before_action hook plus imperative early nohash maintainedcardchecks/diagram link resolves cueorder without changing bookmission/recipe/card/diagram/peers.",
+      "acceptance": "MoveexactStop/Parent beforemission; oneearlycardlink plus existinglatecard preserved. Allthree localsteps/materials/test/change/rescue identical. Card/diagram/CSS/library/global36ACTIVITIES/other14PAGES/eightpeers unchanged. OnlyEngineering sitemaplastmodOct29;65URLs/other64dates/cardOct15 preserved. No chooserlink/newURL/Articlemetadata/strongerclaims.",
+      "qa_plan": "All3generators twice idempotent/exactEngineering+sitemap/99sitepeers; normalizedmoduleonlystoporder+oneanchor, oneflagEngineeringdeclaration, allpeers/dictionary/data/config/workflow. Fourfocusedtests/full294/diffcheck/jq/structuredlinksfragmentsLD/privacyEOF/prior199items. Actualdesktop1280x900/mobile390x844/root32persistent390and320/directhash/cardkey-touch-Back/noJS/disclosures/rescue-unknownhash/blockeddiagram/textfit/images/visuals/fourlenses-everysection-all13proxy. Freshdifferentfull14readonlyreview max3/PASSonly; rawindex/allfilesconserved/GIT_OPTIONAL_LOCKS0/forbiddendatecaseexcludedbeforeexecution. Freshfetch/no divergence/exactfrozenstage/fullunpushedrange/mainpush/exactSHA Pages+livebytes/task/finalalignment.",
+      "invariants": "SingleMasterwriter/nooverlap; no source/card/diagram/recipe/CSS/peer/URL/metadata beyondoneEngineeringlastmod. No printproject/branding/automation/ControlRoom/paid/index/accounts/products/family-safety-learning-SEOresult. Card-origincontrolsrecognized, no fabricatedchooser/historicalscoregain.",
+      "observation_window": "Actual2026-10-29T03:56:16Z/count1/startdeadline04:41:16/max3 preserved; selectedwithinwindow/finishsafelyafterifneeded. October29learning/date, October30restoration/Nov3cutoff retained.",
+      "reconsider_if": "Stop on late/missingcontrol, wronghandoffskippingcardchecks, alteredbookvsone-sheetrules/peerdrift/divergence/regression/ambiguousrollback; no silent scopegrowth.",
+      "phase": "registered-before-source-edits",
+      "next_action": "Implementonlyreviewedflag/earlyroute/datefixtures; allQA/freshdifferentreview/exactSHAproduction beforecompletion."
+    },
+    {
       "id": "KAL-RES-099",
       "title": "Audit Paper Chain Engineering before-action boundaries and maintained-card route",
       "kind": "bounded-existing-owner-boundary-audit",

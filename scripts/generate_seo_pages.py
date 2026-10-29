@@ -1510,6 +1510,7 @@ PAGES = [
                 "rescue": "Use a smaller book or start with three large loops already joined.",
                 "stop": "Stop if tape or strips go in a mouth, the book tips, or joining loops has become an adult-only job.",
                 "parent": "Keep scissors out of the play area and use a light book with rounded corners.",
+                "stop_before_action": True,
             },
             "wind-tower-test": {
                 "slug": "wind-tower-test",
@@ -2066,7 +2067,9 @@ def engineering_activity_card(activity):
         '<p><a href="../articles/cardboard-box-car-ramp-preschoolers.html#ramp-start">Read the cardboard-ramp checks before handling</a></p>'
         if activity["slug"] == "car-ramp-distance-test" else
         '<p><a href="../articles/cardboard-ball-maze-kids.html">Read the full Ball Maze checks before handling</a></p>'
-        if activity["slug"] == "ball-maze-box" else ""
+        if activity["slug"] == "ball-maze-box" else
+        '<p><a href="../cards/paper-chain-test.html">Read linked-loop checks and diagram before starting</a></p>'
+        if activity["slug"] == "paper-chain-test" else ""
     )
     first_cue = (
         f'<p class="distance-start-cue"><strong>{esc(ACTIVITIES["car-ramp-distance-test"]["start_cue"])}</strong></p>'
