@@ -6,6 +6,41 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-096",
+      "title": "Audit Tape Road inherited hub time and mess trust labels",
+      "kind": "bounded-existing-owner-trust-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "1a067052c1b0b2fc446d7b0a4176d3f13c0cd8cf",
+      "exact_paths": [
+        "reviews/tape-road-hub-trust-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Heartbeat2026-10-29T00:03:08.987Z; actual00:03:14Z/October28 20:03:14EDT/count0/deadline00:48:14Z/max3. Completedfreshfetch clean0/0 at1a06705; RES095release/factualcloseout fullyclosed. Local Independent hub TapeRoad table says3min/low; current card Open-ended/Notmeasured and maintained guide exactduration/mess UNKNOWN. IMP024 explicitly preserved hubs, named new cross-surface trust gap, not repeated first-start/chooser qualification.",
+      "parent_problem": "Caregiver selecting a short low-mess Tape Road from an existing hub must distinguish known constraints from unmeasured outcomes before committing surface/tape/cleanup attention. Secondary stress uncertain floor finish and younger reachable child; do not turn inherited labels into observed time/mess.",
+      "hypothesis": "Current rendered TapeRoad hub chooser/tags inherit unsupported numeric timing/low-mess labels from historical data even though maintained depth discloses UNKNOWN. A narrow generator-owned metadata alignment may improve decision honesty without newURL or recipe change.",
+      "acceptance": "Trace historicaldata/source/generator/current TapeRoad hub table-tags versus maintained card/guide; verify relevant production bytes and actual desktop/mobile/enlarged-text selector task, fourgroundedlenses/everysection/all13/criticaltrust. Reconcile current maintained source bodies withinlimits. Return IMPROVE/PRESERVE with exact separatelyregistered implementation paths/defaultlabels/invariants/QA/revert; do not duplicate closed card/guide first-start audit or expand recipe.",
+      "qa_plan": "Exact7 research/operator only; full278/diffcheck/jq/JSON-CSV/sourceprivacy/EOF/refs/uniqueIDs/all101GSC/prior192items/site-source-data-config conserved. Freshdifferent full7 read-onlyreview max3; reviewer273other+fourpositiveexacttitlearchitecture277 no forbidden datecase/main. Completedfetch/no divergence/exactfrozenstage/completeunpushedrange/docs mainpush/alignment/noPages. Separatelyregister qualified repair promptly within original00:48:14deadline.",
+      "invariants": "One writer. No site/generator/data/config/automation/ControlRoom/indexrequest/paid/product/account/outreach changes inresearch. Preserve TapeRoad guide/card/diagram/rules/source distinctions and all unrelated activity modules; no measuredtime/mess/safety/family/trustgain/SEO claim, no unqualifiedmaterialsubstitution or newURL.",
+      "observation_window": "Actual2026-10-29T00:03:14Z/count0/new-actiondeadline00:48:14Z/max3; sprintactive, October28locallearning. November1/October30/globalcutoff unchanged.",
+      "reconsider_if": "Production or current generator disproves mismatch, existing reviewed evidence qualifies labels, or no actionabletrust failure: preserve. Verified metadata failure qualifies only separatelyreviewed exactsource/site repair, not page expansion.",
+      "phase": "cycle1-P2-exact25-test-dependencies-corrected-cycle2-pending",
+      "scope_clarification": "Six declared pages render FIVE shared legacy TapeRoad table/modules plus ONE custom IndoorDelivery. Shared child-facing peeling precedes latefloorcheck/card; Indoorstop/cardlate. Audit same-job guide-firsthandoff and unsupportedlabels, including earlierIndoorchooser/quickroute. Live guide quickstart stop is after adult-child list: qualify only moving existing stop before list, content/rules/diagram/card/peers otherwise protected; exact18 separate repair includes guideHTML. No newrecipe.",
+      "next_action": "Trace exact TapeRoad hub ownership/table-tags, current source bodies and live decision task; freeze bounded separate repair only if qualified."
+    },
+    {
       "id": "KAL-RES-095",
       "title": "Qualify a shared pretend-shop first-exchange job",
       "kind": "bounded-create-imagine-qualification",
