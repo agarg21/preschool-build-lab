@@ -6,6 +6,41 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-113",
+      "title": "Discover current non-paper making parent jobs before candidate selection",
+      "kind": "bounded-caregiver-question-discovery",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "90cbb7905f842b3debcbf8d311cb3de62ff35b3f",
+      "exact_paths": [
+        "seo/non-paper-making-question-discovery-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Fresh actual run15:55:19Z/11:55:19EDT, guardeligible16:40:19Z deadline/count0. Main90cbb79 aligned0/0 afterfetch. Prior14:03 invocation endedINCOMPLETE with three uncommitted factual ops notes; include these in full7 review, do not claim them as learning. Latest retainedGSC Oct28/no new snapshot atpreflight. RES112 closed fan/tower; no unfinished release.",
+      "parent_problem": "Identify current caregiver decisions about making with non-paper materials, child abilities and home constraints without presuming a recipe, page or commercial recommendation.",
+      "hypothesis": "Demand-first public questions may expose a distinct unresolved making job; source/question date and actual existing-owner comparison can prevent inventory-gap-driven variants. Anecdotes are qualitative, not market demand.",
+      "acceptance": "Inspect3-5 current public caregiver question bodies, retaining only URL/date/paraphrased decision/abilities/constraints/output. Compare current owners and prior closed decisions; return build/upgrade/preserve/defer/reject with one next named unresolved gate. Four source-traced lenses/every research-section/all13 rubric with justified N-A and denominator, no invented beforepage or UI evidence. No full recipe qualification/build silently added.",
+      "qa_plan": "Exact7 research/operator scope including existing three factual notes. diffcheck/jq/full308 native; parse all JSONCSV, validate GSC and compare latest/prior; privacy/docrefs/allprior219 objects/alloutside site-source-data conserved. Fresh different full7 readonly independent review, first-command rawindex native-ns capture/allfile conservation/307SAFE, max3 cycles/PASS only. Freshfetch/frozenexactstage-fullrange/docs-onlypush/finalalignment.",
+      "invariants": "One writer, no overlap/ControlRoom/automation edits/spend/indexing/accounts/tracking/productrecommendations/family or safety/educational outcomes. Preserve allsite/scripts/tools/workflows/data. No repeated fan/rhythm/folding/closed qualification absent named new evidence.",
+      "observation_window": "Actual run2026-10-29T15:55:19Z, heartbeat15:55:12.426Z/count0/max3/newstartdeadline16:40:19Z. Sprint expiryOct30 11:58:33Z exactrestoration, Nov1 synthesis, Nov3 22:00Z globalcutoff unchanged.",
+      "reconsider_if": "No current questions or no distinct job means record supported defer, not demand fabrication. Narrow access failures permit alternatives. Stop on divergence or unreviewable material scope.",
+      "phase": "reviewed_pending_research_release",
+      "independent_review": "RES113 independent Singer01a18867-6614-77d2-95f8-77cb113013cd/Codex-RES113-C1-Indexd7dd-20261029 full7 cycle1 PASS/noP0-P3; own307SAFE/five question bodies/actualowners/structured-privacy/conservation. All711file hashes-writeRelevantnsmetadata and actualrawindexSHAd7ddae27e89b2a715584c883391dace1b2d103fbb94ef9b15b354dec598719c0/native-ns firstcommand conserved; HEAD-status-emptyindex unchanged. OwnQ4body2mo/crawltoday differs from writer20d/lastmonth; date instability retained, not exactrecency/demand. Master308; reviewerclosed/no continuingprocess/browser/server. Exactdocs-only release pending; no site/build/family result. Actual15:55:19/count0/deadline16:40:19/max3.",
+      "next_action": "Inspect current public caregiver questions, compare actual owners, name one next missing qualification gate; build only under separate registration if qualified."
+    },
+    {
       "id": "KAL-RES-112",
       "title": "Qualify preschool paper-fan making versus the prepared-fan tower component",
       "kind": "bounded-making-candidate-qualification",
