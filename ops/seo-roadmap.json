@@ -9,7 +9,7 @@
       "id": "KAL-IMP-075",
       "title": "Put existing Foil Boat stops and required folds route before execution",
       "kind": "bounded-three-owner-prestart-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "42fcf19fb60740014f2e4d7294d7d3a1979fdcdd",
       "exact_paths": [
@@ -46,9 +46,13 @@
       "invariants": "Master solewriter/nooverlap. No physical-family-safety-learning-SEO result; no newsourcecheckdate/cardgeometry/cargo/print/CSS/globalmetadata/library/peer/URL changes, automation/ControlRoom/paid/index/accounts/products unchanged.",
       "observation_window": "Actual2026-10-29T05:00:45Z/count1/deadline05:45:45Z/max3; selection05:11:12Z after prior fullyclosed. Finishsafely afterstartwindow ifneeded; Oct30restoration/Nov3cutoff retained.",
       "reconsider_if": "Stop on loststop/changedwords/wronghash-skippingcontrols/recipe-cargo-peer drift/divergence/regression/ambiguousrollback; no silent scopegrowth.",
-      "phase": "registered-before-source-edits",
+      "phase": "production-verified",
       "scope_amendment": "05:12Z before editing extra fixture: exact17 adds tools/original-pack-trust.test.mjs solely whole-boat-module hash after exact reviewed stop move; old815a41c3/newfa4e4d1c, wholeHTML normalizedmove-only conservation passed. Firstnative296/298 also newpuretest importpath harness correction; no product scope expansion. Original RES100 exact16 brief retained as historical qualification.",
-      "next_action": "Exact16 implementation and fullQA/differentreview/exactSHAproduction beforecompletion."
+      "release_commit": "aced8e3093f5726cc90cb37e7bae3a8d7e10d12b",
+      "pages_run": "40822941809 SUCCESS exact-SHA",
+      "review_result": "Ptolemy01a18614 full17cycle1PASS/noP0-P3/independent297/all690files+actualrawindex conserved; Master298.",
+      "production_result": "2026-10-29T05:22:35Z 7HTTP200byte matches/3canonical-H1/fourmodes24key9tap16Back/twoNoJS/blockedPNG/threeearlystops/normalerrorsEMPTY/6PNGs identicalLocal+visuals/no marker/exactSHA+bytes; postpushfetchclean0/0.",
+      "next_action": "Factualsevencloseout/alignment thenreturn/count2/original05:00:45clock. Nexteligible targetedOriginalPackRampDetective-ShadowBuilder controlorder andclosedreview inspection beforeselecting work, no defect/build presumed."
     },
     {
       "id": "KAL-RES-100",

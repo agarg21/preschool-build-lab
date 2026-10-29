@@ -1,5 +1,17 @@
 # Foil Boat Pre-Start Repair - October 29, 2026
 
+## Verified Release Receipt
+
+Material aced8e3093f5726cc90cb37e7bae3a8d7e10d12b; [exact-SHA Pages40822941809](https://github.com/agarg21/preschool-build-lab/actions/runs/40822941809) SUCCESS. Freshfetch/no divergence/exact17 frozenstage/completeunpushedrange0aaa1d2b9afae4b33311b0f82646a4eafc3c40f29012e7b291694fc0d07005fa identity/privacy/singleEOF/mainpush/postpushfetchclean0/0 PASS. No release marker in site/workflow; exactSHA plus affected/preserved bytes verified instead.
+
+Different Ptolemy01a18614-eacf-7440-9874-7e9ba8894098, full17cycle1PASS/noP0-P3. Independent297 tests:293outsidearchitecture+4positive cases; initial shorthand selected3, corrected explicit selection passed4, forbidden datecase andgeneratorentrypoints neverran. All15creditedpure renders match. Ownbrowser7bytes/fourmodes35key21tap29Back/twoNoJS/blockedPNG/ownvisuals/normalerrorsEMPTY, browserclosed. All690tracked-nonignoredfiles/17hashes/HEAD-status-emptyindex/actualrawindexbytes ANDmetadata conserved. Index73670bytes SHA256c02ef708320c8a69f60ff7109db77ec1cfb75dafd7e1480bfd4af778ba52f50f. Reviewedexact17amendment/completeHTMLnormalization/97sitepeers/201prioritems/allstructuredinputs confirmed. Reviewerclosed; no generatorCLI/main or forbidden mutating fixture executed by reviewer.
+
+Production suite completed2026-10-29T05:22:35Z. SevenHTTP200 checkout byte matches: Engineering/card/Pack/CSS/originaldiagram/sitemap/favicon. All3HTMLcanonical links correct andoneH1each. Samefourviewport/root modes24key9tap16Back/two390noJS/chooser-card-source-fullsize-return/Packearly#start/unknownhash/textfit/headerclearance/threeearlystops pass,3-4-3steps preserved. PNG-abort stressnaturalWidth0/fullalt/fourwrittensteps/uncut-corner text/document390 pass, expectedabort separate from normal zero console/page/runtime/HTTPerrors.
+
+All6 production PNGs /tmp/kal-imp075-production-{hub-390,card-start-390,pack-390,card-start-320-root32,diagram-320-root32,blocked-diagram-390}.png byte-identical to corresponding reviewed localcaptures and visuallyinspected05:22:50Z. No retry/regression/known release blocker. Browserclosed; owned8809PID3008 commandverified beforeTERM, session41490exit143 acknowledged andportempty. Whole-page tablefit/truezoom/AT/physical-family-safety-learning-SEO outcomes not established.
+
+Sameoriginal05:00:45/count2/deadline05:45:45/max3; factualsevencloseout/alignment thenreturn, no third quota. Nexteligible invocation freshclock/guard/remote/newGSC then targeted Original Pack Ramp Detective and Shadow Builder control-order/closed-review inspection before selecting work; no defect/build/requalification presumed.
+
 ## Contract And Scope
 
 KAL-IMP-075; base42fcf19fb60740014f2e4d7294d7d3a1979fdcdd after independently released [RES100](foil-boat-engineering-prestart-audit-2026-10-29.md), material610c1b1/factual42fcf19. Same actual2026-10-29T05:00:45Z/count1/deadline05:45:45/max3, selected05:11:12Z. Master sole writer/no overlap.
@@ -81,4 +93,4 @@ Current after-change whole-route editorial proxy, all13/max26/noN/A, not a measu
 
 October29: correct recipe/early adult role does not establish early stop delivery. Exact control moves can preserve a maintained task and its existing deep anchor. Hypothesis: early controls and real early link answer the pre-action decision without changing mechanics. Confidence high for byte/order/route invariants, moderate editorial usefulness, human effects unknown. Falsify on late control, skipped#start cue, broken early link, changed no-cargo/free-floating wording, peer drift or concrete source/user failure. Next observation only on named changes; overlapping GSC not causal. November1/October30/globalcutoff retained.
 
-Fresh different independent full17 read-only PASS/PASS_WITH_P3/noP0-P2/max3, finalQA/frozenstage/fullunpushedrange/freshfetch-no divergence/mainpush/exactSHA Pages/live bytes+task/alignment remain required. No marker assumed; exactSHA+bytes if absent. Stop on regression/divergence/ambiguousrollback. No production delivery before gates.
+Pre-release gate retained as history: different full17 read-only PASS/PASS_WITH_P3/noP0-P2/max3, finalQA/frozenstage/fullrange/freshfetch-no divergence/mainpush/exactSHA Pages/live bytes+task/alignment were required before delivery. Gates fulfilled by verified receipt above; factualcloseout only follows, no new material scope.
