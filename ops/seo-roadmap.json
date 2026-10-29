@@ -6,6 +6,40 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-099",
+      "title": "Audit Paper Chain Engineering before-action boundaries and maintained-card route",
+      "kind": "bounded-existing-owner-boundary-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "7cec14ec9e0c1fd15f17bda88f2a0efdbc67dc40",
+      "exact_paths": [
+        "reviews/paper-chain-engineering-boundary-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Actual03:56:16Z/October28 23:56:16EDT/count0/deadline04:41:16/max3; cleanaligned7cec14e/priorIMP073closed/all101GSC/no incoming/November1notdue. Printcontrol/@media print/offlinepromise absent: no printproject. PaperChain global6min-low metadata is unused outside Engineeringoverride; renderedcuegap is EngineeringlateStop/Parent+latecard while IMP031 exactcardonly earlychecks and IMP015/RES016 preservebookreachdistinctjob.",
+      "parent_problem": "Caregiver entering Engineering book-reach mission with child able tojoinpaperloops and youngerchildinreach needs adult/material/body-pull/mouthing/stop boundaries and linked-loop diagram before physicalsteps without confusing optionalone-sheetlength rules withbookreach.",
+      "hypothesis": "ExistingEngineeringbookreach steps correctlyspecifythreadthenclose, but controls/maintainedcard arrive afterexecution; earlyexactStop/Parent plus maintainedchecks-diagram handoff mayresolve trust-order gap without altering reachmission or copyingone-sheetchallenge.",
+      "acceptance": "CurrentretainedWTTW/Oct15cardlineage/liveowner-card actualdesktop-mobile-root32/key-touch-Back/noJS/fourlenses/everysection/all13 disposition; distinguishunusedmetadata and closedcard-arrivalwork. InventoryALL date/testdependencies and exactseparate repair ifqualified; preserveglobalmetadata,bookreachdefault,card/diagram/CSS/peers/URLcount. No printfix/newURL/recipe preapproved.",
+      "qa_plan": "Researchexact7/full290/diffcheck/jq/JSONCSV/privacyEOF/refs/all198prioritems conserved/all101GSC/site-source-data-config unchanged. Freshdifferent full7readonlyreview max3/PASSonly; reviewer289safe61other285+fourpositiveexactarchitecture/forbiddendatefixture excluded beforeexecution/no generators-mains. AllGitreads optionalwritesdisabled/rawindexallfilesconserved. Freshfetch/no divergence/exactfrozenstage/completeunpushedrange/docs mainpush/alignment before separatelyregisteredbuild underoriginaldeadline.",
+      "invariants": "One Masterwriter/nooverlap, researchonly. No site/source/data/config/automation/ControlRoom/spend/index/accounts/products or outcomeclaims. PreservePaperChain cardearlyboundaries/linkedloopdiagram/one-sheetoptionalvbookreachdistinction andunusedglobal6minmetadata. No familytesting/safety/SEO result.",
+      "observation_window": "Actual2026-10-29T03:56:16Z/count0/startdeadline04:41:16Z/max3; crossesNYmidnight: retainregistrationOct28 butdatecurrentchecks/learning byactualNYday. October30/globalcutoff retained.",
+      "reconsider_if": "Ifbookreach alreadyhasqualifiedearlyhandoff/controlorder/currenttaskpasses, preserve; ifnewsource/default conflictneeded beyondorder/handoff, separatelyboundnot silentlyrewrite. No repeatIMP031card or IMP070arrival audit.",
+      "phase": "registered-before-extended-audit",
+      "next_action": "Reconcile retained/currentprimary and currentEngineering-card actualtask; qualify exactearlyboundary/handoff onlyifsupported, fullQA/review/docsrelease then promptlyregisterrepair."
+    },
+    {
       "id": "KAL-IMP-073",
       "title": "Resolve implicit favicon fallback without a branding rewrite",
       "kind": "bounded-static-asset-defect-repair",
