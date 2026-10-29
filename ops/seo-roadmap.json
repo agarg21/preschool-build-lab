@@ -9,7 +9,7 @@
       "id": "KAL-RES-096",
       "title": "Audit Tape Road inherited hub time and mess trust labels",
       "kind": "bounded-existing-owner-trust-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "1a067052c1b0b2fc446d7b0a4176d3f13c0cd8cf",
       "exact_paths": [
@@ -36,9 +36,11 @@
       "invariants": "One writer. No site/generator/data/config/automation/ControlRoom/indexrequest/paid/product/account/outreach changes inresearch. Preserve TapeRoad guide/card/diagram/rules/source distinctions and all unrelated activity modules; no measuredtime/mess/safety/family/trustgain/SEO claim, no unqualifiedmaterialsubstitution or newURL.",
       "observation_window": "Actual2026-10-29T00:03:14Z/count0/new-actiondeadline00:48:14Z/max3; sprintactive, October28locallearning. November1/October30/globalcutoff unchanged.",
       "reconsider_if": "Production or current generator disproves mismatch, existing reviewed evidence qualifies labels, or no actionabletrust failure: preserve. Verified metadata failure qualifies only separatelyreviewed exactsource/site repair, not page expansion.",
-      "phase": "cycle1-P2-exact25-test-dependencies-corrected-cycle2-pending",
+      "phase": "completed-reviewed-research-docs-release",
+      "release_commit": "234c91075d60bf9335f288f130488775ae926628",
+      "review_result": "Maxwell01a18502 full7 cycle1FAIL/P2 missing7testdependencies corrected; cycle2PASS/noP0-P3, independent277/Master278/all674-rawindex conserved",
       "scope_clarification": "Six declared pages render FIVE shared legacy TapeRoad table/modules plus ONE custom IndoorDelivery. Shared child-facing peeling precedes latefloorcheck/card; Indoorstop/cardlate. Audit same-job guide-firsthandoff and unsupportedlabels, including earlierIndoorchooser/quickroute. Live guide quickstart stop is after adult-child list: qualify only moving existing stop before list, content/rules/diagram/card/peers otherwise protected; exact18 separate repair includes guideHTML. No newrecipe.",
-      "next_action": "Trace exact TapeRoad hub ownership/table-tags, current source bodies and live decision task; freeze bounded separate repair only if qualified."
+      "next_action": "Research released; factualcloseout then guard and promptly separatelyregister qualified exact25 IMP071 within original00:48:14deadline. No site delivered by RES096."
     },
     {
       "id": "KAL-RES-095",
