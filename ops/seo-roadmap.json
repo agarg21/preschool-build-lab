@@ -9,7 +9,7 @@
       "id": "KAL-IMP-077",
       "title": "Put existing Straw Rocket stop boundary before first launch",
       "kind": "bounded-source-preserving-existing-guide-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "c1f20ca4befa9d2f379a882db950f3cc5b76b490",
       "exact_paths": [
@@ -41,9 +41,11 @@
       "invariants": "Mastersolewriter/nooverlap. Preserveprinter/JPLsingletemplate-cylinder-fins-tapednose/pencil/adultlaunch-clearpath/no suction-force-weight/childdecline/sourcecheckedSept21/publicationSept22/diagramhash-geometry/credits/anchors/CSS/library/99sitepeers/no newURL/product/paid/index/automation/ControlRoom/tracking/accounts. Physical-family-safety-SEOoutcomesUNKNOWN.",
       "observation_window": "Sameactual2026-10-29T09:01:52Z/count2/deadline09:46:52/max3; selected09:29:05Z afterRES107/factualc1f20ca fullypushed/freshclean0/0. Thirdfinal; finishorcheckpoint nofourth. Oct30restoration/Nov1synthesis/Nov3cutoff unchanged.",
       "reconsider_if": "Stoponscope/conservation/native/P0-P2/route-sourceconflict/divergence/productionregression; no ambiguousrollback or newrecipe. Ifunexpectedfixturepathneedschange registeramendmentbeforeedit. Preserveworknotunreviewedrelease.",
-      "phase": "reviewed-awaiting-release",
+      "phase": "production-verified",
       "review_result": "FreshOperator6fb9/Heisenberg01a18702 full12cycle1PASS/noP0-P3/302safe/own7bytes-fourmodes-route-visual/700files-actualrawindex-writeRelevantnsmetadata conserved; temporaryhelper corrections retained/reviewerclosed",
-      "next_action": "Local303/all3twice/exact2site99peers/688outside/prior210/65keys-oneDate/normalization/fourmodes24key6tap20Back-twonoJS-sixvisuals-new24of26PASS. Freshdifferentfull12review thenexactSHA Pages/live7bytes-sametask/alignment/servercleanup. Same09:01:52/count2/deadline09:46:52/thirdfinal/no fourth."
+      "next_action": "Factualsevencloseout/alignment thenreturn count3/no fourth/same09:01:52/deadline09:46:52. Nexteligible freshclock-guard-remote-GSC thenmaintainedguide-firstaction versusclosedreviewinspection beforeone nameduncoveredtask; no presumeddefect/repeatedqualification/newURL.",
+      "release_commit": "0a5b91fba5efe2e0e22a95dccfe922bdc9befc5c",
+      "release_result": "ExactSHA Pages40851665558 SUCCESS; production09:43:01 sevenbytes/canon-H1/fullfourmode24key6tap20Back-twonoJS-blockedimage-root32-stopfirst/normalerrorsEMPTY/sixlivePNGsidenticalreviewedlocal andviewedby09:43:28. Exact12 frozenstage-fullrange2cb006a1d5603b5e40b42d0a518456d3920d36e3f877e482bf40441783c93ee9 identity/privacyEOF/freshfetch-no divergence/push/postpush0/0 PASS. No marker/retry/regression/blocker/outcomeclaim; owned8811PID46887stopped/session43712exit143ack-portempty09:43:28."
     },
     {
       "id": "KAL-RES-107",
