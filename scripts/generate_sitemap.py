@@ -40,7 +40,7 @@ CONTENT_LASTMODS = {
     "collections/no-cut-preschool-activities.html": "2026-10-28",
     "cards/duplo-games.html": "2026-10-27",
     "collections/fine-motor-activities-for-preschoolers.html": "2026-10-28",
-    "articles/paper-straw-rocket.html": "2026-09-22",
+    "articles/paper-straw-rocket.html": "2026-10-29",
     "articles/paper-helicopter-kids.html": "2026-09-19",
     "articles/paper-cup-tower-kids.html": "2026-10-27",
     "cards/cup-tower.html": "2026-10-27",

@@ -12,7 +12,7 @@ test("rocket has one canonical article with no outcome schema", () => {
   const schema = JSON.parse(html.match(/application\/ld\+json">([\s\S]*?)<\/script>/)[1]);
   assert.equal(schema["@type"], "Article");
   assert.equal(schema.datePublished, "2026-09-22");
-  assert.equal(schema.dateModified, "2026-09-22");
+  assert.equal(schema.dateModified, "2026-10-29");
   assert.ok(!("aggregateRating" in schema));
   assert.ok(!("totalTime" in schema));
 });
@@ -27,6 +27,22 @@ test("rocket fit and adult-launch boundary precede assembly", () => {
 
 test("rocket retains one template lineage with explicit fit and seal", () => {
   for (const text of ["both fin units", "middle scissors mark", "Remove the pencil to check the straw", "put the pencil back", "opposite side", "Nothing should extend below", "Tape the twisted nose closed", "then remove the pencil", "bottom stays open", "four triangular fins", "not a second straw or pipette"]) assert.ok(html.includes(text), text);
+});
+
+test("rocket launch fragment begins with the stop boundary before the first action", () => {
+  const source = fs.readFileSync("scripts/generate_seo_pages.py", "utf8");
+  const launch = html.match(/<section id="launch"[^>]*>([\s\S]*?)<\/section>/)?.[1];
+  assert.ok(launch);
+  const paragraphs = [...launch.matchAll(/<p>([\s\S]*?)<\/p>/g)].map((match) => match[1]);
+  assert.equal(paragraphs.length, 3);
+  assert.ok(paragraphs[0].startsWith("<strong>Stop</strong>"));
+  for (const boundary of ["a child mouths the materials", "part is damaged", "adult control cannot continue", "suction", "Keep all launch equipment with the adult"]) {
+    assert.ok(paragraphs[0].includes(boundary), boundary);
+  }
+  assert.ok(paragraphs[1].startsWith("The adult checks the clear direction"));
+  assert.ok(paragraphs[1].includes("blows outward through the straw once"));
+  assert.ok(paragraphs[2].startsWith("Invite your child"));
+  assert.equal(source.match(/<section id="launch"[^>]*>([\s\S]*?)<\/section>/)?.[1], launch);
 });
 
 test("rocket recovery and child roles do not promise outcomes", () => {
