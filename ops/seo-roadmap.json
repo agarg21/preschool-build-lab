@@ -9,7 +9,11 @@
       "id": "KAL-IMP-072",
       "title": "Move Ball Maze existing controls before execution",
       "kind": "bounded-existing-owner-trust-repair",
-      "status": "in_progress",
+      "status": "completed",
+      "release_commit": "b4ffe1176f03e67a4a41ccaa9f64de6f602043a7",
+      "pages_run": 40802152282,
+      "release_evidence": "ExactSHA PagesSUCCESS; six productionHTTP200byte matches; fourmodes16key3tap19Back/twoNoJS-hashes/fivevisuals; finalfreshfetchclean0/0. Existingfavicon404 only, noothererrors.",
+      "review": "Freshdifferent Kant01a1854a full14 cycle1PASS_WITH_P3 diagnosticwording corrected/cycle2PASS noP0-P3; independent286/all680/rawindex conserved; Master287.",
       "registered_on": "2026-10-28",
       "base_commit": "af1052ef15be7297df7a77ffbfefb1772aefe96f",
       "exact_paths": [
@@ -43,8 +47,8 @@
       "invariants": "One Masterwriter, third/finaltransaction. Preserve instructions/materials/rules/card/CSS/image/peerpages/data/workflows/globalmetadata. No newURL/product/spend/index/accounts/ControlRoom/automation/familytesting/SEO or safetyassurance.",
       "observation_window": "Actual2026-10-29T00:57:16Z/count2/startdeadline01:42:16/max3; selected beforedeadline; finishsafeafterdeadline/no fourth. November1/October30/globalcutoff retained.",
       "reconsider_if": "Stop on critical cue/route/claim/peer regression or divergence/ambiguousrollback; no silently broadened source/content scope.",
-      "phase": "registered-before-source-edits",
-      "next_action": "Implement exact unchanged-control moves/earlyguide/datefixtures; run full QA and independent review before release."
+      "phase": "production-verified-completed",
+      "next_action": "No fourth thisrun. Nexteligible heartbeat freshclock/guard/remote-newGSC then bounded triage observedfavicon404 provenance/scope before anyfix; preserve closedBallMaze recipe/peers and SimonSays qualification gates."
     },
     {
       "id": "KAL-RES-098",
