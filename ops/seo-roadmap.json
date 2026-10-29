@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-114",
+      "title": "Qualify prepared-dough flatten-and-imprint making",
+      "kind": "bounded-making-candidate-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "98b10488c82f10a6fb99a3ceb95420e60515d5ee",
+      "exact_paths": [
+        "seo/prepared-dough-imprint-qualification-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "TOOL_ESTIMATE",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Reviewed/pushed RES113c659503 factual98b1048 found broadwork/materialconstraints but no exact demand or build. Freshclock16:11:07Z/12:11:07EDT guardeligible, alignedclean0/0/no newGSC; no unfinishedrelease. Sameactual15:55:19/count1/deadline16:40:19/max3.",
+      "parent_problem": "Caregiver considering a simple non-paper process task needs to know whether a prepared-material flatten/imprint action fits child abilities and adult attention, without cooking a recipe or making a detailed model.",
+      "hypothesis": "Exact activity queries and current primary bodies may establish distinct demand and an unanswered parent decision for prepared-dough imprinting; generic squish/stamp/low-mess claims alone are not novel utility. No current KAL owner cleanly fits, but absence is not demand.",
+      "acceptance": "Inspect one exact live query family and representative openedprimarybodies; seek available nonpaid exact/near-exact demand evidence without transferring recipe/sensory broad estimates or counting anecdotes as market. Freeze one material/mechanism comparison; reconcile text/visual/material/role/firststep/stop/rescue as supported or UNKNOWN; distinguish clay/recipe/product lineages. Compareactualowners/RES113. Fourtracedlenses/everysection/all13/no beforepage/no fakeUI. Return build/upgrade/preserve/defer/reject exactgates; qualifiedbuild separatelyregister promptly withinlimits.",
+      "qa_plan": "Exact7 research-only; full308/diffcheck/jq/structured106JSON19CSV2212rows3preexistingblank/101GSC/privacy/docrefs/prior220objects/alloutside101site conservation. Fresh different readonly full7 review firstcommand rawindexnative-ns/allfileconservation/307SAFE max3PASSonly; freshfetch/frozenexactstage/fullrange/docs-onlypush/alignment.",
+      "invariants": "No site/data/source/tool/workflow/config change, recipes/cooking/baking/sharp-tools/small-decorations/clinical/productrecommendations/spend/indexing/accounts/outreach/tracking/family-outcomes. Mastersolewriter/ControlRoompaused/oneaction. No repeat5discoveryquestionsasnewunit. Allsourceclaims bounded; no universal safety.",
+      "observation_window": "Sameactual2026-10-29T15:55:19Z/count1/max3/newactiondeadline16:40:19Z. Secondaction eligible16:11:07Z. Sprint expiryOct30 11:58:33Z exactrestoration/Nov1synthesis/Nov3 22:00Zglobalcutoff unchanged.",
+      "reconsider_if": "Demand or distinctmissingutility absent => defer/reject not guide. Criticalmaterial-role-stop conflict => furtherresearch/defer; no paper/tool substitution as invention. Stopdivergence/P0-P2beyond3cycles.",
+      "phase": "reviewed_pending_research_release",
+      "independent_review": "RES114 independent Galileo01a18873-1dcf-7940-9cc4-8ee212089183/Codex-RES114-C1-Index42f2-Fresh-20261029 full7cycle1 PASS/noP0-P3; own307SAFE/fiveprimarybodies/exactqueries/hash-matchedBeckerimage. All712file hashes-writeRelevantnsmetadata/firstcommandactualrawindexSHA42f26626eef879a43510cf0993801b26be6121cf3b63a6d81efdc171de75a35b/nsstat/HEAD-status-emptyindex conserved. OwnQ2body2mo differs retained4d, Q4body2mo differs20d; no exactrecency/demand inference. Master308; reviewerclosed/no processes/browser/server. Docs-only release pending, no build/site/family result. Sameactual15:55:19/count1/deadline16:40:19/max3.",
+      "next_action": "Inspect exact prepared-dough imprint query family and current primary bodies, separate demand/utility/material lineage gates; no build presumed."
+    },
+    {
       "id": "KAL-RES-113",
       "title": "Discover current non-paper making parent jobs before candidate selection",
       "kind": "bounded-caregiver-question-discovery",
