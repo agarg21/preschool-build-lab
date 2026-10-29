@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-106",
+      "title": "Discover a distinct preschool small-creature observation decision",
+      "kind": "bounded-explore-discover-parent-question-research",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "d1cbc1fa87966dee99677b9a25707747f61e7fe3",
+      "exact_paths": [
+        "seo/preschool-small-creature-observation-discovery-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "TOOL_ESTIMATE",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "parent_problem": "Caregiver considers watching a small living thing outdoors with a preschool non-reader; needs to distinguish watching from collecting/handling, place/adult control, child contribution, absent-find/decline and end without unsupported species, safety or learning claims.",
+      "evidence": "PriorRES104/105 fullyreleased/factuald1cbc1f clean0/0. No unfinishedeligibletransaction/newGSC; latestOct28/priorOct27 remains sensing not exactdemand. ClosedRES048naturehunt/RES090listening/RES092cloud/RES094drawing retained, no exactsmall-creature observation qualification found in focusedtitles/artifacts.",
+      "hypothesis": "3-5 current-accessed public caregiver question bodies and one live observation query/body family distinguish an exact small-creature watching decision from general outdoor ideas, capture/identification/petkeeping or clinical-fear questions and may qualify one next missing gate, or support defer/reject.",
+      "acceptance": "Inspect3-5public caregiverquestion bodies with URL/date/paraphraseddecision/abilityconstraints only and explicitreused/adjacent status; current narrowquery and primarybody procedures, actualowner/closeddecision audit, materialdemand/missingutility/home-default/visual gates. Four traced lenses/everysection/all13 withN-A. Return build/upgrade/preserve/defer/reject; no automatic no-collection variant orcapture-pet-medical recipe. Any qualified build separateregister promptly.",
+      "qa_plan": "Full302native/diffcheck/jq/exact7/structuredJSON-CSV101GSC/privacyEOF/docrefs/prior208items/site-source-configconservation. Different freshfull7readonlyreviewmax3cycles/PASS-PASS_WITH_P3/nonmutating301/actualrawindexconserved; freshfetch/no divergence/frozenstage/fullunpushedrange/docs-onlypush/alignment. No siteorPageswork.",
+      "invariants": "Mastersolewriter/nooverlap/noControlRoom/scheduler/site/data/code/config/spend/products/index/accounts/tracking. No collecting/handling/identification/medical/legal/petcare/universal-safe or developmental instructions assumed. No private data/copiedquestions/firsthandoutcomes. Closednaturehunt/listening/cloud/drawing not repeated absentnamednewgate.",
+      "observation_window": "Heartbeat2026-10-29T09:01:40.849Z; actualrunstart2026-10-29T09:01:52Z/05:01:52EDT/count0/max3/newactiondeadline09:46:52Z. Oct30restoration/Nov1synthesis/Nov3cutoff unchanged.",
+      "reconsider_if": "Defer/reject ifquestionsadjacent/olderorpet-medical, currentanswersalreadycoverproposedoutput, exactmaterialdemandunknown ordefault/control-lineageunresolved; no absenceofsourceasopportunity or familytest/paidtooldependency. No themevariant simplybecauseownerabsent.",
+      "phase": "reviewed-awaiting-release",
+      "review_result": "Volta01a186eb full7cycle1PASS/noP0-P3/independent301/all698files-actualrawindex-writeRelevantmetadata conserved; own3questions5bodies/845docrefs/structured-privacy PASS; reviewerclosed",
+      "next_action": "DEFERnewsmall-creatureguide/REJECTmedia-book-discomfort=>activity-demand inference. Threebody/fiveinstruction-source/fourlens-everysection-all13 evidence14of24; exactdemand/missingutility/homedefault unqualified. Fullnative/structured/differentfull7review/docsrelease, then independenteligible task only/no repeatclosedgate/no quota."
+    },
+    {
       "id": "KAL-RES-105",
       "title": "Qualify a shadow-story play job against the maintained shadow-size owner",
       "kind": "bounded-distinct-shadow-play-qualification",
