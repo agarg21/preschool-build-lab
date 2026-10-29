@@ -6,6 +6,40 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-100",
+      "title": "Audit Engineering Foil Boat pre-start checks and actual diagram handoff",
+      "kind": "bounded-existing-owner-sequence-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "258070ff5513b5f557601ce8c72fb873fd35dc8f",
+      "exact_paths": [
+        "reviews/foil-boat-engineering-prestart-audit-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Prior RES017/IMP016/RES033 qualify empty hull/no cargo and preserve existing recipe; current Engineering adult_role instructs opening linked folds before start but actual link and Stop/Parent render after three executable steps. Investigate this named prestart-order gate, not repeat demand/cargo qualification or arrival repair.",
+      "parent_problem": "Hub-first caregiver on phone with younger-child reach and continuous-water-attention constraints must encounter existing stop/cleanup and full folds/checks route before starting empty-hull steps.",
+      "hypothesis": "An independent direct/chooser Engineering arrival can expose a required-link/control sequencing gap despite correct card-origin and readable fragments; current bodies and real task determine improve/preserve.",
+      "acceptance": "Current source/owner lineage and every-section/four-lens/all13 scoped task; actual desktop1280 and phone390/root32-390/320 keyboard-touch-Back/noJS/blockeddiagram and visual evidence. Distinguish early existing water role from late controls/link. Preserve recipe/card/diagram/cargo deferral and unknown human outcomes; exact separately registered repair brief only if supported.",
+      "qa_plan": "git diff--check/jq/full294; parse changedJSON and existingCSV, allGSC/source/privacy/scope/EOF/relative links/prior200 roadmap items. Fresh different read-only full7 independent PASS/PASS_WITH_P3 max3/noP0-P2. Frozen exact stage/fullunpushedrange/freshfetch-no divergence/docs mainpush/finalalignment; no site edit or Pages wait.",
+      "invariants": "Master solewriter; source/card/site/data/config/workflows unchanged, no newURL/demand claim/cargo geometry/safety assurance/paid/indexing/accounts/ControlRoom/automation/product edits.",
+      "observation_window": "Actual2026-10-29T05:00:45Z/count0/deadline05:45:45Z/max3; October29 learning, Nov1 weekly notdue, October30 restoration and Nov3 cutoff unchanged.",
+      "reconsider_if": "Preserve if required route/controls already early or no reproducible task failure; improve only demonstrated order/handoff with separately reviewed build; stop on divergence or unavailable independent review.",
+      "phase": "registered-before-extended-audit",
+      "next_action": "Reconcile current primary bodies and retained scope; exercise actual Engineering-card route, write bounded disposition and separate exact repair brief if justified."
+    },
+    {
       "id": "KAL-IMP-074",
       "title": "Put Paper Chain Engineering checks and maintained-card route before execution",
       "kind": "bounded-existing-owner-boundary-repair",
