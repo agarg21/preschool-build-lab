@@ -9,7 +9,7 @@
       "id": "KAL-RES-101",
       "title": "Audit Original Pack Ramp Detective construction and pre-start handoff",
       "kind": "bounded-existing-owner-task-source-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "ed3abd0fa71e39dba203da107eef07a8657931d8",
       "exact_paths": [
@@ -36,8 +36,10 @@
       "invariants": "Mastersolewriter/nooverlap. No newURL/demandrank/recipeoutcomeclaim, no paid/index/accounts/products/automation/ControlRoom/data/site/configchanges inresearch. CurrentGSCoverlapnotcausal; Shadowalreadycovered notnewdefect.",
       "observation_window": "Actual2026-10-29T05:58:46Z/count0/deadline06:43:46Z/max3; October29learningalreadycompleted apply/deepen result. Nov1weeklynotdue/Oct30restoration/Nov3cutoff unchanged.",
       "reconsider_if": "Preserve if currenttask givescoherentconstruction/beforeactionchecks or onlyclosedgatesrepeat; independentlyqualifiedchange separatelyregistered. Stop ondivergence/missingreview; no silent scopeexpansion.",
-      "phase": "registered-before-extended-audit",
-      "next_action": "Reconcile Pack's actual source/construction and retainedclosedreview coverage, test live Pack-guide choice and document bounded disposition."
+      "phase": "reviewed-research-released",
+      "release_commit": "c182fa97320fd8a4bbfae00fed171ce45d2c08a1",
+      "review_result": "Tesla01a18645 full7cycle1PASS/noP0-P3/independent297/all691files+actualrawindex conserved; Master298.",
+      "next_action": "Factualcloseout/alignment thenpromptlyregisterexact9IMP076, same05:58:46/count1/deadline06:43:46/max3; no researchsite delivery."
     },
     {
       "id": "KAL-IMP-075",
