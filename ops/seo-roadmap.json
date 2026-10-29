@@ -6,6 +6,41 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-098",
+      "title": "Audit Ball Maze engineering-to-guide first stop boundary",
+      "kind": "bounded-existing-owner-start-boundary-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "ae282cd96aafea13df0ee75a8759d473d5d101fa",
+      "exact_paths": [
+        "reviews/ball-maze-start-boundary-audit-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "RES097 releasedd67f8ba/factualcloseoutae282cd cleanaligned; sameactual00:57:16/count1/deadline01:42:16/max3. Candidate8min-low-pingpong source mismatch DISPROVEN as rendered: two liveHTTP200/localbytematches use currentfoam ball, no8min/pingpong. Namedactualgap: guidequickStop afteradult/childlist and mission, EngineeringmoduleStop/parent after3localsteps pluslatecard/nodirectguide. PriorIMP023 protectedguide/hubs; IMP021-022 arrival repairsnotthiscontrolorder.",
+      "parent_problem": "Caregiver entering maintained BallMaze fromEngineering or directlyguide must see unchanged material/adult/stop/skip boundaries beforephysicalsteps, with youngerchildinreach, and findsameactivitydepth/rescue without latecarddetour. No new geometry/material or family-performance claim.",
+      "hypothesis": "Existing maintained BallMaze controls are correct but first appear after local execution cues inEngineering andguidequickstart. Reordering existingboundaries and a samejob earlyguide route may resolvecriticalcueorder without recipechange; unusedglobalmetadata is not a defect.",
+      "acceptance": "Reconcile retainedSept14/Oct2lineage/currentprimarysourceboundaries, actualtwoowner+card desktop/mobile/root32/key/touch/Back/noJS/wordfit cues, fourlenses/everysection/all13 baseline/disposition. Preservedeadmetadata/card/guideprose-rules-asset/Engineeringpeers/URL; separatelyqualify exactrepairpaths/test-date-dependencies before substantivecodeedits. No newURL or repeatedlibrary-H1-fragmentqualification.",
+      "qa_plan": "Exact7research/operator; full283/diffcheck/jq/changedJSONCSV/sourceprivacy/EOF/refs/all101GSC/prior195items/site-source-data-config conserved. Freshdifferent full7review max3/PASSonly; reviewer282 positivearchitecture-only/no datefixture/main/generators. Completedfetch/no divergence/exactfrozenstage/completeunpushedrange/docs mainpush/alignment. Promptseparatequalifiedrepairregistration afterreview/releasewithinoriginaldeadline.",
+      "invariants": "One writer, no overlap. Researchonly no site/source/data/config/automation/ControlRoom/index/paid/products/accounts/outreach. No source8min/low/pingpong fieldcleanup justbecauseunused. No newrecipe/stronger safety claim/physicaluse/familytesting/SEO outcome. Retainactualrunclock/count/cutoffs.",
+      "observation_window": "Actual2026-10-29T00:57:16Z/count1/newactiondeadline01:42:16Z/max3, sprintactive/October28local. November1/October30/globalcutoff unchanged.",
+      "reconsider_if": "Actualrender/cue task disprovesfailure, preserve; exactearlyboundary/handoff only qualifies ifcurrentcontrols andpeer isolation canremain. New sourceconflict requires furtherboundedresearch/defer, not silentrewriting.",
+      "phase": "twoowner4modes-source-reconciled-before-research-review",
+      "scope_clarification": "Every-section full #first-run adult-boundary callout is after5steps too; qualify unchangedcallout-before-list as sameguide cueorder, no newrecipe/content. Global8min-low-pingpong notrendered: preserve. Candidate exact14 includesonly2HTML/source/sitemap/newfocusedtest/oneexistingdatefixture plus7records.",
+      "next_action": "Audit currentEngineering/guide/card route andretained/currentprimaryboundary, inventory ALL requiredfixtures, freeze narrowearlyStop/guidehandoff repair onlyifqualified."
+    },
+    {
       "id": "KAL-RES-097",
       "title": "Qualify Simon Says first contrast and re-entry for preschool play",
       "kind": "bounded-play-lane-qualification",
