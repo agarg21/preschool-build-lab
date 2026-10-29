@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-102",
+      "title": "Discover one unresolved caregiver decision in simple cooperative movement play",
+      "kind": "bounded-public-question-discovery",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "930e0dad30d9b443331513b68bbf15627f579d9b",
+      "exact_paths": [
+        "seo/cooperative-movement-question-discovery-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "TOOL_ESTIMATE",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Five newly retained current-accessed caregiver question bodies with date conflicts/exclusions; RCN/Purdue currentrule bodies, PBS description/notvideo; Montana502+one timeout retry/searchonly;2PDFextractsonly; existingSock/Indoor/closedRES060-075-097 ownership preserved. No exactmaterialdemand or missingutility proven.",
+      "parent_problem": "Caregiver of child3-6 seeks a manageable shared movement game, with clear roles/rule/space/finish rather than inferred developmental or independent-play outcomes.",
+      "hypothesis": "A bounded3-5 current-public caregiver-question sample plus current query bodies and owner/closed-decision comparison can select one genuinely unresolved next qualification or supported preserve/defer/reject without manufacturing a URL.",
+      "acceptance": "Inspect3-5 current public caregiver question bodies, retain URL/date/paraphrased decision/ability/constraint only. Inspect one live query family/body set, separate anecdote from material demand. Trace distinct job/owner/source utility/demand/roadmap gates, source-derived task/stress/four lenses/everysection/all13 (explicit N-A); return next named executable research or qualified build, not generic recap.",
+      "qa_plan": "git diff--check/jq/full302 native; parse changedJSON/allCSV/GSC/privacy/EOF/exact7/prior204items and allsite-source-config conservation. Fresh different independent full7read-only review max3cycles; PASS orPASS_WITH_P3 before exactfrozenstage/completeunpushedrange/freshfetch/no-divergence/docs-only main release/alignment. No site change or Pageswait.",
+      "invariants": "Mastersolewriter/nooverlap; no site/data/code/config/scheduler/ControlRoom/privatequery/product/paid/index/account/tracking writes. No reopening closed candidate absent namednewgate; allfamily-physical-safety-learning-time-mess-engagement-SEOunknown.",
+      "observation_window": "Latestheartbeat06:56:40.398Z; initial precompactionclock output unavailable. First retainedactualUTC/NY verification06:59:26Z/02:59:26EDT used immutable guard; conservative earliestheartbeat-based start cutoff07:41:40.398Z enforced additionally (earlier than guard07:44:26), never extra time. Count0/max3. Oct30expiry/Nov3cutoff unchanged.",
+      "reconsider_if": "Stop or defer on insufficient question bodies/material demand/repeated closed qualification/cleanowner/no incrementalutility/conflicting source controls; do not substitute outcome or unavailable family-test gates.",
+      "phase": "reviewed-awaiting-release",
+      "next_action": "Exact reviewed docs-only main release/alignment, then actualclock/guard before separate demand-first animal-guessing qualification.",
+      "review_result": "PASS full7 validcycle1 noP0-P3; Archimedes the 2nd 01a18680-eaf6-7213-a0fc-182ab3dc8db5;301safe/all694files+74222rawindex bytes andwriteRelevantmetadata conserved/atime diagnostic"
+    },
+    {
       "id": "KAL-IMP-076",
       "title": "Align Pack Ramp Detective with maintained checked start and card handoff",
       "kind": "bounded-static-existing-owner-firststart-repair",
