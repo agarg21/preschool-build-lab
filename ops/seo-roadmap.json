@@ -9,7 +9,7 @@
       "id": "KAL-RES-103",
       "title": "Qualify non-reader hidden-animal guessing demand and incremental utility",
       "kind": "bounded-demand-and-rule-qualification",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "5fdf884ee7550f159bf6b00d474972535c00eb27",
       "exact_paths": [
@@ -37,9 +37,11 @@
       "invariants": "Mastersolewriter/nooverlap; no site/data/code/config/scheduler/ControlRoom/privatequeries/paid/index/accounts/products/tracking. Sourcefacts limited; no currentdemand fromanecdotes/replycount/broadhistorical estimates. Allfamily-physical-learning-enjoyment-safety-timing-mess-SEOunknown.",
       "observation_window": "Same retainedactual2026-10-29T06:59:26Z/initialclockoutputlost; stricter07:41:40.398Z cutoff/count1/max3. Selected07:19:23Z afterRES102/factualfullypushedfreshclean0/0. Oct30restoration/Nov3cutoffunchanged.",
       "reconsider_if": "No build ifexactmaterialdemand/missingutility/homecontrols remainunknown; preserveclosedRES060/075/097. No newunboundedresearch or silentrecipe adoption.",
-      "phase": "reviewed-awaiting-release",
-      "next_action": "Exactdocsrelease/alignment; closecandidate absentnewdemand+missingoutput. Nexteligible distinctCreate/Imagine questiondiscovery afterowner/closedchecks, no build.",
-      "review_result": "Maxwell the 2nd 01a1868b-a94e-7e63-8597-20c3d8ce4d33 full7cycle1withheld statusbeforebaseline/cycle2PASS noP0-P3;301safe/all695files+74342actualrawindexbytes-writeRelevantmetadata conserved/atime diagnostic"
+      "phase": "qualification-released-candidate-deferred",
+      "next_action": "Factualcloseout/alignment thenreturnaftertwo; nexteligible Create/Imagine currentquestiondiscovery withactualowners/closeddecisionsfirst, includingRES077 oral-story alreadydeferred. No repeatcharades absentnewdemand+missingoutput; no buildpresumed.",
+      "review_result": "Maxwell the 2nd 01a1868b-a94e-7e63-8597-20c3d8ce4d33 full7cycle1withheld statusbeforebaseline/cycle2PASS noP0-P3;301safe/all695files+74342actualrawindexbytes-writeRelevantmetadata conserved/atime diagnostic",
+      "release_commit": "ac09d593de6a35bca71e262f01f8a82c4a280fb0",
+      "release_result": "Exact7 frozenstage/completeunpushedrange74120e35541880d289577ea98510f526a20c0553b4750c3c51146ebc0a88fcb7 identity/privacyEOF/freshfetch-no divergence/mainpush/postpushfreshclean0/0 verified07:29:32Z; docs-only/noPages/sitebuild."
     },
     {
       "id": "KAL-RES-102",
