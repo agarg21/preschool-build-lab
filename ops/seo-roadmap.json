@@ -9,7 +9,7 @@
       "id": "KAL-RES-095",
       "title": "Qualify a shared pretend-shop first-exchange job",
       "kind": "bounded-create-imagine-qualification",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "b4b5548743448dc6859d1a4ef07c5ab2504b2708",
       "exact_paths": [
@@ -37,12 +37,14 @@
       "invariants": "Master sole writer. No site/generator/data/config/automation/ControlRoom/indexrequest/paid/product/account/outreach/newURL change. No copied child images, user identities, private histories or clinical claims. No nutrition/food-use recommendations, choking-safe size guarantee, developmental/learning/social/emotional/independence/time/outcome promise; ordinary owned materials need source-bound controls. Preserve closed story/puppet/collage/lacing/drawing/cloud/weaving decisions.",
       "observation_window": "Actual23:05:35Z/count0/new-actiondeadline23:50:35Z/max3, sprintactive. November1synthesis/October30exactrestoration/globalcutoff unchanged.",
       "reconsider_if": "Current exact demand/output/default fails or clean owner found: preserve/defer/reject, no manufactured guide. Missing family testing is not dependency; narrow candidate gate does not block independent work.",
-      "phase": "freshdifferent-full7-review-pass-exact-docs-release-next",
+      "phase": "completed-reviewed-docs-release-no-build",
+      "release_commit": "a89ef93cc82fabc1417494ae5dbecfa831fedc31",
+      "release_result": "Exact7 frozenstage/completeunpushedrange a22e85757d9bb001db28a58d7f73da8f492b5a68ac7f1f5f4207eeda3a7da9e4 identity/privacyEOF PASS; completedprestagefetch/push exit0/completedpostpushfetch clean0/0 verified2026-10-29T00:01:18Z. Docs-only/noPages/no site delivery. Full7cycle1PASS/freshdifferent01a184f1/native278/independent277. Sameactual23:05:35/count1/deadline23:50:35expired; factualcloseout thenreturn/no secondaction.",
       "review_result": "Freshdifferent01a184f1-92da-7131-9412-fa22cc110acc full7/cycle1 PASS/noP0-P3; independent277pass/0skips via58otherfiles273+fourpositiveexacttitles, no forbidden datecase/main. All673checkout/rawindex/HEAD/status/sevenhashes/prior191items conserved; own source-browser/structuredprivacyEOF reproduced. PBSweb timeout/browser200, cookie/doc455/context-photo limits retained. Reviewer/browser closed.",
       "qa_result": "Master278/0fail;106JSON19CSV2212/192IDs684refs/all101GSC/privacyEOF PASS; prior191items/site-source-data-config conserved. Two livebytes/four zero-keyClear36/twoNoJS/source1280-390 actual visual limits verified.",
       "decision": "DEFER new pretend-shop guide/card; REJECT generic low-prop/roles/toyshop novelty; PRESERVE owners. Source10/26criticalFAIL notKALbaseline/opportunity. Exact demand/incremental output/default remain gates, no family-testing dependency.",
       "artifact": "seo/preschool-pretend-shop-qualification-2026-10-28.md",
-      "next_action": "Native278/structuredprivacyEOF/freshdifferent compliant full7review/exactdocsrelease/factualcloseout/alignment. Sameactual23:05:35/count0/deadline23:50:35 expired; finishonly/no secondaction."
+      "next_action": "Factualcloseout/push/finalalignment thenreturn. Nexteligible invocation freshclock/remote/currentqueue/newGSC comparison, then independently eligible owner or named missing-gate work; do not repeat shop without new demand/output/default. No secondaction after original23:50:35deadline."
     },
     {
       "id": "KAL-RES-094",
