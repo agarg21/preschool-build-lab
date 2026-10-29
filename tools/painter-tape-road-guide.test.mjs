@@ -66,7 +66,7 @@ test("route, change, rescue, adaptation, cleanup, and evidence keep their bounda
   assert.doesNotMatch(html, /will (?:love|learn|enjoy|stay busy)/i);
   assert.match(
     fs.readFileSync(path.join(ROOT, "site", "styles.css"), "utf8"),
-    /\.road-article section\[id\] \{\s*scroll-margin-top: 104px;/,
+    /\.road-article section\[id\] \{\s*scroll-margin-top: max\(104px, 7rem\);/,
   );
 });
 

@@ -431,7 +431,7 @@ h1 {
 }
 
 .road-article section[id] {
-  scroll-margin-top: 104px;
+  scroll-margin-top: max(104px, 7rem);
 }
 
 .road-article #one-road {

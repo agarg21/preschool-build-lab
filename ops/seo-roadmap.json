@@ -6,6 +6,48 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-080",
+      "title": "Clear remaining Tape Road section headings at enlarged text",
+      "kind": "verified-accessibility-arrival-defect-repair",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "1a83db53f25ae892d1755b03b087d000af4fc3a1",
+      "exact_paths": [
+        "scripts/generate_seo_pages.py",
+        "site/articles/painter-tape-road-kids.html",
+        "site/styles.css",
+        "tools/painter-tape-road-guide.test.mjs",
+        "tools/tape-road-direct-run.test.mjs",
+        "tools/tape-road-section-arrivals.test.mjs",
+        "reviews/tape-road-section-arrivals-repair-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "IMP079 d325bc8 exactSHA Pages40865971256/live11:32:03/factual1a83db5 fullypushed/freshclean0/0. Independentfull16cycle2PASS explicitlyretained residualfivebodyhashes at104behind142.83root32header; own productioncontrolmatrix reproducesallfive in390/320root32 withnormalroot clear. Source/recipe/currentcontrolsalreadyreviewed, no repeatedqualification.",
+      "parent_problem": "Caregiver using maintainedguide needs one-change/rescue/adaptation/cleanup/evidence directsection heading and beginningguidance readable at enlargedtext. Existingreadiness/material/adult-stop inputs not newlyqualified; no route-use/familyclaim.",
+      "hypothesis": "Changeonlyroad-article genericsection offset104px to max(104px,7rem), retainingexistingone-road override soalreadyrepairedtarget unchanged, canclearfiveclippedheads without prose/schema/image/peer drift.",
+      "acceptance": "Allsixnamedsection headings andbeginninginstructions clearstickyheader in24viewport-hashcases (1280root16,390root16/32,320root32), withdirecthash/back/noJS andexistingactualcard-rootguide-key-touch-Back/blockedimage/wordfit. Existingone-road controls/relativeoffsetunchanged. Guide-onlyCSSqueryver2 forcesupdatedstylesheet; absolutely noactivity text/metadata/date/sitemap/source change. UpdateonlytwoexistingCSS/query fixtures andnewfocusedrelativeoffsetregression; source-renderparity retained.",
+      "qa_plan": "Full308expected/all3twice/idempotence/exactguide+CSS/99sitepeers/sitemap65bytesidentical/prior215items/alloutside conserved. Entirebaseguide+SEOgenerator normalizeonlyquery back; CSSsinglegenericproperty104->max only. Strictlinks/JSONCSV/privacyEOF/101GSC/diffcheck/jq. Fourtracedlenses/everysection/newtaskall13scorebaseline20/26 criticalheadingfailure, notpriorprepared16/26. FreshDIFFERENTfull13readonlyPASSmax3/307SAFE/allfile-indexmetadata conserved. Frozenstage/fullrange/freshfetch-no divergence/mainpush/exactSHA Pages/livebytes-24arrivals-visuals/finalalignment.",
+      "invariants": "Mastersolewriter/nooverlap/thirdfinaltransaction-no fourth. Preserveallprose/controls/roles/hero/otherstyleproperties/imageSHA42363506a75d2460b1271d71c64f3944e24282b3dbfdd1b9b78b3a4bf6b356fe/source-publication-modificationdates/sitemap/hubs/cards/library/credits/unknownoutcomes. No newURL/research demand/recipe/product/physicalfamily-safety-SEOclaim/ControlRoom/automation/spend/index/accounts/tracking/configchange.",
+      "observation_window": "Selected11:33:29Z afterIMP079release/factualalignment. Sameactual2026-10-29T10:55:47Z/06:55:47EDT/count2/max3/newactiondeadline11:40:47Z. Thirdfinal; finishstartedtransaction safelyafterdeadline ifneeded. Oct30restoration/Nov1synthesis/Nov3cutoffunchanged.",
+      "reconsider_if": "StopP0-P2max3/unexpectedtext-style-peerbytes/headingorcontrolsregression/divergence/ambiguousrollback. No broad accessibility/familyproof from textmodeproxy.",
+      "phase": "review_pass_release_pending",
+      "independent_review": "Newton01a18774/Codex-IMP080-Independent-RW0-20261029 full13cycle1PASS/noP0-P3; own307safe/24arrivals-sixNoJS-controls/tenviewedcaptures/all707files andactualrawindexSHA40b9a12519344f6738945ec05d86067a0ab06c040c39515e6ea96a1c70ed8666/nsmetadata conserved. Master308 PASS. ExactSHAproduction pending; finishthirdonly/no fourth afterdeadline.",
+      "local_qa": "Master308/all3twice/a62bd848c3af4a3dba5e389a410d4576d83bb0ded1cae4bd69858430a717adbc idempotent/entirequeryonly-sourceguide/CSSoneproperty/99peers/694outside/prior215/sitemapidentical/strictlinks PASS.24hash+24Back/sixNoJS/eightviewedarrivals allsixclear, unchangedcontrols12key3tap7Back/twoNoJS/blockedimage/wordfit/sevenbytes/errorsEMPTY. Newtask20->24/26proxy only.",
+      "next_action": "Fresh different full13 read-only review then exactSHAproduction andfactualcloseout/alignment/serverstop; thirdfinal/no fourth evenifdeadlinepassed."
+    },
+    {
       "id": "KAL-IMP-079",
       "title": "Put Tape Road direct-run controls first and clear enlarged heading",
       "kind": "bounded-source-preserving-guide-direct-run-repair",

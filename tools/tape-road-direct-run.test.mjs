@@ -33,11 +33,11 @@ test('Tape Road direct run repeats its exact early stop and role before executio
 
 test('Tape Road relative arrival override is scoped and its guide requests revised CSS', () => {
   const css = fs.readFileSync('site/styles.css', 'utf8');
-  assert.match(css, /\.road-article section\[id\] \{\s*scroll-margin-top: 104px;\s*\}/);
+  assert.match(css, /\.road-article section\[id\] \{\s*scroll-margin-top: max\(104px, 7rem\);\s*\}/);
   assert.match(css, /\.road-article #one-road \{\s*scroll-margin-top: max\(104px, 7rem\);\s*\}/);
   assert.ok(css.indexOf('.road-article section[id]') < css.indexOf('.road-article #one-road'));
   for (const document of [source, html]) {
-    assert.ok(document.includes('href="../styles.css?v=tape-road-direct-run-1"'));
+    assert.ok(document.includes('href="../styles.css?v=tape-road-direct-run-2"'));
   }
 });
 
