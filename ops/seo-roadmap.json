@@ -9,7 +9,7 @@
       "id": "KAL-IMP-076",
       "title": "Align Pack Ramp Detective with maintained checked start and card handoff",
       "kind": "bounded-static-existing-owner-firststart-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "bd4d0545e5c4ef06acd576e24063cd1d5e53a77f",
       "exact_paths": [
@@ -38,8 +38,12 @@
       "invariants": "Mastersolewriter/nooverlap; targetPackmoduleonly/notnewpage/card/guide/research-source-outcome/brand/CSS/metadata change. No paid/index/accounts/products/automation/ControlRoom/privatequery writes. Allphysicalfamily/adhesion/stability/timing/mess/safety/learning/SEOunknown.",
       "observation_window": "Actual2026-10-29T05:58:46Z/count1/deadline06:43:46Z/max3; selected06:15:43Z afterresearchfullyclosed. Oct30restoration/Nov3cutoff unchanged.",
       "reconsider_if": "Stopifearlylinkskipschecks/changedcovered-vslandingjob/nonresultnotallowed/unsupportedassurance/peer-card-guide drift/divergence/regression/ambiguousrollback; no silentscopegrowth.",
-      "phase": "registered-before-site-edits",
-      "next_action": "Exact9staticmodule/focusedtests thenfullQA/independentfull9review/exactSHAproduction beforecompletion."
+      "phase": "production-verified",
+      "release_commit": "a127c38f0df225ae27935b298de22a9f3e25f4e8",
+      "pages_run": "40831018407 SUCCESS exact-SHA",
+      "review_result": "Cicero01a18652 full9 cycle1proceduralBLOCKEDatime/uncapturedbirthtime retained; Masteratime-diagnosticclarification(nohumanpolicywaiver), cycle2PASS/noP0-P3/301safe/all693files+rawindex-writeRelevantmetadata conserved; Master302.",
+      "production_result": "2026-10-29T06:45:16Z7HTTP200bytes/3canonical-H1/fourmodes28key12tap24Back/twoNoJS/NEWPackCard-reverse-depth-guide/wordfit/unknownhash/noerrors/6PNGs identicalLocal+visuals; no marker/exactSHA+bytes/postpushfreshfetchclean0/0.",
+      "next_action": "Original05:58:46/count2/deadline06:43:46expired; factualsevencloseout/alignment thenreturn/no newselection. Nexteligible freshclock andboundedcooperative-movementPlay caregiver-question discovery/owners-closeddecisions beforequalification, no newURL/build presumed."
     },
     {
       "id": "KAL-RES-101",
