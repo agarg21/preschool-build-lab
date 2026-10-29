@@ -9,7 +9,7 @@
       "id": "KAL-RES-102",
       "title": "Discover one unresolved caregiver decision in simple cooperative movement play",
       "kind": "bounded-public-question-discovery",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "930e0dad30d9b443331513b68bbf15627f579d9b",
       "exact_paths": [
@@ -37,9 +37,11 @@
       "invariants": "Mastersolewriter/nooverlap; no site/data/code/config/scheduler/ControlRoom/privatequery/product/paid/index/account/tracking writes. No reopening closed candidate absent namednewgate; allfamily-physical-safety-learning-time-mess-engagement-SEOunknown.",
       "observation_window": "Latestheartbeat06:56:40.398Z; initial precompactionclock output unavailable. First retainedactualUTC/NY verification06:59:26Z/02:59:26EDT used immutable guard; conservative earliestheartbeat-based start cutoff07:41:40.398Z enforced additionally (earlier than guard07:44:26), never extra time. Count0/max3. Oct30expiry/Nov3cutoff unchanged.",
       "reconsider_if": "Stop or defer on insufficient question bodies/material demand/repeated closed qualification/cleanowner/no incrementalutility/conflicting source controls; do not substitute outcome or unavailable family-test gates.",
-      "phase": "reviewed-awaiting-release",
-      "next_action": "Exact reviewed docs-only main release/alignment, then actualclock/guard before separate demand-first animal-guessing qualification.",
-      "review_result": "PASS full7 validcycle1 noP0-P3; Archimedes the 2nd 01a18680-eaf6-7213-a0fc-182ab3dc8db5;301safe/all694files+74222rawindex bytes andwriteRelevantmetadata conserved/atime diagnostic"
+      "phase": "research-released",
+      "next_action": "Factualcloseout/alignment then separate demand-first nonreader hidden-animal-guessing qualification; do not repeat genericfeature/source discovery or presume build. Same retained06:59:26/count1/stricter07:41:40.398 cutoff/max3.",
+      "review_result": "PASS full7 validcycle1 noP0-P3; Archimedes the 2nd 01a18680-eaf6-7213-a0fc-182ab3dc8db5;301safe/all694files+74222rawindex bytes andwriteRelevantmetadata conserved/atime diagnostic",
+      "release_commit": "cc967778b44996392ea117ab9d3e1bbd9496cc3d",
+      "release_result": "Exact7 frozenstage/completeunpushedrange4c58326d009f3b38b254a64b13e02fe0cadadd57f030318f93d4d23d40c5dabf identity/privacyEOF/freshfetch-no divergence/mainpush/postpushfreshclean0/0 verified07:18:28Z; docs-only/noPages."
     },
     {
       "id": "KAL-IMP-076",
