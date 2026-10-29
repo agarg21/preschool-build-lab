@@ -34,7 +34,7 @@ test("helicopter actual renderer and generated page retain scoped responsive rul
 test("helicopter responsive repair conserves all non-style bytes and its map", () => {
   const withoutStyle = (document) => document.replace(/<style>[\s\S]*?<\/style>/, "<style></style>");
   // Update only after separately reviewing a content change, not a layout repair.
-  assert.equal(createHash("sha256").update(withoutStyle(html)).digest("hex"), "f7e7f9bba6e2e91a7b01af4aea2e75c19bb9844681e2ae2f14ec275d4925266a");
+  assert.equal(createHash("sha256").update(withoutStyle(html)).digest("hex"), "537da6c9a1ae486bdd97015b5d3e1ce286cfb6a6afa134d33236d742282a3513");
   const image = "site/assets/paper-helicopter/cut-fold-map.png";
   assert.equal(createHash("sha256").update(fs.readFileSync(image)).digest("hex"), "1be76e5cda7cbc452684e4ee8c9a8c1b0c43a7f532bcb51ae5989aa185d13675");
 });

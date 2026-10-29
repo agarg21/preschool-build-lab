@@ -13,6 +13,7 @@ test("helicopter has one canonical article with factual schema", () => {
   const schema = JSON.parse(html.match(/application\/ld\+json">([\s\S]*?)<\/script>/)[1]);
   assert.equal(schema["@type"], "Article");
   assert.equal(schema.datePublished, "2026-09-19");
+  assert.equal(schema.dateModified, "2026-10-29");
   assert.ok(!("aggregateRating" in schema));
 });
 
@@ -27,6 +28,20 @@ test("helicopter start and stop precede the map", () => {
 test("helicopter preserves three-cut geometry and opposite folds", () => {
   for (const marker of ["7 cm wide by 21 cm tall", "8 cm below the top", "8.5 cm below the top", "middle third uncut", "2.5 cm above the bottom", "Do not connect the side cuts", "one blade toward you and the other away", "through all layers", "No ruler? Mark by halving the gaps"]) {
     assert.ok(html.includes(marker), marker);
+  }
+});
+
+test("helicopter direct drop repeats the exact early stop before releasing", () => {
+  const source = fs.readFileSync("scripts/generate_seo_pages.py", "utf8");
+  for (const document of [source, html]) {
+    const panel = document.match(/<section class="bridge-start-panel" aria-labelledby="helicopter-start-title">[\s\S]*?<\/section>/)[0];
+    const earlyStop = panel.match(/<p class="bridge-stop">[\s\S]*?<\/p>/)[0];
+    const drop = document.match(/<section id="drop"[\s\S]*?<\/section>/)[0];
+    const paragraphs = [...drop.matchAll(/<p(?: [^>]*)?>[\s\S]*?<\/p>/g)].map(match => match[0]);
+    assert.equal(paragraphs.length, 3);
+    assert.equal(paragraphs[0], earlyStop);
+    assert.match(paragraphs[1], /^<p>The adult checks the folds,/);
+    assert.match(paragraphs[2], /^<p>Invite one child to try/);
   }
 });
 

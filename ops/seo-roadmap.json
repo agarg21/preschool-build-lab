@@ -6,6 +6,48 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-078",
+      "title": "Repeat existing Helicopter stop cue at direct first drop",
+      "kind": "bounded-source-preserving-existing-guide-repair",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "32b458229efacb875f681b64f29ec3b9d34482b3",
+      "exact_paths": [
+        "scripts/generate_seo_pages.py",
+        "scripts/generate_sitemap.py",
+        "site/articles/paper-helicopter-kids.html",
+        "site/sitemap.xml",
+        "tools/paper-helicopter-guide.test.mjs",
+        "tools/helicopter-responsive.test.mjs",
+        "reviews/helicopter-drop-boundary-repair-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "RES108 bfcf7ca/factual32b4582 fully pushed/fresh clean0/0; Master303/freshDarwin full7PASS/independent302. Four live modes direct#drop and Firstdrop bypass complete existing hero Stop; newprepared-model task17/26 criticalfailure, not old prep/layout task.",
+      "parent_problem": "Caregiver with prepared model must receive existing stop conditions before adult first release through Firstdrop/direct#drop; retain early preparation warning.",
+      "hypothesis": "Exact existing hero Stop copied first inside#drop can close cue-order failure without geometry/recipe/CSS/roles drift or avoidable start clutter.",
+      "acceptance": "Keep hero Stop exact; copy identical paragraph first afterdropheading before originaladult/child paragraphs. Onlyguide dateModified/sitemaplastmod Oct29. Focused source-output/order regression and separately reviewed responsive nonstylehash update, CSS/map unchanged. Same fourmodes/root32/key-touch-Back/details/noJS/blockedmap/wordfit/normalerrors and fourlenses/everysection/all13. No family/safety/SEO outcomes.",
+      "qa_plan": "All3generators twice/aggregateidempotence/exactguide+sitemap/99sitepeers; removeonlynewlocalStop+normalizeModified reproduces entirebaseguide+SEOgenerator. Sitemap65keys-oneDate; prior212items/alloutside preserved. Full304expected/diffcheck/jq/structured106JSON19CSV2212rows/101GSC/privacyEOF/strictlocalhref-src-fragments. Freshdifferentfull13read-onlyPASSmax3/303SAFE/allfiles-actualrawindexmetadata conserved. Freshfetchno divergence/frozenexactstage/fullunpushedrange/mainpush/exactSHA Pages/livebytes-sametask/finalalignment.",
+      "invariants": "Mastersolewriter/nooverlap; preserve7x21geometry/no-ruler/mapSHA1be76e5cda7cbc452684e4ee8c9a8c1b0c43a7f532bcb51ae5989aa185d13675/roles/sourcecheck-publicationdates/anchors/credits/IMP042CSS andunknownoutcomes. No newURL/recipe/material/researchclaim/ControlRoom/automation/spend/products/index/accounts/tracking changes.",
+      "observation_window": "Selected10:13:47Z afterRES108fullrelease/alignment. Sameactual2026-10-29T09:57:47Z/05:57:47EDT/count1/max3/newactiondeadline10:42:47Z. Finishstartedtransaction safely; Oct30restoration/Nov1synthesis/Nov3cutoffunchanged.",
+      "reconsider_if": "StoponP0-P2max3cycles/unexpectedbytes/clutter/contradiction/divergence/regression; preserveworkcheckpoint exactnextstep ifblocked. No ambiguousrollback.",
+      "phase": "review_pass_release_pending",
+      "independent_review": "Fresh Zeno01a18729/KAL-IMP078-R7-independent full13cycle1PASS/noP0-P3; own303safe/six mutation checks/ownbrowser; all702files and actualrawindexSHA1df1c41673feef38f81b5b42276a36013c5ec934b449720722250d260ed74bf0/nsmetadata conserved, no writes. Master304 PASS. ExactSHAproduction required.",
+      "local_qa": "Master304/all3twice/a9918adcd64c6e2bf1aa56c29ef6ec6f05bea6cf21e77d58ca7d7d9ccd061829 idempotent; exact copy-date normalization/99peers/689outside/prior212/65keysoneDate/strictlinks PASS. Fourmodes28key6tap16Back/twoNoJS/details/blockedmap/sixviewed captures/errorsEMPTY; same task17->24/26 technical proxy only.",
+      "next_action": "Fresh different full13 read-only review; then frozen release and exactSHA production verification. Owned8812 server retained."
+    },
+    {
       "id": "KAL-RES-108",
       "title": "Audit Paper Helicopter direct-drop stop-cue re-entry",
       "kind": "bounded-existing-guide-entry-trust-audit",

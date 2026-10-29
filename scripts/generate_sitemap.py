@@ -41,7 +41,7 @@ CONTENT_LASTMODS = {
     "cards/duplo-games.html": "2026-10-27",
     "collections/fine-motor-activities-for-preschoolers.html": "2026-10-28",
     "articles/paper-straw-rocket.html": "2026-10-29",
-    "articles/paper-helicopter-kids.html": "2026-09-19",
+    "articles/paper-helicopter-kids.html": "2026-10-29",
     "articles/paper-cup-tower-kids.html": "2026-10-27",
     "cards/cup-tower.html": "2026-10-27",
     "collections/independent-activities-for-preschoolers.html": "2026-10-28",
