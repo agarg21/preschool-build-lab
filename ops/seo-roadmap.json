@@ -9,7 +9,7 @@
       "id": "KAL-IMP-078",
       "title": "Repeat existing Helicopter stop cue at direct first drop",
       "kind": "bounded-source-preserving-existing-guide-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "32b458229efacb875f681b64f29ec3b9d34482b3",
       "exact_paths": [
@@ -42,10 +42,11 @@
       "invariants": "Mastersolewriter/nooverlap; preserve7x21geometry/no-ruler/mapSHA1be76e5cda7cbc452684e4ee8c9a8c1b0c43a7f532bcb51ae5989aa185d13675/roles/sourcecheck-publicationdates/anchors/credits/IMP042CSS andunknownoutcomes. No newURL/recipe/material/researchclaim/ControlRoom/automation/spend/products/index/accounts/tracking changes.",
       "observation_window": "Selected10:13:47Z afterRES108fullrelease/alignment. Sameactual2026-10-29T09:57:47Z/05:57:47EDT/count1/max3/newactiondeadline10:42:47Z. Finishstartedtransaction safely; Oct30restoration/Nov1synthesis/Nov3cutoffunchanged.",
       "reconsider_if": "StoponP0-P2max3cycles/unexpectedbytes/clutter/contradiction/divergence/regression; preserveworkcheckpoint exactnextstep ifblocked. No ambiguousrollback.",
-      "phase": "review_pass_release_pending",
+      "phase": "production_verified",
+      "release": "ca38b2e0fb35c9af615be035256031cb56997bf3 exactSHA Pages40857430284 SUCCESS; no marker/exactSHA+bytes. Seven productionHTTP200 byte matches/fourmodes28key6tap16Back/twoNoJS/details/blockedmap/unknownhash/root32wordfit/Stopbeforeaction/errorsEMPTY PASS10:25:57Z; six livePNGs equal local/viewed by10:26:29Z. Exact13stage/fullrangebec9bc2b5d902e406e46b425325d24de268866217f05363e4c0224516d28ae79 identity/privacy/freshfetch/push/postpushclean0/0. Reviewer/browserclosed, owned8812PID76872stopped/session68012exit143ack/portempty. No retry/regression/blocker/familyphysical-SEO outcome.",
       "independent_review": "Fresh Zeno01a18729/KAL-IMP078-R7-independent full13cycle1PASS/noP0-P3; own303safe/six mutation checks/ownbrowser; all702files and actualrawindexSHA1df1c41673feef38f81b5b42276a36013c5ec934b449720722250d260ed74bf0/nsmetadata conserved, no writes. Master304 PASS. ExactSHAproduction required.",
       "local_qa": "Master304/all3twice/a9918adcd64c6e2bf1aa56c29ef6ec6f05bea6cf21e77d58ca7d7d9ccd061829 idempotent; exact copy-date normalization/99peers/689outside/prior212/65keysoneDate/strictlinks PASS. Fourmodes28key6tap16Back/twoNoJS/details/blockedmap/sixviewed captures/errorsEMPTY; same task17->24/26 technical proxy only.",
-      "next_action": "Fresh different full13 read-only review; then frozen release and exactSHA production verification. Owned8812 server retained."
+      "next_action": "Factual seven closeout/alignment then return after two completed transactions, not a third-action quota. Next invocation freshguard/remote/newGSC then inspect remaining guide entry controls versus retained task coverage; select only demonstrated missing task or named source gate."
     },
     {
       "id": "KAL-RES-108",
