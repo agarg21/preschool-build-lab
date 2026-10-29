@@ -9,7 +9,7 @@
       "id": "KAL-IMP-074",
       "title": "Put Paper Chain Engineering checks and maintained-card route before execution",
       "kind": "bounded-existing-owner-boundary-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "9761ce5ccac14fc46d0122730464fc2ad8282bd8",
       "exact_paths": [
@@ -43,8 +43,12 @@
       "invariants": "SingleMasterwriter/nooverlap; no source/card/diagram/recipe/CSS/peer/URL/metadata beyondoneEngineeringlastmod. No printproject/branding/automation/ControlRoom/paid/index/accounts/products/family-safety-learning-SEOresult. Card-origincontrolsrecognized, no fabricatedchooser/historicalscoregain.",
       "observation_window": "Actual2026-10-29T03:56:16Z/count1/startdeadline04:41:16/max3 preserved; selectedwithinwindow/finishsafelyafterifneeded. October29learning/date, October30restoration/Nov3cutoff retained.",
       "reconsider_if": "Stop on late/missingcontrol, wronghandoffskippingcardchecks, alteredbookvsone-sheetrules/peerdrift/divergence/regression/ambiguousrollback; no silent scopegrowth.",
-      "phase": "registered-before-source-edits",
-      "next_action": "Implementonlyreviewedflag/earlyroute/datefixtures; allQA/freshdifferentreview/exactSHAproduction beforecompletion."
+      "phase": "production-verified",
+      "release_commit": "170f653ffb6d0980fdbbfdb1dee306a687f72f3a",
+      "pages_run": "40817839287 SUCCESS exact-SHA",
+      "review_result": "FreshCarver01a185e0 full14 cycle1PASS/noP0-P3; independent293/all687files+actualrawindex conserved; Master294.",
+      "production_result": "2026-10-29T04:28:25Z sixHTTP200byte matches/fourmodes13key9tap15Back/twoNoJS/blockedPNG/normalerrorsEMPTY/fivePNGlocalidentity+visualinspection; no marker/exactSHA+bytes; postpushfetchclean0/0.",
+      "next_action": "Factualsevencloseout/alignment thenreturn/count2/original03:56:16clock. Nexteligible targetedEngineeringFoilBoat owner/history/control-order inspection against maintainedguide/card/closedreviews, no defect/build presumed."
     },
     {
       "id": "KAL-RES-099",

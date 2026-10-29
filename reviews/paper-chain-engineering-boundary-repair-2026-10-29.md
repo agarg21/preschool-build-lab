@@ -1,5 +1,18 @@
 # Paper Chain Engineering Boundary Repair - October 29, 2026
 
+## Verified Release Receipt
+
+Material commit `170f653ffb6d0980fdbbfdb1dee306a687f72f3a`; [exact-SHA Pages run40817839287](https://github.com/agarg21/preschool-build-lab/actions/runs/40817839287) SUCCESS. Freshfetch/no divergence, exact14 frozenstage and complete unpushed range identity `f1e913e20a36bb1b4fd42ab9fc60f4164cce399663a7f72db451dedbcff85121`, privacy/singleEOF, push and postpush fetch clean0/0 confirmed. No site/workflow release marker exists; exact deployment SHA plus affected and preserved bytes verified instead.
+
+Fresh independent Carver `01a185e0-1978-72d3-834d-996ace45e5a8`, full14 cycle1 PASS/noP0-P3. Independent293 tests (289 safe other cases plus four positive architecture cases; mutating date-stability case excluded before execution), own four-mode browser16key/9tap/17Back/twoNoJS/blockedPNG/own five visuals. All687 tracked/nonignored file entries, scoped hashes, HEAD/status/staged diff and actual raw index bytes/metadata conserved. Raw index SHA256 `8f29c36498bf9ff882256b5a4c0815bf645b46f5365bf6fcb04d61ecf1b66bae`. Master294 and generator idempotence/isolation evidence above remains distinct from independent tests. Reviewer closed.
+
+Production suite completed2026-10-29T04:28:25Z: six HTTP200 exact checkout byte matches for Engineering HTML, maintained card, CSS,900x1100 diagram, sitemap and favicon. Same four modes13key/9tap/15Back, both noJS routes, direct rescue/unknown hash, persistent root32, canonical/H1, early controls and full-card link, readable target words and header clearance pass. Separate390 blocked PNG returns naturalWidth0 while descriptive alt/four written steps/thread-before-close remain; expected abort is isolated from the normal sample, which has no console/runtime/page/HTTP errors.
+
+All five `/tmp/kal-imp074-production-*.png` captures are byte-identical to corresponding reviewed local captures and were visually inspected: hub390, card390, cardchecks320-root32, diagram320-root32 and blockeddiagram390. No true zoom, assistive-technology, instant-first-viewport, physical/family/safety/learning/search result inferred. No transient retry, regression or known release blocker. Owned browser closed;8808 listener absent04:30:53Z and session32726 already removed when recovery checked it. Factual closeout only follows; no source/output/test changes after reviewed release.
+
+October29 decision and falsification boundary remain below. Same original actual03:56:16/count2/deadline04:41:16/max3; return after factual closeout/alignment, no third quota. Next eligible task is targeted Foil Boat owner/history inspection, not an assumed defect or new guide.
+
+
 ## Contract And Change
 
 KAL-IMP-074; exact14 registered before source edits at base9761ce5ccac14fc46d0122730464fc2ad8282bd8, after separately reviewed/released [RES099 audit](paper-chain-engineering-boundary-audit-2026-10-28.md), material806c3a9/factual9761ce5. Same actualrun2026-10-29T03:56:16Z/count1/startdeadline04:41:16/max3; implementation selected04:11:56Z/October29 local. Single Master writer, no overlapping transaction.
@@ -85,4 +98,4 @@ NEW whole-route after-change editorial proxy,13applicable/max26/noN/A. Not an ar
 
 October29 learning: a prior correct card and readable fragment do not establish a hub-first early-check route. Reuse the maintained full checks before execution while preserving the distinct target constraint; do not repeat the card repair, add chooser scope, or clean unused timing fields. High confidence byte/order/route invariants; moderate editorial handoff usefulness; actual human/physical/search outcomes unknown. Falsify on a late required control, wrong fragment skipping checks, altered book/one-sheet distinction, peer drift or new concrete route/claim failure. No causal traffic/CTR target; next eligible sensing/task cycle observes named changes only.
 
-Fresh different full14 independent read-only review, exactstage/fullunpushedrange identity, completedfetch/no divergence/mainpush/exactSHA Pages/live bytes+task and final alignment remain required. Review max3/noP0-P2; allreaders GIT_OPTIONAL_LOCKS0/no mutating datefixture, actualrawindex/allfile conservation. No marker assumed: exactSHA+bytes. Stop on regression/divergence/ambiguousrollback. No production delivery claimed before those gates.
+Pre-release gate retained for history: fresh different full14 review, exactstage/fullunpushedrange identity, freshfetch/no divergence/mainpush/exactSHA Pages/live bytes+task and alignment were required before delivery. These gates are fulfilled by the verified receipt above. Review max3/noP0-P2; read-only review used GIT_OPTIONAL_LOCKS0 and excluded the mutating datefixture, with actualrawindex/allfile conservation. Factual closeout has no new material scope.
