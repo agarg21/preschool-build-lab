@@ -51,5 +51,5 @@ test("Block discovery qualifies direct host conflicts and preserves inventories 
  assert.equal((read("cards.html").match(/class="mini-card"/g)||[]).length,36);
  assert.equal((read("sitemap.xml").match(/<loc>/g)||[]).length,65);
  for(const p of["cards/block-tower.html","cards.html",...hubs,"collections/building-activities-for-4-year-olds.html","collections/no-cut-preschool-activities.html"])assert.ok(read("sitemap.xml").includes(p+"</loc>\n    <lastmod>2026-10-28</lastmod>"),p);
- assert.match(read("sitemap.xml"),/collections\/indoor-activities-for-preschoolers.html<\/loc>\n    <lastmod>2026-10-27<\/lastmod>/);
+ assert.match(read("sitemap.xml"),/collections\/indoor-activities-for-preschoolers.html<\/loc>\n    <lastmod>2026-10-28<\/lastmod>/);
 });

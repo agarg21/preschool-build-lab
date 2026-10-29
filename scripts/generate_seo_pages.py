@@ -58,13 +58,13 @@ ACTIVITIES = {
         "title": "Tape Road",
         "url": "../cards/tape-road.html",
         "ages": "3-6",
-        "time": "3 min",
-        "mess": "low",
-        "help": "low",
-        "materials": "painter tape, toy cars",
+        "time": "Time not measured",
+        "mess": "Not measured",
+        "help": "Adult handles all tape",
+        "materials": "surface and vehicle checks in the full guide",
         "best_for": "indoor movement, pretend play, rainy days",
-        "steps": ["Make a road.", "Add parking spots.", "Drive cars.", "Peel tape up after play."],
-        "parent": "Test tape on the floor first.",
+        "steps": [],
+        "parent": "Read the full guide before handling tape or vehicles.",
     },
     "cup-tower": {
         "title": "Cup Tower",
@@ -1072,7 +1072,7 @@ PAGES = [
         "chooser": [
             ("I need one thing now", ("Soft-Sock Target Roll", "#sock-target-roll"), "One short, clear floor lane; one sock ball and a low basket target", "Check fit, place the target, and stay beside the lane"),
             ("Movement needs a boundary", ("Paper Puddle Path", "#paper-puddle-path"), "A short clear strip of floor; large paper shapes and painter tape", "Test and secure the materials, then call one slow movement"),
-            ("Pretend play sounds right", ("Tape Road Delivery", "#tape-road-delivery"), "A table or small floor square; painter tape and large toy vehicles", "Make one short route and name a delivery job"),
+            ("Pretend play sounds right", ("Tape Road Delivery", "#tape-road-delivery"), "Surface and vehicle checks in the full guide; time and mess not measured", "Read the guide before handling; adult chooses, applies and removes all tape"),
             ("A cause-and-effect project fits", ("Low Car Ramp", "#low-car-ramp"), "A clear floor patch; flat cardboard, thick books, and one toy car", "Check the cardboard and keep the ramp low and floor-level"),
             ("The child wants to build", ("Make a Toy Place", "#make-a-toy-place"), "A table or clear floor square; large blocks or small boxes and one large toy", "Offer a small material set and let the child decide the structure"),
             ("Big-floor pretend play fits", ("Blanket Toy Crossing", "#blanket-toy-crossing"), "A clear floor area; one flat blanket, large supports, and one toy", "Keep the route for the toy, not for feet or climbing"),
@@ -1087,7 +1087,7 @@ PAGES = [
         "rainy_rotation": [
             ("Move", "Choose the sock roll or the short paper path; keep the route bounded and walk to reset.", "#sock-target-roll"),
             ("Make or build", "Choose the low ramp or a toy place; offer one material set rather than a room-wide project.", "#low-car-ramp"),
-            ("Quieter route", "Choose the tape-road delivery or a standard-deck game that fits the available players.", "#tape-road-delivery"),
+            ("Table or small-area route", "Read the Tape Road guide checks first, or choose a standard-deck game that fits the available players. Quietness is not measured.", "#tape-road-delivery"),
         ],
         "indoor_starts": [
             {
@@ -1123,16 +1123,9 @@ PAGES = [
             {
                 "slug": "tape-road-delivery",
                 "title": "Tape Road Delivery",
-                "job": "Pretend in a small area",
-                "mission": "Deliver one large toy vehicle from a start line to a home, shop, or garage.",
-                "materials": "painter tape suitable for the local surface, one to three large toy vehicles",
-                "adult_role": "Test the tape and make one short route inside a defined play area rather than across a walkway.",
-                "steps": ["Choose where the delivery starts.", "Drive one vehicle to the named place.", "Return it to the start or choose one new delivery."],
-                "rescue": "Use one straight tape strip and one vehicle.",
-                "stop": "Stop if tape is peeled or mouthed, vehicles are thrown, or the road expands into an active walking route.",
-                "parent": "Check the surface before and after taping, use large intact toys, and remove the route when play ends.",
+                "job": "Read the guide first",
+                "steps": [],
                 "url": "../cards/tape-road.html",
-                "link_text": "Open the base tape-road card",
             },
             {
                 "slug": "low-car-ramp",
@@ -1912,7 +1905,22 @@ def tile_build_pause_choices(activity):
           <p>Neither choice fulfills the paused standing or two-room task. Research-backed decision, not family-tested by Kid Activity Lab. Time, mess and physical outcomes are unknown.</p>'''
 
 
+def tape_road_handoff_content():
+    return '''          <p><strong>Before handling tape or vehicles:</strong> read the guide's surface, readiness and stop checks, or skip this choice.</p>
+          <p><a href="../articles/painter-tape-road-kids.html">Full Painter's Tape Road guide</a>: one short road and parking place, with rescue and removal checks.</p>
+          <div class="source-tags"><span class="tag">Time not measured</span><span class="tag">Mess not measured</span><span class="tag">Adult handles all tape</span></div>
+          <p><strong>Adult role:</strong> choose the surface and vehicles, apply and remove all tape, and stay beside every child who can reach the setup. Skip if you cannot do this.</p>
+          <p><strong>Child's choice:</strong> drive and park, point, watch or decline.</p>
+          <p>Research backed; not family tested by Kid Activity Lab. Duration, mess and physical outcomes are unknown.</p>
+          <p><a class="small-link" href="../cards/tape-road.html">Optional compact Tape Road card</a></p>'''
+
+
 def activity_card(activity):
+    if activity["url"] == "../cards/tape-road.html":
+        return f'''        <article class="seo-activity">
+          <h2>{esc(activity["title"])}</h2>
+{tape_road_handoff_content()}
+        </article>'''
     if activity.get("tile_build_pause"):
         return f'''        <article class="seo-activity tile-build-pause">
           <h2>{esc(activity["title"])}</h2>
@@ -2142,6 +2150,12 @@ def building_activity_card(activity):
 
 
 def indoor_activity_card(activity):
+    if activity["slug"] == "tape-road-delivery":
+        return f'''        <article class="seo-activity indoor-start" id="tape-road-delivery">
+          <p class="challenge-label">{esc(activity["job"])}</p>
+          <h2>{esc(activity["title"])}</h2>
+{tape_road_handoff_content()}
+        </article>'''
     steps = "".join(f"<li>{esc(step)}</li>" for step in activity["steps"])
     stop_html = f'''          <div class="challenge-stop">
             <p><strong>Stop:</strong> {esc(activity["stop"])}</p>
@@ -3312,7 +3326,7 @@ def tape_road_guide_html():
         "headline": "Painter's Tape Road for Kids",
         "description": "Make one short painter's tape road and parking place using an adult-selected surface or removable board.",
         "datePublished": "2026-09-15",
-        "dateModified": "2026-09-15",
+        "dateModified": "2026-10-28",
         "author": {
           "@type": "Organization",
           "name": "Kid Activity Lab"
@@ -3345,11 +3359,11 @@ def tape_road_guide_html():
             <p><strong>Try it when:</strong> your child can push a large toy vehicle and follow a stop cue.</p>
             <p><strong>Get:</strong> surface-appropriate removable painter's tape chosen by the adult, plus one or two large intact toy vehicles selected for every child who can reach them.</p>
             <p><strong>Choose the surface:</strong> follow the tape maker's instructions. Test one strip in an inconspicuous area and remove it. If the floor or finish is unknown or unsuitable, use a large cardboard sheet, table, or tray the adult is willing to tape.</p>
+            <p class="road-stop"><strong>Stop:</strong> for peeling, chewing, or wrapping tape; throwing or mouthing vehicles; leaving the activity area; or any change to the surface.</p>
             <ol>
               <li><strong>Adult:</strong> make one short road and a parking box.</li>
               <li><strong>Child:</strong> push one vehicle along the road and park it.</li>
             </ol>
-            <p class="road-stop"><strong>Stop:</strong> for peeling, chewing, or wrapping tape; throwing or mouthing vehicles; leaving the activity area; or any change to the surface.</p>
           </section>
         </header>
 

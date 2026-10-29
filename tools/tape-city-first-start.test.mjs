@@ -47,5 +47,5 @@ test("City discovery preserves guide ownership, unknown duration and bounded hos
  assert.match(read("collections/toy-car-activities.html"),/\.toy-car-page h1 \{ overflow-wrap: anywhere;/);
  assert.equal((read("cards.html").match(/class="mini-card"/g)||[]).length,36);assert.equal((read("sitemap.xml").match(/<loc>/g)||[]).length,65);
  assert.match(read("sitemap.xml"),/cards\/tape-city.html<\/loc>\n    <lastmod>2026-10-28<\/lastmod>/);
- assert.match(read("sitemap.xml"),/articles\/painter-tape-road-kids.html<\/loc>\n    <lastmod>2026-09-15<\/lastmod>/);
+ assert.match(read("sitemap.xml"),/articles\/painter-tape-road-kids.html<\/loc>\n    <lastmod>2026-10-28<\/lastmod>/);
 });

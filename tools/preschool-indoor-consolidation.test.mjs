@@ -136,7 +136,7 @@ test("moment chooser names seven exact routes and adult roles", () => {
   assert.match(css, /\.indoor-page \.chooser td::before/);
 });
 
-test("six starts expose setup, rescue, stop, and local parent checks", () => {
+test("five local starts retain checks and Tape Road hands off to its maintained guide", () => {
   const starts = [
     ...indoor.matchAll(
       /<article class="seo-activity indoor-start" id="([^"]+)">([\s\S]*?)<\/article>/g,
@@ -144,6 +144,14 @@ test("six starts expose setup, rescue, stop, and local parent checks", () => {
   ];
   assert.deepEqual(starts.map((match) => match[1]), startSlugs);
   for (const [slug, body] of starts.map((match) => [match[1], match[2]])) {
+    if (slug === "tape-road-delivery") {
+      assert.match(body, /Before handling tape or vehicles:/);
+      assert.match(body, /Full Painter's Tape Road guide/);
+      assert.match(body, /rescue and removal checks/);
+      assert.doesNotMatch(body, /<ol|<li>/);
+      assert.match(body, /class="small-link"/);
+      continue;
+    }
     for (const label of ["Kid idea:", "Need", "Adult setup:", "If it stalls", "Stop:", "Parent check:"]) {
       assert.ok(body.includes(label), `${slug} is missing ${label}`);
     }
@@ -156,7 +164,7 @@ test("six starts expose setup, rescue, stop, and local parent checks", () => {
   assert.ok(movement.indexOf("Stop:") < movement.indexOf("Kid idea:"));
   assert.ok(movement.indexOf("Parent check:") < movement.indexOf('<ol class="card-steps">'));
   for (const [slug, body] of starts.map((match) => [match[1], match[2]])) {
-    if (["paper-puddle-path", "sock-target-roll", "blanket-toy-crossing"].includes(slug)) continue;
+    if (["paper-puddle-path", "sock-target-roll", "blanket-toy-crossing", "tape-road-delivery"].includes(slug)) continue;
     assert.ok(body.indexOf('<ol class="card-steps">') < body.indexOf("Stop:"), `${slug} order changed`);
   }
   const blanket = starts.find((match) => match[1] === "blanket-toy-crossing")?.[2] ?? "";

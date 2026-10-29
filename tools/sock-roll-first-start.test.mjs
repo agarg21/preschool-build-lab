@@ -65,7 +65,7 @@ test("sock update is in sitemap once without creating a new search URL", () => {
   const sitemap = read("sitemap.xml");
   for (const p of ["cards/sock-ball-roll.html", ...owners, "collections/indoor-activities-for-preschoolers.html"]) {
     assert.equal(sitemap.split(`<loc>https://kidactivitylab.com/${p}</loc>`).length - 1, 1);
-    const date = owners.includes(p) ? "2026-10-28" : "2026-10-27";
+    const date = owners.includes(p) || p === "collections/indoor-activities-for-preschoolers.html" ? "2026-10-28" : "2026-10-27";
     assert.ok(sitemap.includes(`<loc>https://kidactivitylab.com/${p}</loc>\n    <lastmod>${date}</lastmod>`), p);
   }
   assert.doesNotMatch(sitemap, /articles\/sock/);
