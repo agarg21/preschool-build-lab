@@ -9,7 +9,9 @@
       "id": "KAL-RES-099",
       "title": "Audit Paper Chain Engineering before-action boundaries and maintained-card route",
       "kind": "bounded-existing-owner-boundary-audit",
-      "status": "in_progress",
+      "status": "completed",
+      "release_commit": "806c3a92a6b8b0e56052101315659c39840b4c51",
+      "review_result": "FreshGalileo01a185d5 full7cycle1PASS/noP0-P3; Master290/independent289/all685filebytes+actualrawindex conserved; exactstage/fullrange/docs push/fetchclean0/0",
       "registered_on": "2026-10-28",
       "base_commit": "7cec14ec9e0c1fd15f17bda88f2a0efdbc67dc40",
       "exact_paths": [
