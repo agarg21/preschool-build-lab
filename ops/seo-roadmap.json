@@ -6,6 +6,40 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-111",
+      "title": "Audit filtered-library Back-state coherence during two-card comparison",
+      "kind": "bounded-existing-flow-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "cda9d433c5e5712222da3a0a12f735872cae9c08",
+      "exact_paths": [
+        "reviews/card-finder-back-state-audit-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "RES110 fully pushed/factualcda9d43/freshclean0/0. Existing library supports literal title/material search, count, Clear and card links. IMP035 reviewed zero-state recovery/chooser Back, not repeated filtered-card comparison and form restoration. Current script only input listener plus initial update, no pageshow reconciliation. This is an untested task, not a presumed defect.",
+      "parent_problem": "Adult comparing existing activity choices searches a material, opens a card, returns with browser Back and needs visible query/count/result set to remain coherent before choosing another. Existing Cup/Water owner controls not requalified. Secondary stress enlarged text or unavailable JS.",
+      "hypothesis": "Browser-restored input and a freshly initialized grid may diverge on Back; reproduce actual browser behavior with normal inputs and distinguish bfcache from reload before proposing any repair. Preserve if no failure.",
+      "acceptance": "Build a four-mode production task with two real filtered-card keyboard/touch navigations and Back, query-count-hidden-results coherence, Clear/focus, zero-state, reload, noJS, text-fit/errors and viewed captures. Record browser/cache conditions; do not manufacture dispatch events and call them actual navigation. Compare prior coverage; four traced lenses/every section/all13 including justified NA. Return preserve/improve/defer with exact scoped repair only if verified. No newURL/build/source recipe or demand claim.",
+      "qa_plan": "Exact7 research-only; full308/diffcheck/jq/JSONCSV/privacy/GSC/docrefs/prior217objects and alloutside101site byte conservation. Fresh different independent full7 readonly review307SAFE/allfile-indexnsmetadata conservation. PASS docs-only main release/frozenstage-range/freshfetch/alignment. No generator or site edits; js_repl unavailable, use installed bundledPlaywright+Chrome CLI without config/install changes.",
+      "invariants": "One writer/nooverlap. Preserve allsite/script/data/metadata/106JSON19CSV3blankrows/36visiblecards/65sitemapURLs/credits/unknown family outcomes. No paid/account/index/tracking/automation/product or physical-family-safety-learning-SEO claim. Currentflow technicalproxy only; no parent testing.",
+      "observation_window": "Selected after observedUTC12:16:21/freshclean0/0/count1/max3; immutable firstrecoverable actual12:03:41Z/08:03:41EDT, conservative start cutoff12:45:41Z. Oct30 restoration/Nov1 synthesis/Nov3 cutoff unchanged.",
+      "reconsider_if": "No verified incoherence means preserve; no fabricated bad cache mode or stale script. Stop remote divergence/unsafe scope/P0-P2 beyond3cycles. Any qualified repair separately register within run limits, not silently build in research.",
+      "phase": "review_pass_release_pending",
+      "independent_review": "RES111 independent Jade01a1879f-f112-71f3-a40f-982bc9edbbfc (fresh different review) full7cycle1 PASS/noP0-P3. Own307SAFE/sevenproductionbytes/40cardBack+2NoJSBack/16validClear/16reload/8zero/24fit/12viewedcaptures confirmsPRESERVE; primaryplatform bodies checked. All709file hashes-writeRelevantnsmetadata/actualrawindexSHA1a7e8b8b0dec53229c2863e6993721bd58dfd7475bf4481242f52c1f2831a225/nsstat and HEAD-status-emptyindex conserved. Master308/217prior702outside101site/structured/privacy PASS. Reviewer/browserclosed/no server; docs-only release pending, no site/build/family result. Sameactual12:03:41/count1/conservative12:45:41/max3; finishsecondthenreturn/no thirdquota."
+    },
+    {
       "id": "KAL-RES-110",
       "title": "Qualify a preschool copy-the-clap rhythm echo parent job",
       "kind": "bounded-create-play-qualification",
