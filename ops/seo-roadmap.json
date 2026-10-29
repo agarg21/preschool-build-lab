@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-108",
+      "title": "Audit Paper Helicopter direct-drop stop-cue re-entry",
+      "kind": "bounded-existing-guide-entry-trust-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "7619ffcf90c03cc7cf6820baedea7c9b1e368518",
+      "exact_paths": [
+        "reviews/helicopter-drop-boundary-audit-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "PriorIMP077production0a5b91f/factual7619ffc fullypushed/freshclean0/0/no newincoming. CurrentHelicopterhero hascompleteStop beforeprep but#drop begins adultrelease; originalIMP013prep-first andIMP042responsive contentconservation/heading tasks differfrompreparedmodel-directdropStop re-entry. No newrecipequalification.",
+      "parent_problem": "Caregiver withmaintainedpreparedpaper model choosesFirstdrop/direct#drop; mustreceiveexistingmouthing-throwing-tool-scrap-attention-floor stopcue beforefirstrelease, whilehero/readiness andresponsivefix remain.",
+      "hypothesis": "Actualproductionfourmode/key-touch-Back-noJS/fallback andcurrentprimary-retainedlineage can establishwhetherdirectdrop bypassescriticalcue and qualify narrowexistingStop re-entry, orPRESERVE ifclosedreview/taskalreadycoversit.",
+      "acceptance": "Inspect currentNASA/retainedCPSC-PDF-map lineagelimits withoutrequalifyinggeometry; currentliveguide-library-style-map-sitemap-contributor-favicon bytes; fourmodes/root32/key-touch-Back/noJS/details/imagefallback/wordfit/normalerrors. Fourtracedlenses/everysection/all13 newtask; distinguishstronghero fromactualfragment. Ifqualified freeze exactseparaterepair paths inclresponsivehashfixture beforebuild, preservehero/source/geometry/roles.",
+      "qa_plan": "Full303native/diffcheck/jq/exact7/structured106JSON19CSV2212rows/101GSC/privacyEOF/docrefs/prior211items/allsite-source-configconservation; freshdifferentfull7readonlyPASSmax3/302safe/actualrawindex-filemetadata conserved. Freshfetch-no divergence/frozenstage/fullunpushedrange/docs-onlymainpush/alignment. js_repl missing/bundledPlaywrightChromeCLI fallback/no configchange.",
+      "invariants": "Mastersolewriter/nooverlap/no site/code/data/config/scheduler/ControlRoom/spend/products/index/accounts/tracking editsinresearch. PreserveIMP042CSS/title/arrivalandIMP0137x21geometry/no-ruler/map/sourcecheck-publicationdates/roles/no clips-weight-climbing/unknownoutcomes. No fakefamily/physical/safe-use/SEO claims; no newURL assumed.",
+      "observation_window": "Heartbeat2026-10-29T09:57:40.956Z; actualrunstart2026-10-29T09:57:47Z/05:57:47EDT/count0/max3/newactiondeadline10:42:47Z. Selectedafterpriorruncomplete; October30restoration/November1synthesis/November3cutoffunchanged.",
+      "reconsider_if": "Preserveunlessuncoveredactualdirect-drop criticalcue failure demonstrated; no cosmeticchurn/repeatgeometryqualification. Anyrepairseparateregister exactpaths/nativeQA/fullindependentreview/exactSHAproduction. Stoponcontradiction/overlap/divergence.",
+      "phase": "review_pass_release_pending",
+      "independent_review": "Darwin01a1871f/Codex RES108-r7a full7 cycle1 PASS/no P0-P3; own302SAFE/production routes; all701files and actualrawindex bytes-nsmetadata conserved, no writes. Master303/structured-scope PASS.",
+      "decision": "IMPROVE existing owner via separately registered exact13 repair: copy exact existing hero Stop first inside #drop; keep hero and all qualified geometry/CSS/roles. Four modes show no local cue; new task17/26 critical failure, not family outcome.",
+      "next_action": "Full303/structured-scope QA, fresh different full7 independent review and docs-only release, then promptly register separate IMP078 if same actual09:57:47/count/deadline10:42:47 allows."
+    },
+    {
       "id": "KAL-IMP-077",
       "title": "Put existing Straw Rocket stop boundary before first launch",
       "kind": "bounded-source-preserving-existing-guide-repair",
