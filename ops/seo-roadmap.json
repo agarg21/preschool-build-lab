@@ -6,6 +6,45 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-095",
+      "title": "Qualify a shared pretend-shop first-exchange job",
+      "kind": "bounded-create-imagine-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-28",
+      "base_commit": "b4b5548743448dc6859d1a4ef07c5ab2504b2708",
+      "exact_paths": [
+        "seo/preschool-pretend-shop-qualification-2026-10-28.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "SOURCE_BACKED",
+        "TOOL_ESTIMATE",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "MEASURED",
+        "UNKNOWN"
+      ],
+      "evidence": "Heartbeat23:05:28.986Z; actual23:05:35Z/19:05:35EDT/count0/deadline23:50:35Z/max3. Completedfreshfetch clean0/0 atb4b5548; RES0947130e42/factualcloseoutb4b5548 fullypushed/no unfinishedrelease or overlapping writer. Named next ownership/closed-decision check found no pretend-shop owner/qualification in targeted retained search. Broad July29 pretend-play20 estimates are not exact shop demand; no newGSC known.",
+      "parent_problem": "Caregiver of ages3-6 non-reader may want a small shared pretend shop with suitable owned household objects, a first buyer/seller exchange and explicit adult participation/end/decline, without money/math/reading/printer/purchases or independent-play promises.",
+      "hypothesis": "A bounded first-exchange pretend-shop start may have distinct search-supported focus-age demand and missing original parent utility over maintained early-childhood answers. Existing pretend routes and oral story games are different mechanisms; low-prop and role prompts alone are not novelty.",
+      "acceptance": "Inspect exact current pretend-shop preschool query family/current primary or original publishers plus3-5 accessible public caregiver/educator questions with age/date/reuse limits, retained keyword/owner audit. Freeze one object-select/ask-offer-exchange/reset lineage versus shopping worksheets/money math/real errands/product kits. Actual sourcevisual and desktop-mobile proxy/fourgroundedlenses/everysection/all13/criticaloutputs; BUILD/UPGRADE/PRESERVE/DEFER/REJECT with exactgates, separate build only ifqualified.",
+      "qa_plan": "Exact7 docs/research only; full278tools/diffcheck/jq/allchangedJSON-CSV/sourceprivacy/EOF/relativeMDrefs/uniqueIDs/all101GSC/conserve site-source-data-config/prior191items. Own browser/task/visual checks with limits; freshdifferent full7read-onlyreview max3/PASSorPASS_WITH_P3. Reviewer test safety:58otherfiles273 plusfourPOSITIVE exact-title architecture cases277, NEVER negative filter or forbidden datecase/main. Completedfetch/no divergence/exactfrozenstage/completeunpushedrange/docs mainpush/alignment/noPages.",
+      "invariants": "Master sole writer. No site/generator/data/config/automation/ControlRoom/indexrequest/paid/product/account/outreach/newURL change. No copied child images, user identities, private histories or clinical claims. No nutrition/food-use recommendations, choking-safe size guarantee, developmental/learning/social/emotional/independence/time/outcome promise; ordinary owned materials need source-bound controls. Preserve closed story/puppet/collage/lacing/drawing/cloud/weaving decisions.",
+      "observation_window": "Actual23:05:35Z/count0/new-actiondeadline23:50:35Z/max3, sprintactive. November1synthesis/October30exactrestoration/globalcutoff unchanged.",
+      "reconsider_if": "Current exact demand/output/default fails or clean owner found: preserve/defer/reject, no manufactured guide. Missing family testing is not dependency; narrow candidate gate does not block independent work.",
+      "phase": "freshdifferent-full7-review-pass-exact-docs-release-next",
+      "review_result": "Freshdifferent01a184f1-92da-7131-9412-fa22cc110acc full7/cycle1 PASS/noP0-P3; independent277pass/0skips via58otherfiles273+fourpositiveexacttitles, no forbidden datecase/main. All673checkout/rawindex/HEAD/status/sevenhashes/prior191items conserved; own source-browser/structuredprivacyEOF reproduced. PBSweb timeout/browser200, cookie/doc455/context-photo limits retained. Reviewer/browser closed.",
+      "qa_result": "Master278/0fail;106JSON19CSV2212/192IDs684refs/all101GSC/privacyEOF PASS; prior191items/site-source-data-config conserved. Two livebytes/four zero-keyClear36/twoNoJS/source1280-390 actual visual limits verified.",
+      "decision": "DEFER new pretend-shop guide/card; REJECT generic low-prop/roles/toyshop novelty; PRESERVE owners. Source10/26criticalFAIL notKALbaseline/opportunity. Exact demand/incremental output/default remain gates, no family-testing dependency.",
+      "artifact": "seo/preschool-pretend-shop-qualification-2026-10-28.md",
+      "next_action": "Native278/structuredprivacyEOF/freshdifferent compliant full7review/exactdocsrelease/factualcloseout/alignment. Sameactual23:05:35/count0/deadline23:50:35 expired; finishonly/no secondaction."
+    },
+    {
       "id": "KAL-RES-094",
       "title": "Qualify a preschool observational-drawing first-mark job",
       "kind": "bounded-create-imagine-qualification",
