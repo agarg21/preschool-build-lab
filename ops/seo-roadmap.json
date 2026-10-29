@@ -9,7 +9,7 @@
       "id": "KAL-RES-111",
       "title": "Audit filtered-library Back-state coherence during two-card comparison",
       "kind": "bounded-existing-flow-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "cda9d433c5e5712222da3a0a12f735872cae9c08",
       "exact_paths": [
@@ -36,7 +36,9 @@
       "invariants": "One writer/nooverlap. Preserve allsite/script/data/metadata/106JSON19CSV3blankrows/36visiblecards/65sitemapURLs/credits/unknown family outcomes. No paid/account/index/tracking/automation/product or physical-family-safety-learning-SEO claim. Currentflow technicalproxy only; no parent testing.",
       "observation_window": "Selected after observedUTC12:16:21/freshclean0/0/count1/max3; immutable firstrecoverable actual12:03:41Z/08:03:41EDT, conservative start cutoff12:45:41Z. Oct30 restoration/Nov1 synthesis/Nov3 cutoff unchanged.",
       "reconsider_if": "No verified incoherence means preserve; no fabricated bad cache mode or stale script. Stop remote divergence/unsafe scope/P0-P2 beyond3cycles. Any qualified repair separately register within run limits, not silently build in research.",
-      "phase": "review_pass_release_pending",
+      "phase": "released_research_only",
+      "release": "COMPLETED learned-only RES111d50e751875bcec124e3f48715c8c90afc63a8edb: [preserve decision and evidence](../reviews/card-finder-back-state-audit-2026-10-29.md). Master308/Jade01a1879f full7cycle1PASS/independent307/709file-rawindex conserved. Exact7 frozenstage/fullunpushedrange69ac44b9dc0289c5fb4a63e77b5d105b64ebf8cf8900bc001948bec3c7874309 identity/privacyEOF/freshfetch-no divergence/docs-onlypush/postpushclean0/0 checked before observedUTC12:36:02Z. No site/Pages/build/family result; reviewer/browsersclosed/no server/blocker. Thisrun completed RES110389cb59 and RES111, count2/sameactual12:03:41/conservative12:45:41/max3; return aftertwo, no thirdquota. Next eligible invocation freshguard/remote/GSC then current Making/Experimenting question discovery: test whether paper-fan making is a distinct job from Windproof Tower's adult-prepared fan component before any qualification/build. Do not repeat rhythm/Back tasks absent named new evidence. Oct30/Nov1/Nov3 unchanged.",
+      "next_action": "Return after two completed transactions, not a quota of three. Next invocation fresh UTC-NY guard/remote/newGSC then current Making/Experimenting question discovery: paper-fan making distinct-job/owner-fit gate versus Windproof Tower prepared-fan component. No guide presumed or repeat closed rhythm/Back qualification without new evidence.",
       "independent_review": "RES111 independent Jade01a1879f-f112-71f3-a40f-982bc9edbbfc (fresh different review) full7cycle1 PASS/noP0-P3. Own307SAFE/sevenproductionbytes/40cardBack+2NoJSBack/16validClear/16reload/8zero/24fit/12viewedcaptures confirmsPRESERVE; primaryplatform bodies checked. All709file hashes-writeRelevantnsmetadata/actualrawindexSHA1a7e8b8b0dec53229c2863e6993721bd58dfd7475bf4481242f52c1f2831a225/nsstat and HEAD-status-emptyindex conserved. Master308/217prior702outside101site/structured/privacy PASS. Reviewer/browserclosed/no server; docs-only release pending, no site/build/family result. Sameactual12:03:41/count1/conservative12:45:41/max3; finishsecondthenreturn/no thirdquota."
     },
     {
