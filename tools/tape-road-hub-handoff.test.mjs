@@ -64,7 +64,7 @@ test('maintained guide has its existing stop before quick-start actions with fac
   assert.match(quick, /for peeling, chewing, or wrapping tape; throwing or mouthing vehicles; leaving the activity area; or any change to the surface/);
   const data = JSON.parse(h.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1]);
   assert.equal(data.datePublished, '2026-09-15');
-  assert.equal(data.dateModified, '2026-10-28');
+  assert.equal(data.dateModified, '2026-10-29');
   assert.match(h, /AI-generated setup illustration/);
   assert.match(h, /Exact duration, mess, comprehension/);
 });
@@ -84,7 +84,8 @@ print(json.dumps({p['path']:with_contributor_credit(g.page_html(p),p['path']) fo
   const xml = read('sitemap.xml');
   assert.equal((xml.match(/<loc>/g) || []).length, 65);
   for (const p of [...owners,'articles/painter-tape-road-kids.html']) {
-    assert.ok(xml.includes(`${p}</loc>\n    <lastmod>2026-10-28</lastmod>`), p);
+    const modified = p === 'articles/painter-tape-road-kids.html' ? '2026-10-29' : '2026-10-28';
+    assert.ok(xml.includes(`${p}</loc>\n    <lastmod>${modified}</lastmod>`), p);
     assert.equal((read(p).match(/<h1>/g) || []).length, 1);
     assert.ok(read(p).includes(`rel="canonical" href="https://kidactivitylab.com/${p}"`), p);
   }

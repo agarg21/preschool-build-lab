@@ -23,7 +23,7 @@ test("Painter's Tape Road guide owns one singular search job", () => {
   const data = JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)?.[1] ?? "{}");
   assert.equal(data["@type"], "Article");
   assert.equal(data.datePublished, "2026-09-15");
-  assert.equal(data.dateModified, "2026-10-28");
+  assert.equal(data.dateModified, "2026-10-29");
 });
 
 test("first start exposes the frozen parent decision", () => {
@@ -116,5 +116,5 @@ test("keyword inventory and sitemap contain the guide once", () => {
     .map((match) => match[1])
     .filter((entry) => entry.includes("painter-tape-road-kids.html"));
   assert.equal(entries.length, 1);
-  assert.match(entries[0], /<lastmod>2026-10-28<\/lastmod>/);
+  assert.match(entries[0], /<lastmod>2026-10-29<\/lastmod>/);
 });

@@ -65,7 +65,7 @@ CONTENT_LASTMODS = {
     "collections/no-prep-stem-activities-for-4-year-olds.html": "2026-10-28",
     "collections/stem-activities-for-preschoolers.html": "2026-10-27",
     "articles/cardboard-ball-maze-kids.html": "2026-10-28",
-    "articles/painter-tape-road-kids.html": "2026-10-28",
+    "articles/painter-tape-road-kids.html": "2026-10-29",
     "collections/engineering-activities-for-4-year-olds.html": "2026-10-29",
     "collections/indoor-activities-for-preschoolers.html": "2026-10-28",
 }

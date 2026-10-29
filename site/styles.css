@@ -434,6 +434,10 @@ h1 {
   scroll-margin-top: 104px;
 }
 
+.road-article #one-road {
+  scroll-margin-top: max(104px, 7rem);
+}
+
 @media (max-width: 560px) {
   .bridge-guide-hero {
     padding-top: 18px;

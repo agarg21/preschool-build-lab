@@ -3328,7 +3328,7 @@ def tape_road_guide_html():
     <meta name="description" content="Make one simple painter's tape road with a parking mission, a removable-board fallback, clear adult roles, direct stops, route changes, and cleanup steps.">
     <link rel="icon" href="data:,">
     <link rel="canonical" href="https://kidactivitylab.com/articles/painter-tape-road-kids.html">
-    <link rel="stylesheet" href="../styles.css?v=tape-road-guide-1">
+    <link rel="stylesheet" href="../styles.css?v=tape-road-direct-run-1">
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -3336,7 +3336,7 @@ def tape_road_guide_html():
         "headline": "Painter's Tape Road for Kids",
         "description": "Make one short painter's tape road and parking place using an adult-selected surface or removable board.",
         "datePublished": "2026-09-15",
-        "dateModified": "2026-10-28",
+        "dateModified": "2026-10-29",
         "author": {
           "@type": "Organization",
           "name": "Kid Activity Lab"
@@ -3385,16 +3385,17 @@ def tape_road_guide_html():
         <div class="content">
           <section id="one-road" aria-labelledby="one-road-title">
             <h2 id="one-road-title">Run one short road</h2>
+            <p class="road-stop"><strong>Stop:</strong> for peeling, chewing, or wrapping tape; throwing or mouthing vehicles; leaving the activity area; or any change to the surface.</p>
+            <div class="callout">
+              <strong>Keep the roles clear:</strong> the adult selects, applies, checks, and removes the tape. The child owns the drive-and-park mission.
+            </div>
             <ol class="steps">
+              <li>The adult keeps loose tape out of reach and stays close enough to stop the listed actions or a surface change.</li>
               <li>The adult reads the tape guidance, checks the chosen surface, applies one test strip, and removes it.</li>
               <li>On the selected surface or removable board, the adult lays one broad tape route with one gentle turn.</li>
               <li>Add one parking box at the end. Put one adult-selected vehicle at the start.</li>
               <li>The child pushes the vehicle along the road and into the parking box.</li>
-              <li>The adult keeps loose tape out of reach and stays close enough to stop the listed actions or a surface change.</li>
             </ol>
-            <div class="callout">
-              <strong>Keep the roles clear:</strong> the adult selects, applies, checks, and removes the tape. The child owns the drive-and-park mission.
-            </div>
           </section>
 
           <section id="one-change" aria-labelledby="one-change-title">
