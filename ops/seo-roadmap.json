@@ -9,7 +9,9 @@
       "id": "KAL-RES-098",
       "title": "Audit Ball Maze engineering-to-guide first stop boundary",
       "kind": "bounded-existing-owner-start-boundary-audit",
-      "status": "in_progress",
+      "status": "completed",
+      "release_commit": "0e54b9129538e0a7dab51c43754a39b4b5f346ec",
+      "review": "Euler/Lorentz01a1853e full7 cycle1 PASS/no findings; Master283/reviewer282; push/fetch clean0/0",
       "registered_on": "2026-10-28",
       "base_commit": "ae282cd96aafea13df0ee75a8759d473d5d101fa",
       "exact_paths": [
