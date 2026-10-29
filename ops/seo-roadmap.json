@@ -9,7 +9,7 @@
       "id": "KAL-RES-109",
       "title": "Audit Tape Road direct-run pre-action controls and heading arrival",
       "kind": "bounded-existing-guide-direct-run-task-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "b468c8ad89ac57375d51658094f9a08705f8e988",
       "exact_paths": [
@@ -36,7 +36,8 @@
       "invariants": "Mastersolewriter/nooverlap/no site/code/data/config/ControlRoom/automation/spend/products/index/accounts/tracking editsinresearch. Preserve TapeRoadrecipe/diagram/surface-makerinstructions/boardfallback/cardandhubs/roles/sourcecheck-publicationdates/credits/unknownoutcomes. No implicitage/firsthand/safety/SEOclaims. Don'treopencup/maze/bridge/rocket/helicopter tasks.",
       "observation_window": "Heartbeat2026-10-29T10:55:41.296Z; actual2026-10-29T10:55:47Z/06:55:47EDT/count0/max3/newactiondeadline11:40:47Z. October30restoration/November1synthesis/November3cutoffunchanged.",
       "reconsider_if": "PRESERVE ifpriorcoverageorcurrentcontrolmakesnewtaskcomplete; repaironly demonstratedcriticalgap in separatelyregisteredreviewedbuild. Stopcontradiction/overlap/divergence; no newURL/demandforecast.",
-      "phase": "review_pass_release_pending",
+      "phase": "released",
+      "release": "5708449177e0efa65580fe4b331e01d1c3005645 docs-only push; exact7 stage/fullrange f5a94d9a923d2200f87cdfaef2fee2df3304ae3c864aea08666daeb6da496104 identity/privacy/freshfetch/no divergence/postpushclean0/0 verified11:13:41Z. Sameactual10:55:47/count1/deadline11:40:47/max3. Exact15 separatebuild remains next, no site approval.",
       "independent_review": "Carver01a18754/RES109-3819 full7cycle1PASS_WITH_P3/noP0-P2; sole offset-countP3 corrected. Own303SAFE/productionmatrix; all703files and actualrawindexSHA3fdda19fbfd2272201996a8e944937d0557b2b10b76ceeebcbc947502227a018/stat conserved. OptionalYouTube diagnostics separate; no repo writes. Master304 PASS.",
       "decision": "IMPROVE separately exact15: exact heroStop copied firstinside#one-road, existingrolescallout beforelist, exactfifthproximityitem first; scopedrelativeoffset andguideonlyCSSquery. Preservehero/recipe/roles/diagram/peers. Newdirectrun16/26criticalfailure/root32heading104behind142.83header, notoldprep score.",
       "next_action": "Full304/structured-scope QA/freshdifferentfull7review/docsrelease; then promptly register separate IMP079 exact15 within sameactual10:55:47/count/deadline11:40:47."
