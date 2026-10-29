@@ -1496,6 +1496,7 @@ PAGES = [
                 "rescue": "Replace torn foil or stop. If it cannot float freely in the shallow setup, choose a dry activity, not a deeper vessel.",
                 "stop": "Stop for mouthing, torn foil, spills, a moving tray, lost attention or wanting to leave.",
                 "parent": "Adult gathers foil, empties and stores the tray, and wipes spills before leaving. Shallow water still requires continuous adult supervision. Watching is an option; no family testing or safety outcome is claimed.",
+                "stop_before_action": True,
             },
             "paper-chain-test": {
                 "slug": "paper-chain-test",
@@ -2069,7 +2070,9 @@ def engineering_activity_card(activity):
         '<p><a href="../articles/cardboard-ball-maze-kids.html">Read the full Ball Maze checks before handling</a></p>'
         if activity["slug"] == "ball-maze-box" else
         '<p><a href="../cards/paper-chain-test.html">Read linked-loop checks and diagram before starting</a></p>'
-        if activity["slug"] == "paper-chain-test" else ""
+        if activity["slug"] == "paper-chain-test" else
+        '<p><a href="../cards/foil-boat-test.html">Read the empty-boat checks and folds before starting</a></p>'
+        if activity["slug"] == "foil-boat-test" else ""
     )
     first_cue = (
         f'<p class="distance-start-cue"><strong>{esc(ACTIVITIES["car-ramp-distance-test"]["start_cue"])}</strong></p>'

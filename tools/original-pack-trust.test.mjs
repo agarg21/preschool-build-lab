@@ -37,7 +37,7 @@ test("only optional notes collapse, not required setup or stop instructions", ()
 });
 
 test("reviewed empty-boat module remains exactly frozen", () => {
-  assert.equal(createHash("sha256").update(article("tiny-boat-cargo-test")).digest("hex"), "815a41c350555e43d4f9acdf128a29ae1fa893e1ddacef696ba2b3c512bc2af5");
+  assert.equal(createHash("sha256").update(article("tiny-boat-cargo-test")).digest("hex"), "fa4e4d1c57b8a4fc373ed40beaba9c5d6a22cd1ce923d2321db296cef0cc9519");
 });
 
 test("age-hub four local overrides qualify timing and effort while preserving peer defaults", () => {
