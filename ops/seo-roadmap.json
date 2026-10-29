@@ -6,6 +6,41 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-110",
+      "title": "Qualify a preschool copy-the-clap rhythm echo parent job",
+      "kind": "bounded-create-play-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "caa5e2d7acc706d34d17200a1ce242c7b3e5367c",
+      "exact_paths": [
+        "seo/preschool-rhythm-echo-qualification-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "TOOL_ESTIMATE",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Clean aligned main after IMP080/factual caa5e2d. RES060 closed freeze-dance music-on/pause job, explicitly no clapping owner; echo copying is not pause/movement or Sound Shaker pair matching/Pattern Path objects. No exact rhythm qualification found in current seo/reviews/briefs. Latest retained GSC Oct28 finalOct26 unchanged since prior run; no query inference.",
+      "parent_problem": "Adult with a child ages3-6 wants to judge and run a short listen-copy-swap rhythm game without equipment, compulsory performance or a long music lesson; noise tolerance and unclear turn cue are secondary stress hypotheses, not reported family facts.",
+      "hypothesis": "A distinct rhythm-copying rule may qualify only if current search/question evidence supports material demand and a missing live-source execution output. Existing generic music demand or missing inventory does not qualify a URL.",
+      "acceptance": "Return build/upgrade/preserve/defer/reject with exact gates. Inspect one current query family/ranking bodies, primary mechanism sources, current caregiver questions if available; retain URL/access/date/constraint/paraphrase only. Compare actual owners and RES060 before claiming novelty. Frozen one-source lineage or explicitly unqualified alternatives; four traced lenses/every proposed section/all13 with justified NA and no fabricated before-page baseline.",
+      "qa_plan": "Exact7 research-only; full native tests/diffcheck/jq; parse changedJSON and source data; validate all retained GSC; prior216 roadmap objects and every out-of-scope file conserved; privacy/claims/local docrefs. Fresh different full7 readonly reviewer, rawindex and allfile write-relevant metadata conserved, SAFE tests excluding datefixture. Only PASS/PASS_WITH_P3 docs-only main release/freshfetch-range identity/alignment. No site/generator or browser task claimed without actual execution.",
+      "invariants": "Master sole writer; no overlap, site/data/source/generator changes, paid tools, new account, tracking, indexing, products or family/physical/safety/educational/SEO outcome. No repeat closed freeze/leader/Simon/animal/story/shadow qualifications. No assumed newguide; qualified build separately register promptly if remaining run limits permit.",
+      "observation_window": "Heartbeat12:00:41.522Z; first recoverable actual UTC12:03:41Z/08:03:41EDT, immutable across this run. Earlier preflight clock output lost at compaction; unsupported12:00:47 provisional guard discarded before selection, no action started. Use conservative new-action cutoff12:45:41Z (three minutes shorter than helper45min) so lost preflight never extends working allowance. Count0/max3. Oct30 exact restoration/Nov1 synthesis/Nov3 cutoff unchanged.",
+      "reconsider_if": "Stop unsupported demand/borrowed generic novelty, critical lineage unknown, privacy issue, review P0-P2 beyond3cycles, divergence. Missing exact evidence supports defer not claimed absence; reopen only named new gap.",
+      "phase": "review_pass_release_pending",
+      "independent_review": "RES110 independent Ampere the2nd01a18791-6ca2-7602-a5bb-0c6d7dec535b full7/cycle1 PASS/noP0-P3. Own307SAFE, five primary bodies/three question bodies/Oxford renderedPDF checked;18/24 and DEFER upheld. Exact7/106JSON19CSV2212rows-threeblankrows/101GSC/945docrefs/prior216-701outside101site conserved. All708file hashes/write-relevant nsmetadata and actualrawindexSHAf2a2a7217aacd349375ed81821306377e9e1f0fd5eee11a9d09f0c0297c4df52/nsstat/HEAD-status-emptyindex unchanged; atime diagnostic/no restoration. No site/browser/server/build/production/family result. Reviewer closed; freshfetch/frozenexactstage-range/docs-only mainpush/alignment next. First recoverable actual12:03:41/count0/conservative12:45:41 cutoff/max3."
+    },
+    {
       "id": "KAL-IMP-080",
       "title": "Clear remaining Tape Road section headings at enlarged text",
       "kind": "verified-accessibility-arrival-defect-repair",
