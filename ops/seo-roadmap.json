@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-105",
+      "title": "Qualify a shadow-story play job against the maintained shadow-size owner",
+      "kind": "bounded-distinct-shadow-play-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-29",
+      "base_commit": "384409d3529d64ea0799bac0ddb39ea607225b2b",
+      "exact_paths": [
+        "seo/shadow-story-play-qualification-2026-10-29.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "TOOL_ESTIMATE",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "RES104974220c/factual384409d full7WegenerPASS/releasedclean0/0. ActualShadowBuildercard ownsoneblock/sizecomparison withadult-lightcontrol; RES039/IMP030/RES064/IMP047 closed repairs excluded puppetvariant, notexactshadowstoryqualification. RES053paperbagpuppet/RES077oralstory remainclosed.",
+      "parent_problem": "Caregiver considers light-and-silhouette pretendstory versus existingblocksizecomparison; needs one mechanism/material/role/firstscene/fit/end choice without an elaborate stage, hand-pose requirement or family/learning promise.",
+      "hypothesis": "Current exactshadowplay query/body and caregiverquestion evidence can determine whether a distinct story job has materialdemand and missingutility, or whether existinganswers/cleanowner fit meanpreserve/defer; story aloneisn'tan automaticnewURL.",
+      "acceptance": "Inspect narrowcurrentqueryfamily andprimarybodyprocedures pluscurrentpublicquestions ifavailable; distinguish handshape/cutout/stage andoneblockcomparison. No silentmixedrecipe. Checksource-lineage/materials/adultlight/scene/stop/cleanup/visualstatus, no-cleanowner/materialdemand/incrementalutility/roadmapgates. Fourtracedlenses/everysection/all13withN-A; BUILD/UPGRADE/PRESERVE/DEFER/REJECT. Ifqualifiedseparateregisterbuild promptly, elseclosewithoutrepeatinggenericfeatures.",
+      "qa_plan": "Full302native/diffcheck/jq/exact7/structuredJSON-CSV101GSC/privacyEOF/docrefs/prior207items/site-source-configconservation; freshdifferentfull7read-onlyPASSmax3/nonmutating301/actualrawindexconserved. Freshfetch/no divergence/exactfrozenstage/completeunpushedrange/docs-onlymainpush/alignment. No siteorPageswork.",
+      "invariants": "Mastersolewriter/nooverlap; no existingShadowrepairrepetition/recipechange/newpageassumed. No site/data/code/config/scheduler/ControlRoom/privatequery/paid/products/index/accounts/tracking. No brightness/device/safehome/bedtime/medical/developmental/familyclaim. Userunknownoutcomespreserved.",
+      "observation_window": "Sameactual2026-10-29T07:57:18Z/count1/deadline08:42:18/max3; selected08:11:31Z afterRES104/factual384409d fullypushed/freshclean0/0. Oct30restoration/Nov3cutoffunchanged.",
+      "reconsider_if": "Deferonmaterialdemand/missingutility/home-source-control-visuallineageunknown, sourceconflicts orcleanownerfit; no family-testing/paidtooldependency invented. Do notturnstorythemeintothinvariantURL.",
+      "phase": "reviewed-awaiting-release",
+      "review_result": "Feynman the2nd01a186be full7cycle1PASS_WITH_P3/cycle2PASS aftertwoIMP047references corrected/no remainingP0-P3; independent301/all697files-rawactualindex-writeRelevantnsmetadata conserved/atime diagnostic; reviewerclosed",
+      "next_action": "DEFERnewshadowstoryURL; rejectgenericfeatures alreadyanswered, preserveShadowBuilder/closedrepairs. Exactdemand/missingutility/home-default notqualified. Fullnative/structured/freshdifferentfull7review/docsrelease thenqueue-Exploreownercheckbeforefutureselection; no thirdquota."
+    },
+    {
       "id": "KAL-RES-104",
       "title": "Discover a distinct shared-drawing parent decision without imposed turns",
       "kind": "bounded-create-imagine-question-discovery",
