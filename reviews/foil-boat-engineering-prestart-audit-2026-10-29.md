@@ -1,5 +1,13 @@
 # Foil Boat Pre-Start Sequence Audit - October 29, 2026
 
+## Verified Research Release
+
+Learned-only material610c1b15635513865e470c4d716ea98b27989fce, pushedmain/freshfetch clean0/0 verified05:10:40Z. Exact7 frozenstage/completeunpushedrange16cf16007de0d03c70f195d388e5876879ea0980954a7c5c2536e54401175c92 identity/privacyEOF PASS. Docs-only, no site delivery or Pages wait.
+
+Different Laplace01a1860d-0883-7e83-9d96-dd3379bec1c4/full7cycle1PASS/noP0-P3. Own293safe tests (289outsidearchitecture+4positive cases, forbidden datecase neverexecuted), currentfourbodies, sevenlivebytes/fourmodes30key18touch23Back/twoNoJS/blockedPNG/ownvisuals/no normalerrors. All688tracked-nonignoredfiles/7hashes/HEAD-status-emptyindex/actualrawindexbytes ANDmetadata conserved. Actualindex73542bytes SHA256651c4ba3fc69ce626e4058667caf202dccecf5cc4c3ced3b429f55a4f6fbae80. Ownbrowser report/tmp/kal-res100-independent.fJMhIp/browser-report.json; reviewer/browserclosed. Threepreexisting irregularCSVrecords unchanged. Master294 and17of26task are distinct. No family/physical/SEO outcome, no blocker/server.
+
+Research gate complete; promptly separately register exact16 IMP075 after factualcloseout/alignment, same05:00:45/count1/deadline05:45:45/max3. Original pre-release gate below retained as history, not current blocked state.
+
 ## Contract And Decision
 
 KAL-RES-100, registered exact7 at258070ff5513b5f557601ce8c72fb873fd35dc8f before extended work. Actual2026-10-29T05:00:45Z/01:00:45EDT/count0/startdeadline05:45:45/max3. Master sole writer; no site changes in this transaction.

@@ -9,7 +9,7 @@
       "id": "KAL-RES-100",
       "title": "Audit Engineering Foil Boat pre-start checks and actual diagram handoff",
       "kind": "bounded-existing-owner-sequence-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "258070ff5513b5f557601ce8c72fb873fd35dc8f",
       "exact_paths": [
@@ -36,8 +36,10 @@
       "invariants": "Master solewriter; source/card/site/data/config/workflows unchanged, no newURL/demand claim/cargo geometry/safety assurance/paid/indexing/accounts/ControlRoom/automation/product edits.",
       "observation_window": "Actual2026-10-29T05:00:45Z/count0/deadline05:45:45Z/max3; October29 learning, Nov1 weekly notdue, October30 restoration and Nov3 cutoff unchanged.",
       "reconsider_if": "Preserve if required route/controls already early or no reproducible task failure; improve only demonstrated order/handoff with separately reviewed build; stop on divergence or unavailable independent review.",
-      "phase": "registered-before-extended-audit",
-      "next_action": "Reconcile current primary bodies and retained scope; exercise actual Engineering-card route, write bounded disposition and separate exact repair brief if justified."
+      "phase": "reviewed-research-released",
+      "release_commit": "610c1b15635513865e470c4d716ea98b27989fce",
+      "review_result": "Laplace01a1860d full7cycle1PASS/noP0-P3/independent293/all688files+actualrawindex conserved; Master294.",
+      "next_action": "Factualcloseout/alignment then promptlyregister exact16 IMP075 from reviewedbrief, same05:00:45/count1/deadline05:45:45/max3; no researchsite delivery."
     },
     {
       "id": "KAL-IMP-074",
