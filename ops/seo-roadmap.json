@@ -9,7 +9,7 @@
       "id": "KAL-IMP-071",
       "title": "Align Tape Road hub trust labels and guide-first handoffs",
       "kind": "existing-owner-trust-and-handoff-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-28",
       "base_commit": "5a454e847dc74b32d6178aa706b343c43c5099d7",
       "exact_paths": [
@@ -54,8 +54,12 @@
       "invariants": "One writer/nooverlap. Existing6hubURL/Indoorfragment/sitemap65/datePublished/canonicalownership/allpeer modules preserved. HistoricalCSV/card/illustration/CSS/guideprose-rules-sources unchanged except existingStoporder/dateModified. Existing7fixtureedits only Deliveryhandoff/dateassertions, peercoverage intact. No newrecipe/indexrequest/accounts/outreach/paid/products/automation/ControlRoom/outcomes.",
       "observation_window": "Actual2026-10-29T00:03:14Z/count1/newactiondeadline00:48:14Z/max3. Sprintactive/October28local. Finishthisstartedtransaction safely evenafterdeadline, no clockreset. November1/October30/globalcutoff unchanged.",
       "reconsider_if": "Criticalroute/order/claim/peer/productionregression; stop ondivergence/ambiguousrollback. Parent/child,time,mess,safety,trustgain,SEO UNKNOWN, no comparable scoregain claim.",
-      "phase": "native283-all3twice-exactscope-localbrowser-PASS-before-independent-review",
-      "next_action": "Implement sharednonrunnable handoff and customIndoorroute, unchangedguideStopreorder plus scopedfixtures, then native/generator/browser/freshdifferent review/release."
+      "phase": "completed-production-verified-exact-SHA",
+      "release_commit": "1dd82c8b40811e63304065622f0a17d6e267eeb0",
+      "pages_run": 40794779423,
+      "review_result": "Aquinas01a1850c full25cycle1PASS/noP0-P3/independent282/Master283/all676-rawindex conserved",
+      "production_result": "11byte matches18modes39key12touch48Back/twoNoJS-unknownhash/persistentroot32/canonical-H1-stop-wordfit-runtime PASS. 3of8PNGmatch,5unchanged-image-onlypixelvariances; actualbrowserimageSHA identical, isolatedprobe matcheslocal; no all8pixel-equivalence claim.",
+      "next_action": "Factualcloseout/push/alignment thenreturn; count2/no thirdquota. Nexteligible freshclock/guard/remote/newGSC/currentsequence then distinct eligiblegap; no TapeRoadrepeat without newevidence."
     },
     {
       "id": "KAL-RES-096",
