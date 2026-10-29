@@ -9,7 +9,7 @@
       "id": "KAL-RES-105",
       "title": "Qualify a shadow-story play job against the maintained shadow-size owner",
       "kind": "bounded-distinct-shadow-play-qualification",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-29",
       "base_commit": "384409d3529d64ea0799bac0ddb39ea607225b2b",
       "exact_paths": [
@@ -37,9 +37,11 @@
       "invariants": "Mastersolewriter/nooverlap; no existingShadowrepairrepetition/recipechange/newpageassumed. No site/data/code/config/scheduler/ControlRoom/privatequery/paid/products/index/accounts/tracking. No brightness/device/safehome/bedtime/medical/developmental/familyclaim. Userunknownoutcomespreserved.",
       "observation_window": "Sameactual2026-10-29T07:57:18Z/count1/deadline08:42:18/max3; selected08:11:31Z afterRES104/factual384409d fullypushed/freshclean0/0. Oct30restoration/Nov3cutoffunchanged.",
       "reconsider_if": "Deferonmaterialdemand/missingutility/home-source-control-visuallineageunknown, sourceconflicts orcleanownerfit; no family-testing/paidtooldependency invented. Do notturnstorythemeintothinvariantURL.",
-      "phase": "reviewed-awaiting-release",
+      "phase": "research-released",
       "review_result": "Feynman the2nd01a186be full7cycle1PASS_WITH_P3/cycle2PASS aftertwoIMP047references corrected/no remainingP0-P3; independent301/all697files-rawactualindex-writeRelevantnsmetadata conserved/atime diagnostic; reviewerclosed",
-      "next_action": "DEFERnewshadowstoryURL; rejectgenericfeatures alreadyanswered, preserveShadowBuilder/closedrepairs. Exactdemand/missingutility/home-default notqualified. Fullnative/structured/freshdifferentfull7review/docsrelease thenqueue-Exploreownercheckbeforefutureselection; no thirdquota."
+      "next_action": "Factualcloseout/alignment thenreturn count2/same07:57:18/deadline08:42:18/max3/no thirdquota. Nexteligible currentExploreDiscover caregiver-question discovery withactualowner/closeddecisioncheckbeforeone namedqualificationgate; no automaticbuild orrepeatshadow/shareddrawing/cloud/map/observationaldrawing/puppet/animal/oralstory.",
+      "release_commit": "0e0d26b11e556aca58ee8bbdff31011d2b1ddddc",
+      "release_result": "Exact7 frozenstage/fullunpushedrange26c48c5f910b4267ca96b18f6a1d0836d3c0b6022fcf8cabcf7b3bf2d0c72359 identity/privacyEOF/freshfetch-no divergence/mainpush/postpushfreshclean0/0 verified08:26:25Z; docs-only/noPages/no site orfamilyclaim."
     },
     {
       "id": "KAL-RES-104",
