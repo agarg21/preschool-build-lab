@@ -121,8 +121,9 @@ targets, includes all seven articles, rejects inactive/noindex/noncanonical
 targets, checks sitemap membership/one H1 and excludes historical URLs.
 Master native309/309 PASS; all103 public snapshots validate. Complete
 structured/privacy/conservation QA and independent review are recorded in
-[operator review](../ops/operator-review.md); no release approval inferred
-from these local tests.
+[operator review](../ops/operator-review.md). Independent Plato cycle1 PASS
+verified the full nine paths,24 focused tests,108 JSON/103 snapshots and all16
+public targets; no P0-P3 findings. Approval is separate from Master tests.
 
 The sole writer is the isolated managed checkout named in
 [current-cycle](../ops/current-cycle.md), based on origin/main. Original
@@ -156,3 +157,11 @@ Reconsider if a guide is retired/noindex, new maintained guides are released,
 collection quota/errors occur, or the next actual identities fail the
 cohort contract. Do not re-run this audit absent one of those new signals.
 November1 synthesis and November3 22:00Z pilot cutoff remain unchanged.
+
+## Release Receipt
+
+Released `77e578bca14e7042c80ec7ae1faf8da15b107131` after independent PASS.
+All nine exact-SHA GitHub raw files matched and release checkout/origin were
+clean0/0 at17:14:57Z. Full stage/range/privacy and reviewer evidence is in
+[operator review](../ops/operator-review.md). Configuration-side delivery only;
+collection for the six additions remains unverified. No Pages/site delivery.

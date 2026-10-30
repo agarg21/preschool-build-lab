@@ -9,7 +9,7 @@
       "id": "KAL-MON-002",
       "title": "Close read-only inspection coverage gap for the seven released activity guides",
       "kind": "bounded-monitoring-coverage",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-30",
       "base_commit": "bf360664b847b4d27c74a929d3294d9b630ac6b0",
       "exact_paths": [
@@ -37,9 +37,11 @@
       "invariants": "Master sole writer in isolated managed checkout based on origin/main. RES115 remains suspended BLOCKED in original checkout with all three reviews exhausted; not reviewed/released/reset/copied into this action. Preserve original eight dirty paths. No site edits, indexing requests, API credentials disclosure, live credential collection, paid spend, external-account/tracking/scheduler/workflow changes or family/SEO outcome claims.",
       "observation_window": "Normal one-transaction heartbeat October30 actual start16:56:24Z. Next successful scheduled GSC collection must independently establish 16 inspections; a config push is not collection success. November1 synthesis and November3 22:00Z cutoff unchanged.",
       "reconsider_if": "Any inactive/noncanonical target, removed legacy URL, native regression, unsupported collection or corpus-health claim, scope drift or divergence blocks release. Collection failure => inspect named error; never substitute historical 10/10 or assume indexing.",
-      "phase": "local_qa_pass_independent_review_pending",
+      "phase": "released_monitor_config_collection_unverified",
+      "release": "Released 77e578bca14e7042c80ec7ae1faf8da15b107131; exact9 remote bytes and clean release-checkout/origin0/0 verified17:14:57Z. Master309/independentPlato24 PASS; config16 not16collected/indexed. Full evidence ops/operator-review.md. No site/Pages/indexing request/scheduler/outcome change.",
+      "independent_review": "Plato the2nd 01a18dc9-de2f-7d90-8345-8ed100a68c2c; cycle1 PASS/noP0-P3. Independent24 tests/108JSON/103snapshots/all16 public targets,717file/raw-index conservation. RES115 not re-reviewed or approved.",
       "qa_result": "MON002 local gate:309/309 native,103 valid snapshots,108 JSON parsed,221 prior roadmap objects and708 out-of-scope files including101 site files conserved. Exactly nine paths; original eight dirty paths preserved except the intentional current-cycle routing prefix, whose prior body hashes identically. Operator restoration copy byte-identical to original. Public16 preflight/seven guide HTMLParser bytes/canonical/H1/noindex PASS. Initial scope helper hit default Git-output buffer limit; rerun with64MiB succeeded. Initial EOF blank and operator key-order mismatch were corrected before freeze. No material execution blocker; full-nine different read-only review/exact push remain.",
-      "next_action": "Freeze full nine paths; obtain a fresh different independent read-only review, then fresh-fetch and release only exact reviewed config/docs/test paths. Next collection must separately prove all sixteen identities."
+      "next_action": "Next actual GSC snapshot: validate sixteen unique expected identities, separate indexed/negative/UNKNOWN, compare the original ten like for like. Without a new snapshot, do not repeat MON002; select independently eligible build/research under normal priorities. RES115 remains suspended and needs explicit recovery-review authority; no fourth review."
     },
     {
       "id": "KAL-RES-114",

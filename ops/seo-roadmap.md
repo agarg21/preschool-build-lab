@@ -1,5 +1,11 @@
 # Kid Activity Lab Operator Roadmap
 
+## MON002 Released - October30
+
+COMPLETED KAL-MON-002: six missing released guides added to read-only inspection, all ten old targets retained. Released 77e578bca14e7042c80ec7ae1faf8da15b107131, independent Plato cycle1 PASS/no findings, Master309/309. Exact nine remote files and release-checkout/origin clean0/0 verified17:14:57Z. Config16 is not16 collected/indexed; six new index states remain UNKNOWN. No site/Pages/indexing request or scheduler change. [Full release evidence](operator-review.md).
+
+Next actual GSC snapshot: validate sixteen unique expected identities, separate indexed/negative/UNKNOWN, compare the original ten like for like. Without a new snapshot, do not repeat MON002; select independently eligible build/research under normal priorities. RES115 remains suspended and needs explicit recovery-review authority; no fourth review. Use the isolated release checkout named in current-cycle; original RES115 draft is not part of this release.
+
 MON002 local gate passes; different full-nine review and exact release pending. [Coverage audit](../seo/gsc-guide-coverage-audit-2026-10-30.md) configures16, not16 collected/indexed. No site or scheduler change; RES115 remains blocked in original checkout.
 
 KAL-MON-002 registered October30 normal heartbeat: audit and close the six-guide read-only inspection coverage gap in an isolated checkout; preserve existing ten targets and RES115 blocked original draft. See [current checkpoint](current-cycle.md). Exact scope and release gates are in JSON; no site, scheduler or indexing request.
