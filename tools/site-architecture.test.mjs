@@ -215,11 +215,42 @@ test("generated cards expose a restrained set of existing hub routes", () => {
 test("read-only priority inspection covers current release and visible hubs", () => {
   const monitor = JSON.parse(read(path.join(ROOT, "ops", "gsc-monitor.json")));
   const required = [
+    `${BASE_URL}/`,
+    `${BASE_URL}/articles/cardboard-box-car-ramp-preschoolers.html`,
+    `${BASE_URL}/collections/no-cut-preschool-activities.html`,
+    `${BASE_URL}/ages/activities-for-4-year-olds-at-home.html`,
+    `${BASE_URL}/collections/original-stem-activities-for-4-year-olds.html`,
+    `${BASE_URL}/ages/stem-activities-for-4-year-olds.html`,
+    `${BASE_URL}/collections/stem-activities-for-preschoolers.html`,
     `${BASE_URL}/collections/card-games-for-kids.html`,
     `${BASE_URL}/collections/engineering-activities-for-4-year-olds.html`,
     `${BASE_URL}/collections/math-activities-for-4-year-olds-at-home.html`,
   ];
 
-  assert.equal(monitor.urls.length, 10);
-  for (const url of required) assert.ok(monitor.urls.includes(url));
+  assert.equal(monitor.urls.length, 16);
+  assert.deepEqual(monitor.urls.slice(0, required.length), required);
+});
+
+test("priority inspection includes every released article without inactive or duplicate targets", () => {
+  const monitor = JSON.parse(read(path.join(ROOT, "ops", "gsc-monitor.json")));
+  const sitemap = new Set(sitemapUrls());
+  const guides = walk(path.join(SITE, "articles"))
+    .filter((file) => file.endsWith(".html"))
+    .map((file) => canonicalFromHtml(read(file)));
+
+  assert.equal(guides.length, 7);
+  assert.equal(new Set(monitor.urls).size, monitor.urls.length);
+  for (const url of guides) assert.ok(monitor.urls.includes(url), url);
+  for (const url of monitor.urls) {
+    assert.ok(sitemap.has(url), url);
+    const pathname = new URL(url).pathname;
+    const file = path.join(SITE, pathname === "/" ? "index.html" : pathname);
+    const html = read(file);
+    assert.equal(canonicalFromHtml(html), url);
+    assert.doesNotMatch(html, /name="robots"[^>]*content="[^"]*noindex/i);
+    assert.equal((html.match(/<h1(?:\s|>)/g) ?? []).length, 1);
+  }
+  for (const url of monitor.historical_public_urls) {
+    assert.ok(!monitor.urls.includes(url), url);
+  }
 });

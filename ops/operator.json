@@ -9,7 +9,9 @@
   "autopilot_prompt": "ops/autopilot-prompt.md",
   "active_sprint": {
     "id": "KAL-OPS-008",
-    "status": "active",
+    "status": "restored",
+    "restored_at": "2026-10-30T12:01:25Z",
+    "restoration_receipt": "Verified saved automation.toml matches exact normal baseline prompt (SHA256 968b50fa2a39cad901accf14c71749d4d4a974f572e23a79da70ae22fa65caa7) and twice-daily cadence. Same ID, version, heartbeat kind, exact name, ACTIVE status, permanent target thread, created_at and absent notification setting preserved; only prompt, rrule and updated_at changed. Restored through automation_update after sprint expiry; no project work or release performed.",
     "activation_verified_at": "2026-10-27T12:13:05.025Z",
     "activation_receipt": "Saved app config matches reviewed prompt/hourly cadence; version, ID, kind, name, status, thread, created_at and absent notification setting preserved.",
     "starts_at": "2026-10-27T11:58:33Z",
