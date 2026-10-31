@@ -1,5 +1,9 @@
 # Kid Activity Lab Operator Roadmap
 
+RES116 [decision packet](../seo/preschool-fold-print-painting-qualification-2026-10-31.md) authored: DEFERnewguide/card/PRESERVEowners; generic uncut-first/adult-fold simplifications already exist. Demand/missing utility/full single-set lineage remain gates. Native/full7 different review/docs release pending; no site or family result.
+
+RES116 registered October31 normal heartbeat: qualify fold/press/open paint printing, not a presumed guide or repeat of drawing/collage. [Current checkpoint](current-cycle.md) and exact7 JSON contract govern. No new GSC/eligible release; MON002 awaits actual16-target collection, RES115 remains suspended in original checkout.
+
 ## MON002 Released - October30
 
 COMPLETED KAL-MON-002: six missing released guides added to read-only inspection, all ten old targets retained. Released 77e578bca14e7042c80ec7ae1faf8da15b107131, independent Plato cycle1 PASS/no findings, Master309/309. Exact nine remote files and release-checkout/origin clean0/0 verified17:14:57Z. Config16 is not16 collected/indexed; six new index states remain UNKNOWN. No site/Pages/indexing request or scheduler change. [Full release evidence](operator-review.md).

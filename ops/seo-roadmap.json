@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-116",
+      "title": "Qualify preschool fold-and-press paint printing",
+      "kind": "bounded-create-candidate-qualification",
+      "status": "in_progress",
+      "registered_on": "2026-10-31",
+      "base_commit": "ef2a100ff662ce84cd87ccac3696382e841537ed",
+      "exact_paths": [
+        "seo/preschool-fold-print-painting-qualification-2026-10-31.md",
+        "backlog/product-learning-ledger.md",
+        "backlog/persona-review-log.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "October31 normal heartbeat08:55:22.080Z, actual08:55:28Z/04:55:28EDT. Clean isolated release checkout aligned with freshly fetched origin ef2a100; no new snapshot beyond Oct30/103validated. MON002 released, new16-URL collection still unverified. Weekly synthesis dueNov1, contributor complete, RES115 suspended/exhausted reviews in original checkout. Targeted inventory found no prior fold-print/blotto qualification; absence is not demand.",
+      "parent_problem": "Determine whether a caregiver of a child3-6 can choose and run a simple fold/press/open paint-transfer task, judging child/adult roles, preparation, paint/paper fit and rescue without needing a realistic drawing or finished template.",
+      "hypothesis": "Fold-and-press paint transfer may be distinct from observational drawing, collage and water-cup color mixing, but broad process-art interest, generic symmetry claims and owner absence alone do not qualify a page. Current query bodies must support exact parent job/material demand and missing utility, with one maintained material/mechanism lineage.",
+      "acceptance": "Inspect one current live query family and representative opened primary bodies; seek free exact/near-exact demand evidence and current caregiver questions where available without inflating anecdotes/ranking order. Freeze one fold/paint/press/open mechanism and trace materials, geometry, adult role, first start, stop/rescue/cleanup; inspect source visuals when mechanism needs them. Compare actual KAL owners/closed drawing/collage decisions. Define traced personas/required task/secondary constraint, review every research section/all13 rubric with N-A denominator and critical gate. Return build/upgrade/preserve/defer/reject with precise missing gates; no site expansion inside this action.",
+      "qa_plan": "Exact7 research/operator-only. diffcheck/jq/full309 native; parse changedJSON/CSV, validate103GSC, privacy/localrefs/prior222roadmap objects/alloutside101site conservation. Different independent read-only full7 reviewer, max3cyclesfixP0-P2/PASSonly; real file/index/HEAD-stage conservation, not retroactive RES115 waiver. Freshfetch/no divergence/frozenexactstage/fullunpushedrange/docs-onlymainpush/alignment. No Pages unless scope separately changes (not authorized here).",
+      "invariants": "Mastersolewriter in attached isolated release checkout; preserve original blockedRES115 draft/reviews and restored operator state. No site/generator/tool/data/workflow/scheduler changes, paid spend, product/paint brand recommendations, invented demand/weakSERP/firsthand/engagement/timing/safety or education outcomes. No indexing/accounts/outreach/tracking. Generic symmetry/low-mess/no-template adaptations are not automatically novelty.",
+      "observation_window": "Normal one transaction heartbeat, immutable actual2026-10-31T08:55:28Z. No sprint allowance/extension. Nov1 weekly and Nov3 22:00Z cutoff unchanged; existing page observation windows unaffected.",
+      "reconsider_if": "No exact material demand or missing utility => defer/reject new URL, preserve owners. Material/role/stop conflicts or source access limits remain explicit, not evidence of opportunity. Any verified owner defect needs separate registered implementation. Stop on divergence or failed review beyond3cycles.",
+      "phase": "independent_cycle1_pass_p3_label_corrected_verify_pending",
+      "independent_review": "Tesla the2nd 01a19134-3404-7a01-b03f-101f99b0e178, independent full7 cycle1 PASS_WITH_P3/noP0-P2. Own309/103GSC/108JSON19CSV/1005refs, four primary bodies/two viewed source bitmaps/two reused questions/two live-owner byte matches verified; all718 frozen file hashes/raw76974-byte index/HEAD-status-emptystage conserved. Sole P3:2212 total includes2190data+19headers+3empty; Master changed only this QA label to parsedrows in three current notes, no CSV/source/decision change. Cycle2 correction verification required before exact release; research approval is NOT activity publication approval.",
+      "qa_result": "Master309/309/diffcheck/jq pass;108JSON/19CSV2212parsedrows(2190data+19headers+3empty)/103GSC valid,1005localrefs,222prior roadmap objects and711outside files including101site conserved. Exact7, empty stage, no site/source/data/tool/workflow/config or scheduler change. Freeze fresh different full7 read-only review next.",
+      "decision": "Four opened primary bodies/two viewed publisher bitmaps/two explicitly reused questions support DEFERnewguide-card/PRESERVEowners, not new demand or implementation readiness. All13source-readiness10/24 with mobileN-A/criticalFAIL; no beforepage/UI/physical/family result. Exact demand/missing utility/full material-role-stop lineage remain gates.",
+      "next_action": "Run native309/structured/privacy/prior222-outside conservation, freeze exact7 for a fresh different independent read-only review, then exact docs-only release and alignment. No build qualified."
+    },
+    {
       "id": "KAL-MON-002",
       "title": "Close read-only inspection coverage gap for the seven released activity guides",
       "kind": "bounded-monitoring-coverage",
