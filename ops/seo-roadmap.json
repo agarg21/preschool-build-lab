@@ -9,7 +9,7 @@
       "id": "KAL-RES-116",
       "title": "Qualify preschool fold-and-press paint printing",
       "kind": "bounded-create-candidate-qualification",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-31",
       "base_commit": "ef2a100ff662ce84cd87ccac3696382e841537ed",
       "exact_paths": [
@@ -36,11 +36,12 @@
       "invariants": "Mastersolewriter in attached isolated release checkout; preserve original blockedRES115 draft/reviews and restored operator state. No site/generator/tool/data/workflow/scheduler changes, paid spend, product/paint brand recommendations, invented demand/weakSERP/firsthand/engagement/timing/safety or education outcomes. No indexing/accounts/outreach/tracking. Generic symmetry/low-mess/no-template adaptations are not automatically novelty.",
       "observation_window": "Normal one transaction heartbeat, immutable actual2026-10-31T08:55:28Z. No sprint allowance/extension. Nov1 weekly and Nov3 22:00Z cutoff unchanged; existing page observation windows unaffected.",
       "reconsider_if": "No exact material demand or missing utility => defer/reject new URL, preserve owners. Material/role/stop conflicts or source access limits remain explicit, not evidence of opportunity. Any verified owner defect needs separate registered implementation. Stop on divergence or failed review beyond3cycles.",
-      "phase": "independent_cycle1_pass_p3_label_corrected_verify_pending",
-      "independent_review": "Tesla the2nd 01a19134-3404-7a01-b03f-101f99b0e178, independent full7 cycle1 PASS_WITH_P3/noP0-P2. Own309/103GSC/108JSON19CSV/1005refs, four primary bodies/two viewed source bitmaps/two reused questions/two live-owner byte matches verified; all718 frozen file hashes/raw76974-byte index/HEAD-status-emptystage conserved. Sole P3:2212 total includes2190data+19headers+3empty; Master changed only this QA label to parsedrows in three current notes, no CSV/source/decision change. Cycle2 correction verification required before exact release; research approval is NOT activity publication approval.",
+      "phase": "released_research_only",
+      "release": "Research 3010ed5f5c1bfdfc482e873672f42487edd8e536; exact7 remote bytes and clean release-checkout/origin0/0 verified09:10:45Z. Native309/Tesla cycle2 PASS, P3CSVlabel corrected. DEFERnewguide-card/PRESERVEowners; no site/Pages/physical-family-SEO outcome. Full evidence ops/operator-review.md.",
+      "independent_review": "Tesla the2nd 01a19134-3404-7a01-b03f-101f99b0e178; full7 cycle2 PASS/no remainingP0-P3 after sole CSV-label correction. Independent309native/103GSC/108JSON19CSV/1005refs/four primary bodies/two viewed source bitmaps/two reused questions/two live owner bytes; all718file/rawindex/HEAD-stage preserved. Research approval only, not activity publication readiness.",
       "qa_result": "Master309/309/diffcheck/jq pass;108JSON/19CSV2212parsedrows(2190data+19headers+3empty)/103GSC valid,1005localrefs,222prior roadmap objects and711outside files including101site conserved. Exact7, empty stage, no site/source/data/tool/workflow/config or scheduler change. Freeze fresh different full7 read-only review next.",
       "decision": "Four opened primary bodies/two viewed publisher bitmaps/two explicitly reused questions support DEFERnewguide-card/PRESERVEowners, not new demand or implementation readiness. All13source-readiness10/24 with mobileN-A/criticalFAIL; no beforepage/UI/physical/family result. Exact demand/missing utility/full material-role-stop lineage remain gates.",
-      "next_action": "Run native309/structured/privacy/prior222-outside conservation, freeze exact7 for a fresh different independent read-only review, then exact docs-only release and alignment. No build qualified."
+      "next_action": "Next actual GSC snapshot: verify all16 configured identities and report indexed/negative/UNKNOWN separately. Without a new snapshot, continue independently eligible work rather than repeat MON002/RES116; fold-print reopens only on named demand-plus-missing-output evidence. November1 weekly synthesis remains due; RES115 stays suspended/exhaustedthreecycles and is not approved."
     },
     {
       "id": "KAL-MON-002",

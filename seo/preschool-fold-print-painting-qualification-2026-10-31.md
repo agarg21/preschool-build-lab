@@ -4,6 +4,12 @@ Action KAL-RES-116. Accessed2026-10-31. Base
 `ef2a100ff662ce84cd87ccac3696382e841537ed`. Research-only; no KAL page,
 recipe, diagram, family test or physical trial was created.
 
+Research released `3010ed5f5c1bfdfc482e873672f42487edd8e536` after independent
+Tesla cycle2 PASS (sole CSV-total labelP3 corrected), Master/independent309.
+Seven exact-SHA remote files and clean release-checkout/origin0/0 verified
+09:10:45Z. [Full evidence](../ops/operator-review.md). No site/Pages delivery;
+the DEFER decision and critical publication failure below remain unchanged.
+
 ## Decision
 
 **DEFER a new guide/card; PRESERVE existing owners. REJECT generic uncut
