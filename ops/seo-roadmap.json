@@ -6,6 +6,42 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IDX-002",
+      "title": "Diagnose Paper Bridge discovery after its first URL-unknown inspection",
+      "kind": "bounded-indexing-discovery-audit",
+      "status": "in_progress",
+      "registered_on": "2026-10-31",
+      "base_commit": "a2b4446d79b6f989fbde240b7ae9b4a512048492",
+      "exact_paths": [
+        "reviews/paper-bridge-discovery-audit-2026-10-31.md",
+        "status/priority-pages.md",
+        "backlog/product-learning-ledger.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "New October31 readonly snapshot collected15:54:31.799Z/finalOct29 has16expected identities: originalten indexed, TapeRoadindexed, five addedguides NEUTRAL/URLunknownGoogle/no crawl. Incominga2b4446 only two snapshot files inspected, clean ff-only accepted;104snapshots validate. This is first measured cohort baseline, not loss. Normal heartbeat17:01:53.968Z/actual17:02:02Z/13:02:02EDT.",
+      "parent_problem": "A maintained Paper Bridge guide has no indexed-version discovery evidence in the first expanded cohort. Diagnose whether a concrete public crawl/discovery defect prevents access before changing a parent-useful page or attributing low search visibility to content.",
+      "hypothesis": "A mismatch in live robots/status/canonical/indexability/sitemap or crawlable internal handoffs could support a narrow repair; if these agree, URLunknown with null crawl alone does not justify a rewrite or indexing request. One-guide evidence must not be generalized to all five.",
+      "acceptance": "Validate exact16/no duplicates/cohort arithmetic and originalten comparison/finalization. Audit one target PaperBridge: public HTTP/redirect/header robots/meta/selfcanonical/H1/strict sitemap; enumerate static content-anchor inbound links and shortest paths from the ten inspected indexed seeds, excluding canonical/schema/script/self links. Verify selected actual live inbound anchor/fragments and byte parity, distinguish technical access from Google discovery/indexing. Reconcile current primary Google docs and dated release/crawl evidence. Return repair-qualified or preserve/defer with exact unknown cause/next named gate, not mere snapshot recap. Update priority status/current learning. No site change inside this diagnostic transaction.",
+      "qa_plan": "Exact7 docs/research/status only. Native309/diffcheck/jq/changedJSONCSVparse/104GSC/privacy/localrefs/prior223roadmap objects/alloutside101site conservation; independent different full7 readonly reviewer max3PASSonly/actual file-index-HEAD-stage preservation. Freshfetch/no divergence/frozenexactstage/fullunpushedrange/docs-onlymainpush/alignment. Document network/public graph scripts/results; no Pages wait since no site/workflow changes.",
+      "invariants": "Mastersolewriter in attached release checkout; originalRES115 draft untouched/suspended/exhausted cycles, no fourth review. No indexing request, authenticated extra inspection, account/scheduler/workflow/source/site/data/tool/tracking changes/spend/products/outcome claims. Do not infer deindexing, unknown-crawl cause, quality penalty, Googlebot access or actual parent task success from public proxy checks. Published16configured is now actual16collected, not16indexed.",
+      "observation_window": "Actual run2026-10-31T17:02:02Z, normal one transaction. First six-guide inspection baselineOct31, original10comparison like-for-like. No arbitrary universal waiting interval; reopen on named public defect/new crawl-status evidence. Nov1 synthesis/Nov3 22:00Zcutoff unchanged.",
+      "reconsider_if": "Verified public P0-P2 defect => separate registered repair after this audit review/release; do not silently expand. If no defect, preserve PaperBridge and record Google discovery reasonUNKNOWN with a falsifiable next measurement. Stop divergence or failed reviewer beyond3cycles.",
+      "phase": "cycle1_pass_with_p3_corrected_cycle2_pending",
+      "independent_review": "Kierkegaard the2nd 01a192f5-410e-7613-bd90-2b0a1d20f3da full7 cycle1PASS_WITH_P3/noP0-P2. Own309/104GSC/structured866refs/public73HTMLgraph13nodes/primarydocs/history and721files-metadata/rawindex conserved. SoleP3 incorrect profile noindex label fixed to no observed exclusion/indexstatusUNKNOWN; cycle2verification required.",
+      "qa_result": "Master309/309native/104GSC/109JSON/19CSV2212parsedrows(2190data19headers3empty)/866localrefs/prior223objects/714outside101site conserved. Exact7/empty stage; appendedEOFblank corrected before freeze. No site/UI/Googlebot test claimed.",
+      "decision": "PRESERVE existing PaperBridge guide/DEFER speculative repair: tested ordinary public access/selfcanonical/H1/no observednoindex/robots/sitemap/fourinboundanchors/tenseed staticpaths pass; Google discovery causeUNKNOWN. First newcohort11/16 is not deindexing, originaltenunchanged. Full HTMLanchor graph includes navigation/support links, clarifying registration content-anchor shorthand; no parent/UI/Googlebot result.",
+      "next_action": "Native309/structured/privacy/conservationQA, fresh different full7 readonly review, docs-only exact release/alignment. Then compare next actual targetcrawl/coverage against firstbaseline; unchangedURLunknown alone does not qualify rewrite/repeatedaudit. Nov1synthesisdue; RES115suspendedseparately."
+    },
+    {
       "id": "KAL-RES-116",
       "title": "Qualify preschool fold-and-press paint printing",
       "kind": "bounded-create-candidate-qualification",
