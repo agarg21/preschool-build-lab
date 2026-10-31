@@ -9,7 +9,7 @@
       "id": "KAL-IDX-002",
       "title": "Diagnose Paper Bridge discovery after its first URL-unknown inspection",
       "kind": "bounded-indexing-discovery-audit",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-10-31",
       "base_commit": "a2b4446d79b6f989fbde240b7ae9b4a512048492",
       "exact_paths": [
@@ -35,11 +35,12 @@
       "invariants": "Mastersolewriter in attached release checkout; originalRES115 draft untouched/suspended/exhausted cycles, no fourth review. No indexing request, authenticated extra inspection, account/scheduler/workflow/source/site/data/tool/tracking changes/spend/products/outcome claims. Do not infer deindexing, unknown-crawl cause, quality penalty, Googlebot access or actual parent task success from public proxy checks. Published16configured is now actual16collected, not16indexed.",
       "observation_window": "Actual run2026-10-31T17:02:02Z, normal one transaction. First six-guide inspection baselineOct31, original10comparison like-for-like. No arbitrary universal waiting interval; reopen on named public defect/new crawl-status evidence. Nov1 synthesis/Nov3 22:00Zcutoff unchanged.",
       "reconsider_if": "Verified public P0-P2 defect => separate registered repair after this audit review/release; do not silently expand. If no defect, preserve PaperBridge and record Google discovery reasonUNKNOWN with a falsifiable next measurement. Stop divergence or failed reviewer beyond3cycles.",
-      "phase": "cycle1_pass_with_p3_corrected_cycle2_pending",
-      "independent_review": "Kierkegaard the2nd 01a192f5-410e-7613-bd90-2b0a1d20f3da full7 cycle1PASS_WITH_P3/noP0-P2. Own309/104GSC/structured866refs/public73HTMLgraph13nodes/primarydocs/history and721files-metadata/rawindex conserved. SoleP3 incorrect profile noindex label fixed to no observed exclusion/indexstatusUNKNOWN; cycle2verification required.",
+      "phase": "released_diagnosis_only",
+      "release": "3cfe8a09411b941596daff6948ee05aa58897a1d; exact7 remoteSHA bytes matched17:20:47Z, completedpush/subsequentfetch clean0/0. Frozenstage/fullunpushedrange7ba3786e6d0fa7699184e82c833c6656cb0ebbf1995a36cf1aa828cf351a77f5 identity/privacy PASS. Docs-only/no site or Pages. Factualcloseout review next within cycle3, not new research.",
+      "independent_review": "Kierkegaard the2nd 01a192f5-410e-7613-bd90-2b0a1d20f3da full7 cycle2PASS/no remainingP0-P3. Cycle1 independent309/104GSC/structured866refs/public73HTMLgraph13nodes/primarydocs/history;721files-metadata/rawindex conserved bothcycles. SoleP3 profile-noindex label fixed to no observed exclusion/indexstatusUNKNOWN; cycle2 correction/factualverification PASS, no falsefreshnetwork claim.",
       "qa_result": "Master309/309native/104GSC/109JSON/19CSV2212parsedrows(2190data19headers3empty)/866localrefs/prior223objects/714outside101site conserved. Exact7/empty stage; appendedEOFblank corrected before freeze. No site/UI/Googlebot test claimed.",
       "decision": "PRESERVE existing PaperBridge guide/DEFER speculative repair: tested ordinary public access/selfcanonical/H1/no observednoindex/robots/sitemap/fourinboundanchors/tenseed staticpaths pass; Google discovery causeUNKNOWN. First newcohort11/16 is not deindexing, originaltenunchanged. Full HTMLanchor graph includes navigation/support links, clarifying registration content-anchor shorthand; no parent/UI/Googlebot result.",
-      "next_action": "Native309/structured/privacy/conservationQA, fresh different full7 readonly review, docs-only exact release/alignment. Then compare next actual targetcrawl/coverage against firstbaseline; unchangedURLunknown alone does not qualify rewrite/repeatedaudit. Nov1synthesisdue; RES115suspendedseparately."
+      "next_action": "November1 weekly synthesis due before newbuild/research; incorporate first16cohort/unresolveddiscovery. Compare next actual PaperBridgecrawl/coverage against firstbaseline; unchangedURLunknown alone does not qualify rewrite/repeatedaudit. Verifiednewpublicdefect may qualify separately registered repair. RES115suspendedseparately needs direct recovery-review authority; pilot endsNov3 22:00Z."
     },
     {
       "id": "KAL-RES-116",

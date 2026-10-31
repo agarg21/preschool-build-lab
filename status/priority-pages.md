@@ -4,6 +4,8 @@ Last updated: 2026-10-31 (Paper Bridge monitoring overlay; historical baselines 
 
 ## October 31 Paper Bridge Discovery Baseline
 
+Diagnosis released `3cfe8a09411b941596daff6948ee05aa58897a1d`; full7 independent cycle2PASS/Master-independent309/exact7 remotebytes17:20:47Z and subsequent clean0/0. Docs-only, not a new site deployment or indexing result.
+
 `KAL-IDX-002` [one-guide diagnosis](../reviews/paper-bridge-discovery-audit-2026-10-31.md): **PRESERVE existing guide, DEFER speculative repair**. [Production guide](https://kidactivitylab.com/articles/paper-bridge-challenge-kids.html) first joins inspection on October31: NEUTRAL/not indexed, coverage URL-unknown, null crawl. Expanded16 cohort is11indexed/five negative/no UNKNOWN verdict; oldten unchanged, not deindexing. Ordinary public target/robots/sitemap and four inbound HTML-anchor sources pass; target self-canonical/singleH1/no observed noindex, all live bytes match. Ten indexed seeds have one/two-hop static routes, not proof of Google traversal. Google discovery cause remains UNKNOWN; no retained target performance row is not zero demand. Initial guide0dbb1e9/Pages34695547966 and latest related hub repaird5e8088/Pages40720346574 remain historical production evidence, not new deployment claims. Historical September6 SemrushUS590/KD17 is TOOL_ESTIMATE, not current measured traffic or additive variants. Next actual snapshot: compare exact target crawl/coverage; repair only a demonstrated public defect, not the unknown string alone. No site change, indexing request, parent/child test or SEO outcome. [Current QA/review/release receipt](../ops/operator-review.md).
 
 ## October 17 Afternoon Sound Shaker First Start - Local Build
