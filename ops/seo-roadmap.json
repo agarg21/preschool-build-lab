@@ -6,6 +6,43 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-117",
+      "title": "Audit age-five Paper Bridge mission identity and checked-card handoff",
+      "kind": "bounded-existing-owner-source-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-11-01",
+      "base_commit": "d60ad770c53fd093fccc4f6c1b59c77af40db53a",
+      "exact_paths": [
+        "reviews/age-five-paper-bridge-handoff-audit-2026-11-01.md",
+        "backlog/persona-review-log.md",
+        "backlog/product-learning-ledger.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Normalheartbeat16:59:17.027Z/actual16:59:26Z/11:59:26EST. Weekly008completed4a87b4b/cycle2finalPASS, nextnamedage5locallead. Incomingd60ad77onlyNov1snapshotJSONMD/cleanff;105GSCvalid/finalOct30/405impressions3clicks/inspection16objectsidenticalOct31 (11indexed5NEUTRAL-URLunknown0UNKNOWN). No changedindexingtarget or unfinishedrelease. OriginalRES115suspendedoutsidecheckout/no fourthreview; sprintrestored.",
+      "parent_problem": "Caregiver of a five-year-old with paper/books/toycar is offered a toy-crossing module and Open card, but maintainedcard/guide use stationary loads. Determine from current sources and actual live entry whether the original task is supported or an explicit different-choice/decline is required, with adult/readiness/stop cues before action.",
+      "hypothesis": "Age5currentproduction may repeat the preservedlocalcar recipe/lateparentcheck/unmeasuredtime-mess and imply equivalence with stationarycard. If reproduced, qualify only an existing-owner source-bounded different-task choice/withdrawal repair, never silentcar-to-block substitution or newURL. Preserve if actualowners/sourcealreadyreconciled.",
+      "acceptance": "Freeze incomingtoy-crossing task and required outputs before browser/sourcework; all13 baselinewithreasonsN-A/criticaloverride, four source-traced lenses/everysection. Current primary bridge/material sources, source/mechanism matrix including visuals only actuallyinspected; no family/sourceperformanceclaims. Live targetchooser/module/card/guide metadata+bytes; desktop1280x900,390x844 androot32stress/keyboardtouchBack/noJS/wordfit/off-happychecks, actualcue-step geometry/screenshotinspection. Map current generator/unuseddeclarations/peers; return preserve/improve/defer with implementation-ready exact boundedbrief ifqualified. Researchonlysevenpaths, no build.",
+      "qa_plan": "diffcheck/jq/native309/105GSC/110JSON/19CSVparse/privacy/localrefs; preserve225priorroadmapobjects/alloutside101site. Freshdifferentreadonlyfull7review max3cycles/PASSonly with realfile/indexnsmetadata/HEAD-status-stage conservation. Exactfrozenstage/fullunpushedrange/freshfetch-nodivergence/docs-onlymainpush/remotebytes/alignment. Ownedbrowser/processclose, no source/generator mutation.",
+      "invariants": "Mastersolewriter inattachedreleasecheckout. No site/source/assets/tools/workflow/config/data/scheduler/indexing/spend/product/accounts/trackingchange. No repeatclosedtwohub/IDXgraph/weeklyqualification, no physical/safety/educational/family/searchoutcome. Age6/broadhubs/card/guide peers notautomaticallyqualifiedorwriter scope. OriginalRES115untouchedsuspended/no fourthreview or exception.",
+      "observation_window": "Actualrun2026-11-01T16:59:26Z normaloneaction; morningweeklyalreadycompletedbutafternoonappliesit. LatestNov1snapshotfinalOct30, overlappingperformancewindow notdailygain. PilotendsNov3 22:00Z; nextweeklyNov8 notauthority.",
+      "reconsider_if": "Production/sourcecontradictslead =>PRESERVEorboundedDEFERwithactualevidence, notforcedrepair. Verifiedcriticalgap=>separateexactrepairtransactionnexteligible; no silentexpansionwithinthistask. Stopdivergence/unavailableindependentreviewer/threefailedcycles. Keepbrowser/runtimeaccesslimits explicit.",
+      "phase": "cycle1_pass_with_p3_corrected_cycle2_pending",
+      "independent_review": "Full7 freshagent01a19817-9aab-7e81-8165-a8e7ac2f9610 (spawnHypatia2nd/reportCodex-Lyra) cycle1PASS_WITH_P3/noP0-P2; own309/105GSC/structured1031refs/currentprimary/fivebytes-fourmodes9key1tap10Back-noJS-hash/fourownviewedPNGs/725files-nsmetadata-rawindex conserved. SoleP3 wronghelperidentifier fixedto page_activity(source1884); cycle2verification required.",
+      "qa_result": "Master309/309native/diffcheck/jq/105GSC/110JSON/19CSV2212parsedrows(2190data19headers3empty)/1031localrefs;225priorroadmapobjects/718outsideincluding101site conserved. Exact7/empty stage; no site/source/data/tool/config/scheduler change; ownedbrowserclosed/no helperprocess.",
+      "decision": "IMPROVE age5-only chooser/module via separatelyregistered differentstationarychoice/decline; DEFERrunnablecar/newURL. ObservedTryacar ambiguous, NOTexplicitdrive; incomingcrossing isparenthypothesis. Fourmode latecheck/baseline8-26criticalfailure despite navigationfit. Currentprimarylineagesstationary; exactlarge-object-lowbookeditorial adaptation nottestedprotection.",
+      "next_action": "Native309/structured/privacy/prior225-outside101siteconservation/differentfull7readonlyreview/docsrelease. Then NEXT eligible separatelyregister age5-only implementation-readychoice/decline repair, not repeatedqualification or currentresearchsiteedit. Preservecard-guide/age6/closedtwohub/CSV; actualSHA Pages andproductiontaskrequired for futurebuild. RES115suspended/no fourthreview."
+    },
+    {
       "id": "KAL-WEEKLY-008",
       "title": "Synthesize October 25-31 evidence and falsify the next parent-task priority",
       "kind": "weekly-maintained-evidence-synthesis",
