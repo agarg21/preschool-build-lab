@@ -34,6 +34,10 @@ same-goal adaptation. Use the shortest truthful distinction. Current selection
 is within the November3 pilot cutoff; a nominal November8 weekly date grants
 no extension.
 
+This rule/priority was independently reviewed and released through
+WEEKLY008; the [operator receipt](../ops/operator-review.md) retains its
+evidence and cutoff. It does not claim the next age-five audit has run.
+
 ## October 27 Delivery Direction
 
 The user requested Family Tripwise's contributor transparency and faster
