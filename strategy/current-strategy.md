@@ -1,5 +1,39 @@
 # Kid Activity Lab Current Strategy
 
+## November 1 Parent-Job Disposition Gate
+
+The [October25-31 synthesis](../weekly/2026-11-01-decision-synthesis.md)
+adds a selection/release check before cue-order and result QA. Freeze the
+incoming parent's intended action/result and critical constraints, then label
+the offered output in the action evidence: same-task repair/preservation,
+constraint-preserving same-goal adaptation, different-task choice, or
+withdrawal/decline. A shared activity name or working destination is not task
+agreement. This refines the existing mechanism-lineage and incomparable-score
+rules; it does not replace source qualification or before-action controls.
+
+If the goal changes, distinguish what is not supplied and the optional
+alternative/its prerequisites before handling or handoff, and allow decline.
+A withdrawal must remove runnable steps and conflicting discovery promises.
+Do not count a different-task decision score as improvement of the original
+activity. Same-goal adaptations do not need artificial different-activity
+warnings; extra explanation that hides the start is a counterexample to fix.
+
+Next eligible priority is a separately registered read-only audit of the
+age-five at-home Paper Bridge chooser/module to maintained card/guide: current
+local copy still names a toy-car task, while the destination is a stationary
+test. This is a named unreviewed-owner lead, not a production or safety finding,
+a site-wide repair order, or permission to relabel cars as blocks. Preserve
+already closed two-hub/finder/indexing decisions absent named new evidence.
+Genuinely qualified new guides still proceed to separate reviewed builds;
+unknown GSC/family outcomes do not block independent eligible work.
+
+Falsify/refine this prospective editorial rule if a source-grounded same-task
+route passes it plus cue/result checks but still cannot support the frozen
+choose/start/decline task, or if it forces misleading warnings/clutter for a
+same-goal adaptation. Use the shortest truthful distinction. Current selection
+is within the November3 pilot cutoff; a nominal November8 weekly date grants
+no extension.
+
 ## October 27 Delivery Direction
 
 The user requested Family Tripwise's contributor transparency and faster

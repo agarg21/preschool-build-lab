@@ -1,10 +1,47 @@
 {
   "schema_version": 1,
   "owner": "Kid Activity Lab Operator",
-  "last_rescored_on": "2026-10-25",
-  "next_rescore_due": "2026-11-01",
+  "last_rescored_on": "2026-11-01",
+  "next_rescore_due": "2026-11-08",
   "planning_horizon_days": 28,
   "items": [
+    {
+      "id": "KAL-WEEKLY-008",
+      "title": "Synthesize October 25-31 evidence and falsify the next parent-task priority",
+      "kind": "weekly-maintained-evidence-synthesis",
+      "status": "in_progress",
+      "registered_on": "2026-11-01",
+      "base_commit": "67d2654f323c8cfb6face3bae14086394ddd959c",
+      "exact_paths": [
+        "weekly/2026-11-01-decision-synthesis.md",
+        "strategy/current-strategy.md",
+        "backlog/product-learning-ledger.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "TOOL_ESTIMATE",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "DueNovember1 after Oct25 synthesis. Normalheartbeat2026-11-01T09:00:15.311Z/actual09:00:21Z/04:00:21EST (DST ended); cleanreleasecheckout67d2654/freshfetch no incoming.104GSCvalid/latestOct31 collected15:54:31Z finalOct29. No new snapshot/verifieddefect or eligibleunfinishedrelease; originalRES115 suspended/exhaustedthreecycles outside this checkout. Contributor/IDX002 complete, sprintrestored.",
+      "parent_problem": "Parents need entry labels, first-start instructions and result/rescue decisions to describe the same intended activity; reviewed reports and expanded inspection cohorts must not masquerade as evidence of parent/search success. Audit the week to identify one new falsifiable task rule and executable next priority rather than page-count or report throughput.",
+      "hypothesis": "October25 early-cue/result gate may be insufficient when discovery or a simplification changes the parent's mission. Compare independent reviewed same-task and changed-task examples plus preserved/rejected candidates before refining a rule or retiring an unsupported hypothesis. Preserve source/age/demand/UX/indexing evidence boundaries.",
+      "acceptance": "Audit reviewed Oct25-31 evidence and Oct25 prospective Magnet priority outcome; distinguish shipped/learned/preserved/blocked outcomes and denominators without poolingscores. Reconcile latest/priorGSCcohorts/finalization; unchangednewdata no auditrepeat. Change or retire at least one falsifiable rule in canonical strategy and define its overbroad/insufficient counterexample, exact next executable task and reopening gates. Source-grounded operational/persona constraints/every-section/all13 applicable-or-N-A review, not new physical/parent/browser observations. Newdatedlearningappend; exact7/native/independentreview/docsrelease.",
+      "qa_plan": "diffcheck/jq/full309native/104GSC; parse allchangedJSONCSV and fullstructured/public-safe evidence labels/localrefs; conserve all224priorroadmapobjects except explicit top-levelweeklydue metadata rescore and alloutside101sitefiles. Independentdifferentreadonlyfull7review max3cycles/PASSonly; actualfiles-metadata/rawindex/HEAD-status-stage conservation. Freshfetch/nodivergence/exactfrozenstage/fullunpushedrange/privacy/docs-onlyHEAD:mainpush/alignment.",
+      "invariants": "OneMasterwriter in existing attached releasecheckout. No site/source/tool/workflow/config/data/scheduler/indexing/spend/product/account/outreach/tracking change. OriginalRES115 remains preserved/suspended/no fourthreview, no recoveryexception. Do not count oldquestionreopens as new demand, source-readinessscores as usertests, unknownindexcause as contentfailure, or changedtaskproxy as numericalgain. No fabricatedfamily/safety/education/SEOoutcome.",
+      "observation_window": "Review Oct25-31, actualrun2026-11-01T09:00:21Z normal one transaction. Newweeklydue cannot extend Nov3 22:00Z pilot; prospective nextweeklyNov8 is outside authority and not authorization to act then. Reevaluate rule only named counterexample/source/task/queryorpublicregression evidence.",
+      "reconsider_if": "If no new rule supported, retire a specific unsupported hypothesis and specify evidence that would revive it, not generic recap. Any verified site defect/build needs separatelyregisteredtransaction, no silentexpansion. Stop on divergence/reviewerunavailable/threefailedcycles.",
+      "phase": "local_qa_pass_review_pending",
+      "qa_result": "Master309/309native/diffcheck/jq/104GSC/109JSON/19CSV2212parsedrows(2190data19headers3empty)/852localrefs,224priorroadmapobjects/715outsideincluding101site conserved. Exact7/empty stage; onlylastrescoreNov1/nominalnextNov8metadata changed outside newitem, cutoffunchanged.",
+      "decision": "Add explicit parent-job/disposition gate before handoff/cueQA in strategy: repair-preserve/samegoaladaptation/differentchoice/withdrawal, retaining lineage/noincomparablescore policy. Magnet priorpriorityexecuted aswithdrawal; Bridgechangedchoice vs TapeRoadsame-task and finderpreservecontrol. No causalguidegrowth or all16indexed claim.",
+      "next_action": "Native309/structuredprivacy/prior224-outside101site QA/differentfull7review/docsrelease first. Then separately register read-only age-five at-home PaperBridge chooser/module -> maintained stationarycard-guide task-identity audit. Current local toycar/latecheck/time-mess label lead is not fresh production/safetyproof; age6peers preserved. NextweeklyNov8 cannot extend Nov3 22:00Z pilot. RES115suspended/no fourthreview."
+    },
     {
       "id": "KAL-IDX-002",
       "title": "Diagnose Paper Bridge discovery after its first URL-unknown inspection",
