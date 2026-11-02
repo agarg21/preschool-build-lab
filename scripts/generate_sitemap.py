@@ -34,7 +34,7 @@ CONTENT_LASTMODS = {
     "ages/activities-for-4-year-olds-at-home.html": "2026-10-28",
     "ages/activities-for-6-year-olds-at-home.html": "2026-10-28",
     "cards/blanket-river.html": "2026-10-27",
-    "ages/activities-for-5-year-olds-at-home.html": "2026-10-28",
+    "ages/activities-for-5-year-olds-at-home.html": "2026-11-02",
     "collections/building-activities-for-4-year-olds.html": "2026-10-28",
     "cards/paper-roll-play.html": "2026-10-27",
     "collections/no-cut-preschool-activities.html": "2026-10-28",

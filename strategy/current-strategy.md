@@ -18,12 +18,14 @@ Do not count a different-task decision score as improvement of the original
 activity. Same-goal adaptations do not need artificial different-activity
 warnings; extra explanation that hides the start is a counterexample to fix.
 
-Next eligible priority is a separately registered read-only audit of the
-age-five at-home Paper Bridge chooser/module to maintained card/guide: current
-local copy still names a toy-car task, while the destination is a stationary
-test. This is a named unreviewed-owner lead, not a production or safety finding,
-a site-wide repair order, or permission to relabel cars as blocks. Preserve
-already closed two-hub/finder/indexing decisions absent named new evidence.
+The [November1 age-five audit](../reviews/age-five-paper-bridge-handoff-audit-2026-11-01.md)
+completed that named priority and qualified a separate age-five-only
+different-choice/decline repair, now registered as IMP081. Exact "Try a car"
+is ambiguous, not an explicit driving instruction. The optional stationary
+test must not be presented as the same task. Its
+[implementation receipt](../reviews/age-five-paper-bridge-handoff-repair-2026-11-02.md)
+tracks review and actual production verification; registration is not delivery.
+Preserve already closed two-hub/finder/indexing decisions absent named new evidence.
 Genuinely qualified new guides still proceed to separate reviewed builds;
 unknown GSC/family outcomes do not block independent eligible work.
 
@@ -36,7 +38,7 @@ no extension.
 
 This rule/priority was independently reviewed and released through
 WEEKLY008; the [operator receipt](../ops/operator-review.md) retains its
-evidence and cutoff. It does not claim the next age-five audit has run.
+evidence and cutoff. RES117 supplies the later age-five audit, not family testing.
 
 ## October 27 Delivery Direction
 

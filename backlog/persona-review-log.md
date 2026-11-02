@@ -1,5 +1,18 @@
 # Persona Review Log
 
+## 2026-11-02 - IMP081 Different Age-Five Bridge Choice
+
+[Repair packet](../reviews/age-five-paper-bridge-handoff-repair-2026-11-02.md):
+five-year-old caregiver with paper/books/car, younger reach/divided attention
+stress; explicitly withdraw unspecified car start and choose DIFFERENT
+stationary card or decline. Four retained source-traced lenses/every-section
+review, new decision22/24 across12applicable/educationN-A, NOT gain from old8/26.
+Controls/stop before route; one card-top owner/full guide; no runnable local
+steps or measured duration/mess. Local four modes/9key1emulatedtap10Back/noJS/
+unmatchedhash, bounded-table material-cell scroll, five viewed captures pass.
+Proxy only, no parent/physical/learning/safety/SEO outcome. Full16 independent
+review/exactSHA Pages/live same-task gates pending; RES115 untouched.
+
 ## 2026-11-01 - RES117 Age-Five Paper Bridge
 
 Released research a9f2d5282063fe7a72f3e0766f62f7cd8acb45e3, full7 independentcycle2PASS/helperP3closed/Master-independent309. Exact7 remotebytes17:17:10Z/clean0-0. Newage5-only different-choice repairqualified but UNIMPLEMENTED;8/26baseline/criticalfailure remainslive, no aftergain. [Fullrelease receipt](../ops/operator-review.md).

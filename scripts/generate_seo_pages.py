@@ -1017,6 +1017,19 @@ PAGES = [
         "intro": "Five year olds are ready for simple challenges: test, compare, rebuild, and explain what changed. These activities stay low-prep but add just enough problem solving to feel bigger.",
         "tip": "Ask one question: What changed when you moved it, folded it, stacked it, or tried again?",
         "activities": ["car-ramp-distance-test", "paper-plate-ramp", "paper-bridge", "tube-sculpture", "lego-color-tower", "tape-city", "magnetic-tile-ideas", "blanket-river"],
+        "activity_overrides": {
+            "paper-bridge": {
+                "age_five_bridge_choice": True,
+                "title": "Paper Bridge: different stationary choice or decline",
+                "time": "Not measured",
+                "mess": "Not measured",
+                "help": "Adult sets up and stays",
+                "materials": "Different stationary test, not a car start: one paper sheet, two low closed books, one checked large lightweight block or soft toy. Adult stays; read all checks below before handling, or skip.",
+                "best_for": "Choosing a different stationary-object test, or declining",
+                "steps": [],
+                "parent": "Read the material, readiness and stop checks before handling or opening the card.",
+            },
+        },
         "related": ["games for 5 year olds at home", "educational activities for 5 year olds at home", "fun activities for 5 year olds at home"],
     },
     {
@@ -1918,7 +1931,20 @@ def tape_road_handoff_content():
           <p><a class="small-link" href="../cards/tape-road.html">Optional compact Tape Road card</a></p>'''
 
 
+def age_five_bridge_choice_card():
+    return '''        <article class="seo-activity">
+          <h2>Paper Bridge</h2>
+          <p><strong>Car start not provided.</strong> The earlier "Try a car" version did not specify a procedure. Choose a DIFFERENT stationary-object test, or decline; it does not supply a car-crossing activity.</p>
+          <p><strong>Before handling or opening the card:</strong> an adult must set and control two low closed books and stay beside the setup. Use one paper sheet and one intact large lightweight block or soft toy suitable for EVERY reachable child, not a car, coins or marbles. Try only with gentle placement and a stop cue. Skip for mouthing, uncontrolled younger-child reach, or uncertain adult attention.</p>
+          <p><strong>Stop:</strong> if books slide, the object is thrown, paper is mouthed or torn, the setup becomes climbing play, or the child wants to leave. Remove loose paper pieces. The adult can place the object while the child points or watches, or end.</p>
+          <p><a href="../cards/paper-bridge.html">Read the different stationary Paper Bridge card from the start</a>. Read its checks before starting. Its full-guide link adds the optional fold, rescue and cleanup.</p>
+          <p>Research-backed choice, not family-tested by Kid Activity Lab. Time and mess are not measured; physical performance, learning and safety outcomes are unknown. <a href="https://www.sciencebuddies.org/stem-activities/build-best-bridge">Science Buddies</a> and <a href="https://science.anu.edu.au/engagement/science-lab-experiments-home-school/paper-bridge-challenge-science-strong-shapes">ANU</a> describe stationary loads and paper shapes. Our low-book, large-object and adult/skip choices are editorial adaptations, not tested protection.</p>
+        </article>'''
+
+
 def activity_card(activity):
+    if activity.get("age_five_bridge_choice"):
+        return age_five_bridge_choice_card()
     if activity["url"] == "../cards/tape-road.html":
         return f'''        <article class="seo-activity">
           <h2>{esc(activity["title"])}</h2>

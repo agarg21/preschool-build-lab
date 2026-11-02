@@ -1,5 +1,9 @@
 # Operator Review
 
+## IMP081 - Local Implementation, Release Pending
+
+NormalNov2 morning actual08:57:34Z; exact13 registered before edits, three old-age5-date fixtures added BEFORE editing, now16. [Repair packet](../reviews/age-five-paper-bridge-handoff-repair-2026-11-02.md) applies approved RES117: ambiguous car start withdrawn, DIFFERENT stationary choice/decline and controls before card-top. No globalrow/CSV/card-guide/age6/closedhub change; only targetHTML+sitemap among101sitefiles. Source qualification retainedNov1, no fresh/physical claim. Initial312309pass/3dated-fixturefail now312PASS. Three generators twice/101sitehash idempotence; local fourmodes/9key1emulatedtap10Back/noJS/hash/5viewedcaptures/6HTTP200exactbytes/softwarecriticaloutputs pass. Newdifferent-choice22/24/educationN-A, no comparison old8/26. Full structured/conservation and different full16 read-only review still pending, no release claimed. OriginalRES115untouched/suspended, no fourthreview; cutoffNov3 22:00Z.
+
 ## RES117 - Independent PASS And Released Brief
 
 Research a9f2d5282063fe7a72f3e0766f62f7cd8acb45e3 released, exact7 approved by independent agent01a19817-9aab-7e81-8165-a8e7ac2f9610 (spawnHypatia2nd/reportCodex-Lyra), cycle2PASS/no remainingP0-P3. Solecycle1P3 wronghelperidentifier fixed to page_activity(source1884); no brief/scope/behavior change. Master/independent309/105GSC/110JSON19CSV2212parsedrows(2190data19headers3empty)/1031refs. Currentprimary/fivebyte/fourmode/9key1emulatedtap10Back/noJS/unmatchedhash/fourviewedowncaptures independently reproduced incycle1; cycle2 retained those results, not falsely rerun. All725filehashes/write-relevantnsmetadata/raw77710byte indexSHA c7c6aaed9cbbacbf4e9b3cfc7e9fbf6c27629567ce2843ad7bc5f6c44d33d33d/HEAD-status-empty stage conserved throughbothreviews. Prior225objects/718outside101site conserved.

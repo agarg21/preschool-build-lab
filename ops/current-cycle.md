@@ -1,5 +1,17 @@
 # Current Cycle
 
+## Run Checkpoint - IMP081 Registered
+
+Full local gate PASS:312native/105GSC/110JSON19CSV2212rows/73HTML885links100frags/65URLs;226priorroadmapobjects/711outsidefiles/7peer modules conserved. Exact16/empty stage/diffcheck-jq. Freeze all727files and actual rawindex write-relevant nsmetadata now for freshdifferent full16 reviewer; do not run generators while frozen. No release yet.
+
+Local implementation authored; native312PASS after three scoped age5-only sitemapdate fixture corrections, generators twice/101sitehash-idempotence. Successfullocal09:06:36Z sixHTTP200exactfiles/fourmodes/9key1emulatedtap10Back/noJS/hash/5viewedPNGs, checks and stopbeforecardtop, no localsteps, card-guide agreement. Initial bounded-table falseoverflow test corrected; material cell reachable by programmatic scroll, not physicalswipe. New different-choice22/24/educationN-A, no oldtaskgain. Exact16packet/learning/persona/strategy-pointer authored; next structured/conservation/freshdifferentfull16review, then exactSHA Pages/live same-task/reviewedfactualreceipt. Not delivered, no currentdependencyblocker.
+
+Scope amendment BEFORE fixture edits: native312 initially309pass/3fail solely old age5 lastmod in BlanketRiver/ColorTower/TubeSculpture tests. Registered those3 exact paths, now16; only age5 expected date movesNov2, other dates/behavior checks retained. Generator output scope exactly age5HTML+sitemap; local browser and full QA/review/release pending.
+
+Heartbeat2026-11-02T08:57:22.873Z; actual2026-11-02T08:57:34Z/03:57:34EST, normal one action/completed0. Fresh clock before Nov3 22:00Z cutoff; attached release checkout clean c4ec23ebff370736974811f9f8e1430eef5e49fd/origin aligned,105GSC latestNov1/no newNov2. RES117 approved brief complete, not another qualification. Original RES115 suspended outside this checkout/no fourthreview; sprint restored/no automationchange.
+
+Selected KAL-IMP-081 exact13 in roadmap BEFORE substantive edits. Implement age5-only explicit different stationary choice/decline, withdrawing unspecified car start; no assertion that Try a car explicitly meant driving. Next add PAGES override/renderer and focused test; preserve global row/CSV/7peers/age6/card-guide/99other site files. Completion needs three generators twice/exact2siteoutput, native/structured/links/privacy, new different-choice all13/everysection and four-mode browser task, fresh different full13 review, exactSHA Pages success/livebytes+same task, reviewed factualreceipt and finalalignment. No current external blocker; no sitefix or completed learning yet.
+
 ## Run Checkpoint - RES117 Completed
 
 COMPLETED learned-only RES117: [age-five audit/implementation brief](../reviews/age-five-paper-bridge-handoff-audit-2026-11-01.md) released a9f2d5282063fe7a72f3e0766f62f7cd8acb45e3. Full7 independent agent01a19817 (spawnHypatia2nd/reportCodex-Lyra) cycle2PASS/no remainingP0-P3; helperidentifierP3 corrected. Master/independent309;105GSC/110JSON19CSV2212parsedrows/1031refs;225priorobjects/718outside101site and725files/rawindex-nsmetadata conserved. Exactfrozen7stage/fullunpushedrangeSHA256873c73907acc8f044d1a119c620d2f7ebd98864e37c3ac72704a94c5d1ae27a0/privacy/freshfetch-no divergence PASS. Completedpush/freshfetch clean0/0, all7exactSHA remotebytes matched17:17:10.439Z. Docs-only/no Pages or sitechange; actualproductiongap remains UNFIXED. Sameactual16:59:26Z/normaloneaction/completed1. Finalfactualnotes only, cycle3read-onlyPASS required before receiptcommit; actualverdict in its message.

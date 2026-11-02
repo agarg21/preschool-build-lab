@@ -64,5 +64,8 @@ test("Color Tower preserves identity, real routes, finder inventories and affect
   assert.match(entry, /<template data-search="LEGO Color Tower 4 intact large owned DUPLO bricks/);
   assert.equal((read("cards.html").match(/class="mini-card"/g) || []).length, 36);
   assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 65);
-  for (const p of ["cards/lego-color-tower.html", "cards.html", ...hubs]) assert.ok(read("sitemap.xml").includes(p + "</loc>\n    <lastmod>2026-10-28</lastmod>"));
+  for (const p of ["cards/lego-color-tower.html", "cards.html", ...hubs]) {
+    const date = p === "ages/activities-for-5-year-olds-at-home.html" ? "2026-11-02" : "2026-10-28";
+    assert.ok(read("sitemap.xml").includes(p + "</loc>\n    <lastmod>" + date + "</lastmod>"));
+  }
 });
