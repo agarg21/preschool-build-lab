@@ -6,6 +6,41 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-118",
+      "title": "Audit age-six Paper Bridge car ambiguity and maintained-card handoff",
+      "kind": "bounded-existing-owner-live-task-audit",
+      "status": "in_progress",
+      "registered_on": "2026-11-02",
+      "base_commit": "7419dc61b7ce586c7d5b5a296079f1e02aac50ab",
+      "exact_paths": [
+        "reviews/age-six-paper-bridge-handoff-audit-2026-11-02.md",
+        "backlog/persona-review-log.md",
+        "backlog/product-learning-ledger.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "Nov2afternoonheartbeat16:59:53.897Z/actual17:00:01Z/12:00:01EST, normal one action. MorningIMP081complete7419dc6/cycle2PASS/production3004c5f Pages41419597400. Freshfetch aligned/clean/no incoming;105GSCvalid/latestNov1/no newNov2. Next namedlocalage6lead outside morning scope. RES115suspended original8dirtypaths preserved/no fourthreview; sprintrestored.",
+      "parent_problem": "Caregiver of six-year-old choosing Paper Bridge from paper/books/car row needs to understand what the car action and comparison actually mean, get material/readiness/adult/stop before handling, then a consistent compact/depth/Back route or explicit different choice/decline. Do not invent a literal driving promise from Try a car.",
+      "hypothesis": "Age6 may still inherit under-specified car start, unmeasured tags and late check while maintained card/guide use stationary large object. Verify new owner's current production/task rather than copying age5 diagnosis; PRESERVE if consistent, otherwise qualify bounded repair.",
+      "acceptance": "Freeze source-derived task/secondary youngerreach-dividedattention/mobile stress; all13 baseline/N-A reasons/criticaloverride and four retainedsource-traced lenses/everysection. Compare live chooser,module,card,guide,age5 control metadata/bytes; four modes1280x900,390x844,r32stress320-390, focusedEnter/emulatedtap/Back/noJS/unmatchedhash, wordfit/guideheader/images/errors/viewedcaptures. Reuse datedNov1source qualification honestly, no repeatedSERP/source audit/newdemand claim. Return PRESERVE/IMPROVE/DEFER with exact separate implementation brief if qualified. No sitebuild/newURL.",
+      "qa_plan": "diffcheck/jq/native312/105GSC/allJSONCSVparse/privacy/localdocrefs and site-links-fragments;227priorroadmapobjects/721outside101site conservation/exact7/empty stage. Fresh different full7 readonly reviewer max3cycles and727plusnewfile/rawindex-nsmetadata freeze, real review not selfapproval. Freshfetch/nodivergence/exactreviewedstage/completeunpushedrange/privacy/docs-onlymainpush/remotebytes/finalalignment. Closeownedbrowser/processes; no Pageswait for docs-only.",
+      "invariants": "Mastersolewriter attachedcheckout. No site/generator/tool/config/assets/data/workflow/scheduler/indexing/spend/product/accounts/tracking edits; all101sitefiles/age5/card-guide/closedhubs/age4/globalrow/CSV preserved. No actualcar-driving assertion, physical-family-safety-educational-time-mess-SEO outcome. OriginalRES115untouched/no fourthreview or exception.",
+      "observation_window": "One normal transaction fromactual2026-11-02T17:00:01Z; alreadytodaylearningdoesnotexcuse secondrun. LatestNov1snapshots notchanged-evidencegate; pilotendsNov3 22:00Z/nominalNov8weeklynoextension.",
+      "reconsider_if": "If production contradicts locallead preserve/defer with measured basis; do not force repair/requalifyclosedowners. Supported repair becomes NEXT separatelyregistered transaction, never silently build insideaudit. Stop divergence/unavailable reviewer/threefailedcycles; keep all tool/browser limitations explicit.",
+      "phase": "awaiting_independent_review",
+      "decision": "IMPROVE existingage6chooser/module through separate DIFFERENT stationarychoice/decline repair; DEFERrunnablecar/REJECTnewURL. Current6byte/fourmode task verifiesnewowner gap; no sourcequalification repeated, no sitefix/after/physical outcome.",
+      "qa_result": "312native/diffcheck/jq/105GSC/110JSON19CSV2212rows/73HTML885site-links100fragments/1043docrefs/228uniqueIDs PASS.227priorobjects/721outsidefiles including101site conserved; exact7/empty stage. Live6HTTP200exactbytes/fourmodes9key1tap10Back-noJS-hash/4viewedPNGs, modulefit/navigation pass but criticalcontrols/identity fail8-26. Browserclosed/no server."
+    },
+    {
       "id": "KAL-IMP-081",
       "title": "Replace age-five ambiguous Paper Bridge start with an explicit different stationary choice",
       "kind": "existing-owner-different-choice-repair",

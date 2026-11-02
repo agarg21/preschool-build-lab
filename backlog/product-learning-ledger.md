@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-11-02 - KAL-RES-118 Age-Six Does Not Remove The Role Gap
+
+- Decision/persona: [age6 audit/brief](../reviews/age-six-paper-bridge-handoff-audit-2026-11-02.md), IMPROVE existing chooser/module via separately registered DIFFERENT stationary choice/decline; DEFER runnablecar/REJECTnewURL. Hypothesized caregiver ofsixyearold withpaper/books/car, youngerreach/dividedattention/mobile stress.
+- Hypothesis/result: older age alone might not resolve an inherited under-specified car role or changed destination. Six live HTTP200 byte matches and fourmode task reproduce ambiguousTryacar,3min-low, latecheck and unannounced stationarycard. All13baseline8/26/noneN-A/criticalFAIL despite9key1emulatedtap10Back/noJS/hash/navigationfit; no after/different-task gain.
+- Sources/classes: Nov1ScienceBuddies/ANU/IowaPBS/AAP retainedlineage SOURCE_BACKED withinlimits, not freshqualification orcarrecipe; KALcontrols/choice EDITORIAL_JUDGMENT; fourlenses/persona RESEARCH_HYPOTHESIS; currentsoftwarebytes/geometry MEASURED. Carfeasibility/ownedfit/comprehension/time-mess/family-learning-safety-SEO UNKNOWN.
+- Lesson/confidence: high measuredowner mismatch/order, moderate proposedrepair. An older label and a working link do not specify the load action or earn an outcome claim. Morningage5repair is a preservedcontrol, not automatic approval to change peers.
+- Next falsification/action: nexteligible separatelyregister boundedage6choice repair with sevenpeer/age5/globalrow/card-guide conservation and predicted3sitemapdatefixtures; do not repeatqualification. Reopencar onlycomplete source/material/role/stop lineage or verifiednewcounterexample, not absenceofGSC/familydata.
+- Measurement boundary: afternoondeepens appliedmorninglesson through newly measuredowner; no newparentquestions/demand/SERP/sourcevisual/physicaltrial/page/sitechange.105GSC/latestNov1/finalOct30/16inspectionobjects identical after correcting initial diagnostic schema assumptions; no indexing gate. Full7native/structured/differentreview/docsrelease pending. RES115suspended separately; oneaction/cutoffNov3 22:00Z.
+
 ## 2026-11-02 - KAL-IMP-081 Different Choice, Not Silent Substitution
 
 - Release/application:3004c5f0d6493c0357a75baa17844dca03bc39db/exactSHA Pages41419597400 SUCCESS09:19:23Z; live09:20:01Z sixHTTP200 reviewedbytes/samefourmodechoice task9key1tap10Back-noJS-hash/5viewedproductioncaptures exactlocal. Full16 independentTesla01a19b86cycle1PASS_WITH_P3/own312; solecountP3 corrected16 in factualcloseout. This completes November2 learning via implemented source/task reconciliation, not an organic/family-effect claim. No delivery blocker; next namedage6owner LOCAL lead needs separate live/task audit, not assumedrepair/repeatedsourcequalification. Factualreceiptcycle2 before docscommit; currentphase supersedes pending notes below.
