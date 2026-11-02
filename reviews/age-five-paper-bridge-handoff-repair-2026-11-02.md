@@ -3,7 +3,10 @@
 Action: KAL-IMP-081. Actual run2026-11-02T08:57:34Z/03:57:34EST;
 normal November2 morning heartbeat, one transaction. Base
 c4ec23ebff370736974811f9f8e1430eef5e49fd in the attached release checkout.
-State: implemented locally; independent review and production release pending.
+State: COMPLETED, production-verified different-choice/decline repair.
+Released3004c5f0d6493c0357a75baa17844dca03bc39db; exact-SHA
+[Pages run41419597400](https://github.com/agarg21/preschool-build-lab/actions/runs/41419597400)
+SUCCESS. Live same-task verification completed09:20:01.359Z.
 
 ## Decision And Scope
 
@@ -144,13 +147,53 @@ Reproduction artifacts outside repo: /tmp/kal-imp081-browser.cjs,
 /tmp/kal-imp081-local-browser.json and five local PNGs; QA helper
 /tmp/kal-imp081-qa.py. Reviewer must use separate prefixes, not overwrite these.
 
-## Release Gate
+## Independent Review And Production Release
 
-Pending different full16 read-only review (max3cycles), raw-index/file-nsmetadata
-conservation, exact reviewed stage/freshfetch/no divergence and push.
-Site delivery requires the exact pushed-SHA Pages run success plus affected
-bytes/canonical/H1/links and SAME four-mode live choice task. No release marker
-exists in the unchanged Pages workflow. Registration/local QA is not delivery.
-Stop divergence/ambiguous regression; one retry only for a clearly transient
-failure. Preserve original RES115 outside this checkout; no fourth review.
-Pilot cutoff remains November3 22:00Z. No second action this heartbeat.
+Independent Codex reviewer Tesla01a19b86-0bf7-7c93-8639-99ed4d3cd713:
+full16 cycle1 PASS_WITH_P3/noP0-P2. Own312/105GSC/full structured/conservation
+checks, pure15PAGESrender equality/globalrow/14peers, four browser modes,
+9keyboard1emulatedtap10Back/noJS/hash/sixHTTP200matches and13 actually viewed
+screenshots. Retained-source/unknown-outcome/everysection/persona22/24 approved;
+no source qualification, family or physical validation invented. Own browser
+closed. All727file hashes/write-relevant nsmetadata, actual rawindexSHA
+e03896835e52be6489d93b952b36923cc06a913bfca7d5426940fa36b030d223,
+HEAD/status/empty stage conserved. SoleP3: qa_plan still said full13 although
+all16 were independently reviewed. Frozen material release kept that minor
+count; this factual closeout corrects it to16, without code/site changes.
+
+Freshfetch no divergence; exact16 staged blobs matched reviewed freeze;
+complete single unpushed range hash
+89a77436aedb1fbc936bfa67f2ca8307dacdcc4de63d18b7785161db56e39af5
+matched staged diff, with whitespace/privacy/scope checks. Push exit0, fresh
+fetch clean0/0. All16 exact-SHA rawGitHub files byte-matched09:19:19.870Z.
+Native Pages deploy job125191682508 completed SUCCESS09:19:23Z for exact
+3004c5f0d6493c0357a75baa17844dca03bc39db. No release marker exists; exact-SHA
+deployment plus affected bytes used. Unchanged workflow emitted Node20/runner
+migration annotations, not a failure or this action's workflow-edit authority.
+
+Production09:20:01.359Z: target35029bytes SHA256
+066bb98e500e66c128da10af9b27f26dadeaa9b6b103688a7a3dab1c8431225e;
+sitemap8321bytes SHA256
+e0b70fd4f6b7cc5a154893f0b515b66f1290439107b18b633c0ba2670346a1d0.
+Both HTTP200/exact reviewed bytes, plus unchanged card4008/guide11574/CSS51918/
+contributorCSS917 bytes. Same four modes/9focusedEnter1emulatedtap10Back/
+noJS/unmatchedhash/wordfit/headers/guideimages/mission-and-before-link checks
+PASS; no sampled same-origin HTTP/page errors. Five production screenshots
+actually viewed and byte-identical to the five reviewed local captures.
+/tmp/kal-imp081-production-browser.json retains raw software observations.
+No retry needed. Browser closed; ownedserverPID65194 command verified,
+TERM/session18385exit143 acknowledged and port8803 empty.
+
+This completes one normal heartbeat transaction and November2 application
+learning. No original-task score gain or family/physical/safety/SEO effect
+claimed. No current release blocker. Original RES115 remains suspended in
+the untouched original checkout; no fourth review/recovery authority.
+Next invocation: fresh clock/cutoff/remote/GSC and unfinished-release checks,
+then separately register age-six at-home PaperBridge owner/task audit of the
+still-inherited car row/late check LOCAL lead, not a presumed production defect
+or another source qualification. Preserve current age5/card/guide/closedhubs.
+Do not start it now or extend November3 22:00Z pilot authority.
+
+These factual annotations and soleP3 correction require read-only cycle2
+verification before their docs-only commit. Record its actual verdict in the
+commit message; no recursive unreviewed receipt edits.

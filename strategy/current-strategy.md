@@ -20,11 +20,12 @@ warnings; extra explanation that hides the start is a counterexample to fix.
 
 The [November1 age-five audit](../reviews/age-five-paper-bridge-handoff-audit-2026-11-01.md)
 completed that named priority and qualified a separate age-five-only
-different-choice/decline repair, now registered as IMP081. Exact "Try a car"
+different-choice/decline repair, released and production-verified as IMP081
+(3004c5f, exact-SHA Pages41419597400). Exact "Try a car"
 is ambiguous, not an explicit driving instruction. The optional stationary
 test must not be presented as the same task. Its
 [implementation receipt](../reviews/age-five-paper-bridge-handoff-repair-2026-11-02.md)
-tracks review and actual production verification; registration is not delivery.
+retains review and actual production verification; registration alone is not delivery.
 Preserve already closed two-hub/finder/indexing decisions absent named new evidence.
 Genuinely qualified new guides still proceed to separate reviewed builds;
 unknown GSC/family outcomes do not block independent eligible work.
