@@ -2,6 +2,8 @@
 
 ## 2026-11-02 - KAL-RES-118 Age-Six Does Not Remove The Role Gap
 
+- Release: learned-only3e15d321f0aaf228057122a94907b1bba4ec7346, full7independentGoodallcycle1PASS_WITH_P3/Master-independent312. All7exactSHA remotebytes17:11:27.236Z/completedpush-freshfetch clean0-0; no site/Pages/currentage6fix or aftergain. SoleP3futurepathshorthand expandedliteral15 in factualcloseout/currentresearchscope7unchanged; cycle2verification before receiptcommit. Nexteligible separateage6choice-decline implementation, not anotherqualification. This is a newowner task learning beyond morningapplication, not GSCrecap; currentreleasefacts supersede pending phase notes below.
+
 - Decision/persona: [age6 audit/brief](../reviews/age-six-paper-bridge-handoff-audit-2026-11-02.md), IMPROVE existing chooser/module via separately registered DIFFERENT stationary choice/decline; DEFER runnablecar/REJECTnewURL. Hypothesized caregiver ofsixyearold withpaper/books/car, youngerreach/dividedattention/mobile stress.
 - Hypothesis/result: older age alone might not resolve an inherited under-specified car role or changed destination. Six live HTTP200 byte matches and fourmode task reproduce ambiguousTryacar,3min-low, latecheck and unannounced stationarycard. All13baseline8/26/noneN-A/criticalFAIL despite9key1emulatedtap10Back/noJS/hash/navigationfit; no after/different-task gain.
 - Sources/classes: Nov1ScienceBuddies/ANU/IowaPBS/AAP retainedlineage SOURCE_BACKED withinlimits, not freshqualification orcarrecipe; KALcontrols/choice EDITORIAL_JUDGMENT; fourlenses/persona RESEARCH_HYPOTHESIS; currentsoftwarebytes/geometry MEASURED. Carfeasibility/ownedfit/comprehension/time-mess/family-learning-safety-SEO UNKNOWN.
