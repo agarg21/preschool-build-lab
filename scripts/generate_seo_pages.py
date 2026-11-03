@@ -1044,6 +1044,19 @@ PAGES = [
         "intro": "Six year olds often want a real challenge, not a baby activity. These picks keep setup simple while adding measuring, comparing, planning, and redesigning.",
         "tip": "For this age, turn each activity into a challenge: make it taller, farther, stronger, slower, or quieter.",
         "activities": ["car-ramp-distance-test", "paper-bridge", "tube-sculpture", "tape-city", "lego-color-tower", "paper-plate-ramp", "magnetic-tile-ideas", "box-garage"],
+        "activity_overrides": {
+            "paper-bridge": {
+                "age_six_bridge_choice": True,
+                "title": "Paper Bridge: different stationary choice or decline",
+                "time": "Not measured",
+                "mess": "Not measured",
+                "help": "Adult sets up and stays",
+                "materials": "Different stationary test, not a car start: one paper sheet, two low closed books, one checked large lightweight block or soft toy. Adult stays; read all checks below before handling, or skip.",
+                "best_for": "Choosing a different stationary-object test, or declining",
+                "steps": [],
+                "parent": "Read the material, readiness and stop checks before handling or opening the card.",
+            },
+        },
         "related": ["games for 6 year olds at home", "educational activities for 6 year olds at home", "homeschool activities for 6 year olds"],
     },
     {
@@ -1931,7 +1944,7 @@ def tape_road_handoff_content():
           <p><a class="small-link" href="../cards/tape-road.html">Optional compact Tape Road card</a></p>'''
 
 
-def age_five_bridge_choice_card():
+def stationary_bridge_choice_card():
     return '''        <article class="seo-activity">
           <h2>Paper Bridge</h2>
           <p><strong>Car start not provided.</strong> The earlier "Try a car" version did not specify a procedure. Choose a DIFFERENT stationary-object test, or decline; it does not supply a car-crossing activity.</p>
@@ -1943,8 +1956,8 @@ def age_five_bridge_choice_card():
 
 
 def activity_card(activity):
-    if activity.get("age_five_bridge_choice"):
-        return age_five_bridge_choice_card()
+    if activity.get("age_five_bridge_choice") or activity.get("age_six_bridge_choice"):
+        return stationary_bridge_choice_card()
     if activity["url"] == "../cards/tape-road.html":
         return f'''        <article class="seo-activity">
           <h2>{esc(activity["title"])}</h2>

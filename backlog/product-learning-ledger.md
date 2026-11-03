@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-11-03 - KAL-IMP-082 Explicit Age-Six Choice
+
+- Decision/persona: apply [RES118 through age6-only repair](../reviews/age-six-paper-bridge-handoff-repair.md), DIFFERENT stationary test or decline, not runnablecar replacement. Hypothesizedsixyearoldcaregiver/paper-books-car/youngerreach-dividedattention/mobile-root32.
+- Hypothesis/result: scoped override/sharedboundedrenderer can expose different-task identity and controls before cardtop without changing age5 or execution owners. Localfourmode7byte/9key1tap10Back/noJS/hash/5viewedcaptures pass; new decision22/24/educationN-A, NOT originaltask8/26 gain.
+- Sources/classes: retainedNov1ScienceBuddies/ANU/IowaPBS/AAP lineage via RES118 SOURCE_BACKED withinlimits, no freshqualification; low-book/large-object/adult-skip controls EDITORIAL_JUDGMENT; persona RESEARCH_HYPOTHESIS; softwarebytes/geometry MEASURED. Family/physical/understanding/time-mess/learning/safety/SEO UNKNOWN.
+- Confidence/lesson: high softwareorder/identity, moderate editorialdecision fit. Reuse the already-reviewed choice text while preserving separate owner flags and exact age5 output; age or a valid link does not qualify a car procedure.
+- Next falsification: reproduced live inconsistency/missingcriticalcue/sourcecontradiction => separately register repair; runnablecar requires complete source/material/role/stop lineage. Do not repeat qualification absent new evidence.
+- Boundary: todaylearning via applied source/task reconciliation, not unchanged GSC housekeeping.106valid/latestNov2/finalOct31/16inspectionobjectsunchanged; overlapping398/4notdailygain. Native316/localonly, full15review/exactSHA Pages/liveverification pending; no newURL/product/spend/sourcevisual/familytrial. RES115suspended/no fourthreview; cutoffNov3 22:00Z unchanged.
+
 ## 2026-11-02 - KAL-RES-118 Age-Six Does Not Remove The Role Gap
 
 - Release: learned-only3e15d321f0aaf228057122a94907b1bba4ec7346, full7independentGoodallcycle1PASS_WITH_P3/Master-independent312. All7exactSHA remotebytes17:11:27.236Z/completedpush-freshfetch clean0-0; no site/Pages/currentage6fix or aftergain. SoleP3futurepathshorthand expandedliteral15 in factualcloseout/currentresearchscope7unchanged; cycle2verification before receiptcommit. Nexteligible separateage6choice-decline implementation, not anotherqualification. This is a newowner task learning beyond morningapplication, not GSCrecap; currentreleasefacts supersede pending phase notes below.

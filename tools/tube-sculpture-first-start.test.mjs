@@ -64,7 +64,7 @@ test("Tube Sculpture routes only to actual owners, keeps finder/inventories and 
   assert.equal((read("cards.html").match(/class="mini-card"/g) || []).length, 36);
   assert.equal((read("sitemap.xml").match(/<loc>/g) || []).length, 65);
   for (const p of ["cards/tube-sculpture.html", "cards.html", ...hubs]) {
-    const date = p === "ages/activities-for-5-year-olds-at-home.html" ? "2026-11-02" : "2026-10-28";
+    const date = p === "ages/activities-for-6-year-olds-at-home.html" ? "2026-11-03" : p === "ages/activities-for-5-year-olds-at-home.html" ? "2026-11-02" : "2026-10-28";
     assert.ok(read("sitemap.xml").includes(p + "</loc>\n    <lastmod>" + date + "</lastmod>"));
   }
 });

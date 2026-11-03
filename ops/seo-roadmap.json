@@ -6,6 +6,48 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-IMP-082",
+      "title": "Replace age-six ambiguous car start with explicit stationary choice or decline",
+      "kind": "existing-owner-different-choice-repair",
+      "status": "in_progress",
+      "registered_on": "2026-11-03",
+      "base_commit": "ae56b33d60a71eec206d23c49ebc7207905d4bd2",
+      "exact_paths": [
+        "scripts/generate_seo_pages.py",
+        "scripts/generate_sitemap.py",
+        "site/ages/activities-for-6-year-olds-at-home.html",
+        "site/sitemap.xml",
+        "tools/age-six-paper-bridge-handoff.test.mjs",
+        "reviews/age-six-paper-bridge-handoff-repair.md",
+        "backlog/persona-review-log.md",
+        "backlog/product-learning-ledger.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md",
+        "tools/lego-color-tower-first-start.test.mjs",
+        "tools/tube-sculpture-first-start.test.mjs",
+        "tools/box-garage-first-start.test.mjs"
+      ],
+      "evidence_class": [
+        "MEASURED",
+        "SOURCE_BACKED",
+        "RESEARCH_HYPOTHESIS",
+        "EDITORIAL_JUDGMENT",
+        "UNKNOWN"
+      ],
+      "evidence": "ApprovedRES118 brief3e15d32/finalb32a8b9/full7Goodallcycle2PASS. Actualrun2026-11-03T09:02:06Z/04:02:06EST/normaloneaction. Cleanff ae56b33onlyNov2snapshotJSONMD;106valid/finalOct31/overlapping398impressions4clicks/16inspectionobjectsidentical11indexed5NEUTRAL0UNKNOWN. No unfinishedrelease/newindexinggate; RES115originalsuspended/no fourthreview.",
+      "parent_problem": "Caregiver ofsixyearold choosingpaper/books/car needs specifiedcarrole OR explicit DIFFERENT checked stationary test/decline, adult/material/readiness/stop beforehandling andcardtop. Youngerreach/dividedattention/mobile-root32 stress; literalTryacar ambiguous/notdrivepromise.",
+      "hypothesis": "Age6-only override and concise choice module can withdraw unspecified car start and disclose stationary alternative/decline before handoff, preserving maintainedinstructions andallpeerbytes.",
+      "acceptance": "Approvedliteral15; age6override/sharedboundedrenderer reuse with age5exactbytes preserved. No localcarsteps/3min-lowmess claims. Materials/adult/readiness/skip/stop/point-watch-end before primarycardtop; guideowns optionalfold-rescue-cleanup; editorial/notfamilytested/unknownoutcomes. Sevenpeerrows-modules/globalrow/CSV/card-guide/age5/closedhubs/all99other sitefiles unchanged; onlyage6HTML+sitemaplastmod. New different-choice all13rubric/everysection, not gainvs old8-26.",
+      "qa_plan": "Threegenerators twice/101sitehash-idempotence/exact2siteoutputs; focusedoverride-dispatch/render/canonical/peerconservation tests. diffcheck/jq/allJSONCSVparse/alllocalrefs-fragments/privacy/native. Desktop1280x900/mobile390x844/root32at390-320/key-emulatedtap-Back/noJS/hash/wordfit/guideheaders-images/errors/viewedcaptures. Freshdifferentfull15review max3/rawindex-file-nsmetadata freeze. Freshfetch/no divergence/exactfrozenstage/completeunpushedrange/privacy/mainpush/exactSHA PagesSUCCESS/no markerifabsent/livebytes+same task; reviewedfactualcloseout/finalalignment/ownedprocesscleanup.",
+      "invariants": "Mastersolewriterattachedcheckout; no CSS/assets/card-guide/globalACTIVITIES/CSV/age5/age4/closedhubs/workflow/config/scheduler/indexing/spend/product/accounts/tracking changes. Sharedhelperrenameallowedonlyforreal2ownerreuse with exactage5output. Threeage6datefixtureupdatesonlytheir targetdate; otherassertionsunchanged. No physical-family-safety-learning-time-mess-SEO outcome or originalcar-taskscoregain; RES115untouched.",
+      "observation_window": "Actual09:02:06Z normaloneaction/completed0, cutoffNov3 22:00Z unchanged. RetainedNov1sourcequalification/Nov2ownerbaseline; no repeat. NominalNov8weeklydoesnotextendpilot.",
+      "reconsider_if": "Stopdivergence/unavailableindependentreviewer/threefailedcycles/ambiguousproductionregression. Registeranydemonstratednewdependencybeforeedit. No forcedcarrecipe, newURL or silenttasksubstitution; one transientretryonly.",
+      "phase": "awaiting_independent_review",
+      "qa_result": "316native/106GSC/111JSON19CSV2212rows/73HTML885links100fragments/1050docrefs229IDs/diffcheck-jq PASS.228priorobjects717outside/99othersiteincludingage5/7peermodules-rows conserved.3generators twice101sitehash-idempotent/exact2siteoutputs/15scope/empty stage. Local7HTTP200bytes/fourmodes9key1tap10Back-noJS-hash/5viewedPNGs/newtask22-24educationNA PASS. Browserclosed/ownedQAserver8804 retained."
+    },
+    {
       "id": "KAL-RES-118",
       "title": "Audit age-six Paper Bridge car ambiguity and maintained-card handoff",
       "kind": "bounded-existing-owner-live-task-audit",
