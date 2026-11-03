@@ -1,5 +1,19 @@
 # Persona Review Log
 
+## 2026-11-03 - RES119 Observation Is Not Every Walking Goal
+
+[Decision packet](../seo/open-ended-observation-question-discovery-2026-11-03.md):
+DEFER newguide/card, PRESERVE owners. Four opened caregiver questions: two
+focus-age outing/journal-advice inputs, two below-three contrasts; date conflicts
+retained, no demand or outcome inference. Hypothesized4-5 caregiver must choose
+child-led noticing, bounded place/adult role, spoken/pointed first observation,
+no-answer/decline and end/return; stamina/predictable-return stress from Q1,
+optional recording from Q2. Four source-traced lenses/every actual research
+section/all13 desk8/24, mobile N/A/no proposed UI; critical controls and full
+task unresolved. No before/after, current browser, family or physical trial.
+Three opened primary bodies already cover generic noticing/conversation/optional
+recording. Full7 QA/different independent review/docs-only release pending.
+
 ## 2026-11-03 - IMP082 Age-Six Different Choice
 
 Deliveredfb50d6651ed9d5e4a1f6128d9ca597b74622dbf5/exactSHA Pages41608993285SUCCESS. Live09:16:52Z 7reviewedbytes/SAMEfourmodechoice task9key1tap10Back-noJS-hash/controls-before-card/5viewedPNGs exactlocal; freshfull15Volta01a1a0a9cycle1PASS/noP0-P3/own316/5ownPNGs+guidearrival. No originaltaskgain or parent/physical result; factualcloseoutcycle2before docscommit, no sourcequalification repeat.

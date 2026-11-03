@@ -1,5 +1,14 @@
 # Product Learning Ledger
 
+## 2026-11-03 - KAL-RES-119 Separate The Walking Goal
+
+- Decision/persona: [bounded discovery](../seo/open-ended-observation-question-discovery-2026-11-03.md), DEFER observation guide/card/PRESERVE owners. Hypothesized4-5 caregiver choosing child-led noticing without checklist/written record; predictable return/stamina stress, not an actual family.
+- Hypothesis/result: a different mechanism might name a distinct unmet job. Four current-access public questions instead split into two focus-age outing/general-journal requests and two under-three engagement/adult-walk contrasts; no exact demand or missing output established. Three opened primary bodies already supply generic noticing, conversation and optional recording. No new guide qualified or site changed.
+- Sources/classes: Q1-4 public bodies and Raising Children Network/Illinois/Learning in Places HTML SOURCE_BACKED descriptions within limits; persona RESEARCH_HYPOTHESIS, defer/8-24 desk coverage EDITORIAL_JUDGMENT, demand/outcomes UNKNOWN. Search versus relative-body date conflicts preserved; no fresh PDF/visual/browser/family test or complete SERP qualification.
+- Confidence/lesson: moderate bounded defer/high generic-output coverage/low prevalence. Do not combine an adult walking goal, venue selection and journaling advice into a recipe's demand, or count a different activity as the original goal's success.
+- Next falsification: named current focus-age missing decision plus material exact-job demand, then separate full mechanism/control qualification. No cadence repeat, presumed build or resumed hunt/map qualification.
+- Measurement boundary: all13 desk8/24/mobile N/A/no interface, critical publication FAIL, no comparable before/after. GSC106/latestNov2 unchanged since morning is housekeeping, not this afternoon's learning. Full7 QA/independent review/docs release pending; pilot cutoffNov3 22:00Z unchanged/no extension; original RES115 suspended.
+
 ## 2026-11-03 - KAL-IMP-082 Explicit Age-Six Choice
 
 - Release/application:fb50d6651ed9d5e4a1f6128d9ca597b74622dbf5/exactSHA Pages41608993285 SUCCESS09:16:30Z; live09:16:52Z sevenHTTP200reviewedfiles/SAME4modes9key1tap10Back-noJS-hash/5viewedPNGs byte-identical local. Full15freshVolta01a1a0a9cycle1PASS/noP0-P3/own316, all15rawGitHubbytes/freshclean0-0. Queuewaitresolvedwithoutretry; no family/physical/SEO outcome or old8/26 gain. This completes Nov3 learning via implemented source/task reconciliation; factualreceiptcycle2before docscommit. Nexteligiblebefore22Z boundedExplorequestion discovery excludingclosedhunt/map/currentowners, no guidepresumed; at-aftercutoffENDED/noextension. Currentreleasefacts supersede pendingphase notes below.

@@ -6,6 +6,37 @@
   "planning_horizon_days": 28,
   "items": [
     {
+      "id": "KAL-RES-119",
+      "title": "Discover whether open-ended observation questions name an unowned parent job",
+      "kind": "bounded-public-caregiver-question-discovery",
+      "status": "in_progress",
+      "registered_on": "2026-11-03",
+      "base_commit": "1a63be357e16935e3bfe35548e6de36e245653a4",
+      "exact_paths": [
+        "seo/open-ended-observation-question-discovery-2026-11-03.md",
+        "backlog/persona-review-log.md",
+        "backlog/product-learning-ledger.md",
+        "ops/current-cycle.md",
+        "ops/operator-review.md",
+        "ops/seo-roadmap.json",
+        "ops/seo-roadmap.md"
+      ],
+      "evidence_class": ["SOURCE_BACKED", "RESEARCH_HYPOTHESIS", "EDITORIAL_JUDGMENT", "UNKNOWN"],
+      "evidence": "November3 afternoon heartbeat17:01:29.786Z; actual17:01:33Z/12:01:33EST. IMP082 complete with reviewed receipt1a63be3; clean checkout/freshfetch no incoming. Prior checkpoint names this still-unexecuted discovery, not repeated bridge/hunt/map qualification. Latest GSC comparison pending, no changed evidence assumed.",
+      "parent_problem": "Test whether caregivers of ages3-6 need help starting open-ended observation without collection/checklist tasks, and whether any current question names a distinct unresolved decision beyond maintained owners.",
+      "hypothesis": "Three to five current public caregiver questions may identify a specific observation constraint not already owned; duplicate, older-child-only or generic outdoor requests should instead preserve owners and defer publication.",
+      "acceptance": "Read RES048/062 and current owner inventory first; inspect3-5 current public caregiver questions, retaining only URL/access-date/paraphrased decision/child abilities-constraints/required answer. Separate anecdotes from demand, direct evidence from inference and snippets from accessible bodies. Define source-grounded persona/secondary stress/observable task, all13 applicable rubric with N-A reasons and critical override, four lenses/every-section review. Return preserve/defer/reject or a named next qualification gate, not an assumed guide or new source-qualified recipe.",
+      "qa_plan": "git diff --check/jq/native tools tests; parse changed JSON/CSV and all structured sources, validate GSC/local links-fragments/document refs/privacy/exact7/prior roadmap objects/outside-file conservation. Different independent read-only full7 review max3cycles; freshfetch/no divergence/exact reviewed stage/complete unpushed range/privacy/docs-only main push/exact remote bytes/final alignment. No Pages wait for docs-only scope.",
+      "invariants": "Master sole writer in attached release checkout. All site/scripts/tools/data/workflows/config/strategy/scheduler unchanged; no accounts/indexing/outreach/spend/tracking/products or family/physical/safety/education/SEO outcome claims. Closed hunt/map/bridge jobs not reopened absent named new signal. Original RES115 untouched/suspended/no fourthreview.",
+      "observation_window": "One normal action from immutable2026-11-03T17:01:33Z; global cutoff22:00Z. Morning learning does not excuse eligible afternoon discovery; nominal November8 weekly date grants no extension.",
+      "reconsider_if": "Stop or checkpoint on cutoff/divergence/unavailable independent reviewer/three failed cycles. If current relevant public bodies cannot be inspected, report exact source limitation and bounded defer rather than invent questions/demand. Any future qualification/build is separately registered and requires remaining authority, not silent scope expansion.",
+      "phase": "qa_green_awaiting_independent_review",
+      "artifact": "seo/open-ended-observation-question-discovery-2026-11-03.md",
+      "decision": "DEFER observation guide/card; PRESERVE owners. Four question bodies: two focus-age adjacent outing/journal advice, two under-three engagement/adultwalk contrasts. Three primary answer bodies already supply generic noticing/talk/optionalrecording. No exact demand/missing output/full lineage or build qualified; desk8/24/mobile N-A/critical publication FAIL, not before-after or family result.",
+      "next_action": "Different independent full7 frozen review, exact reviewed docs-only release/alignment. No second action this normal heartbeat. Future candidate reopening requires named focus-age missing decision AND material demand; at-afterNov3 22Z ENDED/no projectwork/no extension.",
+      "qa_result": "Master316native/GSC106/111JSON19CSV2212rows/73HTML885links100fragments/1059initialdocrefs230IDs/exact7/229priorobjects726outsidefiles/all101site conserved/diffcheck-jq-privacy PASS. Temporary helper regex false-positive edu/ URL corrected before freeze/rerunPASS, not content defect. No generators/browser/PDF/visual/family test."
+    },
+    {
       "id": "KAL-IMP-082",
       "title": "Replace age-six ambiguous car start with explicit stationary choice or decline",
       "kind": "existing-owner-different-choice-repair",
