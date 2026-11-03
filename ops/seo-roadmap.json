@@ -9,7 +9,7 @@
       "id": "KAL-IMP-082",
       "title": "Replace age-six ambiguous car start with explicit stationary choice or decline",
       "kind": "existing-owner-different-choice-repair",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-11-03",
       "base_commit": "ae56b33d60a71eec206d23c49ebc7207905d4bd2",
       "exact_paths": [
@@ -44,8 +44,12 @@
       "invariants": "Mastersolewriterattachedcheckout; no CSS/assets/card-guide/globalACTIVITIES/CSV/age5/age4/closedhubs/workflow/config/scheduler/indexing/spend/product/accounts/tracking changes. Sharedhelperrenameallowedonlyforreal2ownerreuse with exactage5output. Threeage6datefixtureupdatesonlytheir targetdate; otherassertionsunchanged. No physical-family-safety-learning-time-mess-SEO outcome or originalcar-taskscoregain; RES115untouched.",
       "observation_window": "Actual09:02:06Z normaloneaction/completed0, cutoffNov3 22:00Z unchanged. RetainedNov1sourcequalification/Nov2ownerbaseline; no repeat. NominalNov8weeklydoesnotextendpilot.",
       "reconsider_if": "Stopdivergence/unavailableindependentreviewer/threefailedcycles/ambiguousproductionregression. Registeranydemonstratednewdependencybeforeedit. No forcedcarrecipe, newURL or silenttasksubstitution; one transientretryonly.",
-      "phase": "awaiting_independent_review",
-      "qa_result": "316native/106GSC/111JSON19CSV2212rows/73HTML885links100fragments/1050docrefs229IDs/diffcheck-jq PASS.228priorobjects717outside/99othersiteincludingage5/7peermodules-rows conserved.3generators twice101sitehash-idempotent/exact2siteoutputs/15scope/empty stage. Local7HTTP200bytes/fourmodes9key1tap10Back-noJS-hash/5viewedPNGs/newtask22-24educationNA PASS. Browserclosed/ownedQAserver8804 retained."
+      "phase": "released_production_verified",
+      "decision": "DELIVEREDage6-onlyexplicitstationarychoice/decline, ambiguouscarstart withdrawn; no silentcar-to-blocksubstitution/originaltaskscoregain/newURL or physicaloutcome.",
+      "independent_review": "FreshVolta01a1a0a9 full15cycle1PASS/noP0-P3; own316/GSC106/structured/pure15render/globalrow-CSV-age5-99site-7peers conservation/7bytes-fourmodes9key1tap10Back-noJS-hash/5viewedPNGs+guidearrival;732files-nsmetadata/rawindex conserved. Factualcloseout cycle2 before receiptcommit/actualverdict in message.",
+      "release": "fb50d6651ed9d5e4a1f6128d9ca597b74622dbf5; exactSHA Pages41608993285/job125825847134SUCCESS/completed09:16:30Z. Live09:16:52.184Z 7HTTP200reviewedbytes/SAME4modes9key1tap10Back-noJS-hash/control-fit-guideheaders-images PASS/5viewedproductionPNGs byte-identical local. No marker, exactSHA+bytes; no retry/queuewaitnotfailure. All15rawGitHubbytes09:11:33.622Z/pushcompleted-freshfetch clean0-0/frozenstage-completeoneunpushedrange4f0617868fdb075d6f2a832b2849e5ddd8bcbfa53047c233d341356174c5f498/privacy-no divergence PASS.",
+      "next_action": "Nextinvocation BEFORENov3 22:00Z: freshcutoff/remote/GSC/verifieddefect-unfinishedrelease gates; otherwise separatelyregister boundedExplore-Discover questiondiscovery3-5currentcaregiverquestions onopen-endedobservationwithoutscavengerchecklists, compareclosedRES048naturehunt/RES062treasuremap/currentowners first; no presumedguide/repeatedqualification. At-after22Z ENDED/noprojectwork/noautomationextension. Sameactual09:02:06Z/completed1/no secondaction; RES115suspended/no fourthreview.",
+      "qa_result": "316native/106GSC/111JSON19CSV2212rows/73HTML885links100fragments/1050initial-1053factualdocrefs229IDs/diffcheck-jq PASS.228priorobjects717outside/99othersiteincludingage5/7peermodules-rows conserved.3generators twice101sitehash-idempotent/exact2siteoutputs/15scope/empty stage. Local7HTTP200bytes/fourmodes9key1tap10Back-noJS-hash/5viewedPNGs/newtask22-24educationNA PASS. Production same task/bytes09:16:52Z PASS; browserclosed/server8874TERM-session73593exit143-port8804empty."
     },
     {
       "id": "KAL-RES-118",

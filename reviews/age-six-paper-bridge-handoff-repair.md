@@ -2,7 +2,10 @@
 
 KAL-IMP-082, November3,2026; actual09:02:06Z/04:02:06EST,
 baseae56b33d60a71eec206d23c49ebc7207905d4bd2. Exact15 registered BEFORE edits,
-including three known age6 sitemap-date fixtures. State: LOCAL QA, not delivered.
+including three known age6 sitemap-date fixtures. State: COMPLETED,
+production-verified. Releasedfb50d6651ed9d5e4a1f6128d9ca597b74622dbf5;
+[exact-SHA Pages41608993285](https://github.com/agarg21/preschool-build-lab/actions/runs/41608993285)
+SUCCESS, live same-task verification09:16:52.184Z.
 
 ## Decision And Evidence
 
@@ -117,7 +120,7 @@ Raw helper/result /tmp/kal-imp082-browser.cjs and
 /tmp/kal-imp082-local-browser.json; five kal-imp082-local PNGs.
 Reproduction/scope helper /tmp/kal-imp082-qa.py. Reviewer uses own temp prefix.
 
-## Sensing And Release Gate
+## Sensing And Release Evidence
 
 Clean ff-only incomingae56b33 added only Nov2 GSC JSON/MD;106validate. Final
 throughOct31, rollingOct4-31 398impressions/4clicks vs prior405/3; overlapping
@@ -125,13 +128,58 @@ windows are not daily gain/loss or causality. All16 inspection objects unchanged
 11indexed/fiveNEUTRAL-URLunknown/zeroUNKNOWNverdict. Target retained page/query
 evidence missing, not zero demand. No indexing request/new GSC gate.
 
-Pending fresh different full15 read-only review/max3cycles with real rawindex
-and repo-file nsmetadata conservation; exact frozen stage/fullunpushedrange/
-privacy/freshfetch-no divergence/main push. Site delivery needs exact pushed-SHA
-Pages success plus affected bytes/canonical/H1/links and SAME live task. No
-release marker exists in unchanged workflow; use exact-SHA deploy+bytes. One
-clearly transient retry only. No delivery claim from local QA or activation.
+Fresh independent Codex reviewer Volta01a1a0a9-e6ab-7a50-9d76-c96a1e792060:
+full15 cycle1PASS/noP0-P3. Own316/106GSC/structured/privacy/pure15SEO-render
+equality/globalrow-CSV/age5/99othersite/7peermodules-rows PASS. Own7byte/
+fourmodes9key1emulatedtap10Back/noJS-hash/control-before-card/wordfit/table/
+guidearrival-images/errors and five own viewed PNGs plus supplemental guide
+arrival capture PASS. Newdecision22/24/educationN-A/everysection supported,
+no originaltaskgain or newsource/physical qualification. Own browser/helper
+closed. All732file hashes/write-relevantnsmetadata, actualrawindexSHA
+fe83c99995495ce77a073630d9acc6ec81383611c39f3eb4e10e2888a3728dab,
+HEAD/status/empty stage conserved.
 
-One normal action fromactual09:02:06Z; no second action or pilot extension.
+Freshfetch no divergence; exact frozen15 staged blobs match review. Complete
+single unpushed rangeSHA256
+4f0617868fdb075d6f2a832b2849e5ddd8bcbfa53047c233d341356174c5f498
+equals staged diff, whitespace/privacy/scope PASS. Material push exit0;
+freshfetch clean0/0; all15exact-SHA rawGitHub files matched09:11:33.622Z.
+
+Native Pages41608993285/job125825847134 for exact
+fb50d6651ed9d5e4a1f6128d9ca597b74622dbf5 SUCCESS, jobstarted09:16:05Z/
+completed09:16:30Z (runupdated09:16:31Z). Earlier queued runner had no failure;
+waited for SAME run, no retry/rerun. No release marker in unchangedworkflow;
+exact-SHA deployment plus affected bytes verified instead.
+
+Production09:16:52.184Z: sevenHTTP200 exact reviewedfiles, target35162bytes
+SHA25639958ab9255f689834852ed4ea71313b8d25c06b4813adbe92a748c69aba1efa,
+sitemap8321bytes
+SHA25624fc1943a86ae245fd91b929437471bff9a32ed196fe98d02c3cbe5140fb020c.
+Card4008/guide11574/CSS51918/contributorCSS917/age5control35029 unchanged.
+SAME fourmodes9focusedEnter1emulatedtap10Back/noJS-hash/canonicalH1/control/
+wordfit/boundedtable/guideheader-images PASS, sampledHTTP/pageerrors empty.
+Five production PNGs actually viewed and byte-identical to reviewedlocal.
+Raw /tmp/kal-imp082-production-browser.json. No transientretry needed.
+Browserclosed; ownedserverPID8874 commandverified TERM/session73593exit143
+acknowledged, port8804empty. Watcher83731 completedexit0.
+
+This completes one normal transaction and November3 application learning,
+not an originalcar-task scoregain or a family/physical/SEO result. No current
+deliveryblocker. Next invocation, before22:00Z only: freshcutoff/remote/GSC/
+verifieddefect-unfinishedrelease gates; absent those, separately register one
+bounded Explore/Discover question-discovery unit:3-5current public caregiver
+questions about open-ended observation without a scavenger checklist, first
+compare closed RES048naturehunt/RES062treasuremap and existing owners.
+No demand/guide presumed, no closed qualification replay; do not start it here.
+At/after22:00Z report ENDED/no projectwork, no automation change or extension.
+
+Factual closeout QA rerun316native/structured/conservation/diffcheck-jq PASS;
+document references now1053 after three receipt links, other counts unchanged.
+
+Factual release annotations require read-only cycle2 verification before their
+docs-only commit; actual verdict recorded in commitmessage, no recursive
+unreviewed notes. Site/source/tests unchanged after reviewedmaterialrelease.
+
+One normal action completed fromactual09:02:06Z; no second action or pilot extension.
 CutoffNov3 22:00Z; RES115 remains suspended in untouched original checkout,
 no fourth review/recovery authority. No current external blocker established.
