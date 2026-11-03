@@ -9,7 +9,7 @@
       "id": "KAL-RES-119",
       "title": "Discover whether open-ended observation questions name an unowned parent job",
       "kind": "bounded-public-caregiver-question-discovery",
-      "status": "in_progress",
+      "status": "completed",
       "registered_on": "2026-11-03",
       "base_commit": "1a63be357e16935e3bfe35548e6de36e245653a4",
       "exact_paths": [
@@ -30,10 +30,12 @@
       "invariants": "Master sole writer in attached release checkout. All site/scripts/tools/data/workflows/config/strategy/scheduler unchanged; no accounts/indexing/outreach/spend/tracking/products or family/physical/safety/education/SEO outcome claims. Closed hunt/map/bridge jobs not reopened absent named new signal. Original RES115 untouched/suspended/no fourthreview.",
       "observation_window": "One normal action from immutable2026-11-03T17:01:33Z; global cutoff22:00Z. Morning learning does not excuse eligible afternoon discovery; nominal November8 weekly date grants no extension.",
       "reconsider_if": "Stop or checkpoint on cutoff/divergence/unavailable independent reviewer/three failed cycles. If current relevant public bodies cannot be inspected, report exact source limitation and bounded defer rather than invent questions/demand. Any future qualification/build is separately registered and requires remaining authority, not silent scope expansion.",
-      "phase": "qa_green_awaiting_independent_review",
+      "phase": "released_research_only",
       "artifact": "seo/open-ended-observation-question-discovery-2026-11-03.md",
       "decision": "DEFER observation guide/card; PRESERVE owners. Four question bodies: two focus-age adjacent outing/journal advice, two under-three engagement/adultwalk contrasts. Three primary answer bodies already supply generic noticing/talk/optionalrecording. No exact demand/missing output/full lineage or build qualified; desk8/24/mobile N-A/critical publication FAIL, not before-after or family result.",
-      "next_action": "Different independent full7 frozen review, exact reviewed docs-only release/alignment. No second action this normal heartbeat. Future candidate reopening requires named focus-age missing decision AND material demand; at-afterNov3 22Z ENDED/no projectwork/no extension.",
+      "next_action": "Finish reviewed factual7receipt/push/alignment and return/completed1/no secondaction/sameactual17:01:33Z. Laterinvocation onlyBEFORENov3 22Z: freshcutoff/remote/GSC/verifieddefect-unfinishedrelease gates. This candidate remainsDEFER absent named focus-age missing decision AND material demand; no discoveryrepeat bycadence. At-after22Z ENDED/no projectwork/schedulerextension. OriginalRES115untouched/suspended/no fourthreview.",
+      "independent_review": "FreshdifferentBeauvoir01a1a262-78d4-7582-9ca1-dd1452d65bdc full7cycle1PASS/noP0-P3/own4question3primary bodies/316nativeGSC106/structuredprivacy/fourlenses-everyblock-all13desk8-24mobileNA.733file bytes-nsmetadata/rawindex conserved; no repoedits/generators/release/account-scheduler; temporarytabclosed. Factual7cycle2reviewbefore receiptcommit/actualverdict in message.",
+      "release": "6b9891ed5c92bc695e0c7b94b6ee887f7b86fff8; all7exactSHArawGitHubbytes17:12:24.354Z/push exit0/completedfreshfetchclean0-0. Exactfrozenstage/fullsingleunpushedrange398aa5fe68e8d655d3f229b1a37cdc3e63c00fbaac0e85414705ba8b844b4395/privacy-whitespace-no divergence PASS. Docs-only/no site/Pages/browser/familyphysicalSEO result. Factualcloseout reviewed before docsreceipt; no ownedprocess/server.",
       "qa_result": "Master316native/GSC106/111JSON19CSV2212rows/73HTML885links100fragments/1059initialdocrefs230IDs/exact7/229priorobjects726outsidefiles/all101site conserved/diffcheck-jq-privacy PASS. Temporary helper regex false-positive edu/ URL corrected before freeze/rerunPASS, not content defect. No generators/browser/PDF/visual/family test."
     },
     {
